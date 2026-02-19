@@ -1,18 +1,34 @@
 {
-  "description": "Alle Songs f\u00fcr die Kinder-Karnevalsparty! ",
-  "num_followers": 58418,
-  "original_name": "Familienzeit: Karneval",
+  "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
+  "num_followers": 58428,
+  "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfO/WjZVwnwY5mWuPyNkmrQ68GC",
+  "snapshot_id": "AAAAADlLwNJ8/hzA127vIGlWzrWNHwuJ",
   "tracks": [
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Konfetti",
-        "url": "https://open.spotify.com/album/2SPBFhvp3BPG0Rv4kSDDxn"
+        "name": "Alle Monate",
+        "url": "https://open.spotify.com/album/7xHBsmwraHwKPxDWxD4IT2"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Alle Monate",
+      "url": "https://open.spotify.com/track/6TLbNxLrYcgd3k0NDLkqPp"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Feliz na wie geht's",
+        "url": "https://open.spotify.com/album/1L0Ze9NOsgxd6UXttCQaoo"
       },
       "artists": [
         {
@@ -20,123 +36,63 @@
           "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
         },
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/2XhQfTSgGspFiJD4ye45fx"
         }
       ],
-      "duration_ms": 144064,
-      "name": "Konfetti",
-      "url": "https://open.spotify.com/track/1EtvAyiFH1aS4gdDcA7OpS"
+      "duration_ms": 213774,
+      "name": "Feliz na wie geht's",
+      "url": "https://open.spotify.com/track/6aYP4p7LWhlDTGLq2BIfvO"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Kinder Karneval 2020 (Kinderkarneval und Kinderfasching Hits f\u00fcr jecke Kids)",
-        "url": "https://open.spotify.com/album/2cpqqhnpT6ObVyIK4qcdGE"
+        "name": "Mufasa: Der K\u00f6nig der L\u00f6wen (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/4Wawsr2fSXYOkEKRbNOEGL"
       },
       "artists": [
         {
-          "name": "DJ K\u00f6lle",
-          "url": "https://open.spotify.com/artist/3vaOusswAAHbVgwqTjTU2s"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Cowboy & Indianer",
-      "url": "https://open.spotify.com/track/74zbURg03EAQvfkgYsAEWi"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "KiKA Tanzalarm! Das Beste von Volker Rosin",
-        "url": "https://open.spotify.com/album/1UMCJ3Ds6rMeRLvEJwWw2H"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Komm, lass uns tanzen (KiKA Tanzalarm)",
-      "url": "https://open.spotify.com/track/01qCpWVyn4OOQhLzZmJ5A7"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "King of Kidsclub",
-        "url": "https://open.spotify.com/album/32LZiU0VteLltjIiTNjvUn"
-      },
-      "artists": [
-        {
-          "name": "Markus Becker",
-          "url": "https://open.spotify.com/artist/4JvTPg21oy9Ybu8ISOSWG3"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Piratentanz",
-      "url": "https://open.spotify.com/track/0CUnIeTJ1rQYqxHfFQ1bdf"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Polon\u00e4se Blankenese",
-        "url": "https://open.spotify.com/album/7v5205aQ62GuntgqDU0rSH"
-      },
-      "artists": [
-        {
-          "name": "Gottlieb Wendehals",
-          "url": "https://open.spotify.com/artist/3qO6qjyrBbPFCtHC1NAtnL"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "Polon\u00e4se Blankenese",
-      "url": "https://open.spotify.com/track/68XLpAcKb8FFrQZluAqZrj"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die 30 besten Partylieder f\u00fcr Kinder",
-        "url": "https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Toni Wegewitz",
+          "url": "https://open.spotify.com/artist/2zDyzsNkFqamk0McVKRtJa"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+          "name": "Bryan Abubakari",
+          "url": "https://open.spotify.com/artist/79hc1hCa6Wiz3GqrthyFmN"
         },
         {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Arne Stephan",
+          "url": "https://open.spotify.com/artist/1ZSevBWR9DEYulD7E3GpHE"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Ententanz (Dance Little Bird)",
-      "url": "https://open.spotify.com/track/6zHr40EcGxX2nWKG0Z6dkk"
+      "duration_ms": 214506,
+      "name": "Ich wollte immer einen Bruder",
+      "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Tanz mit mir! Seine sch\u00f6nsten Hits",
-        "url": "https://open.spotify.com/album/0lesbmpNRlFOXagwE2HOin"
+        "name": "Das bist du",
+        "url": "https://open.spotify.com/album/3OuQSOwCSOnScbkeTFLgTt"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
         }
       ],
-      "duration_ms": 162613,
-      "name": "Hey, Pippi Langstrumpf",
-      "url": "https://open.spotify.com/track/5Xh28BwAOqDEL8VHWY3THk"
+      "duration_ms": 152120,
+      "name": "Das bist du",
+      "url": "https://open.spotify.com/track/5Q2qa9EyvKqGkHHOTwn1KI"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Tanz- und Partylieder",
-        "url": "https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R"
+        "name": "Schnupfennase",
+        "url": "https://open.spotify.com/album/4ZM9rOwNk2fwO7pY3OHqU5"
       },
       "artists": [
         {
@@ -144,407 +100,39 @@
           "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 142165,
-      "name": "Das Stopptanz Lied",
-      "url": "https://open.spotify.com/track/2VLjKFmoIcfRHSviWzVBqo"
+      "duration_ms": 99200,
+      "name": "Schnupfennase",
+      "url": "https://open.spotify.com/track/1XdPvu4zQI5oVm8aN1TWKn"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Wie soll ich mich verkleiden?",
-        "url": "https://open.spotify.com/album/2nwaLWb7waJnrcKn0cjTjC"
+        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Wie soll ich mich verkleiden?",
-      "url": "https://open.spotify.com/track/4zlqg6wIhmMgryphYvnw8N"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die Klaus & Klaus Box",
-        "url": "https://open.spotify.com/album/6Jzqb5X9LeaEh1X3bG3IKz"
-      },
-      "artists": [
-        {
-          "name": "Klaus & Klaus",
-          "url": "https://open.spotify.com/artist/24islXXqJ3A4A3C2hArZjL"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Da steht ein Pferd auf'm Flur",
-      "url": "https://open.spotify.com/track/0csOGhpVjdsYaZQtanBrjR"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die 30 besten Partylieder f\u00fcr Kinder",
-        "url": "https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Valeska Gerhart",
+          "url": "https://open.spotify.com/artist/53nxqlgr2w5vYE4n0v5Z59"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+          "name": "Magdalena Haier",
+          "url": "https://open.spotify.com/artist/0IxXVC6o9wfMF0mEdjJOrv"
         },
         {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Pia Allgaier",
+          "url": "https://open.spotify.com/artist/72mHHRrqbN20uxmb99iDJW"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Das singende K\u00e4nguru",
-      "url": "https://open.spotify.com/track/5OlmZ9ZHOUREPYqa81fZFo"
+      "duration_ms": 207093,
+      "name": "Willst du einen Schneemann bauen?",
+      "url": "https://open.spotify.com/track/5xkRXWqt8MAXh6wlhE3ODp"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Et jitt Kasalla!",
-        "url": "https://open.spotify.com/album/6ELPZEfODg2DUvvgMPdvk6"
-      },
-      "artists": [
-        {
-          "name": "Kasalla",
-          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Pirate",
-      "url": "https://open.spotify.com/track/5e5C8eGXasN7JZApzBfopQ"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Kinder Karneval",
-        "url": "https://open.spotify.com/album/2b33kU0tBf8pCv7GVHHqrJ"
-      },
-      "artists": [
-        {
-          "name": "Kinderkarneval",
-          "url": "https://open.spotify.com/artist/2KAX6x7Yqsn5LNMkmovWqa"
-        }
-      ],
-      "duration_ms": 129022,
-      "name": "Schnappi (Das kleine Krokodil)",
-      "url": "https://open.spotify.com/track/281bPzlWT21ySVLyE9bkSt"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Best of Karnevals- und Faschingslieder",
-        "url": "https://open.spotify.com/album/2TKyyVx8Aw0emzwANQ8QTv"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 119230,
-      "name": "Konfetti & Girlanden",
-      "url": "https://open.spotify.com/track/7tqH6q3zVHQVVy8UUdRGpi"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Mama Laudaaa Kidsversion",
-        "url": "https://open.spotify.com/album/30ZxAZMNlUxPLpYfjmxJoB"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa Kidsversion",
-      "url": "https://open.spotify.com/track/1nVvvFX4vHuAflVDVnlngP"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
-      },
-      "artists": [
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Meine Oma f\u00e4hrt im H\u00fchnerstall Motorrad",
-      "url": "https://open.spotify.com/track/1YCR07ENpWwP2KTkTtkh7b"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Na ja hier",
-        "url": "https://open.spotify.com/album/46lcermXoMDRJUwUp7DlSy"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 172046,
-      "name": "Na ja hier",
-      "url": "https://open.spotify.com/track/7wMAqMvur9U3tu8ehXFTBx"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Mach mal lauter",
-        "url": "https://open.spotify.com/album/3dVI95CGzli7WJRKi0I8wp"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Partyb\u00e4r",
-      "url": "https://open.spotify.com/track/42CqOm6Zjj9VycO66Xgzrx"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Kinderlieder f\u00fcr Karneval und Fasching - EP",
-        "url": "https://open.spotify.com/album/3I7arjO3aIZ8rwLdLJChzF"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 100615,
-      "name": "Das rote Pferd",
-      "url": "https://open.spotify.com/track/1t5E8PFRGX9XJGsRWBVOEd"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Eine gro\u00dfe \u00dcberraschung",
-        "url": "https://open.spotify.com/album/3lPm282nugWE43ZE1oTlky"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Honigkuchenshake",
-      "url": "https://open.spotify.com/track/31rxiWJ9rmVbypJ5zShiEr"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die 30 besten Faschings- und Karnevalslieder",
-        "url": "https://open.spotify.com/album/6QeKLlbz9P1C0ZKQeKOl0u"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Wenn der Elefant in die Disco geht",
-      "url": "https://open.spotify.com/track/5ubQRjFHOJXJmvSXScfrrd"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Kinder Karneval",
-        "url": "https://open.spotify.com/album/2b33kU0tBf8pCv7GVHHqrJ"
-      },
-      "artists": [
-        {
-          "name": "Kinderkarneval",
-          "url": "https://open.spotify.com/artist/2KAX6x7Yqsn5LNMkmovWqa"
-        }
-      ],
-      "duration_ms": 224860,
-      "name": "Mer losse d'r Dom in K\u00f6lle (Kids Mix)",
-      "url": "https://open.spotify.com/track/4VSSsgmFpPTyxWAS9e4qpb"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Best of Kinderkarneval 2019",
-        "url": "https://open.spotify.com/album/4FNGH77dSfZzyYEm4GtCs2"
-      },
-      "artists": [
-        {
-          "name": "Jux Fidelio",
-          "url": "https://open.spotify.com/artist/2RNZaxGeLTxKGj8kljSCMw"
-        }
-      ],
-      "duration_ms": 182565,
-      "name": "Viva Colonia",
-      "url": "https://open.spotify.com/track/2ctACGiUevfnru826yxFkV"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Tanz- und Partylieder",
-        "url": "https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 136530,
-      "name": "Komm, wir verkleiden uns!",
-      "url": "https://open.spotify.com/track/2DtaFauXmbEwbH6TbXFvnd"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Wir feiern!",
-        "url": "https://open.spotify.com/album/0eWn7bXwRvdoPnrbVYXH79"
-      },
-      "artists": [
-        {
-          "name": "Die Lollipops",
-          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Wir woll'n Spa\u00df",
-      "url": "https://open.spotify.com/track/72wc04t09CcBNqQVx9u90a"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Schlossfest",
-        "url": "https://open.spotify.com/album/3714vW4DSk5MjfDAH7ukNt"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Schlossfest",
-      "url": "https://open.spotify.com/track/4vekV2OgbneSeWSjKfj73j"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die 30 besten Partylieder f\u00fcr Kinder",
-        "url": "https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 127666,
-      "name": "Cowboy Jim aus Texas",
-      "url": "https://open.spotify.com/track/4mpVj7zS5IlcNmZLpnW3qL"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Willkommen auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/3wLSysao77de2dU8k8Tp7x"
-      },
-      "artists": [
-        {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Otti Stubs",
-          "url": "https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB"
-        }
-      ],
-      "duration_ms": 130813,
-      "name": "Das tanzende Alpaka (Alpaka Song)",
-      "url": "https://open.spotify.com/track/2gkSpXiwGVUFHYnu0cqZgL"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Best of Kinderkarneval 2019",
-        "url": "https://open.spotify.com/album/4FNGH77dSfZzyYEm4GtCs2"
-      },
-      "artists": [
-        {
-          "name": "Die Partykapit\u00e4ne",
-          "url": "https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1"
-        }
-      ],
-      "duration_ms": 206818,
-      "name": "Fiesta Mexicana - Party Mix",
-      "url": "https://open.spotify.com/track/5iVzaRsAO8I6W1cndqp7Ui"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "TV Friends Forever - Der Original Sound Track: Wickie und die starken M\u00e4nner",
-        "url": "https://open.spotify.com/album/13aUuNCCTvf0yIjsI1nKI7"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e4ck F\u00f6\u00f6ss",
-          "url": "https://open.spotify.com/artist/3M7ei5iWVXuxJruRncAxUX"
-        },
-        {
-          "name": "TV Friends Forever",
-          "url": "https://open.spotify.com/artist/0AriJdgYZJUDykZqI9CcTt"
-        }
-      ],
-      "duration_ms": 124933,
-      "name": "Wickie - Main Title",
-      "url": "https://open.spotify.com/track/6Jv0OJUyTOZhkuVEYfDOBK"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Der Spielmann - Das Beste aus 20 Jahren",
-        "url": "https://open.spotify.com/album/6nlW6lZrQ5BO5WEFPGJGOE"
+        "name": "Winterkinder ...auf der Suche nach Weihnachten",
+        "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
       },
       "artists": [
         {
@@ -552,15 +140,15 @@
           "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Theo (Der Bananenbrot-Song)",
-      "url": "https://open.spotify.com/track/0bJiX2M9sj5M2HpdMDYJ1n"
+      "duration_ms": 136973,
+      "name": "Es schneit",
+      "url": "https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Die 30 besten Kinderlieder f\u00fcrs Kalenderjahr",
-        "url": "https://open.spotify.com/album/5bY0dq5UA2RoBVEenD8ial"
+        "name": "Die 30 besten Weihnachts- Und Winterlieder",
+        "url": "https://open.spotify.com/album/3qXBiuZFGf8BGHf55YeFbq"
       },
       "artists": [
         {
@@ -576,180 +164,112 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 147558,
-      "name": "Rosenmontag, Rosenmontag",
-      "url": "https://open.spotify.com/track/3NzZ2GxZLBwJ9ns8BROiOC"
+      "duration_ms": 147013,
+      "name": "Eine Muh, eine M\u00e4h",
+      "url": "https://open.spotify.com/track/45qP9cYtZI1pcxo0kzvkAh"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Die 30 besten Faschings- und Karnevalslieder",
-        "url": "https://open.spotify.com/album/6QeKLlbz9P1C0ZKQeKOl0u"
+        "name": "Fr\u00f6hliche Weihnacht \u00fcberall! (Die besten Lieder f\u00fcr Kinder zur Weihnachtszeit)",
+        "url": "https://open.spotify.com/album/1680v0HfxEcxZy1Lvc8aEZ"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Countdown Kids Kinderlieder",
+          "url": "https://open.spotify.com/artist/52P9egHWly7BQfrssYwWwZ"
+        }
+      ],
+      "duration_ms": 122170,
+      "name": "Lasst uns froh und munter sein",
+      "url": "https://open.spotify.com/track/7dQ64SvVCggIC9GyTr4TU0"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Wichteltime",
+        "url": "https://open.spotify.com/album/323F2e3HP8NHhrEZDBZCB7"
+      },
+      "artists": [
+        {
+          "name": "SUPERBRO",
+          "url": "https://open.spotify.com/artist/10cqgIpdgivvS6kHPqCb5u"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "Wichteltime",
+      "url": "https://open.spotify.com/track/46wigzacZdGpbn6R0psgOm"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
+      },
+      "artists": [
+        {
+          "name": "Hape Kerkeling",
+          "url": "https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Im Sommer",
+      "url": "https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/0ehbTPlVZgNOFBGRUuoUIt"
+      "duration_ms": 224933,
+      "name": "Der kleine Trommler",
+      "url": "https://open.spotify.com/track/0LXTNutQUlPhrFkdVu5BR4"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Karneval Megaparty 2011",
-        "url": "https://open.spotify.com/album/0NMiaHTe8FYgxnge7H8F0n"
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
       },
       "artists": [
         {
-          "name": "Karneval!",
-          "url": "https://open.spotify.com/artist/4jPCWOIjl0rhs8XWhlq1pt"
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 197690,
-      "name": "Die Karawane zieht weiter",
-      "url": "https://open.spotify.com/track/0l9edyzp7U2zFdvIHT0dEa"
+      "duration_ms": 179179,
+      "name": "Die krassesten Schlitten",
+      "url": "https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Benjamin Bl\u00fcmchen Liederzoo: Heut' feiern wir",
-        "url": "https://open.spotify.com/album/1HzZozAWXQnSwPBpHRWgCZ"
+        "name": "Schnee",
+        "url": "https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl"
       },
       "artists": [
         {
-          "name": "Benjamin Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
         }
       ],
-      "duration_ms": 179800,
-      "name": "\u00dcberall Konfetti",
-      "url": "https://open.spotify.com/track/2DtyyQgUvt3XUpR3ltAtbF"
+      "duration_ms": 123346,
+      "name": "Schnee",
+      "url": "https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "The Jungle Book Original Soundtrack (German Version)",
-        "url": "https://open.spotify.com/album/5gcM1ksko8VKV6VNFSlKfo"
-      },
-      "artists": [
-        {
-          "name": "Edgar Ott",
-          "url": "https://open.spotify.com/artist/1RUoA8u2raqqBEVAHklclr"
-        }
-      ],
-      "duration_ms": 105200,
-      "name": "Probier\u2019s mal mit Gem\u00fctlichkeit",
-      "url": "https://open.spotify.com/track/4S1vA0mTayFbnHrwdkzPWT"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Seine Gr\u00f6ssten Hits",
-        "url": "https://open.spotify.com/album/1Ds9LClF88ingQVwj2DEA8"
-      },
-      "artists": [
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Die Biene Maja",
-      "url": "https://open.spotify.com/track/3BezYuG6mCGg6YWPhVIWuT"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Piratentanz",
-        "url": "https://open.spotify.com/album/2tLJtrBKRT3d0nx0l07vzE"
-      },
-      "artists": [
-        {
-          "name": "Willi Girmes",
-          "url": "https://open.spotify.com/artist/1JIztv7ne6WRuXLJGFJexg"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Piratentanz",
-      "url": "https://open.spotify.com/track/0oXdPXkPCVE7DSl4Pe18Sk"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Tanz mit mir! Seine sch\u00f6nsten Hits",
-        "url": "https://open.spotify.com/album/0lesbmpNRlFOXagwE2HOin"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Crazy Banana",
-      "url": "https://open.spotify.com/track/3Sok3QWVWwyqdm2hjYUsuf"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Meine sch\u00f6nsten Karnevalslieder",
-        "url": "https://open.spotify.com/album/5tRqxPgzNU46Uax7HNQhhh"
-      },
-      "artists": [
-        {
-          "name": "Christian H\u00fcser",
-          "url": "https://open.spotify.com/artist/06qKEuPnav2eoOAhpyeSPN"
-        }
-      ],
-      "duration_ms": 225886,
-      "name": "Alle Kinder wollen feiern",
-      "url": "https://open.spotify.com/track/2pjoiB4pVjuiCAoWSGdHnX"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Karnevalshit",
-        "url": "https://open.spotify.com/album/5JrAQAGRutt14G2eNFbx7C"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Karnevalshit",
-      "url": "https://open.spotify.com/track/35ey0Fh8Gwul9hCEeln8ra"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Kinderlieder f\u00fcr Karneval und Fasching - EP",
-        "url": "https://open.spotify.com/album/3I7arjO3aIZ8rwLdLJChzF"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Welches Kost\u00fcm?",
-      "url": "https://open.spotify.com/track/3UFprm0GqVjqFNnchct1Iy"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
         "name": "Zootierpolka",
         "url": "https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh"
@@ -765,274 +285,762 @@
       "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Im KinderLiederKarneval",
-        "url": "https://open.spotify.com/album/1KDpIRUO6pgA5BKQfbXTY0"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Rudolf, das kleine Rentier",
+      "url": "https://open.spotify.com/track/6KOT5wByCmM7y9Y7r5PNwJ"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Allergr\u00f6\u00dfter Wunsch",
+        "url": "https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Fidi Steinbeck",
+          "url": "https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Allergr\u00f6\u00dfter Wunsch",
+      "url": "https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 161698,
+      "name": "Das Lied der Wichtel",
+      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Weihnachts- und Winterlieder",
+        "url": "https://open.spotify.com/album/0pKBO2kSYKw8WBCLkfHOJn"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 211469,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/1FMOeO9KbVRD6vlkGWB4Jn"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Catterfeld",
+          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Winter Wunderland",
+      "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Alexa Feser",
+          "url": "https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "S\u00fc\u00dfer die Glocken nie klingen",
+      "url": "https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Spuren im Schnee",
+      "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Schneeballschlacht",
+      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Katharina Hirschberg",
+          "url": "https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu"
+        },
+        {
+          "name": "Harriet Herbig-Matten",
+          "url": "https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1"
+        },
+        {
+          "name": "Holger Stockhaus",
+          "url": "https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "W\u00e4r' Dezember doch f\u00fcr immer (feat. Katharina Hirschberg, Harriet Herbig-Matten, Holger Stockhaus)",
+      "url": "https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Kinderlieder f\u00fcr den Winter - EP",
+        "url": "https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 146142,
+      "name": "Wann wird es Winter?",
+      "url": "https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Schnee im Gefrierfach",
+      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Kekse",
+      "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
+      },
+      "artists": [
+        {
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Frosty, der Schneemann",
+        "url": "https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I"
+      },
+      "artists": [
+        {
+          "name": "Schlagerkids",
+          "url": "https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb"
+        }
+      ],
+      "duration_ms": 126013,
+      "name": "Frosty, der Schneemann",
+      "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Benjamin Weygand",
+          "url": "https://open.spotify.com/artist/41xc05UxOoE4gWJOQ40KPA"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
+      "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
+      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Winterlieder: Bayerisch-Verschmitzte Kinderlieder f\u00fcr Winter und Weihnachten",
+        "url": "https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 273725,
+      "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
+      "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 129640,
+      "name": "Backe, Backe Kuchen",
+      "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Leise rieselt der Schnee",
+      "url": "https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Dominikus Weilede",
+          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Klingelingeling (feat. Dominikus Weilede)",
+      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Heut Nacht hat's geschneit",
+      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Die Liga der gew\u00f6hnlichen Gentlemen",
+          "url": "https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Winter ist wie Sommer nur in kalt",
+      "url": "https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Winterzauberlieder",
+        "url": "https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw"
+      },
+      "artists": [
+        {
+          "name": "Pettersson und Findus",
+          "url": "https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Die Schlittenfahrt",
+      "url": "https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Deniz & Ove",
+          "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
+        },
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Ich will Schnee",
+      "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Pauken und Planeten",
+          "url": "https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Lametta",
+      "url": "https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 138486,
+      "name": "Winterkinder",
+      "url": "https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Lamettawetter EP",
+        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
+      },
+      "artists": [
+        {
+          "name": "Raketen Erna",
+          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "Wo ist der Schneemann?",
+      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kr\u00e4mer",
+          "url": "https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "Pingpong im Dezember",
+      "url": "https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
+        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
+      },
+      "artists": [
+        {
+          "name": "Kinderchor SingsalaSing",
+          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
+        },
+        {
+          "name": "Klaus Weigele",
+          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
+        }
+      ],
+      "duration_ms": 86160,
+      "name": "Backe, backe Kuchen (I)",
+      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Der Baum ist schief",
+      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Pesch",
+          "url": "https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ"
+        }
+      ],
+      "duration_ms": 282786,
+      "name": "Ein ganzes Jahr",
+      "url": "https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "eneMene Kinderlieder - die Gr\u00fcne",
+        "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
+      },
+      "artists": [
+        {
+          "name": "eneMene",
+          "url": "https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB"
+        }
+      ],
+      "duration_ms": 88160,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Francesco Wilking",
+          "url": "https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV"
+        },
+        {
+          "name": "Dokter Renz",
+          "url": "https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD"
+        },
+        {
+          "name": "Ylvie, Jona, Klara",
+          "url": "https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Gute Zeit",
+      "url": "https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
+        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Pl\u00e4tzchenduft liegt in der Luft",
+      "url": "https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Eisb\u00e4r-Pinguin Rock",
+        "url": "https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB"
+      },
+      "artists": [
+        {
+          "name": "Simone Ludwig",
+          "url": "https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Eisb\u00e4r-Pinguin Rock",
+      "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
+    },
+    {
+      "added_at": "2026-02-18 23:00:04",
+      "album": {
+        "name": "Feste feiern auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
         {
           "name": "Detlev J\u00f6cker",
           "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Im KinderLiederKarneval - Originalversion",
-      "url": "https://open.spotify.com/track/1Zc2S3C8Jwi1ZBc0aSQcNj"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Die Biene Maja",
-          "url": "https://open.spotify.com/artist/7GfaHcpmNcrcHoyGnOBsAz"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Im Karneval",
-      "url": "https://open.spotify.com/track/3zfB2pRkeGehBLmswe3nS1"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Wir tanzen, spielen, singen Lieder! - Das 2. Album",
-        "url": "https://open.spotify.com/album/0wAtIEjr3t6IUCdDxxR6RF"
-      },
-      "artists": [
-        {
-          "name": "Kikaninchen",
-          "url": "https://open.spotify.com/artist/0QOJGCTrdDQS6Qz9dsvies"
         },
         {
-          "name": "Christian",
-          "url": "https://open.spotify.com/artist/1YE0dGV7nezWn3VHWU6Zvo"
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
         },
         {
-          "name": "Jule",
-          "url": "https://open.spotify.com/artist/1xsNRk1SycFZnthny21lTF"
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         }
       ],
-      "duration_ms": 201720,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5ECpVZ4c6AndofTaPdtZtV"
+      "duration_ms": 153207,
+      "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
+      "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"
     },
     {
-      "added_at": "2026-02-11 12:22:02",
+      "added_at": "2026-02-18 23:00:04",
       "album": {
-        "name": "Hip Hop Hurra",
-        "url": "https://open.spotify.com/album/71ssq4IKpnw8E2jGNcMmwY"
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29"
       },
       "artists": [
         {
-          "name": "Kinders",
-          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
-        },
-        {
-          "name": "Kasalla",
-          "url": "https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S"
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
         }
       ],
-      "duration_ms": 151088,
-      "name": "Karnewal (feat. Kasalla)",
-      "url": "https://open.spotify.com/track/4FFYvTUcGm80Kzho4ukJZT"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Tommi",
-      "url": "https://open.spotify.com/track/4aFIMli7GhMfRXdR17UjlA"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Na na na, alle springen",
-        "url": "https://open.spotify.com/album/4UanPAS7Od7zKPYJtOIv0B"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 166566,
-      "name": "Na na na, alle springen",
-      "url": "https://open.spotify.com/track/0tc9YjBkGgCLJh841o2LLZ"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Hey Mister DJ!",
-        "url": "https://open.spotify.com/album/1ooBnJhLYlX4elrDYJ5xmA"
-      },
-      "artists": [
-        {
-          "name": "Die Schl\u00fcmpfe",
-          "url": "https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Verkleiden",
-      "url": "https://open.spotify.com/track/0d74sPiF8wa9GDGWxK9Krr"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Komm lass uns tanzen - Das Beste aus der Kinderdisco",
-        "url": "https://open.spotify.com/album/25j8WsyGPIFV6ISE2Ssgts"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Cinderellas Party",
-      "url": "https://open.spotify.com/track/0Pe9E50nhbbYaGX62AI6ZS"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Meine sch\u00f6nsten Kinderlieder",
-        "url": "https://open.spotify.com/album/0mp4ghkBj93qT153RhwnLa"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Nashorn, Elefant und Krokodil",
-      "url": "https://open.spotify.com/track/5cQNy7KyFxGsDInu8BSiK4"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Die 30 besten Faschings- und Karnevalslieder",
-        "url": "https://open.spotify.com/album/6QeKLlbz9P1C0ZKQeKOl0u"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 105447,
-      "name": "Karneval der Tiere",
-      "url": "https://open.spotify.com/track/0eNDzjmU8Drj1oh2wqQ15a"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Jecke Kinderdisco",
-        "url": "https://open.spotify.com/album/4cY4Uf3F88aXq082YmVUlY"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 163168,
-      "name": "Kinderkarneval",
-      "url": "https://open.spotify.com/track/2SwSWZznYd24qPxTZLtfmj"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "1,2,3 im Sauseschritt",
-        "url": "https://open.spotify.com/album/3cpHmOAsUaWAgNLLwJIc76"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 96626,
-      "name": "Verkleidungs-ABC",
-      "url": "https://open.spotify.com/track/68i9tzj8T3267axD7PD98M"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Der Winter kommt: 25 kunterbunte Kinderlieder im Winter",
-        "url": "https://open.spotify.com/album/57gHgFbtblAG2Ps9azIfRj"
-      },
-      "artists": [
-        {
-          "name": "Stephen Janetzko",
-          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Hei, wir feiern Fasching",
-      "url": "https://open.spotify.com/track/2DUxtgGTDWmyCNgT5gKhO9"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Fische haben keine Beine (Garys Songs)",
-        "url": "https://open.spotify.com/album/61BUxPbM0YYkzVOWh4NRgl"
-      },
-      "artists": [
-        {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
-        },
-        {
-          "name": "Gary B. Schneckerich",
-          "url": "https://open.spotify.com/artist/4Oaue0UcJtIznHqrOgpFfq"
-        }
-      ],
-      "duration_ms": 136600,
-      "name": "Fische haben keine Beine",
-      "url": "https://open.spotify.com/track/1wfajoRVmfBo14tqNrJ1Yt"
-    },
-    {
-      "added_at": "2026-02-11 12:22:02",
-      "album": {
-        "name": "Kuckuck, wo bin ich?",
-        "url": "https://open.spotify.com/album/4dYQBCRQh5OAKTfeo9VcK5"
-      },
-      "artists": [
-        {
-          "name": "Minimusiker",
-          "url": "https://open.spotify.com/artist/31Rn1kByaz645xCSw3qFHo"
-        },
-        {
-          "name": "Lili Lausemaus",
-          "url": "https://open.spotify.com/artist/52OkAUqyumSYRvck40dsZH"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Kuckuck, wo bin ich?",
-      "url": "https://open.spotify.com/track/3MhQRXmQroJBIJ8v91AWBK"
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV"
     }
   ],
-  "unique_name": "Familienzeit: Karneval",
+  "unique_name": "Familienzeit: Winter",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7lk7hiGiH2z"
 }

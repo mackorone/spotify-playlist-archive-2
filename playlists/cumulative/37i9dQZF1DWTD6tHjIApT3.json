@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 191378,
       "name": "24-5",
       "url": "https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt"
@@ -10337,8 +10337,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "uku",
+        "url": "https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5"
       },
       "artists": [
         {
@@ -19008,6 +19008,28 @@
       "duration_ms": 249703,
       "name": "last scene.",
       "url": "https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E"
+    },
+    {
+      "album": {
+        "name": "Rondo",
+        "url": "https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q"
+      },
+      "artists": [
+        {
+          "name": "Foi",
+          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
+        },
+        {
+          "name": "Young Kee",
+          "url": "https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Last song - feat.Young Kee",
+      "url": "https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM"
     },
     {
       "album": {
@@ -35849,42 +35871,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Foi",
-          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
-        }
-      ],
-      "date_added": "2026-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "date_added": "2026-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
-    },
-    {
-      "album": {
         "name": "Trank",
         "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
       },
@@ -42556,6 +42542,24 @@
       "duration_ms": 251733,
       "name": "\u3055\u304f\u3089\u30e0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3tSR4I27WnN5bI6FObVJJm"
+    },
+    {
+      "album": {
+        "name": "tone (Special Edition)",
+        "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292490,
+      "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
+      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
     },
     {
       "album": {
@@ -60602,7 +60606,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 252692,
       "name": "\u661f\u7d21\u304e",
       "url": "https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAADU5xp3xNSHxQuuGleldNlo",
+  "snapshot_id": "aZOvgAAAAABynU3FsGX9ZbiL4i0Bxm+d",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "contact high",
+      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sick",
         "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
       },
@@ -171,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
       "artists": [
         {
@@ -180,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 250253,
-      "name": "contact high",
-      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
     },
     {
       "added_at": null,
@@ -207,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+        "name": "shut up and love me",
+        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
       "artists": [
         {
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
+      "duration_ms": 140613,
+      "name": "2 much 2 handle",
+      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
       "duration_ms": 189954,
       "name": "Twenty Something",
       "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "2 much 2 handle",
-      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grocery Store Girl",
-        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163983,
-      "name": "Grocery Store Girl",
-      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 180893,
       "name": "reading into it",
       "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dance around it",
-        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "dance around it",
-      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 177200,
       "name": "are we in love yet?",
       "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "How's It Gonna End?",
-      "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 153733,
       "name": "something in the way you say my name",
       "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "How's It Gonna End?",
+      "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     },
     {
       "added_at": null,

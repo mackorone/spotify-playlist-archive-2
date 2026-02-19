@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Lykke Li, Olga Myko och Malik Dalasi med flera. Happy New Music Friday! ",
-  "num_followers": 230808,
+  "num_followers": 230800,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -848,12 +848,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

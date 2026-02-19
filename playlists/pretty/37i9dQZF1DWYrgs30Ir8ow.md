@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,091 likes - 43 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,089 likes - 43 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
-| 2 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
-| 3 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
-| 4 | [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 |
-| 5 | [Hoe Dan Ook](https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Hoe Dan Ook](https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8) | 2:53 |
-| 6 | [WTBBA?!](https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [WTBBA?!](https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ) | 3:25 |
-| 7 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 2 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 3 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
+| 4 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 |
+| 5 | [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 |
+| 6 | [Hoe Dan Ook](https://open.spotify.com/track/2zaoK6oYu2bJOOuSQyJeD8) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Hoe Dan Ook](https://open.spotify.com/album/48y0r6I9Doq8nYpury8Yh8) | 2:53 |
+| 7 | [WTBBA?!](https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [WTBBA?!](https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ) | 3:25 |
 | 8 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
 | 9 | [Van God Los](https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 3:01 |
 | 10 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 42 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 43 | [Dans Gewoon](https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Dans Gewoon](https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6) | 2:32 |
 
-Snapshot ID: `AAAAAKDAt5Qqei9V+vduwAZBfz4MF834`
+Snapshot ID: `AAAAAD0qNy4EdvBAQyLEheRoN4+ZwKD8`

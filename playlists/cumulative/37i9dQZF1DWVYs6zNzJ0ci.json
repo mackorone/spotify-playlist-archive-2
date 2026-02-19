@@ -6923,6 +6923,40 @@
     },
     {
       "album": {
+        "name": "Rocketbandshot 6",
+        "url": "https://open.spotify.com/album/1437Jj6uqVPN2e8MZEecwI"
+      },
+      "artists": [
+        {
+          "name": "RickRocket",
+          "url": "https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G"
+        },
+        {
+          "name": "King Magneto",
+          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
+        },
+        {
+          "name": "NOITE",
+          "url": "https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP"
+        },
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "LENNY FACE",
+          "url": "https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300141,
+      "name": "Rocketbandshot 6",
+      "url": "https://open.spotify.com/track/28vFegguTn6j6r8I0eE8xz"
+    },
+    {
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -7146,7 +7180,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 190660,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"

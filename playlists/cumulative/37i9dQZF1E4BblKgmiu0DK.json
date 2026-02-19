@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, blazingfairis, Alia Syntax and more",
+  "description": "With Die Mannequin, blazingfairis, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 188784,
       "name": "Automatic Confidence",
       "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 181853,
       "name": "Brilliant Something",
       "url": "https://open.spotify.com/track/1J64Vpk715e2N2dcT3Ophc"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 215481,
       "name": "Gods",
       "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 191039,
       "name": "House of the Infamous",
       "url": "https://open.spotify.com/track/22khLomY46l73euKAyWEuJ"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 229484,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/3qonuZK4AphPDd6lCcHFog"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2574,10 +2574,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 134260,
       "name": "In New",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
+    },
+    {
+      "album": {
+        "name": "Error 404: Patience Not Found",
+        "url": "https://open.spotify.com/album/50apzoCURxhJuxqF1ndshG"
+      },
+      "artists": [
+        {
+          "name": "NXXT Sarcasm",
+          "url": "https://open.spotify.com/artist/5kqvbA8fTo1cDKrlxbg7nn"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172719,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
     },
     {
       "album": {
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 127596,
       "name": "Lights Go Low",
       "url": "https://open.spotify.com/track/4CUrqwPPuDRFnzy0gOYzxL"
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 159919,
       "name": "No Collar, No Gods",
       "url": "https://open.spotify.com/track/7pkFwoao9jFUoG6VMOWFk8"
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 125447,
       "name": "Paper Hearts",
       "url": "https://open.spotify.com/track/61YKvyGlDZ88m3HItDDolZ"
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 225440,
       "name": "Phase Transition",
       "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 170559,
       "name": "raise the fire",
       "url": "https://open.spotify.com/track/3IfwL9eaCoBukcCzf5nz26"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 261405,
       "name": "Shadow Of The Flag",
       "url": "https://open.spotify.com/track/4wsgWgWG3z1UP3DESV5o5k"
@@ -4360,7 +4378,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 169799,
       "name": "Throw it on The Pyre",
       "url": "https://open.spotify.com/track/6zDOTt4G46GR5tsKpo72uA"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 150960,
       "name": "Wreck Song",
       "url": "https://open.spotify.com/track/4Qy0fuSwZlHZ2BcyJMbH4y"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 223217,
       "name": "Yeah, You",
       "url": "https://open.spotify.com/track/0k1pQCSR5kI09z8xpak1AA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 558 likes - 2,326 songs - 5 day 15 hr 52 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 557 likes - 2,332 songs - 5 day 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2334,5 +2334,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2324 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
 | 2325 | [Moon Scrolls](https://open.spotify.com/track/64qqCzP5bq6X0qNqAh9BHl) | [McDead](https://open.spotify.com/artist/0NmzTtERx5LdRg0u6SGO0N) | [Moon Scrolls](https://open.spotify.com/album/1dRxZQnv10pp30nsJSAYWL) | 2:03 |
 | 2326 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 |
+| 2327 | [One and a Half Years Old](https://open.spotify.com/track/3AAPUj09TQCFrbMSHSUsvO) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 1 Three Album Set Originals / Bucks County / Reflection](https://open.spotify.com/album/7cvhesmU6n33r24SOrZpdF) | 2:32 |
+| 2328 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 |
+| 2329 | [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 |
+| 2330 | [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 |
+| 2331 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 |
+| 2332 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 |
 
-Snapshot ID: `AAAJrYXif7dszxHfVMQRKcaqYO0TmAwV`
+Snapshot ID: `AAAJs2yI2UsqrzEW+a41w2nYUsf5s1k6`

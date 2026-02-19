@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Ochaé
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,690 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,712 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Mad for Me](https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt) | [McKenna Faith](https://open.spotify.com/artist/2J5ZG3xD6VTCBOXnpn8r2B) | [Mad for Me](https://open.spotify.com/album/2VaCUhVcb71igNGAVywnAa) | 3:30 |
 | 100 | [through heaven's eyes](https://open.spotify.com/track/2ADZPreOBRYCSa0RtoEChZ) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [through heaven's eyes](https://open.spotify.com/album/67eniAirDESM0krEi6swKz) | 2:49 |
 
-Snapshot ID: `AAAAAHCfuW/HGQVrCrevP3ZRrutu6lME`
+Snapshot ID: `AAAAACEdmjIrw1ojNtcW9JKO6z56uQMd`

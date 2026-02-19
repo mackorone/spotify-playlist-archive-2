@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Dottie Andersson
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,890 likes - 122 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,914 likes - 122 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

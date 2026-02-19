@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Souly
 
-343 songs - 15 hr 35 min
+344 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 | 2026-01-30 |  |
 | [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 | 2025-04-13 |
+| [Haus mit Boot](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Haus mit Boot](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 | 2026-02-18 |  |
 | [Heartbreaks](https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [SANTOS](https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP) | 2:04 | 2025-10-16 | 2025-12-11 |
 | [HEARTBROKEN](https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [HEARTBROKEN](https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV) | 1:56 | 2025-08-07 | 2025-10-11 |
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 | 2025-10-18 |
@@ -284,7 +285,7 @@
 | [So leer](https://open.spotify.com/track/30mDIBxU7Jq9eoNZFrOPzU) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [So leer](https://open.spotify.com/album/3bCuTLn5zfUq3Zj1RsXSuf) | 2:18 | 2025-07-03 | 2025-08-29 |
 | [So wie du](https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [So wie du](https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh) | 2:32 | 2024-06-28 | 2025-07-25 |
 | [So Wunderschön](https://open.spotify.com/track/56GwaChk9RMz5cLgErxr2f) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So Wunderschön](https://open.spotify.com/album/3pskKADoAvTSBhOnJAi9E0) | 2:39 | 2025-02-06 | 2025-04-27 |
-| [SOBER](https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOBER](https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df) | 2:29 | 2025-11-03 |  |
+| [SOBER](https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOBER](https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df) | 2:29 | 2025-11-03 | 2026-02-19 |
 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 | 2024-06-28 | 2024-11-19 |
 | [Song 10](https://open.spotify.com/track/7gdPSJXiyGm5iSjiP2fcWJ) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Song 10](https://open.spotify.com/album/5QJUqabzotJBmqa7wpI6aw) | 2:52 | 2025-12-19 |  |
 | [Song 4 ft Ansu](https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Song 4 ft Ansu](https://open.spotify.com/album/7fu1RpJ4xkrAaKQs3BX0mI) | 2:55 | 2025-10-10 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613998,
+  "num_followers": 613984,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Misstro",
         "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 170162,
       "name": "Misstro",
       "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "And The Story Goes",
         "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
-        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 167843,
-      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
-      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
+        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
+      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Vara m\u00e4nniska",
-        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 134624,
-      "name": "Vara m\u00e4nniska",
-      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Vara m\u00e4nniska",
+        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 134624,
+      "name": "Vara m\u00e4nniska",
+      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "B\u00f6rja Om",
-        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "B\u00f6rja Om",
-      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q"
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
         }
       ],
-      "duration_ms": 182186,
-      "name": "I Don't Want To Be Loved",
-      "url": "https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc"
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+      "duration_ms": 182186,
+      "name": "I Don't Want To Be Loved",
+      "url": "https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1691,6 +1675,22 @@
       "duration_ms": 208509,
       "name": "Flytta h\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

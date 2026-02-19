@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5102,
+  "num_followers": 5104,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAC6C0iL2TvZNOztIwANAsiL",
+  "snapshot_id": "aZOvgAAAAABTAAEblRDXea/31kYGtTWw",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awesome (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Awesome (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 188442,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awesome (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "Awesome (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
     },
     {
       "added_at": null,
@@ -983,22 +983,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailor Moon (2.0)",
-        "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
+        "name": "Nasty (Remix)",
+        "url": "https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "TJOnline",
+          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
         }
       ],
-      "duration_ms": 197123,
-      "name": "Sailor Moon - 2.0",
-      "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
+      "duration_ms": 247680,
+      "name": "Nasty - Remix",
+      "url": "https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI"
     }
   ],
   "unique_name": "This Is Baby Tate",

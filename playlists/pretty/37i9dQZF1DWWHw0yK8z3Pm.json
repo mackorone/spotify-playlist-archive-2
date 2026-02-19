@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Thelma & James",
-  "num_followers": 69661,
+  "num_followers": 69665,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
     },
     {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
       "added_at": "2025-11-20 16:34:55",
       "album": {
         "name": "Portland, Maine (10th Anniversary Edition)",
@@ -627,22 +643,6 @@
       "duration_ms": 210915,
       "name": "Portland, Maine (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
-    },
-    {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
-    },
-    {
       "added_at": "2026-01-23 14:55:43",
       "album": {
         "name": "Another Time",
@@ -747,6 +731,22 @@
       "duration_ms": 219725,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2026-01-09 10:02:10",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
       "artists": [
         {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 203830,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+      "duration_ms": 218967,
+      "name": "Don\u2019t Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
       "added_at": "2025-10-09 21:40:25",
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
         }
       ],
-      "duration_ms": 218967,
-      "name": "Don\u2019t Let Your Deal Go Down",
-      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+      "duration_ms": 203830,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
     },
     {
       "added_at": "2025-10-31 00:01:27",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE"
     },
     {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Church & State",
+        "url": "https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 258233,
+      "name": "Church & State",
+      "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
+    },
+    {
       "added_at": "2025-10-24 04:01:04",
       "album": {
         "name": "Nancy",
@@ -1275,22 +1291,6 @@
       "duration_ms": 170663,
       "name": "Nancy",
       "url": "https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv"
-    },
-    {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Church & State",
-        "url": "https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 258233,
-      "name": "Church & State",
-      "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Further From the Country",
-        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 360393,
-      "name": "Further From the Country",
-      "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "American Recordings",
@@ -1355,6 +1339,22 @@
       "duration_ms": 190026,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Further From the Country",
+        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 360393,
+      "name": "Further From the Country",
+      "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Hell of a Daydream",
-        "url": "https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV"
-      },
-      "artists": [
-        {
-          "name": "Richard Inman",
-          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
-        }
-      ],
-      "duration_ms": 198060,
-      "name": "Hell of a Daydream",
-      "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Maybe For Once",
@@ -1453,20 +1437,20 @@
       "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
     },
     {
-      "added_at": "2025-11-07 00:01:44",
+      "added_at": "2025-10-17 08:01:09",
       "album": {
-        "name": "Disappearing Days",
-        "url": "https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY"
+        "name": "Hell of a Daydream",
+        "url": "https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV"
       },
       "artists": [
         {
-          "name": "Brendan Walter",
-          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+          "name": "Richard Inman",
+          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
         }
       ],
-      "duration_ms": 161613,
-      "name": "Pipe Dream",
-      "url": "https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ"
+      "duration_ms": 198060,
+      "name": "Hell of a Daydream",
+      "url": "https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1485,20 +1469,20 @@
       "url": "https://open.spotify.com/track/60YbzHpkoflRfLQ8YoQRBz"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
+      "added_at": "2025-11-07 00:01:44",
       "album": {
-        "name": "More Acoustic Junk",
-        "url": "https://open.spotify.com/album/18Ab571ICq919FVpS0xdod"
+        "name": "Disappearing Days",
+        "url": "https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY"
       },
       "artists": [
         {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
         }
       ],
-      "duration_ms": 214662,
-      "name": "Rock And Bird - 2025 Version",
-      "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
+      "duration_ms": 161613,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1515,6 +1499,22 @@
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "More Acoustic Junk",
+        "url": "https://open.spotify.com/album/18Ab571ICq919FVpS0xdod"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 214662,
+      "name": "Rock And Bird - 2025 Version",
+      "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Billionaire",
-        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Billionaire",
-      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Shoulda Listened",
         "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 190531,
       "name": "Shoulda Listened",
       "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Billionaire",
+        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Billionaire",
+      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1637,20 +1637,20 @@
       "url": "https://open.spotify.com/track/7LoMG7OXnNG8GrKcPUstEm"
     },
     {
-      "added_at": "2026-01-30 05:01:55",
+      "added_at": "2026-02-06 05:01:26",
       "album": {
-        "name": "Wrong Guy",
-        "url": "https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY"
+        "name": "Sell all you have",
+        "url": "https://open.spotify.com/album/1NIiKN6O4r92ggOyAtBHvh"
       },
       "artists": [
         {
-          "name": "The Sarandons",
-          "url": "https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM"
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
         }
       ],
-      "duration_ms": 190575,
-      "name": "Wrong Guy",
-      "url": "https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t"
+      "duration_ms": 264440,
+      "name": "Sell all you have",
+      "url": "https://open.spotify.com/track/4rQ9Rj1Au4Weq6szFakdZK"
     },
     {
       "added_at": "2025-11-07 04:58:08",
@@ -1669,20 +1669,20 @@
       "url": "https://open.spotify.com/track/39LPmlSn19QgsorctBZRy0"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
+      "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Sell all you have",
-        "url": "https://open.spotify.com/album/1NIiKN6O4r92ggOyAtBHvh"
+        "name": "Wrong Guy",
+        "url": "https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY"
       },
       "artists": [
         {
-          "name": "Zachary Lucky",
-          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+          "name": "The Sarandons",
+          "url": "https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM"
         }
       ],
-      "duration_ms": 264440,
-      "name": "Sell all you have",
-      "url": "https://open.spotify.com/track/4rQ9Rj1Au4Weq6szFakdZK"
+      "duration_ms": 190575,
+      "name": "Wrong Guy",
+      "url": "https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t"
     }
   ],
   "unique_name": "Renegades",

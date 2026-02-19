@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: GERD 💚
+> Listen to women at full volume\. Cover: Ariel Imani 💚
 
-2,795 songs - 6 day 10 hr 58 min
+2,797 songs - 6 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2004,6 +2004,7 @@
 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 | 2025-03-05 | 2025-04-03 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-01-05 | 2023-01-05 |
 | [Sad Violins](https://open.spotify.com/track/0bETVNceE2HiKNPkUoQ7yD) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Sad Violins](https://open.spotify.com/album/4rT6i1M0qbMvtTNBsHtgwx) | 2:56 | 2022-07-06 | 2022-08-04 |
+| [Safety](https://open.spotify.com/track/7s976LVabQ7Fben9UtC1UM) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [A Girl Like Me](https://open.spotify.com/album/2ZliVIQ7bqON4tAM5KdcqZ) | 2:43 | 2026-02-18 |  |
 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-11-06 | 2024-12-05 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-12-03 | 2026-02-06 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-04 | 2024-12-05 |
@@ -2037,7 +2038,7 @@
 | [Scotland In The Snow](https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Scotland In The Snow](https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT) | 4:08 | 2025-12-03 | 2026-02-06 |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-08 | 2022-04-07 |
 | [Search + Destroy](https://open.spotify.com/track/5hCqYXndamqqxqQQtPvURn) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:49 | 2022-07-06 | 2022-08-04 |
-| [Sebebi Sensin](https://open.spotify.com/track/5qFhwRh3L7hXIqMxyEk9IB) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Sebebi Sensin](https://open.spotify.com/album/5vi1jBlu7nmv3iJdGaNrox) | 3:04 | 2026-01-07 |  |
+| [Sebebi Sensin](https://open.spotify.com/track/5qFhwRh3L7hXIqMxyEk9IB) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Sebebi Sensin](https://open.spotify.com/album/5vi1jBlu7nmv3iJdGaNrox) | 3:04 | 2026-01-07 | 2026-02-19 |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-03-08 | 2022-04-07 |
 | [Seghadoras](https://open.spotify.com/track/168JCAlfpaJEfL4OG30qQL) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Seghadoras](https://open.spotify.com/album/59ePHpWmzr2VRhRupqTiy0) | 2:59 | 2022-07-06 | 2022-08-04 |
 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 | 2023-02-01 | 2023-03-02 |
@@ -2133,6 +2134,7 @@
 | [Somewhere](https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [...Just Cause](https://open.spotify.com/album/77Uf7Pe6japz6TwtFPrh2M) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [Somewhere in Between](https://open.spotify.com/track/1PMzqfXtiR4qWqdaRofIM4) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:36 | 2023-11-29 | 2024-01-11 |
 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 | 2023-02-01 | 2023-03-02 |
+| [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 | 2026-02-18 |  |
 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 | 2023-11-08 | 2023-11-30 |
 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 | 2025-06-04 | 2025-10-02 |
 | [SORRY SORRY SO](https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:25 | 2025-01-08 | 2025-03-06 |
@@ -2271,7 +2273,7 @@
 | [Tere Piche Piche](https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Tere Piche Piche](https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X) | 2:52 | 2022-06-01 | 2022-07-07 |
 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 | 2025-08-06 | 2025-09-18 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-02-07 | 2025-01-09 |
-| [Terma S' Agapo / Oti Kai Na Ginei Thimisou \- Medley](https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Terma S' Agapo / Oti Kai Na Ginei Thimisou \(Medley\)](https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0) | 5:05 | 2026-01-07 |  |
+| [Terma S' Agapo / Oti Kai Na Ginei Thimisou \- Medley](https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Terma S' Agapo / Oti Kai Na Ginei Thimisou \(Medley\)](https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0) | 5:05 | 2026-01-07 | 2026-02-19 |
 | [Tetris](https://open.spotify.com/track/57lHOi3fq27f7TdjVHrwgj) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Tetris](https://open.spotify.com/album/2rHpv5OMHVKHflZuPcoCRu) | 3:18 | 2022-07-06 | 2022-08-04 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-05 | 2025-01-09 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:53 | 2024-03-06 | 2024-05-03 |

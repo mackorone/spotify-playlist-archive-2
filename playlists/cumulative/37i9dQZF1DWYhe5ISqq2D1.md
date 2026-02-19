@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: jo0ji
 
-1,206 songs - 3 day 3 hr 52 min
+1,206 songs - 3 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Endless](https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Endless](https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s) | 4:01 | 2024-12-24 | 2025-02-19 |
 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 | 2024-07-02 | 2024-11-06 |
 | [Eureka](https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL) | 3:31 | 2025-01-28 | 2026-02-04 |
-| [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [](https://open.spotify.com/album/null) | 3:01 | 2026-02-17 |  |
+| [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 | 2026-02-17 |  |
 | [Everything I Think](https://open.spotify.com/track/0mIORKPskXwOY7x89cssWM) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [PIN](https://open.spotify.com/album/1H4Auj1i9sTauk8ISb9Vso) | 3:55 | 2026-02-11 | 2026-02-18 |
 | [EYES](https://open.spotify.com/track/2fsbu9lHlhON4zGVluUwBx) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [COMPASS](https://open.spotify.com/album/3CKj5rRl25mQqudkiPhFAN) | 3:13 | 2024-12-10 | 2025-01-08 |
 | [f.r.i.e.n.d.s](https://open.spotify.com/track/38vY7iWD9wUeelZOGhogIN) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [f.r.i.e.n.d.s](https://open.spotify.com/album/2kjfpvzHgWyebfwEDsrWFb) | 3:11 | 2025-10-14 | 2026-02-12 |
@@ -289,6 +289,7 @@
 | [Lan la](https://open.spotify.com/track/25DwQL8Lb235GHwpWPRkwt) | [Kaori Kusuhashi](https://open.spotify.com/artist/40NGX8Hj6US8dXfBsaJKIP) | [Lan la](https://open.spotify.com/album/1mCzEVPVN8nu88kYbPIp7I) | 3:20 | 2025-06-11 | 2025-06-18 |
 | [Land](https://open.spotify.com/track/4NIruJVVykCcTKIa7y9kkW) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:53 | 2025-10-14 | 2025-10-22 |
 | [LAST LOVE LETTER](https://open.spotify.com/track/14HAoLdDKYn6WfI9VZB4Sm) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [LAST LOVE LETTER](https://open.spotify.com/album/5jMeVRXPkfx6JPXs92tPdB) | 4:34 | 2024-07-16 | 2024-08-07 |
+| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 |  |
 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 | 2025-09-30 | 2025-10-09 |
 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 | 2025-12-09 | 2026-02-12 |
 | [leeway](https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [leeway](https://open.spotify.com/album/37YjSR5m2VC05W5JET65un) | 3:52 | 2025-04-01 | 2025-04-09 |
@@ -507,8 +508,6 @@
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 5](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
-| [Track 9](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
@@ -617,6 +616,7 @@
 | [ごはんをたくさん食べる \- Radio Edit](https://open.spotify.com/track/0sK8rpoAzEduk9wtwxgkHq) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [Alfa](https://open.spotify.com/album/5Bn73uE9l7Q9aTChkxsIqZ) | 3:50 | 2025-06-11 | 2025-06-18 |
 | [さあ乾杯！](https://open.spotify.com/track/4zFsbBmOAcAcTINudPmruF) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [さあ乾杯！](https://open.spotify.com/album/3JYkZHOy097kmU8hWRkzhl) | 2:33 | 2025-10-08 | 2025-10-15 |
 | [さいなら](https://open.spotify.com/track/647oMB0in42klUaC4cDcFI) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [さいなら](https://open.spotify.com/album/6GlJfGrISS0My3OtiunCH7) | 2:39 | 2025-03-25 | 2025-04-02 |
+| [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 | 2026-02-17 |  |
 | [さみだれ](https://open.spotify.com/track/5lbkvX4I86kjBRKfELEinA) | [けんいち](https://open.spotify.com/artist/7vWvnr62C2YXNAXZMq7Nl8) | [いちご](https://open.spotify.com/album/5DGiOHGjZb6yu7QDaOZv58) | 3:30 | 2025-03-11 | 2025-03-19 |
 | [さよなら \- SAYONARA](https://open.spotify.com/track/43IaIzIRWI2NZUDbNNtwvV) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [さよなら \- SAYONARA](https://open.spotify.com/album/4CjOPYsmKKnpMFHNLj0yxr) | 3:06 | 2025-09-03 | 2025-09-17 |
 | [さよならグリーンデイズ](https://open.spotify.com/track/291VbkPlmKHPG89TVoFtMk) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [さよならグリーンデイズ](https://open.spotify.com/album/3o4iSnn6UpvYEYR9N3JnEU) | 4:09 | 2025-11-04 | 2025-11-12 |
@@ -753,7 +753,7 @@
 | [サマードッグ](https://open.spotify.com/track/3opgyLP5M2gOyszzXQCKyW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [サマードッグ](https://open.spotify.com/album/34h5mCheOLne5KSeCB9LGQ) | 3:21 | 2025-08-12 | 2025-12-03 |
 | [サヨナラトウキョウ](https://open.spotify.com/track/6JaHK10h3BQBUJhDE3jXp7) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [サヨナラトウキョウ](https://open.spotify.com/album/3CFHroHvpD1THUfK1yABrd) | 3:25 | 2025-09-09 | 2025-09-17 |
 | [サラダステーション](https://open.spotify.com/track/2l0Mtli9Vi9JyXpcMdAjlk) | [kiss the gambler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [サラダステーション](https://open.spotify.com/album/7woGN0kSv27obF3sbopRu7) | 5:19 | 2024-07-30 | 2024-08-07 |
-| [サンダー止まらない](https://open.spotify.com/track/0npCycnXkk2wHQ2Kg91Hca) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [who](https://open.spotify.com/album/5CSOncvpLb6K7hELcZeLXA) | 4:22 | 2026-02-03 | 2026-02-18 |
+| [サンダー止まらない](https://open.spotify.com/track/0npCycnXkk2wHQ2Kg91Hca) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [who](https://open.spotify.com/album/5CSOncvpLb6K7hELcZeLXA) | 4:22 | 2026-02-03 |  |
 | [シャンデリア](https://open.spotify.com/track/2rVgQKJhl83mUykCJYqXm5) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [シャンデリア](https://open.spotify.com/album/6DopWf2YIal0uzk6sv1FgJ) | 2:51 | 2024-12-24 | 2025-02-02 |
 | [シンギュラリティ](https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [シンギュラリティ](https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ) | 4:08 | 2026-02-11 |  |
 | [シンプル\(SINGLE VERSION\)](https://open.spotify.com/track/3cMjVWbuEi2DZB7M5woY2G) | [Taku Tomizawa](https://open.spotify.com/artist/6jyRbouIq2wuUg7moXjYsL) | [シンプル\(SINGLE VERSION\)](https://open.spotify.com/album/2ZDH6L1csLGWI6uTO57KKf) | 5:42 | 2025-04-08 | 2025-04-16 |
@@ -1022,7 +1022,7 @@
 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 | 2025-11-04 | 2026-02-10 |
 | [懐メロを抱えて](https://open.spotify.com/track/7d0gJCyRsjTnfV3W75avDE) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [懐メロを抱えて](https://open.spotify.com/album/414BfxrHOlYzyQw8D9KcLi) | 3:00 | 2025-10-14 | 2025-11-26 |
 | [懸想歌](https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [懸想歌](https://open.spotify.com/album/0XlISlh69xeT4B0oJJgOjT) | 3:25 | 2026-01-27 |  |
-| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2026-02-11 |  |
+| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2026-02-11 | 2026-02-19 |
 | [揺れるピアス](https://open.spotify.com/track/5nGPee3PEkZUiSrViCm5Je) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [揺れるピアス](https://open.spotify.com/album/6sNb4Es48e6uuQ4lohhcAD) | 4:14 | 2024-11-05 | 2025-01-08 |
 | [放心](https://open.spotify.com/track/5dy0vsXXAGimlznGKvAEXp) | [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [放心](https://open.spotify.com/album/7Ly0KRnHuKaxxnJu49cB0P) | 3:07 | 2025-02-18 | 2025-02-26 |
 | [散歩の天才](https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [散歩の天才](https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o) | 4:33 | 2025-03-11 | 2025-03-19 |

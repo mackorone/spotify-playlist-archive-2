@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,099 songs - 2 day 6 hr 47 min
+1,100 songs - 2 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/track/57pzlmYbXGWawWwNkFKavK) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/album/7DS822E6LEyHdPIeyj2Ens) | 2:42 | 2025-07-03 | 2025-08-29 |
 | [Ollaanko tämä kesä näin?](https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Ikuiset lapset](https://open.spotify.com/album/06d2wF12THMtOee4tagK7K) | 4:17 | 2025-06-26 | 2025-08-16 |
 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 | 2025-06-26 | 2025-08-22 |
+| [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 | 2026-02-13 |  |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [One Good Thing](https://open.spotify.com/track/62xicKmz7afi8hjv4NdtSv) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [One Good Thing](https://open.spotify.com/album/6muLxsmUD9rwyTJ0gZb43T) | 4:04 | 2025-01-09 | 2025-02-07 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-08-16 |
@@ -861,7 +862,7 @@
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-18 | 2025-10-24 |
 | [Sori rakas](https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Sori rakas](https://open.spotify.com/album/0Ig0JcsvzM5zHCp1iQjhUu) | 2:04 | 2025-07-10 | 2025-08-16 |
 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-19 | 2024-10-04 |
-| [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 | 2025-11-13 |  |
+| [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 | 2025-11-13 | 2026-02-19 |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-20 | 2025-04-11 |
 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 | 2025-09-05 | 2025-09-07 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-04 | 2025-10-10 |

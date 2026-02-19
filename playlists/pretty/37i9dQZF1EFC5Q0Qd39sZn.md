@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,825 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,826 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 186 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
 | 187 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 |
 | 188 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 |
-| 189 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
-| 190 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
+| 189 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
+| 190 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
 | 191 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
 | 192 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
 | 193 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
@@ -476,8 +476,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 466 | [Only Love](https://open.spotify.com/track/29kLaik7s8woznFMjGv2qW) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [When You're A Boy](https://open.spotify.com/album/5jggxDQtP1eGNgqOAThQSY) | 4:24 |
 | 467 | [Live On Love \- Extended Mix](https://open.spotify.com/track/0BEP3J7Dsxb2nlpeAYYXyL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Feel Again](https://open.spotify.com/album/6Z57L1nJyOsBAX2JpP9xMb) | 3:49 |
 | 468 | [Come to me](https://open.spotify.com/track/4OAcAKsJdDUOKpTwrWuJfW) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [Leave a Light On](https://open.spotify.com/album/0X64CLJ2eu6WIDHIPB5xyy) | 4:35 |
-| 469 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 |
-| 470 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 469 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 470 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 |
 | 471 | [I Fall Apart](https://open.spotify.com/track/6R64DEh82kywtSrV5SUOon) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [I'm On Your Side](https://open.spotify.com/album/2fOvOtI7GLwRP5B9PM4N5L) | 4:02 |
 | 472 | [Permanent \- Acoustic](https://open.spotify.com/track/5RrS6yl9Hrs1woLXPyGnCY) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5) | [Sab](https://open.spotify.com/album/6ms0diwAEhvgSdVBEE53O4) | 4:04 |
 | 473 | [I Wish That](https://open.spotify.com/track/33nrcL4rmviolRoVWOm02O) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Bianca Ryan](https://open.spotify.com/album/4mAToiuP7G4FiXfl9W3oGl) | 3:59 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcJ8TAAAAACIHbNmEm37XVdnfjqj7OAm`
+Snapshot ID: `AcKB7AAAAAA2lOhMNAGfWK+aiw3dbVYj`

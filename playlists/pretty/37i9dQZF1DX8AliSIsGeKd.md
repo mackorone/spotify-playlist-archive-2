@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music\. Cover:
+> The best new electronic music\. Cover: Cosmic Gate, Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,875 likes - 90 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,942 likes - 90 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Code 000](https://open.spotify.com/track/6wiei8n5tUxeDyMZGNJ6wF) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Code 000](https://open.spotify.com/album/5TRSvhvb3FcQbmoyR454YE) | 5:05 |
 | 90 | [Berlin Boogie Town \- Fimiani Remix](https://open.spotify.com/track/4hvezJVGdP9mTOlokufs5i) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Fimiani](https://open.spotify.com/artist/1P7T5ujt8sKcMZEjXhzMyT) | [Berlin Boogie Town Remixes](https://open.spotify.com/album/6xGizQXMuhcVcWt29rzQdw) | 4:25 |
 
-Snapshot ID: `AAAAAD/clcQNjzTnzLxsqRUN9imDXM8f`
+Snapshot ID: `AAAAAG+Fb/OkeAgZ4GM3kk2GfucvX3OR`

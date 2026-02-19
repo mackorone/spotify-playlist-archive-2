@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Frost Children
 
-811 songs - 1 day 23 hr 0 min
+812 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Know It All](https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Heaven's A Lonely Place](https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm) | 2:40 | 2024-11-01 | 2025-03-21 |
 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 | 2025-05-01 | 2025-09-26 |
 | [Koneko](https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Koneko](https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe) | 4:08 | 2026-02-13 |  |
+| [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-02-18 |  |
 | [L.Y.A.T.T.](https://open.spotify.com/track/4YlVnIvCYYPMWwyxEB7wtA) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [L.Y.A.T.T.](https://open.spotify.com/album/6JzEXxgSrmDJBK5QxJwkgP) | 4:23 | 2025-09-25 | 2026-02-08 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-10-03 |
 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-09-05 | 2024-11-08 |
@@ -399,7 +400,7 @@
 | [Lately You're Not Picking Up](https://open.spotify.com/track/7kyyrC8wfNCxFZLbCl9kzb) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [The Everyday](https://open.spotify.com/album/5PvLxuKryNkx36DJ8FOKg5) | 2:55 | 2024-09-27 | 2024-10-18 |
 | [Lay Down On Me](https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lay Down On Me](https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW) | 3:02 | 2024-10-03 | 2025-02-14 |
 | [Lead You to Water](https://open.spotify.com/track/0EDoBWF2J3P2mmcYowxG35) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Lead You to Water](https://open.spotify.com/album/6gQ6X2WYNoD9rcwP7KZiz7) | 2:30 | 2024-10-24 | 2024-11-29 |
-| [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 | 2026-01-16 |  |
+| [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 | 2026-01-16 | 2026-02-19 |
 | [Lean On Me](https://open.spotify.com/track/6NSVPoxRYh5fUJgUUZs2B1) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Lean On Me](https://open.spotify.com/album/1x265Vy2gQWUMGIHjiHU2I) | 2:46 | 2024-09-20 | 2024-10-04 |
 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 | 2025-09-25 | 2026-01-16 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-24 | 2025-02-21 |

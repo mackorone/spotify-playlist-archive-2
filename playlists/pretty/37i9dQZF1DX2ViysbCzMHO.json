@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175891,
+  "num_followers": 175892,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Dance With You (Acoustic)",
         "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 190235,
       "name": "Dance With You - Acoustic",
       "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Love Makes You Blind - Acoustic Version",
-      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
         "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200506,
       "name": "You Don't Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+        }
+      ],
+      "duration_ms": 160875,
+      "name": "Love Makes You Blind - Acoustic Version",
+      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "What If I Never Get Over You (Piano Version)",
-        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 204639,
-      "name": "What If I Never Get Over You - Piano Version",
-      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Trouble (Piano Version)",
         "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 214640,
       "name": "Trouble - Piano Version",
       "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
-      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+        "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
+      "url": "https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 185847,
       "name": "Waiting For You - Acoustic",
       "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2026-01-16 05:00:43",

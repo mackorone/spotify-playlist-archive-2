@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-161 songs - 9 hr 55 min
+162 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cool Story Bro](https://open.spotify.com/track/5GvWYBiKovK3KWGjmCi9wX) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Jam](https://open.spotify.com/artist/2HcIDnavebY2T024UsfDUt) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 3:09 | 2026-02-02 |  |
 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 | 2025-11-16 |  |
 | [Dallas](https://open.spotify.com/track/0dGtxK3c1iU7NIeRohqRmL) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 5:21 | 2025-12-14 | 2026-02-01 |
+| [Darius](https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8) | [Animal Animal](https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn) | [Darius](https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ) | 3:36 | 2026-02-18 |  |
 | [Death by Love](https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Death by Love](https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ) | 4:32 | 2026-01-16 |  |
 | [Deep Water](https://open.spotify.com/track/0mxOqMRyj73HBPszDNbo14) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx), [Marko Tomasović](https://open.spotify.com/artist/3gClSMiiOGJS4oFD4rMBgT) | [END / START](https://open.spotify.com/album/7JIUCnaRLn6oHN5MOsFj97) | 4:49 | 2026-02-01 |  |
 | [Demon Child](https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw) | [Lemon Drink](https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6) | [Demon Child](https://open.spotify.com/album/0yvhxzJ7RAjtKFZAQQERo9) | 3:51 | 2026-02-01 |  |

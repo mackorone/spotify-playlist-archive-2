@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 594112,
+  "num_followers": 594162,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
+      },
+      "artists": [
+        {
+          "name": "I.GOT.U",
+          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
+        },
+        {
+          "name": "RAVE-N",
+          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
+        }
+      ],
+      "duration_ms": 156827,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Octopus",
         "url": "https://open.spotify.com/album/0aOq7th8Ua8R3wW5qFjJRY"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 459855,
       "name": "Octopus - 3 Of Life & Domestic Remix",
       "url": "https://open.spotify.com/track/4grBMIp5yrboa13rvvzf4s"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
-      },
-      "artists": [
-        {
-          "name": "I.GOT.U",
-          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
-        },
-        {
-          "name": "RAVE-N",
-          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
-        }
-      ],
-      "duration_ms": 156827,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Nova Sinfonia",
-        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
-      },
-      "artists": [
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 268591,
-      "name": "Nova Sinfonia",
-      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "The Oasis (Zyrus 7 Remix)",
         "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 209673,
       "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
       "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Nova Sinfonia",
+        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 268591,
+      "name": "Nova Sinfonia",
+      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Roshini",
-        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
+        "name": "Stoned (Zanon Remix)",
+        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
       },
       "artists": [
         {
-          "name": "Sajanka",
-          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
         },
         {
-          "name": "Krodax",
-          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
         }
       ],
-      "duration_ms": 393590,
-      "name": "Roshini",
-      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
+      "duration_ms": 334647,
+      "name": "Stoned (Zanon Remix)",
+      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Stoned (Zanon Remix)",
-        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
+        "name": "Roshini",
+        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
       },
       "artists": [
         {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+          "name": "Sajanka",
+          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
         },
         {
-          "name": "Zanon",
-          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+          "name": "Krodax",
+          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
         }
       ],
-      "duration_ms": 334647,
-      "name": "Stoned (Zanon Remix)",
-      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
+      "duration_ms": 393590,
+      "name": "Roshini",
+      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
     },
     {
       "added_at": "2025-08-15 04:00:20",

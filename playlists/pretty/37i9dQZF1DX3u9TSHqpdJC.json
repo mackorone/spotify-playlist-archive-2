@@ -1,13 +1,61 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Chloe Saavedra. Artwork by Paola Saliby",
-  "num_followers": 237073,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: EMMA SEE. Artwork by Paola Saliby",
+  "num_followers": 237093,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7RM5raLXK6DRAMvb60huieBS21",
+  "snapshot_id": "AAAAAIAFA2XkrBHwKRo/tGNO+W6x4F7H",
   "tracks": [
+    {
+      "added_at": "2026-02-18 18:23:36",
+      "album": {
+        "name": "Emotional Currency",
+        "url": "https://open.spotify.com/album/0AJmZZ3Q48msUG8qXcDe8c"
+      },
+      "artists": [
+        {
+          "name": "EMMA SEE",
+          "url": "https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM"
+        }
+      ],
+      "duration_ms": 151156,
+      "name": "Emotional Currency",
+      "url": "https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay"
+    },
+    {
+      "added_at": "2026-02-18 18:23:36",
+      "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
+    },
+    {
+      "added_at": "2026-02-18 18:23:36",
+      "album": {
+        "name": "PLM",
+        "url": "https://open.spotify.com/album/2t6DASZWlEFjg7sxUFQHLi"
+      },
+      "artists": [
+        {
+          "name": "LALA HAYDEN",
+          "url": "https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "PLM",
+      "url": "https://open.spotify.com/track/117MZN6QmvdeBN78rVmphq"
+    },
     {
       "added_at": "2026-02-11 13:40:41",
       "album": {

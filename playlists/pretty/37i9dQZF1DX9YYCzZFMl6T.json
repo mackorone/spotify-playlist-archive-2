@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7756,
+  "num_followers": 7758,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Christmas In A Minor Key",
         "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+        "name": "Sings Simple Gifts",
+        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
         }
       ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+      "duration_ms": 72000,
+      "name": "Simple Gifts",
+      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2025-12-18 16:35:14",
@@ -811,22 +827,6 @@
       "duration_ms": 254866,
       "name": "The Brightest Star",
       "url": "https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Sings Simple Gifts",
-        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Simple Gifts",
-      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2025-12-12 05:00:29",

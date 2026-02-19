@@ -4,7 +4,7 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-88 songs - 4 hr 58 min
+93 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,13 @@
 | [ana](https://open.spotify.com/track/784vnuhAjKQcuUIKU1H0Oi) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [ana](https://open.spotify.com/album/3hiBB2EWJhnawrKJqe431c) | 3:18 | 2026-02-11 |  |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2025-01-30 |  |
 | [Baby, Oh Baby](https://open.spotify.com/track/6KWSXe6yZlNwiDoKMC3LX4) | [Fat City](https://open.spotify.com/artist/0jKx5W3UPvxkIallM7U0hm) | [Ain't No Time for Stoppin'](https://open.spotify.com/album/0ZRCsdFSnbKVSsUCkO5Yyq) | 3:13 | 2025-02-20 |  |
+| [Back On You](https://open.spotify.com/track/50xPaSwYLoKZrLhPyuHwvC) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 5:23 | 2026-02-18 |  |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2026-01-28 |  |
 | [Because I Love You](https://open.spotify.com/track/5MwkIeUepIjmr7UA119saC) | [Kenny Lynch](https://open.spotify.com/artist/4ekrj85SJvd5BgK3v8XxYC) | [Shotgun \- Kenny Lynch](https://open.spotify.com/album/1Ke21O3MMFcq4VCAFVsyGq) | 4:23 | 2025-02-20 |  |
 | [Been Lookin' Your Way](https://open.spotify.com/track/4utOGWhjvp6mq0a9qOG26a) | [Lena Calhoun](https://open.spotify.com/artist/72vbdhPWazBI63Eg4KdKwr), [Emotions](https://open.spotify.com/artist/1JsqOGT52IQtymEJ62fT3W) | [Flip Doo Wop, Vol\. 3](https://open.spotify.com/album/0usscnTROA3Z8VJ8qI7IQx) | 3:17 | 2025-01-30 |  |
 | [Bonita](https://open.spotify.com/track/10CN6oQfftUs8d4lwRJnTQ) | [Roicc](https://open.spotify.com/artist/4hO2ffI8Z8ZbGPzYWSxZtM) | [Bonita](https://open.spotify.com/album/1DVSVtXEnDpe5ztxuOuNax) | 2:58 | 2025-01-30 |  |
 | [Brain Stew](https://open.spotify.com/track/7J455IyBqW39qWNXIEl0NG) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Don’t Judge A Song By Its Cover](https://open.spotify.com/album/5W47UiOqRNhUOjG7zVZs9Z) | 3:16 | 2026-01-28 |  |
+| [but they were kissing](https://open.spotify.com/track/4U2BIDGojmXfdRcUgC3NGC) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [but they were kissing](https://open.spotify.com/album/64TZ8KxWKigUQofyIr8wb1) | 2:51 | 2026-02-18 |  |
 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 | 2026-02-04 |  |
 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 | 2025-02-06 |  |
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2025-01-30 |  |
@@ -34,6 +36,7 @@
 | [Foolish Girl](https://open.spotify.com/track/3xTFF5pFEYlM0Qg4uUCF6M) | [Marjorie](https://open.spotify.com/artist/34SBQdfwoEDNqgbNQRgBbc), [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Foolish Girl](https://open.spotify.com/album/59Y82bpZk1swutdukSKVLQ) | 2:21 | 2025-02-21 |  |
 | [Forever and More](https://open.spotify.com/track/1xhkbc481N3PiE28jj4pmN) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Forever and More](https://open.spotify.com/album/0zEUWP5yGrNRpN45uCx2Ng) | 4:22 | 2025-02-13 |  |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2025-01-30 |  |
+| [Gethsemane](https://open.spotify.com/track/1T6jzRht9aXUFukdOgZgIL) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Scholars](https://open.spotify.com/album/3EuXbeOZZukUbq4ZdreJzV) | 10:51 | 2026-02-18 |  |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2025-01-30 |  |
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2026-01-28 |  |
 | [Heat of the Night](https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1) | [Simplistics](https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi) | [The Lost Masters](https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3) | 3:20 | 2025-02-20 |  |
@@ -45,6 +48,7 @@
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-02-06 |  |
 | [I'm Ok](https://open.spotify.com/track/678upPseS5HwQMdgYylO3n) | [The Ton\-Ups](https://open.spotify.com/artist/1N20JxNpMzLujtxxh8OQfY) | [Ton\-Ups](https://open.spotify.com/album/2EdRbMlMlRBR7q4cV3Dpl4) | 2:34 | 2025-01-30 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-30 |  |
+| [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 | 2026-02-18 |  |
 | [I’M FINE!](https://open.spotify.com/track/7v4rzwg3HdsV2Nk7soqTgk) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/6ogKuILl7vFFCahzxHvFOi) | 3:00 | 2026-02-04 |  |
 | [Let Em' Roll](https://open.spotify.com/track/29PXH2s2rlagVtzrLYAnjS) | [Jimmy Madden](https://open.spotify.com/artist/1KZbAbdn0kHp0LwplbCnvM), [Dick Taylor](https://open.spotify.com/artist/6CwEdKtDds54qTu43Q1Wk0), [Roger Fleming](https://open.spotify.com/artist/282Slm4aP59CAjKRFVXrWq) | [The Recordings of Bob Scherman: Singles from Skylark, Tampa & Other Labels](https://open.spotify.com/album/0uObn32S4YIMuQ1nVllPQJ) | 2:10 | 2025-01-30 |  |
 | [Let Go](https://open.spotify.com/track/49n5v4l1sLEVjvvjdYgoTJ) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Let Go](https://open.spotify.com/album/5gKdBfG9oX5P3bojQW4S8S) | 2:47 | 2025-02-13 |  |
@@ -61,6 +65,7 @@
 | [My Clothes From Last Night](https://open.spotify.com/track/1EiciOsz8auDbBTEYMN1mW) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Male Madonna](https://open.spotify.com/album/4yKwOUQFUk9619mweEsuh4) | 1:54 | 2025-01-30 |  |
 | [Mystery](https://open.spotify.com/track/7M3txFiUnjpSbSc0axEUyW) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Mystery](https://open.spotify.com/album/0tDrSXwqrCRGI8TdeJNExN) | 5:09 | 2025-01-30 |  |
 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 | 2025-01-30 |  |
+| [NOBODY](https://open.spotify.com/track/4PcUhNQarvbJQ3Vui6pwep) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [NOBODY](https://open.spotify.com/album/2jqWKUmzUE9xVTqlNqxdyM) | 2:41 | 2026-02-18 |  |
 | [Open Up Your Heart \(And Let The Sun Shine In\)](https://open.spotify.com/track/1Tkx3VJ6aN9EJhTpjSzPE5) | [Stuart Hamblen](https://open.spotify.com/artist/7n8QNNHYcQZwQFzQNNVmwj) | [The Very Best Of](https://open.spotify.com/album/0rAJIWMYuKwRVMYPgbCov6) | 2:36 | 2025-02-27 |  |
 | [Pas De Deux](https://open.spotify.com/track/6qskGHKvfz9VsvQPza8ouA) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:56 | 2026-02-04 |  |
 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 | 2025-01-30 |  |

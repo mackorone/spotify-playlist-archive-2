@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 212391,
+  "num_followers": 212411,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAABEzuPGkkWbMMmz4BzQ9syk",
+  "snapshot_id": "aZOvgAAAAABz/VfqQBYlGMZZRcIlREcd",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 243098,
-      "name": "Breaking The Chain",
-      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 238693,
       "name": "Speak Of The Devil",
       "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 243098,
+      "name": "Breaking The Chain",
+      "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
     },
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Hour Of Power",
-        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
       "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0"
+      "duration_ms": 213373,
+      "name": "Little Know It All",
+      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skull Ring",
-        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+        "name": "Half Hour Of Power",
+        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
       },
       "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Little Know It All",
-      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
+      "duration_ms": 160173,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "Goddamn I'm Dead Again",
-      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 122693,
       "name": "My Direction",
       "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
     },
     {
       "added_at": null,

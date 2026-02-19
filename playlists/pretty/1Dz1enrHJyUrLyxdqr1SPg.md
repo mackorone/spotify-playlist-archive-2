@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 |
-| 2 | [Streets of Minneapolis \- Bob Clearmountain Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Bob Clearmountain Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
+| 2 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
 | 3 | [My Weary Heart](https://open.spotify.com/track/0afp9RSQvTz1IWyD0bT9JL) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [My Weary Heart](https://open.spotify.com/album/18UwIqxfWSZhb08S8erIRq) | 3:59 |
 | 4 | [Shallow One](https://open.spotify.com/track/7oy9mEkLxR28XH0gzvL6Do) | [J.H.M](https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE) | [Gone](https://open.spotify.com/album/0KGf5lHR0tIYuN0FNE2rvo) | 3:18 |
 | 5 | [Tara](https://open.spotify.com/track/3wbfNm0iqSoV4plNLUpL8M) | [Denise Glover](https://open.spotify.com/artist/28V15gh4m18DQnV04TEVXr), [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Tara](https://open.spotify.com/album/0a8Ah1nOni4As3myEW0weF) | 3:12 |

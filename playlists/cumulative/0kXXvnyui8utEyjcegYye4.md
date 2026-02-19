@@ -4,7 +4,7 @@
 
 > 
 
-367 songs - 21 hr 34 min
+368 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2023-07-13 |  |
 | [Supermassive Black Hole \- Twilight Soundtrack Version](https://open.spotify.com/track/4JMwRgHu89e1vkmFujgIwI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Twilight Original Motion Picture Soundtrack](https://open.spotify.com/album/34OCKs861Ot5CwDfTYksLe) | 3:29 | 2025-07-17 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2023-07-13 |  |
+| [Sve Je Ona Meni](https://open.spotify.com/track/0BfRb86YsNvVkrxyeeV91w) | [Slavonske lole](https://open.spotify.com/artist/0UJd1mI9GlgMhW4tCCPod4) | [Sve Je Ona Meni](https://open.spotify.com/album/6VQrCH8GKIBiFHS4jwNpth) | 3:35 | 2026-02-18 |  |
 | [Swagg Talk](https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [I Couldn't Decide](https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX) | 2:58 | 2024-05-19 |  |
 | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) | 3:36 | 2023-07-13 |  |
 | [Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 3:28 | 2023-07-13 |  |

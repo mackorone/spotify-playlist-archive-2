@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 160 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 160 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 37 | [A Woman Is a Sometime Thing](https://open.spotify.com/track/3Cbx6zFqaXvPM8h6o0qllc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 4:47 |
 | 38 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 |
 | 39 | [Buzzard Song](https://open.spotify.com/track/1tKBKvIp0Nf9kMcFA8geFj) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 2:57 |
-| 40 | [What You Want Wid Bess?](https://open.spotify.com/track/3lo6WG0mdesJZGdRCVPF9p) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
-| 41 | [Oh, Doctor Jesus](https://open.spotify.com/track/52spbvBOV8l4lSit4YmkHs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
+| 40 | [Oh, Doctor Jesus](https://open.spotify.com/track/52spbvBOV8l4lSit4YmkHs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
+| 41 | [What You Want Wid Bess?](https://open.spotify.com/track/3lo6WG0mdesJZGdRCVPF9p) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
 | 42 | [Walking the Dog](https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 |
 | 43 | [Shall We Dance?](https://open.spotify.com/track/68jiOR8Py40usTMm0yufH2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 2:15 |
 | 44 | [Porgy And Bess: Medley: Here Come De Honey Man / Crab Man / Oh, Dey's So Fresh And Fine](https://open.spotify.com/track/3taCqapkDK2S3Upc8g5FdH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 3:29 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 159 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 160 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcJ8VgAAAAARACoONULTE3yGiJq1DEGQ`
+Snapshot ID: `AcKB9gAAAACEQamTOVT6WpvZHsmvLSsv`

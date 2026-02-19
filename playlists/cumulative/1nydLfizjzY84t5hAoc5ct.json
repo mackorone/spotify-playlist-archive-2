@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Darius",
+        "url": "https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ"
+      },
+      "artists": [
+        {
+          "name": "Animal Animal",
+          "url": "https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Darius",
+      "url": "https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8"
+    },
+    {
+      "album": {
         "name": "Death by Love",
         "url": "https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ"
       },

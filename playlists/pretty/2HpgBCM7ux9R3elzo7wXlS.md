@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,100 songs - 2 day 19 hr 47 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,101 songs - 2 day 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1108,5 +1108,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1098 | [Fighting Gold](https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [Fighting Gold](https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA) | 4:13 |
 | 1099 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
 | 1100 | [Defeat Here](https://open.spotify.com/track/0cY730wUNrEZlvj4mCIdyH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:36 |
+| 1101 | [Delirious](https://open.spotify.com/track/7D1FuWbL2SaSPfwr51dwUG) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:30 |
 
-Snapshot ID: `AAAH9ljjI3L6Ya5B3gNp5nMI+xiImKY2`
+Snapshot ID: `AAAH90KfWpNrtqwYUsqLu4533Ee3UBry`

@@ -3661,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/7rkK0OiNoz2SDIlmp6y0bA"
+      },
+      "artists": [
+        {
+          "name": "findaway",
+          "url": "https://open.spotify.com/artist/0ODp7XLz2ZrZ9HyF0T9Dex"
+        },
+        {
+          "name": "Solvyr",
+          "url": "https://open.spotify.com/artist/6G8g5qGssjLY5scNZxozqP"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134279,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/14O8lIabKFhjaOPCV0JcGC"
+    },
+    {
+      "album": {
         "name": "Highlight Reel",
         "url": "https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW"
       },

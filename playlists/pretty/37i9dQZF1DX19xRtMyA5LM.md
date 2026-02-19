@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Langa & Bokke8
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,308 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,278 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 6 | [Vervreemd](https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Vervreemd](https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr) | 3:28 |
 | 7 | [Niemand](https://open.spotify.com/track/2R5pR5gFpXjvKUCVtXm1ui) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Niemand](https://open.spotify.com/album/2JhnDm8AtD2OIHFaX2dcOa) | 2:31 |
 | 8 | [sampLES & Scotts](https://open.spotify.com/track/6o9ZPYIgAAHywH9T5aJdVF) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [sampLES & Scotts](https://open.spotify.com/album/0wtl8rarZ8VTXBl2AZmq2K) | 2:19 |
-| 9 | [MOCRO MAFFIA](https://open.spotify.com/track/6H9OaYy3fL3etUx7iAaQ39) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [MOCRO MAFFIA](https://open.spotify.com/album/4xa6379PMZPxuQoLzKu2eI) | 2:05 |
-| 10 | [Inter Milaan](https://open.spotify.com/track/5Vo7eQfswRbthASFk5Y5jY) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 2:41 |
+| 9 | [Inter Milaan](https://open.spotify.com/track/5Vo7eQfswRbthASFk5Y5jY) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 2:41 |
+| 10 | [Geen Draken](https://open.spotify.com/track/6kfeHDEdb9WZQ8XAks6m4X) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Marrabeatsz](https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5) | [Geen Draken](https://open.spotify.com/album/3YSjOZgkPeWNZUZRO3NkCG) | 2:29 |
 | 11 | [Bodem](https://open.spotify.com/track/6M5hZ6D1AXfOwKXztFjoBV) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Bodem](https://open.spotify.com/album/5JOs7kQlOuPOIUwuvk4LOk) | 2:44 |
 | 12 | [MAPOGO FREESTYLE](https://open.spotify.com/track/1jv7jOSL8p2mbcp4U0ZsG4) | [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [MAPOGO FREESTYLE](https://open.spotify.com/album/0vxUaMQZucfuK6rx00MDno) | 2:09 |
 | 13 | [Hotelkamer](https://open.spotify.com/track/2XKKnHl8isiiwF9vlnmvsc) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [Hotelkamer](https://open.spotify.com/album/2Wfp6SvuaitBgI50guooQ4) | 2:58 |
 | 14 | [Spoil Her](https://open.spotify.com/track/3KrBEhUQMVm5KSG6thdGi7) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [Spoil Her](https://open.spotify.com/album/6ZkYP7u5ckhoRs6NmyWF7M) | 3:02 |
 | 15 | [WTBBA?!](https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [WTBBA?!](https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ) | 3:25 |
 | 16 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 |
-| 17 | [nighttime](https://open.spotify.com/track/5SVfiHZp9gQ9buPXzqXqco) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:42 |
+| 17 | [MOCRO MAFFIA](https://open.spotify.com/track/6H9OaYy3fL3etUx7iAaQ39) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [MOCRO MAFFIA](https://open.spotify.com/album/4xa6379PMZPxuQoLzKu2eI) | 2:05 |
 | 18 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
-| 19 | [Geen Draken](https://open.spotify.com/track/6kfeHDEdb9WZQ8XAks6m4X) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Marrabeatsz](https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5) | [Geen Draken](https://open.spotify.com/album/3YSjOZgkPeWNZUZRO3NkCG) | 2:29 |
+| 19 | [nighttime](https://open.spotify.com/track/5SVfiHZp9gQ9buPXzqXqco) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:42 |
 | 20 | [Vage Gozer](https://open.spotify.com/track/0lIwbiNPr1wHVa2UfZSUMR) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Vage Gozer](https://open.spotify.com/album/71YgosnEaSCYHQX1T9EZyo) | 2:55 |
 | 21 | [Ambassade](https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:09 |
 | 22 | [Could Never Be Me](https://open.spotify.com/track/0O6zjn3poV3Jqr4xPX4n1p) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [Could Never Be Me](https://open.spotify.com/album/2IFbABRQjVo1INaEv4Gio2) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAAG/DoU+MWDu9lVUTFvzFIPDAwiFe`
+Snapshot ID: `AAAAAL6OD4pq20g2OIbhuqUbqClTYzbL`

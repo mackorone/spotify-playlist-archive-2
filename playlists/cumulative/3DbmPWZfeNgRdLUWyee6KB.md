@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-656 songs - 1 day 14 hr 43 min
+657 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Nostalgia \(Remastered\)](https://open.spotify.com/track/1BiivaZNsUDEgm8at5T5Et) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:49 | 2023-04-20 | 2025-11-29 |
 | [Not a French Song](https://open.spotify.com/track/0XdvcUFPQA7YPzvnhlLCzI) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Not a French Song](https://open.spotify.com/album/0hC9O2mioBqHlmao5R9Qim) | 2:32 | 2026-02-16 |  |
 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 | 2025-12-17 | 2026-01-15 |
+| [Nothing to Say](https://open.spotify.com/track/6QUVddM9HIqNr2PoFL9z0j) | [Qatijaa](https://open.spotify.com/artist/6z3zwg3wiIAJ8VaU22XdHl) | [Nothing to Say](https://open.spotify.com/album/6JyDx9wI3OSBHvUKJqI55w) | 2:54 | 2026-02-18 |  |
 | [Now I Know](https://open.spotify.com/track/2W1ix9JZO6vKc4Jmkjl4BR) | [Sillen](https://open.spotify.com/artist/5oa5r5NlMFHCD4FeJAdEJv) | [Now I Know](https://open.spotify.com/album/3U1ch3aqPmHSeBaRFiI1hh) | 4:09 | 2025-09-22 | 2025-11-29 |
 | [Nuestro cielo](https://open.spotify.com/track/7mx5FacYX14sdove4ngb64) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:47 | 2026-01-27 |  |
 | [NYC](https://open.spotify.com/track/1XV6HbFuk6d2e5WnOEnSPo) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [21st Century Prayer](https://open.spotify.com/album/0YaMrVDCvO6AZDmHFGSRSk) | 3:32 | 2025-08-26 | 2025-11-29 |

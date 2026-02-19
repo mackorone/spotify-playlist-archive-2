@@ -6669,6 +6669,28 @@
     },
     {
       "album": {
+        "name": "The Dark Album",
+        "url": "https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188145,
+      "name": "Fiori Del Male (feat.Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j"
+    },
+    {
+      "album": {
         "name": "FIREGUN (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
       },

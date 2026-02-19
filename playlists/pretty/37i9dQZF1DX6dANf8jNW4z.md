@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\.  Foto: Metrika.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,601 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,600 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 69 | [Nada Es Imposible](https://open.spotify.com/track/2ZD8XLezjtEmmL3kRqvCcX) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Nada Es Imposible](https://open.spotify.com/album/380YlMf8WArIMECCzEeMGE) | 3:30 |
 | 70 | [Efímera](https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Efímera](https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS) | 3:13 |
 
-Snapshot ID: `AAAAADHDPAO8eUUlHjGrZngP+EwY5/DR`
+Snapshot ID: `AAAAAIbI3w2M8GcSnBtnCjqAP9YR4Lsn`

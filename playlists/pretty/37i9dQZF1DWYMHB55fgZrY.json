@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. el Xava Drago por siempre ",
-  "num_followers": 573337,
+  "num_followers": 573353,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Voto Latino",
-      "url": "https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Voto Latino",
+      "url": "https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 278666,
       "name": "De Que el Amor Apesta",
       "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De La Casta\u00f1eda",
-        "url": "https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA"
-      },
-      "artists": [
-        {
-          "name": "La Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Rock En Espanol - Lo Mejor De La Casta\u00f1eda",
+        "url": "https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA"
+      },
+      "artists": [
+        {
+          "name": "La Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
     },
     {
       "added_at": "2025-08-22 06:00:14",

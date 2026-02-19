@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-899 songs - 2 day 3 hr 25 min
+903 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Fast Cars, Slow Sundays](https://open.spotify.com/track/6QyfVoio2Z9jCJ6pMSCq1l) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Fast Cars, Slow Sundays](https://open.spotify.com/album/02zs50q2oHG5KjMhbGR7fl) | 3:07 | 2026-02-02 |  |
 | [Fast Cars, Slow Sundays \(Unplugged\)](https://open.spotify.com/track/2R7pyVONsPog9fM8FlSaME) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Fast Cars, Slow Sundays \(Unplugged\)](https://open.spotify.com/album/5zygnpwPrK5QOMgvsJwLMS) | 3:02 | 2026-02-13 |  |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-15 | 2026-01-06 |
+| [FEARS](https://open.spotify.com/track/4CXgTt5QtxiE8RuyxVLGSw) | [BIG FUZZ](https://open.spotify.com/artist/6sfE00IGK4Xa5sN9O6kTev) | [FEARS](https://open.spotify.com/album/2VUJLl4dfyyWUZeACJtzqr) | 3:39 | 2026-02-18 |  |
 | [February](https://open.spotify.com/track/26gEGxhko1zfphl2smhaVq) | [Drowning Spree](https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny) | [February](https://open.spotify.com/album/0NxBq522UIDPvCVL2m8P2v) | 3:57 | 2026-01-14 |  |
 | [Feel the Men](https://open.spotify.com/track/0y8QYNa314rbXaGCbB4hG6) | [Required\*](https://open.spotify.com/artist/7rPSoYPbX5QCiZqf8bZDE6) | [Feel the Men](https://open.spotify.com/album/61oEI3locEfOR9f9gKK6Pv) | 3:39 | 2026-01-13 | 2026-02-03 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
@@ -804,6 +805,8 @@
 | [Timeless](https://open.spotify.com/track/4qxWK2Ropy87sesKCJesfN) | [Ambra](https://open.spotify.com/artist/5YdSJKfP6zapyF2Vp6vMX6) | [Remnant](https://open.spotify.com/album/5uwbVH6CPDdwsM7mSiTEiv) | 4:07 | 2025-12-23 | 2026-01-24 |
 | [Tiny White Lies](https://open.spotify.com/track/0dUCsTCufQXpQpH0xrJW4x) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:34 | 2025-08-03 |  |
 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 | 2025-12-15 | 2026-01-06 |
+| [Today's Maybe Days](https://open.spotify.com/track/6IEZ5TBuAX8sRSnnxG0Jrk) | [Eyes Clan](https://open.spotify.com/artist/4R96Z7xY3mEUZiFM3sJnVX) | [Eyes Clan Takes Emo](https://open.spotify.com/album/7hf1zID4zWh1HDI7p8hJwO) | 4:41 | 2026-02-18 |  |
+| [Tokyo Ghost](https://open.spotify.com/track/1Ng1SGItRX9ryuN2nVC0MF) | [Black and White Rewrite](https://open.spotify.com/artist/6ZlWrpdvGhFOvEgwGltKMr) | [Tokyo Ghost](https://open.spotify.com/album/3isxaXcxV9mh7ETSnASBMr) | 3:42 | 2026-02-18 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-11-14 | 2025-12-10 |
 | [Torn Apart](https://open.spotify.com/track/51OI5w469NmM9ryTo4NUnQ) | [Elastic Skies](https://open.spotify.com/artist/4jkUxKT4fAB0Dl63hZqiNc) | [II](https://open.spotify.com/album/3jEGsiUz61h7REHkE2cMJt) | 2:18 | 2026-01-21 | 2026-02-12 |
 | [Trainjuice](https://open.spotify.com/track/5v36a8JylfC3f7tn6DAWxl) | [Sikmetra](https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI) | [Trainjuice](https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb) | 2:42 | 2026-02-12 |  |
@@ -897,6 +900,7 @@
 | [You're Not Alone](https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [You're Not Alone](https://open.spotify.com/album/5fAbzRhgwUL4lQnmG2ylE7) | 3:28 | 2025-10-30 | 2025-12-10 |
 | [You're Not Alone](https://open.spotify.com/track/693FjxAhFeP2NYIEJBUNQX) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [Vampire Cover Party](https://open.spotify.com/album/4TIGIiJ37utsM5evw2mv5O) | 3:38 | 2025-11-12 | 2025-12-10 |
 | [You're Old!](https://open.spotify.com/track/5UTKDSPf9mS3EGUXcUICSf) | [Halfway To Neptune](https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy) | [TAKEOFF](https://open.spotify.com/album/5d3hyIeB4GpyozLlV9U0ZX) | 2:53 | 2026-01-08 | 2026-01-29 |
+| [Your Love Is My Drug](https://open.spotify.com/track/5VBt1jW7Bn9cI9leKUX9Nb) | [Monte Cristo](https://open.spotify.com/artist/5PBBLMciIri0fAzQgteVgQ) | [Your Love Is My Drug](https://open.spotify.com/album/47VPfzUpJhiXzeZtnDCvAj) | 2:59 | 2026-02-18 |  |
 | [Your Revolution](https://open.spotify.com/track/1WSbOpf77PWVKHqiPhTdmI) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Your Revolution](https://open.spotify.com/album/27Q2F1616jpd9nAUjqlnVw) | 3:46 | 2025-12-19 | 2026-01-15 |
 | [Your Web Of Lies](https://open.spotify.com/track/5oac3BCTHhfNKWKIzpxef8) | [Frallzone](https://open.spotify.com/artist/1WehD5r0hUWYOK6AK7nsHr) | [Your Web Of Lies](https://open.spotify.com/album/36DSRyHOuCSbIRf9dUpXsP) | 3:26 | 2025-11-03 | 2025-12-10 |
 | [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 | 2025-12-02 | 2026-01-15 |

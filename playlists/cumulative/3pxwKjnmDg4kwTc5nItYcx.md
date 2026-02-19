@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-883 songs - 1 day 23 hr 27 min
+884 songs - 1 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [On My Mind](https://open.spotify.com/track/482KdzCNETTbzfF11pykgd) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [On My Mind](https://open.spotify.com/album/4nUef0dAHHKC4lSDciXVuN) | 3:26 | 2020-10-15 | 2025-07-17 |
 | [One Day](https://open.spotify.com/track/7qVRBPZI5b8G6xk9RsdZ9L) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [One Day](https://open.spotify.com/album/2MCRIr4TtPY0X9qmcPHdLO) | 2:43 | 2020-12-11 | 2025-07-17 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-05-28 | 2025-08-27 |
+| [One Last Night](https://open.spotify.com/track/1uwzsh4qg5fWIXNladSY26) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [One Last Night](https://open.spotify.com/album/1sEWUF2N6mShqAy64rhG7Y) | 4:48 | 2026-02-18 |  |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-27 | 2025-08-27 |
 | [One Night](https://open.spotify.com/track/4AXjDRMqpaeWWxbZiz2ft3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [One Night](https://open.spotify.com/album/2jGkKFXesU0Ejr4mOR7it7) | 3:42 | 2020-03-06 | 2021-05-12 |
 | [One On The Way](https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way](https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ) | 3:44 | 2023-09-15 | 2025-08-27 |

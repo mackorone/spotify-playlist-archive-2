@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-404 songs - 1 day 2 hr 1 min
+405 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 | 2024-07-18 |
 | [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 | 2025-11-25 |
 | [Alanganin](https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Alanganin](https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp) | 3:57 | 2026-02-16 |  |
-| [Ale](https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [The Bloomfields](https://open.spotify.com/album/17675v1WFduEKG9WV1iolH) | 3:50 | 2026-01-21 |  |
+| [Ale](https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [The Bloomfields](https://open.spotify.com/album/17675v1WFduEKG9WV1iolH) | 3:50 | 2026-01-21 | 2026-02-19 |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-23 | 2025-11-05 |
 | [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 | 2023-11-11 |
 | [Aminin/Sabihin](https://open.spotify.com/track/4St875yzLjsUcIL4lkldPA) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Aminin/Sabihin](https://open.spotify.com/album/0g11a83KW0iPvnobksjpgV) | 3:31 | 2025-11-07 | 2025-11-18 |
@@ -270,6 +270,7 @@
 | [Palapit Sa Ü](https://open.spotify.com/track/1c82x61tkS3Piyt7l39Ouu) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Palapit Sa Ü](https://open.spotify.com/album/3YyLO6slRwlirN8KJkamTB) | 3:17 | 2025-05-21 | 2025-06-21 |
 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-05 |  |
 | [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2024-11-30 |
+| [pamasahe](https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [pamasahe](https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi) | 2:48 | 2026-02-18 |  |
 | [Pambihira](https://open.spotify.com/track/1Q8Y8NRb5Ug9OPSxJRmW01) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Pambihira](https://open.spotify.com/album/0GKilAe9xZorJi7OthEzWu) | 4:08 | 2025-05-09 | 2025-05-22 |
 | [Panaginip](https://open.spotify.com/track/6XHUlDl2PJMEecKyN6aAkO) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/7zA0i3A5ALkRYkLgb9cShq) | 5:17 | 2025-06-02 | 2025-06-21 |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-24 | 2024-08-22 |

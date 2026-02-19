@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Joyce Manor
 
-608 songs - 1 day 6 hr 26 min
+609 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [S2L](https://open.spotify.com/track/5tYLtTRxtITNZ4QIUWQVI5) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [S2L](https://open.spotify.com/album/3qiGxtR72UMbFBI1nzlKUi) | 2:18 | 2025-09-11 |  |
 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 | 2025-10-03 |  |
 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 | 2024-06-27 | 2024-10-11 |
-| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-09-11 |  |
+| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-09-11 | 2026-02-19 |
 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 | 2024-11-15 | 2026-02-07 |
 | [Say Say](https://open.spotify.com/track/7DgCz491jAIlvfNKZGNWWG) | [Yur Mum](https://open.spotify.com/artist/0Y7bVJMoVMR9nipVBOiXRt) | [Say Say](https://open.spotify.com/album/4Z20AefouBkJ0dm60LXP3w) | 3:11 | 2023-06-20 | 2023-08-24 |
 | [Scrapbook](https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Scrapbook](https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK) | 4:15 | 2024-02-16 | 2024-06-15 |
@@ -596,6 +596,7 @@
 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 | 2024-05-31 | 2024-06-28 |
 | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/track/0g6olXNFO0lM3QVzjXDiS3) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy), [Colin Young](https://open.spotify.com/artist/1Czqbs3tZ9A71hT3SytLvw) | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/album/5fQ5kzqWf2LC7vmg7BJytl) | 2:50 | 2025-02-07 | 2025-02-12 |
 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-05-31 | 2024-07-03 |
+| [White Lies](https://open.spotify.com/track/015NtR2Ju1QInVARP0sKST) | [The S.E.T.](https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK), [Gut Instinct](https://open.spotify.com/artist/63L8S5HqlKxXfksqPu3vtF) | [White Lies](https://open.spotify.com/album/6gIzsuG2eCEgOIe8Ztg9iv) | 2:07 | 2026-02-13 |  |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-12-02 | 2023-11-18 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 | 2024-01-16 |
 | [Who Do We Not Save](https://open.spotify.com/track/0gL0Au51CmhJy7R5Oo70WE) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Who Do We Not Save](https://open.spotify.com/album/6GBiQv7xCikmX0TMdT2Igr) | 2:07 | 2023-04-21 | 2023-06-09 |

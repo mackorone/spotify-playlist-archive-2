@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,358 likes - 144 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,413 likes - 144 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 73 | [Ryas' Theme](https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm) | [Boxed Ape](https://open.spotify.com/artist/7xWwhq4SRSv9EJIGByfmc8) | [Horizon Call of the Mountain \(Official Soundtrack\)](https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt) | 3:32 |
 | 74 | [Beyond the Dawn](https://open.spotify.com/track/2fSXpnPjqPuRfp1xxm4G3R) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [Tales of Series Sound Team](https://open.spotify.com/artist/7AkMAVMGgyXoVJel1lgVO4), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Tales of Arise \- Beyond the Dawn \(Original Game Soundtrack\)](https://open.spotify.com/album/1YQXfr59bJSE9bvdi4jy1m) | 1:37 |
 | 75 | [No Escape](https://open.spotify.com/track/5uiqrM9NLgnoAkJeqJqdlt) | [Darren Korb](https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1) | [Hades: Original Soundtrack](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) | 2:25 |
-| 76 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 |
+| 76 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 |
 | 77 | [Tomb Raider Theme](https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH) | 3:13 |
 | 78 | [Promise of the West \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
 | 79 | [Kingdom of Wessex](https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 3:41 |

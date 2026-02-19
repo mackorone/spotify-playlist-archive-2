@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 94637,
+  "num_followers": 94647,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAABzJLz/b5UkRRX/luoBbWI8",
+  "snapshot_id": "aZOvgAAAAAC4OKhLNWTfz3usVGTrIeOL",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 191400,
-      "name": "Come on Then",
-      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+      "duration_ms": 191400,
+      "name": "Come on Then",
+      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
+      "duration_ms": 219866,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Apples",
-      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
+      "duration_ms": 227973,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
     }
   ],
   "unique_name": "This Is Lily Allen",

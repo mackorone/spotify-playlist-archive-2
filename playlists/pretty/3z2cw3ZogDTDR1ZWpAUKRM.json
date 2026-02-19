@@ -6,8 +6,64 @@
     "name": "ssamt",
     "url": "https://open.spotify.com/user/ssamt"
   },
-  "snapshot_id": "AAAAfwlpfO44nFPHOA8T9acTM6U3gehA",
+  "snapshot_id": "AAAAhQ3Q28w8d52iJENHzEOMDkV+vBu/",
   "tracks": [
+    {
+      "added_at": "2026-02-18 20:40:32",
+      "album": {
+        "name": "The Drop That Contained the Sea: Waloyo Yamoni",
+        "url": "https://open.spotify.com/album/08xsqKrCLIERxjSRlUP8GO"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        },
+        {
+          "name": "Victor Makhathini",
+          "url": "https://open.spotify.com/artist/34amTRgMWgxQjYl0zeFWfh"
+        },
+        {
+          "name": "Refiloe Msebenzi",
+          "url": "https://open.spotify.com/artist/7utJhM3HwZMkQ0HjhWu1Z0"
+        },
+        {
+          "name": "Nominjin",
+          "url": "https://open.spotify.com/artist/3HgUqZJwxO3CLtwE2ohpKe"
+        },
+        {
+          "name": "Roopa Mahadevan",
+          "url": "https://open.spotify.com/artist/2dfpIaGPc2MwdsPNGvYyPE"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Angel City Chorale",
+          "url": "https://open.spotify.com/artist/4bQ2CPtId37Gm2rZa9f300"
+        },
+        {
+          "name": "Dulce Pontes",
+          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
+        },
+        {
+          "name": "Shoji Kameda",
+          "url": "https://open.spotify.com/artist/0w58EBinbMrLnuqVYRC01i"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Sue Fink",
+          "url": "https://open.spotify.com/artist/61MeKNJd0gPBIXDM7314t0"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Waloyo Yamoni: IV. We Overcome the Wind (Reprise)",
+      "url": "https://open.spotify.com/track/6RaaGhBnbEsa8G2WuZZVx5"
+    },
     {
       "added_at": "2026-01-22 21:29:45",
       "album": {
@@ -73,23 +129,7 @@
       "url": "https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG"
     },
     {
-      "added_at": "2024-05-02 13:52:50",
-      "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 676986,
-      "name": "The Mighty Rio Grande",
-      "url": "https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS"
-    },
-    {
-      "added_at": "2025-10-31 20:40:43",
+      "added_at": "2026-02-18 20:41:17",
       "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
@@ -104,9 +144,25 @@
           "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
         }
       ],
-      "duration_ms": 50072,
-      "name": "Goldberg Variations, BWV 988: Variation 20 a 2 Clav.",
-      "url": "https://open.spotify.com/track/54VrtN6vHC3gXyqhDulUcW"
+      "duration_ms": 50478,
+      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "url": "https://open.spotify.com/track/14lyZKpPu1ECQpfXhgrip6"
+    },
+    {
+      "added_at": "2024-05-02 13:52:50",
+      "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 676986,
+      "name": "The Mighty Rio Grande",
+      "url": "https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS"
     },
     {
       "added_at": "2024-05-10 19:11:07",
@@ -139,22 +195,6 @@
       "duration_ms": 264640,
       "name": "Blackest Eyes - Remastered",
       "url": "https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn"
-    },
-    {
-      "added_at": "2025-03-05 12:44:08",
-      "album": {
-        "name": "Carry No Thing",
-        "url": "https://open.spotify.com/album/5o2w9W01C8EI12pigBbazh"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 203679,
-      "name": "Carry No Thing",
-      "url": "https://open.spotify.com/track/3bJs7zfcoFrHEPiB0VwQmy"
     },
     {
       "added_at": "2024-07-17 14:28:31",

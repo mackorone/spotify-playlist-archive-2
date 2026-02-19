@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Maki
 
-2,981 songs - 7 day 17 hr 57 min
+2,981 songs - 7 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Festival](https://open.spotify.com/track/3Yj2DZImlcmjoEiBy726cW) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [Festival](https://open.spotify.com/album/4gcHUWURmxGQnpfbVYvcHR) | 3:09 | 2025-10-28 | 2025-11-12 |
 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 | 2023-02-21 | 2023-03-01 |
 | [Fifty's map ～おとなの地図](https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Fifty's map ～おとなの地図](https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn) | 4:50 | 2023-10-03 | 2023-11-08 |
-| [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [](https://open.spotify.com/album/null) | 4:19 | 2026-02-17 |  |
+| [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Calm Before the Storm](https://open.spotify.com/album/6JYxeSvzazSC6ZgBvYXTW9) | 4:19 | 2026-02-17 |  |
 | [Fighter](https://open.spotify.com/track/5S5Hk5kPlPFCvSNT30ZiEr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Fighter](https://open.spotify.com/album/6kYU5SvrrrVFECBt5DsReN) | 3:53 | 2024-04-30 | 2024-07-03 |
 | [Find the Color](https://open.spotify.com/track/76Mhc08jUzIyAAa6CuL0is) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Find the Color](https://open.spotify.com/album/3dkrBUezNTBmQqvtQjqW3i) | 4:16 | 2026-02-12 |  |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2023-01-13 | 2023-02-15 |
@@ -1281,6 +1281,7 @@
 | [stay with me](https://open.spotify.com/track/1smgzMnfgCPrp1UagrgOjO) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Rikutsudehanasukimito, Kanjoronnoboku](https://open.spotify.com/album/79a0hGkH01ihpKnnZdAZmu) | 3:39 | 2026-02-10 |  |
 | [Stellar](https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Unspoiled](https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t) | 5:35 | 2024-06-18 | 2024-08-14 |
 | [Step!!!!!](https://open.spotify.com/track/69YIXUp9PiSqAD5exWtuqK) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [Step!!!!!](https://open.spotify.com/album/3Lljpf1Fxr45q9vNpqwRpk) | 4:07 | 2024-09-03 | 2024-09-18 |
+| [still sane](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [胎教](https://open.spotify.com/album/2xA6zfQHw5EueUW8fDnmQv) | 5:11 | 2026-02-17 |  |
 | [STONE COLD](https://open.spotify.com/track/266GMksJgz4WfnxAd9LEGN) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [PLASTIC YOUTH](https://open.spotify.com/album/61yQngRhTvDIfu98ZjkxFH) | 3:20 | 2025-07-22 | 2025-08-14 |
 | [STORMED](https://open.spotify.com/track/1oWLC0s9MeXGHAafvkdkSO) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [STORMED](https://open.spotify.com/album/5SDkpKJ1nCjmGbglqolYtw) | 2:47 | 2024-11-19 | 2024-12-04 |
 | [Story](https://open.spotify.com/track/5s1JJKzVP3M5qBthMgvvM1) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Story](https://open.spotify.com/album/6MEjAQmuh89lQJkE9fLyvc) | 3:53 | 2024-03-12 | 2024-07-03 |
@@ -1426,7 +1427,6 @@
 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 | 2026-02-10 | 2026-02-18 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
-| [Track 6](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

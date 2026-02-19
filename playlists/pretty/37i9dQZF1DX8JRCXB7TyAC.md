@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,024 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,062 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 13 | [Lofar](https://open.spotify.com/track/2L5fXA2pNlTXJvQTeMZn4z) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Lofar](https://open.spotify.com/album/3VzplV5MLsatpZLD3jw7Tg) | 2:09 |
 | 14 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
 | 15 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 |
-| 16 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
-| 17 | [Jaat Bagdo](https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Dj Sky](https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK) | [ROAR](https://open.spotify.com/album/30WIZPazpfNErodEi7fulf) | 3:09 |
+| 16 | [Jaat Bagdo](https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Dj Sky](https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK) | [ROAR](https://open.spotify.com/album/30WIZPazpfNErodEi7fulf) | 3:09 |
+| 17 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
 | 18 | [12 Bande](https://open.spotify.com/track/2KcTIyH6LF1yKEysNFViph) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [12 Bande](https://open.spotify.com/album/2z3ehE5Rn7AAQFuqQjkNJ5) | 2:45 |
 | 19 | [2 Thikhane](https://open.spotify.com/track/3L0D24OsYiep8UTIJD5yOz) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Muskan Lohan](https://open.spotify.com/artist/5OKqVSrcAoGngUNYtrcF4O) | [2 Thikhane](https://open.spotify.com/album/2jUbWUI5VkWJIk8xY5pU6X) | 2:47 |
 | 20 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |

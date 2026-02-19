@@ -1,12 +1,12 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 39293,
+  "num_followers": 39291,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDRu0qfL+QHFJKblcyKhpUQIx7H",
+  "snapshot_id": "AAAAAGOpioEj28CKIPYKhXyvsUFzMiow",
   "tracks": [
     {
       "added_at": "2026-02-09 11:28:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
-      },
-      "artists": [
-        {
-          "name": "Spiv Brativ",
-          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
-        }
-      ],
-      "duration_ms": 210248,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
         "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 161342,
       "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
+      },
+      "artists": [
+        {
+          "name": "Spiv Brativ",
+          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
+        }
+      ],
+      "duration_ms": 210248,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041c\u0456\u0441\u0442\u043e",
-        "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 138045,
-      "name": "\u041c\u0456\u0441\u0442\u043e",
-      "url": "https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u041a\u041b\u0418\u0427\u0423",
         "url": "https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 190615,
       "name": "\u041a\u041b\u0418\u0427\u0423",
       "url": "https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041c\u0456\u0441\u0442\u043e",
+        "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 138045,
+      "name": "\u041c\u0456\u0441\u0442\u043e",
+      "url": "https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041d\u0430\u0439\u0434\u043e\u0440\u043e\u0436\u0447\u0456 \u0440\u0435\u0447\u0456 \u0443 \u0441\u0432\u0456\u0442\u0456",
-        "url": "https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF"
-      },
-      "artists": [
-        {
-          "name": "Blooms Corda",
-          "url": "https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA"
-        }
-      ],
-      "duration_ms": 255258,
-      "name": "\u0421\u043f\u0456\u0440\u0456\u0447\u0443\u0430\u043b",
-      "url": "https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
         "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 154903,
       "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
       "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041d\u0430\u0439\u0434\u043e\u0440\u043e\u0436\u0447\u0456 \u0440\u0435\u0447\u0456 \u0443 \u0441\u0432\u0456\u0442\u0456",
+        "url": "https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF"
+      },
+      "artists": [
+        {
+          "name": "Blooms Corda",
+          "url": "https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA"
+        }
+      ],
+      "duration_ms": 255258,
+      "name": "\u0421\u043f\u0456\u0440\u0456\u0447\u0443\u0430\u043b",
+      "url": "https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u0414\u0418\u041c (Acoustic)",
-        "url": "https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es"
+        "name": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ"
       },
       "artists": [
         {
-          "name": "\u0411\u0415\u0417 \u041e\u0411\u041c\u0415\u0416\u0415\u041d\u042c",
-          "url": "https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL"
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
         }
       ],
-      "duration_ms": 221614,
-      "name": "\u0414\u0418\u041c - Acoustic",
-      "url": "https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce"
+      "duration_ms": 180652,
+      "name": "\u0412\u0441\u0456 \u0446\u0456 \u0444\u0430\u0440\u0431\u0438",
+      "url": "https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "\u0414\u0418\u041c (Acoustic)",
+        "url": "https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es"
+      },
+      "artists": [
+        {
+          "name": "\u0411\u0415\u0417 \u041e\u0411\u041c\u0415\u0416\u0415\u041d\u042c",
+          "url": "https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL"
+        }
+      ],
+      "duration_ms": 221614,
+      "name": "\u0414\u0418\u041c - Acoustic",
+      "url": "https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
         "url": "https://open.spotify.com/album/786cElizhWDpDRC44iXLmT"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ"
-      },
-      "artists": [
-        {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
-        }
-      ],
-      "duration_ms": 180652,
-      "name": "\u0412\u0441\u0456 \u0446\u0456 \u0444\u0430\u0440\u0431\u0438",
-      "url": "https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u0424\u0443\u0440\u0456\u044f",
         "url": "https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 188666,
       "name": "\u0424\u0443\u0440\u0456\u044f",
       "url": "https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "\u043d\u0430\u0432\u0456\u0449\u043e \u0446\u0456 \u0441\u0432\u0430\u0440\u043a\u0438",
-        "url": "https://open.spotify.com/album/70K1VtijQg0QcYvK9KwPTU"
-      },
-      "artists": [
-        {
-          "name": "Feviane",
-          "url": "https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14"
-        },
-        {
-          "name": "DENOMA",
-          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
-        }
-      ],
-      "duration_ms": 175462,
-      "name": "\u043d\u0430\u0432\u0456\u0449\u043e \u0446\u0456 \u0441\u0432\u0430\u0440\u043a\u0438",
-      "url": "https://open.spotify.com/track/38GsUZ16qLuirI0u1b47UZ"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -987,6 +967,26 @@
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u043d\u0430\u0432\u0456\u0449\u043e \u0446\u0456 \u0441\u0432\u0430\u0440\u043a\u0438",
+        "url": "https://open.spotify.com/album/70K1VtijQg0QcYvK9KwPTU"
+      },
+      "artists": [
+        {
+          "name": "Feviane",
+          "url": "https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14"
+        },
+        {
+          "name": "DENOMA",
+          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
+        }
+      ],
+      "duration_ms": 175462,
+      "name": "\u043d\u0430\u0432\u0456\u0449\u043e \u0446\u0456 \u0441\u0432\u0430\u0440\u043a\u0438",
+      "url": "https://open.spotify.com/track/38GsUZ16qLuirI0u1b47UZ"
     },
     {
       "added_at": "2026-02-09 11:28:37",

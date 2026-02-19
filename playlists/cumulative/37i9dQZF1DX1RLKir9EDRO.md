@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler! Kapak: Begüm Yiğit Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler! Kapak: Yakın Çizim: Isu Kim
 
 1,213 songs - 2 day 19 hr 5 min
 

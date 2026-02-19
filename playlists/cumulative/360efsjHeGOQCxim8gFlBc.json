@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/0Nn1M2XzDAWS2F1DmKjGTA"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98925,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/1veoQc68lw1YzX1smzWKlR"
+    },
+    {
+      "album": {
         "name": "Blue Sand",
         "url": "https://open.spotify.com/album/3YJDSIqwyNHEXago8OwLln"
       },
@@ -10408,7 +10426,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 206264,
       "name": "Our Different Path",
       "url": "https://open.spotify.com/track/1hIShYhRK01uHTplOqiGHu"
@@ -10430,7 +10448,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 209032,
       "name": "Our Different Path",
       "url": "https://open.spotify.com/track/19jfHCIIpr896sGZUQ8e4e"
@@ -11964,9 +11982,31 @@
           "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
         }
       ],
-      "date_added": "2023-10-29",
+      "date_added": "2026-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Secret Island Story (Night Version)",
+      "url": "https://open.spotify.com/track/63qEQj8A0uUF8otJ7LCU9A"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2026-02-19",
       "duration_ms": 129229,
       "name": "Secret Island Story (Piano)",
       "url": "https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR"

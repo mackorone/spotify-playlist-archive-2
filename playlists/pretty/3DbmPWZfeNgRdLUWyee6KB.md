@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,274 likes - 199 songs - 11 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,274 likes - 200 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,5 +207,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 197 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 |
 | 198 | [Lost In You](https://open.spotify.com/track/6P1A0agTnvgRiVgl1f9JPg) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [Lost In You](https://open.spotify.com/album/3mW30RpXjuvEwnZTOMwVZr) | 4:31 |
 | 199 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 |
+| 200 | [Nothing to Say](https://open.spotify.com/track/6QUVddM9HIqNr2PoFL9z0j) | [Qatijaa](https://open.spotify.com/artist/6z3zwg3wiIAJ8VaU22XdHl) | [Nothing to Say](https://open.spotify.com/album/6JyDx9wI3OSBHvUKJqI55w) | 2:54 |
 
-Snapshot ID: `AAAQf834tv/I5OXX6mHi46iojhKnCmXj`
+Snapshot ID: `AAAQgEd8fzEDBrkSZVld/ECCXxZfc0JD`

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,082 songs - 9 day 0 hr 53 min
+4,088 songs - 9 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [camel](https://open.spotify.com/track/52KMSEi0krvsD9rYRmcVQ0) | [ian3celia](https://open.spotify.com/artist/30022KpFyikBjT2dvQ1dHU) | [From dolmen to stonehenge](https://open.spotify.com/album/2DWREFYzrdkMdMLHtmeSpf) | 3:14 | 2026-02-01 |  |
 | [CAMERAS](https://open.spotify.com/track/65Qt4R7sbHwKOL7qUzvd8I) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [CAMERAS](https://open.spotify.com/album/1x9tMnt0clwEKkATGR4J5u) | 1:51 | 2025-07-28 |  |
 | [can you?](https://open.spotify.com/track/01Q9aPL1XR6UKuwwkpf63P) | [Spectr4l](https://open.spotify.com/artist/0NjArNlxoU8zpBuQW3wnxQ) | [AFTERLIFE](https://open.spotify.com/album/1g1ICp42ZFrRU49HoZ6sIg) | 2:19 | 2025-07-13 |  |
+| [Can't Deal](https://open.spotify.com/track/3HAYqVV6pik5cE73O9m6Xm) | [Infuriate Souls](https://open.spotify.com/artist/4kGaDNHuSf9oJkmVxF370j) | [Infuriate Souls](https://open.spotify.com/album/4cNOmUdpfzp0bohouJRi6X) | 3:16 | 2026-02-18 |  |
 | [Can't get enough](https://open.spotify.com/track/5tSKv5MADPzOAkMMXjnyXp) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:43 | 2026-01-17 |  |
 | [Can't Get You Outta My Head Pop dance](https://open.spotify.com/track/4l4CfozPcSOSmHtR6THMG9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop dance](https://open.spotify.com/album/33S1j3WtgTLGLj1UwJFgj9) | 3:04 | 2025-09-14 |  |
 | [Can't Get You Outta My WiFi Pop dance](https://open.spotify.com/track/0LtsXt3sHXuf5cwcr48NTq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop dance](https://open.spotify.com/album/33S1j3WtgTLGLj1UwJFgj9) | 3:04 | 2025-09-14 |  |
@@ -889,6 +890,7 @@
 | [DEVILISH GAME](https://open.spotify.com/track/1ALj8qxhXyTOAKTj8VojuO) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [DEVILISH GAME](https://open.spotify.com/album/6rgkD0IoRb7NJlW9ZXiuHX) | 2:54 | 2025-07-03 |  |
 | [Devourer of Planets](https://open.spotify.com/track/3Gqolvarh6JAnMgfTLRkvW) | [Darkwolf](https://open.spotify.com/artist/6uNsRZIH55Mg8IsnYw1FtJ) | [Swords and Planets](https://open.spotify.com/album/5Y04aS2vWcxe24Yu2etvpF) | 4:54 | 2025-10-17 |  |
 | [Dewdrops](https://open.spotify.com/track/6DJbwFgRBZBw8CICv0Lnyo) | [JONS](https://open.spotify.com/artist/20MWIi8VytCnumhEUMVCPz) | [Dewdrops](https://open.spotify.com/album/5gCEOSLcjlspCBpyoqLcwB) | 3:46 | 2025-02-27 |  |
+| [Dharma Pig](https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Dharma Pig](https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1) | 6:26 | 2026-02-18 |  |
 | [Di sana e robusta costituzione](https://open.spotify.com/track/1oBTMbQNpMwx1MHN8kiKXu) | [Le3corde](https://open.spotify.com/artist/3ZPASHhczjeULFB9mSTVSo) | [Na!?](https://open.spotify.com/album/6T2vR1NGPdt2N0icRAyr5W) | 2:58 | 2026-02-01 |  |
 | [DI SIRENE](https://open.spotify.com/track/24a9GLzDOwyp6Y7pyOFYdo) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [DI SIRENE](https://open.spotify.com/album/1ueDYJ37hM3StQBrHLkb07) | 3:51 | 2026-02-01 |  |
 | [DI SIRENE](https://open.spotify.com/track/6xNVN9K3t4SOM1c7BKpaLO) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 3:51 | 2026-02-01 |  |
@@ -2023,6 +2025,7 @@
 | [Life for Today](https://open.spotify.com/track/4hdBi4istnjBHQWxLiBdmo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Life for Today \(single\)](https://open.spotify.com/album/5eINJa2PGmNl1msOo4TnwS) | 2:25 | 2025-05-27 |  |
 | [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 | 2026-01-13 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/4uUybQP3xXImQqJ4gxJOmY) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [Life Is Beautiful](https://open.spotify.com/album/4tXUxUM2PDXb2Dt2SYoET3) | 4:22 | 2025-12-12 |  |
+| [Life is Changing](https://open.spotify.com/track/036ai7QE1pMDVLolRDCbPg) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [Life is Changing](https://open.spotify.com/album/6YvFPtcvMzHltBQyiOBpnf) | 3:00 | 2026-02-18 |  |
 | [Life Is Good](https://open.spotify.com/track/1SoBDJYPt5eBxtEk4qtFQZ) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:08 | 2025-06-05 |  |
 | [Life is not Fair](https://open.spotify.com/track/5tLbWK2BOXL6LWASpOTjqB) | [J3mob](https://open.spotify.com/artist/0P2ZL7GBqnec5yxbZDBULK) | [Throwing Paint at the Wall](https://open.spotify.com/album/229Dep2dkn7qmhde1naalV) | 3:02 | 2025-05-16 |  |
 | [Life Must Go On](https://open.spotify.com/track/6NREVVbzpJgpRfEmQCPxPe) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Life Must Go On](https://open.spotify.com/album/43QlQLCUn4dbQBPhJJnDXh) | 3:21 | 2025-05-30 |  |
@@ -2209,6 +2212,7 @@
 | [Mere Hathon Mein](https://open.spotify.com/track/3gDPkpNUIGxxpmbGXBpT3Y) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mere Hathon Mein](https://open.spotify.com/album/7whGu36E2i44ZLfs7wd9uj) | 2:22 | 2025-12-19 |  |
 | [Metal Fury Unleashed](https://open.spotify.com/track/5eTjTIw8WpksNVf1tvncSR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:19 | 2025-09-17 |  |
 | [Metal Inferno](https://open.spotify.com/track/2tm5JcReLLG2q8plCc9Wq1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:10 | 2025-09-17 |  |
+| [METEOR QUEEN](https://open.spotify.com/track/2v7nQCFD48vBjRDcsIc0tD) | [METEOR QUEEN](https://open.spotify.com/artist/4KGSpkAJuhqRXCN43UoNBq) | [METEOR QUEEN](https://open.spotify.com/album/0FHPHLYuCPoK8RHJs6FsWv) | 3:59 | 2026-02-18 |  |
 | [Mexico](https://open.spotify.com/track/6greAYzLxlTQeeXSaMuVvi) | [Duncan Tucano](https://open.spotify.com/artist/7xluDgElp8Ul2HFFfAHllX), [Jackie\-O's Farm](https://open.spotify.com/artist/2GOrd8meEJWHHcBRz6lAeV) | [Dynamic Tamburo](https://open.spotify.com/album/72AJKB8jbGyapxjIS4JID4) | 3:21 | 2025-06-09 |  |
 | [Mi Eterna Galaxia](https://open.spotify.com/track/57XX2Omp5JPHjoT5DVVNv2) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Mi Eterna Galaxia](https://open.spotify.com/album/5O1kIl9g7CAq3EQhVjbhsR) | 4:12 | 2025-06-23 |  |
 | [Mi Fotti l'Anima](https://open.spotify.com/track/0DDTonQ2Vta5evZq8F60JN) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Mi Fotti l'Anima](https://open.spotify.com/album/4CBHa3GpO1HbyqwUg1m5xP) | 3:48 | 2025-05-27 |  |
@@ -3380,6 +3384,7 @@
 | [su\-per\-giu](https://open.spotify.com/track/0O6Mr5aP09pZoIJ8AcwBiV) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Su\-PER\-GIu](https://open.spotify.com/album/4yPh7FzQJJ31adWMGLUZfZ) | 1:17 | 2026-02-01 |  |
 | [Subienda de Sal](https://open.spotify.com/track/4vVBVb02m7bhJ21Q63tjD7) | [Nomada Colombia](https://open.spotify.com/artist/1YxUlYFHz02JQEaTWgvTYE) | [Laberinto](https://open.spotify.com/album/3ELaISSv6CFdFW1Pq9UICk) | 6:07 | 2025-05-27 |  |
 | [Sublime](https://open.spotify.com/track/5795CdaUo5gVyRFAgXZnM2) | [Miles Chancellor](https://open.spotify.com/artist/4gRpSPAev9Lp6qNd9Jun9U) | [SPOOK! : ACT I](https://open.spotify.com/album/3wjtSxfeisv4Ypa2wTOPaB) | 2:33 | 2025-03-03 |  |
+| [Such Is Life](https://open.spotify.com/track/08m9F4cUSbIBzgfFVNdK7y) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Such Is Life](https://open.spotify.com/album/2lfetQGbjwBMeCdNjQgtih) | 5:42 | 2026-02-18 |  |
 | [Sueldo en Rojo](https://open.spotify.com/track/5rkEtlZvBFAFOiNYiZho7V) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Sueldo en Rojo](https://open.spotify.com/album/0LL6IhqYSR6Eu20wUU2VPw) | 2:25 | 2025-09-11 |  |
 | [Sugar Rush](https://open.spotify.com/track/11BFWxm3IsXkwMUJT9ZuMB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:44 | 2025-09-20 |  |
 | [Sugar Sweet Delight](https://open.spotify.com/track/7Hh9KtzuYvBJzoItxEnSgv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Groovy pop](https://open.spotify.com/album/2fxdt8WQaSS5xHYoYcuVk0) | 2:02 | 2025-09-17 |  |
@@ -3554,6 +3559,7 @@
 | [The Whetting \- Acoustic](https://open.spotify.com/track/3yA0HQDLXr6OuwrphBdEWh) | [Apex4X](https://open.spotify.com/artist/0c6BktWlA4O1hrPy6q1JHA) | [Reflections](https://open.spotify.com/album/2rQqY2rEA2iOyKgCu5uF5o) | 4:55 | 2026-01-24 |  |
 | [The Wild Things](https://open.spotify.com/track/6PPBqYBKvQV3mFHLp4omOm) | [H4teMeDarian](https://open.spotify.com/artist/0CCMVF6ifomI4JsvYt7PZQ) | [The Wild Things](https://open.spotify.com/album/2XFMRfKgxoTQrINS5FATXZ) | 1:39 | 2025-06-02 |  |
 | [The Witchs Curse](https://open.spotify.com/track/5WNoewxflFNpjB6mIcT2U6) | [Deadmemxry](https://open.spotify.com/artist/2pXlZlfVJ2IADMqAaazNlJ) | [DELIRIUM](https://open.spotify.com/album/10SAyyHbQ4pjSEELg8GEnB) | 3:49 | 2025-12-04 |  |
+| [The World](https://open.spotify.com/track/7dVGcsc7buzvVCZxmjRKdc) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [The World](https://open.spotify.com/album/53Hv0nA1qvf38XMykM8877) | 3:26 | 2026-02-18 |  |
 | [Their Kin](https://open.spotify.com/track/36g2Yb2mid6mIIphz5rvYr) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Their Kin](https://open.spotify.com/album/1bMP3gZgcSaprLd2zzBM5U) | 3:28 | 2025-06-11 |  |
 | [There Goes Concorde Again](https://open.spotify.com/track/7sHuWXX3vTeb1byU2XBot6) | [...and the Native Hipsters](https://open.spotify.com/artist/4rv0B6KyCBBpV1xcNmqmCM) | [There Goes Concorde Again](https://open.spotify.com/album/4wJwa8jpvKSeQxSh0Sgb5s) | 6:43 | 2025-12-04 |  |
 | [There She Goes](https://open.spotify.com/track/5Y3wYkAVGMiUB3Wbq7f3EG) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Shotter's Nation](https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF) | 3:35 | 2025-11-05 |  |

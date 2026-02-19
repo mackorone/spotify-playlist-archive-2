@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Pyrex, Plaza, Nabi, Promessa, Marte, Diss Gacha, Lorenzza e molti altri.
 
-6,822 songs - 12 day 13 hr 45 min
+6,823 songs - 12 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1579,6 +1579,7 @@
 | [CRACK](https://open.spotify.com/track/2BaHJd7dyDcNrycmnWPJgP) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [CRACK](https://open.spotify.com/album/7GTi2a549PR00caRWUwCiZ) | 1:50 | 2024-05-02 | 2024-05-17 |
 | [CRACK COCA](https://open.spotify.com/track/0J69jDXSJLdUVSKsV9r8lY) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [CRACK COCA](https://open.spotify.com/album/6dEYHcH5MzuOuGkEqZvJbQ) | 1:26 | 2022-09-22 | 2022-10-07 |
 | [Crack In Casa 24/7](https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Crack In Casa 24/7](https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt) | 2:19 | 2022-09-08 | 2022-09-30 |
+| [CRACKERS](https://open.spotify.com/track/0WXmK981bcJwiV7XhL2mP4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [CRACKERS](https://open.spotify.com/album/4JfrerWCkMFZR4PIr98khT) | 2:37 | 2026-02-18 |  |
 | [CRACKHEAD](https://open.spotify.com/track/6Z7sL55nAzMbLt7e2SfMkQ) | [Tome](https://open.spotify.com/artist/7hmXMootpn13PHNLNtCgBn), [Venis](https://open.spotify.com/artist/4RTLkJmaBw2rsHJ1ap3Ids), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Tokyo Kids 2](https://open.spotify.com/album/63DvIHfe4LRhHIYFLzRC2g) | 2:00 | 2023-12-01 | 2023-12-08 |
 | [CRACKHEAD \(feat\. Axos\)](https://open.spotify.com/track/0cA2Jwr1pocuCmP5it1wfN) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [CRACKHEAD \(feat\. Axos\)](https://open.spotify.com/album/5JXtqfYu4oBUFE2TqNNBqt) | 2:22 | 2025-01-24 | 2025-02-21 |
 | [CRACOVIA PT\. 4](https://open.spotify.com/track/3NETCOu2DUiVXlR3YY91tj) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CRACOVIA PT\. 4](https://open.spotify.com/album/7FBpQ5AQtot3Kk9svfn84t) | 3:10 | 2023-08-24 | 2023-09-15 |

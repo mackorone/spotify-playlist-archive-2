@@ -2351,6 +2351,36 @@
     },
     {
       "album": {
+        "name": "Jee Liya (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/5U8ehxq5GgvrP0R8pZEhQe"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Gourav",
+          "url": "https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj"
+        },
+        {
+          "name": "Aditya N.",
+          "url": "https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d"
+        },
+        {
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        {
+          "name": "Chakori Dwivedi",
+          "url": "https://open.spotify.com/artist/5rm5jniMvphOzPNEn2QF6s"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Jee Liya - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0H545XfNvoSu9THGf8mBnd"
+    },
+    {
+      "album": {
         "name": "Jeena Jeena",
         "url": "https://open.spotify.com/album/3SHqkQGJus8mEWgra9jQnI"
       },
@@ -5024,12 +5054,12 @@
       },
       "artists": [
         {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        },
-        {
           "name": "Vishal Mishra",
           "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
         },
         {
           "name": "Kaushal Kishore",
@@ -5116,7 +5146,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 192199,
       "name": "Raat Bhar (From \"De De Pyaar De 2\")",
       "url": "https://open.spotify.com/track/3lX6k4KFMRUEjT1Om3i66o"

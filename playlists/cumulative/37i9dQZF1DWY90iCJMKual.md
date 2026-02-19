@@ -4,7 +4,7 @@
 
 > PH vibin' cover: OZO
 
-461 songs - 1 day 1 hr 13 min
+462 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 | 2023-07-29 |
 | [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 | 2023-05-18 |
+| [pamasahe](https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [pamasahe](https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi) | 2:48 | 2026-02-18 |  |
 | [pangalan](https://open.spotify.com/track/6sWE2HOMuYoAgsEX8PsqzI) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pangalan](https://open.spotify.com/album/1xozCy63NzVrKrSOpTLkuY) | 4:09 | 2024-11-29 |  |
 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2024-03-12 | 2025-01-17 |
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 |  |

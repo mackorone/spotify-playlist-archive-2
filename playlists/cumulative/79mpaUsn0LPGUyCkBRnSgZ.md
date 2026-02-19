@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,058 songs - 2 day 21 hr 5 min
+1,060 songs - 2 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [I Feel Ya' Strutter](https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [False Priest \(Deluxe Edition\)](https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx) | 3:40 | 2023-08-04 |  |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-03 |  |
 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 | 2025-09-08 |  |
+| [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 | 2026-02-18 |  |
 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 |  |
 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 | 2024-02-07 |  |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:54 | 2025-01-06 | 2025-01-07 |
@@ -801,6 +802,7 @@
 | [Side A \[Old\]](https://open.spotify.com/track/4YN0Su0hKKxxfzzv431n4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 2:23 | 2023-11-17 | 2024-03-16 |
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2021-12-30 | 2024-11-06 |
 | [Silence Is Loud](https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:37 | 2024-05-28 |  |
+| [Silent Exchange](https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Small Talk](https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk) | 3:41 | 2026-02-18 |  |
 | [Silent Resolve](https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV) | [Circa](https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly) | [Valley of the Windmill](https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp) | 14:41 | 2024-05-27 |  |
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sillycone Valley](https://open.spotify.com/track/23R59LUKKvATvII3orFxCS) | [Lene Alexandra](https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex) | [Welcome to Sillycone Valley](https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv) | 3:01 | 2024-02-06 | 2024-02-17 |

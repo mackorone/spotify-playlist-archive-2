@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2071371,
+  "num_followers": 2071376,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAA7v70HN4A35WTku0lrmGEA",
+  "snapshot_id": "aZOvgAAAAAARvf1EevVsr5M69dGQ8d51",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Forever Loving Jah",
-      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
+      "duration_ms": 271023,
+      "name": "Coming In From The Cold",
+      "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271023,
-      "name": "Coming In From The Cold",
-      "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+      "duration_ms": 242333,
+      "name": "Forever Loving Jah",
+      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Who The Cap Fit",
-      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
+      "duration_ms": 283066,
+      "name": "Who The Cap Fit",
+      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
     },
     {
       "added_at": null,

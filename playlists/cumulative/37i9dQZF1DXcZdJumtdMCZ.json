@@ -1045,6 +1045,32 @@
     },
     {
       "album": {
+        "name": "Chamayam",
+        "url": "https://open.spotify.com/album/5GDdAIGPNIwygJmyEbOkeh"
+      },
+      "artists": [
+        {
+          "name": "HRISHI",
+          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
+        },
+        {
+          "name": "Seth Panda",
+          "url": "https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo"
+        },
+        {
+          "name": "8c sam",
+          "url": "https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Chamayam",
+      "url": "https://open.spotify.com/track/2BOpYO1hj637werTHYRWwB"
+    },
+    {
+      "album": {
         "name": "Champagini (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM"
       },

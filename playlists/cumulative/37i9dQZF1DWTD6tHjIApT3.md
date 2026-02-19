@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: さとうもか satomoka
 
-3,657 songs - 9 day 16 hr 59 min
+3,657 songs - 9 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [22](https://open.spotify.com/track/3CV7ldwEV40B3H3aPNago4) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [my luv](https://open.spotify.com/album/0L7qxh2A3AcJDZZbbgQUPj) | 2:43 | 2025-01-21 | 2025-01-29 |
 | [23](https://open.spotify.com/track/0unCI18h8mVNqcSUwZSq7b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [23](https://open.spotify.com/album/7BvtGsDH1BrpBtm8kQbQHY) | 3:33 | 2022-05-29 | 2022-07-29 |
 | [24 hours](https://open.spotify.com/track/425WJPWgyYnwvi4VQTq3lQ) | [植城 微香](https://open.spotify.com/artist/0eI7jwIoQ82C2fZcwRpZUs) | [24 hours](https://open.spotify.com/album/24qNK5cc5lKH8e971Y4eyo) | 3:43 | 2022-06-14 | 2022-07-18 |
-| [24\-5](https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [24\-5](https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF) | 3:11 | 2026-02-11 | 2026-02-18 |
+| [24\-5](https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [24\-5](https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF) | 3:11 | 2026-02-11 |  |
 | [25](https://open.spotify.com/track/5oh8O4EMOBQNldYQyL7irn) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [25](https://open.spotify.com/album/7D312ufAVxYDBTOgiKQaBS) | 2:56 | 2024-02-27 | 2024-04-10 |
 | [25コ目の染色体](https://open.spotify.com/track/0oWj7v21R5YMIJCHVCADUp) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [25コ目の染色体](https://open.spotify.com/album/5zfbtBsNrERjobaqJSokUI) | 5:29 | 2025-11-18 | 2026-02-12 |
 | [27歳 \[CD Ver.\] \(phritz Remix\)](https://open.spotify.com/track/7B8WbWWA9cEvWnZgcrjjUG) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Panikhida \[2015\-2022 Best Song Remixes\]](https://open.spotify.com/album/0C5dNmi2SZVHkevtFF1FXc) | 3:05 | 2023-02-21 | 2023-03-01 |
@@ -550,7 +550,7 @@
 | [Euphoria Running Away](https://open.spotify.com/track/3Aeqnm5tMc1mqRlrnkkmAK) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Euphoria Running Away](https://open.spotify.com/album/3HASLyktJimnf5va4hG4uz) | 3:09 | 2023-12-28 | 2024-01-10 |
 | [EVER](https://open.spotify.com/track/4Xe14fnPtj7IZZw6GRbhyS) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [EVER](https://open.spotify.com/album/68ZZTWwNUPH9OILzVvl8Bi) | 4:28 | 2025-02-11 | 2025-02-19 |
 | [evergreen](https://open.spotify.com/track/2CpvIkHvGiidJmS6MtEgxN) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:49 | 2026-01-14 |  |
-| [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [](https://open.spotify.com/album/null) | 3:01 | 2026-02-17 |  |
+| [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 | 2026-02-17 |  |
 | [EVERY HOUR](https://open.spotify.com/track/7uT5F80Qca7dha4tXlN1Xd) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [EVERY HOUR](https://open.spotify.com/album/1ubUasn6ja0uSJEHLGvgRr) | 3:03 | 2024-07-04 | 2024-07-17 |
 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 | 2023-09-05 | 2024-10-02 |
 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 | 2022-09-29 | 2024-04-19 |
@@ -1013,6 +1013,7 @@
 | [landmark](https://open.spotify.com/track/0N5CXD5idZh3DdWLlbEJya) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Salyu 20th Anniversary Tribute Album “grafting”](https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4) | 6:06 | 2024-12-17 | 2024-12-25 |
 | [lapis lazuli feat\. luvis](https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [lapis lazuli](https://open.spotify.com/album/6cD9JRGnKgOlqM7m2UqKad) | 3:40 | 2025-08-05 | 2025-08-13 |
 | [last scene.](https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [last scene.](https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw) | 4:09 | 2025-10-14 | 2026-02-12 |
+| [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 | 2026-02-17 |  |
 | [Last Waltz](https://open.spotify.com/track/74x5DQayhrqNKijD3rFDkS) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [Blue Bird](https://open.spotify.com/album/3jOn1P9KaUoGTQjfYquK1Q) | 3:57 | 2024-12-24 | 2025-01-15 |
 | [Latata](https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:06 | 2025-12-09 | 2026-02-12 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2022-09-21 |
@@ -1896,8 +1897,6 @@
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
-| [Track 5](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
-| [Track 9](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |
@@ -2251,6 +2250,7 @@
 | [さかさまの雨](https://open.spotify.com/track/6RTVMxBRIPazAjbstaVNLY) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [さかさまの雨](https://open.spotify.com/album/3o2p600srbydOzSp4iKaXf) | 4:12 | 2022-06-14 | 2022-07-15 |
 | [さくらんぼみたいな恋がしたい](https://open.spotify.com/track/0tKD6WN6sHgPiaE9a2yP9C) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [さくらんぼみたいな恋がしたい](https://open.spotify.com/album/2Ojbfx57bkUiyN2BQZvrvS) | 3:29 | 2023-06-27 | 2023-06-29 |
 | [さくらムード](https://open.spotify.com/track/3tSR4I27WnN5bI6FObVJJm) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [さくらムード](https://open.spotify.com/album/7b5IwqIZx3pVirqxR0OOTU) | 4:11 | 2025-03-04 | 2025-03-12 |
+| [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 | 2026-02-17 |  |
 | [さよなら \- feat.Foi](https://open.spotify.com/track/1dsbXKM1WUuJkVR3tPLxG2) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2), [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [さよなら \(feat.Foi\)](https://open.spotify.com/album/0NjzzDwHwdlJA8PcuZ5EMn) | 3:58 | 2023-07-04 | 2023-08-02 |
 | [さよならクレール](https://open.spotify.com/track/0oYXyyHYFmGCJTwCqv0OU3) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [さよならクレール](https://open.spotify.com/album/5d8QblpT5wbBlaq9qOflhm) | 3:48 | 2022-05-29 | 2022-07-28 |
 | [さらりさら](https://open.spotify.com/track/0cr85iMUCqSoDhIIIS5KSJ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら](https://open.spotify.com/album/3VjLIlFSJL3OLNYoqIlAe5) | 4:29 | 2022-07-12 | 2022-07-28 |
@@ -3217,7 +3217,7 @@
 | [星屑のエスケープ](https://open.spotify.com/track/1VSOgvQqX4jbB23qBYo2Lr) | [稲場愛香](https://open.spotify.com/artist/16cMBa0gb5NPtLs7r6wjDp) | [星屑のエスケープ／終わらないインソムニア \(Special Edition\)](https://open.spotify.com/album/1aY9ENl9L9c6fLJLGoNW6f) | 3:11 | 2025-02-23 | 2025-03-05 |
 | [星屑ドライブ](https://open.spotify.com/track/4iAxpxyp6daT87wourqX39) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ](https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc) | 4:38 | 2022-07-26 | 2022-07-28 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-07 | 2024-12-05 |
-| [星紡ぎ](https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE) | 4:12 | 2025-12-16 |  |
+| [星紡ぎ](https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE) | 4:12 | 2025-12-16 | 2026-02-19 |
 | [星街の駅で \- At Hoshimachi Station](https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [星街の駅で \- At Hoshimachi Station](https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv) | 3:58 | 2024-06-18 | 2025-04-16 |
 | [星風](https://open.spotify.com/track/3ZK6wJebNQUnqgMIxr8GZV) | [RYTHEM](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [星風](https://open.spotify.com/album/6WW49QcAdeTui8ieSJwXmG) | 4:42 | 2024-03-19 | 2024-03-27 |
 | [春 ～Destiny～](https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [春 ～Destiny～](https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn) | 3:52 | 2025-03-18 | 2025-06-22 |

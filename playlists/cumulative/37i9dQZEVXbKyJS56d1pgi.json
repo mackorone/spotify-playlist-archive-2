@@ -5795,6 +5795,28 @@
     },
     {
       "album": {
+        "name": "CARNAVAL",
+        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "CARNAVAL",
+      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -13112,7 +13134,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 174110,
       "name": "Fui Mlk",
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
@@ -31354,7 +31376,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -36236,7 +36258,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 155307,
       "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"

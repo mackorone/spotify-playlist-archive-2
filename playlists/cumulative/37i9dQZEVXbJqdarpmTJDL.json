@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Aeroplana",
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
@@ -4956,6 +4956,24 @@
       "duration_ms": 216000,
       "name": "Asteio",
       "url": "https://open.spotify.com/track/4EtdWayd2ovobv6F3MeoYU"
+    },
+    {
+      "album": {
+        "name": "ASTEIO",
+        "url": "https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ASTEIO",
+      "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
     },
     {
       "album": {
@@ -18676,7 +18694,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 186122,
       "name": "FWTIA",
       "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
@@ -53978,7 +53996,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 180000,
       "name": "Xanomai",
       "url": "https://open.spotify.com/track/6HZGBcrYHmc3cdGlpjkF0j"

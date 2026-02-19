@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Olga Myko✨
 
-2,280 songs - 5 day 3 hr 24 min
+2,281 songs - 5 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1243,6 +1243,7 @@
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-02 | 2023-11-07 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-11-22 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-17 | 2023-05-12 |
+| [Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Magic Misery](https://open.spotify.com/album/6F2DiBoxALYQQGjlJ26OFG) | 3:16 | 2026-02-18 |  |
 | [Magic or Medicine](https://open.spotify.com/track/634ImWy00OkeHFIg6exzKe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Magic or Medicine](https://open.spotify.com/album/2EAloEJnfnqiZJExj0gre2) | 3:03 | 2025-02-27 | 2025-04-25 |
 | [Magnolia](https://open.spotify.com/track/4Hbw9v9FzmpEG2lsEkNePw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Cefalù Coastal Club](https://open.spotify.com/album/1gXITIvYBwH4ZlBzFeQnQr) | 2:34 | 2026-01-15 |  |
 | [Mailman](https://open.spotify.com/track/0XsJuSG8F52MLU52tG2KFv) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Mailman](https://open.spotify.com/album/3I7I0dhp8PcrZxfbHp4r6n) | 3:27 | 2025-10-02 | 2026-02-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 49290,
+  "num_followers": 49318,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAADrjuvZWw3hLtms0/7ToXQl",
+  "snapshot_id": "aZOvgAAAAAB3LLRMqXHkVZQK51ofn8kZ",
   "tracks": [
     {
       "added_at": null,
@@ -330,15 +330,11 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket - feat. Sam Carter",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": null,
@@ -398,11 +394,15 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
+      "duration_ms": 198067,
+      "name": "Yellowjacket - feat. Sam Carter",
+      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
     },
     {
       "added_at": null,

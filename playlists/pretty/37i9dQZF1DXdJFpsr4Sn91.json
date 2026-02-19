@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60204,
+  "num_followers": 60203,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 225061,
       "name": "Syd\u00e4n (feat. Alina Burnet)",
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+        }
+      ],
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
         "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
         "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 178815,
       "name": "Ready To Leave",
       "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
-        "url": "https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23"
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 206760,
-      "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
-      "url": "https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf"
+      "duration_ms": 186680,
+      "name": "Tuun viel himaan",
+      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Valoa varten",
-        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
+        "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+        "url": "https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 186680,
-      "name": "Tuun viel himaan",
-      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
+      "duration_ms": 206760,
+      "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+      "url": "https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Cokis ja Mentos",
-        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
       },
       "artists": [
         {
-          "name": "Mira Luoti",
-          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 167293,
-      "name": "Cokis ja Mentos",
-      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
+      "duration_ms": 177160,
+      "name": "Aloittelijat",
+      "url": "https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1307,6 +1307,22 @@
       "duration_ms": 176754,
       "name": "Uus ikuisuus",
       "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "Cokis ja Mentos",
+        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+      },
+      "artists": [
+        {
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Cokis ja Mentos",
+      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Valoa varten",
-        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Aloittelijat",
-      "url": "https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
         "name": "Kun tulee pimee",
         "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 165269,
       "name": "Kun tulee pimee",
       "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-02-13 08:10:58",
-      "album": {
-        "name": "Bensaa tulipaloon",
-        "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "Bensaa tulipaloon",
-      "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
     },
     {
       "added_at": "2026-02-13 08:10:58",
@@ -1395,22 +1379,38 @@
     {
       "added_at": "2026-02-13 08:10:58",
       "album": {
-        "name": "Sotilas (feat. Senni)",
-        "url": "https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq"
+        "name": "Bensaa tulipaloon",
+        "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
       },
       "artists": [
         {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        },
-        {
-          "name": "Senni",
-          "url": "https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr"
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Sotilas (feat. Senni)",
-      "url": "https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT"
+      "duration_ms": 181578,
+      "name": "Bensaa tulipaloon",
+      "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
+    },
+    {
+      "added_at": "2026-02-13 08:10:58",
+      "album": {
+        "name": "OMG (feat. Evelina)",
+        "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        },
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "OMG (feat. Evelina)",
+      "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
     }
   ],
   "unique_name": "Nousussa",

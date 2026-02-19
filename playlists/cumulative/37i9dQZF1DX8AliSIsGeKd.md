@@ -2,7 +2,7 @@
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music\. Cover:
+> The best new electronic music\. Cover: Cosmic Gate, Pretty Pink
 
 6,476 songs - 22 day 7 hr 39 min
 

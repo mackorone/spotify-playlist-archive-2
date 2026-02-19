@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Chloe Saavedra\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: EMMA SEE\. Artwork by Paola Saliby
 
-4,395 songs - 9 day 7 hr 56 min
+4,398 songs - 9 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Circumstantial Confidence](https://open.spotify.com/track/4vfCBI1ADYnvvwLB0qg50g) | [Tedadore](https://open.spotify.com/artist/5Sy1WoUv5DuzsMoQ0SLp6E) | [Circumstantial Confidence](https://open.spotify.com/album/1SaKE0gJtKei809g7F8ICl) | 3:32 | 2021-07-02 | 2021-07-29 |
 | [City](https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W) | [Tobias Defoe](https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l) | [City](https://open.spotify.com/album/2kKVo48OHlMQdbhBK3ZHT1) | 2:43 | 2024-03-06 | 2024-04-19 |
 | [City of Angels](https://open.spotify.com/track/6Y3ksyxJPEJr0nZATJq1Y5) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [City of Angels](https://open.spotify.com/album/4OlLFlWJ5rQ4XKuVzyrCxZ) | 2:13 | 2022-02-09 | 2022-03-10 |
+| [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-18 |  |
 | [Clarence](https://open.spotify.com/track/58GqIwAH6Z9qPBDQRd2sEr) | [Jude Kelly](https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ) | [Clarence](https://open.spotify.com/album/6YMvucMuycOBYPK39jtztD) | 3:30 | 2025-03-12 | 2025-05-29 |
 | [Classic](https://open.spotify.com/track/16ELC6PKYdHxw5UVt0Xnrb) | [Fire Choir](https://open.spotify.com/artist/0MTQj6AkAsjqaxXHQNbK3N) | [Classic](https://open.spotify.com/album/2rf923kCGBZ8GsyQMfNCSZ) | 2:26 | 2021-08-05 | 2021-09-10 |
 | [Classic](https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0) | [Tori Templet](https://open.spotify.com/artist/7ulINFYFROOmdGxDhsjMqG) | [Classic](https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh) | 2:47 | 2020-11-12 | 2020-12-08 |
@@ -1156,6 +1157,7 @@
 | [Emojis](https://open.spotify.com/track/1AHM4CH4lY7CL6d2VXus9I) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Emojis](https://open.spotify.com/album/1qC4MkIm7v0p2ED8kkvO02) | 2:30 | 2022-07-27 | 2022-08-25 |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-23 | 2022-03-24 |
 | [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 | 2024-02-28 | 2024-05-16 |
+| [Emotional Currency](https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Emotional Currency](https://open.spotify.com/album/0AJmZZ3Q48msUG8qXcDe8c) | 2:31 | 2026-02-18 |  |
 | [emotionally invested](https://open.spotify.com/track/1sqsj3MTO5DnhmzfiOmKce) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [emotionally invested](https://open.spotify.com/album/05dHj6iHxlQXVRvDgSu0Iu) | 3:02 | 2023-04-19 | 2023-11-09 |
 | [emotionally unavailable](https://open.spotify.com/track/3z7wG2e5j9fcCmFu50VTxK) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [emotionally unavailable](https://open.spotify.com/album/7f4Jdc4Xjh2SGgyWJ3GHvO) | 2:25 | 2022-10-12 | 2022-12-01 |
 | [emotionallycoaster](https://open.spotify.com/track/6Y4HQDbuzupT2ppopgy85C) | [Pura Bliss](https://open.spotify.com/artist/4QtTpBceIwDrcKLsXtP9Za) | [emotionallycoaster](https://open.spotify.com/album/0WaLKsSTgAzTE4HQiB2Doz) | 1:58 | 2021-03-25 | 2021-04-29 |
@@ -3018,6 +3020,7 @@
 | [Please Don't Make Me Fall in Love](https://open.spotify.com/track/2kVg9jZEemIamSdpMLJj26) | [Meg DeAngelis](https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2) | [Please Don't Make Me Fall in Love](https://open.spotify.com/album/7HdT1rsUFW7ffCs8SNjobJ) | 2:30 | 2020-10-29 | 2020-12-08 |
 | [Please Just Wait](https://open.spotify.com/track/359QrJsYGzTGY7cJRw65HA) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Please Just Wait](https://open.spotify.com/album/3fqZKOBuPhGD1KVhe8WPBW) | 3:30 | 2021-07-29 | 2021-09-16 |
 | [Plenty](https://open.spotify.com/track/6lOsy0eDhWIyOlLtdve1Q3) | [Jess Meilman](https://open.spotify.com/artist/1kmlGybezNBp0fGM8PNBw9) | [Plenty](https://open.spotify.com/album/0xajxOQWqEdkdRcqwmgw5b) | 2:37 | 2022-05-11 | 2022-06-16 |
+| [PLM](https://open.spotify.com/track/117MZN6QmvdeBN78rVmphq) | [LALA HAYDEN](https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn) | [PLM](https://open.spotify.com/album/2t6DASZWlEFjg7sxUFQHLi) | 2:30 | 2026-02-18 |  |
 | [Plot Twist](https://open.spotify.com/track/1nWcPZzVOoHwlJ1osdLbDe) | [Anna Duboc](https://open.spotify.com/artist/5Vyq6tE0rTepmsqSohBOOR) | [Plot Twist](https://open.spotify.com/album/1bBvmiCE6JF5dxn5AOqu99) | 3:04 | 2023-04-19 | 2023-06-08 |
 | [Pocket](https://open.spotify.com/track/2CWQJVjO250a4pCwMA1MZn) | [SKIA](https://open.spotify.com/artist/4l6PJOYB5DTv4fFqYPdYSs) | [Pocket](https://open.spotify.com/album/464YpQjEC6KhgUCpxALxqs) | 2:49 | 2020-10-13\* | 2020-11-12 |
 | [Poison](https://open.spotify.com/track/5ShPqagyM3KR45CrbuUrNX) | [Sickface](https://open.spotify.com/artist/0mwBUAdWXo2ERzcexPo4fV) | [Poison](https://open.spotify.com/album/6OGBCT6pYNRWj1BIYni6Ma) | 3:17 | 2021-02-10 | 2021-03-11 |

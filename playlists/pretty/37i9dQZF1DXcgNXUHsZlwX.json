@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 142566,
+  "num_followers": 142611,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Tu reviendras",
         "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 134581,
       "name": "Tu reviendras",
       "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Journal d'un Loup-Garou",
-        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+        "name": "Jacques",
+        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Ariane",
-      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
+      "duration_ms": 207795,
+      "name": "Jacques",
+      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Jacques",
-        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
       "artists": [
         {
-          "name": "Louis-Charles",
-          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Jacques",
-      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
+      "duration_ms": 193733,
+      "name": "Ariane",
+      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+      "duration_ms": 279417,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Laroie",
-          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 279417,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "Vendredi",
         "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 186546,
       "name": "Vendredi",
       "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
       },
@@ -1443,6 +1463,22 @@
       "duration_ms": 207318,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1479,58 +1515,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "River Run (with Lila Dupont)",
-        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        },
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 205959,
-      "name": "River Run (with Lila Dupont)",
-      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Mon amour",
-        "url": "https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk"
-      },
-      "artists": [
-        {
-          "name": "Clara Roy-Jensen",
-          "url": "https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ"
-        }
-      ],
-      "duration_ms": 269293,
-      "name": "Mon amour",
-      "url": "https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Bras solaires",
         "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223663,
       "name": "Bras solaires",
       "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Mon amour",
+        "url": "https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk"
+      },
+      "artists": [
+        {
+          "name": "Clara Roy-Jensen",
+          "url": "https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ"
+        }
+      ],
+      "duration_ms": 269293,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8"
     },
     {
       "added_at": "2026-02-06 05:01:24",

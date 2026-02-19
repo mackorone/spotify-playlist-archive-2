@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,831 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,840 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 55 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 56 | [Reggaeton Pesa’o](https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Cael Roldan](https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3) | [Reggaeton Pesa’o](https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ) | 2:49 |
 | 57 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
-| 58 | [Chakaleo](https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Chakaleo](https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz) | 3:03 |
-| 59 | [CATOLICA](https://open.spotify.com/track/3iU8zlbvXz9XvcumhIkgO1) | [Pepo Mix](https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i), [Morrow](https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4) | [CATOLICA](https://open.spotify.com/album/4iWIaY59FXJ2rKGhbO1KuU) | 2:20 |
+| 58 | [BILLETES EN EL AIRE](https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Totoy El Frio](https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh) | [BILLETES EN EL AIRE](https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe) | 3:02 |
+| 59 | [Chakaleo](https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Chakaleo](https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz) | 3:03 |
 | 60 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 
 Snapshot ID: `AAAAABE69jK4HKFjcNEnfNirvojHFFSa`

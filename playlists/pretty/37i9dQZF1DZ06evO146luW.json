@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50241,
+  "num_followers": 50247,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAAQdIegHyzOeapKqZAJhFWa",
+  "snapshot_id": "aZOvgAAAAAB8C74NEHo9pvoiylLve/TG",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Werewolf",
-        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+        "name": "Happier Alone",
+        "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
       "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 222578,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happier Alone",
-        "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
       "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "Nothing Left to Say",
-      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 260664,
       "name": "FGA",
       "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Nothing Left to Say",
+      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 389972,
-      "name": "Too High to Cry",
-      "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 306057,
       "name": "YellaBush Road",
       "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 389972,
+      "name": "Too High to Cry",
+      "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 214532,
-      "name": "What You Deserve",
-      "url": "https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233226,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 214532,
+      "name": "What You Deserve",
+      "url": "https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO"
     },
     {
       "added_at": null,

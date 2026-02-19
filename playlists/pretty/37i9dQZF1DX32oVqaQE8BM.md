@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,517 likes - 213 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,698 likes - 213 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 212 | [Above or Afar](https://open.spotify.com/track/47ZF3hjb1uOe6pQT7rll6w) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Above or Afar](https://open.spotify.com/album/51x0qhbHoXdb5K2wE4QcFM) | 2:22 |
 | 213 | [Cold Rain](https://open.spotify.com/track/3LghTGGH0RiVEEHsqFWrMh) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Cold Rain](https://open.spotify.com/album/7Kx1XsWTTpQJzfDzR33D6O) | 2:36 |
 
-Snapshot ID: `AAAAAC7HwcxynbyU3BNFiwjqCHN3n+Md`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498090,
+  "num_followers": 498080,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,30 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -1083,30 +1107,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Rytikal",
-          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "BOSS UP",
         "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "That Way",
         "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "duration_ms": 123822,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        }
-      ],
-      "duration_ms": 123822,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Basshall Party",
-        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        }
-      ],
-      "duration_ms": 123647,
-      "name": "Basshall Party",
-      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Sabu",
         "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 184062,
       "name": "Sabu",
       "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Basshall Party",
+        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "duration_ms": 123647,
+      "name": "Basshall Party",
+      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2527,6 +2527,26 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
+        "name": "Ayaya",
+        "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "duration_ms": 155783,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
         "name": "Shamajo",
         "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
       },
@@ -2563,26 +2583,6 @@
       "duration_ms": 144675,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
-        "name": "Ayaya",
-        "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 155783,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
     },
     {
       "added_at": "2026-02-12 23:00:35",
@@ -2771,26 +2771,6 @@
     {
       "added_at": "2026-02-12 23:00:35",
       "album": {
-        "name": "Luvergirl",
-        "url": "https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 125562,
-      "name": "Pity (feat. Tanya Stephens)",
-      "url": "https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH"
-    },
-    {
-      "added_at": "2026-02-12 23:00:35",
-      "album": {
         "name": "Vitamine",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
       },
@@ -2807,6 +2787,26 @@
       "duration_ms": 154772,
       "name": "Vitamine (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2026-02-12 23:00:35",
+      "album": {
+        "name": "Luvergirl",
+        "url": "https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "duration_ms": 125562,
+      "name": "Pity (feat. Tanya Stephens)",
+      "url": "https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH"
     },
     {
       "added_at": "2026-02-12 23:00:35",

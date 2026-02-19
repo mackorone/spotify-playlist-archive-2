@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 697072,
+  "num_followers": 697143,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "The Night Trip",
         "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
         }
       ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1063,22 +1079,6 @@
       "duration_ms": 201496,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
-      },
-      "artists": [
-        {
-          "name": "DE SOFFER",
-          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Waiting 4 You",
         "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/2HKO8cyIo1J4jUKMbmZLBi"
+      },
+      "artists": [
+        {
+          "name": "DE SOFFER",
+          "url": "https://open.spotify.com/artist/1AMCtgWEnaZcHmIhD5wGjz"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1215,26 +1215,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Papooz & Friends",
-        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Hugo Hamlet",
-          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
-        }
-      ],
-      "duration_ms": 165707,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1315,6 +1295,26 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Papooz & Friends",
+        "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Hugo Hamlet",
+          "url": "https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO"
+        }
+      ],
+      "duration_ms": 165707,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Time To Move",
-        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 191484,
-      "name": "Time To Move",
-      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
       },
@@ -1579,22 +1563,34 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+        "name": "Time To Move",
+        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
       "artists": [
         {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+      "duration_ms": 191484,
+      "name": "Time To Move",
+      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
         }
       ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1647,22 +1647,6 @@
       "duration_ms": 110062,
       "name": "Stick Together",
       "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1687,6 +1671,22 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        }
-      ],
-      "duration_ms": 226929,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 184801,
       "name": "Silky, Buttery, Smooth",
       "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 226929,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Know Me",
-        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 207561,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "cabo player",
         "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
       },
@@ -2023,22 +2003,6 @@
       "duration_ms": 139000,
       "name": "cabo player",
       "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2067,6 +2031,42 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Know Me",
+        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 207561,
+      "name": "Know Me",
+      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
         "name": "Ol\u00e9 Maca",
         "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
       },
@@ -2079,6 +2079,26 @@
       "duration_ms": 279036,
       "name": "Letras",
       "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2107,26 +2127,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "SUBURBIA (after dark)",
         "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
       },
@@ -2143,6 +2143,22 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2167,22 +2183,6 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "All Of The Time",
-        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 237716,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "All Of The Time",
+        "url": "https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 159498,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
-    },
-    {
-      "added_at": "2026-02-13 05:00:32",
-      "album": {
         "name": "Let It Go, Baby",
         "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 149374,
       "name": "Let It Go, Baby",
       "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 159498,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -2379,34 +2379,42 @@
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos"
+        "name": "DANGEROUS (So Dare Me)",
+        "url": "https://open.spotify.com/album/7aHwznZ9zCFXvpTthz2BqH"
       },
       "artists": [
         {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
         }
       ],
-      "duration_ms": 205312,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP"
+      "duration_ms": 177560,
+      "name": "DANGEROUS (So Dare Me)",
+      "url": "https://open.spotify.com/track/1OZ9eQn7mSVQaKCKEzx5n2"
     },
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
-        "name": "Look How Far We've Come",
-        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
+        "name": "Maybe In Another Life",
+        "url": "https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG"
       },
       "artists": [
         {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+          "name": "lovetempo",
+          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Look How Far We've Come",
-      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
+      "duration_ms": 219781,
+      "name": "Maybe In Another Life - Bosq Sunset Boogie Mix",
+      "url": "https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq"
     }
   ],
   "unique_name": "Poolside Disco",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx, Central Cee, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,694 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,671 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 76 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
 | 77 | [Shutting Up](https://open.spotify.com/track/6Nv3YIAjAcakczsJafMv0C) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fake Denim / Shutting Up](https://open.spotify.com/album/0iZPJncmI2J0XZ6wUuxEaL) | 2:41 |
 | 78 | [Figure It Out](https://open.spotify.com/track/0NfTw7C1fWH3SOC6mgz6w1) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Figure It Out](https://open.spotify.com/album/2DHVSPOy6J9ejRtQkkZwE5) | 3:22 |
-| 79 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 79 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 80 | [Pain Is A Must](https://open.spotify.com/track/0wL1k37TOX2ej1eCMpA3io) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Pain Is A Must](https://open.spotify.com/album/2lWJXMUqoP0IP0loTZ453q) | 2:24 |
 | 81 | [Everything But U](https://open.spotify.com/track/4jCsnuVEiEDXuRcx5E4Pdk) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu), [Jolie P](https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB) | [Everything But U](https://open.spotify.com/album/26fT409CjzKBwZRROKfjBn) | 3:07 |
 | 82 | [20th January](https://open.spotify.com/track/08R5dODNJXuhawekAz1rFS) | [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5) | [More Muni More Freedom](https://open.spotify.com/album/6Fpxqpk6su2kCg83lxT8PO) | 2:55 |

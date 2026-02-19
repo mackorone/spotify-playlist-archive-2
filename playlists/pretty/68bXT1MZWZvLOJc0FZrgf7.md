@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 93,245 likes - 100 songs - 5 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 93,234 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 27 | [Crazy \(Nobody Else\)](https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo \(25th Anniversary Edition\)](https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6) | 4:15 |
 | 28 | [Viol \- live](https://open.spotify.com/track/5R8abT9bMjEroknSZHEkG6) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Enter The Gamma \(Live\)](https://open.spotify.com/album/2oJUS7RcBhlPc6SJJ5vjcq) | 3:49 |
 | 29 | [Never Let You Go](https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q) | 3:01 |
-| 30 | [Brazil](https://open.spotify.com/track/5nXZy0eMfjapdgXc3GPi22) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/5IT5bNaL0VpwpfBGJ8LKZp) | 2:24 |
+| 30 | [Brazil \- Remix](https://open.spotify.com/track/5nXZy0eMfjapdgXc3GPi22) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil \(Remix\)](https://open.spotify.com/album/5IT5bNaL0VpwpfBGJ8LKZp) | 2:24 |
 | 31 | [DANCE..\. \- Edit](https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 3:56 |
 | 32 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 | 33 | [Would You Be Mine](https://open.spotify.com/track/2yFqgaPuhRKABAlduKwrRK) | [Evenity](https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Would You Be Mine](https://open.spotify.com/album/6CVIbnCIY3wjsXlWhJGVfT) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Campanella \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,370 likes - 93 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,377 likes - 93 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 19 | [TOKYO ONDO](https://open.spotify.com/track/5rLFQNomkpM5yWJ3BMRIn3) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [EDOTENSEI](https://open.spotify.com/album/2RFQC6AJ6x0b7ftCkgT1n2) | 3:29 |
 | 20 | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/track/6FYeN26inu1ArB0YGuW98s) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [MONEY UP \(feat\. 7 & eyden\)](https://open.spotify.com/album/08zxWOjo6UKSy1zNaGAyt6) | 2:54 |
 | 21 | [Naked](https://open.spotify.com/track/6Ic54h1fjOVzKoZDhF1tcJ) | [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt) | [Forever](https://open.spotify.com/album/1W0kGrrzOFF9CX6ErKdtLA) | 2:38 |
-| 22 | [Track 1](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [London](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [Goodbye Sad Boy](https://open.spotify.com/album/7uaI9vopFG1RTVZQUbM1GR) | 2:17 |
 | 23 | [Ride Remix \(feat\. IO\)](https://open.spotify.com/track/2xowEfMazyKWkMGPUCaM72) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Ride Remix \(feat\. IO\)](https://open.spotify.com/album/0tszxEUKldzRspJnTACvLK) | 4:33 |
 | 24 | [Post Poet](https://open.spotify.com/track/3iNf4RBXuPJ9suCkxzJ0MO) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [Post Poet](https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg) | 1:56 |
 | 25 | [WAKEUP feat\. MFS](https://open.spotify.com/track/10hECoqlYMzAZ9CYCo4Ngg) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [WAKEUP feat\. MFS](https://open.spotify.com/album/4txz5TYyAD6KRDwUUNiEHB) | 2:58 |

@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-493 songs - 1 day 5 hr 51 min
+494 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [The Funktion](https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Funktion](https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS) | 3:28 | 2023-11-26 | 2024-02-05 |
 | [The Movement](https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Movement](https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [The Mumble](https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O) | [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [The Mumble](https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch) | 3:46 | 2023-04-09 | 2023-04-24 |
+| [The Rose](https://open.spotify.com/track/1uIQ895GDy3q9NlMu14pI7) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Paradise](https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY) | 3:32 | 2026-02-18 |  |
 | [The Spree](https://open.spotify.com/track/7eIGCVqTAmEK2AYiYSQjob) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [The Spree](https://open.spotify.com/album/7MBdsaS4VeFNemvbJ12NC1) | 3:49 | 2024-05-19 | 2024-07-08 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-30 | 2023-08-28 |
 | [The Unknown](https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Unknown](https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M) | 2:56 | 2024-05-19 | 2024-07-08 |

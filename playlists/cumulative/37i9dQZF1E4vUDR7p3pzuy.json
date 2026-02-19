@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 208506,
       "name": "(UN)Lucky",
       "url": "https://open.spotify.com/track/4UdgTLn1uzI06iLUVF0kDS"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 261818,
       "name": "Abstraction",
       "url": "https://open.spotify.com/track/0zVv2kHtO7bbAWuE5ztylT"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 332598,
       "name": "Child of Fear - Sinister Remix",
       "url": "https://open.spotify.com/track/0RUKvszRCjawjDV4Y5ZpqE"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Defense 101",
+        "url": "https://open.spotify.com/album/0OR2HfWLbc68Yu7LBevdy9"
+      },
+      "artists": [
+        {
+          "name": "WarSongs English",
+          "url": "https://open.spotify.com/artist/4j7ojtDoEQlTIdDsLGLuxL"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117399,
+      "name": "F-15 : Feel the power",
+      "url": "https://open.spotify.com/track/1xzPJeLC6tFsRmnqIS6GCi"
+    },
+    {
+      "album": {
         "name": "Time's Arrow Remixed",
         "url": "https://open.spotify.com/album/4qzbywOlrAzr5HKeHipS6u"
       },
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -3428,6 +3446,24 @@
       "duration_ms": 200275,
       "name": "Jumpers",
       "url": "https://open.spotify.com/track/1VPeXyzkJbm1iF6BR0BJ1n"
+    },
+    {
+      "album": {
+        "name": "When it comes to weaving tales I'm like a demon with a tapestry needle",
+        "url": "https://open.spotify.com/album/6cRG88zLbm6c1kqDtthiAN"
+      },
+      "artists": [
+        {
+          "name": "Flowers For Juno",
+          "url": "https://open.spotify.com/artist/19NcQpUIKDWzzmMdeLMMeM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186803,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
     },
     {
       "album": {
@@ -4298,7 +4334,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 162721,
       "name": "My Love Is Loud",
       "url": "https://open.spotify.com/track/504yptHqsQbUgY1o4KeHX8"
@@ -4352,7 +4388,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Naked on My Own (LP Version)",
       "url": "https://open.spotify.com/track/4Bxxzzv9C9NJaIdGZci3LV"
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195562,
       "name": "Return to Sender",
       "url": "https://open.spotify.com/track/2Yna1c4eCWKVyQpfssA1om"
@@ -5661,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/7K0HLMjfABWdfPTmDfhBgs"
+      },
+      "artists": [
+        {
+          "name": "NUDO",
+          "url": "https://open.spotify.com/artist/2gqvMuOVwVZ8fPsu2BTdp9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240470,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/2UGFlniyQwdhS3HWcgmDSd"
+    },
+    {
+      "album": {
         "name": "Made In Oxford",
         "url": "https://open.spotify.com/album/0qWsC0lAxeyN3x68Ymj1Ej"
       },
@@ -5998,7 +6052,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -6092,10 +6146,28 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
+    },
+    {
+      "album": {
+        "name": "Naked Rat Dance",
+        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
+      },
+      "artists": [
+        {
+          "name": "The Guilt",
+          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/1DFCy3dEt9o7CumF0USk3B"
     },
     {
       "album": {
@@ -6150,7 +6222,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 180665,
       "name": "Sword Like Me",
       "url": "https://open.spotify.com/track/0w0zY1j8sgiYOb56ZsyV8n"
@@ -6332,7 +6404,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 255599,
       "name": "The Fallen",
       "url": "https://open.spotify.com/track/5XzwgoKqb8CiBCIkVDQdWa"
@@ -6534,7 +6606,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 223304,
       "name": "The Way You",
       "url": "https://open.spotify.com/track/4j1mLsjmWrbnly8yjrezjj"
@@ -6866,7 +6938,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -7130,7 +7202,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 253127,
       "name": "Victim Of God - Monomorte Remix",
       "url": "https://open.spotify.com/track/0oLRZNdA4vyNqlLIrssLcF"
@@ -7228,7 +7300,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "War in My Kitchen",
       "url": "https://open.spotify.com/track/1h0fxGZNkSKxOcM2ZgezTv"
@@ -7456,7 +7528,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 276535,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/4s4sUzZZ4arHtSFxE4Il7p"
@@ -7600,7 +7672,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

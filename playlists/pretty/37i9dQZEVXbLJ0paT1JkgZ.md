@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,337 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,338 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 46 | [Qué Será](https://open.spotify.com/track/1Ms2WIZyWzz1Z3RhX7WZRO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Qué Será](https://open.spotify.com/album/50z9qlI7EkD3HqIXVyI2Vq) | 2:22 |
 | 47 | [NUBES](https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [NUBES](https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ) | 2:58 |
 | 48 | [Mambinho Brasileño](https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Mambinho Brasileño](https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u) | 3:28 |
-| 49 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:09 |
+| 49 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:07 |
 | 50 | [Te Vas](https://open.spotify.com/track/5MjGl97aQlcBBvbYBHbXWv) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [Te Vas](https://open.spotify.com/album/3KRctwAg6GnZEfLTtPPFa2) | 3:00 |
 
-Snapshot ID: `MSfSmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSkkGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

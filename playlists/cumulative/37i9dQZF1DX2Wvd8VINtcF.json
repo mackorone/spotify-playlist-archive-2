@@ -24403,6 +24403,24 @@
     },
     {
       "album": {
+        "name": "Magic Misery",
+        "url": "https://open.spotify.com/album/6F2DiBoxALYQQGjlJ26OFG"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Magic Misery",
+      "url": "https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq"
+    },
+    {
+      "album": {
         "name": "Magic or Medicine",
         "url": "https://open.spotify.com/album/2EAloEJnfnqiZJExj0gre2"
       },

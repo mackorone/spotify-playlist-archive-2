@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,914 likes - 103 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,964 likes - 103 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OYJ](https://open.spotify.com/track/3p18KC7lAWs6dy5PgaRx3K) | [Sonsi](https://open.spotify.com/artist/6YoXFM2OoA3Bn1SUeFnf7r) | [OYJ](https://open.spotify.com/album/7jKwAvQp1nlGB9u3x7uWpM) | 2:43 |
 | 2 | [VERRY SMoL](https://open.spotify.com/track/0BZQkSSnjhnvhwVw9JGT5r) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [VERRY SMoL](https://open.spotify.com/album/0XYOakkssfxOTbrIjxIccs) | 2:07 |
-| 3 | [Track 1](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [London](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [Goodbye Sad Boy](https://open.spotify.com/album/7uaI9vopFG1RTVZQUbM1GR) | 2:17 |
 | 4 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
 | 5 | [Naked](https://open.spotify.com/track/6Ic54h1fjOVzKoZDhF1tcJ) | [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt) | [Forever](https://open.spotify.com/album/1W0kGrrzOFF9CX6ErKdtLA) | 2:38 |
 | 6 | [blah blah](https://open.spotify.com/track/5VBRvtwLvmNRxHZwAzAzbt) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Kiannacore 3](https://open.spotify.com/album/6JSTrZQd5jLgVQffAAKNWr) | 2:12 |

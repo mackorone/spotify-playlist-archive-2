@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,272 songs - 2 day 19 hr 19 min
+1,273 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Deja el guille](https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd) | [Betone](https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ) | [Deja el guille](https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi) | 2:37 | 2024-04-08 | 2024-04-10 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-13 |
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-09-21 |
+| [Dejavu](https://open.spotify.com/track/6lHmVCdbcAx8M4qjO3I6hD) | [Juli Obregon](https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn) | [Dejavu](https://open.spotify.com/album/2EzGdmfS8BjLy2kazP0Xea) | 2:56 | 2026-02-18 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-19 | 2022-05-08 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-26 | 2025-05-08 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-06 | 2023-05-08 |
@@ -803,7 +804,7 @@
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-05 | 2026-02-09 |
 | [Opalite](https://open.spotify.com/track/5DYxz8TDpVVbRtWDABRIkJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:55 | 2025-10-08 | 2025-10-10 |
 | [Opalite](https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:55 | 2025-10-09 | 2025-10-12 |
-| [Otra Noche De Gira](https://open.spotify.com/track/4XtaV3iBwq5n7iX6eEmnVN) | [La Misma Cuadra](https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ) | [Otra Noche De Gira](https://open.spotify.com/album/3Y8VJz154YZETxYwYTiIY0) | 2:29 | 2026-02-17 |  |
+| [Otra Noche De Gira](https://open.spotify.com/track/4XtaV3iBwq5n7iX6eEmnVN) | [La Misma Cuadra](https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ) | [Otra Noche De Gira](https://open.spotify.com/album/3Y8VJz154YZETxYwYTiIY0) | 2:29 | 2026-02-17 | 2026-02-19 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-05-08 |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-03 | 2024-04-14 |
 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 | 2024-04-13 | 2024-05-19 |

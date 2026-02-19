@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Mello, Jordan, Vurr Flashy, Karma K en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,375 likes - 86 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,363 likes - 86 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 9 | [Herinneringen](https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw) | [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh) | [Herinneringen](https://open.spotify.com/album/17VcnF6vT6OqZ59WUR2twn) | 2:59 |
 | 10 | [Vertrek](https://open.spotify.com/track/3490uDN0wgAjlYuSpFy1Go) | [ENDS](https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu), [Ertu](https://open.spotify.com/artist/7gJQoFazS3G5AiVwbOVVV5) | [Vertrek](https://open.spotify.com/album/4E6PwnbmHFI3TURlXXwRrE) | 2:11 |
 | 11 | [Nasty Valentine](https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Nasty Valentine](https://open.spotify.com/album/2LtOnkde4KSlgQG2AAVzTv) | 2:00 |
-| 12 | [Liefde is moeilijk](https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ) | [Liefde is moeilijk](https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd) | 2:19 |
+| 12 | [LIEFDE IS MOEILIJK](https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ) | [LIEFDE IS MOEILIJK](https://open.spotify.com/album/7rq8eKuce1Ga0t9qPZEsWd) | 2:19 |
 | 13 | [Carplay 2.0](https://open.spotify.com/track/74u3COGtqhc6mmQxPyyLBP) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [SG 34](https://open.spotify.com/artist/0x8CyMxW62CdkNIZziZK89) | [Carplay 2.0](https://open.spotify.com/album/4agrRsz8OVON7kw7pzgp7E) | 2:36 |
 | 14 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
 | 15 | [Bij Zinnen](https://open.spotify.com/track/1OznBrEz4CKS2Y3svYQxlg) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [willymakeamilli](https://open.spotify.com/artist/4DVTlo97P1cDrE6Zzz9wOx), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Bij Zinnen](https://open.spotify.com/album/4gEsKfDjG1mrOiDPI9uEoM) | 2:24 |

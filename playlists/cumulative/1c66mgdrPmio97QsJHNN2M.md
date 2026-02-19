@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,181 songs - 2 day 16 hr 49 min
+1,185 songs - 2 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [D.W.A.](https://open.spotify.com/track/2DvkQrm5DM3kVhwsAa4GtO) | [Park Place Project](https://open.spotify.com/artist/5cCZ0B3kcfRmntY3iRhiTf) | [D.W.A.](https://open.spotify.com/album/26gOaPsEoIhReppVIL9kjt) | 2:46 | 2025-11-15 | 2025-12-17 |
 | [Daemons In Your Eyes](https://open.spotify.com/track/1VirKpFv4gKfFSQBwtvU4I) | [Absent Minds](https://open.spotify.com/artist/3ZzLcA2TDIoFeBHgiOQjk3) | [Daemons In Your Eyes](https://open.spotify.com/album/79iJSUL27XJKtsiIYPckdJ) | 2:57 | 2025-11-21 | 2025-12-22 |
 | [DAISIES \- Cover](https://open.spotify.com/track/246BW0TBSAxjVtkOvN0gSo) | [Henry White](https://open.spotify.com/artist/5fN4WdXwxFRYrpGiqWEfC9), [Justin](https://open.spotify.com/artist/09lzlhhcXS5QfIws6iR1Uz) | [DAISIES \(Cover\)](https://open.spotify.com/album/2o3kNvYXjrEo4remrg9zCg) | 2:57 | 2026-02-11 |  |
+| [Dance Music ARMeniCA \(Musica De Baile\)](https://open.spotify.com/track/3oZe7E7yJgZc53aMJa0JcJ) | [Eclipsonic](https://open.spotify.com/artist/1iETsPCa4hU0ET5xPduY8d) | [Dance Music ARMeniCA \(Musica De Baile\)](https://open.spotify.com/album/520TLSw4O5i8GQxYShtm7u) | 2:50 | 2026-02-18 |  |
 | [Dancing in the Moonlight \- Hypertechno Mix](https://open.spotify.com/track/1iXJ6eevvdZuUosn7vVr80) | [Nico Klein](https://open.spotify.com/artist/0z4QqWfoKJrC4dpAPuXShw), [Love Kr3w](https://open.spotify.com/artist/2pAMGFyy8r9uOe1rVYCPpj), [Leonie Edelmann](https://open.spotify.com/artist/4DFt58onaHW7E7z8urT7zC) | [Dancing in the Moonlight \(Hypertechno Mix\)](https://open.spotify.com/album/1z6tsVWhuP0MYhCSPxzqN7) | 2:34 | 2025-11-28 | 2025-12-31 |
 | [Dancing on the Beach](https://open.spotify.com/track/51DYCMHnpeXW4h0E0Axnb4) | [Elijah bone](https://open.spotify.com/artist/0oqqWntZBbNTlgNY46nYeD) | [Dancing on the Beach](https://open.spotify.com/album/3MOWgAYdiiYrh0DYHMzxj6) | 3:57 | 2025-12-04 | 2026-01-05 |
 | [dandy rollin](https://open.spotify.com/track/18xbgosJdDDQL9dIZlhP8m) | [Pigskin Primadonnas](https://open.spotify.com/artist/3xorBrIEgrjHAhoVqEu33n) | [dandy rollin](https://open.spotify.com/album/4TQRfUYpmAQndmGFP6z66J) | 3:04 | 2025-11-02 | 2025-12-03 |
@@ -302,6 +303,7 @@
 | [Emotion Ocean](https://open.spotify.com/track/7ypAKvaEoiKW6q3ThCjRs5) | [Bear Jr](https://open.spotify.com/artist/0O8rk33EP9v7d6NNjziFEx) | [Emotion Ocean](https://open.spotify.com/album/5133Tte4y3DW4NMT1VpIsI) | 2:54 | 2026-02-14 |  |
 | [Emotional Labyrinth](https://open.spotify.com/track/3eEcoSp5wDYlYPhkewZCyV) | [Smile Dawn](https://open.spotify.com/artist/6AyJiWjRpLlU9bqvkRJaHG) | [Emotional Labyrinth](https://open.spotify.com/album/3zN8vR3o97raLWBq34uruL) | 3:36 | 2025-12-08 | 2026-01-15 |
 | [End of Beginning](https://open.spotify.com/track/3sElxPqUxIuldfhyniCQo3) | [Stefano Cece](https://open.spotify.com/artist/5HcwwiOt7nqNOADc4SDaGM) | [End of Beginning](https://open.spotify.com/album/7F07wSLlx7tApmwdeZFurR) | 3:09 | 2026-01-20 |  |
+| [End of Story](https://open.spotify.com/track/6e7KWW58dI1EQxbKk94HvB) | [Mark Versluis](https://open.spotify.com/artist/6hiFQYuO9Fukh5CaHIZVy3), [Nikita Katsman](https://open.spotify.com/artist/4DAE1DQSxexmKOwDMdytfv) | [End of Story](https://open.spotify.com/album/04sIYXlMZYNOGKdqiaKHEM) | 3:43 | 2026-02-18 |  |
 | [End of the Day](https://open.spotify.com/track/76sa6hg3PCGktVvIUxSqD5) | [Maltree](https://open.spotify.com/artist/57FCbyd2tXIycjiuU5jNl2) | [End of the Day](https://open.spotify.com/album/4tQrhVF7fJFej3hFqcj3gm) | 2:13 | 2025-10-21 | 2025-11-23 |
 | [Endless Flame](https://open.spotify.com/track/4HVHX1pSiFzRc4jUxlaekQ) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Endless Flame](https://open.spotify.com/album/3vhCQKabSAnSuq9R5hB3qI) | 2:44 | 2026-02-12 |  |
 | [Endless Fun](https://open.spotify.com/track/1NgoRl1Ip7PKtNFQhRIJ0z) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Hello Everyone, How Are You?](https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K) | 4:59 | 2026-01-23 |  |
@@ -463,7 +465,9 @@
 | [Hold The Line](https://open.spotify.com/track/5RDoRjFsaQNWvYH0XZym3V) | [Ceramics](https://open.spotify.com/artist/4XtfdGn6rSGua0VIL79eFi) | [Hold The Line](https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg) | 4:24 | 2025-12-02 | 2026-01-04 |
 | [HOLLOW UTOPIA](https://open.spotify.com/track/6jG8rJ5ih9dhcLICjHMSWA) | [XXIXXEDNONE](https://open.spotify.com/artist/2e5OTYZEuDXIHtWQUIykYO) | [HOLLOW UTOPIA](https://open.spotify.com/album/39Fa0vGGAIjcDu9c8U69EP) | 2:53 | 2025-12-27 | 2026-01-28 |
 | [Honey](https://open.spotify.com/track/1ijBkzad4hGbC47Si9CAxa) | [Briggs & Stark](https://open.spotify.com/artist/3mayB3SwySCu4gifriaNXB) | [Honey](https://open.spotify.com/album/2AhVIrM5nBBLKUTfHP9c9t) | 3:37 | 2026-01-14 | 2026-02-15 |
+| [Hope you're laughing](https://open.spotify.com/track/3GoThKIQdn3orLP2oWJR9R) | [Delore](https://open.spotify.com/artist/323GerANEqWxYBpNALJi2C) | [Hope you're laughing](https://open.spotify.com/album/0hnyU8qCURPdfJc36cCo2C) | 3:15 | 2026-02-18 |  |
 | [Hopeless](https://open.spotify.com/track/38kwkqMeKqAnJh8ObitN3r) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Hopeless](https://open.spotify.com/album/2Ftm7kCGOpuiovVEx2Fgxx) | 3:16 | 2025-10-22 | 2025-11-23 |
+| [Hopeless Love Affair](https://open.spotify.com/track/0Nmse34tIn4IqNvD8yNqKv) | [Anna Porto](https://open.spotify.com/artist/4gLGoG7WZ8SC5y8H96eUEr), [Christa Porto](https://open.spotify.com/artist/61mEWC4SV8eCA1YR5qfqnr) | [Hopeless Love Affair](https://open.spotify.com/album/2pB7fFu44hAgnfuKiSxyK9) | 3:28 | 2026-02-18 |  |
 | [Horizon Calling](https://open.spotify.com/track/4BxnqtvpIgaNRGETVxwQJh) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Horizon Calling](https://open.spotify.com/album/2fuVAKErh5r9qOkhJ4u04N) | 2:17 | 2026-02-10 |  |
 | [How Long ?](https://open.spotify.com/track/2f5gcWen1oos50g2yA5jYI) | [Ketan Shah](https://open.spotify.com/artist/4I3NAsMT2ReFdGiioOYRhn) | [How Long ?](https://open.spotify.com/album/4Om7NEL93XDC5dtqgfr1IM) | 2:50 | 2025-12-01 | 2026-01-04 |
 | [how long?](https://open.spotify.com/track/6VWKEB5hrRW9rnHCMNZl9o) | [Pengboy](https://open.spotify.com/artist/518SwNbZCHFKEiNfzfMk3d) | [how long?](https://open.spotify.com/album/20Qk5m5YQf1GEYYGziLbW8) | 2:31 | 2026-02-13 |  |

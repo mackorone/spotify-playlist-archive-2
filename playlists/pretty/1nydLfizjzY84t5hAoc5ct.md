@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,355 likes - 134 songs - 8 hr 25 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,354 likes - 135 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 132 | [Sunday feelin blue](https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk) | [The Shine](https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL) | [Sunday feelin blue](https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf) | 2:42 |
 | 133 | [Who Died?](https://open.spotify.com/track/2RsppsDbLFjkmBodREdLqE) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Who Died?](https://open.spotify.com/album/2UPO5C3Z2wTEQvuB9B6Ws3) | 4:48 |
 | 134 | [The Garden](https://open.spotify.com/track/2rw809tUXjwDiYK9v3tU2m) | [Niamh Corkey](https://open.spotify.com/artist/6hIG8JTGYyqA0wYOykcHQf) | [The Garden](https://open.spotify.com/album/0H0eLf3AaVdtE950aSFWJB) | 3:18 |
+| 135 | [Darius](https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8) | [Animal Animal](https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn) | [Darius](https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ) | 3:36 |
 
-Snapshot ID: `AAByLtlGFXzWYXTpcjpPqg1qPGe8QCZW`
+Snapshot ID: `AAByL1qZoPe/CmugW7mrco1MFmbGs51y`

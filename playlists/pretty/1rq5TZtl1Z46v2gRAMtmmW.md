@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,754 likes - 40 songs - 2 hr 14 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,759 likes - 41 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 38 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 39 | [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 |
 | 40 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
+| 41 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 |
 
-Snapshot ID: `AAARIsHjL7uJ4hHe3gAK3r1Pr0eNZLKO`
+Snapshot ID: `AAARI8NwqTloPdZivcYhTxdl7prBnw0k`

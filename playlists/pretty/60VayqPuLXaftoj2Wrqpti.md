@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 3,280 likes - 65 songs - 3 hr 50 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 3,289 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 4 | [Waits for Me](https://open.spotify.com/track/1NWyBadjnAnww8vDyNiEvP) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Waits for Me](https://open.spotify.com/album/0ooeIa0zjSBZLWpk6YY6VJ) | 2:42 |
 | 5 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 |
 | 6 | [Talvez](https://open.spotify.com/track/4E7WCyQAldKeTR7vwpRMTP) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Malandra](https://open.spotify.com/album/5azfYN3PqeXTNfC00wvKs1) | 3:54 |
-| 7 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 7 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 8 | [The Bear](https://open.spotify.com/track/7IlEiS9BZznBWZD2zGd9i2) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [The Bear](https://open.spotify.com/album/0nuEfH5tqj1RHwZccWIU0C) | 4:16 |
 | 9 | [Firestarter](https://open.spotify.com/track/0tyn2fKVUS82L6WAqO3WfW) | [Biblioteka](https://open.spotify.com/artist/5BeIu3RlLhFDNTWo7wpxhe) | [Matryoshka](https://open.spotify.com/album/0Jm9zuTVOirnD7Z4XC6fCr) | 3:07 |
 | 10 | [Red Sunset](https://open.spotify.com/track/0TSp4fMHwlbPCl3W3z5G6S) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Red Sunset](https://open.spotify.com/album/1QSBbWG8CAH4aWOA3d7FHK) | 3:17 |

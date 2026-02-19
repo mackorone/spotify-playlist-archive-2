@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: SHR\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Abdelrahman\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,986 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 |
 | 50 | [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 |
 
-Snapshot ID: `AAAAAESjdoGu3BYPuLv3k4p3lXYBTkCS`
+Snapshot ID: `AAAAADYtQ5jB3Nk76jbOaGpU6MKiWbUc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgBJeUjpMGn.md) - [plain]
 
 > This is Green Day\. The essential tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,565 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,730 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgBJeUjpMGn.md) - [plain]
 | 49 | [2000 Light Years Away](https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:24 |
 | 50 | [The Saints Are Coming](https://open.spotify.com/track/6uQL0epVs9N9Bergafaf6x) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 3:21 |
 
-Snapshot ID: `AAAAAELDQXUoarNh7bCKe4bteoyA9UDU`
+Snapshot ID: `AAAAAF7jNyQq1Z3XVc+uN8JGYrJsT+M7`

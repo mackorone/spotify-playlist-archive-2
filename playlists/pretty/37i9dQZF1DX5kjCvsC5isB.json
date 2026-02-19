@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 314747,
+  "num_followers": 314753,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "IDC AT ALL",
-        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "IDC AT ALL",
-      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "IDC AT ALL",
+        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "IDC AT ALL",
+      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "why aren't you laughing?",
-        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "rot in love",
-      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "why aren't you laughing?",
+        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 253745,
+      "name": "rot in love",
+      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "February",
         "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 208586,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Cult Classic",
         "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 198123,
       "name": "CULT CLASSIC",
       "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 206667,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 169933,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "I Kill Everything",
-        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
-      },
-      "artists": [
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        },
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "I Kill Everything",
-      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1063,6 +1043,26 @@
       "duration_ms": 142467,
       "name": "THE BLOB",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "I Kill Everything",
+        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "I Kill Everything",
+      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Shortest Fuse",
-        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Shortest Fuse",
-      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 163785,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Downhill",
-        "url": "https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4"
-      },
-      "artists": [
-        {
-          "name": "Pom Pom Squad",
-          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Downhill",
-      "url": "https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Kiss Kiss Bang Bang",
         "url": "https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 173666,
       "name": "Kiss Kiss Bang Bang",
       "url": "https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Downhill",
+        "url": "https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Downhill",
+      "url": "https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Kills Me To Be Kind",
-        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 280982,
-      "name": "Kills Me To Be Kind",
-      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 151240,
       "name": "Shock Value",
       "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Kills Me To Be Kind",
+        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 280982,
+      "name": "Kills Me To Be Kind",
+      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "dizzy spells",
-        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
-      },
-      "artists": [
-        {
-          "name": "SIIICKBRAIN",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "headspace",
-      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Tornillo",
         "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 93251,
       "name": "Tornillo",
       "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "dizzy spells",
+        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
+      },
+      "artists": [
+        {
+          "name": "SIIICKBRAIN",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "headspace",
+      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
     },
     {
       "added_at": "2024-07-05 22:18:14",

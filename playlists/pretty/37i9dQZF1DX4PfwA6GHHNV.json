@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22836,
+  "num_followers": 22840,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -791,30 +791,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Intens\u00e3o",
-        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Intens\u00e3o",
-      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 163018,
       "name": "fases",
       "url": "https://open.spotify.com/track/65N0Fdt4dgCqjgg2uq6S9o"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "Intens\u00e3o",
+        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Intens\u00e3o",
+      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+        "name": "Porta Aberta",
+        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
         }
       ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
+      "duration_ms": 167853,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Porta Aberta",
-        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
       },
       "artists": [
         {
@@ -1276,13 +1276,13 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         },
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         }
       ],
-      "duration_ms": 167853,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
       "artists": [
         {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-01-30 16:49:09",

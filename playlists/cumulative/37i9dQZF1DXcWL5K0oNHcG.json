@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 229453,
       "name": "Birth of the Microprocessor",
       "url": "https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 242647,
       "name": "Black Narcissus",
       "url": "https://open.spotify.com/track/4YAsfWfrzGvBIi3GXX3WyM"
@@ -16384,7 +16384,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 203097,
       "name": "Long Haul",
       "url": "https://open.spotify.com/track/0oMl6aKPlzJzJohrl3emdf"
@@ -19034,7 +19034,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 222477,
       "name": "Neotangos - Live",
       "url": "https://open.spotify.com/track/4UGho5nfcuR6omIGOU8jFA"
@@ -19176,6 +19176,24 @@
       "duration_ms": 281708,
       "name": "Nguinya Mulema",
       "url": "https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s"
+      },
+      "artists": [
+        {
+          "name": "April Varner",
+          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa"
     },
     {
       "album": {
@@ -24689,6 +24707,24 @@
     },
     {
       "album": {
+        "name": "Shoal",
+        "url": "https://open.spotify.com/album/0DZ4VkELBc5kLXE2fNLtNd"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263213,
+      "name": "Shoal",
+      "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
+    },
+    {
+      "album": {
         "name": "Shug",
         "url": "https://open.spotify.com/album/3fQwJZiRj4qONagwBrPKBg"
       },
@@ -24704,6 +24740,24 @@
       "duration_ms": 263510,
       "name": "Shug",
       "url": "https://open.spotify.com/track/1jfByS7iFI2ZOLrIMEWV6k"
+    },
+    {
+      "album": {
+        "name": "SIEKA",
+        "url": "https://open.spotify.com/album/5iwU0fLSSBBRpnfdofzODm"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221981,
+      "name": "SIEKA",
+      "url": "https://open.spotify.com/track/2V1lMr368Y3UAkc7olpkl1"
     },
     {
       "album": {
@@ -27378,6 +27432,28 @@
       "duration_ms": 259583,
       "name": "Tapir & Pomme De Pin",
       "url": "https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO"
+    },
+    {
+      "album": {
+        "name": "Tea For Two",
+        "url": "https://open.spotify.com/album/30B0t8xw2v0tFv44fs6yj9"
+      },
+      "artists": [
+        {
+          "name": "Ari Alexander",
+          "url": "https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h"
+        },
+        {
+          "name": "Cecil Alexander",
+          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158289,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/4Iz1avENa26Lr2FJJxCjon"
     },
     {
       "album": {

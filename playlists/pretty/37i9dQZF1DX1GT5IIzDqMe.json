@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 102434,
+  "num_followers": 102443,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -743,8 +743,8 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
-        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 439929,
-      "name": "Never Grow Old - Re-Plant",
-      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -823,22 +823,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
+        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+      "duration_ms": 439929,
+      "name": "Never Grow Old - Re-Plant",
+      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -859,6 +855,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Legendary Adventures Of A Filter King",
         "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 387371,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Neptunes Lair",
-        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -907,22 +907,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
+        "name": "Neptunes Lair",
+        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
         }
       ],
-      "duration_ms": 367500,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k"
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
     }
   ],
   "unique_name": "Detroit Techno",

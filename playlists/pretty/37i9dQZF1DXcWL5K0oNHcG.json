@@ -1,13 +1,81 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: VLADKO. Artwork: Joy Yamusangie.",
-  "num_followers": 240185,
+  "num_followers": 240241,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSUw5tJ4mRvF6dekXAbDslCnEhL",
+  "snapshot_id": "AAAAAK7m881WQ2B6ptm/sZMbW39q/Yv4",
   "tracks": [
+    {
+      "added_at": "2026-02-18 17:47:31",
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s"
+      },
+      "artists": [
+        {
+          "name": "April Varner",
+          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa"
+    },
+    {
+      "added_at": "2026-02-18 17:47:31",
+      "album": {
+        "name": "Shoal",
+        "url": "https://open.spotify.com/album/0DZ4VkELBc5kLXE2fNLtNd"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Shoal",
+      "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
+    },
+    {
+      "added_at": "2026-02-18 17:47:31",
+      "album": {
+        "name": "Tea For Two",
+        "url": "https://open.spotify.com/album/30B0t8xw2v0tFv44fs6yj9"
+      },
+      "artists": [
+        {
+          "name": "Ari Alexander",
+          "url": "https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h"
+        },
+        {
+          "name": "Cecil Alexander",
+          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
+        }
+      ],
+      "duration_ms": 158289,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/4Iz1avENa26Lr2FJJxCjon"
+    },
+    {
+      "added_at": "2026-02-18 17:47:31",
+      "album": {
+        "name": "SIEKA",
+        "url": "https://open.spotify.com/album/5iwU0fLSSBBRpnfdofzODm"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "duration_ms": 221981,
+      "name": "SIEKA",
+      "url": "https://open.spotify.com/track/2V1lMr368Y3UAkc7olpkl1"
+    },
     {
       "added_at": "2026-02-11 19:41:30",
       "album": {
@@ -843,74 +911,6 @@
       "duration_ms": 235000,
       "name": "Good Friends Call Me E",
       "url": "https://open.spotify.com/track/0NH6yKue0LAEc0MitqOmwx"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Neotangos (Live)",
-        "url": "https://open.spotify.com/album/5dXxtvq6h9LYqZIXXwxWJP"
-      },
-      "artists": [
-        {
-          "name": "Juanma Montoya",
-          "url": "https://open.spotify.com/artist/2rOyqzZaAF6mzygluomSl1"
-        }
-      ],
-      "duration_ms": 222477,
-      "name": "Neotangos - Live",
-      "url": "https://open.spotify.com/track/4UGho5nfcuR6omIGOU8jFA"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Black Narcissus",
-        "url": "https://open.spotify.com/album/0ndjIQnhBP8JfJSbrrC203"
-      },
-      "artists": [
-        {
-          "name": "Knats",
-          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
-        }
-      ],
-      "duration_ms": 242647,
-      "name": "Black Narcissus",
-      "url": "https://open.spotify.com/track/4YAsfWfrzGvBIi3GXX3WyM"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Long Haul",
-        "url": "https://open.spotify.com/album/4RKq9aivzmCWQjYvLRE2zv"
-      },
-      "artists": [
-        {
-          "name": "Nitecap",
-          "url": "https://open.spotify.com/artist/53GLdZwW98q3178jrRHogu"
-        },
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 203097,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/0oMl6aKPlzJzJohrl3emdf"
-    },
-    {
-      "added_at": "2025-03-05 14:57:05",
-      "album": {
-        "name": "Light Music for Heavy Industry",
-        "url": "https://open.spotify.com/album/6ciguhSEuULnStAhDVavPh"
-      },
-      "artists": [
-        {
-          "name": "Sean Wolcott",
-          "url": "https://open.spotify.com/artist/2MVjrUlRXtl6oXgDZngtxi"
-        }
-      ],
-      "duration_ms": 229453,
-      "name": "Birth of the Microprocessor",
-      "url": "https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

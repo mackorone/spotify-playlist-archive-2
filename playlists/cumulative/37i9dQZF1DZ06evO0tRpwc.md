@@ -4,7 +4,7 @@
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 13 min
+94 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Tempo](https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:08 | 2023-07-09 |  |
 | [Teu Perdão](https://open.spotify.com/track/3DlSTzwUTCBc3g3uYj9zr8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:24 | 2023-09-25 | 2024-02-16 |
 | [Tua Presença](https://open.spotify.com/track/1Xt0Sg8fdXGH70vQDz7AaU) | [Sendy Sena](https://open.spotify.com/artist/5NHcFfrt8Pd2YJ23Xk67q7), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Tua Presença](https://open.spotify.com/album/6gzIUmHTqjKE8RPYX9U9Ky) | 3:52 | 2025-01-06 | 2025-03-08 |
+| [Um Dia Bom](https://open.spotify.com/track/0k9Md9Gr4zXT5zWvT5mKbb) | [Vavá Rodrigues](https://open.spotify.com/artist/3WQW9yPYI80YZy19HaSZMT), [Sueli Gondin](https://open.spotify.com/artist/4q5Z2bVdo8d0brYNw3t5tT), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Um Dia Bom](https://open.spotify.com/album/0y8HHFwNG6ratzYzgBzXxz) | 3:58 | 2026-02-19 |  |
 | [Um Servo \- Ao Vivo](https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0) | [Família Soul](https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Família Soul \(Ao Vivo\)](https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB) | 4:36 | 2023-07-09 |  |
-| [Vamos Louvar a Jeová](https://open.spotify.com/track/3wWnF70N98M2XE8jUhPZtP) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a) | [Turma do Barulho, Vol\. 4](https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr) | 3:45 | 2024-12-31 |  |
+| [Vamos Louvar a Jeová](https://open.spotify.com/track/3wWnF70N98M2XE8jUhPZtP) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a) | [Turma do Barulho, Vol\. 4](https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr) | 3:45 | 2024-12-31 | 2026-02-19 |
 | [Verdade](https://open.spotify.com/track/52gwchgkLip9BrstkfDOGE) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:55 | 2023-08-16 | 2024-05-22 |
 | [Verdade \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:14 | 2023-07-09 |  |
 | [Vinde a Mim \- Playback](https://open.spotify.com/track/7kJUhmiDp5MAOPGLyrIyBz) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Turma do Barulho, Vol\. 9](https://open.spotify.com/album/6XBlZzoPc590pj1I2x8m3X) | 2:15 | 2025-03-01 | 2025-03-23 |

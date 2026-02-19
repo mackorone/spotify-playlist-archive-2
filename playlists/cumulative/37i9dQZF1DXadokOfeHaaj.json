@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Doing Laps",
+        "url": "https://open.spotify.com/album/0ycrYpfMe6nerYrsr1GhdZ"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215085,
+      "name": "Doing Laps",
+      "url": "https://open.spotify.com/track/5ZSYEtLHBxWMU3jrcE6fjV"
+    },
+    {
+      "album": {
         "name": "Don't Try This At Home",
         "url": "https://open.spotify.com/album/2piM4Hh6vF1EMobLn92bqq"
       },
@@ -6108,7 +6126,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"

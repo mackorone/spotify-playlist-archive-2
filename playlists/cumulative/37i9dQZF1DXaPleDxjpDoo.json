@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 124285,
       "name": "Azure Forest",
       "url": "https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 229057,
       "name": "Backwood Recline",
       "url": "https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 172000,
       "name": "Blue Shadows",
       "url": "https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 167727,
       "name": "Earth Awakening",
       "url": "https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195750,
       "name": "Fields",
       "url": "https://open.spotify.com/track/2acqbMn2Dwz66Np657k7ow"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 156035,
       "name": "Forest Dream",
       "url": "https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 197701,
       "name": "Forest Dreams",
       "url": "https://open.spotify.com/track/5FgCKWFEVSfCEyE9rSvjDm"
@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Healing Moment",
+        "url": "https://open.spotify.com/album/4lPLwd293iY2x0zAHCTWsf"
+      },
+      "artists": [
+        {
+          "name": "Spectral Abyss",
+          "url": "https://open.spotify.com/artist/33seUFFMy8kuxMcqp8y2Mr"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161229,
+      "name": "Healing Moment",
+      "url": "https://open.spotify.com/track/4dYVgS1dJLO72wGfGp7QdT"
+    },
+    {
+      "album": {
         "name": "Hidden Glade",
         "url": "https://open.spotify.com/album/5pTdbtol1R5cKmikqPnnxB"
       },
@@ -2437,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Hidden Tone",
+        "url": "https://open.spotify.com/album/5omZ2NuoyaYvJtLSRiRSce"
+      },
+      "artists": [
+        {
+          "name": "NOMA",
+          "url": "https://open.spotify.com/artist/4cDZ9jfgpEZtLQkw0ITsMo"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165108,
+      "name": "Hidden Tone",
+      "url": "https://open.spotify.com/track/5QNvUW2rGKW9o8n1xyMfz0"
+    },
+    {
+      "album": {
         "name": "Holding Quiet",
         "url": "https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y"
       },
@@ -2448,7 +2484,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 161927,
       "name": "Holding Quiet",
       "url": "https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0"
@@ -2491,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Idyllic",
+        "url": "https://open.spotify.com/album/3TZPVHDQqGsMKFt9I6lE2c"
+      },
+      "artists": [
+        {
+          "name": "Astral Chants",
+          "url": "https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Idyllic",
+      "url": "https://open.spotify.com/track/4zVi1ytmXt06UV7cfMtLRK"
+    },
+    {
+      "album": {
         "name": "Imaginations",
         "url": "https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ"
       },
@@ -2506,6 +2560,24 @@
       "duration_ms": 167692,
       "name": "Imaginations",
       "url": "https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW"
+    },
+    {
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/7ntnH8GlYuOQRGH21fWKUg"
+      },
+      "artists": [
+        {
+          "name": "Slowshore",
+          "url": "https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ"
     },
     {
       "album": {
@@ -2582,6 +2654,24 @@
       "duration_ms": 177972,
       "name": "Inner Retreat",
       "url": "https://open.spotify.com/track/6vkgNVCmM2i7ntU3WtUAJ8"
+    },
+    {
+      "album": {
+        "name": "Inner Stream",
+        "url": "https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50"
+      },
+      "artists": [
+        {
+          "name": "I thought about time",
+          "url": "https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Inner Stream",
+      "url": "https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA"
     },
     {
       "album": {
@@ -2884,7 +2974,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 154977,
       "name": "Luna's Forest",
       "url": "https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM"
@@ -3899,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Quiet Mist",
+        "url": "https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Quiet Mist",
+      "url": "https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg"
+    },
+    {
+      "album": {
         "name": "Radiance",
         "url": "https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ"
       },
@@ -4144,7 +4252,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 161500,
       "name": "Rivulet",
       "url": "https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U"
@@ -4623,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "Softwood Mist",
+        "url": "https://open.spotify.com/album/2CZceCsGyB6BtWpgbKFH2Z"
+      },
+      "artists": [
+        {
+          "name": "Emerald Haze",
+          "url": "https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156748,
+      "name": "Softwood Mist",
+      "url": "https://open.spotify.com/track/5529RBTOKi6pZwOHaSQCP4"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl"
       },
@@ -4634,7 +4760,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 172000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii"
@@ -4804,6 +4930,24 @@
       "duration_ms": 156066,
       "name": "Still Meadow",
       "url": "https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t"
+    },
+    {
+      "album": {
+        "name": "Sunray Meditation",
+        "url": "https://open.spotify.com/album/7yhDdHQVrlVMfuayOjVXyq"
+      },
+      "artists": [
+        {
+          "name": "Astra Far",
+          "url": "https://open.spotify.com/artist/1l8inXQNhMUFaDofdVS94T"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172241,
+      "name": "Sunray Meditation",
+      "url": "https://open.spotify.com/track/0Sd3u27bXyYGW4mkRNOjeC"
     },
     {
       "album": {
@@ -5322,7 +5466,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 190000,
       "name": "Tu\u00b4i",
       "url": "https://open.spotify.com/track/0RBiJCkvaFRkLEQNV05cBs"
@@ -5697,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Woodland Creek",
+        "url": "https://open.spotify.com/album/7eVM2Kzi4LjJMfP1JLYKbe"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159557,
+      "name": "Woodland Creek",
+      "url": "https://open.spotify.com/track/2xGjWc6rUPJ98lDPxpMwX8"
+    },
+    {
+      "album": {
         "name": "Woodlike Experience",
         "url": "https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU"
       },
@@ -5730,6 +5892,24 @@
       "duration_ms": 253133,
       "name": "Wungong",
       "url": "https://open.spotify.com/track/31YItqOU3GQsHAL8nQoIpj"
+    },
+    {
+      "album": {
+        "name": "Yama",
+        "url": "https://open.spotify.com/album/7oJVPh3krhmBlE85dCWp1w"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160775,
+      "name": "Yama",
+      "url": "https://open.spotify.com/track/4rpTQzUseU2w7dOlDpr5Fa"
     },
     {
       "album": {

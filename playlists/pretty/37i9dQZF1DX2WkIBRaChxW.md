@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Baby Rose & Leon Thomas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,850 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,827 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 1 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 2 | [More Than A Lover](https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [More Than A Lover](https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f) | 4:05 |
 | 3 | [Thong](https://open.spotify.com/track/0nG4VdCwMNmBRy7lUQrSTB) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Thong](https://open.spotify.com/album/5j2LuMkJejaWjP1myWdUOk) | 4:34 |
 | 4 | [Bet](https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Bet](https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j) | 2:02 |

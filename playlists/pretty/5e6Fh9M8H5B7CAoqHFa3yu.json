@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIH47jjVuAqsImKFnzjrjYk0yV/r6Z",
+  "snapshot_id": "AAAIIv95Ub0mKJXIQ3prf9vB2Lr5B/qb",
   "tracks": [
+    {
+      "added_at": "2026-02-18 18:50:42",
+      "album": {
+        "name": "D0PE SH!T 4LYFE",
+        "url": "https://open.spotify.com/album/0RuWMHXQnHEhLRKSWhiJQL"
+      },
+      "artists": [
+        {
+          "name": "Crimson",
+          "url": "https://open.spotify.com/artist/63mjjF2tGENedqxDyZhK6G"
+        }
+      ],
+      "duration_ms": 95916,
+      "name": "MASTERPIECE",
+      "url": "https://open.spotify.com/track/41Xb489wAFHotqj5cQq1zV"
+    },
     {
       "added_at": "2026-01-21 01:10:56",
       "album": {
@@ -33167,6 +33183,38 @@
       "duration_ms": 209799,
       "name": "Old Ghosts Wash Away",
       "url": "https://open.spotify.com/track/05PotvxSgOgn43jerFi0a8"
+    },
+    {
+      "added_at": "2026-02-18 18:14:17",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "duration_ms": 110344,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF"
+    },
+    {
+      "added_at": "2026-02-18 18:44:11",
+      "album": {
+        "name": "Bottled Hope",
+        "url": "https://open.spotify.com/album/1rQJqPyhdCqaInoi7d8uzd"
+      },
+      "artists": [
+        {
+          "name": "Christaris",
+          "url": "https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa"
+        }
+      ],
+      "duration_ms": 203199,
+      "name": "Bottled Hope",
+      "url": "https://open.spotify.com/track/2AAHCstOmqcOCfWDClEDro"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

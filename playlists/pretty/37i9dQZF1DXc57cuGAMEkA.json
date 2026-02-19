@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Charli xcx, Bebe Rexha, James Blake , Meghan Trainor and more!",
-  "num_followers": 150959,
+  "num_followers": 150961,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -624,12 +624,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

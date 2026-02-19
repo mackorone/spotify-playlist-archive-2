@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77450,
+  "num_followers": 77446,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Call Me Babe",
-        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "Call Me Babe",
-      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 231365,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Call Me Babe",
+        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "Call Me Babe",
+      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Desire to Stay",
-        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Desire to Stay",
-      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Music Can Hear Us",
-        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Feel It For You",
         "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 211409,
       "name": "Feel It For You",
       "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Music Can Hear Us",
+        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1019,6 +1019,30 @@
       "duration_ms": 171112,
       "name": "Man\u00eda",
       "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Big Boy Tracks",
+        "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Big Boy Tracks",
+      "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1079,30 +1103,6 @@
       "duration_ms": 248730,
       "name": "Ghost Orchid",
       "url": "https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Big Boy Tracks",
-        "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Big Boy Tracks",
-      "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "TRUE MAGIC, DELUXE",
+        "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 255983,
+      "name": "gbesoke",
+      "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "INFINITY CLUB II",
         "url": "https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 165105,
       "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
       "url": "https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "TRUE MAGIC, DELUXE",
-        "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Peter Xan",
-          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
-        }
-      ],
-      "duration_ms": 255983,
-      "name": "gbesoke",
-      "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Odyssey EP",
-        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
-        }
-      ],
-      "duration_ms": 345286,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "nomorejacketsplease",
         "url": "https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 246188,
       "name": "2 Go",
       "url": "https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Odyssey EP",
+        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "duration_ms": 345286,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
     },
     {
       "added_at": "2025-12-03 12:15:55",

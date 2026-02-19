@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 332900,
+  "num_followers": 332869,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "This Heathen Land",
+        "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "duration_ms": 198877,
+      "name": "Maxine (Witch Queen)",
+      "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "THRILLER",
         "url": "https://open.spotify.com/album/6laEHwhR20jSXj687VxtH2"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 362033,
       "name": "THRILLER",
       "url": "https://open.spotify.com/track/7LopZ3UNl7NoG7atKmrSII"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "This Heathen Land",
-        "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
-      },
-      "artists": [
-        {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
-        }
-      ],
-      "duration_ms": 198877,
-      "name": "Maxine (Witch Queen)",
-      "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
     }
   ],
   "unique_name": "Headbanger Halloween",

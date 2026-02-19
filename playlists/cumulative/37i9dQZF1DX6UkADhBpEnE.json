@@ -6975,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "I Am Getting Well",
+        "url": "https://open.spotify.com/album/1doIBdnINpZuXXgjD1JKMw"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165962,
+      "name": "I Am Getting Well",
+      "url": "https://open.spotify.com/track/61e2uYFuQ7OeyMedlvPdoV"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -17720,7 +17738,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 185825,
       "name": "\u30a2\u30c9\u30ec\u30ca",
       "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"

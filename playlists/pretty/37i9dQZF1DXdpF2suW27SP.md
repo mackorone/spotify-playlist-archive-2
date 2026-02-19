@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Força Suprema, Rahiz  entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,039 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,105 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 61 | [Jackpot](https://open.spotify.com/track/2ATBdjH7OgwAryeowwlIXD) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Jackpot](https://open.spotify.com/album/2gmSUUVVnnsaZE6fK3Cmdq) | 2:38 |
 | 62 | [MIMO](https://open.spotify.com/track/7f2TMhYX0ZqdUOLw2vjKrd) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [MIMO](https://open.spotify.com/album/77REAAGk0HWovg1ijo2ZHe) | 2:41 |
 | 63 | [diamante \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/6tRXggsnp42oEggWz0RZe1) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [diamante \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/46PUFAI3XLCvd3goj5iV5O) | 3:50 |
-| 64 | [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:31 |
+| 64 | [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:44 |
 | 65 | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/track/7jMSd85QqbHjqlpDSr66Hg) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/album/2tHW0wmKMlYc4jJENTyUPP) | 2:41 |
 | 66 | [Batalhas](https://open.spotify.com/track/5Vfspq0SUazrH6IQ4Q4Vdj) | [Pilitchi](https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4) | [Batalhas](https://open.spotify.com/album/02Wm1V5BkWdp0QasPEeaDt) | 2:53 |
 | 67 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |

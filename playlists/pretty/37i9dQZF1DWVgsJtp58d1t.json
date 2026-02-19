@@ -1,6 +1,6 @@
 {
   "description": "The best in Black music! Cover: J. Cole",
-  "num_followers": 1119033,
+  "num_followers": 1119114,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
@@ -544,12 +544,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

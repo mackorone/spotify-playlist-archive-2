@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lykke Li, Olga Myko och Malik Dalasi med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,808 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,800 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 47 | [cherry flip](https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [cherry flip](https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR) | 3:29 |
 | 48 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
 | 49 | [More Money](https://open.spotify.com/track/0AoOhvejPWd70JPMHmAKMm) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [More Money](https://open.spotify.com/album/0OBio2AGM3C7ZL0xqAKQnp) | 2:05 |
-| 50 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 50 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 51 | [Bromsa](https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW) | [Bromsa](https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN) | 2:33 |
 | 52 | [Disappear](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:25 |
 | 53 | [King Of Rock ’n’ Roll](https://open.spotify.com/track/6FyxfxtSlNobcVL2IbHZWq) | [Korslagda](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [King Of Rock ’n’ Roll](https://open.spotify.com/album/05KhsNVV9DRIy5yku5r35t) | 2:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 78061,
+  "num_followers": 78073,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAADA/k4flBaMXG1VVDEhCTpw",
+  "snapshot_id": "aZOvgAAAAAB2WDuIMoDtUggj89KU5C9X",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Randy Blythe",
-          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
         }
       ],
-      "duration_ms": 191208,
-      "name": "DROP",
-      "url": "https://open.spotify.com/track/1Dbneha0ISn3D35amEMYCt"
+      "duration_ms": 207359,
+      "name": "LAY ME DOWN (Roo's Song)",
+      "url": "https://open.spotify.com/track/5WThyiS0QTbALXYkPEbbbN"
     },
     {
       "added_at": null,
@@ -386,11 +382,15 @@
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
         }
       ],
-      "duration_ms": 207359,
-      "name": "LAY ME DOWN (Roo's Song)",
-      "url": "https://open.spotify.com/track/5WThyiS0QTbALXYkPEbbbN"
+      "duration_ms": 191208,
+      "name": "DROP",
+      "url": "https://open.spotify.com/track/1Dbneha0ISn3D35amEMYCt"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Rock the Party (Off the Hook) - Off the Hook; 2006 Remaster",
-      "url": "https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc"
+      "duration_ms": 55866,
+      "name": "Psalm 150",
+      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 55866,
-      "name": "Psalm 150",
-      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
+      "duration_ms": 206160,
+      "name": "Rock the Party (Off the Hook) - Off the Hook; 2006 Remaster",
+      "url": "https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc"
     },
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdered Love",
-        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Murdered Love",
-      "url": "https://open.spotify.com/track/7ieBW9vf5toe7zzfhwf63z"
+      "duration_ms": 186453,
+      "name": "They Don't Like It",
+      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+        "name": "Murdered Love",
+        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
       },
       "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 186453,
-      "name": "They Don't Like It",
-      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
+      "duration_ms": 224946,
+      "name": "Murdered Love",
+      "url": "https://open.spotify.com/track/7ieBW9vf5toe7zzfhwf63z"
     },
     {
       "added_at": null,

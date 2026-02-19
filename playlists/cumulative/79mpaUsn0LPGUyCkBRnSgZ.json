@@ -7629,6 +7629,24 @@
     },
     {
       "album": {
+        "name": "I Heard That Noise",
+        "url": "https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200033,
+      "name": "I Heard That Noise",
+      "url": "https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk"
+    },
+    {
+      "album": {
         "name": "Acts of Faith",
         "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
       },
@@ -14792,6 +14810,24 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221456,
+      "name": "Silent Exchange",
+      "url": "https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p"
     },
     {
       "album": {

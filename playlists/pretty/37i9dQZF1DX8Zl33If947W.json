@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 201860,
+  "num_followers": 201903,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "KIOX",
-        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
-      },
-      "artists": [
-        {
-          "name": "KUMMER",
-          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "Bei Dir",
-      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 230419,
       "name": "Wenn du tanzt",
       "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "KIOX",
+        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
+      },
+      "artists": [
+        {
+          "name": "KUMMER",
+          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "Bei Dir",
+      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
       },
       "artists": [
         {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
         }
       ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -635,38 +635,18 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
-        "name": "UDOPIUM - Das Beste (Special Edition)",
-        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
-      },
-      "artists": [
-        {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 204292,
-      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
-      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -707,18 +687,22 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+        "name": "UDOPIUM - Das Beste (Special Edition)",
+        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
       "artists": [
         {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
         }
       ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+      "duration_ms": 204292,
+      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
+      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -739,6 +723,38 @@
       "duration_ms": 279935,
       "name": "M\u00e4rchen aus Hollywood",
       "url": "https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "Immer Nur An Dich",
+        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Immer Nur An Dich",
+      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Immer Nur An Dich",
-        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Immer Nur An Dich",
-      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Wei\u00dfes Kleid",
         "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 259346,
-      "name": "Der Weg",
-      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Hey",
         "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 265026,
       "name": "Ultraleicht",
       "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "Der Weg",
+      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
     },
     {
       "added_at": "2026-02-13 13:22:17",

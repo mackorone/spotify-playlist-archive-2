@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "I Want You to Tell Me the Moon is Beautiful!",
+        "url": "https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "I Want You to Tell Me the Moon is Beautiful!",
+      "url": "https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9"
+    },
+    {
+      "album": {
         "name": "i'm high",
         "url": "https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03"
       },

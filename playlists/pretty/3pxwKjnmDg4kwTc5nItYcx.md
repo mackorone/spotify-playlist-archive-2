@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,601 likes - 69 songs - 3 hr 41 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,601 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 67 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 68 | [Any Other Night](https://open.spotify.com/track/4jF0QfWSjUMrH7Y5fL0leS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Any Other Night](https://open.spotify.com/album/76wg0moAfOziJ3E7u25UES) | 3:05 |
 | 69 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
+| 70 | [One Last Night](https://open.spotify.com/track/1uwzsh4qg5fWIXNladSY26) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [One Last Night](https://open.spotify.com/album/1sEWUF2N6mShqAy64rhG7Y) | 4:48 |
 
-Snapshot ID: `AAAHzW8h1P/X81NloAVJtsO9ln45t42S`
+Snapshot ID: `AAAHzpAiOw0LvUJwGlBWwPcLEE/toQSb`

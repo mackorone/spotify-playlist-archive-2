@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 155 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 155 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,14 +154,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 144 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 |
 | 145 | [Promise Me Not to Love Me](https://open.spotify.com/track/4Jz1jNsPwGIKNJAiDNmrwJ) | [David Keith Jones](https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7) | [Arlen Magic](https://open.spotify.com/album/2PIEp4cjSXpwIrXuOWUQGS) | 3:12 |
 | 146 | [Crazy Old World](https://open.spotify.com/track/4nRDzupVtLnkjwZ5W4nZrq) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:16 |
-| 147 | [Love Comes in Many Different Colors](https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:24 |
-| 148 | [Change of Sky](https://open.spotify.com/track/0jBVPa1mnX69b24S9vllp5) | [Claire Birmingham](https://open.spotify.com/artist/5uDqbqaIdbxDDqVdi3djLp) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:42 |
-| 149 | [Moon About Town](https://open.spotify.com/track/2QPvN92YXJ7LnKrfNKCdrz) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:20 |
-| 150 | [Ah, But Is It Love?](https://open.spotify.com/track/3TkWXUYypEvDLc1d9q0uFr) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
-| 151 | [Satin Gown And Silver Shoe \(Lullaby\) \- Liza Crossing The Ice](https://open.spotify.com/track/6f3dzgAFXE4FNDcMF1YhdN) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl](https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52) | 3:21 |
-| 152 | [Missouri Misery](https://open.spotify.com/track/4U5W2lN3u71BKc9RSKrF80) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:02 |
+| 147 | [Moon About Town](https://open.spotify.com/track/2QPvN92YXJ7LnKrfNKCdrz) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:20 |
+| 148 | [Love Comes in Many Different Colors](https://open.spotify.com/track/6oCa6nwRN629cbkc7brTwE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:24 |
+| 149 | [Change of Sky](https://open.spotify.com/track/0jBVPa1mnX69b24S9vllp5) | [Claire Birmingham](https://open.spotify.com/artist/5uDqbqaIdbxDDqVdi3djLp) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:42 |
+| 150 | [Missouri Misery](https://open.spotify.com/track/4U5W2lN3u71BKc9RSKrF80) | [Dana Suesse](https://open.spotify.com/artist/7z6gHumB3WriLbqxXN1Gp8) | [Dana Suesse](https://open.spotify.com/album/2XowS7W11kPn1JPXNzVqo0) | 3:02 |
+| 151 | [Ah, But Is It Love?](https://open.spotify.com/track/3TkWXUYypEvDLc1d9q0uFr) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
+| 152 | [Satin Gown And Silver Shoe \(Lullaby\) \- Liza Crossing The Ice](https://open.spotify.com/track/6f3dzgAFXE4FNDcMF1YhdN) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl](https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52) | 3:21 |
 | 153 | [Hot Moonlight](https://open.spotify.com/track/3XDEtILipdstPlK9y5mp2W) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
 | 154 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 155 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcJ8TAAAAADr4D/+FgUxolTaiwApyuzr`
+Snapshot ID: `AcKB7AAAAACz96upg4CPbFFpQA1stmMC`

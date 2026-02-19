@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

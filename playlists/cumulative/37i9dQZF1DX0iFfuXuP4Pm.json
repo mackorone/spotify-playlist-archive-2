@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Alanganin",
+        "url": "https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Alanganin",
+      "url": "https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348"
+    },
+    {
+      "album": {
         "name": "BANDROOM SESSIONS EPISODE 1",
         "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 228923,
       "name": "Biglaan",
       "url": "https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8"
@@ -1080,6 +1098,24 @@
       "duration_ms": 154937,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8"
+    },
+    {
+      "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/1TTyWGUTIvx6HuvWIJ579O"
+      },
+      "artists": [
+        {
+          "name": "Ryu.",
+          "url": "https://open.spotify.com/artist/1K7VBEW8M30kPkUhBTl2Du"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP"
     },
     {
       "album": {
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 190714,
       "name": "Dahan",
       "url": "https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N"
@@ -2682,7 +2718,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 246857,
       "name": "Himawari",
       "url": "https://open.spotify.com/track/3N34C1hW2ACkTGZ3HViieR"
@@ -5607,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Natataranta",
+        "url": "https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194745,
+      "name": "Natataranta",
+      "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
+    },
+    {
+      "album": {
         "name": "Natotorpe",
         "url": "https://open.spotify.com/album/7ERXnnVNTe56dlugtcrXWl"
       },
@@ -6624,10 +6678,32 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 301611,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH"
+    },
+    {
+      "album": {
+        "name": "Paralisado",
+        "url": "https://open.spotify.com/album/6GXZDnJ5Z5J9gIrh5COODE"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Paralisado",
+      "url": "https://open.spotify.com/track/0uLaVOitbCPo8xOnFbYcfD"
     },
     {
       "album": {
@@ -8266,7 +8342,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 220654,
       "name": "tagu-taguan",
       "url": "https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N"
@@ -9126,6 +9202,24 @@
       "duration_ms": 185000,
       "name": "Walang Alam",
       "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"
+    },
+    {
+      "album": {
+        "name": "MADUMING TIMOG",
+        "url": "https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "WALANG HIYA",
+      "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
     },
     {
       "album": {

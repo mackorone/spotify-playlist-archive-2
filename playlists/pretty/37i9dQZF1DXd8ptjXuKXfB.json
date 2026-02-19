@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29249,
+  "num_followers": 29254,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -351,30 +351,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Natte Visstick",
-          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
-        },
-        {
-          "name": "RHYME",
-          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
-        }
-      ],
-      "duration_ms": 166425,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 262800,
       "name": "SHOW ME WHAT YOU GOT",
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        },
+        {
+          "name": "RHYME",
+          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
+        }
+      ],
+      "duration_ms": 166425,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -595,26 +595,18 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Felsz\u00e1ll\u00f3 \u00c1g",
-        "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Brazil F\u00e1nk",
-      "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -639,18 +631,26 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+        "name": "Felsz\u00e1ll\u00f3 \u00c1g",
+        "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+      "duration_ms": 163636,
+      "name": "Brazil F\u00e1nk",
+      "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "PATTOG A BEAT",
-        "url": "https://open.spotify.com/album/5GwZPNhspjkc3b8at4MNSz"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "PATTOG A BEAT",
-      "url": "https://open.spotify.com/track/4mi7BpmzNXK5J3dRgyGG9i"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
         "name": "PLETYKA",
         "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 155121,
       "name": "PLETYKA",
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
+        "name": "PATTOG A BEAT",
+        "url": "https://open.spotify.com/album/5GwZPNhspjkc3b8at4MNSz"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "PATTOG A BEAT",
+      "url": "https://open.spotify.com/track/4mi7BpmzNXK5J3dRgyGG9i"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1203,26 +1203,18 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Shao Leng Leng",
-        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
+        "name": "Oy Lele",
+        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
       },
       "artists": [
         {
-          "name": "hazetomika",
-          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
-        },
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
         }
       ],
-      "duration_ms": 158683,
-      "name": "Shao Leng Leng",
-      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
+      "duration_ms": 150000,
+      "name": "Oy Lele",
+      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1243,18 +1235,26 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Oy Lele",
-        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
+        "name": "Shao Leng Leng",
+        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "hazetomika",
+          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Oy Lele",
-      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
+      "duration_ms": 158683,
+      "name": "Shao Leng Leng",
+      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
+        "name": "Europa",
+        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "THC",
+      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
+    },
+    {
+      "added_at": "2026-02-16 16:04:31",
+      "album": {
         "name": "CSEREPAD",
         "url": "https://open.spotify.com/album/2t5F8Jc4DXooxBA4qTgSNg"
       },
@@ -1399,38 +1415,18 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "Europa",
-        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+        "name": "POKOL",
+        "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
       },
       "artists": [
         {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
         }
       ],
-      "duration_ms": 132927,
-      "name": "THC",
-      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
-    },
-    {
-      "added_at": "2026-02-16 16:04:31",
-      "album": {
-        "name": "h\u00f3angyal",
-        "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
-      },
-      "artists": [
-        {
-          "name": "gyuris",
-          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
-        },
-        {
-          "name": "Bal\u00e1zs-Piri Soma",
-          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
-        }
-      ],
-      "duration_ms": 219590,
-      "name": "h\u00f3angyal",
-      "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
+      "duration_ms": 185783,
+      "name": "POKOL",
+      "url": "https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p"
     },
     {
       "added_at": "2026-02-16 16:04:31",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2026-02-16 16:04:31",
       "album": {
-        "name": "POKOL",
-        "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
+        "name": "h\u00f3angyal",
+        "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Bal\u00e1zs-Piri Soma",
+          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
         }
       ],
-      "duration_ms": 185783,
-      "name": "POKOL",
-      "url": "https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p"
+      "duration_ms": 219590,
+      "name": "h\u00f3angyal",
+      "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
     },
     {
       "added_at": "2026-02-16 16:04:31",

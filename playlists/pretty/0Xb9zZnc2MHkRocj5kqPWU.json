@@ -1,13 +1,57 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 59524,
+  "num_followers": 59517,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIadr8I9/RErcytpYR1YYMY71qe2pJ",
+  "snapshot_id": "AAAIa7y+I7TuKWnqp6PM07IeEdDHSrTB",
   "tracks": [
+    {
+      "added_at": "2026-02-18 16:51:26",
+      "album": {
+        "name": "Ubi Caritas (Durufl\u00e9) & Ubi Caritas (Gjeilo)",
+        "url": "https://open.spotify.com/album/2o0mTDeS1c0e52yFKe1WQe"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Ubi Caritas",
+      "url": "https://open.spotify.com/track/3ZEY08AkCmwUqw71yblRxr"
+    },
+    {
+      "added_at": "2026-02-18 16:51:46",
+      "album": {
+        "name": "M\u00e9lodie, Op. 4, No. 2",
+        "url": "https://open.spotify.com/album/2MDjS2kICHMw8brDzJczt2"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 107900,
+      "name": "3 M\u00e9lodies, Op. 4, No. 2: Allegretto, H-U 420",
+      "url": "https://open.spotify.com/track/2sSBIFZTfju4XsTivVXmqs"
+    },
     {
       "added_at": "2026-02-09 18:05:10",
       "album": {

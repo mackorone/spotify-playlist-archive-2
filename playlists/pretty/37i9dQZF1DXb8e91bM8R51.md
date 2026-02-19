@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,999 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,996 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 52 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 |
 | 53 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
 | 54 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
-| 55 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/0tyusV99fK1l3x73AhciJI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 3:20 |
-| 56 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
+| 55 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
+| 56 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/0tyusV99fK1l3x73AhciJI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 3:20 |
 | 57 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 58 | [Bitch Please II](https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Marshall Mathers LP](https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ) | 4:48 |
 | 59 | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU) | 2:39 |

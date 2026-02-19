@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 207000,
       "name": "Bonita Asi",
       "url": "https://open.spotify.com/track/2Vj6EumcGpm5XHGEOUebLS"
@@ -12078,7 +12078,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "Eligete",
       "url": "https://open.spotify.com/track/2R32mSucWolCTZpK59BU6p"
@@ -21048,10 +21048,28 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 62119,
       "name": "llegamo pa la clande filtred",
       "url": "https://open.spotify.com/track/6fpHTOt945LoxY88CDqhEW"
+    },
+    {
+      "album": {
+        "name": "llegamo pa la clande filtred",
+        "url": "https://open.spotify.com/album/6P8CPxxQgVPAjgi9V9PHCH"
+      },
+      "artists": [
+        {
+          "name": "lebrondfloyd",
+          "url": "https://open.spotify.com/artist/3vrmk5RCsDLpHnZiTYk6b5"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62135,
+      "name": "llegamo pa la clande filtred",
+      "url": "https://open.spotify.com/track/4OXAV75Pj1YVG2W20aEqQc"
     },
     {
       "album": {
@@ -21106,7 +21124,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 229381,
       "name": "LO QUE LE PAS\u00d3 A HAWAii",
       "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
@@ -26346,7 +26364,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 108003,
       "name": "natural",
       "url": "https://open.spotify.com/track/4wj1Hgoj2U3Yhyc4xB6BN2"
@@ -27034,6 +27052,24 @@
     {
       "album": {
         "name": "No Me Debes Nada",
+        "url": "https://open.spotify.com/album/49dNgKUXcEmhXpWETfphHh"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256162,
+      "name": "No Me Debes Nada",
+      "url": "https://open.spotify.com/track/1ibwh3Ne8ywnVNdeI4sDK2"
+    },
+    {
+      "album": {
+        "name": "No Me Debes Nada",
         "url": "https://open.spotify.com/album/6DPJieG975akEr4ZmVDlZa"
       },
       "artists": [
@@ -27044,7 +27080,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -29004,6 +29040,24 @@
       "duration_ms": 219949,
       "name": "Otra Noche de Llorar",
       "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "album": {
@@ -38008,7 +38062,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 211114,
       "name": "Te Amo y Me Amas",
       "url": "https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo"

@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209326,
+  "num_followers": 209355,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "When God Made You",
-      "url": "https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Without Love",
         "url": "https://open.spotify.com/album/0wD5bHfu88mLVIRBJRq7ly"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 208735,
       "name": "Without Love",
       "url": "https://open.spotify.com/track/3BtUrhZJCneCzhxFarnd4N"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq"
+      },
+      "artists": [
+        {
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "When God Made You",
+      "url": "https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "Es Perfecto (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3aAn8lZpaWJPsInlKzvEim"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 225731,
+      "name": "Es Perfecto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2oveOhl8cgqplLmUZeUC2q"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw"
       },
@@ -751,34 +767,18 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Es Perfecto (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3aAn8lZpaWJPsInlKzvEim"
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
       },
       "artists": [
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 225731,
-      "name": "Es Perfecto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2oveOhl8cgqplLmUZeUC2q"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "Falling At The Thought Of You",
-        "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
-      },
-      "artists": [
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 170201,
-      "name": "Falling At The Thought Of You",
-      "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "All Over The World",
-        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+        "name": "Falling At The Thought Of You",
+        "url": "https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
         }
       ],
-      "duration_ms": 190434,
-      "name": "All Over The World",
-      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
+      "duration_ms": 170201,
+      "name": "Falling At The Thought Of You",
+      "url": "https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "Days of the week freestyle",
+        "url": "https://open.spotify.com/album/2my496LQAuA8mPeKYRUhmn"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Days of the week freestyle",
+      "url": "https://open.spotify.com/track/2tR7J1tJwGWkRyNDRvGrm4"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "Days of the week freestyle",
-        "url": "https://open.spotify.com/album/2my496LQAuA8mPeKYRUhmn"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Days of the week freestyle",
-      "url": "https://open.spotify.com/track/2tR7J1tJwGWkRyNDRvGrm4"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "Febrero",
+        "url": "https://open.spotify.com/album/42sFfS9CDDLsfUD2240fCt"
+      },
+      "artists": [
+        {
+          "name": "Samuel Serrano",
+          "url": "https://open.spotify.com/artist/2a8d6Gt1lJmr0WtFjaBY6H"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Febrero",
+      "url": "https://open.spotify.com/track/5ex2d6u0Vj03naIEveIhEP"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "Cortado",
         "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Febrero",
-        "url": "https://open.spotify.com/album/42sFfS9CDDLsfUD2240fCt"
-      },
-      "artists": [
-        {
-          "name": "Samuel Serrano",
-          "url": "https://open.spotify.com/artist/2a8d6Gt1lJmr0WtFjaBY6H"
-        },
-        {
-          "name": "Matthew Morales",
-          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Febrero",
-      "url": "https://open.spotify.com/track/5ex2d6u0Vj03naIEveIhEP"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1359,22 +1375,6 @@
       "duration_ms": 216446,
       "name": "SHOW ME LOVE AGAIN",
       "url": "https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "A Red, Red Rose",
-        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "Spencer Kane",
+          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
         }
       ],
-      "duration_ms": 203699,
-      "name": "A Red, Red Rose",
-      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
+      "duration_ms": 212000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1619,6 +1619,22 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "A Red, Red Rose",
+        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 203699,
+      "name": "A Red, Red Rose",
+      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
       },
       "artists": [
         {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
+      "duration_ms": 214142,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1715,22 +1731,6 @@
       "duration_ms": 129229,
       "name": "Je t'aime(I love you)",
       "url": "https://open.spotify.com/track/4X1Ndb7krWWkVRJPwkgRer"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 214142,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
     }
   ],
   "unique_name": "Higher Love",

@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 featuring bradeazy
 
-1,278 songs - 2 day 16 hr 40 min
+1,279 songs - 2 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Crawler](https://open.spotify.com/track/4cJFqSeCPSoI3ROEfuJL28) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Hide](https://open.spotify.com/album/1xxKbTvEtsvAmTINuWOQvB) | 2:46 | 2026-01-16 | 2026-02-07 |
 | [Crazy](https://open.spotify.com/track/1qrritD0jLFSpS5Roils6w) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Crazy](https://open.spotify.com/album/2F5unIFYO9mgNZ4DGmWnFm) | 1:46 | 2025-05-23 | 2025-05-31 |
 | [Crazy](https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Crazy](https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE) | 3:26 | 2025-03-07 | 2025-10-04 |
-| [Crazy Shit](https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Crazy Shit](https://open.spotify.com/album/6LaysU1FWbAmOSO0MlvHsZ) | 3:33 | 2026-01-09 |  |
+| [Crazy Shit](https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Crazy Shit](https://open.spotify.com/album/6LaysU1FWbAmOSO0MlvHsZ) | 3:33 | 2026-01-09 | 2026-02-19 |
 | [Crew](https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Crew](https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ) | 3:03 | 2022-08-12 | 2023-02-08 |
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-14 | 2023-12-30 |
 | [Daddy](https://open.spotify.com/track/5nCNUHYlt3yIsoLD4rbb4Y) | [Filex](https://open.spotify.com/artist/7qv9xIkGqakygPuX00yabK) | [Daddy](https://open.spotify.com/album/2u6i67inzqoGRpA3sIAzbY) | 2:38 | 2025-08-01 | 2025-08-30 |
@@ -1061,6 +1061,7 @@
 | [Stir It Up](https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Stir It Up](https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4) | 3:21 | 2025-02-14 | 2025-04-19 |
 | [Stop Go](https://open.spotify.com/track/14gTdyraZjAWKr15useicR) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Stop Go](https://open.spotify.com/album/2ihCWG4ENwKS2tQPEihPbf) | 3:45 | 2025-09-19 | 2025-09-27 |
 | [Stop Lookin \(ft\. AMY MIYU\)](https://open.spotify.com/track/0DGuvbENglRD3UTNtNKYtg) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Stop Looking \(ft\. Amy Miyu\)](https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV) | 2:23 | 2023-04-09 | 2023-06-14 |
+| [Stop Me Fallin](https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A) | [Nash Rly](https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn) | [Stop Me Fallin](https://open.spotify.com/album/04nX2OQQal62zA9hICovFt) | 3:51 | 2026-01-30 |  |
 | [Straight Out the NYC](https://open.spotify.com/track/6BE0BFnXXPWHGjmdb24N8g) | [Matsu](https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U) | [Straight Out the NYC](https://open.spotify.com/album/6yICbNW67NwDDsSHtAuJYW) | 2:46 | 2025-05-02 | 2025-07-05 |
 | [Street Level](https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Street Level / Listen Up](https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy) | 2:59 | 2025-06-06 | 2025-09-13 |
 | [Strip](https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Rich Rocka](https://open.spotify.com/artist/5zyFGZT9upznN1km4yW6GQ) | [Back to the Roots](https://open.spotify.com/album/65yj8V45NuI9oc22oCdUOn) | 3:16 | 2025-11-07 |  |

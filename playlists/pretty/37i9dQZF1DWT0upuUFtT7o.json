@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Victoryland\n",
-  "num_followers": 254460,
+  "num_followers": 254463,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7oiKE4P4R25gyqI4SdLJU95hcJ",
+  "snapshot_id": "AAAAABr8mpVlcv2RqIOm6k1840/IfuWw",
   "tracks": [
     {
       "added_at": "2026-02-11 17:00:28",
@@ -23,6 +23,22 @@
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "Ground Kiss",
+        "url": "https://open.spotify.com/album/7AXDQsvMW88RqE1Py7cOyE"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Ground Kiss",
+      "url": "https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8"
     },
     {
       "added_at": "2026-02-11 17:00:28",
@@ -55,6 +71,86 @@
       "duration_ms": 181566,
       "name": "1 plus 1",
       "url": "https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "over/over",
+        "url": "https://open.spotify.com/album/1PJCDRAh0xcCDoKtwUjvWP"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "over/over",
+      "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "almost normal",
+        "url": "https://open.spotify.com/album/6TjhZBF4MKIPszmD0mzbf0"
+      },
+      "artists": [
+        {
+          "name": "bedrumor",
+          "url": "https://open.spotify.com/artist/7xQaQxlrXaBtgGcq4rsrHI"
+        }
+      ],
+      "duration_ms": 222890,
+      "name": "moon and i",
+      "url": "https://open.spotify.com/track/3XHTgJgsrG7bEhhz8z4RAY"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "undercover",
+        "url": "https://open.spotify.com/album/5dNIJy4DxK00eVtb0SYPnX"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "undercover",
+      "url": "https://open.spotify.com/track/18PlUq2qne2iZRJt91wsgV"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/2YMTdAOI5Tv0fwOiV2OzMt"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "Repeat Offender",
+      "url": "https://open.spotify.com/track/4yqaNXhRmycJUJoX1BZAhG"
+    },
+    {
+      "added_at": "2026-02-18 17:00:06",
+      "album": {
+        "name": "Rock Candy",
+        "url": "https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "duration_ms": 110320,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO"
     },
     {
       "added_at": "2026-02-11 17:00:28",
@@ -543,22 +639,6 @@
       "duration_ms": 97500,
       "name": "4wheelpharmacy",
       "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Centralia",
-        "url": "https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Centralia",
-      "url": "https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5"
     },
     {
       "added_at": "2026-01-28 17:00:07",
@@ -1155,230 +1235,6 @@
       "duration_ms": 158981,
       "name": "The Sound It Made",
       "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "8 Ball (Losers Gonna Win)",
-        "url": "https://open.spotify.com/album/0n1tIZsPSF7dDyd6CGBy9X"
-      },
-      "artists": [
-        {
-          "name": "The Wisconaut",
-          "url": "https://open.spotify.com/artist/3Q64UkM1J3XYga62pRCVxa"
-        }
-      ],
-      "duration_ms": 179330,
-      "name": "8 Ball (Losers Gonna Win)",
-      "url": "https://open.spotify.com/track/42SVws49jAtVUeKywQUbOC"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "before photo",
-        "url": "https://open.spotify.com/album/2KmYyh1ctu3ZtVOZlAYKYf"
-      },
-      "artists": [
-        {
-          "name": "Nectarine Girl",
-          "url": "https://open.spotify.com/artist/4uEVWU1ZQu0r9m6XzbKHHX"
-        }
-      ],
-      "duration_ms": 283076,
-      "name": "before photo",
-      "url": "https://open.spotify.com/track/3eq5FSSr9PXwW1NrLIoQIp"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Another Day in LA",
-        "url": "https://open.spotify.com/album/2loJ5aSWBRW4Vb7a6vq62f"
-      },
-      "artists": [
-        {
-          "name": "Mr Floyd Larry",
-          "url": "https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM"
-        }
-      ],
-      "duration_ms": 207435,
-      "name": "Another Day in LA",
-      "url": "https://open.spotify.com/track/0NcoUSIHvFjMMvPKdqXoS6"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Limelight",
-        "url": "https://open.spotify.com/album/0xZLdAXZ46uQHMI6eaVduU"
-      },
-      "artists": [
-        {
-          "name": "rakey",
-          "url": "https://open.spotify.com/artist/2MHVHW2D8Xzn8jQKOMFx4p"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/2aENXDjF7mODufS7JunKUk"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Token",
-        "url": "https://open.spotify.com/album/1YNVocoiqW1zUomdPlBAx2"
-      },
-      "artists": [
-        {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
-        }
-      ],
-      "duration_ms": 152592,
-      "name": "Token",
-      "url": "https://open.spotify.com/track/32UB2su8kJ6vr73LJeUwjo"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/3ZIyxqXufcDZY4ui9Ctpz7"
-      },
-      "artists": [
-        {
-          "name": "Strange Case",
-          "url": "https://open.spotify.com/artist/5vqiyQrD7T3aRBDV6u7xWJ"
-        }
-      ],
-      "duration_ms": 185829,
-      "name": "HBK",
-      "url": "https://open.spotify.com/track/2assxiXzcV9272CXbpRblN"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "rosemary",
-        "url": "https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5"
-      },
-      "artists": [
-        {
-          "name": "annie hamilton",
-          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "rosemary",
-      "url": "https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Never Enuf",
-        "url": "https://open.spotify.com/album/5mhkVYszKxrEaO3vya2Y4G"
-      },
-      "artists": [
-        {
-          "name": "Sego",
-          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
-        }
-      ],
-      "duration_ms": 186774,
-      "name": "Never Enuf",
-      "url": "https://open.spotify.com/track/20BnBCcwI7McdU6uRJ3ZQM"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "New England",
-        "url": "https://open.spotify.com/album/3oID9b2Jd3A1Kxatr1OEUN"
-      },
-      "artists": [
-        {
-          "name": "Josef Scott",
-          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
-        }
-      ],
-      "duration_ms": 180904,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0L4uhwLa4bmIsRyvgFeTBo"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
-      },
-      "artists": [
-        {
-          "name": "Local the Neighbour",
-          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Hidden Plan",
-        "url": "https://open.spotify.com/album/1BVImqmQQYtzB11320U7Sk"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sonnier",
-          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Hidden Plan",
-      "url": "https://open.spotify.com/track/1vDeL5Ep5poKjXg7wqcaFe"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "night at the bar",
-        "url": "https://open.spotify.com/album/47cCCiT8UZama1mjWiSNAb"
-      },
-      "artists": [
-        {
-          "name": "Love Seats",
-          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
-        }
-      ],
-      "duration_ms": 138531,
-      "name": "night at the bar",
-      "url": "https://open.spotify.com/track/3HNsB9ELSMsfAyx88F7XdN"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "god, i miss you",
-        "url": "https://open.spotify.com/album/6kRkZVLA0UN97ss0HEGTnL"
-      },
-      "artists": [
-        {
-          "name": "avalon",
-          "url": "https://open.spotify.com/artist/5AZr3lsm2tGfXbTV9rBK1S"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "god, i miss you",
-      "url": "https://open.spotify.com/track/1igE9VgtAOfPDnkzfvFiBS"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "I Hate You",
-        "url": "https://open.spotify.com/album/68NLivEWEneo4k8IhPQS7e"
-      },
-      "artists": [
-        {
-          "name": "Wormy",
-          "url": "https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z"
-        }
-      ],
-      "duration_ms": 175661,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/61mrdEMJV5HHdKxrEZBkC9"
     }
   ],
   "unique_name": "Fresh Finds Indie",

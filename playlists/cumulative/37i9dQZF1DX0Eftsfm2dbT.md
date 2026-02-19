@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Campanella \*毎週更新
 
-2,280 songs - 4 day 18 hr 55 min
+2,280 songs - 4 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [LNB Cypher](https://open.spotify.com/track/6UwDLc0EQXl8OTiO5L1qIg) | [Legal nerd boyz](https://open.spotify.com/artist/25ggylVPSvLtgpAZK66OVn) | [Excuse me!Hello!](https://open.spotify.com/album/3lK05MegXSCvV6t6pD3jKO) | 2:58 | 2025-11-18 | 2025-12-17 |
 | [Locker \(feat\. G\-k.i.d, Tiji Jojo & YZERR\)](https://open.spotify.com/track/00fKBzsoA37ycAjvQxVKpY) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 4:11 | 2024-02-08 | 2024-02-28 |
 | [LOEWE](https://open.spotify.com/track/3nwSGuZ58rqJM1Nqpl92M7) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [LOEWE](https://open.spotify.com/album/0kKUHAninUdpYZiMtam7Th) | 3:34 | 2025-06-10 | 2025-07-09 |
+| [London](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [Goodbye Sad Boy](https://open.spotify.com/album/7uaI9vopFG1RTVZQUbM1GR) | 2:17 | 2026-02-17 |  |
 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 | 2024-07-30 | 2024-11-06 |
 | [Lonely Child \(feat\. Carz\)](https://open.spotify.com/track/4O3RAIPl2v9OuaDApbEsB0) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [No Limit](https://open.spotify.com/album/5Q4FSNAYE3Wr6y0cKb7H07) | 3:22 | 2025-02-25 | 2025-03-26 |
 | [Long way \(feat\. ELIONE\)](https://open.spotify.com/track/2PKZz86dIEUf0KSGN0SWT3) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg) | [Long way \(feat\. ELIONE\)](https://open.spotify.com/album/5fWP2Yf3wJsSq9SyVIiOpE) | 3:38 | 2025-07-29 | 2025-09-18 |
@@ -1852,7 +1853,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-05-09 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/2GFJDs1B4eNnGIBd1XSJ5s) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/6jSXDc6Hbf2la9BPbxYZOo) | 2:37 | 2025-09-17 | 2025-10-24 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-21 | 2023-10-04 |
-| [Track 1](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-06-26 |
 | [Train Train Train](https://open.spotify.com/track/5chrKpLpQwMyECA1MVntyC) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Train Train Train](https://open.spotify.com/album/4QafbOrEJvksjDAp8YiSrl) | 3:42 | 2024-09-19 | 2024-09-25 |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 | 2025-11-19 |

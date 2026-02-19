@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 
 > 
 
-[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 62 songs - 3 hr 24 min
+[BLK OUT](https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla) - 19 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | 60 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 61 | [Light The Fire](https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Light The Fire](https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb) | 3:02 |
 | 62 | [More Than A Friend](https://open.spotify.com/track/1MkyyWEEiSsInhZwfk8KvY) | [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [More Than Friends](https://open.spotify.com/album/5GViFW9eVnhdrMZZVLXpEw) | 3:23 |
+| 63 | [real 4 me](https://open.spotify.com/track/5REKvuYgfoy1LzwG6JC8Qg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [real 4 me \(BKAYE VIP\)](https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv) | 2:25 |
 
-Snapshot ID: `AAAAZAazSF7/zxquX7zrevGRLlCpBhk6`
+Snapshot ID: `AAAAZRrrKOq3zNmJOnQjJ4lcg9/xXFz6`

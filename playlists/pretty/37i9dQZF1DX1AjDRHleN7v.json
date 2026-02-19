@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 415612,
+  "num_followers": 415688,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "vida leve",
-        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "vida leve",
-      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "vida leve",
+        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "vida leve",
+      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
         "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 249864,
       "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
       "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
     },
     {
       "added_at": "2026-01-09 03:01:26",

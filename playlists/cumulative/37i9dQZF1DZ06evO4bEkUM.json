@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144593,
+      "name": "C\u2019est Comme \u00c7a (Re: Wet Leg)",
+      "url": "https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2"
+    },
+    {
+      "album": {
         "name": "David Byrne Does Hard Times",
         "url": "https://open.spotify.com/album/1O2vvoFvP44PCOFdxLHzst"
       },

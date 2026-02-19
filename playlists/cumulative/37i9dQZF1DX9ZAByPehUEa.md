@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-735 songs - 1 day 20 hr 7 min
+736 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Any Kind Of Music \(I Love\)](https://open.spotify.com/track/5mqMbGUrqPn4dEEHiK5Loy) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Any Kind Of Music \(I Love\)](https://open.spotify.com/album/6CZclIcamGolxD8545ltfR) | 3:20 | 2025-06-20 |  |
 | [aNYway \- Original Mix](https://open.spotify.com/track/27FmM2RvYOFVqv3kkR5yXO) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [aNYway](https://open.spotify.com/album/5V0o0wcRV7gDIZFjpHJAKN) | 2:50 | 2025-01-10 |  |
 | [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-06 | 2025-05-31 |
+| [Are They Real](https://open.spotify.com/track/2R9mq2ZOGNnQIpIwTiSjqc) | [Groove P](https://open.spotify.com/artist/1QR0qBs45isMMz5qHTMcV9) | [Are They Real](https://open.spotify.com/album/4AQtXr4QSiB5O7VNom7HjB) | 3:32 | 2026-02-18 |  |
 | [Are They Real](https://open.spotify.com/track/4DtXOh0BqeLcqowkrt8pCf) | [Groove P](https://open.spotify.com/artist/1QR0qBs45isMMz5qHTMcV9) | [Are They Real](https://open.spotify.com/album/5bgkOzUaGG5fWtXgcCAQiR) | 3:32 | 2024-02-16 | 2024-08-31 |
 | [Are You Bad Or Not?](https://open.spotify.com/track/4yhwd5qPo0KZfKjNPiQEWl) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Are You Bad Or Not?](https://open.spotify.com/album/3pMgFuVJZhE97yUU8rzZxd) | 1:54 | 2025-01-31 | 2025-05-13 |
 | [Are You Ready](https://open.spotify.com/track/3xGCgY9ELw9WqX93Af89ka) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd) | [Are You Ready](https://open.spotify.com/album/1lUBYVjZsZJsdOMRYUFMmM) | 2:39 | 2025-05-12 |  |
@@ -675,7 +676,7 @@
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-15 | 2025-11-29 |
 | [Ti Sento](https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5), [Antonella Ruggiero](https://open.spotify.com/artist/7xELwlmfwkTUMKJNSxN5To) | [Ti Sento](https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq) | 3:00 | 2023-12-22 |  |
 | [Time Never Stops \(with Yung Bae\)](https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Time Never Stops \(with Yung Bae\)](https://open.spotify.com/album/3avlkzbiZFaPik4q6m6URA) | 2:51 | 2025-08-29 |  |
-| [Time To Move](https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Time To Move](https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu) | 3:11 | 2025-05-02 |  |
+| [Time To Move](https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Time To Move](https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu) | 3:11 | 2025-05-02 | 2026-02-19 |
 | [Times Are Changing](https://open.spotify.com/track/6uTkDoB8P6vtLh2tT0ZlzI) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Times Are Changing](https://open.spotify.com/album/0zCuk3EDlJ3J8XjBkbpzVz) | 4:51 | 2025-02-14 | 2025-04-26 |
 | [Together for the Love](https://open.spotify.com/track/5pej4Euv8KlXHQuA2TIW2J) | [Mai Mai](https://open.spotify.com/artist/2Mo7s9kPvQv9nwiySlQJYV), [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [Together for the Love](https://open.spotify.com/album/7MGxlmaAM5SmABFfcbVxYO) | 3:37 | 2022-01-14 | 2022-07-03 |
 | [Told You So](https://open.spotify.com/track/2jcbYTEX3DzJabAF2OS68B) | [Odssey](https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS) | [Told You So](https://open.spotify.com/album/0lPT5PDcXI9dPiMryq1KeE) | 2:45 | 2024-01-12 | 2024-01-27 |

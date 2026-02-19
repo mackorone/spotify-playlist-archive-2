@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 60890,
+  "num_followers": 60902,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -839,18 +839,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
       },
       "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
         {
           "name": "Kalaimamani Prabhavathi Ganesan",
           "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 278831,
-      "name": "Ayarpadi",
-      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+      "duration_ms": 318667,
+      "name": "Thevaram Mangayarkarasi Bowli Adi",
+      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -875,22 +879,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
       },
       "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
         {
           "name": "Kalaimamani Prabhavathi Ganesan",
           "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 318667,
-      "name": "Thevaram Mangayarkarasi Bowli Adi",
-      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+      "duration_ms": 278831,
+      "name": "Ayarpadi",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -927,46 +927,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Jugalbandi",
-        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
-      },
-      "artists": [
-        {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
-        },
-        {
-          "name": "V Narasinhalu Wadvati",
-          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
-        }
-      ],
-      "duration_ms": 3604133,
-      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
-      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
-        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
-      },
-      "artists": [
-        {
-          "name": "Tyagaraja",
-          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
-        },
-        {
-          "name": "K. S. G. Somanathan",
-          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
-        }
-      ],
-      "duration_ms": 818860,
-      "name": "Nagumomu - Abheri",
-      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD"
       },
@@ -991,6 +951,46 @@
       "duration_ms": 295226,
       "name": "Vinayaka: Raag Hamsadhwani - Aadi",
       "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
+        }
+      ],
+      "duration_ms": 818860,
+      "name": "Nagumomu - Abheri",
+      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Jugalbandi",
+        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "V Narasinhalu Wadvati",
+          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
+        }
+      ],
+      "duration_ms": 3604133,
+      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
+      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
     },
     {
       "added_at": "2025-07-09 11:29:57",

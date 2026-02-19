@@ -6313,6 +6313,24 @@
     },
     {
       "album": {
+        "name": "pamasahe",
+        "url": "https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi"
+      },
+      "artists": [
+        {
+          "name": "GY",
+          "url": "https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168153,
+      "name": "pamasahe",
+      "url": "https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf"
+    },
+    {
+      "album": {
         "name": "pangalan",
         "url": "https://open.spotify.com/album/1xozCy63NzVrKrSOpTLkuY"
       },

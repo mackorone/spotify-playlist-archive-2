@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,133 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,138 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 80 | [Area Code](https://open.spotify.com/track/04YHC7lSLrX3Ar1VbcCYIs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [CMD/CTRL](https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox) | [Area Code](https://open.spotify.com/album/35jRxBjzLbmjgWEfobEUFb) | 3:14 |
 | 81 | [Thinkin About](https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Thinkin About](https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs) | 2:39 |
 | 82 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
-| 83 | [Cold](https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Cold](https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV) | 2:25 |
-| 84 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 |
+| 83 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 |
+| 84 | [Cold](https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Cold](https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV) | 2:25 |
 | 85 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
 | 86 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
 | 87 | [Be There](https://open.spotify.com/track/6Keg029MW2OzYWZrt0kQFh) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Be There](https://open.spotify.com/album/11XCfmSPWaafPcknyRGgeN) | 3:46 |

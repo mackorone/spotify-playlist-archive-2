@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,728 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,812 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 30 | [Naalo Neene](https://open.spotify.com/track/5AHEkJZ2RmgSLx3w7bRttv) | [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A), [Ranjith](https://open.spotify.com/artist/7kzQY1HruUiBsVJxDPcgiy) | [It's Ok Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0b6Z3XgIc3mhFPo7bmmhtC) | 4:12 |
 | 31 | [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 |
 | 32 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 |
-| 33 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 |
-| 34 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 |
+| 33 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 |
+| 34 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 |
 | 35 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 |
 | 36 | [Endhuko Emo](https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT) | [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Rangam](https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u) | 5:30 |
 | 37 | [Seethakaalam](https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 4:22 |

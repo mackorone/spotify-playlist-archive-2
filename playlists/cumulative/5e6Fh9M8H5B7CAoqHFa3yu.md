@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,876 songs - 4 day 16 hr 33 min
+1,879 songs - 4 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 | 2026-02-10 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-12-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
+| [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 | 2026-02-18 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
 | [Autoblues](https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm) | [David Garrido Guil](https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3), [María Barrio Insausti](https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM), [Carlos Beceiro](https://open.spotify.com/artist/3u32J7uST7l92X909YikOy), [Joaquín Pardinilla](https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw) | [Autoblues](https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai) | 3:53 | 2025-12-07 |  |
 | [Aximal \(Paddy Free Dub\)](https://open.spotify.com/track/6gKKmTNpk5NYVIibtimQTi) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Paddy Free](https://open.spotify.com/artist/1HzvbQ5yDhONQmtd7ZQPC8) | [Decoded](https://open.spotify.com/album/4y6SuS8cQwkUhoojsG86RY) | 5:07 | 2024-03-17 |  |
@@ -214,6 +215,7 @@
 | [Botanical Bongo](https://open.spotify.com/track/0bhZPudq7aSiywPKGAR4f9) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:49 | 2024-05-01 |  |
 | [Botanical Dub](https://open.spotify.com/track/1grpjdPISPbqL8RUPCjIbI) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:50 | 2024-05-01 |  |
 | [Botanical Story](https://open.spotify.com/track/2cqBZypj8ELz29CuvDnvsg) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:49 | 2024-03-10 |  |
+| [Bottled Hope](https://open.spotify.com/track/2AAHCstOmqcOCfWDClEDro) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Bottled Hope](https://open.spotify.com/album/1rQJqPyhdCqaInoi7d8uzd) | 3:23 | 2026-02-18 |  |
 | [BOTTOMED OUT BOTTLE](https://open.spotify.com/track/4LEQHVO8FP5GYXx5zaImor) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [DRANKIN & DRIVIN \(HIGH OCTANE DELUXE\)](https://open.spotify.com/album/7DkEgEcghlBTLth7HPKO80) | 2:40 | 2025-05-14 |  |
 | [BOUNCE!](https://open.spotify.com/track/4OGogSW2OYjzwX49JyJFMo) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:08 | 2025-09-08 |  |
 | [Brass Down Babiwrong](https://open.spotify.com/track/533KJfUv8IXmfWOOzxaViz) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Samson Benji](https://open.spotify.com/artist/4yh2z9mo5F6S5cQC363v2G) | [Brass Echo Chamber](https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl) | 4:13 | 2024-05-01 |  |
@@ -1011,6 +1013,7 @@
 | [Mash Down Satan](https://open.spotify.com/track/3QYP369ZySdtENugoueUJB) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:49 | 2024-05-01 |  |
 | [Mash It Up](https://open.spotify.com/track/4nlS83eTficExFLaRatoW4) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:30 | 2024-05-01 |  |
 | [Master of Grooveality](https://open.spotify.com/track/1Xx7kKxN8IWkLbwtD1x6mh) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 3:49 | 2025-06-16 |  |
+| [MASTERPIECE](https://open.spotify.com/track/41Xb489wAFHotqj5cQq1zV) | [Crimson](https://open.spotify.com/artist/63mjjF2tGENedqxDyZhK6G) | [D0PE SH!T 4LYFE](https://open.spotify.com/album/0RuWMHXQnHEhLRKSWhiJQL) | 1:35 | 2026-02-18 |  |
 | [Masters of the war](https://open.spotify.com/track/5nzmuhzq0Bp7bt5c9plPWS) | [The Leaflitter Bug](https://open.spotify.com/artist/4G0RBH0X6MB0xSaF97r9lW) | [Masters of the war](https://open.spotify.com/album/4uzvCUuSpskbhRYFNxTSlU) | 2:01 | 2025-05-16 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-03-15 |  |
 | [Matic Manor](https://open.spotify.com/track/50qdtQrS8p3kvQXNguELeg) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:18 | 2024-03-23 |  |

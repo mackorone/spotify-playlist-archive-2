@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAACTtncUQ/IrLvUYCNtCj6Zs",
+  "snapshot_id": "aZOvgAAAAAB4eNfJOyXh0dtMgf4YocqM",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dino: The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Under The Bridges Of Paris",
-      "url": "https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cha Cha De Amor",
         "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 138106,
       "name": "Cha Cha Cha d\u00b4Amour",
       "url": "https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Under The Bridges Of Paris",
+      "url": "https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dean Martin TV Show",
-        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "The One I Love (Belongs to Somebody Else)",
-      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cha Cha De Amor",
         "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 143626,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dean Martin TV Show",
+        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "The One I Love (Belongs to Somebody Else)",
+      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 183000,
-      "name": "You Belong To Me - Remastered",
-      "url": "https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B"
+      "duration_ms": 159000,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
     }
   ],
   "unique_name": "This Is Dean Martin",

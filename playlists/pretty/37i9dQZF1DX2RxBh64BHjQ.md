@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3TvL95zdOZWkMbkvfJ8cCk">H3adband</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,742,786 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,742,633 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [LOOK @ GOD \(feat\. LaRussell\)](https://open.spotify.com/track/1tclbtBB8h9RnsrrHTAdgy) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 3:38 |
 | 100 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
 
-Snapshot ID: `AAAAAElTOmXpRpcxEtBKYq6h/qK+ZZBA`
+Snapshot ID: `AAAAAAXgIMzoRVSxXZo5yYpAtqZIMXP9`

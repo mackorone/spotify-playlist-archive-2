@@ -7331,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "album": {
         "name": "L.Y.A.T.T.",
         "url": "https://open.spotify.com/album/6JzEXxgSrmDJBK5QxJwkgP"
       },
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 233486,
       "name": "Lean",
       "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"

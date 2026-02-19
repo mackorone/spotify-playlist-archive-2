@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Charli xcx, Central Cee et KeBlack au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,360 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,344 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

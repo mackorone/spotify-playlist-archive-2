@@ -4,7 +4,7 @@
 
 > the final boss of house playlists\. \| minimal tech \- tech house \- rally house \- droid house \- club mix \- dj music \- workout music \- bass house
 
-2,437 songs - 5 day 17 hr 7 min
+2,438 songs - 5 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [I Don't Trust A Soul](https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [I Don't Trust A Soul](https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP) | 2:26 | 2025-08-08 | 2025-11-16 |
 | [I Don't Wanna Know](https://open.spotify.com/track/72eVV0iljip9FOL8YgWWVc) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Wanna Know](https://open.spotify.com/album/2vdRGjHkFqryZm3yV5tVHy) | 3:42 | 2023-05-05 | 2023-05-13 |
 | [I Don't Wanna Rush](https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [I Don't Wanna Rush](https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T) | 3:04 | 2024-02-07 | 2024-02-25 |
+| [I Don't Want To](https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [I Don't Want To](https://open.spotify.com/album/3EctQMphj2fWCEnkUeYTbD) | 3:47 | 2026-02-18 |  |
 | [I Entah](https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [I Entah](https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP) | 2:32 | 2023-03-25 | 2023-04-01 |
 | [I Feel It \(In My House\)](https://open.spotify.com/track/4bcC4KbZAz0CxUbVQawpYa) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [I Feel It \(In My House\)](https://open.spotify.com/album/1L6UciZ8HHMraItH0udUcz) | 2:37 | 2022-09-23 | 2022-10-01 |
 | [I Feel It Right](https://open.spotify.com/track/5Y5xn6cEjXtsba5ZvVLDs6) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [I Feel It Right](https://open.spotify.com/album/4rXiZ2mWYsuPuxy2dv4fD6) | 3:04 | 2023-04-28 | 2023-05-06 |

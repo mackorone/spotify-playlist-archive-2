@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 219773,
       "name": "Domestic La La",
       "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Domestic La La",
+      "url": "https://open.spotify.com/track/1FLaMV2scHd7mxqAGgOxB0"
     },
     {
       "album": {

@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 203679,
       "name": "Carry No Thing",
       "url": "https://open.spotify.com/track/3bJs7zfcoFrHEPiB0VwQmy"
@@ -298,10 +298,32 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 50072,
       "name": "Goldberg Variations, BWV 988: Variation 20 a 2 Clav.",
       "url": "https://open.spotify.com/track/54VrtN6vHC3gXyqhDulUcW"
+    },
+    {
+      "album": {
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50478,
+      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "url": "https://open.spotify.com/track/14lyZKpPu1ECQpfXhgrip6"
     },
     {
       "album": {
@@ -810,6 +832,64 @@
       "duration_ms": 237424,
       "name": "Wake - Live at Hangar 30",
       "url": "https://open.spotify.com/track/6ZxZlX6pnriCAHKstRlCKW"
+    },
+    {
+      "album": {
+        "name": "The Drop That Contained the Sea: Waloyo Yamoni",
+        "url": "https://open.spotify.com/album/08xsqKrCLIERxjSRlUP8GO"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        },
+        {
+          "name": "Victor Makhathini",
+          "url": "https://open.spotify.com/artist/34amTRgMWgxQjYl0zeFWfh"
+        },
+        {
+          "name": "Refiloe Msebenzi",
+          "url": "https://open.spotify.com/artist/7utJhM3HwZMkQ0HjhWu1Z0"
+        },
+        {
+          "name": "Nominjin",
+          "url": "https://open.spotify.com/artist/3HgUqZJwxO3CLtwE2ohpKe"
+        },
+        {
+          "name": "Roopa Mahadevan",
+          "url": "https://open.spotify.com/artist/2dfpIaGPc2MwdsPNGvYyPE"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Angel City Chorale",
+          "url": "https://open.spotify.com/artist/4bQ2CPtId37Gm2rZa9f300"
+        },
+        {
+          "name": "Dulce Pontes",
+          "url": "https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w"
+        },
+        {
+          "name": "Shoji Kameda",
+          "url": "https://open.spotify.com/artist/0w58EBinbMrLnuqVYRC01i"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Sue Fink",
+          "url": "https://open.spotify.com/artist/61MeKNJd0gPBIXDM7314t0"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Waloyo Yamoni: IV. We Overcome the Wind (Reprise)",
+      "url": "https://open.spotify.com/track/6RaaGhBnbEsa8G2WuZZVx5"
     }
   ],
   "url": "https://open.spotify.com/playlist/3z2cw3ZogDTDR1ZWpAUKRM"

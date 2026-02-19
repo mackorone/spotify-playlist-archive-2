@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Aadiney Irupen (From \"Happy Raj\")",
+        "url": "https://open.spotify.com/album/6AnXjaWLA1d3jXHWtdP2Kp"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "Aadiney Irupen (From \"Happy Raj\")",
+      "url": "https://open.spotify.com/track/5Z1VT8zs0pdDtqbx8b0g62"
+    },
+    {
+      "album": {
         "name": "Aadu, Puli - Aatam (From \"Hari Hara Veera Mallu\") [Tamil]",
         "url": "https://open.spotify.com/album/4fEg52thy3etlQjGIyeG9v"
       },
@@ -2000,7 +2022,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 250212,
       "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
       "url": "https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U"
@@ -36051,6 +36073,32 @@
     },
     {
       "album": {
+        "name": "Pandi Muni Varaan (From \"Vadam\")",
+        "url": "https://open.spotify.com/album/4OobDMUa6ibPwcBOuLV6KH"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Gnanakaravel",
+          "url": "https://open.spotify.com/artist/2VCcOhGV9duDdROvJZ1Uqw"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220156,
+      "name": "Pandi Muni Varaan (From \"Vadam\")",
+      "url": "https://open.spotify.com/track/2lrUcw7nHm01o1vbnlZ8CW"
+    },
+    {
+      "album": {
         "name": "Pani Kaatrin (From \"Cold Call\")",
         "url": "https://open.spotify.com/album/4r3aFvFZz4ImLDes7Tn7ca"
       },
@@ -42622,7 +42670,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 144058,
       "name": "Silu Silu Silu",
       "url": "https://open.spotify.com/track/74oyKLugINeHB86Cv2tSwx"

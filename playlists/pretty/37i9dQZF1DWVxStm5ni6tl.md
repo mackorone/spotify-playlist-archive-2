@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Shelailai, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,994 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,011 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 41 | [PLUSH](https://open.spotify.com/track/7fq799Li7aYnz1Wr4GrQOr) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [PLUSH](https://open.spotify.com/album/4VTxzNXNuGQaMcWg6aEDgW) | 4:11 |
 | 42 | [Lucky Nights](https://open.spotify.com/track/602JSXuzCDAKwc9a7pO8NJ) | [Benstar](https://open.spotify.com/artist/7HyxGgjkP1vBANWGTLHE1n) | [Lucky Nights](https://open.spotify.com/album/2KEs0Zb6GydtOASBB86SGF) | 1:52 |
 | 43 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:18 |
-| 44 | [Buzzcut](https://open.spotify.com/track/1t2JjgmVWtbjwfK7isK5FC) | [Taylor Jackson](https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif) | [I Lose My Mind/Buzzcut](https://open.spotify.com/album/3AYesxZlm01pOXAlZawrT8) | 4:31 |
+| 44 | [Buzzcut](https://open.spotify.com/track/1t2JjgmVWtbjwfK7isK5FC) | [Taylor Jackson](https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif) | [I Lose My Mind/Buzzcut](https://open.spotify.com/album/3AYesxZlm01pOXAlZawrT8) | 4:33 |
 | 45 | [Cimetière](https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Cimetière](https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc) | 3:33 |
 | 46 | [ROCKET](https://open.spotify.com/track/44nf203RTn9yoHlVbTIjxZ) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [ROCKET](https://open.spotify.com/album/5YQN5EAhACAQGIqw1qoFvQ) | 2:43 |
 | 47 | [Life Di Queen](https://open.spotify.com/track/14rzLVKQNV0rCKqlR2g1fJ) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [RAYIAN](https://open.spotify.com/artist/2mgsS1D6bQ76NK7zISJRfd) | [Life Di Queen](https://open.spotify.com/album/1yN5LO62sS7Ou6NKPGZRlP) | 2:12 |

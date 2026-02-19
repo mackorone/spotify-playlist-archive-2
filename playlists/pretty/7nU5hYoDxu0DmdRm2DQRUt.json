@@ -6,8 +6,72 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOr0FpVndHN8M0hSExMXXYF/UH5XK0",
+  "snapshot_id": "AAAOtRtRVXbSrySL3Snpg67UsK3a/h9a",
   "tracks": [
+    {
+      "added_at": "2026-02-18 15:27:57",
+      "album": {
+        "name": "Alien Tropical",
+        "url": "https://open.spotify.com/album/29r43W90liJp6anNdBQoq3"
+      },
+      "artists": [
+        {
+          "name": "Servicio al Cliente",
+          "url": "https://open.spotify.com/artist/5fMcxtOIUwGtADbO85M57U"
+        }
+      ],
+      "duration_ms": 186807,
+      "name": "Suelta Por La Pampa",
+      "url": "https://open.spotify.com/track/2wJCPrEo9zTVQIYayLpDo3"
+    },
+    {
+      "added_at": "2026-02-18 15:26:40",
+      "album": {
+        "name": "Happy Accidents",
+        "url": "https://open.spotify.com/album/6eIIOdPGvBzk45rjV3d1gx"
+      },
+      "artists": [
+        {
+          "name": "Harmon",
+          "url": "https://open.spotify.com/artist/4RJc9e8nwIVYzh0q9ejJDS"
+        }
+      ],
+      "duration_ms": 446396,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1W9jb56FqMyz3TyPPmaPQG"
+    },
+    {
+      "added_at": "2026-02-18 15:27:02",
+      "album": {
+        "name": "Above The Clouds I Finally Found Peace",
+        "url": "https://open.spotify.com/album/0g6DbN5ScFxj0tVRzKgYTw"
+      },
+      "artists": [
+        {
+          "name": "Quelza",
+          "url": "https://open.spotify.com/artist/6LL2tELgb3Y6TcQdsBmXqS"
+        }
+      ],
+      "duration_ms": 370500,
+      "name": "Argo Voa",
+      "url": "https://open.spotify.com/track/5eyKd5yKjvq0GjXDo2dqC7"
+    },
+    {
+      "added_at": "2026-02-18 15:27:23",
+      "album": {
+        "name": "Ich bin meine Maschine",
+        "url": "https://open.spotify.com/album/6e33tpNB2m1gAO8Q1cofNd"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 393696,
+      "name": "Ich bin meine Maschine",
+      "url": "https://open.spotify.com/track/4KzQQzxcU2ACOJn7SBRNdE"
+    },
     {
       "added_at": "2026-02-03 14:49:06",
       "album": {

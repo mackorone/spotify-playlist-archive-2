@@ -978,7 +978,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 256666,
       "name": "Andai Derita",
       "url": "https://open.spotify.com/track/7CdrY4dlc3l0NU04fbIr3B"
@@ -3385,6 +3385,28 @@
     },
     {
       "album": {
+        "name": "Burung Besi",
+        "url": "https://open.spotify.com/album/2bcclfAU2i4wTZsDXNROY4"
+      },
+      "artists": [
+        {
+          "name": "Pesawat",
+          "url": "https://open.spotify.com/artist/6BdvqVtvLRxQe8lB7GAv9G"
+        },
+        {
+          "name": "Black Hanifah",
+          "url": "https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Burung Besi",
+      "url": "https://open.spotify.com/track/2crCdxUvYOAeCKuIeWHxhW"
+    },
+    {
+      "album": {
         "name": "BuruTerBuru (feat. Hazama & Boy Clifford)",
         "url": "https://open.spotify.com/album/0zxibpvy3ruINN4iwhlCaH"
       },
@@ -3840,7 +3862,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 262700,
       "name": "Cinta Kita",
       "url": "https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii"
@@ -5243,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Genasara (From \"Sujud Terakhir En. Norman\")",
+        "url": "https://open.spotify.com/album/6fykh3kft7S5LGhPEf3CaG"
+      },
+      "artists": [
+        {
+          "name": "Amylea",
+          "url": "https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245735,
+      "name": "Genasara - From \"Sujud Terakhir En. Norman\"",
+      "url": "https://open.spotify.com/track/1xOG7DrhLDKaGy79BCGGwa"
+    },
+    {
+      "album": {
         "name": "Genggam",
         "url": "https://open.spotify.com/album/5Z0eni7PYZo7u7UL1vd6te"
       },
@@ -5422,7 +5462,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 312683,
       "name": "Gurauan Berkasih",
       "url": "https://open.spotify.com/track/3K0RxesjQbisclX1EtG0wC"
@@ -8843,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Kuharap Duka Ini Selamanya",
+        "url": "https://open.spotify.com/album/35jjxX4BwfJxWjr2MpRAts"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262338,
+      "name": "Kuharap Duka Ini Selamanya",
+      "url": "https://open.spotify.com/track/4VCmXihNaBZdnVNWOIk7NC"
+    },
+    {
+      "album": {
         "name": "Kukira Kau Rumah",
         "url": "https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT"
       },
@@ -9376,6 +9434,32 @@
       "duration_ms": 287319,
       "name": "LESTARI MERDU",
       "url": "https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi"
+    },
+    {
+      "album": {
+        "name": "Liga Baru",
+        "url": "https://open.spotify.com/album/2PyTGPYT9T93kUeTPwvsCZ"
+      },
+      "artists": [
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "Yung Caters",
+          "url": "https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2"
+        },
+        {
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Liga Baru",
+      "url": "https://open.spotify.com/track/0XrtmwvIsJllIexIH9sQ4t"
     },
     {
       "album": {
@@ -10346,6 +10430,24 @@
       "duration_ms": 185040,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
+    },
+    {
+      "album": {
+        "name": "Mencinta Tanpa Arah",
+        "url": "https://open.spotify.com/album/5Tdu68wWgRfg7fTassnrsH"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Mencinta Tanpa Arah",
+      "url": "https://open.spotify.com/track/2VloC2U2SgLmC1O3Ofjxc8"
     },
     {
       "album": {
@@ -12186,7 +12288,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 249112,
       "name": "Perjalanan",
       "url": "https://open.spotify.com/track/03LI56cQXjWeLAB7w5EBpS"
@@ -12888,6 +12990,28 @@
       "duration_ms": 269743,
       "name": "Rela",
       "url": "https://open.spotify.com/track/6WGhlCp1VjXho2pyDvMLbF"
+    },
+    {
+      "album": {
+        "name": "Relung Hati",
+        "url": "https://open.spotify.com/album/3P12OHZC2rdGekRQvtxECP"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Dinda Ghania",
+          "url": "https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253389,
+      "name": "Relung Hati",
+      "url": "https://open.spotify.com/track/5vpmeiK7i9nidygPbH9C8C"
     },
     {
       "album": {
@@ -15736,7 +15860,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 281856,
       "name": "TAGULING-GULING",
       "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
@@ -16866,7 +16990,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 250000,
       "name": "Terpikat Pada Cinta",
       "url": "https://open.spotify.com/track/0SqLgHSQzJoY42H6qek9XR"
@@ -17050,6 +17174,24 @@
       "duration_ms": 223717,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu"
+    },
+    {
+      "album": {
+        "name": "Tetamu",
+        "url": "https://open.spotify.com/album/3vt3ys9QqO97bnu6z6OJUD"
+      },
+      "artists": [
+        {
+          "name": "Faizal Tahir",
+          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207811,
+      "name": "Tetamu",
+      "url": "https://open.spotify.com/track/3IentKX3cVPla11vuL7MQV"
     },
     {
       "album": {
@@ -17726,7 +17868,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 233000,
       "name": "Yang Tertulis - From \"Akad Yang Hilang\"",
       "url": "https://open.spotify.com/track/1fvqcHQmMQAWJ4FS5oXx0T"

@@ -33563,6 +33563,24 @@
     },
     {
       "album": {
+        "name": "CRACKERS",
+        "url": "https://open.spotify.com/album/4JfrerWCkMFZR4PIr98khT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157084,
+      "name": "CRACKERS",
+      "url": "https://open.spotify.com/track/0WXmK981bcJwiV7XhL2mP4"
+    },
+    {
+      "album": {
         "name": "Tokyo Kids 2",
         "url": "https://open.spotify.com/album/63DvIHfe4LRhHIYFLzRC2g"
       },

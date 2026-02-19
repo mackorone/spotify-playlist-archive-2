@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 670 songs - 1 day 19 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 672 songs - 1 day 19 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -678,5 +678,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 668 | [GODLY \(feat\. Damon Albarn\)](https://open.spotify.com/track/69zR9rUlizT5evNCIIHrTn) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 2:33 |
 | 669 | [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 |
 | 670 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
+| 671 | [Silent Exchange](https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Small Talk](https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk) | 3:41 |
+| 672 | [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 |
 
-Snapshot ID: `AAAImlM6gR2kBCUcZ2IpcdAn33Io+jy0`
+Snapshot ID: `AAAInFoyssbl2D8SYAryCjgxgK512rPg`

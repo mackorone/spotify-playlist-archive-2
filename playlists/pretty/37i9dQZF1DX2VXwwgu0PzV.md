@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,246 likes - 139 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,255 likes - 139 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 15 | [Mercy](https://open.spotify.com/track/10mu4u3tUh7CHVrqVG6yit) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Mercy](https://open.spotify.com/album/6yLPkiUBX4SnwSBBrOtwU7) | 3:48 |
 | 16 | [Goodness and Mercy \(feat\. Prinx Emmanuel\)](https://open.spotify.com/track/33qoaEonJiKpkqs56HZvH7) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Goodness and Mercy \(feat\. Prinx Emmanuel\)](https://open.spotify.com/album/5Xt7ZCLibw89QckjyZYx1p) | 3:31 |
 | 17 | [Holla Christ \(Reminiscing\)](https://open.spotify.com/track/1gvBz6HBrQpvx3Z9YpqCFJ) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Holla Christ \(Reminiscing\)](https://open.spotify.com/album/2hpCWSXmXLsJe55GveED0B) | 2:50 |
-| 18 | [Rap Version with Drakare & Miracle Paul \- Remix](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy EP \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 |
+| 18 | [Goodness and Mercy \- Rap Version](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 |
 | 19 | [I Pray](https://open.spotify.com/track/1KWVBBbCUVjxHtTwqTqwpV) | [Evelle](https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa) | [I Pray](https://open.spotify.com/album/4f47FsBbQU4kUlKoWFt4GT) | 3:04 |
 | 20 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 |
 | 21 | [Safe](https://open.spotify.com/track/7cw6wkeJueXPVjbEodK741) | [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP) | [Safe](https://open.spotify.com/album/76DkcLs9Zyvva7ghMGJscE) | 3:00 |

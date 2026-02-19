@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,121 likes - 181 songs - 10 hr 35 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,110 likes - 177 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,9 +185,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 175 | [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 |
 | 176 | [Don't Run Home](https://open.spotify.com/track/5GOQDfNmhVDeQUsRR9B8J0) | [$cotty](https://open.spotify.com/artist/5mOW3PxPVgrj3BBwZdSIY4) | [Don't Run Home](https://open.spotify.com/album/6llRZH3mkRkg0fAHiUhoOg) | 2:57 |
 | 177 | [let go](https://open.spotify.com/track/3tRg6Z0xjmB0IlV9ggAif8) | [wigi!](https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU) | [let go](https://open.spotify.com/album/0b6FIktnaUOk1N0eOOajDA) | 2:02 |
-| 178 | [Show](https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Show](https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD) | 3:24 |
-| 179 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 |
-| 180 | [Your LIfe](https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C) | [LIYA](https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb) | [Your LIfe](https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH) | 3:06 |
-| 181 | [Crotona](https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Crotona](https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv) | 2:19 |
 
-Snapshot ID: `AAA4DNsjGZ1s28O63iZ+tchQg7/JP8fV`
+Snapshot ID: `AAA4DdmQq85DlBT24Doq04d6m8dm2O7h`

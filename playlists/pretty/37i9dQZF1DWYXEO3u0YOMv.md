@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,497 likes - 179 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,530 likes - 179 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 15 | [yummy goodday](https://open.spotify.com/track/11nZ6Nr5ZBaV9pftKXWXau) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/3ZieclGGBeABFqdp61SPkC) | 3:20 |
 | 16 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
 | 17 | [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 |
-| 18 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
+| 18 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:40 |
 | 19 | [Vortex](https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 6:23 |
 | 20 | [Lazarus](https://open.spotify.com/track/2ocDHxj2QnlQJgTKVzPG9I) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Giant Steps](https://open.spotify.com/album/6347aGYak5Dsi0hwPMMpmj) | 4:38 |
 | 21 | [Zen](https://open.spotify.com/track/060MftY3uM3R3r1miNh9ys) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/2yehRSY8pf27Md0UT6T6uW) | 3:34 |

@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Charli xcx, Kaya Imani, Langa & Bokke8, MAKSIM & Babet, Kybba, Rond\u00e9 en meer..",
-  "num_followers": 290075,
+  "num_followers": 290058,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -280,12 +280,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

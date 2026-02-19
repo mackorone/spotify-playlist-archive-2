@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1890258,
+  "num_followers": 1890476,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Dusk And Summer",
-        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Vindicated",
-      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "Dusk And Summer",
+        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+      "duration_ms": 201346,
+      "name": "Vindicated",
+      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "A Boy Brushed Red Living In Black And White",
+      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 268000,
-      "name": "A Boy Brushed Red Living In Black And White",
-      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2025-08-05 14:57:44",

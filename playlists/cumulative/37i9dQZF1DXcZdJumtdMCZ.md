@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : San T
 
-281 songs - 15 hr 7 min
+282 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [CALL ME UP](https://open.spotify.com/track/5zCAk2hfFAKQ94lfqTbRCT) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [CALL ME UP](https://open.spotify.com/album/3BvooQkkwXKYdFHkOWx9e3) | 2:02 | 2025-12-10 |  |
 | [CEO in the House](https://open.spotify.com/track/5oFnrSf3YWf4AO6rIy9f96) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 3:52 | 2022-02-08 | 2024-12-29 |
 | [Certified Self Made](https://open.spotify.com/track/7ggjfTXTEwRWBMsoSyDFFy) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Certified Self Made](https://open.spotify.com/album/4Nh6QrBjcTCzkHyzhzq2Ro) | 2:41 | 2025-01-13 | 2026-01-17 |
+| [Chamayam](https://open.spotify.com/track/2BOpYO1hj637werTHYRWwB) | [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O), [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo), [8c sam](https://open.spotify.com/artist/1VogXncDsNB2ufaktmigkx) | [Chamayam](https://open.spotify.com/album/5GDdAIGPNIwygJmyEbOkeh) | 3:14 | 2026-02-18 |  |
 | [Champagini \- From "Think Indie"](https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Champagini \(From "Think Indie"\)](https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM) | 1:56 | 2025-04-18 |  |
 | [Chennai City Gangsta](https://open.spotify.com/track/7mIlbe9TP4eqC1oGIYC8Jh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Country Chicken](https://open.spotify.com/artist/47668odEysUnED81I9Ncqm) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:17 | 2022-02-08 | 2025-01-10 |
 | [Chikkama \- From "Think Indie"](https://open.spotify.com/track/7IH4rDw73brbfeEFWbSNHq) | [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Chikkama \(From "Think Indie"\)](https://open.spotify.com/album/4F33Dunez72U36L0KPz9CW) | 2:08 | 2025-05-19 | 2025-08-05 |

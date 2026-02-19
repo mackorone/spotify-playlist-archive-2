@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-403 songs - 1 day 1 hr 13 min
+404 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Distractions \- Edit](https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Distractions](https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX) | 2:26 | 2025-02-28 | 2025-05-30 |
 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 | 2026-02-13 |  |
 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 | 2021-10-28 | 2024-04-12 |
+| [Doing Laps](https://open.spotify.com/track/5ZSYEtLHBxWMU3jrcE6fjV) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Doing Laps](https://open.spotify.com/album/0ycrYpfMe6nerYrsr1GhdZ) | 3:35 | 2026-02-13 |  |
 | [Don't Try This At Home](https://open.spotify.com/track/4MtZ981NhMVxXCwu6hdwyA) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Don't Try This At Home](https://open.spotify.com/album/2piM4Hh6vF1EMobLn92bqq) | 3:33 | 2025-01-31 | 2025-02-14 |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2024-03-01 | 2024-04-19 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2024-04-12 | 2024-10-25 |
@@ -308,7 +309,7 @@
 | [Sayōnara](https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Paul Hartnoll](https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU) | [Sayōnara](https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9) | 3:04 | 2025-10-03 |  |
 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 | 2024-04-12 |  |
 | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Shaun J\. Wright](https://open.spotify.com/artist/31iZW0Zin2Ibzfr1BzXqpJ), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/album/0uqwUBeEk4WYoLt5ZJdirW) | 4:08 | 2024-09-19 | 2025-02-14 |
-| [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-26 |  |
+| [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-26 | 2026-02-19 |
 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 | 2024-03-29 |  |
 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 | 2024-11-08 | 2025-01-17 |
 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 | 2024-02-23 | 2024-07-27 |

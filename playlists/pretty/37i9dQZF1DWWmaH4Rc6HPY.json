@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Playa Limbo en portada.",
-  "num_followers": 37660,
+  "num_followers": 37668,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
+        "name": "Cuando Estamos T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 159342,
+      "name": "Cuando Estamos T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
-        "name": "Cuando Estamos T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 159342,
-      "name": "Cuando Estamos T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "added_at": "2026-01-30 06:00:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
-        "name": "los 41",
-        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 206408,
-      "name": "los 41",
-      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
     },
     {
       "added_at": "2026-01-30 06:00:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
-        "name": "prometo no llamar",
-        "url": "https://open.spotify.com/album/0tIuwpBUugenweMLiL2UqO"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 164374,
-      "name": "prometo no llamar",
-      "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
         "name": "M\u00e1s Cerquita",
         "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 179142,
       "name": "M\u00e1s Cerquita",
       "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
+        "name": "prometo no llamar",
+        "url": "https://open.spotify.com/album/0tIuwpBUugenweMLiL2UqO"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 164374,
+      "name": "prometo no llamar",
+      "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
     },
     {
       "added_at": "2026-01-30 06:00:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
-        "name": "110",
-        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "110",
-      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
         "name": "Lo Que No Quieres Saber",
         "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
+        "name": "110",
+        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 176383,
+      "name": "110",
+      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
     },
     {
       "added_at": "2026-01-30 06:00:19",

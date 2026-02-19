@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-318 songs - 15 hr 14 min
+319 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-07-01 | 2025-01-18 |
 | [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-04 | 2025-07-12 |
 | [5 Goliya](https://open.spotify.com/track/1gYzYz5QwLSW29CEQo1jvy) | [PATHAN](https://open.spotify.com/artist/6ZovwTuFyxarrAz7BWaitv), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [5 Goliya](https://open.spotify.com/album/5UBGakWYeuKkA3YaPsn37p) | 2:21 | 2025-08-20 | 2025-09-16 |
+| [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 | 2026-02-18 |  |
 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-26 | 2025-09-27 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-30 | 2025-02-04 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2025-01-28 |  |
@@ -176,7 +177,7 @@
 | [Kaim](https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 3:03 | 2025-04-25 |  |
 | [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 | 2025-11-03 | 2026-02-13 |
 | [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 | 2024-10-08 | 2024-10-26 |
-| [Kath](https://open.spotify.com/track/2Xap6kCFffkjccWKBlcTu3) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Kath](https://open.spotify.com/album/5dWcS7a1XFQydlu9VuOxbN) | 2:37 | 2025-11-07 |  |
+| [Kath](https://open.spotify.com/track/2Xap6kCFffkjccWKBlcTu3) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Kath](https://open.spotify.com/album/5dWcS7a1XFQydlu9VuOxbN) | 2:37 | 2025-11-07 | 2026-02-19 |
 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 | 2025-11-05 | 2025-11-20 |
 | [Kdo'n Nachana](https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:08 | 2024-12-03 | 2025-01-17 |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |

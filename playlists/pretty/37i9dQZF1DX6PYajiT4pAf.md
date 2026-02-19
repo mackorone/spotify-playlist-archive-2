@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo, Bad Gyal & Chencho Corleone, Arcangel & Feid, Charlie XCX y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,119 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,121 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

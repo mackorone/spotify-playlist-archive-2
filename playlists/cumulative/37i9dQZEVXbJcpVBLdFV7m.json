@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 123840,
       "name": "Call Back",
       "url": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
@@ -6208,6 +6208,28 @@
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
+    },
+    {
+      "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155726,
+      "name": "Cennet",
+      "url": "https://open.spotify.com/track/1nRhCshF9nYpTZr0yM4mKS"
     },
     {
       "album": {
@@ -13238,7 +13260,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 121690,
       "name": "Gemstone",
       "url": "https://open.spotify.com/track/6d9Cs2D2RSIl9c0ulgnFe8"
@@ -14862,7 +14884,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 114461,
       "name": "HEAVENLY JUMPSTYLE",
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
@@ -15775,6 +15797,28 @@
     },
     {
       "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -15790,6 +15834,24 @@
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/0NDTCTkRWJzuNeQzx9zEMx"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147433,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/1VwsoJBToZak858P29s4Sn"
     },
     {
       "album": {
@@ -16786,7 +16848,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 169960,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
@@ -20034,7 +20096,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 229381,
       "name": "LO QUE LE PAS\u00d3 A HAWAii",
       "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
@@ -24162,6 +24224,24 @@
     {
       "album": {
         "name": "MY JEALOUSY",
+        "url": "https://open.spotify.com/album/5m6O0ovCARsufSNdha5MEa"
+      },
+      "artists": [
+        {
+          "name": "vivi baby",
+          "url": "https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150830,
+      "name": "MY JEALOUSY",
+      "url": "https://open.spotify.com/track/1EAYKOlvTs4jNUpTKg0IBR"
+    },
+    {
+      "album": {
+        "name": "MY JEALOUSY",
         "url": "https://open.spotify.com/album/29hN0ogSIO1nh8yXWQu7ub"
       },
       "artists": [
@@ -24176,7 +24256,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -30034,7 +30114,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
@@ -37727,6 +37807,28 @@
     },
     {
       "album": {
+        "name": "Versatile (Slowed)",
+        "url": "https://open.spotify.com/album/7Hd2aP2IHua8xlWwN38mmx"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        },
+        {
+          "name": "Six Dior",
+          "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - Slowed",
+      "url": "https://open.spotify.com/track/2zLmTbXbaZD6xwjLsLsa3l"
+    },
+    {
+      "album": {
         "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
         "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
       },
@@ -37738,7 +37840,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 132571,
       "name": "Versatile - The Dark Triad - Slowed + Low Honor",
       "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
@@ -39736,7 +39838,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 148006,
       "name": "WOOPAAA",
       "url": "https://open.spotify.com/track/4wtd8ekJ0ntQADpwLaPOgy"
@@ -44255,6 +44357,28 @@
     },
     {
       "album": {
+        "name": "\u041c\u0435\u043d\u0442\u0435",
+        "url": "https://open.spotify.com/album/6ADcSW26PtbknjtVdbcoTv"
+      },
+      "artists": [
+        {
+          "name": "Bilyanish",
+          "url": "https://open.spotify.com/artist/7Cg8hnSsmbfC6fxCykWYrh"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "\u041c\u0435\u043d\u0442\u0435",
+      "url": "https://open.spotify.com/track/6FWFiM8QwMWPzsZnN3DrhZ"
+    },
+    {
+      "album": {
         "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
         "url": "https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul"
       },
@@ -46006,7 +46130,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 184090,
       "name": "\u0421\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4MT6GrseYj0lRmXh6CS8jU"

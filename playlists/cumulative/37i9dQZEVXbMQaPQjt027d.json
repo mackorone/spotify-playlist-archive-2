@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
+    },
+    {
+      "album": {
         "name": "AI",
         "url": "https://open.spotify.com/album/2GZzc3FSssQaxJYvbJmeFJ"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1696,6 +1714,28 @@
     {
       "album": {
         "name": "Bietje Stoken",
+        "url": "https://open.spotify.com/album/7iPHH1lrMHbzPXv8jWurfc"
+      },
+      "artists": [
+        {
+          "name": "C.V. de Kapotte Kachels",
+          "url": "https://open.spotify.com/artist/0YqkHSocHDMPgmp7pGn9R8"
+        },
+        {
+          "name": "CV DE KETELS",
+          "url": "https://open.spotify.com/artist/5sdiwAGnNmHR5rpE3cCoQM"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189396,
+      "name": "Bietje Stoken",
+      "url": "https://open.spotify.com/track/3YQ2uIBGIKle3PXyFNaDkC"
+    },
+    {
+      "album": {
+        "name": "Bietje Stoken",
         "url": "https://open.spotify.com/album/33MlkmIpcJijkNB36wbfd7"
       },
       "artists": [
@@ -1706,7 +1746,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 189396,
       "name": "Bietje Stoken",
       "url": "https://open.spotify.com/track/0IUrzfDYkeY0WVc6LHE9rz"
@@ -7117,6 +7157,28 @@
     },
     {
       "album": {
+        "name": "I Will See You Again",
+        "url": "https://open.spotify.com/album/5ZRDRaHob2ACLZ0BW06cfh"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Bennett",
+          "url": "https://open.spotify.com/artist/0LPupLdy9esXU9r7s5xM1y"
+        },
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233159,
+      "name": "I Will See You Again",
+      "url": "https://open.spotify.com/track/6bovuOmtnXf4WfxQzeAT1x"
+    },
+    {
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/6gt3DjmYBwX5PiDI6uhYiC"
       },
@@ -11020,7 +11082,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"

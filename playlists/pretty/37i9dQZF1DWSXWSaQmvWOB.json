@@ -1,6 +1,6 @@
 {
   "description": "New soul-infused music! Cover: Baby Rose & Leon Thomas",
-  "num_followers": 807154,
+  "num_followers": 807286,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

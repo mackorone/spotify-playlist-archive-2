@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 470576,
+  "num_followers": 470742,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
+        "name": "SCANDAL ANTHEM",
+        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "SCANDAL ANTHEM",
+      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
-        "name": "SCANDAL ANTHEM",
-        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "SCANDAL ANTHEM",
-      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -383,22 +367,18 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
-        "name": "Eyes On Me",
-        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
       "artists": [
         {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 218978,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -415,6 +395,26 @@
       "duration_ms": 235045,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
-        "name": "Bombacid",
-        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bombacid",
-      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
         "name": "Hooked on the Bassline",
         "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 197600,
       "name": "Hooked on the Bassline",
       "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
+        "name": "Bombacid",
+        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bombacid",
+      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
     },
     {
       "added_at": "2026-02-04 21:44:56",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-04 21:44:56",
       "album": {
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+    },
+    {
+      "added_at": "2026-02-04 21:44:56",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 238270,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2026-02-04 21:44:56",
-      "album": {
-        "name": "Let the Bass Kick",
-        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 146100,
-      "name": "Let the Bass Kick",
-      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
     },
     {
       "added_at": "2026-02-04 21:44:56",

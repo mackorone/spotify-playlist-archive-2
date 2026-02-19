@@ -4,10 +4,11 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-275 songs - 17 hr 7 min
+276 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 0:00 | 2023-01-11 |  |
 | [\(What's So Funny Bout\) Peace, Love and Understanding? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 4:12 | 2023-01-11 |  |
 | [00000 Million \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Spotify Singles](https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli) | 2:50 | 2021-10-27 |  |
 | [A Whiter Shade Of Pale \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6AcYLHkLDFn6qcZiPS6xNc) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spotify Singles](https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg) | 3:28 | 2023-01-11 |  |
@@ -89,7 +90,7 @@
 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 | 2021-10-27 | 2025-01-07 |
 | [flower boy \- Spotify Singles](https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [flower boy \- Spotify Singles](https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq) | 2:54 | 2025-01-27 |  |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2023-01-11 |  |
-| [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2021-10-27 |  |
+| [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2021-10-27 | 2026-02-19 |
 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 | 2021-10-27 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-10-27 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-03-30 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-961 songs - 1 day 22 hr 6 min
+962 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2023-03-23 | 2024-03-21 |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 | 2024-08-02 |
 | [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 | 2025-02-02 |
-| [Aerial](https://open.spotify.com/track/1MVY6Gy3xQ8VuGQKY3JOBi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Aerial](https://open.spotify.com/album/6q6CnKHeC97pdfRLQppXfX) | 2:54 | 2025-12-17 |  |
+| [Aerial](https://open.spotify.com/track/1MVY6Gy3xQ8VuGQKY3JOBi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Aerial](https://open.spotify.com/album/6q6CnKHeC97pdfRLQppXfX) | 2:54 | 2025-12-17 | 2026-02-19 |
 | [Aerial Echoes](https://open.spotify.com/track/1IlnxI9bKLgq20pyRGQSWB) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Aerial Echoes](https://open.spotify.com/album/1rPTcSJKDxTpnoZMJrEyQy) | 2:18 | 2025-02-14 | 2026-01-28 |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-07-23 |
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 | 2024-07-16 |
@@ -344,6 +344,7 @@
 | [Floating Above and Beyond](https://open.spotify.com/track/028js7t7KIEFlXvW4lmdhG) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Floating Above and Beyond](https://open.spotify.com/album/3dQYr3qyPPQCxM8dvCYDx6) | 3:36 | 2023-03-23 | 2024-05-05 |
 | [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 | 2025-05-20 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2023-03-23 | 2024-02-09 |
+| [Flourishing](https://open.spotify.com/track/6wF6AIn5w8PX3YdQaQRJqh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Flourishing](https://open.spotify.com/album/6e8daMHEJ3IhTI51FDKOSg) | 3:21 | 2026-01-27 |  |
 | [For a moment](https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [For a moment](https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC) | 2:39 | 2024-07-09 | 2025-01-26 |
 | [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2023-03-23 | 2024-02-09 |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2023-03-23 | 2024-03-21 |

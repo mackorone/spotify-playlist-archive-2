@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Kanwar Shinh",
+  "description": "Discover the future of Punjabi Pop! Cover: Geetkarz",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 165652,
       "name": "Dil",
       "url": "https://open.spotify.com/track/5w1i8LuoC5LbIrdFkOePqK"
@@ -7443,6 +7443,36 @@
     },
     {
       "album": {
+        "name": "Nazdeekiyan",
+        "url": "https://open.spotify.com/album/4BShIwFlp2bkYegFHKYFDR"
+      },
+      "artists": [
+        {
+          "name": "Geetkarz",
+          "url": "https://open.spotify.com/artist/2sfCTNESjEmT9QdALWHXGs"
+        },
+        {
+          "name": "Vagish",
+          "url": "https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv"
+        },
+        {
+          "name": "abhii",
+          "url": "https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU"
+        },
+        {
+          "name": "Nived",
+          "url": "https://open.spotify.com/artist/6roe90VX8VcnzmqpEknKPd"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Nazdeekiyan",
+      "url": "https://open.spotify.com/track/6s89vXFZvrsrPG1ifiwk9f"
+    },
+    {
+      "album": {
         "name": "Nazm",
         "url": "https://open.spotify.com/album/2aRxjFU6OwuGj94PM8UKEB"
       },
@@ -7652,7 +7682,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 139285,
       "name": "Not Bad",
       "url": "https://open.spotify.com/track/1OhnAYWyWFXhIv3ZSCaUtK"
@@ -11310,6 +11340,28 @@
       "duration_ms": 165600,
       "name": "WYN",
       "url": "https://open.spotify.com/track/2HwZFzAdC4jgsXyRcrXIA0"
+    },
+    {
+      "album": {
+        "name": "Yaadan",
+        "url": "https://open.spotify.com/album/2kxrCr15UAvuKXCvMSkP7E"
+      },
+      "artists": [
+        {
+          "name": "JOLLY BOI",
+          "url": "https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM"
+        },
+        {
+          "name": "Dark Soul Studioz",
+          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222750,
+      "name": "Yaadan",
+      "url": "https://open.spotify.com/track/3tmEKeZt6vadLYGG3kZkpJ"
     },
     {
       "album": {

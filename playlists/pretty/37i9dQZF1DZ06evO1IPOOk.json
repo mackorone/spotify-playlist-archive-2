@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1916064,
+  "num_followers": 1916173,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAB3BSGMvdZWZopu44azqRwx",
+  "snapshot_id": "aZOvgAAAAAC+PPHiFZqvW1QCPRQU/1Ly",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me Home",
-        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
-      },
-      "artists": [
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 256013,
       "name": "Now Or Never - Bonus Track",
       "url": "https://open.spotify.com/track/4KjnaUNYPwGnJjoeTFlt91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me Home",
+        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
     },
     {
       "added_at": null,

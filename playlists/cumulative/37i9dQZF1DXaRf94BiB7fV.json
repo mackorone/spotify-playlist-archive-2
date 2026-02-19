@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Arya",
+  "description": "The best new music by independent artists and labels in India. Cover - Nilanjanaa Jayant",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "AAKHRI BAAR",
+        "url": "https://open.spotify.com/album/5Oeh2cwyWa7R790fn2apu4"
+      },
+      "artists": [
+        {
+          "name": "Ket Meth",
+          "url": "https://open.spotify.com/artist/63Tnzo5oOz0O2GrpOSfXdh"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169961,
+      "name": "AAKHRI BAAR",
+      "url": "https://open.spotify.com/track/4PgMWF1Yj7hSLSlqQJJBug"
+    },
+    {
+      "album": {
         "name": "Aakhri Manzil",
         "url": "https://open.spotify.com/album/2E78vEc480F80QfqbownqU"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 297916,
       "name": "Aana Yahaan",
       "url": "https://open.spotify.com/track/4aiT0RVFF56bgldswK1huB"
@@ -11885,6 +11903,24 @@
     },
     {
       "album": {
+        "name": "Everybody Knows, Everybody Understands.",
+        "url": "https://open.spotify.com/album/66QbBuBIH8Pk5eHKWEqj9m"
+      },
+      "artists": [
+        {
+          "name": "Shourya Malhotra",
+          "url": "https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208467,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/59xtrZ1efk1xlccevchoso"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0Tl1XKSajBfPFMlgKcvVWf"
       },
@@ -19718,6 +19754,24 @@
       "duration_ms": 217200,
       "name": "Like a leaf in autumn",
       "url": "https://open.spotify.com/track/6wKOlfULu49PreTpVsQVse"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0La87IAxC7ELXWcNtd9XST"
+      },
+      "artists": [
+        {
+          "name": "Nilanjanaa Jayant",
+          "url": "https://open.spotify.com/artist/55efuUbFYkgKTxCJMbmJKG"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2G915Nr3fLHUyoAzkzwJSh"
     },
     {
       "album": {
@@ -31844,7 +31898,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 225600,
       "name": "Tera Naam Liya Re",
       "url": "https://open.spotify.com/track/6PAxPjq5E879MvnmOHlr9b"
@@ -33570,7 +33624,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 140183,
       "name": "Tu Hi Mera Maan Ve",
       "url": "https://open.spotify.com/track/4I0MAdy2I3BQLdnAAAenE0"
@@ -33628,7 +33682,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 223410,
       "name": "Tu Hi Toh Hai",
       "url": "https://open.spotify.com/track/0cuQiXJV8pFfYOZnHWXlJi"
@@ -35994,6 +36048,24 @@
       "duration_ms": 239147,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/2hCR2E9C91xbizrfsobjBt"
+    },
+    {
+      "album": {
+        "name": "Wirebound",
+        "url": "https://open.spotify.com/album/3KIs88lNdclLfQGRuM1XFn"
+      },
+      "artists": [
+        {
+          "name": "Curtain Blue",
+          "url": "https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186907,
+      "name": "Wirebound",
+      "url": "https://open.spotify.com/track/73kf0HcC9p7zUQgePkUmgV"
     },
     {
       "album": {

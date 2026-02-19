@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 347930,
+  "num_followers": 347941,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -2055,8 +2055,8 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Lean Onto Me",
-        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
+        "name": "Never Come Back",
+        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
       },
       "artists": [
         {
@@ -2064,17 +2064,21 @@
           "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lean Onto Me",
-      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+      "duration_ms": 142714,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2367,6 +2371,22 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "The Wild Hunt",
+      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
         "name": "FEEL THE RAGE",
         "url": "https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p"
       },
@@ -2383,22 +2403,6 @@
       "duration_ms": 205600,
       "name": "FEEL THE RAGE",
       "url": "https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Wild Hunt",
-      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2459,22 +2463,18 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
       "artists": [
         {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     }
   ],
   "unique_name": "Rocktronic",

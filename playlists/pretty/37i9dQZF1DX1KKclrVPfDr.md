@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,364 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 9 | [Holi Khele Raghuveera](https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Sugam Singh](https://open.spotify.com/artist/1OBZ7mHS6j53GMTt0nFA57) | [Holi Khele Raghuveera](https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG) | 3:40 |
 | 10 | [Tani Tani Sa Baat](https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Tani Tani Sa Baat](https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB) | 4:43 |
 | 11 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 |
-| 12 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 |
+| 12 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
 | 13 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 |
 | 14 | [Kaise Khele Jaibu Sawan Mein Kajariya](https://open.spotify.com/track/1f27pTsO6nwMoI93a7d6mc) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Somya Singh](https://open.spotify.com/artist/00gYldvgYozks3IWpB7Nm4) | [Kaise Khele Jaibu Sawan Mein Kajariya](https://open.spotify.com/album/3T82H0kkBVtlgkGN81WCeI) | 2:34 |
 | 15 | [Ehi Thaiyan](https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [Ehi Thaiyan](https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ) | 5:52 |
 | 16 | [Mannat](https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [Mannat](https://open.spotify.com/album/0jAZu8zEG1HM2wUUZmNiKl) | 3:44 |
-| 17 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
+| 17 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 |
 | 18 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 |
 | 19 | [Chunariya Me Daag](https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Chunariya Me Daag](https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii) | 4:36 |
 | 20 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |

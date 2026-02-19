@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 56285,
+  "num_followers": 56333,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
         "name": "THEY LOVE ME",
         "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 134482,
       "name": "THEY LOVE ME",
       "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "Hildabaci (Remix)",
-        "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
-      },
-      "artists": [
-        {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "Hildabaci - Remix",
-      "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
         "name": "DEARLY",
         "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
+        "name": "Hildabaci (Remix)",
+        "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
+      },
+      "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 192921,
+      "name": "Hildabaci - Remix",
+      "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 163826,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 194098,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
-        "name": "Crazily",
-        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Crazily",
-      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -1195,38 +1215,18 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
       },
       "artists": [
         {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
+      "duration_ms": 166500,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
         "name": "I'm Available",
         "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 196530,
       "name": "I'm Available",
       "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 186220,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "First Sight",
-        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 186220,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/15MPPsOE0MnSIpWBGpbiLy"
       },
@@ -1395,6 +1395,26 @@
       "duration_ms": 148000,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5n9qMXcyuYEMyBB9yUu4NG"
+    },
+    {
+      "added_at": "2026-02-13 10:46:14",
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1471,22 +1491,18 @@
     {
       "added_at": "2026-02-13 10:46:14",
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
+      "duration_ms": 151522,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5"
     },
     {
       "added_at": "2026-02-13 10:46:14",
@@ -1523,22 +1539,6 @@
       "duration_ms": 144000,
       "name": "Ride Solo",
       "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
-    },
-    {
-      "added_at": "2026-02-13 10:46:14",
-      "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 151522,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5"
     }
   ],
   "unique_name": "AfroBae",

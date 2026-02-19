@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,527 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,601 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 40 | [A Hand Meets A Hand](https://open.spotify.com/track/6clugiccBmX1LBw2RfeGhx) | [Sakura Kiryu](https://open.spotify.com/artist/3QLBNnbajUaMIsnNO7pmnI), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ) | [Disney's Snow White \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UN8YSbASj7qK3RL7cXqhj) | 4:08 |
 | 41 | [Can You Feel The Love Tonight](https://open.spotify.com/track/5d2PBbuy9LmBNb98HdrNGp) | [Yoko Kadoyama](https://open.spotify.com/artist/5TVd2SdvUPXEydopNt27ew), [Kento Kaku](https://open.spotify.com/artist/6fciuViWGy7j9fRifmbkAE), [Asei \(Miki\)](https://open.spotify.com/artist/46oAndFDb4vcSrOjQQ0wp4), [Jiro Sato](https://open.spotify.com/artist/0rFx9LyQzucBrFwAfmRktc) | [The Lion King \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/32x9w2bUVLDS6myP2PQvI0) | 3:02 |
 | 42 | [Un Poco Loco \- Japanese Version](https://open.spotify.com/track/1u3LkdLlrv2KUwo2E6adVm) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Naohito Fujiki](https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI) | [Coco \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9) | 1:52 |
-| 43 | [Waiting On A Wish \- From "Disney's Snow White"/Japanese Soundtrack Version](https://open.spotify.com/track/1NBbG3NQkqEGo5ScnTYspk) | [Sakura Kiryu](https://open.spotify.com/artist/3QLBNnbajUaMIsnNO7pmnI) | [Waiting On A Wish \(From "Disney's Snow White"/Japanese Soundtrack Version\)](https://open.spotify.com/album/6ko1zMsNH5EwcjYckzCmQ7) | 4:51 |
+| 43 | [Waiting On A Wish \- From "Disney's Snow White"/Japanese Soundtrack Version](https://open.spotify.com/track/1NBbG3NQkqEGo5ScnTYspk) | [吉柳咲良](https://open.spotify.com/artist/6iAnGgcD24XiK1bLKwBliQ) | [Waiting On A Wish \(From "Disney's Snow White"/Japanese Soundtrack Version\)](https://open.spotify.com/album/6ko1zMsNH5EwcjYckzCmQ7) | 4:51 |
 | 44 | [Get Lost](https://open.spotify.com/track/2AT2MQhBIRNshNAMqoaTbG) | [Sonim](https://open.spotify.com/artist/20Bgr7lRent6GFaYfWay5Z) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 3:04 |
 | 45 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/4YV2XVjmC88uUCrjTaRt4k) | [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 2:49 |
 | 46 | [The Family Madrigal](https://open.spotify.com/track/6doU37X8TTlex36JvqTQkT) | [Ruki Saito](https://open.spotify.com/artist/6WUO2cCM13rJEraBTo3lUL), [Mie Nakao](https://open.spotify.com/artist/7u7O0iduOOBAcngtqHF3TZ), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 4:17 |

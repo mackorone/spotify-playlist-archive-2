@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159693,
+  "num_followers": 159683,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Sjelen",
+        "url": "https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 168930,
+      "name": "Sjelen",
+      "url": "https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Tobias Sten (Utvida)",
         "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Sjelen",
-        "url": "https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 168930,
-      "name": "Sjelen",
-      "url": "https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -503,8 +503,8 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Never have I ever",
-        "url": "https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg"
+        "name": "Gro Harlem Brundtland",
+        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 207214,
-      "name": "Never have I ever",
-      "url": "https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4"
+      "duration_ms": 168390,
+      "name": "Gro Harlem Brundtland",
+      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -595,8 +595,8 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Gro Harlem Brundtland",
-        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
+        "name": "Never have I ever",
+        "url": "https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 168390,
-      "name": "Gro Harlem Brundtland",
-      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
+      "duration_ms": 207214,
+      "name": "Never have I ever",
+      "url": "https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "I\u2019m Still - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 159806,
+      "name": "I'm Still - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Southern Star (feat. AURORA)",
         "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
@@ -799,6 +819,22 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Delt i to",
+        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Delt i to",
+      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Can't Let Him Win",
         "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
       },
@@ -819,22 +855,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Delt i to",
-        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid V\u00e5rvik",
-          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Delt i to",
-      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "God Knows",
         "url": "https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 170394,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "I\u2019m Still - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 159806,
-      "name": "I'm Still - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "YOUNG: Part 1 & 2",
-        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "If I'm So Bad",
-      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 158511,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "YOUNG: Part 1 & 2",
+        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "If I'm So Bad",
+      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Den Jeg Vil For Deg",
+        "url": "https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5"
+      },
+      "artists": [
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        },
+        {
+          "name": "ayaga",
+          "url": "https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Den Jeg Vil For Deg",
+      "url": "https://open.spotify.com/track/6buuay8KIO39oyykLOovoR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "05050",
         "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
       },
@@ -1355,22 +1375,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
         "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
       },
@@ -1383,6 +1387,22 @@
       "duration_ms": 206333,
       "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
       "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -1435,26 +1455,6 @@
       "duration_ms": 273760,
       "name": "Stuck in November",
       "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Den Jeg Vil For Deg",
-        "url": "https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5"
-      },
-      "artists": [
-        {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
-        },
-        {
-          "name": "ayaga",
-          "url": "https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Den Jeg Vil For Deg",
-      "url": "https://open.spotify.com/track/6buuay8KIO39oyykLOovoR"
     },
     {
       "added_at": "2026-02-12 23:00:31",

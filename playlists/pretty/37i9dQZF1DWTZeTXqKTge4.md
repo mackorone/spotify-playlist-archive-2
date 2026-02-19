@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Lostboy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,524 likes - 93 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,582 likes - 93 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 23 | [Fanta](https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD) | [Fanta](https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU) | 2:05 |
 | 24 | [Pensées sombres](https://open.spotify.com/track/07YEEOrjTuGuScXxI4kuFU) | [Freaky](https://open.spotify.com/artist/0JQYvmWFVeeG65JPmaTpNt) | [Pensées sombres](https://open.spotify.com/album/6Vbr53lOG1GH0wfGbs3bYE) | 2:42 |
 | 25 | [ICON](https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [ICON](https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw) | 2:11 |
-| 26 | [DOS DOLARES](https://open.spotify.com/track/4tqwLfGekGfCWtiyuUHdDv) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [DOS DOLARES](https://open.spotify.com/album/03DqrCh4TO4liqesCrDqxZ) | 4:08 |
+| 26 | [DOS DÓLARES](https://open.spotify.com/track/4tqwLfGekGfCWtiyuUHdDv) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [DOS DÓLARES](https://open.spotify.com/album/03DqrCh4TO4liqesCrDqxZ) | 4:08 |
 | 27 | [LVbag](https://open.spotify.com/track/4zDNgyyAq3zIPU0b1WXkHM) | [Monsi](https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002) | [LVbag](https://open.spotify.com/album/6yllgb2cngRFFYtKjhDHxv) | 3:06 |
 | 28 | [Broski](https://open.spotify.com/track/3r14bBQoLhnbiWPjki1QEa) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW) | [Broski](https://open.spotify.com/album/6H13ZaSvNXNPWFmhgaBdZz) | 2:30 |
 | 29 | [Pt\. III](https://open.spotify.com/track/013goTjJ2tI0y1OYMJOVUA) | [Webster](https://open.spotify.com/artist/28PFzVunbZTdeOjTBRzMTK), [Melvin](https://open.spotify.com/artist/4z2f2Sf2HqLuYWWdX3TJPY) | [Pt\. III](https://open.spotify.com/album/1TNq0pDRViD3eHnShmHX2k) | 3:22 |

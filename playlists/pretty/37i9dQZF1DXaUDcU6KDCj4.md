@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Kevin Morby
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,069 likes - 174 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,082 likes - 174 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

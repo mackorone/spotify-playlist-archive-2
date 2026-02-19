@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 15 hr 54 min
+215 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 | 2022-09-08 |  |
 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 | 2022-09-08 |  |
 | [Day Dream](https://open.spotify.com/track/30UOF78PgVxrIY9VWubzzz) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 5:25 | 2022-09-08 | 2022-10-03 |
-| [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 |  |
+| [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 | 2026-02-19 |
 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 | 2022-10-02 |  |
 | [Dirge \- Live At Carnegie Hall, New York, NY / January 23, 1943](https://open.spotify.com/track/2KOwaaAxQdgDhVCvr1TMfh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Ellington Carnegie Hall Concerts, January 1943](https://open.spotify.com/album/6i29InGHUJYbANFbrjYqMd) | 3:28 | 2022-09-08 |  |
 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 | 2022-09-08 |  |
@@ -90,7 +90,8 @@
 | [Intimacy Of The Blues](https://open.spotify.com/track/3QNiGiKzSmqDaoOuxVS2AE) | [Louis Bellson](https://open.spotify.com/artist/2BywXVVpHNWDTGpn8fksJT) | [The Best Of Louie Bellson](https://open.spotify.com/album/2yp4jNVWZLgbija0nF5QJv) | 6:00 | 2024-09-21 | 2024-10-09 |
 | [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 | 2024-08-22 | 2024-09-22 |
 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 | 2022-09-08 |  |
-| [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 | 2022-09-08 |  |
+| [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 | 2022-09-08 | 2026-02-19 |
+| [Johnny Come Lately](https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 6:29 | 2026-02-18 |  |
 | [Juanita](https://open.spotify.com/track/4Af3a5GQkggFmsjylz5Psn) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:17 | 2022-12-11 |  |
 | [Juanita](https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l) | [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [In the Evening by the Moonlight](https://open.spotify.com/album/6Gm70RcgXviUTf189V247x) | 3:22 | 2022-09-08 | 2022-12-12 |
 | [Just A\-Settin' and A\-Rockin'](https://open.spotify.com/track/5jIeCSEggQhrx7GslAmUlr) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Breakfast Dance](https://open.spotify.com/album/1kTsLf63qRz5wdDH8G3Lwx) | 3:35 | 2023-12-13 |  |

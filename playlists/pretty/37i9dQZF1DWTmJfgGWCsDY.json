@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 8977,
+  "num_followers": 8989,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "We Nani",
+        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "We Nani",
+      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Bado Sijasikia",
         "url": "https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 217969,
       "name": "Bado Sijasikia",
       "url": "https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "We Nani",
-        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "We Nani",
-      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Kumi Za Moto",
-        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
       "artists": [
         {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Mtaani Kwetu",
-      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -987,18 +987,22 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+        "name": "Kumi Za Moto",
+        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
         }
       ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+      "duration_ms": 206200,
+      "name": "Mtaani Kwetu",
+      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Twende Beach",
-        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
-      },
-      "artists": [
-        {
-          "name": "Mkataba Mc",
-          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
-        }
-      ],
-      "duration_ms": 250055,
-      "name": "Twende Beach",
-      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Shobo",
         "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 154838,
       "name": "Maokoto",
       "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Twende Beach",
+        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
+      },
+      "artists": [
+        {
+          "name": "Mkataba Mc",
+          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
+        }
+      ],
+      "duration_ms": 250055,
+      "name": "Twende Beach",
+      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1355,18 +1355,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
+        "name": "Natafuta Hela",
+        "url": "https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp"
       },
       "artists": [
         {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+          "name": "DJ Jukk",
+          "url": "https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "K Pizo",
+          "url": "https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV"
         }
       ],
-      "duration_ms": 209084,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
+      "duration_ms": 224545,
+      "name": "Natafuta Hela",
+      "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1391,26 +1399,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Natafuta Hela",
-        "url": "https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp"
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
       },
       "artists": [
         {
-          "name": "DJ Jukk",
-          "url": "https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl"
-        },
-        {
-          "name": "G Nako",
-          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
-        },
-        {
-          "name": "K Pizo",
-          "url": "https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV"
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
         }
       ],
-      "duration_ms": 224545,
-      "name": "Natafuta Hela",
-      "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
+      "duration_ms": 209084,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
       "added_at": "2026-02-05 23:59:28",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93792,
+  "num_followers": 93790,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
+        "name": "Streets of Minneapolis (Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
       "artists": [
@@ -85,7 +85,7 @@
         }
       ],
       "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Bob Clearmountain Radio Mix",
+      "name": "Streets of Minneapolis - Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 188493,
       "name": "Stronger Than",
       "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 182567,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Ingen vet",
         "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Skebokvarnsv. 209 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
         }
       ],
-      "duration_ms": 213115,
-      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
-      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+      "duration_ms": 269520,
+      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "Skebokvarnsv. 209 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "When Lights Go Down",
-      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Vinterdvala",
         "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 209118,
       "name": "Vinterdvala",
       "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "When Lights Go Down",
+      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "I Don't Know How to Love You Anymore",
-        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "I Don't Know How to Love You Anymore",
-      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "F-Bomb",
         "url": "https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 227026,
       "name": "F-Bomb",
       "url": "https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "I Don't Know How to Love You Anymore",
+        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "I Don't Know How to Love You Anymore",
+      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
+        "name": "Jag dansade en sommar",
+        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Jag dansade en sommar",
+      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
         "name": "Arvet",
         "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-02-12 23:00:41",
       "album": {
-        "name": "Jag dansade en sommar",
-        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
-      },
-      "artists": [
-        {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Jag dansade en sommar",
-      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
         "name": "Sk\u00f6ldpadds\u00f6n",
         "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 255250,
       "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
       "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:41",
+      "album": {
+        "name": "One-Trick Pony",
+        "url": "https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7"
+      },
+      "artists": [
+        {
+          "name": "Toni Holgersson",
+          "url": "https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB"
+        }
+      ],
+      "duration_ms": 296208,
+      "name": "One-Trick Pony",
+      "url": "https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX"
     },
     {
       "added_at": "2026-02-12 23:00:41",
@@ -1463,22 +1479,6 @@
       "duration_ms": 258000,
       "name": "Hold fast",
       "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
-    },
-    {
-      "added_at": "2026-02-12 23:00:41",
-      "album": {
-        "name": "One-Trick Pony",
-        "url": "https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7"
-      },
-      "artists": [
-        {
-          "name": "Toni Holgersson",
-          "url": "https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB"
-        }
-      ],
-      "duration_ms": 296208,
-      "name": "One-Trick Pony",
-      "url": "https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX"
     },
     {
       "added_at": "2026-02-12 23:00:41",

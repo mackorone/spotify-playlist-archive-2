@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,536 songs - 5 day 12 hr 36 min
+2,537 songs - 5 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Badebussen](https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Badebussen](https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX) | 2:58 | 2025-02-01 | 2025-02-08 |
 | [Badebussen \(feat\. Kjartan Lauritzen\)](https://open.spotify.com/track/3LKrHeYXOEKNQQVl9auofC) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [DJ MøMø presenterer: Bukkene Bruse på badeland](https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH) | 1:47 | 2023-12-16 | 2025-04-24 |
 | [Badebussen \(feat\. Kjartan Lauritzen\)](https://open.spotify.com/track/5F8c71PbayLIedqmjskrhM) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Badebussen \(feat\. Kjartan Lauritzen\)](https://open.spotify.com/album/4MYKiIrk0MXrgthFJTgKe9) | 1:47 | 2023-06-30 | 2023-12-17 |
-| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2026-02-10 |  |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2026-02-10 | 2026-02-19 |
 | [Bak en fasade](https://open.spotify.com/track/4AdUxdA06Ex0VUDKJItcDN) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade \(Del 1\)](https://open.spotify.com/album/1xAQCbyNs8CYdu5uZjeeHQ) | 2:59 | 2021-09-19 | 2021-11-20 |
 | [Balkong](https://open.spotify.com/track/0kKnEddRWkolQSNd7DjjtZ) | [Thea Sofie](https://open.spotify.com/artist/3CrFhzsHBPGK0wlAp7Z5d6), [Elina Helmichsen](https://open.spotify.com/artist/5PKWz17KCZrkwJxD6HS6xf) | [The Voice 2021: Duell 4](https://open.spotify.com/album/534Wuimi2FRANqAeIgqO70) | 2:39 | 2021-03-29 | 2021-04-04 |
 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-05-19 | 2025-05-25 |
@@ -1387,6 +1387,7 @@
 | [LOVE </3](https://open.spotify.com/track/6kVEgWFjI0ECI8eH84ljS1) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [LOVE </3](https://open.spotify.com/album/0UfIJilXpMOcxXrDCKsVvB) | 2:09 | 2023-06-03 | 2023-10-01 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-28 | 2023-02-26 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-09 |
+| [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0) | [Doğukan San](https://open.spotify.com/artist/4APZ6Exv1JmOHPnV7CjcFT), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/album/78IZEWGJHcFHUUgvmziB6Q) | 3:25 | 2026-02-18 |  |
 | [Love him anyway](https://open.spotify.com/track/7rFNL0YaG6Gp0jt7xK1E3b) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Love him anyway](https://open.spotify.com/album/0w3poGg9gDIWdR8l4swyuC) | 3:51 | 2021-11-21 | 2021-11-23 |
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2021-10-19 | 2021-11-14 |
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-22 | 2023-07-30 |

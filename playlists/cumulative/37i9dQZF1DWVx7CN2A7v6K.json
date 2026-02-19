@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "OJAZ",
+        "url": "https://open.spotify.com/album/34aw7mdLTBpdHPAKhPzFIs"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Nishihara",
+          "url": "https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249010,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/78wTGdtAfI8ymGt89CDpxB"
+    },
+    {
+      "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI"
       },
@@ -334,6 +356,24 @@
       "duration_ms": 284630,
       "name": "more than words (Miso Extra Remix)",
       "url": "https://open.spotify.com/track/2X7iZOpUjl2z6TTykxLZue"
+    },
+    {
+      "album": {
+        "name": "uku",
+        "url": "https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242846,
+      "name": "My summer",
+      "url": "https://open.spotify.com/track/5roWFxDJLbmljd43129Rbi"
     },
     {
       "album": {
@@ -1256,7 +1296,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 201118,
       "name": "\u4e0d\u5c48\u306b\u82b1 - Fukutsu ni hana",
       "url": "https://open.spotify.com/track/0n5U2wqh8XpKjj83AHaLg9"
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 208773,
       "name": "\u6ce2\u307e\u304b\u305b",
       "url": "https://open.spotify.com/track/2FtokOcvKa5rjQsuhxh2L3"

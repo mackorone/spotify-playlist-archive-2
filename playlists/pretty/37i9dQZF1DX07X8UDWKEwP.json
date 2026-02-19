@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOmo/Du5rcKX8NpqfS09MxyZT8/",
+  "snapshot_id": "AAAAAGAcWw6H6kzIrSamm3zenrGfoQsF",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:41",
@@ -187,22 +187,6 @@
       "duration_ms": 220851,
       "name": "La Carrera",
       "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 153911,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
     },
     {
       "added_at": "2026-02-13 05:00:41",

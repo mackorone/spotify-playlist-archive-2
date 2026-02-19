@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "Yuddham Sharanam",
+        "url": "https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY"
+      },
+      "artists": [
+        {
+          "name": "Tracey Thorton",
+          "url": "https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170132,
+      "name": "Adedo Maayalley",
+      "url": "https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz"
+    },
+    {
+      "album": {
         "name": "Swamy Ra Ra",
         "url": "https://open.spotify.com/album/31XfzRQH2YzeZC8ylpzH9q"
       },
@@ -1776,7 +1802,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 258333,
       "name": "Gaali Vaaluga",
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"

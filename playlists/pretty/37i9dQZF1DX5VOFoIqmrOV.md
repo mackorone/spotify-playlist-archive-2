@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,231 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,292 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 28 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 |
 | 29 | [Srivalli \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Srivalli \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL) | 3:41 |
 | 30 | [Love Me Again](https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 4:06 |
-| 31 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
-| 32 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
+| 31 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
+| 32 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
 | 33 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
 | 34 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
 | 35 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF) | 2:46 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 71 | [Oosupodu](https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:33 |
 | 72 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 |
 | 73 | [Suguna Sundari](https://open.spotify.com/track/1E0uPi2rjMgcZ3ayODv6DX) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Snigdha Sharma](https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl) | [Veera Simha Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75cyVUKLaK7KZKVrLYBjbM) | 4:14 |
-| 74 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 |
+| 74 | [Adedo Maayalley](https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz) | [Tracey Thorton](https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Yuddham Sharanam](https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY) | 2:50 |
 | 75 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 
 Snapshot ID: `AAAAAHfUI5yCnr+tjAqBpgY5jRnniK0n`

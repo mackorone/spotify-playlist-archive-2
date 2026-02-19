@@ -1,6 +1,6 @@
 {
   "description": "Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock \ud83d\udd25\ud83e\udd1f\ud83c\udffb",
-  "num_followers": 106259,
+  "num_followers": 106253,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "House with a Pool",
-        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
-      },
-      "artists": [
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "House with a Pool",
+        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "duration_ms": 216880,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "SEEIN\u2019 STARS / BIRDS",
-        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 186277,
-      "name": "SEEIN\u2019 STARS",
-      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "Hippie Sunshine",
         "url": "https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 186289,
       "name": "Hippie Sunshine",
       "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "Unbind",
-        "url": "https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO"
-      },
-      "artists": [
-        {
-          "name": "Eloi Youssef",
-          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
-        }
-      ],
-      "duration_ms": 207033,
-      "name": "Unbind",
-      "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 269813,
       "name": "Juice",
       "url": "https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "Unbind",
+        "url": "https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO"
+      },
+      "artists": [
+        {
+          "name": "Eloi Youssef",
+          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
+        }
+      ],
+      "duration_ms": 207033,
+      "name": "Unbind",
+      "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
     },
     {
       "added_at": "2026-02-05 23:00:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-05 23:00:09",
       "album": {
-        "name": "Red Flag Magician",
-        "url": "https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 328719,
-      "name": "Red Flag Magician",
-      "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
-    },
-    {
-      "added_at": "2026-02-05 23:00:09",
-      "album": {
         "name": "Matter Does Not Define",
         "url": "https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 236229,
       "name": "Reflections Of Lessons Left",
       "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
+    },
+    {
+      "added_at": "2026-02-05 23:00:09",
+      "album": {
+        "name": "Red Flag Magician",
+        "url": "https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "duration_ms": 328719,
+      "name": "Red Flag Magician",
+      "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
     },
     {
       "added_at": "2026-02-05 23:00:09",

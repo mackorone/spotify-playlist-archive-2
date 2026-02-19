@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313657,
+  "num_followers": 1313587,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Grove St. Party",
         "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 170307,
       "name": "Grove St. Party",
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
-      },
-      "artists": [
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "SPEND IT",
         "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Sound of da Police",
         "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 140624,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1563,22 +1579,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "FSU",
-        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "FSU",
-      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1921,30 +1921,6 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Dale Earnhardt",
-        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Big Baby Scumbag",
-          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Dale Earnhardt",
-      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Freedom (Body Ocean Remix)",
@@ -1967,6 +1943,30 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Dale Earnhardt",
+        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Big Baby Scumbag",
+          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Dale Earnhardt",
+      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 146953,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/5tM3YeMKYKE8uoWG0QX6rR"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 166875,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/4W2mMZrIdCu8wmHB9Eq2ER"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 146953,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2339,6 +2339,22 @@
       "duration_ms": 193125,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf"
+    },
+    {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Stop Me Fallin",
+        "url": "https://open.spotify.com/album/04nX2OQQal62zA9hICovFt"
+      },
+      "artists": [
+        {
+          "name": "Nash Rly",
+          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
+        }
+      ],
+      "duration_ms": 231555,
+      "name": "Stop Me Fallin",
+      "url": "https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2391,22 +2407,6 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Crazy Shit",
-        "url": "https://open.spotify.com/album/6LaysU1FWbAmOSO0MlvHsZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 213234,
-      "name": "Crazy Shit",
-      "url": "https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv"
     }
   ],
   "unique_name": "Nasty Bits",

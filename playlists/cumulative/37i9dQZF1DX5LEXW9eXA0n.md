@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 양요섭 \(YANG YO SEOP\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: KCM\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,677 songs - 4 day 12 hr 58 min
+1,678 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Fade Away](https://open.spotify.com/track/6rEl0Yj0Y7Zp84ur7soQHY) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Unloved Echo](https://open.spotify.com/album/2MNTQQzdCudEKka9udbqBJ) | 3:07 | 2026-02-09 |  |
 | [Faded Love](https://open.spotify.com/track/3aHgkjy3iDnHsmVvxLUPex) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Love \(ft\. Marriage and Divorce\) 3 part 3](https://open.spotify.com/album/65G2rBXNkh19sIZkmtSRbZ) | 3:46 | 2022-03-31 | 2022-04-08 |
 | [Faded Memory](https://open.spotify.com/track/0zjwHLeSkLxisoO9X9W192) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Daylily, Pt\. 4 \(Original WebDrama Soundtrack\)](https://open.spotify.com/album/5TaD4n8y5uhy2dcUhm7qPB) | 3:31 | 2023-05-31 | 2023-09-15 |
+| [Fading Away](https://open.spotify.com/track/3w63f62xSTTMUY7KRgg6rJ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Fading Away](https://open.spotify.com/album/13vD0y7QwkL4IKbuht8NI5) | 4:58 | 2026-02-18 |  |
 | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/track/0NrODeiFaIxusjOtPSpnRW) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/album/1jzqC7js5BW3f0G2UyxZfG) | 4:05 | 2023-01-11 | 2023-02-25 |
 | [Fall In Love](https://open.spotify.com/track/6KlGgR6HTAob4tXJpBpkfA) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4ADxULhP0HEEExDwvdgFKc) | 3:24 | 2023-02-06 | 2023-04-27 |
 | [Fall in LOVE](https://open.spotify.com/track/6X900TdkAkOHEaziJEliQR) | [Park Sihwan](https://open.spotify.com/artist/14ot47MBCCS8qspS70YsGP) | [Fall in LOVE](https://open.spotify.com/album/2RE95t8VscTkEb3iuvWGjE) | 4:05 | 2023-05-31 | 2023-09-15 |
@@ -1105,7 +1106,7 @@
 | [Remember Me](https://open.spotify.com/track/6TJ6kw1jj1quL6pD8ghuTe) | [Hwagok\-dong green frog](https://open.spotify.com/artist/6JsXtC4vDIRzB4LXkrsWkL) | [Remember Me](https://open.spotify.com/album/4S3PPm1h7kb3tPejkalFmG) | 3:36 | 2024-06-11 | 2024-10-17 |
 | [Reminisce](https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Reminisce](https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq) | 4:04 | 2023-01-10 | 2023-02-25 |
 | [Reminisce about All](https://open.spotify.com/track/6nwnFPPSJLXOib8xvUfC3r) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 4:12 | 2022-03-31 | 2022-04-18 |
-| [Reno \- feat\. Colde](https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi) | 3:07 | 2025-10-30 |  |
+| [Reno \- feat\. Colde](https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi) | 3:07 | 2025-10-30 | 2026-02-19 |
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2022-01-17 | 2022-06-11 |
 | [Repetition \(Feat\. Shin Jong Wook\)](https://open.spotify.com/track/6pX5HtlcSumP8XgablXLbV) | [Noh Hyunwoo](https://open.spotify.com/artist/2UvVidJJv6g17OMmlpS39z), [신종욱](https://open.spotify.com/artist/3cxWvvIqZGNyWsgmdi0wsf) | [Repetition](https://open.spotify.com/album/7grs7APT3ALK9vNT3r2GdD) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [RETURN](https://open.spotify.com/track/2LBE64f36ImF4tjAWM9dSD) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [REBORN](https://open.spotify.com/album/0hKzdrns5SkzuqV1ALfkZj) | 4:07 | 2024-06-04 | 2024-09-24 |

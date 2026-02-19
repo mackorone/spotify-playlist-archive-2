@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,072 songs - 5 day 1 hr 8 min
+2,077 songs - 5 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Canto da Sereia](https://open.spotify.com/track/3avEyTvbscuFpmrSLIvx2Q) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Canto da Sereia](https://open.spotify.com/album/2KXK8IRKmsI6DtAZD989P5) | 2:33 | 2025-09-29 |  |
 | [Capital A](https://open.spotify.com/track/36gY1hRnR50yAJeZx6DEUw) | [Aviothic Note.](https://open.spotify.com/artist/5o7YnEwYA2tdtYsLi4Sslm) | [Capital A](https://open.spotify.com/album/4MfvcBH69Eq1TOk1mCzCVN) | 4:55 | 2025-08-25 |  |
 | [Captivity](https://open.spotify.com/track/782KAgErI3WxHLMsSlSOg9) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [Captivity](https://open.spotify.com/album/3GYVQAjTxfc5eFl8XHdm6s) | 3:47 | 2025-10-15 |  |
+| [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 | 2026-02-18 |  |
 | [Caramelo](https://open.spotify.com/track/0l4y8yU2X1VtDzf7L2MyV7) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 3:41 | 2025-07-07 |  |
 | [care](https://open.spotify.com/track/0MC38o277PoN9ns55WBaZs) | [Phillip Hoovestol](https://open.spotify.com/artist/3HWZX7VuLP0t1a4rIBhRxk) | [changing course](https://open.spotify.com/album/2GVzrfXqX1Xk5OXh0Bqr2N) | 3:54 | 2024-09-16 |  |
 | [Careful](https://open.spotify.com/track/70b2wxeezuLyR8F8F9GrNp) | [Newhalem](https://open.spotify.com/artist/2NJqVGXYGPDC5HoPdZEO5A) | [Careful](https://open.spotify.com/album/3sILmbXNMpozMZOOqQrkx4) | 3:56 | 2025-04-08 |  |
@@ -356,6 +357,7 @@
 | [Cruise Control](https://open.spotify.com/track/5MgzIgw9Nu7XjtOj5hq21P) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg) | [Cruise Control](https://open.spotify.com/album/2LPYNfb8cvEGkFcXVKWGwR) | 4:12 | 2025-08-19 |  |
 | [Cruisin](https://open.spotify.com/track/1t4sq3NohnwaB1Ho2do70C) | [Kojo Rigault](https://open.spotify.com/artist/25gEzegofOKx8Uvi5Y8INa) | [Cruisin](https://open.spotify.com/album/4L5RXNY19sx5x9XEeHDCDA) | 3:49 | 2025-08-04 |  |
 | [Crumbs](https://open.spotify.com/track/2lotMG3I8moS6nDcphDNiF) | [Hexical.](https://open.spotify.com/artist/16poRo9wruLNXMvtL2R11s) | [Final Version Vol\. 1](https://open.spotify.com/album/4Rr60NvwnFa9sgMJZ4dxFI) | 3:04 | 2025-10-20 |  |
+| [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 | 2026-02-18 |  |
 | [Cry](https://open.spotify.com/track/19FsXIJBxPSBq3tzKH0UPK) | [Emery Evans](https://open.spotify.com/artist/449FmvBxTfX6cbYVV08xyD) | [Don't ruin it for me](https://open.spotify.com/album/34nkeuipxMRfKRDi8nQOce) | 4:07 | 2025-10-13 |  |
 | [Cualquier verano](https://open.spotify.com/track/0W5rI1Z2SJ36gYPb9TZk6I) | [CUCA](https://open.spotify.com/artist/11c0zLA7ELr8vJTyHcgAGf) | [Cualquier verano](https://open.spotify.com/album/2z6R6gtJzOfzhLRhAuXNUC) | 3:10 | 2025-02-05 |  |
 | [Cut Him Loose](https://open.spotify.com/track/7KTXkYe44yVXD1fJVY6R2j) | [Panic Man Dan](https://open.spotify.com/artist/3hpLPLyt4SQxIDKtbUdPU3) | [Cut Him Loose](https://open.spotify.com/album/5qRqJfma32kcXJ1tTlv8Ba) | 3:26 | 2024-05-14 |  |
@@ -619,6 +621,7 @@
 | [Frogs \- Remastered](https://open.spotify.com/track/2CTmXrcP3Q7oaVC73GJvC6) | [Anorexia Isan](https://open.spotify.com/artist/6UkNwT2LWo8pSWaBuI1eKa) | [Decybelia \(Remastered\)](https://open.spotify.com/album/7ucWM6JdrjO6k9CsrrTBtM) | 2:37 | 2025-01-20 |  |
 | [From The Ashes](https://open.spotify.com/track/1zNVk07VctygAA4zX9qrC9) | [Holy Høly](https://open.spotify.com/artist/3I0kU34ifrTXsWrig63c2U), [Emore](https://open.spotify.com/artist/6FzKQzXWIuNMC9Fay6GR45), [The Third Music](https://open.spotify.com/artist/1QTiLwZ20I2MCs6hwT9Rkm) | [TRIP HOP STILL BURNING VOL\. 2](https://open.spotify.com/album/5r3IHvCKfh1eXLtLkDqWoh) | 3:45 | 2025-08-21 |  |
 | [From The Sky](https://open.spotify.com/track/6sTWJke9SIzPW2KR7dErdr) | [Cedric Saga](https://open.spotify.com/artist/0z2QGV6jeXk53Kxy2ofBNw) | [From The Sky](https://open.spotify.com/album/6i4QTGQVtgNyGw1CWBYl1c) | 3:30 | 2025-03-13 |  |
+| [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 | 2026-02-18 |  |
 | [FRUSTRATED](https://open.spotify.com/track/6jLJBfgYa6SOENq2wPlxaJ) | [Mary Lou](https://open.spotify.com/artist/1Ndek8c7r79Cuhq7QfeIuW) | [FRUSTRATED](https://open.spotify.com/album/6B8OF1dop534ACfC2Dxgfm) | 2:33 | 2025-03-07 |  |
 | [Full Throttle](https://open.spotify.com/track/6SqOhAzLOIXm0U7a734nx2) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Full Throttle](https://open.spotify.com/album/6I6vljE2Yr4N7y3yQnUtOA) | 2:48 | 2025-11-17 |  |
 | [FUNK GUITAR NA VEIA](https://open.spotify.com/track/3n4z9B4cg9hi7g5aMfSTfN) | [Gerson Oliveira](https://open.spotify.com/artist/4L8cy6Hmu5sthH4EQxwdBN) | [FUNK GUITAR NA VEIA](https://open.spotify.com/album/4W3cnlg6rChS3jIxlXangB) | 4:49 | 2025-10-09 |  |
@@ -1279,6 +1282,7 @@
 | [On The Run](https://open.spotify.com/track/1Pyd3TrBhZAAlzDUqqlbq1) | [The Lunatones](https://open.spotify.com/artist/68Qh4qk8K8ZWAgeGBYyYMf) | [Highway Surf](https://open.spotify.com/album/5dlWQzcnEEPbOidcviymCv) | 2:12 | 2024-08-03 |  |
 | [On Your Mind Again](https://open.spotify.com/track/0B9A2nKDB03G9GomPdRe2N) | [Jimmy Hazelwood](https://open.spotify.com/artist/1F27YY4TGG6BJ42kUAHcHw) | [On Your Mind Again](https://open.spotify.com/album/0yTLFSFRnUrRf2yfe106TZ) | 3:14 | 2025-01-20 |  |
 | [Onde lunghe](https://open.spotify.com/track/55Zm8DxkaXGpXB63gH019j) | [Maskalè](https://open.spotify.com/artist/3Fx1ssg99cizGjTBBJ1CSi) | [Onde lunghe](https://open.spotify.com/album/34KXsiPoyBY3LWpfknBjp8) | 4:28 | 2025-07-16 |  |
+| [One and a Half Years Old](https://open.spotify.com/track/3AAPUj09TQCFrbMSHSUsvO) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 1 Three Album Set Originals / Bucks County / Reflection](https://open.spotify.com/album/7cvhesmU6n33r24SOrZpdF) | 2:32 | 2026-02-18 |  |
 | [One Day](https://open.spotify.com/track/6Aw8dpkzrCNgLRdDdkbOW4) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [One Day](https://open.spotify.com/album/0SK2i9aisCGlh0bBXWSlhg) | 3:13 | 2025-06-18 |  |
 | [One for the Road](https://open.spotify.com/track/4jEDl1c1pB2sTJ65eQk9rM) | [Guy Anderson](https://open.spotify.com/artist/4TxD9E7bwDBknCtN9DwHK6) | [One for the Road](https://open.spotify.com/album/3qFcfEmVwGNjE8ln011zfj) | 3:29 | 2024-11-21 |  |
 | [One Last Time](https://open.spotify.com/track/0uQlZKV5mM1a4fw4VW6plx) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [One Last Time](https://open.spotify.com/album/5PbJXXsCYO9Z3vBehxFA96) | 3:31 | 2024-08-23 |  |
@@ -1982,6 +1986,7 @@
 | [Wings](https://open.spotify.com/track/0tlNA6X9fGAlwPQq2CkKqt) | [Mastering Silence](https://open.spotify.com/artist/4fZb8jkDew7kg3eFwzmyvp) | [Wings](https://open.spotify.com/album/6LS5xbOq6nryBJ3Jp2vKY8) | 2:09 | 2026-02-10 |  |
 | [Winter](https://open.spotify.com/track/6wouIFZan1Utt74DZ0LFar) | [Pale Light Versus](https://open.spotify.com/artist/2tsn79j2wcAL9iR42gPAdW) | [Alone Under an Altar](https://open.spotify.com/album/3OEt67XtalYh2PtUvNhIp1) | 4:12 | 2024-08-23 |  |
 | [Winter Cold](https://open.spotify.com/track/25PtCQHCzB9Q5GNjIk5W0A) | [Jacob Crane](https://open.spotify.com/artist/3s5sjNtuzmKowKQulVYlT3), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Winter Cold](https://open.spotify.com/album/5tMvocMaOe9PE6OXDWSczy) | 2:40 | 2024-07-17 |  |
+| [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 | 2026-02-18 |  |
 | [Within Without](https://open.spotify.com/track/5md0pTloM1NWMapyOez7kx) | [Mines](https://open.spotify.com/artist/1qwuQbIn7mbhX332OgHpF7) | [Mines E.P](https://open.spotify.com/album/3rnZUxSaYlggx9DXBmyywK) | 5:58 | 2024-08-12 |  |
 | [Without Love Nothing Is Real](https://open.spotify.com/track/5h49sj6wfjnJgI6kRm8R82) | [C\-Beem](https://open.spotify.com/artist/08TKtGdiaAsT4dJuJ9oQKt), [Lachlan Brooks](https://open.spotify.com/artist/056PjoXEzHiKL9sFVIW6St) | [Jammin' The Steam Towers](https://open.spotify.com/album/2nbdj5dwmEMHpvKfxVtW2b) | 4:30 | 2024-09-09 |  |
 | [Without Words \- Again](https://open.spotify.com/track/5zSGlVvQ3HH9jx5GvmxHCE) | [2WeeksLate](https://open.spotify.com/artist/4JRexUASP42t2FgkYQSOkk) | [Without Words \(Again\)](https://open.spotify.com/album/6QRYo2JcltTiOQBVYBE9pl) | 4:11 | 2024-11-12 |  |

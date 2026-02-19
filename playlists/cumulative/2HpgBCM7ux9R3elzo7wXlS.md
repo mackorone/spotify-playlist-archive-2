@@ -4,7 +4,7 @@
 
 > All of it
 
-1,122 songs - 2 day 20 hr 56 min
+1,123 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Deep Stone Lullaby](https://open.spotify.com/track/0loGeCS5Qa7pcVoTB9tkH2) | [Michael Sechrist](https://open.spotify.com/artist/0YMr3SSFvkcMYSP9UNBJx0), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Destiny 2: Beyond Light \(Original Soundtrack\)](https://open.spotify.com/album/5uceuos2MGwHNtFskwv2rs) | 3:24 | 2025-06-02 |  |
 | [Defeat Here](https://open.spotify.com/track/0cY730wUNrEZlvj4mCIdyH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:36 | 2026-02-17 |  |
 | [Deference for Darkness](https://open.spotify.com/track/4RyqpTW0gEKkVgFeNO50Ii) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo 3: ODST \(Original Soundtrack\)](https://open.spotify.com/album/7IjjokVGQCpjUt2B4wdaRW) | 6:38 | 2025-06-02 |  |
+| [Delirious](https://open.spotify.com/track/7D1FuWbL2SaSPfwr51dwUG) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:30 | 2026-02-18 |  |
 | [Demon Days](https://open.spotify.com/track/2k6hpKTyubRVOmQR11ViY3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:28 | 2025-09-28 |  |
 | [Demon Time \(Lil Yachty feat\. Draft Day\)](https://open.spotify.com/track/0U4bETGvA2xw24gyTloxIJ) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:28 | 2025-06-02 |  |
 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 | 2025-06-02 |  |

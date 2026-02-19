@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,410 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,435 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 104 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 105 | [The Let Out](https://open.spotify.com/track/0ietdP5scx6VM7U9ajCc0u) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4iP0J5eIBe463ufR0C1lZI) | 4:14 |
 
-Snapshot ID: `AAAAABNI/rTrO3172Ytv91wbKiiP4/Vz`
+Snapshot ID: `AAAAANEzimXNkHPOiAf8QidbskRadiBC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von MERO, Aymen, Charli xcx, Lune & mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,448 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,369 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 68 | [Champagnerempfang satt](https://open.spotify.com/track/7e1FdXssCYdF8wBFQlBP6G) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL) | [Champagnerempfang satt](https://open.spotify.com/album/5SFDKds59auElzXyQ43icO) | 2:59 |
 | 69 | [Vicious Chords](https://open.spotify.com/track/0P2hbnluQ22QPuWLWZLvho) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Vicious Chords](https://open.spotify.com/album/6NSpFpsmUvEMyQI3os9nJ6) | 2:45 |
 | 70 | [Keine Rosen](https://open.spotify.com/track/5C8J8AEIXWWAevDmWLLLWI) | [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Keine Rosen](https://open.spotify.com/album/3eSgaReW2wV8rH9XawZqtT) | 2:18 |
-| 71 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 71 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 72 | [massenschlägerei](https://open.spotify.com/track/58bDYyl7yNXx3QBTXNjGD7) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [massenschlägerei](https://open.spotify.com/album/3A9ZZyI7nsnBoxpW9Tawe4) | 2:44 |
 | 73 | [birds & the bees](https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up above](https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L) | 4:42 |
 | 74 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |

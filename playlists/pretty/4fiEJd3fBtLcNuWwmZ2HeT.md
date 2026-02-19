@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 426 songs - 1 day 0 hr 23 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 427 songs - 1 day 0 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -434,5 +434,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 424 | [Medianoche](https://open.spotify.com/track/4frNQ6DvaOl96cemtTgW7q) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Medianoche](https://open.spotify.com/album/5zi9SzPGFgLazFD7C9ICym) | 3:49 |
 | 425 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 |
 | 426 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 |
+| 427 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu) | 2:27 |
 
-Snapshot ID: `AAAJ4vbCgI1PtZirH8jhUXNMGXKC95E9`
+Snapshot ID: `AAAJ4x/qgREtr6iubRV++9Gfllpkc/16`

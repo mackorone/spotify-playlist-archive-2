@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,570 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,565 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [婀娜婀娜](https://open.spotify.com/track/6PvyXZnBK7W5cV4VH9EYLP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [婀娜婀娜](https://open.spotify.com/album/77W5gV7qPHS2ZThS6oQuFc) | 3:57 |
-| 2 | [深海](https://open.spotify.com/track/4UuPn4bcfi9Bg9E2diY26L) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [](https://open.spotify.com/album/null) | 3:54 |
-| 3 | [WAKEUP feat\. MFS](https://open.spotify.com/track/7jfTj0XG4jdhVxu35BXoHA) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [](https://open.spotify.com/album/null) | 2:58 |
+| 2 | [深海](https://open.spotify.com/track/4UuPn4bcfi9Bg9E2diY26L) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:54 |
+| 3 | [WAKEUP feat\. MFS](https://open.spotify.com/track/7jfTj0XG4jdhVxu35BXoHA) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [NEWME](https://open.spotify.com/album/76u3GGHTD8Z7iqQD3QbRXz) | 2:58 |
 | 4 | [KATTARINA](https://open.spotify.com/track/5Hv1K6UO163b76PTnPDJ0X) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [KATTARINA](https://open.spotify.com/album/69AQNqE98bHro9A4dgYZON) | 2:44 |
 | 5 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
 | 6 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |

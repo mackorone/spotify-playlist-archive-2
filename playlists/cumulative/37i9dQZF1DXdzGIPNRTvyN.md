@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-395 songs - 18 hr 39 min
+397 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 | 2024-07-17 |
 | [Bed of Clouds \(by a Babbling Brook\)](https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 2:44 | 2024-03-05 |  |
 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 | 2023-05-19 | 2026-01-22 |
+| [Bewilderment](https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Bewilderment](https://open.spotify.com/album/0DrHkO9AXh9JRrpKSSMwTi) | 2:15 | 2026-02-18 |  |
 | [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 | 2026-01-05 |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 |  |
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
@@ -133,7 +134,7 @@
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
 | [Forest Paradise](https://open.spotify.com/track/71tGFaATDO3ZtEGio0pSwQ) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Paradise](https://open.spotify.com/album/2YTEeLU3uOHokTNvsbGIKC) | 2:38 | 2025-03-14 |  |
 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 | 2023-01-24 | 2024-04-02 |
-| [Forest Serenity](https://open.spotify.com/track/3w3Jy3n8nbhRLpy9Gb3vNV) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Forest Serenity](https://open.spotify.com/album/3zqn18i0XUOwAhLb1QVQ59) | 2:50 | 2025-10-01 |  |
+| [Forest Serenity](https://open.spotify.com/track/3w3Jy3n8nbhRLpy9Gb3vNV) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Forest Serenity](https://open.spotify.com/album/3zqn18i0XUOwAhLb1QVQ59) | 2:50 | 2025-10-01 | 2026-02-19 |
 | [Forest Whispers](https://open.spotify.com/track/49NrlK8g9maZ478ZiNM7z5) | [cairn](https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp) | [Forest Whispers](https://open.spotify.com/album/5wmWRvo8ljEfdyAEtV5ea2) | 3:21 | 2025-10-01 |  |
 | [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-10-26 | 2025-04-02 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
@@ -289,6 +290,7 @@
 | [Prayer For Peace](https://open.spotify.com/track/6vy6tvn35Xdg5xXKPEqep1) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Prayer For Peace](https://open.spotify.com/album/4pW97ofmIZv4xnIEP9GKH0) | 3:03 | 2023-10-26 | 2025-07-02 |
 | [Purity](https://open.spotify.com/track/3No9Niai3Y3hpIgq1uzHXX) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Purity](https://open.spotify.com/album/2t3Rxxc5ggVC4N1OnMBfi5) | 3:12 | 2024-10-03 |  |
 | [Quiet Explorer](https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Quiet Explorer](https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl) | 3:07 | 2024-04-01 |  |
+| [Quiet Nature](https://open.spotify.com/track/4c2tyVmIzbyqCVJ0P1cbbx) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Quiet Nature](https://open.spotify.com/album/64z4d3dj2JBuXHsds54L1r) | 2:26 | 2026-02-18 |  |
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
 | [Quiet Stars](https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Quiet Stars](https://open.spotify.com/album/6kheDSIxcjPBu2No01PQmH) | 2:02 | 2023-04-24 |  |
 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 | 2023-12-18 |  |
@@ -301,7 +303,7 @@
 | [Rememberance](https://open.spotify.com/track/1gNTjVMoAeGDknZAK1dtC2) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Rememberance](https://open.spotify.com/album/0EiOma7vonC04znOCvu8DD) | 2:47 | 2025-06-17 |  |
 | [Restful](https://open.spotify.com/track/6NpQVqL5DGAmxhPsIcn8a5) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Restful](https://open.spotify.com/album/0kyFEIREM096fcDuCNxJXN) | 3:18 | 2024-12-20 |  |
 | [Restituere](https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h) | [Takiyo](https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1) | [Restituere](https://open.spotify.com/album/3xca1inY0KAcdo2SpqpydC) | 2:51 | 2024-04-01 |  |
-| [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 | 2025-02-10 |  |
+| [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 | 2025-02-10 | 2026-02-19 |
 | [Retrograde](https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Retrograde](https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4) | 2:48 | 2024-03-01 |  |
 | [Reverie](https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Reverie](https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v) | 3:03 | 2024-07-16 | 2025-12-16 |
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-01-24 | 2024-07-17 |

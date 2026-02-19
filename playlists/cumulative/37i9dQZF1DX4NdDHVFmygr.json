@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 181714,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
@@ -1206,6 +1206,24 @@
       "duration_ms": 199411,
       "name": "BLADI",
       "url": "https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq"
+    },
+    {
+      "album": {
+        "name": "Blati",
+        "url": "https://open.spotify.com/album/2k14r77YeNBGF00ZzgH2BK"
+      },
+      "artists": [
+        {
+          "name": "NovaQueen",
+          "url": "https://open.spotify.com/artist/6YYhmFoGalGnK51QReSoVE"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Blati",
+      "url": "https://open.spotify.com/track/4l58OohLgIY6vMAABsjG1t"
     },
     {
       "album": {
@@ -8013,6 +8031,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm"
+      },
+      "artists": [
+        {
+          "name": "Uzishettan",
+          "url": "https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL"
+    },
+    {
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
@@ -9476,7 +9512,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 184568,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS"

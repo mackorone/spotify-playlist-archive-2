@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF"
+    },
+    {
+      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw"
       },
@@ -4002,6 +4020,24 @@
       "duration_ms": 229941,
       "name": "Botanical Story",
       "url": "https://open.spotify.com/track/2cqBZypj8ELz29CuvDnvsg"
+    },
+    {
+      "album": {
+        "name": "Bottled Hope",
+        "url": "https://open.spotify.com/album/1rQJqPyhdCqaInoi7d8uzd"
+      },
+      "artists": [
+        {
+          "name": "Christaris",
+          "url": "https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203199,
+      "name": "Bottled Hope",
+      "url": "https://open.spotify.com/track/2AAHCstOmqcOCfWDClEDro"
     },
     {
       "album": {
@@ -19236,6 +19272,24 @@
       "duration_ms": 229734,
       "name": "Master of Grooveality",
       "url": "https://open.spotify.com/track/1Xx7kKxN8IWkLbwtD1x6mh"
+    },
+    {
+      "album": {
+        "name": "D0PE SH!T 4LYFE",
+        "url": "https://open.spotify.com/album/0RuWMHXQnHEhLRKSWhiJQL"
+      },
+      "artists": [
+        {
+          "name": "Crimson",
+          "url": "https://open.spotify.com/artist/63mjjF2tGENedqxDyZhK6G"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95916,
+      "name": "MASTERPIECE",
+      "url": "https://open.spotify.com/track/41Xb489wAFHotqj5cQq1zV"
     },
     {
       "album": {

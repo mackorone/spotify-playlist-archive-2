@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62415,
+  "num_followers": 62419,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "UNDEAD\u300cWanderlust Sailing\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/6ehYFEt3WgpNUL38O9N7c5"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD",
-          "url": "https://open.spotify.com/artist/4vpYguABoJeyeiQEVavB7F"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 201229,
-      "name": "Wanderlust Sailing",
-      "url": "https://open.spotify.com/track/6rXYXo0k7V3G5arz1f6cEg"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 225202,
       "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "UNDEAD\u300cWanderlust Sailing\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/6ehYFEt3WgpNUL38O9N7c5"
+      },
+      "artists": [
+        {
+          "name": "UNDEAD",
+          "url": "https://open.spotify.com/artist/4vpYguABoJeyeiQEVavB7F"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 201229,
+      "name": "Wanderlust Sailing",
+      "url": "https://open.spotify.com/track/6rXYXo0k7V3G5arz1f6cEg"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
+        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 214749,
-      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
-      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
+      "duration_ms": 217766,
+      "name": "\u660e\u93e1\u6d41\u6c34",
+      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
+        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 217766,
-      "name": "\u660e\u93e1\u6d41\u6c34",
-      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
+      "duration_ms": 214749,
+      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
+      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
     },
     {
       "added_at": "2026-01-13 16:06:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11141,
+  "num_followers": 11143,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAD2cAs3WrqevmhQQ2OaLYVL",
+  "snapshot_id": "aZOvgAAAAACKkdNrHR36F86KL/E4QcCd",
   "tracks": [
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 234520,
-      "name": "The Heart's Monologue",
-      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
+      "duration_ms": 206880,
+      "name": "My Lady's Chords",
+      "url": "https://open.spotify.com/track/24CF1RQhwSyyrH14v9vtFG"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 206880,
-      "name": "My Lady's Chords",
-      "url": "https://open.spotify.com/track/24CF1RQhwSyyrH14v9vtFG"
+      "duration_ms": 234520,
+      "name": "The Heart's Monologue",
+      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-746 songs - 1 day 14 hr 44 min
+747 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Answer \(feat\. Omawumi\)](https://open.spotify.com/track/7wx2t7wL4IgwZKdf0kjZuu) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Answer \(feat\. Omawumi\)](https://open.spotify.com/album/4rNCzdGPEcKVDhlqxDCaSN) | 5:03 | 2022-10-22 | 2022-10-31 |
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-04-27 | 2025-05-18 |
 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 | 2023-06-26 | 2023-07-01 |
+| [Araba](https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa) | [Ibee Melody](https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Araba](https://open.spotify.com/album/1IO0WOLyXlzd932Yju5EZL) | 2:43 | 2026-02-13 |  |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 | 2024-07-27 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-09-28 |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-19 | 2025-04-01 |
@@ -425,7 +426,7 @@
 | [METU](https://open.spotify.com/track/3AyBILZ8DEk6tfUjgMluj9) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [METU](https://open.spotify.com/album/5GTeSVYiKU7lvVxiMYlyZ7) | 2:29 | 2024-09-13 | 2024-09-28 |
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-14 | 2023-09-29 |
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-14 | 2023-07-15 |
-| [Millicent](https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Millicent](https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt) | 3:07 | 2026-02-13 |  |
+| [Millicent](https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Millicent](https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt) | 3:07 | 2026-02-13 | 2026-02-19 |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-20 | 2023-06-27 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |
 | [Mmerepa](https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:06 | 2024-05-24 | 2024-07-12 |

@@ -40464,7 +40464,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
@@ -69401,6 +69401,32 @@
     },
     {
       "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Mocidade Independente De Padre Miguel",
+          "url": "https://open.spotify.com/artist/2Y6lSD5UWSp2CFbpKT9aSn"
+        },
+        {
+          "name": "Igor Vianna",
+          "url": "https://open.spotify.com/artist/10e3h7nyQCbHE4HGa6341g"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347618,
+      "name": "Rita Lee, a Padroeira da Liberdade",
+      "url": "https://open.spotify.com/track/4jF3lzseSruRjAnyHWXZI1"
+    },
+    {
+      "album": {
         "name": "Ritmada 2",
         "url": "https://open.spotify.com/album/1SZXCvWt3yyscBjUTEQYGd"
       },
@@ -87984,7 +88010,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 188666,
       "name": "Viro Vira Virou",
       "url": "https://open.spotify.com/track/4Ngl1fqCSOQfx5DTsqeyKb"
@@ -88986,7 +89012,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

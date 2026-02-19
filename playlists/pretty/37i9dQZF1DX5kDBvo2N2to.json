@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60661,
+  "num_followers": 60660,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Golden Boy / Romance",
-        "url": "https://open.spotify.com/album/5ks1NxkoQzL6dtxuk3NXAw"
-      },
-      "artists": [
-        {
-          "name": "cortex",
-          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Golden Boy",
-      "url": "https://open.spotify.com/track/5VT0xlntv9lzgytFTpG5Q0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "RUSHEN TAR ALDRIG SLUT",
         "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 125539,
       "name": "VEM VET?",
       "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Golden Boy / Romance",
+        "url": "https://open.spotify.com/album/5ks1NxkoQzL6dtxuk3NXAw"
+      },
+      "artists": [
+        {
+          "name": "cortex",
+          "url": "https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/5VT0xlntv9lzgytFTpG5Q0"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Superhj\u00e4ltar",
-        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Lia Lindst\u00e9n",
-          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
-        }
-      ],
-      "duration_ms": 144285,
-      "name": "Superhj\u00e4ltar",
-      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "F\u00f6rlora dig l\u00e5ngsamt",
         "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
       },
@@ -499,6 +479,26 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "Superhj\u00e4ltar",
+        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Lia Lindst\u00e9n",
+          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+        }
+      ],
+      "duration_ms": 144285,
+      "name": "Superhj\u00e4ltar",
+      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Greczula (Deluxe Version)",
         "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 161194,
       "name": "Love",
       "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -547,6 +531,38 @@
       "duration_ms": 225000,
       "name": "500 kr",
       "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
+      },
+      "artists": [
+        {
+          "name": "Dione",
+          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
+        }
+      ],
+      "duration_ms": 202171,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
       },
       "artists": [
         {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
-      "duration_ms": 202171,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -603,22 +619,6 @@
       "duration_ms": 174200,
       "name": "Feel Sorry",
       "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200666,
       "name": "Love is for Losers",
       "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "WHAT\u2019S CUTE ABOUT HELL?",
-        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
+        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
       },
       "artists": [
         {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
+      "duration_ms": 113454,
+      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "WHAT\u2019S CUTE ABOUT HELL?",
+        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
+      },
+      "artists": [
+        {
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "Faller s\u00e5 l\u00e4tt",
         "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 155322,
       "name": "Faller s\u00e5 l\u00e4tt",
       "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "...being mad bad sad (DSM-5)",
         "url": "https://open.spotify.com/album/3Z76JHYpa1PC8sIVLhqnmA"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 183913,
       "name": "...being mad bad sad (DSM-5)",
       "url": "https://open.spotify.com/track/2u2WAcPmcpZ1WwtqSI2K0x"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "YAKO",
-        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Fel",
-      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
-        "name": "Stockholms Stad",
-        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
-      },
-      "artists": [
-        {
-          "name": "Solo",
-          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
-        }
-      ],
-      "duration_ms": 151220,
-      "name": "Stockholms Stad",
-      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
       },
@@ -1299,18 +1267,34 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+        "name": "Stockholms Stad",
+        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
       },
       "artists": [
         {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+          "name": "Solo",
+          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
         }
       ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+      "duration_ms": 151220,
+      "name": "Stockholms Stad",
+      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "YAKO",
+        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Fel",
+      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
         "name": "lotion",
         "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "Acoustics & Hood Psychedelia",
-        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Lover's Rock",
-      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Dubbel-CD:n",
         "url": "https://open.spotify.com/album/7tI9qVfdtA4vHbTFeuqKHW"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 194250,
       "name": "Tunnelbanejesus",
       "url": "https://open.spotify.com/track/1amRC28M4vDzQXhzRQ2Uta"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "Acoustics & Hood Psychedelia",
+        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Lover's Rock",
+      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
     },
     {
       "added_at": "2026-02-12 23:00:44",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-12 23:00:44",
       "album": {
-        "name": "airbnb",
-        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
-      },
-      "artists": [
-        {
-          "name": "TANTAN",
-          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
-        }
-      ],
-      "duration_ms": 173759,
-      "name": "airbnb",
-      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
-    },
-    {
-      "added_at": "2026-02-12 23:00:44",
-      "album": {
         "name": "Aa visst",
         "url": "https://open.spotify.com/album/2N9gFHfYGxJnLjYypFL5JZ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 194240,
       "name": "Aa visst",
       "url": "https://open.spotify.com/track/1ZvwwEWpuxDVWFnkP6cVGm"
+    },
+    {
+      "added_at": "2026-02-12 23:00:44",
+      "album": {
+        "name": "airbnb",
+        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
+      },
+      "artists": [
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        }
+      ],
+      "duration_ms": 173759,
+      "name": "airbnb",
+      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
     },
     {
       "added_at": "2026-02-12 23:00:44",

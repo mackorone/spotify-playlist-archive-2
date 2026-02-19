@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-2,021 songs - 5 day 0 hr 44 min
+2,024 songs - 5 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Ash](https://open.spotify.com/track/19cSPtOkedXdO8LSJVgEBd) | [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Ash](https://open.spotify.com/album/6vTSHvtLHgE4lofqpbiTZy) | 2:27 | 2023-03-08 | 2023-04-21 |
 | [Asha's Waltz](https://open.spotify.com/track/6wzp4booSJKX2CO2d8Ctho) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Asha's Waltz](https://open.spotify.com/album/75UrgQ54va1o2GWrlGUTk9) | 6:25 | 2025-05-28 | 2026-01-15 |
 | [Asking Price](https://open.spotify.com/track/33bUW91pBLKxKJXc2V4p4k) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Birdwatcher](https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ) | 3:44 | 2024-04-17 | 2024-07-04 |
+| [At a Diner](https://open.spotify.com/track/6JqEYQj6euYDSEqP5OzBMW) | [Storey Littleton](https://open.spotify.com/artist/4VHwi3rxWmGedlnzLox1u3) | [At a Diner](https://open.spotify.com/album/3Djy3qFxxTjRRRuNyVucJQ) | 4:16 | 2026-02-18 |  |
 | [At Least](https://open.spotify.com/track/2UkWIXrZvKBXueAYobCKY7) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [At Least](https://open.spotify.com/album/1Vs8Duk5wpXcy3P4Rgmd7Q) | 3:54 | 2022-07-06 | 2022-10-20 |
 | [At Your Best](https://open.spotify.com/track/1kvyA5x85r6gkOqrXW6g1d) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [At Your Best](https://open.spotify.com/album/5dH19COkc78Fgdgn403VD2) | 5:04 | 2024-11-13 | 2024-11-21 |
 | [Atlantic City](https://open.spotify.com/track/4mdLxUFC7tL6IJySX7vMJC) | [Hayfitz](https://open.spotify.com/artist/6Ll2krEOObQ8m7QFbmG10y) | [Atlantic City](https://open.spotify.com/album/0BO2ComLtf4YnokUpxJEHn) | 3:33 | 2022-11-09 | 2022-12-01 |
@@ -945,6 +946,7 @@
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-09-25 | 2024-12-05 |
 | [iii\. Are We Awake \(ft\. Eartheater\)](https://open.spotify.com/track/3YAby3mTbhuaVfUXOv57rj) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [A GLINT IN THE HOLOCENE!](https://open.spotify.com/album/2QKQellnXw8Eg4lfysCto3) | 3:43 | 2023-10-11 | 2023-12-11 |
 | [Impartial](https://open.spotify.com/track/0a60kCUF4K4sLsgSsGiZQD) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Impartial](https://open.spotify.com/album/6L1NShIjujCWgvzVVZ1FO2) | 1:51 | 2023-06-21 | 2023-08-24 |
+| [In a Song](https://open.spotify.com/track/4kryZ9mYaE29sEpZuZZgBM) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [In a Song](https://open.spotify.com/album/5YzsbXsFObFF0EFHJG2Mjv) | 4:48 | 2026-02-18 |  |
 | [In Bloom](https://open.spotify.com/track/4GBrQq55WlD8cTpK0Glc8L) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM) | [In Bloom](https://open.spotify.com/album/4zYI2AsKXG2fXwGEGGFFKq) | 3:56 | 2025-06-11 | 2025-09-04 |
 | [in my car](https://open.spotify.com/track/5OC5iFVDl3pRfThoTbs817) | [ella ruby](https://open.spotify.com/artist/2LqBqyJQJJgt2bvjdSyY04) | [baby blue](https://open.spotify.com/album/1TeqZ0X8hqCQNELMmVivks) | 3:30 | 2022-10-19 | 2022-12-01 |
 | [in my closet](https://open.spotify.com/track/10EGuXXn7R83OfR3iatAG8) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [in my closet](https://open.spotify.com/album/4Hqt6Wu2cuKAFAXwKheE4t) | 2:55 | 2023-11-08 | 2023-12-11 |
@@ -1404,6 +1406,7 @@
 | [Pessimist Babe](https://open.spotify.com/track/43XzTSasS0Arc1dgldOMyb) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Pessimist Babe](https://open.spotify.com/album/10GO6N8nXJ4njbiKJ1X1oe) | 3:15 | 2024-09-11 | 2024-12-05 |
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-05 | 2023-05-11 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-11-30 | 2023-01-12 |
+| [Pilar, NM](https://open.spotify.com/track/1iVPI1CbE7cot90mJxry4l) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Pilar, NM](https://open.spotify.com/album/5H1vDU5KUKrih7Am2VDqWJ) | 4:35 | 2026-02-18 |  |
 | [pinch me](https://open.spotify.com/track/0FSiEayrUIN4WqUbzuGDZ2) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [pinch me](https://open.spotify.com/album/4OdRU8PY2W2gf0G5gxWtEO) | 2:32 | 2023-10-26 | 2023-12-11 |
 | [Pink](https://open.spotify.com/track/4jbtHXvWKM74sUUanCVGuS) | [Leila Sunier](https://open.spotify.com/artist/699kkddUX2J9DRXT8Ql1Pn) | [Pink](https://open.spotify.com/album/1ldcl6WOuj3HwDMqwNopuU) | 4:28 | 2023-11-08 | 2023-12-11 |
 | [Pipps Hill](https://open.spotify.com/track/1VDaJ1DvabCELKIVyTrZ5w) | [Canty](https://open.spotify.com/artist/513JvMrHUhvAIq8xMntFcw) | [Dim Binge](https://open.spotify.com/album/4ENin5XoyhjiUUXJLFY2aC) | 3:31 | 2025-02-05 | 2025-05-15 |

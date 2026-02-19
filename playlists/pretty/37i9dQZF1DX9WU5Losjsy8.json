@@ -1,6 +1,6 @@
 {
   "description": "Die Musik f\u00fcr die H\u00fctten Gaudi!",
-  "num_followers": 491024,
+  "num_followers": 491058,
   "original_name": "Apr\u00e8s Ski Party 2026",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Biertornado",
         "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 218417,
       "name": "Biertornado",
       "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -295,6 +295,26 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "HERZBLATT (AUA AUA)",
         "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
       },
@@ -315,26 +335,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
-      },
-      "artists": [
-        {
-          "name": "DJ Redblack",
-          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 122585,
-      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
-      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
       },
@@ -351,22 +351,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -407,22 +427,6 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -443,22 +447,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 136551,
-      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Helene Fischer (Deluxe Version)",
         "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 140797,
       "name": "ANNE KAFFEEKANNE",
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Gianna",
         "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 227040,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 209135,
       "name": "So Bist Du",
       "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -939,22 +939,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
       "artists": [
         {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 185437,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -975,18 +971,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
         }
       ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Ufo",
-        "url": "https://open.spotify.com/album/6I1IhIuPR8D4OwXu8jbtbS"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 198524,
-      "name": "Ufo",
-      "url": "https://open.spotify.com/track/1fcr2p1DgZdkSOn7iQzhZK"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1131,22 +1111,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+        "name": "Ufo",
+        "url": "https://open.spotify.com/album/6I1IhIuPR8D4OwXu8jbtbS"
       },
       "artists": [
         {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+      "duration_ms": 198524,
+      "name": "Ufo",
+      "url": "https://open.spotify.com/track/1fcr2p1DgZdkSOn7iQzhZK"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1163,6 +1143,26 @@
       "duration_ms": 193884,
       "name": "Karnevalsmaus",
       "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+      },
+      "artists": [
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Ich liebe das Leben (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+        "name": "Ein Wort sagt mehr als 1000 Bilder",
+        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+      "duration_ms": 187053,
+      "name": "Geh mal Bier hol'n - GmBh",
+      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Ein Wort sagt mehr als 1000 Bilder",
-        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "Geh mal Bier hol'n - GmBh",
-      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
-      },
-      "artists": [
-        {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
-        }
-      ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Auf dem Besen an den Tresen",
         "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
       },
@@ -1483,6 +1467,30 @@
       "duration_ms": 182608,
       "name": "Auf dem Besen an den Tresen",
       "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "Bruttosozialprodukt 2025",
+        "url": "https://open.spotify.com/album/4OfgkEeX7vsDOyajJeMS7T"
+      },
+      "artists": [
+        {
+          "name": "NOISETIME",
+          "url": "https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC"
+        },
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "Bruttosozialprodukt 2025",
+      "url": "https://open.spotify.com/track/5UVm9WJ5KgqahUKjpjP5pU"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2026",

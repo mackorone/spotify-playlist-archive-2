@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Sjava
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,132 likes - 95 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,233 likes - 95 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 73 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 74 | [Ilo Nalo Naloya](https://open.spotify.com/track/7d2se65A7Vxyvlh0tnYoGN) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY) | [ILO NALO NALOYA](https://open.spotify.com/album/0tbbprX2Ysjr1ucc1huLpo) | 5:33 |
 | 75 | [Mawalawala](https://open.spotify.com/track/0ehYWFeYfsH3S4dSuPj1zL) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 6:12 |
-| 76 | [NGAGIYA NGAGIYA](https://open.spotify.com/track/5l7buObzkuqmfXzPovpRXF) | [AMA AK47](https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2), [SMINOFU & NGIGA](https://open.spotify.com/artist/3m494rnGtize8QcAO4kem8) | [NGAGIYA NGAGIYA](https://open.spotify.com/album/2R4PkXwcLBE7y15erayPTT) | 5:39 |
+| 76 | [NGAGIYA NGAGIYA](https://open.spotify.com/track/5l7buObzkuqmfXzPovpRXF) | [AMA\-AK47](https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2), [SMINOFU & NGIGA](https://open.spotify.com/artist/3m494rnGtize8QcAO4kem8) | [NGAGIYA NGAGIYA](https://open.spotify.com/album/2R4PkXwcLBE7y15erayPTT) | 5:39 |
 | 77 | [Abafana Badlala Ngathi](https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ) | [Limit](https://open.spotify.com/artist/2FNsjkc78U5f55zOu6ZsSh) | [I Mathematics](https://open.spotify.com/album/43VQHDS0rQVLrYtPvchEHf) | 4:43 |
 | 78 | [Washonaphi](https://open.spotify.com/track/5hKahvWd7ELDHgaoMl5m96) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 4:59 |
 | 79 | [Shamuranca lami](https://open.spotify.com/track/3XocIp7lveKXIQcli6SyJl) | [Umfoka Msezane](https://open.spotify.com/artist/2AKfzPjtVhO8CABt3EkSBs), [Gatsheni](https://open.spotify.com/artist/6WoCDrPE4RiZS9TC3oceAH) | [Uhlanya olungenas'hlobo](https://open.spotify.com/album/2evPQFsiPzNORlCqti9xeR) | 4:09 |

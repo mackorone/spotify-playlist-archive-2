@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-445 songs - 1 day 1 hr 51 min
+446 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [I AM HUNGRY!!](https://open.spotify.com/track/4DA5J3ekgIZsyisDJbyEZz) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:05 | 2022-10-13 |  |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-08-31 |  |
 | [I want to be poisoned by you and drown](https://open.spotify.com/track/1EXISH6kISEMaqXAoD8uEO) | [式浦躁吾](https://open.spotify.com/artist/64tqgUSdRPy0Kl8KmvBj8s) | [I want to be poisoned by you and drown](https://open.spotify.com/album/165uzoJNb4F27IaludLZCU) | 2:12 | 2024-10-14 |  |
+| [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu) | 2:27 | 2026-02-18 |  |
 | [i'm high](https://open.spotify.com/track/4Ff2jbq4IvpGQRjrwbge4t) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [i'm high](https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03) | 4:12 | 2026-01-11 |  |
 | [If...with tears in one's eyes](https://open.spotify.com/track/3OikLDf5WAJkVinnP30Cqp) | [SHAZNA](https://open.spotify.com/artist/1qWhc5xaI8R8Mv95ZY2rY6) | [Promise Eve](https://open.spotify.com/album/1fSiPEa4ZV41tivCVUqhcD) | 3:05 | 2025-09-25 |  |
 | [Illuminati](https://open.spotify.com/track/5cZrqkfTckgUAONHdRiuLv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Illuminati](https://open.spotify.com/album/0ywqgmOBttYXxvJlo78vDK) | 5:10 | 2025-10-15 | 2026-02-13 |

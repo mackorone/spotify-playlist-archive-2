@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: paradise fell.",
-  "num_followers": 31259,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Showing Teeth",
+  "num_followers": 31328,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlrzPi0RvvgNEQSalWlkZGvLOVG",
+  "snapshot_id": "AAAAAHsyns+40mJsMT5PiCmKUZI/GvAM",
   "tracks": [
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Rip",
+        "url": "https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "duration_ms": 192966,
+      "name": "Rip",
+      "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
+    },
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
@@ -25,6 +41,54 @@
       "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "thorns",
+        "url": "https://open.spotify.com/album/6E9bGJTOPluesJSdZDrSHO"
+      },
+      "artists": [
+        {
+          "name": "Dead Butterflies",
+          "url": "https://open.spotify.com/artist/5WO18L6Q3DbrDR5fJCxGtJ"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "thorns",
+      "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Pale Shadow",
+        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Pale Shadow",
+      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Death Crown",
+        "url": "https://open.spotify.com/album/3fHUzfvi2IcilNWF8EJrK1"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Death Crown",
+      "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
+    },
+    {
       "added_at": "2026-02-11 05:00:09",
       "album": {
         "name": "Death Is All You Will Know",
@@ -39,6 +103,22 @@
       "duration_ms": 159910,
       "name": "Death Is All You Will Know",
       "url": "https://open.spotify.com/track/0fCWEimQozzXs2xWSqnbzE"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "GIMP",
+        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
+      },
+      "artists": [
+        {
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+        }
+      ],
+      "duration_ms": 240568,
+      "name": "GIMP",
+      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -61,36 +141,20 @@
       "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
     },
     {
-      "added_at": "2026-02-11 05:00:09",
+      "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Pale Shadow",
-        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
+        "name": "poison",
+        "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
       },
       "artists": [
         {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+          "name": "Houses We Die In",
+          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
         }
       ],
-      "duration_ms": 205384,
-      "name": "Pale Shadow",
-      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
-      },
-      "artists": [
-        {
-          "name": "Artifact",
-          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
-        }
-      ],
-      "duration_ms": 269564,
-      "name": "Atrophy",
-      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
+      "duration_ms": 245451,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -107,6 +171,70 @@
       "duration_ms": 249639,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "SUPERSONIC",
+        "url": "https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7"
+      },
+      "artists": [
+        {
+          "name": "SOULSLEEP",
+          "url": "https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "SUPERSONIC",
+      "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Falling Away From Me",
+        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
+      },
+      "artists": [
+        {
+          "name": "Overlaps",
+          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
+        }
+      ],
+      "duration_ms": 265384,
+      "name": "Falling Away From Me",
+      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/3gBFaWWZO6idpj9fNEbRPu"
+      },
+      "artists": [
+        {
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
+        }
+      ],
+      "duration_ms": 162039,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
+      },
+      "artists": [
+        {
+          "name": "Artifact",
+          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
+        }
+      ],
+      "duration_ms": 269564,
+      "name": "Atrophy",
+      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -143,38 +271,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Fume / Death Dance",
-        "url": "https://open.spotify.com/album/2YyAV6o1IcLp1SMSiIoofD"
-      },
-      "artists": [
-        {
-          "name": "LEVELS",
-          "url": "https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fume",
-      "url": "https://open.spotify.com/track/3FYxYAROEXhDFWJMk8Dsoy"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Falling Away From Me",
-        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
-      },
-      "artists": [
-        {
-          "name": "Overlaps",
-          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
-        }
-      ],
-      "duration_ms": 265384,
-      "name": "Falling Away From Me",
-      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/1ofi80yL10ySLhxCzEcCqH"
       },
@@ -187,6 +283,62 @@
       "duration_ms": 198800,
       "name": "Journey",
       "url": "https://open.spotify.com/track/1pRVJFsmMQfr4ihhJESXZE"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "MUTE WITNESS",
+        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
+      },
+      "artists": [
+        {
+          "name": "SUICIDE MESSIAH",
+          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "duration_ms": 183121,
+      "name": "MUTE WITNESS",
+      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Eyes Up",
+        "url": "https://open.spotify.com/album/5gAbtLXtsTZYanWBlTnikm"
+      },
+      "artists": [
+        {
+          "name": "Waste",
+          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Eyes Up",
+      "url": "https://open.spotify.com/track/3MtNA6UHoxfJAJAsqeQhPO"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Fume / Death Dance",
+        "url": "https://open.spotify.com/album/2YyAV6o1IcLp1SMSiIoofD"
+      },
+      "artists": [
+        {
+          "name": "LEVELS",
+          "url": "https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Fume",
+      "url": "https://open.spotify.com/track/3FYxYAROEXhDFWJMk8Dsoy"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -223,30 +375,6 @@
       "duration_ms": 119529,
       "name": "Tower 7",
       "url": "https://open.spotify.com/track/2meQdN9hseaGfjmsRtsVoy"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "MUTE WITNESS",
-        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
-      },
-      "artists": [
-        {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "MUTE WITNESS",
-      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -303,22 +431,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/3gBFaWWZO6idpj9fNEbRPu"
-      },
-      "artists": [
-        {
-          "name": "OHKAYA",
-          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
-        }
-      ],
-      "duration_ms": 162039,
-      "name": "Angel Wings",
-      "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Immoral and Malevolent Happenings",
         "url": "https://open.spotify.com/album/7iqE3gay9N857FMxpx5W5b"
       },
@@ -331,22 +443,6 @@
       "duration_ms": 231000,
       "name": "People Are Starting to Notice",
       "url": "https://open.spotify.com/track/6qF34cFuk88HkNpSsBIGds"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Eyes Up",
-        "url": "https://open.spotify.com/album/5gAbtLXtsTZYanWBlTnikm"
-      },
-      "artists": [
-        {
-          "name": "Waste",
-          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "Eyes Up",
-      "url": "https://open.spotify.com/track/3MtNA6UHoxfJAJAsqeQhPO"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -427,6 +523,22 @@
       "duration_ms": 197853,
       "name": "The Weapon Pt. II",
       "url": "https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Bygones",
+        "url": "https://open.spotify.com/album/43obAFCaeoql2ZCpJtmpys"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        }
+      ],
+      "duration_ms": 257464,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -595,54 +707,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Bygones",
-        "url": "https://open.spotify.com/album/43obAFCaeoql2ZCpJtmpys"
-      },
-      "artists": [
-        {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
-        }
-      ],
-      "duration_ms": 257464,
-      "name": "Bygones",
-      "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "MY OWN RAVE (METAL VERSION)",
-        "url": "https://open.spotify.com/album/0GotVrtJl9nqGyF8qnsdjd"
-      },
-      "artists": [
-        {
-          "name": "Mahlow",
-          "url": "https://open.spotify.com/artist/3AFsE1L3y0MY8Acdmp6J9O"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "MY OWN RAVE - METAL VERSION",
-      "url": "https://open.spotify.com/track/5NlZyIpRetUB8NOSC9hTZx"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "I DON'T CARE IF I MISS A THING",
-        "url": "https://open.spotify.com/album/3T6qN9jFonFN0YqPwwkUbi"
-      },
-      "artists": [
-        {
-          "name": "20TOKENS",
-          "url": "https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "I DON'T CARE IF I MISS A THING",
-      "url": "https://open.spotify.com/track/5mMuqKmFY0VrSciYPdw6a4"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Starbreather",
         "url": "https://open.spotify.com/album/4dfw548qxSjK2Ao2dIyyXi"
       },
@@ -671,54 +735,6 @@
       "duration_ms": 189000,
       "name": "Nope (Hollow Point Elysium)",
       "url": "https://open.spotify.com/track/5bDQPoauwc55xLZaiefEFJ"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Rigged Survival",
-        "url": "https://open.spotify.com/album/3ydlRZMBjnK0C5E0lLyLQB"
-      },
-      "artists": [
-        {
-          "name": "Dry Socket",
-          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
-        }
-      ],
-      "duration_ms": 143934,
-      "name": "Rigged Survival",
-      "url": "https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Shovelhead",
-        "url": "https://open.spotify.com/album/5uKp0xwkNACjOpQKrdrRV4"
-      },
-      "artists": [
-        {
-          "name": "Exhumed",
-          "url": "https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Shovelhead",
-      "url": "https://open.spotify.com/track/4mK5BKOVvsoJTu2vYWceOI"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Intimate Torment",
-        "url": "https://open.spotify.com/album/4YYduQ22BVq08CnVHgPNnN"
-      },
-      "artists": [
-        {
-          "name": "Foreword",
-          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
-        }
-      ],
-      "duration_ms": 206564,
-      "name": "Intimate Torment",
-      "url": "https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -799,22 +815,6 @@
       "duration_ms": 183829,
       "name": "FRACTURED",
       "url": "https://open.spotify.com/track/4MCCpfDaNdyzaLrTh9pXxY"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/1x5NQKeOPhJa1XoaJovLwC"
-      },
-      "artists": [
-        {
-          "name": "CODE:WORDS",
-          "url": "https://open.spotify.com/artist/7C0WgfsDPjdDo17lsKSPmy"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/5vDryyLZSHbEfoteRCOq91"
     },
     {
       "added_at": "2026-02-11 05:00:09",

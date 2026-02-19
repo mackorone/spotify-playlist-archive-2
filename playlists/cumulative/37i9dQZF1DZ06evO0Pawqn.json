@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 208485,
       "name": "Hasta La Miel Amarga",
       "url": "https://open.spotify.com/track/0zcRfgwJ7dIo5guaUvwWkk"
@@ -1006,6 +1006,28 @@
       "duration_ms": 231533,
       "name": "Le Doblamos La Edad",
       "url": "https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB"
+    },
+    {
+      "album": {
+        "name": "Los Tiranos Del Norte",
+        "url": "https://open.spotify.com/album/1FUfP29aoqXqWxYHFeYJ0w"
+      },
+      "artists": [
+        {
+          "name": "Mario Salseo",
+          "url": "https://open.spotify.com/artist/4thj5F1XL1SqU3hvXo24l3"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136208,
+      "name": "Los Tiranos Del Norte",
+      "url": "https://open.spotify.com/track/0xKZlpYcBrlH878vhS4DtD"
     },
     {
       "album": {

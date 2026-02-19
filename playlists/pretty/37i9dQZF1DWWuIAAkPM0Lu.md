@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag, endelig ny musik bl.a\. fra Karoline Mousing, Artigeardit og Baloosh ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,410 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,394 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

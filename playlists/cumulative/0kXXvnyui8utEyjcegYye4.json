@@ -5771,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Sve Je Ona Meni",
+        "url": "https://open.spotify.com/album/6VQrCH8GKIBiFHS4jwNpth"
+      },
+      "artists": [
+        {
+          "name": "Slavonske lole",
+          "url": "https://open.spotify.com/artist/0UJd1mI9GlgMhW4tCCPod4"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "Sve Je Ona Meni",
+      "url": "https://open.spotify.com/track/0BfRb86YsNvVkrxyeeV91w"
+    },
+    {
+      "album": {
         "name": "I Couldn't Decide",
         "url": "https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX"
       },

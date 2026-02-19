@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 140768,
+  "num_followers": 140778,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAA20jggOfEHCtlV/ssXluKY",
+  "snapshot_id": "aZOvgAAAAADCnw4KKLPXM2GTrjNlJ6y1",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat To The Beat",
-        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 238060,
-      "name": "Shayla",
-      "url": "https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr"
+      "duration_ms": 163306,
+      "name": "(I'm Always Touched By Your) Presence, Dear - Remastered 2001",
+      "url": "https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+        "name": "Eat To The Beat",
+        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 163306,
-      "name": "(I'm Always Touched By Your) Presence, Dear - Remastered 2001",
-      "url": "https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX"
+      "duration_ms": 238060,
+      "name": "Shayla",
+      "url": "https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr"
     },
     {
       "added_at": null,

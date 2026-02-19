@@ -4,7 +4,7 @@
 
 > Força Suprema, Rahiz  entram na zona.
 
-949 songs - 2 day 2 hr 7 min
+949 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,7 @@
 | [Solo](https://open.spotify.com/track/5JXo6j3iwoU7O7LzYNkXl5) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Solo](https://open.spotify.com/album/4AIbDc2dSwBuS2FWefT7CK) | 3:39 | 2023-08-03 | 2023-08-25 |
 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-12 | 2025-10-10 |
 | [Somos de Viseu](https://open.spotify.com/track/6q9CXfRlW4rLIwTUXMzpid) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Somos de Viseu](https://open.spotify.com/album/0gbLknufrvGMXy6PfRzG5o) | 4:56 | 2025-09-04 | 2025-09-26 |
-| [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:31 | 2026-01-09 |  |
+| [Sonhos](https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Sonhos](https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy) | 2:44 | 2026-01-09 |  |
 | [Sonhos & Insónias](https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Anthus](https://open.spotify.com/artist/7FXdxjdBlrUxkxji8vV322) | [Sonhos & Insónias](https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc) | 3:39 | 2023-09-07 | 2023-10-01 |
 | [Sonhos De Uma Criança](https://open.spotify.com/track/0q91TUDvR1zwWv4csvlzoI) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ALICIA MARQUES](https://open.spotify.com/artist/2X0yRGZEniWxOYwskDiUZ0) | [Sonhos De Uma Criança](https://open.spotify.com/album/1s2sAIUjwAj5utFUjzeVVS) | 2:33 | 2025-09-04 | 2025-09-26 |
 | [Sopa Di Camaron](https://open.spotify.com/track/5MTfzIttWh4RqCDyTDlOuI) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Rods Wires](https://open.spotify.com/artist/6NggcUSxA5B19Efk4ivUsH) | [Sopa Di Camaron](https://open.spotify.com/album/2NhmvKx5jCh8wXFqf8lL2P) | 5:28 | 2025-10-09 | 2025-12-19 |

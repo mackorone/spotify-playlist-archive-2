@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  yoyo michael
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,882 likes - 99 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,896 likes - 99 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 31 | [God Is Good](https://open.spotify.com/track/0LFir0yRLOrcTwTOcIe7P1) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Tabasamu](https://open.spotify.com/album/3hCCDdn0RsImTjrriM0GDS) | 3:48 |
 | 32 | [Teach me how to love](https://open.spotify.com/track/0Gm6s6y9F4K6a4Yqq7mxXV) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Destiny Paul\-Enenche](https://open.spotify.com/artist/4kqZT7so05YLthY4Ue7tgu), [Paul\-Daniel Paul\-Enenche](https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG) | [Teach me how to love](https://open.spotify.com/album/6C9XTZaFlY4TKVX5Vywz7D) | 6:01 |
 | 33 | [Ife Mi \(Dance with Me\)](https://open.spotify.com/track/4qQXtGaatFTBzLs10aKv14) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69) | [Ife Mi \(Dance with Me\)](https://open.spotify.com/album/497BXbqMr3qjPDHFOCmG9H) | 2:57 |
-| 34 | [Rap Version with Drakare & Miracle Paul \- Remix](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy EP \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 |
+| 34 | [Goodness and Mercy \- Rap Version](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 |
 | 35 | [Joy Chant \- Live](https://open.spotify.com/track/79TqQAmMV3ygUgx373bcL6) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Joy Chant \(Live\)](https://open.spotify.com/album/46iESYEXmodV4W2rwVLWn0) | 4:32 |
 | 36 | [Blow my mind](https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N) | [Blow my mind](https://open.spotify.com/album/3Jz9Q57g9ITHiMQy4GwUNH) | 4:25 |
 | 37 | [Jireh](https://open.spotify.com/track/5uua1wFpog3T0sc2291lnX) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [Bobby](https://open.spotify.com/artist/2cw6B0nQRSgqK2gIUnOnwB) | [Jireh](https://open.spotify.com/album/7kS0Lu4YyI0eVYeTpLwjTW) | 2:21 |

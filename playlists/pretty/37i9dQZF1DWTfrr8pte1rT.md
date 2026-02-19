@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Madeon \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,930 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,941 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 101 | [Sugar, We're Goin Down](https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Social Repose](https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy) | [Sugar, We're Goin Down](https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG) | 3:29 |
 | 102 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 |
 | 103 | [Till I Met You](https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Till I Met You](https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk) | 3:15 |
-| 104 | [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 |
+| 104 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 |
 | 105 | [Liar \(with OST\)](https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [OST](https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB) | [Liar \(with OST\)](https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn) | 4:56 |
 | 106 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 |
 | 107 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 117 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 |
 | 118 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 |
 | 119 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
-| 120 | [FEEL THE RAGE](https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [FEEL THE RAGE](https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p) | 3:25 |
-| 121 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
+| 120 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
+| 121 | [FEEL THE RAGE](https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [FEEL THE RAGE](https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p) | 3:25 |
 | 122 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
 | 123 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
 | 124 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
-| 125 | [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 |
+| 125 | [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 |
 
 Snapshot ID: `AAAAAOosefFwXsplkP1+L0UYIWM170ic`

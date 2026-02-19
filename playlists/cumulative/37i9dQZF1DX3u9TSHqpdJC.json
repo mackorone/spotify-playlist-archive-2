@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Chloe Saavedra. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: EMMA SEE. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -13271,6 +13271,24 @@
     },
     {
       "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
+    },
+    {
+      "album": {
         "name": "Clarence",
         "url": "https://open.spotify.com/album/6YMvucMuycOBYPK39jtztD"
       },
@@ -20994,6 +21012,24 @@
       "duration_ms": 194380,
       "name": "emotional capacity",
       "url": "https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ"
+    },
+    {
+      "album": {
+        "name": "Emotional Currency",
+        "url": "https://open.spotify.com/album/0AJmZZ3Q48msUG8qXcDe8c"
+      },
+      "artists": [
+        {
+          "name": "EMMA SEE",
+          "url": "https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151156,
+      "name": "Emotional Currency",
+      "url": "https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay"
     },
     {
       "album": {
@@ -55162,6 +55198,24 @@
       "duration_ms": 157053,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/6lOsy0eDhWIyOlLtdve1Q3"
+    },
+    {
+      "album": {
+        "name": "PLM",
+        "url": "https://open.spotify.com/album/2t6DASZWlEFjg7sxUFQHLi"
+      },
+      "artists": [
+        {
+          "name": "LALA HAYDEN",
+          "url": "https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150465,
+      "name": "PLM",
+      "url": "https://open.spotify.com/track/117MZN6QmvdeBN78rVmphq"
     },
     {
       "album": {

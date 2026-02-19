@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,550 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,608 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 20 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 |
 | 21 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 |
 | 22 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
-| 23 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 |
-| 24 | [6 foot 7 Foot \- Remix](https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [The Legacy EP King of Barcadi](https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH) | 4:50 |
+| 23 | [6 foot 7 Foot \- Remix](https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [The Legacy EP King of Barcadi](https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH) | 4:50 |
+| 24 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 |
 | 25 | [Turn Off The Lights](https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Turn Off The Lights](https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR) | 8:24 |
 | 26 | [Mang' Dakiwe \(feat\. Leon Lee\)](https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Masego](https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u) | 6:51 |
 | 27 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |

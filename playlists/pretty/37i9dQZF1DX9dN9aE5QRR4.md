@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École\. Saison 4, dispo sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,767 likes - 87 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,762 likes - 87 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plus Rien \- Nouvelle École](https://open.spotify.com/track/7dEV9FizaLdNkcMLpzY5gm) | [Shayne](https://open.spotify.com/artist/1DX6FDD9VMN2eJCmeFVbHi), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi) | 3:10 |
-| 2 | [Beldia \- Nouvelle École](https://open.spotify.com/track/36hFtMro1Re8wzonBm3YEq) | [TRZ](https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi) | 2:56 |
+| 2 | [Beldia \- Nouvelle École](https://open.spotify.com/track/36hFtMro1Re8wzonBm3YEq) | [TRZ](https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ), [SazJazzParis](https://open.spotify.com/artist/0OcenjE5Sm5xIKNLRAEFD1) | [Nouvelle École \| Saison 4 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi) | 2:56 |
 | 3 | [200 dB \- Nouvelle École](https://open.spotify.com/track/7jEFvAE6hVnbwxw86bNdDe) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi) | 2:50 |
 | 4 | [Falbala \- Booska Nouvelle École](https://open.spotify.com/track/0bF1vfrWTspAz0okwGxNmB) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| Booska P \(Série Netflix\)](https://open.spotify.com/album/7thWbCp8lGuXjANOm9ors4) | 2:19 |
 | 5 | [Me colle pas \- Booska Nouvelle École](https://open.spotify.com/track/16Mny5cvm3FRsBRcIL5JuT) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| Booska P \(Série Netflix\)](https://open.spotify.com/album/7thWbCp8lGuXjANOm9ors4) | 2:29 |

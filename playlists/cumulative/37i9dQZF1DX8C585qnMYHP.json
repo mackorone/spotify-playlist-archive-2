@@ -6241,6 +6241,54 @@
     },
     {
       "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/6TV6kDLZ8FzbgHNqCQyI2m"
+      },
+      "artists": [
+        {
+          "name": "Max Winter",
+          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
+        },
+        {
+          "name": "Asha Lorenz",
+          "url": "https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/44mRUBKLs6EOQ2CyN9Jfr7"
+        },
+        {
+          "name": "Will Lister",
+          "url": "https://open.spotify.com/artist/1odMNU4WdV8g46ku7SgfJz"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG"
+    },
+    {
+      "album": {
+        "name": "Desert So Green",
+        "url": "https://open.spotify.com/album/4OvZQgDdhbd7oQ8gkoOmir"
+      },
+      "artists": [
+        {
+          "name": "Winged Wheel",
+          "url": "https://open.spotify.com/artist/3oxlQvJbiZ8bioc2884tIn"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Canvas 2",
+      "url": "https://open.spotify.com/track/1Wsy2QdokC0GVpwBphuxRV"
+    },
+    {
+      "album": {
         "name": "Capillary Waves",
         "url": "https://open.spotify.com/album/4OFrhC2mkhCGPjT2JkACQj"
       },
@@ -9258,7 +9306,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 169775,
       "name": "Distratta",
       "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
@@ -14490,6 +14538,10 @@
         {
           "name": "Mai Mai Mai",
           "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        },
+        {
+          "name": "Maya Al Khaldi",
+          "url": "https://open.spotify.com/artist/3prfEtBarVhjO942w5f6T6"
         }
       ],
       "date_added": "2025-11-18",
@@ -15288,7 +15340,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 213160,
       "name": "Hold the Edges",
       "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
@@ -20498,7 +20550,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 188615,
       "name": "M29",
       "url": "https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR"
@@ -25520,7 +25572,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 157623,
       "name": "part of u",
       "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
@@ -26206,6 +26258,24 @@
       "duration_ms": 413408,
       "name": "PLEASE COME TO ME",
       "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+    },
+    {
+      "album": {
+        "name": "Pli\u00e9",
+        "url": "https://open.spotify.com/album/4gmpsOnSKBjikhEXiluCV7"
+      },
+      "artists": [
+        {
+          "name": "Evadney",
+          "url": "https://open.spotify.com/artist/7Kx543dKb9fKb5C2R2eYzd"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221783,
+      "name": "Pli\u00e9",
+      "url": "https://open.spotify.com/track/5nX0dAdSQ679s5wrh2Bws8"
     },
     {
       "album": {
@@ -26956,6 +27026,24 @@
       "duration_ms": 264305,
       "name": "Protect Your Magic",
       "url": "https://open.spotify.com/track/6AlOybyJ51zirf6eMLSDdC"
+    },
+    {
+      "album": {
+        "name": "Prove d'esistenza/Il gesto",
+        "url": "https://open.spotify.com/album/1Oml85X4GIo8WQNTbSNBXN"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244834,
+      "name": "Prove d'esistenza/Il gesto",
+      "url": "https://open.spotify.com/track/2pUSAvWIx9rW02g6FuR22o"
     },
     {
       "album": {
@@ -33270,7 +33358,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 166528,
       "name": "The Big E",
       "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
@@ -38052,6 +38140,24 @@
       "duration_ms": 490786,
       "name": "Walkman Pt. 1",
       "url": "https://open.spotify.com/track/62CiCqLfybeGgeSULT71fQ"
+    },
+    {
+      "album": {
+        "name": "Walrus",
+        "url": "https://open.spotify.com/album/39jSm6UmNYxMarmbxvtuMm"
+      },
+      "artists": [
+        {
+          "name": "Rosenau & Sanborn",
+          "url": "https://open.spotify.com/artist/6fSXaI61QwhurdSbBWty65"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272514,
+      "name": "Walrus",
+      "url": "https://open.spotify.com/track/2BRUjifFHb7ghFSo84F79V"
     },
     {
       "album": {

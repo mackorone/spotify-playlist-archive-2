@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -8820,7 +8820,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -9180,7 +9180,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 211240,
       "name": "\u5931\u7720",
       "url": "https://open.spotify.com/track/2vPvqW9oZVLdb4l7NXOQSp"
@@ -9314,6 +9314,24 @@
       "duration_ms": 260726,
       "name": "\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1",
       "url": "https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP"
+    },
+    {
+      "album": {
+        "name": "\u798f\u6c14\u9a6c\u4e0a\u6765",
+        "url": "https://open.spotify.com/album/0h3ehzHG5fen1hbasTutYf"
+      },
+      "artists": [
+        {
+          "name": "1119",
+          "url": "https://open.spotify.com/artist/5cKj8OK6VqHbxpsWIpfKYz"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195717,
+      "name": "\u798f\u6c14\u9a6c\u4e0a\u6765",
+      "url": "https://open.spotify.com/track/3b6RZmPmYzg2mRyfoIznYS"
     },
     {
       "album": {

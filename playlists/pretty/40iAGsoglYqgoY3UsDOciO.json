@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 620,
+  "num_followers": 622,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABjOa3k6LPIc79yGdxWKQ++O8u5tLV",
+  "snapshot_id": "AAABjc1PzoXkGBWn3KtZpUWMJKjIPP+S",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8851,6 +8851,26 @@
       "duration_ms": 182639,
       "name": "5:e November",
       "url": "https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr"
+    },
+    {
+      "added_at": "2026-02-18 05:26:46",
+      "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/7rkK0OiNoz2SDIlmp6y0bA"
+      },
+      "artists": [
+        {
+          "name": "findaway",
+          "url": "https://open.spotify.com/artist/0ODp7XLz2ZrZ9HyF0T9Dex"
+        },
+        {
+          "name": "Solvyr",
+          "url": "https://open.spotify.com/artist/6G8g5qGssjLY5scNZxozqP"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/14O8lIabKFhjaOPCV0JcGC"
     }
   ],
   "unique_name": "New Music Daily",

@@ -1,12 +1,12 @@
 {
   "description": "The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law",
-  "num_followers": 492094,
+  "num_followers": 492166,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGcCExtAz2Xj0gjTirAQ3DtNsLn",
+  "snapshot_id": "AAAAAI4Wrnvshf4LnoD2XrGwV4rkDiPi",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:36",
@@ -217,6 +217,26 @@
       "url": "https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ"
     },
     {
+      "added_at": "2026-02-18 19:24:40",
+      "album": {
+        "name": "Die Without Makeup",
+        "url": "https://open.spotify.com/album/0F0ewfGXJqK14oZ2JZnhTQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Catalan",
+          "url": "https://open.spotify.com/artist/2lm3zh84fR5TSKfSRt44N4"
+        },
+        {
+          "name": "Also Now",
+          "url": "https://open.spotify.com/artist/28IvTpsjVn7sC0piQGqQO7"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "I Want Him To Love Me",
+      "url": "https://open.spotify.com/track/7hsHgvBdh5ZRGrvXiRuH6L"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Bad Cherries",
@@ -247,6 +267,34 @@
       "duration_ms": 159187,
       "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
       "url": "https://open.spotify.com/track/5WX0xRJtM4Hyt1HQGx2sgU"
+    },
+    {
+      "added_at": "2025-12-19 05:00:37",
+      "album": {
+        "name": "alliWantforXMASisurRemix",
+        "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "dj g2g",
+          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
+        },
+        {
+          "name": "Mega Mongoliad",
+          "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
+        },
+        {
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
+      "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -425,6 +473,22 @@
       "url": "https://open.spotify.com/track/3TePjhnsBXPFpPZ7yqo0cl"
     },
     {
+      "added_at": "2026-02-18 19:24:40",
+      "album": {
+        "name": "Midnight Princess",
+        "url": "https://open.spotify.com/album/1hNFYpGOf97vcwfBf0EE6y"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Midnight Princess",
+      "url": "https://open.spotify.com/track/5KhhQHOEdUL0I8tL4917pz"
+    },
+    {
       "added_at": "2026-01-16 05:00:36",
       "album": {
         "name": "Ouroboros",
@@ -527,34 +591,6 @@
       "duration_ms": 159998,
       "name": "French Fries",
       "url": "https://open.spotify.com/track/4EJxwAyPDEmHoJr7YYoiw5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:37",
-      "album": {
-        "name": "alliWantforXMASisurRemix",
-        "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "dj g2g",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
-        },
-        {
-          "name": "Mega Mongoliad",
-          "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
-        },
-        {
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
-      "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -1037,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3VMRbEESulyIiyfYjfp8jK"
     },
     {
-      "added_at": "2025-09-19 04:00:38",
-      "album": {
-        "name": "Nisemono Smilin",
-        "url": "https://open.spotify.com/album/3jnprTN6EFTMgknqhN0PEI"
-      },
-      "artists": [
-        {
-          "name": "MANON",
-          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
-        }
-      ],
-      "duration_ms": 182243,
-      "name": "Nisemono Smilin",
-      "url": "https://open.spotify.com/track/3rDBU4noiq1rjG50MPKi9t"
-    },
-    {
       "added_at": "2025-12-05 05:00:23",
       "album": {
         "name": "MAKE IT RIGHT",
@@ -1395,22 +1415,6 @@
       "duration_ms": 171426,
       "name": "Copycats",
       "url": "https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY"
-    },
-    {
-      "added_at": "2026-01-06 19:47:29",
-      "album": {
-        "name": "precum",
-        "url": "https://open.spotify.com/album/7fGPEebaGe089Cru10K8R2"
-      },
-      "artists": [
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "MENLO PARK",
-      "url": "https://open.spotify.com/track/6qv2WVoQinvnmx0Bkoz3hz"
     },
     {
       "added_at": "2026-01-06 19:47:29",

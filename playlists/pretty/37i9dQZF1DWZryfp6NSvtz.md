@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: DON BROCO & Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,629 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,670 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 91 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 |
 | 92 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 |
 | 93 | [Dandelion](https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Corporate Pudding](https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6) | 3:14 |
-| 94 | [Streets of Minneapolis \- Bob Clearmountain Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Bob Clearmountain Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
+| 94 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
 | 95 | [Animation](https://open.spotify.com/track/5LuKJcBBm1jYR9uPmIHFXD) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Animation](https://open.spotify.com/album/0WErc9upAUe6MiNz0Df4hr) | 4:58 |
 | 96 | [Coal Dust](https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Coal Dust](https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z) | 3:27 |
 | 97 | [Slow Burn](https://open.spotify.com/track/1l99r6e1DH1aWIucAhufR9) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Slow Burn](https://open.spotify.com/album/4X320ZFY9R8LqbbpM5ukbH) | 2:14 |

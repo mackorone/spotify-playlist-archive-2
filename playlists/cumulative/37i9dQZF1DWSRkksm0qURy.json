@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 167079,
       "name": "417 Hz - Dimensions",
       "url": "https://open.spotify.com/track/0IzqpKNPqDPYoDGFL9pyX6"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 193845,
       "name": "417 Hz - Escape Gravity",
       "url": "https://open.spotify.com/track/2leyc1nMYhsuxOpJQzMguZ"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "417 Hz Luminescence",
+        "url": "https://open.spotify.com/album/4No72tGYsgPCnYwBddFDTx"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161015,
+      "name": "417 Hz Luminescence",
+      "url": "https://open.spotify.com/track/4HWHy5B1PgT1VGclUUl6Tx"
+    },
+    {
+      "album": {
         "name": "417 Hz Natural Capacity",
         "url": "https://open.spotify.com/album/2fMADapRhw2fISW3VHkrVv"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 171596,
       "name": "417 Hz Reflection",
       "url": "https://open.spotify.com/track/7sTCaTsYVLADWpsIYdqgzY"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 156124,
       "name": "417 Hz Solfeggio",
       "url": "https://open.spotify.com/track/08Zmt06jnhqOL4vmdKkESb"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 192611,
       "name": "417 Hz Unity Healing",
       "url": "https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo"
@@ -1234,6 +1252,24 @@
       "duration_ms": 186760,
       "name": "Adieu au Printemps",
       "url": "https://open.spotify.com/track/3CyaR8o8mYRfgkqpzcATh7"
+    },
+    {
+      "album": {
+        "name": "Aligned (417 Hz)",
+        "url": "https://open.spotify.com/album/17nHN1ABuUnCGA0agq2J87"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "Aligned (417 Hz)",
+      "url": "https://open.spotify.com/track/7hpNp45mwDDQ8jZj2xBwOf"
     },
     {
       "album": {

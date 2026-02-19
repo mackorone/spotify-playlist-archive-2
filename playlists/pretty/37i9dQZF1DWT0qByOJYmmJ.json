@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 630508,
+  "num_followers": 630497,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Despu\u00e9s de la tormenta",
-        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
-      },
-      "artists": [
-        {
-          "name": "Bryan Kaarl",
-          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "Despu\u00e9s de la tormenta",
-      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+        "name": "Despu\u00e9s de la tormenta",
+        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Bryan Kaarl",
+          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
         }
       ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+      "duration_ms": 166086,
+      "name": "Despu\u00e9s de la tormenta",
+      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1099,6 +1083,22 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-07-11 01:38:58",

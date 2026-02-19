@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-268 songs - 17 hr 49 min
+269 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 | 2023-08-07 |  |
 | [Aagi Aagi](https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Ee Nagaraniki Emaindi](https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC) | 6:48 | 2025-12-16 |  |
 | [Aanandam Madike](https://open.spotify.com/track/3AqiOvi0fx0LsYlqPswUf8) | [Sid Sriram, Satya Yamini](https://open.spotify.com/artist/5R6Apw6QgECTJDP8RqWm3n) | [Ishq \- Not A Love Story](https://open.spotify.com/album/4S1FWZaXzEt3MXbzChYDkR) | 3:38 | 2021-12-16 | 2022-07-25 |
+| [Adedo Maayalley](https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz) | [Tracey Thorton](https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Yuddham Sharanam](https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY) | 2:50 | 2025-12-16 |  |
 | [Adi Enti Okkasari \- Nee La Yevaru](https://open.spotify.com/track/7esPEp6q2JX1VVGJTCPvrM) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Swamy Ra Ra](https://open.spotify.com/album/31XfzRQH2YzeZC8ylpzH9q) | 4:47 | 2023-08-07 | 2025-12-03 |
 | [Adiga Adiga](https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 3:29 | 2023-08-07 |  |
 | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/track/1xTxKdIpD2QDTBAMvBNr7J) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Shivam Mahadevan](https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl) | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/album/1o06U1v1fjOYGWWCA0sSvn) | 4:44 | 2021-12-16 | 2022-07-25 |
@@ -88,7 +89,7 @@
 | [Evare](https://open.spotify.com/track/1iFaQCrMLiIc234y7LNaNo) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4B0MGXH5G32jELeP9CD9FW) | 5:09 | 2021-12-16 | 2022-07-25 |
 | [Full Kick](https://open.spotify.com/track/5uWWbI8ovzoaBO8cRifcvN) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Khiladi](https://open.spotify.com/album/2y2BxZpdYUhU3K9wMslvuM) | 3:53 | 2022-01-30 | 2022-07-25 |
 | [Gaaju Bomma](https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 4:26 | 2023-12-15 |  |
-| [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 | 2022-07-24 |  |
+| [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 | 2022-07-24 | 2026-02-19 |
 | [Gangu Leader](https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 3:18 | 2021-12-16 | 2022-07-25 |
 | [Gira Gira Gingiraagirey \(From "Champion"\)](https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gira Gira Gingiraagirey \(From "Champion"\)](https://open.spotify.com/album/4aghM7mCHKIo0kAyOvKBiD) | 4:43 | 2025-12-23 |  |
 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 | 2023-08-07 |  |

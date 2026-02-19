@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
-1,316 songs - 2 day 12 hr 37 min
+1,316 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [LNB Cypher](https://open.spotify.com/track/6UwDLc0EQXl8OTiO5L1qIg) | [Legal nerd boyz](https://open.spotify.com/artist/25ggylVPSvLtgpAZK66OVn) | [Excuse me!Hello!](https://open.spotify.com/album/3lK05MegXSCvV6t6pD3jKO) | 2:58 | 2025-11-18 | 2026-01-15 |
 | [LOGIN](https://open.spotify.com/track/1yfQWWmSfblzuz1IbZSNVc) | [TIVE](https://open.spotify.com/artist/076ugb3nsE17KdWkyFjDJI) | [LOGIN](https://open.spotify.com/album/2KnZ99EnxaWm3lKVT0m9fo) | 2:42 | 2026-02-03 | 2026-02-11 |
 | [lol \(feat\. Lilniina\)](https://open.spotify.com/track/3F6mOaCawUpIbRHYff4bn8) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw) | [Pretty Machine Gun](https://open.spotify.com/album/6fFHUG7vyvwYnUIsiBdZuW) | 2:41 | 2025-04-30 | 2025-08-13 |
+| [London](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [Goodbye Sad Boy](https://open.spotify.com/album/7uaI9vopFG1RTVZQUbM1GR) | 2:17 | 2026-02-17 |  |
 | [Loneliness Notes](https://open.spotify.com/track/6nTyOvaiJEHihfYioQBkH5) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic) | [Self\-Assertive](https://open.spotify.com/album/0of1qpeFOd3nrz0eVOYPB4) | 1:49 | 2024-03-26 | 2024-04-17 |
 | [LoneLy](https://open.spotify.com/track/2qPcK428GqG7NWOumD6Bkm) | [leftlenz](https://open.spotify.com/artist/0OILbwBPeqCQZblcm6GAvT), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [LoneLy](https://open.spotify.com/album/6VMwC26ZPqfL0spKRST7pS) | 2:57 | 2024-05-15 | 2024-06-12 |
 | [Lonely Child \(feat\. Carz\)](https://open.spotify.com/track/4O3RAIPl2v9OuaDApbEsB0) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [No Limit](https://open.spotify.com/album/5Q4FSNAYE3Wr6y0cKb7H07) | 3:22 | 2025-02-25 | 2025-06-18 |
@@ -1102,7 +1103,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-07-02 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/3bzNyRYOpJ6Zd4YjNUbKD6) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/3jHu4B1ZRpP6nJk8L9UINy) | 2:37 | 2025-09-23 | 2026-01-15 |
 | [TOYOTA CAROLLA](https://open.spotify.com/track/1BZ7SR2PchuoUPfP4pP3px) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TOYOTA CAROLLA](https://open.spotify.com/album/69hNAvQ8asBkrJMjGDggDD) | 2:19 | 2023-12-14 | 2024-01-26 |
-| [Track 1](https://open.spotify.com/track/3pCNRkUXYIaHvQJkkV9kbJ) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [Training Week](https://open.spotify.com/track/5OI3bV8Nv87yJp7iXLO6HP) | [IKE](https://open.spotify.com/artist/2jABWw2VBAvwYyWSLxjUcX), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc) | [Amygdala](https://open.spotify.com/album/03ltiNKy7ZpCbiCw6cruz5) | 3:38 | 2026-01-13 |  |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 | 2026-02-11 |
 | [Trash box](https://open.spotify.com/track/4Yo002a3P6dihTxC33kzj6) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA), [Zefar](https://open.spotify.com/artist/2n3WpDgynO7voSmN1WpoKr), [Zzz音](https://open.spotify.com/artist/2g02iSKUPzS5aKII3bJDXY) | [Trash box](https://open.spotify.com/album/1UoPp3MYqrQPQ0fPtAOVoO) | 2:50 | 2024-05-08 | 2024-06-19 |

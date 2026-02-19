@@ -8384,7 +8384,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 204704,
       "name": "Salsa Verde",
       "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
@@ -10838,6 +10838,28 @@
       "duration_ms": 179684,
       "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
       "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
+    },
+    {
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/6gIzsuG2eCEgOIe8Ztg9iv"
+      },
+      "artists": [
+        {
+          "name": "The S.E.T.",
+          "url": "https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK"
+        },
+        {
+          "name": "Gut Instinct",
+          "url": "https://open.spotify.com/artist/63L8S5HqlKxXfksqPu3vtF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127729,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/015NtR2Ju1QInVARP0sKST"
     },
     {
       "album": {

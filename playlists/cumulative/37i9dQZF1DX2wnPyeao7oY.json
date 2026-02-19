@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: paradise fell.",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Showing Teeth",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -2935,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "Death Crown",
+        "url": "https://open.spotify.com/album/3fHUzfvi2IcilNWF8EJrK1"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Death Crown",
+      "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
+    },
+    {
+      "album": {
         "name": "DEATH DANCE",
         "url": "https://open.spotify.com/album/4yR9GF0dN4lDlGcz6iz3b4"
       },
@@ -5205,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "GIMP",
+        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
+      },
+      "artists": [
+        {
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240568,
+      "name": "GIMP",
+      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
+    },
+    {
+      "album": {
         "name": "Glamour",
         "url": "https://open.spotify.com/album/2H2TiL6maqA2ijNWS5aT3x"
       },
@@ -6184,7 +6220,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 168333,
       "name": "I DON'T CARE IF I MISS A THING",
       "url": "https://open.spotify.com/track/5mMuqKmFY0VrSciYPdw6a4"
@@ -6686,7 +6722,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 206564,
       "name": "Intimate Torment",
       "url": "https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l"
@@ -7388,7 +7424,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 208000,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/5vDryyLZSHbEfoteRCOq91"
@@ -8288,7 +8324,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 154941,
       "name": "MY OWN RAVE - METAL VERSION",
       "url": "https://open.spotify.com/track/5NlZyIpRetUB8NOSC9hTZx"
@@ -9511,6 +9547,24 @@
     },
     {
       "album": {
+        "name": "poison",
+        "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
+      },
+      "artists": [
+        {
+          "name": "Houses We Die In",
+          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245451,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
+    },
+    {
+      "album": {
         "name": "Poisoned Apple",
         "url": "https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT"
       },
@@ -10048,10 +10102,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 143934,
       "name": "Rigged Survival",
       "url": "https://open.spotify.com/track/7EvCln0ttf3Jyjw8fuLvqr"
+    },
+    {
+      "album": {
+        "name": "Rip",
+        "url": "https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192966,
+      "name": "Rip",
+      "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
     },
     {
       "album": {
@@ -10666,7 +10738,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 174986,
       "name": "Shovelhead",
       "url": "https://open.spotify.com/track/4mK5BKOVvsoJTu2vYWceOI"
@@ -11532,6 +11604,24 @@
       "duration_ms": 438333,
       "name": "Sun Seeker",
       "url": "https://open.spotify.com/track/7CZGg2Vqmxm5NbcM5qBLzG"
+    },
+    {
+      "album": {
+        "name": "SUPERSONIC",
+        "url": "https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7"
+      },
+      "artists": [
+        {
+          "name": "SOULSLEEP",
+          "url": "https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191801,
+      "name": "SUPERSONIC",
+      "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
     },
     {
       "album": {
@@ -12514,6 +12604,24 @@
       "duration_ms": 199315,
       "name": "THIS POISON",
       "url": "https://open.spotify.com/track/2auwcdNj8Qm7PaEHeIaF9C"
+    },
+    {
+      "album": {
+        "name": "thorns",
+        "url": "https://open.spotify.com/album/6E9bGJTOPluesJSdZDrSHO"
+      },
+      "artists": [
+        {
+          "name": "Dead Butterflies",
+          "url": "https://open.spotify.com/artist/5WO18L6Q3DbrDR5fJCxGtJ"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "thorns",
+      "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
     },
     {
       "album": {

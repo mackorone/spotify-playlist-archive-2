@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 576857,
+  "num_followers": 576992,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Gnosis",
+        "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Gnosis",
+      "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "S\u00c1LA",
         "url": "https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 407293,
       "name": "S\u00c1LA",
       "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Gnosis",
-        "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
-      },
-      "artists": [
-        {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Gnosis",
-      "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Huginn ok Muninn",
-        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
-      },
-      "artists": [
-        {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
-        }
-      ],
-      "duration_ms": 313469,
-      "name": "Huginn ok Muninn",
-      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 279147,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Huginn ok Muninn",
+        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
+      },
+      "artists": [
+        {
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+        }
+      ],
+      "duration_ms": 313469,
+      "name": "Huginn ok Muninn",
+      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Volch'ya Yagoda",
-        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+        "name": "Breaking from the Fold",
+        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
       },
       "artists": [
         {
-          "name": "Theodor Bastard",
-          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+          "name": "Triddana",
+          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
         }
       ],
-      "duration_ms": 249370,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
+      "duration_ms": 242000,
+      "name": "Breaking from the Fold",
+      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Sunir",
         "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Breaking from the Fold",
-        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
-      },
-      "artists": [
-        {
-          "name": "Triddana",
-          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Breaking from the Fold",
-      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Fa\u00feir",
-        "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
-      },
-      "artists": [
-        {
-          "name": "Forndom",
-          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Hemkomst",
-      "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Snake Pit Poetry",
         "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Fa\u00feir",
+        "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
+      },
+      "artists": [
+        {
+          "name": "Forndom",
+          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Hemkomst",
+      "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
     },
     {
       "added_at": "2025-11-14 04:00:17",

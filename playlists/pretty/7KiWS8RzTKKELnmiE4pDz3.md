@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 387 songs - 23 hr 46 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 393 songs - 1 day 0 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,5 +395,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 385 | [Let's Get Blown](https://open.spotify.com/track/0NdxbFFknA7kQ4E2zvJfey) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:40 |
 | 386 | [Radiation \(Lung Pollution\) \[feat.Supasortahuman\]](https://open.spotify.com/track/5Y0yhS2iHkuy7ydvYjOAqb) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA), [SupaSortahuman](https://open.spotify.com/artist/6uMMFLixszJ0OtMCs5Zjq4) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 4:31 |
 | 387 | [Cup Fulla Beetlejuice](https://open.spotify.com/track/1LtUQEcqGcoRRBT4XCpNM6) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:30 |
+| 388 | [BagBak](https://open.spotify.com/track/5POEFQCKtD0QxYLfZ2kqEx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 2:40 |
+| 389 | [On My Own](https://open.spotify.com/track/6X1sfyqnZXzSt5NtVjwJUw) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Reel](https://open.spotify.com/artist/5Y0zpkY5cCBmDrurKbyaBk) | [Tha Carter](https://open.spotify.com/album/3G63CfLqzWvBfZboycpyx5) | 4:28 |
+| 390 | [Perfectionist \(feat\. Rick Ross, Meek Mill\)](https://open.spotify.com/track/6iCGZvNJd41ARhpj257dhx) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Cutting Room Floor 3](https://open.spotify.com/album/2uvOKUc5ULR5X1PKGtduI4) | 2:48 |
+| 391 | [Barz Simpson](https://open.spotify.com/track/3h7aoPHmsUadRWUK0wsic4) | [Sonnyjim](https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4), [The Purist](https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [White Girl Wasted](https://open.spotify.com/album/3weidlEL5a8ilYDyJpTkFl) | 3:34 |
+| 392 | [Gotta Be Me](https://open.spotify.com/track/2I21yEGZVgZ6Is1XSntPOP) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Gotta Be Me \(Special Edition\)](https://open.spotify.com/album/5ilrCyRAcfGMRedLGlDKkZ) | 4:12 |
+| 393 | [No Need to Call](https://open.spotify.com/track/2tCMFrDPnvJm4ltUtV2Qr3) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Gotta Be Me / All Eyez on Us \(2 For 1: Special Edition\)](https://open.spotify.com/album/08KRnWezGf0vRQ52d8ZcoP) | 3:40 |
 
-Snapshot ID: `AAAfvKxjP764rAEmrdGXCEZhiphbZgF0`
+Snapshot ID: `AAAfwooMMr49YmmKJUMHLwHzzygk5z1b`

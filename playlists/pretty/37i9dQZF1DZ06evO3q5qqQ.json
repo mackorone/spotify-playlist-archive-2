@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117337,
+  "num_followers": 117341,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAA7qlpQWnMbCFTm+FSHDROQ",
+  "snapshot_id": "aZOvgAAAAADU3LOvafnvNK3JtPIBdTBP",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Nueva Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
+      },
+      "artists": [
+        {
+          "name": "Somos 3",
+          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Mi Nueva Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Nueva Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
-      },
-      "artists": [
-        {
-          "name": "Somos 3",
-          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Mi Nueva Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor No Es Para Todos",
         "url": "https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,

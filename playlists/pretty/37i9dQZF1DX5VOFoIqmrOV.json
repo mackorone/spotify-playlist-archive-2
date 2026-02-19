@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 450231,
+  "num_followers": 450292,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
+    },
+    {
       "added_at": "2023-02-10 09:20:04",
       "album": {
         "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
@@ -659,22 +675,6 @@
       "duration_ms": 213242,
       "name": "Almost Padipoyindhe Pilla",
       "url": "https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1577,20 +1577,28 @@
       "url": "https://open.spotify.com/track/1E0uPi2rjMgcZ3ayODv6DX"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2025-12-16 12:04:49",
       "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
+        "name": "Yuddham Sharanam",
+        "url": "https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Tracey Thorton",
+          "url": "https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
         }
       ],
-      "duration_ms": 258333,
-      "name": "Gaali Vaaluga",
-      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
+      "duration_ms": 170132,
+      "name": "Adedo Maayalley",
+      "url": "https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz"
     },
     {
       "added_at": "2023-01-11 20:52:12",

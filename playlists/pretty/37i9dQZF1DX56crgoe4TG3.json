@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284013,
+  "num_followers": 284015,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+        "name": "(Don't Fear) The Reaper",
+        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
         }
       ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+      "duration_ms": 281600,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "(Don't Fear) The Reaper",
-        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
       },
       "artists": [
         {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 281600,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "No Rain",
+        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 203810,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -783,38 +799,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "No Rain",
-        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 203810,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -943,22 +943,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Yellow Ledbetter",
-        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
+        "name": "Humming House Party! (Live)",
+        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
       },
       "artists": [
         {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
         }
       ],
-      "duration_ms": 245120,
-      "name": "Yellow Ledbetter",
-      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+      "duration_ms": 278854,
+      "name": "My Love (Live)",
+      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -979,18 +975,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Humming House Party! (Live)",
-        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
+        "name": "Yellow Ledbetter",
+        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
       "artists": [
         {
-          "name": "Humming House",
-          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
         }
       ],
-      "duration_ms": 278854,
-      "name": "My Love (Live)",
-      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
+      "duration_ms": 245120,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 433563,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Me and Bobby McGee (2024 Mix)",
-        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
-      },
-      "artists": [
-        {
-          "name": "Tompall & The Glaser Brothers",
-          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
-        }
-      ],
-      "duration_ms": 396516,
-      "name": "Me and Bobby McGee (2024 Mix)",
-      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fire and Rain",
         "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213366,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Me and Bobby McGee (2024 Mix)",
+        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
+      },
+      "artists": [
+        {
+          "name": "Tompall & The Glaser Brothers",
+          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+        }
+      ],
+      "duration_ms": 396516,
+      "name": "Me and Bobby McGee (2024 Mix)",
+      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
-      },
-      "artists": [
-        {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+      },
+      "artists": [
+        {
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Break on Through (To the Other Side)",
         "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1535,22 +1551,6 @@
       "duration_ms": 173279,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Late Night Talking",
         "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 195936,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",

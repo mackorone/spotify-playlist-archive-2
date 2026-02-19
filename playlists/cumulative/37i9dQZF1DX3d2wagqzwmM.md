@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-666 songs - 1 day 9 hr 49 min
+667 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Lights Up \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Lights Up \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp) | 3:10 | 2024-06-06 | 2024-09-20 |
 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 | 2023-06-22 | 2024-09-20 |
 | [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 | 2025-05-08 |  |
+| [Logical Song](https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [BFOUR](https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97) | [Logical Song](https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso) | 3:10 | 2026-02-12 |  |
 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 | 2023-11-02 | 2025-03-07 |
 | [Lose Control](https://open.spotify.com/track/1Kj529cwvMXGCjvMPXwWo4) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [Lose Control](https://open.spotify.com/album/0Q67tqRAV26t8SQa8JvecP) | 2:16 | 2022-12-27 | 2023-01-03 |
 | [Lose It](https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Lose It](https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj) | 2:43 | 2022-09-08 | 2023-12-01 |
@@ -626,7 +627,7 @@
 | [Turn Up The Bass](https://open.spotify.com/track/16mgFU72kDK6o1bGzqitT6) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8) | [Turn Up The Bass](https://open.spotify.com/album/73kBhQxq0aheDZjj4xOUkl) | 3:13 | 2022-04-14 | 2022-05-06 |
 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-02-16 | 2023-03-14 |
 | [Ultimate Seduction](https://open.spotify.com/track/4SvUSuY1PbkN2OqZvAUwlT) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Ultimate Seduction](https://open.spotify.com/album/0v8ywYmB4gWZP050EaCTk8) | 2:35 | 2024-04-18 | 2024-04-26 |
-| [Underground](https://open.spotify.com/track/3t5k1zm08l9jBblDG5H8fR) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [Underground](https://open.spotify.com/album/7y01i6RbfrA6UdeYQEjZQ3) | 2:33 | 2026-01-30 |  |
+| [Underground](https://open.spotify.com/track/3t5k1zm08l9jBblDG5H8fR) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [Underground](https://open.spotify.com/album/7y01i6RbfrA6UdeYQEjZQ3) | 2:33 | 2026-01-30 | 2026-02-19 |
 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 | 2026-01-12 |  |
 | [Unforgettable](https://open.spotify.com/track/1RzpRGOArORD0iwIVLwJQo) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Unforgettable](https://open.spotify.com/album/2RvelusFjACbKKX6Xh9qEN) | 3:37 | 2023-10-12 | 2024-02-11 |
 | [Unity](https://open.spotify.com/track/3D6j3Bh134C02qhpZR9xUK) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Unity](https://open.spotify.com/album/0hiRGL9Oz3HgfKsLejwpCL) | 3:16 | 2022-04-14 | 2022-07-05 |

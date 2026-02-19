@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 170669,
       "name": "(Don\u2019t) Trust A Cowboy",
       "url": "https://open.spotify.com/track/1MpSeshKhaZnnzHPLRu9xs"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 156533,
       "name": "Back In The Saddle",
       "url": "https://open.spotify.com/track/75dYoYK2yHYQBEkZ2h5iDq"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 188000,
       "name": "Back on My Bullshit",
       "url": "https://open.spotify.com/track/4p5C994GAFsUFGMcFCDAqI"
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 172704,
       "name": "Behind These Eyes",
       "url": "https://open.spotify.com/track/7u379za0PbB01OYoW99y0n"
@@ -9828,7 +9828,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 211419,
       "name": "Change The Man",
       "url": "https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N"
@@ -9882,7 +9882,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 166906,
       "name": "Chasin' Headlights",
       "url": "https://open.spotify.com/track/3jbnzX85uX3u2fQUjeSQ4P"
@@ -10134,7 +10134,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 185280,
       "name": "Chisholm Trail Nightingales",
       "url": "https://open.spotify.com/track/4dKeeWCqhsyzMz6upZA0To"
@@ -12090,7 +12090,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 189333,
       "name": "Cracks In The Couch",
       "url": "https://open.spotify.com/track/0RG6REnx2NQOheIYmMpEmR"
@@ -16599,6 +16599,24 @@
     },
     {
       "album": {
+        "name": "Easy on the Eyes",
+        "url": "https://open.spotify.com/album/5oBA9Is5SDoUi3SGAErfxZ"
+      },
+      "artists": [
+        {
+          "name": "Madison Parks",
+          "url": "https://open.spotify.com/artist/1iAz4Dk2zcinQMqtLaHPRT"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/1faG1H39yrek0tm1j3wslk"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/12FT5T8YZBZpU69V5c0yVZ"
       },
@@ -17470,6 +17488,24 @@
       "duration_ms": 210653,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/301ZIYAazuDrj6NrZWfjuK"
+    },
+    {
+      "album": {
+        "name": "Eyes on Me",
+        "url": "https://open.spotify.com/album/0ne0krA76CBbmgRAYdvKQX"
+      },
+      "artists": [
+        {
+          "name": "Jenna LaMaster",
+          "url": "https://open.spotify.com/artist/1oaLEYuxR9MWqthwI6Qm0E"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201157,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/67stqGjKPm9JWq9ca5KlP2"
     },
     {
       "album": {
@@ -19186,6 +19222,24 @@
       "duration_ms": 220556,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3I1FO9YP570RUQEqjbG4ZY"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7C6w4PB4Gm2SUcPMxu7nAP"
+      },
+      "artists": [
+        {
+          "name": "Steven James",
+          "url": "https://open.spotify.com/artist/2GiFp07tRKO0O7e1b3rGZm"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196107,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0dcyHtBwKZGSkaIraDzrVD"
     },
     {
       "album": {
@@ -24788,7 +24842,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 219870,
       "name": "Hey Radio",
       "url": "https://open.spotify.com/track/4F4i2GymZHHpmZk5MrSQqK"
@@ -28989,6 +29043,24 @@
     },
     {
       "album": {
+        "name": "If It Ain't Ours",
+        "url": "https://open.spotify.com/album/4dkjRVNn5yjATiIHI0WKzv"
+      },
+      "artists": [
+        {
+          "name": "Hudson Macready",
+          "url": "https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204622,
+      "name": "If It Ain't Ours",
+      "url": "https://open.spotify.com/track/2SpzGCL80I7QjfG2biFU6T"
+    },
+    {
+      "album": {
         "name": "If It Weren't For Me",
         "url": "https://open.spotify.com/album/5Sd1M9478KQ2lgyb0CEHKE"
       },
@@ -32908,7 +32980,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 170066,
       "name": "Lethal",
       "url": "https://open.spotify.com/track/7k0n8cQ0XUxDU5209qcE07"
@@ -33964,7 +34036,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195064,
       "name": "Little Brother",
       "url": "https://open.spotify.com/track/4T9qACJ9Xs5dHikgCU1PHM"
@@ -34000,7 +34072,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 209375,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/5ZWayyXEDiSrYy6fD9qYDd"
@@ -35091,6 +35163,24 @@
     },
     {
       "album": {
+        "name": "Laced",
+        "url": "https://open.spotify.com/album/5cqdChS57O9bKrM4gaVBvd"
+      },
+      "artists": [
+        {
+          "name": "Morgan Myles",
+          "url": "https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Love is Lonesome",
+      "url": "https://open.spotify.com/track/6qv15R6x9rDmJzYyTtxlTg"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/00L0rB6w7gS8nLvDesRUca"
       },
@@ -35884,7 +35974,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 202121,
       "name": "Lullabies",
       "url": "https://open.spotify.com/track/6rQFnrxTOCGmcrFm9SOOO5"
@@ -36648,7 +36738,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 144711,
       "name": "Man For That",
       "url": "https://open.spotify.com/track/7F8CYhIuqSkCs87N7llcL3"
@@ -39606,7 +39696,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 215952,
       "name": "New Her",
       "url": "https://open.spotify.com/track/17rabOgYevEPt1Lwcm4mpK"
@@ -41292,7 +41382,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 189403,
       "name": "On Again",
       "url": "https://open.spotify.com/track/1wZc4TSFxZzbtUIOlxFkUL"
@@ -45112,7 +45202,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 196472,
       "name": "Resolutions",
       "url": "https://open.spotify.com/track/0GRaPcqkMR3KDx4uwwGDuH"
@@ -45632,7 +45722,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 199259,
       "name": "Ring On Red",
       "url": "https://open.spotify.com/track/3fOCmSKBr9b3LhaeMKPEyu"
@@ -46446,7 +46536,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 205362,
       "name": "Ryan's Song",
       "url": "https://open.spotify.com/track/0AaB2p366Onw4gFMnu6E9a"
@@ -46612,6 +46702,24 @@
       "duration_ms": 199500,
       "name": "Safe",
       "url": "https://open.spotify.com/track/7Hzfq1oa2I3fACCSIP4SMN"
+    },
+    {
+      "album": {
+        "name": "Salt Mine",
+        "url": "https://open.spotify.com/album/2kBinR1vPdW1nSdz3BxUE7"
+      },
+      "artists": [
+        {
+          "name": "Ava Claire",
+          "url": "https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Salt Mine",
+      "url": "https://open.spotify.com/track/4QN9pZ6BP2ZGqopThNInM8"
     },
     {
       "album": {
@@ -48150,7 +48258,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 179871,
       "name": "She's Nobody",
       "url": "https://open.spotify.com/track/3AyHdFLRlMsOSUepgVMsY2"
@@ -49680,7 +49788,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 165136,
       "name": "So Damn Free",
       "url": "https://open.spotify.com/track/6GXpjxQEUvwlPmlSoZLwBP"
@@ -51020,7 +51128,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 204067,
       "name": "Somewhere Down the Road",
       "url": "https://open.spotify.com/track/2AORKvVk5hftWMmUMUVKbq"
@@ -51398,7 +51506,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 182460,
       "name": "Sounds Like You",
       "url": "https://open.spotify.com/track/2YKPF5bYavtl4dIrIIPYIx"
@@ -53668,7 +53776,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 179292,
       "name": "Tear Down This Town",
       "url": "https://open.spotify.com/track/1HHLQd1gSF8HOXgGCqrnga"
@@ -58162,7 +58270,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195741,
       "name": "Tulsa County Jail",
       "url": "https://open.spotify.com/track/6zg79P7CacwKjQBgCdFzTU"
@@ -59517,6 +59625,24 @@
     },
     {
       "album": {
+        "name": "WASTE OF WHISKEY",
+        "url": "https://open.spotify.com/album/13eymnp3pP48dk3KUtNAF9"
+      },
+      "artists": [
+        {
+          "name": "Ashley Walls",
+          "url": "https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149638,
+      "name": "WASTE OF WHISKEY",
+      "url": "https://open.spotify.com/track/41qy6YBmbsVvWyOHqLCqnd"
+    },
+    {
+      "album": {
         "name": "WASTED",
         "url": "https://open.spotify.com/album/2g35iku7j2Yu1svIsoomcb"
       },
@@ -60778,7 +60904,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 196066,
       "name": "When a Good Thing Ends",
       "url": "https://open.spotify.com/track/1bDJE00KK1MpbKG0GtCNLu"

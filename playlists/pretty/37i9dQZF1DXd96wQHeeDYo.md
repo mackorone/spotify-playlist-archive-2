@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,526 likes - 90 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,547 likes - 90 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 84 | [Xixona](https://open.spotify.com/track/4Z745Ni8V34MPSoUQmxd5A) | [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Matiah Eme](https://open.spotify.com/artist/5U1tNDPU1NKy40UhXvoDW7) | [Xixona](https://open.spotify.com/album/5CKhLsPQgJ8yeRo2otdisk) | 2:55 |
 | 85 | [PISTOLA <3](https://open.spotify.com/track/1Qi4CWLHDZKLlXCRrmRqU6) | [BABY G](https://open.spotify.com/artist/3qPlK6yG28alRixQoOrs97), [dgabanna](https://open.spotify.com/artist/5iId0Sj2rTgSCSLAsLUQ3e) | [PISTOLA <3](https://open.spotify.com/album/65syWW9nEfN29xYxUO5h9c) | 2:34 |
 | 86 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 |
-| 87 | [PANAMERA \(feat\. Djay W\)](https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY) | [Chiko Alfa](https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [PANAMERA \(feat\. Djay W\)](https://open.spotify.com/album/5hzMoEOPyyLQXUvwr2VGNQ) | 3:28 |
+| 87 | [PANAMERA \(feat\. Djay W\)](https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY) | [Chiko Alfa](https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Giuliano Yankees](https://open.spotify.com/artist/6VdKWqDRPlHKELlhQbTfqG), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [PANAMERA \(feat\. Djay W\)](https://open.spotify.com/album/5hzMoEOPyyLQXUvwr2VGNQ) | 3:28 |
 | 88 | [Pensando en Ella](https://open.spotify.com/track/141z18D2hN8EjZ00CuFOXE) | [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Miche23](https://open.spotify.com/artist/1TdQ5X356X4kK2tIreWZrB), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy), [TRATTO DE LA CALLE](https://open.spotify.com/artist/1fJmhlwwsRZfAgkahD5I73) | [Pensando en Ella](https://open.spotify.com/album/7wF9rCHXV0wkxoKHODkKHj) | 2:57 |
 | 89 | [TAMOS BIEN](https://open.spotify.com/track/0K9Du7JDq9Zos8HTxncK3l) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [TAMOS BIEN](https://open.spotify.com/album/1nYbETHXSPTnbDATB1sDzZ) | 2:32 |
 | 90 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |

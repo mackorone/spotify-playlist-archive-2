@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 373840,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx"
@@ -1632,10 +1632,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 456906,
       "name": "Johnny Come Lately",
       "url": "https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR"
+    },
+    {
+      "album": {
+        "name": "Lush Life: The Music of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389493,
+      "name": "Johnny Come Lately",
+      "url": "https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3"
     },
     {
       "album": {

@@ -34159,6 +34159,28 @@
     },
     {
       "album": {
+        "name": "Pa' No Llorar",
+        "url": "https://open.spotify.com/album/2IaFEtCmiVJRh9XqDfWwu0"
+      },
+      "artists": [
+        {
+          "name": "Tutu",
+          "url": "https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W"
+        },
+        {
+          "name": "Jlexis",
+          "url": "https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Pa' No Llorar",
+      "url": "https://open.spotify.com/track/2oYWQCDw7z9M26LEy25wiy"
+    },
+    {
+      "album": {
         "name": "Pa' Que Afinken",
         "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
       },

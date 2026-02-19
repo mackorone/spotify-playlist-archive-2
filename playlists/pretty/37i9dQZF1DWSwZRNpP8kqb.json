@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 32391,
+  "num_followers": 32393,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Por el Contrario",
-        "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
-      },
-      "artists": [
-        {
-          "name": "Carlita Celeste",
-          "url": "https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6"
-        }
-      ],
-      "duration_ms": 227434,
-      "name": "Por el Contrario",
-      "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Mujer de Albahaca",
         "url": "https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 151482,
       "name": "Los Amanecidos",
       "url": "https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Por el Contrario",
+        "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
+      },
+      "artists": [
+        {
+          "name": "Carlita Celeste",
+          "url": "https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6"
+        }
+      ],
+      "duration_ms": 227434,
+      "name": "Por el Contrario",
+      "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Roble 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
-      },
-      "artists": [
-        {
-          "name": "Mery Murua",
-          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
-        }
-      ],
-      "duration_ms": 299978,
-      "name": "Zamba azul",
-      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Remedio Pal Alma",
         "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Roble 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
+      },
+      "artists": [
+        {
+          "name": "Mery Murua",
+          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
+        }
+      ],
+      "duration_ms": 299978,
+      "name": "Zamba azul",
+      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 169500,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
+      },
+      "artists": [
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Florcita de Card\u00f3n",
+      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -599,26 +619,6 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
-      },
-      "artists": [
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "Florcita de Card\u00f3n",
-      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 286627,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Memoria del Viento",
         "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+        "name": "Pasaje al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
       },
       "artists": [
         {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+          "name": "Claudia Pir\u00e1n",
+          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
         }
       ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+      "duration_ms": 211040,
+      "name": "Volver\u00e8 Siempre a San Juan",
+      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -919,6 +903,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Luz del Aire",
         "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 211200,
       "name": "Viene Clareando",
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
-        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
-      },
-      "artists": [
-        {
-          "name": "Anabella Zoch",
-          "url": "https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v"
-        }
-      ],
-      "duration_ms": 267101,
-      "name": "C\u00f3mo P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 232000,
       "name": "Tierra, Tan S\u00f3lo",
       "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
+        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
+      },
+      "artists": [
+        {
+          "name": "Anabella Zoch",
+          "url": "https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v"
+        }
+      ],
+      "duration_ms": 267101,
+      "name": "C\u00f3mo P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "El Amor Es As\u00ed",
-        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/3WdKgpwifpi4ayhCsCTQZ4"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "La Negra Ulogia",
         "url": "https://open.spotify.com/album/33VEeoUslSo8SUziYAW8GZ"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 170562,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/3WdKgpwifpi4ayhCsCTQZ4"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1291,6 +1275,22 @@
       "duration_ms": 162546,
       "name": "Canci\u00f3n Repentina",
       "url": "https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "El Amor Es As\u00ed",
-        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 176758,
-      "name": "Diez Noches de Desvelo",
-      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "A Mercedes, Vol. II",
         "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
       },
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "La Olvidada",
-        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 154977,
-      "name": "La Olvidada",
-      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Desnudando el coraz\u00f3n",
         "url": "https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 251225,
       "name": "Romance de la luna tucumana",
       "url": "https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 176758,
+      "name": "Diez Noches de Desvelo",
+      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "La Olvidada",
+        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 154977,
+      "name": "La Olvidada",
+      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Canci\u00f3n del Jangadero",
+        "url": "https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS"
+      },
+      "artists": [
+        {
+          "name": "Patricia G\u00f3mez",
+          "url": "https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc"
+        },
+        {
+          "name": "Mariano Peres\u00f3n",
+          "url": "https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf"
+        }
+      ],
+      "duration_ms": 311517,
+      "name": "Canci\u00f3n del Jangadero",
+      "url": "https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Mi Loco Amor",
         "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
       },
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Canci\u00f3n del Jangadero",
-        "url": "https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS"
-      },
-      "artists": [
-        {
-          "name": "Patricia G\u00f3mez",
-          "url": "https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc"
-        },
-        {
-          "name": "Mariano Peres\u00f3n",
-          "url": "https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf"
-        }
-      ],
-      "duration_ms": 311517,
-      "name": "Canci\u00f3n del Jangadero",
-      "url": "https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Los Clasicos Del Folklore",
-        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Palacios",
-          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
-        }
-      ],
-      "duration_ms": 157226,
-      "name": "Recopilacion De Carnavalitos",
-      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Los Clasicos Del Folklore",
+        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Palacios",
+          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Recopilacion De Carnavalitos",
+      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Lo Que Estalla",
         "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 135164,
       "name": "Lo Que Estalla",
       "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 241410,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1643,22 +1659,6 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 241410,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
     },
     {
       "added_at": "2025-08-21 21:06:28",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Noni
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,929 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,930 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 |
 | 2 | [you](https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [you](https://open.spotify.com/album/2UKoS0WE1NdjriJlOjRSPq) | 2:50 |
-| 3 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 3 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 4 | [deep](https://open.spotify.com/track/60qBMrnq0QgV2PD378i4Oy) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [deep](https://open.spotify.com/album/0C7ns8jOxZ5oGbfvCd2Mbg) | 2:16 |
 | 5 | [100](https://open.spotify.com/track/7IETxxCKv2VFvcJJbZly8X) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:54 |
 | 6 | [Piece of You \(with Giveon\)](https://open.spotify.com/track/2iCHauPak6Ydv8VGLkrCvD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Piss In The Wind](https://open.spotify.com/album/74RFe9VB8MhIflm2RWf8eO) | 2:15 |

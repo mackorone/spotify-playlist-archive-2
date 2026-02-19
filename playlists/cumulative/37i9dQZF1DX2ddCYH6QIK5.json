@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: tosha, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: JOPPE, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4124,7 +4124,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 257088,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/703RwHGxQagegHUB83HuAW"
@@ -13339,6 +13339,24 @@
     },
     {
       "album": {
+        "name": "Iseosee",
+        "url": "https://open.spotify.com/album/7LpZoTS8zaeid4hoFfaGck"
+      },
+      "artists": [
+        {
+          "name": "JOPPE",
+          "url": "https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Iseosee",
+      "url": "https://open.spotify.com/track/1P6d4cY7kqbg8ULF1EQBtl"
+    },
+    {
+      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/4cYz3DPXtRUse4uziYKMKw"
       },
@@ -13476,7 +13494,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 146933,
       "name": "Jeanie",
       "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
@@ -13754,7 +13772,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 139578,
       "name": "kaffee am bett",
       "url": "https://open.spotify.com/track/5WdSWli3WhQolHlE3ykIam"
@@ -14760,6 +14778,24 @@
       "duration_ms": 147835,
       "name": "Laura's Stern",
       "url": "https://open.spotify.com/track/4QAPoCZhTSWKO38zAmpZGh"
+    },
+    {
+      "album": {
+        "name": "Laut liebst",
+        "url": "https://open.spotify.com/album/6jjxJxDaTdd4HGqM2WBehP"
+      },
+      "artists": [
+        {
+          "name": "LIYO",
+          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204787,
+      "name": "Laut liebst",
+      "url": "https://open.spotify.com/track/50HLrozSR4h88iQn1mkxfS"
     },
     {
       "album": {
@@ -17718,6 +17754,24 @@
       "duration_ms": 168000,
       "name": "Next Door",
       "url": "https://open.spotify.com/track/4UfR8pG4zNZiPoqUqug2Gm"
+    },
+    {
+      "album": {
+        "name": "nicht schon wieder (LE DOPPEL LA)",
+        "url": "https://open.spotify.com/album/03Twi4vU50UYgw1avpvQsK"
+      },
+      "artists": [
+        {
+          "name": "LELLA",
+          "url": "https://open.spotify.com/artist/2VhM2L1974uzY3aeduCAfJ"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159154,
+      "name": "nicht schon wieder (LE DOPPEL LA)",
+      "url": "https://open.spotify.com/track/7FURACqTWgB3T1OCzH0v04"
     },
     {
       "album": {
@@ -21191,6 +21245,24 @@
     },
     {
       "album": {
+        "name": "Rough",
+        "url": "https://open.spotify.com/album/0DWhVS9ANfq3s1g6rMaDg0"
+      },
+      "artists": [
+        {
+          "name": "TONI MOR",
+          "url": "https://open.spotify.com/artist/42BwyMTFHszNwXEnPc8gIJ"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/6BoJLaVyVxyVRuUOqnTaYt"
+    },
+    {
+      "album": {
         "name": "Round Around",
         "url": "https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp"
       },
@@ -24378,7 +24450,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 116369,
       "name": "Sunny All The Time",
       "url": "https://open.spotify.com/track/6kYWpEFk0CQLVZHfSmEAOk"
@@ -25234,6 +25306,24 @@
       "duration_ms": 398123,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/1qwlwitlRjlVNbCaNgnWPe"
+    },
+    {
+      "album": {
+        "name": "The Sunlight",
+        "url": "https://open.spotify.com/album/0Ms9fbsIBQgAgnGxOdQnnZ"
+      },
+      "artists": [
+        {
+          "name": "Fray Parks",
+          "url": "https://open.spotify.com/artist/4JU91SJy2nUWXdcMTEbjNy"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229814,
+      "name": "The Sunlight",
+      "url": "https://open.spotify.com/track/6XWWfVPoAUrbz6Afcnbi0e"
     },
     {
       "album": {
@@ -27736,7 +27826,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 178005,
       "name": "wei\u00dfweinen",
       "url": "https://open.spotify.com/track/6Cgmog10RCWICIzMyHJH5j"

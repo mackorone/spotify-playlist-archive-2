@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 136426,
       "name": "Broke Boy Rich",
       "url": "https://open.spotify.com/track/0CmK70yC5ALc346KwIYEsS"
@@ -8611,6 +8611,24 @@
     },
     {
       "album": {
+        "name": "Intro \u201cSoul Quake\u201d",
+        "url": "https://open.spotify.com/album/5UdN0uKskXyNBTT3zT5lmN"
+      },
+      "artists": [
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199753,
+      "name": "Intro \u201cSoul Quake\u201d",
+      "url": "https://open.spotify.com/track/7a8wdXlndvzoEx1z0nKJs8"
+    },
+    {
+      "album": {
         "name": "KUUGA",
         "url": "https://open.spotify.com/album/0NYTUkJVu31oCrRO4gdrny"
       },
@@ -8920,7 +8938,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 147000,
       "name": "KAMIKAZE TRAP",
       "url": "https://open.spotify.com/track/2IxR6K980qkvUD4MTg8xi8"
@@ -8982,6 +9000,24 @@
       "duration_ms": 180637,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/2f7QSuDWa7KrRxlXxGX78i"
+    },
+    {
+      "album": {
+        "name": "KATTARINA",
+        "url": "https://open.spotify.com/album/69AQNqE98bHro9A4dgYZON"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164090,
+      "name": "KATTARINA",
+      "url": "https://open.spotify.com/track/5Hv1K6UO163b76PTnPDJ0X"
     },
     {
       "album": {
@@ -9420,6 +9456,28 @@
       "duration_ms": 187785,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/7KcQg8K4hhzqRuxKWxMS8P"
+    },
+    {
+      "album": {
+        "name": "Life (feat. OMSB)",
+        "url": "https://open.spotify.com/album/1ZgAm3xJ1RHmuoDxcUeNlT"
+      },
+      "artists": [
+        {
+          "name": "SPARTA",
+          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
+        },
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "Life (feat. OMSB)",
+      "url": "https://open.spotify.com/track/6xjCjA0O9jm9NW7tObmbd8"
     },
     {
       "album": {
@@ -9952,6 +10010,36 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j"
+    },
+    {
+      "album": {
+        "name": "Ma Boyz (feat. MIKADO, G-k.i.d & Tete)",
+        "url": "https://open.spotify.com/album/2Vy3Pdi41DbtJNzkZFDjpP"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/6iFxV1dKdvCszs4pcX1E2j"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260176,
+      "name": "Ma Boyz (feat. MIKADO, G-k.i.d & Tete)",
+      "url": "https://open.spotify.com/track/2VT7foaxXwGRAmvQGOGVaL"
     },
     {
       "album": {
@@ -10868,6 +10956,24 @@
       "duration_ms": 323587,
       "name": "Mooon Walkers",
       "url": "https://open.spotify.com/track/6APkTmiQGbhJ20Pcfuq4H8"
+    },
+    {
+      "album": {
+        "name": "Mornin'26",
+        "url": "https://open.spotify.com/album/4CML7iYgSX3VFnyWhsZDwj"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213157,
+      "name": "Mornin'26",
+      "url": "https://open.spotify.com/track/2NBC57E8goEAwYAbWZ9Erf"
     },
     {
       "album": {
@@ -13762,7 +13868,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 150726,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb"
@@ -14176,7 +14282,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 120839,
       "name": "Red Mug",
       "url": "https://open.spotify.com/track/17yYNiYFHWHZFjR90nFKj2"
@@ -15133,6 +15239,32 @@
     },
     {
       "album": {
+        "name": "Iced Out",
+        "url": "https://open.spotify.com/album/3ucvwyzUtxJDcTTeOr1gqu"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204501,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/3ANBn4Yimw0vCqvGcIrNKN"
+    },
+    {
+      "album": {
         "name": "SHIBUKI BOY",
         "url": "https://open.spotify.com/album/2IzNpFbrvp3uKY6tA0q1bT"
       },
@@ -15624,6 +15756,24 @@
       "duration_ms": 169130,
       "name": "STACK",
       "url": "https://open.spotify.com/track/2egH5pOM9QLeyi4iGlasXz"
+    },
+    {
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
     },
     {
       "album": {
@@ -17160,7 +17310,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/5pGGYozU4SNphLtEvNjew8"
@@ -18471,6 +18621,24 @@
     },
     {
       "album": {
+        "name": "Yarudake",
+        "url": "https://open.spotify.com/album/0Cn29CZeEpMHTczzKk6q0T"
+      },
+      "artists": [
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Yarudake",
+      "url": "https://open.spotify.com/track/3ULvBH0JYI1ZI9isQqkuL8"
+    },
+    {
+      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5"
       },
@@ -18940,7 +19108,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 173235,
       "name": "\u3048\u3063\u307b",
       "url": "https://open.spotify.com/track/2h4NxvNEJStT4H9LBqnBMB"
@@ -19402,7 +19570,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 214582,
       "name": "\u30c0\u30a4\u30e4",
       "url": "https://open.spotify.com/track/5FePGusqCwX5R6LDO1DNvP"
@@ -20530,7 +20698,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 117464,
       "name": "\u663c\u306f\u30ea\u30fc\u30de\u30f3\u591c\u306f\u30e9\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/5b5KABTNzIw7ZsaRt2buUO"
@@ -20548,7 +20716,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 205894,
       "name": "\u6b69\u3053\u3046",
       "url": "https://open.spotify.com/track/2zbIQlaeIBILMWIzaO2uVi"
@@ -20636,6 +20804,24 @@
       "duration_ms": 238486,
       "name": "\u6d17\u8133 (feat. DOGMA & \u93ae\u5ea7DOPENESS)",
       "url": "https://open.spotify.com/track/5U3cw41HA9bABafevfgwOU"
+    },
+    {
+      "album": {
+        "name": "Goodbye Sad Boy",
+        "url": "https://open.spotify.com/album/2DqnrUXl3QGjxL9jVTd9zk"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117320,
+      "name": "\u6e0b\u8c37\u304b\u3089\u5e55\u5f35",
+      "url": "https://open.spotify.com/track/4euf27aOlOXGRAlzowgoPt"
     },
     {
       "album": {

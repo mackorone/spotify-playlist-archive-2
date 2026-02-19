@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138380,
+  "num_followers": 138370,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Everywhere, Everything (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 229404,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Bright",
-      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
-        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "\u305d\u3063\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 247554,
       "name": "\u82b1 - Ballad",
       "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
+        "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "\u305d\u3063\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
         "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 194400,
       "name": "\u5352\u696d\u5199\u771f",
       "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2026-02-05 15:00:09",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-02-05 15:00:09",
       "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
-    },
-    {
-      "added_at": "2026-02-05 15:00:09",
-      "album": {
         "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 195652,
       "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
+    },
+    {
+      "added_at": "2026-02-05 15:00:09",
+      "album": {
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
     },
     {
       "added_at": "2026-02-05 15:00:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75141,
+  "num_followers": 75138,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAB9OkEdgIMEwHdckQoBvhdz",
+  "snapshot_id": "aZOvgAAAAADyizjpAxZoZFkCSfkQB1Bw",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Be Alone Tonight",
+        "url": "https://open.spotify.com/album/117glnDKbzgvjmOGtx0pmp"
+      },
+      "artists": [
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211122,
+      "name": "Can't Be Alone Tonight",
+      "url": "https://open.spotify.com/track/2djOyFEFPwM5cXTwDFohPL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Be Alone Tonight",
-        "url": "https://open.spotify.com/album/117glnDKbzgvjmOGtx0pmp"
-      },
-      "artists": [
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211122,
-      "name": "Can't Be Alone Tonight",
-      "url": "https://open.spotify.com/track/2djOyFEFPwM5cXTwDFohPL"
     },
     {
       "added_at": null,

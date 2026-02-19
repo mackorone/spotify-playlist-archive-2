@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RowEWCTaWi.md) - [plain]
 
 > Enjoy the sound track of Can This Love Be Translated? with memorable lines from the show \(이 사랑 통역 되나요?의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 919 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 996 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

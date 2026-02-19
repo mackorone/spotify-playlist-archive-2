@@ -10819,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "One Last Night",
+        "url": "https://open.spotify.com/album/1sEWUF2N6mShqAy64rhG7Y"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288524,
+      "name": "One Last Night",
+      "url": "https://open.spotify.com/track/1uwzsh4qg5fWIXNladSY26"
+    },
+    {
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
       },

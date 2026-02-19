@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -4883,6 +4883,24 @@
     },
     {
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2EzGdmfS8BjLy2kazP0Xea"
+      },
+      "artists": [
+        {
+          "name": "Juli Obregon",
+          "url": "https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/6lHmVCdbcAx8M4qjO3I6hD"
+    },
+    {
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6986,7 +7004,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7990,7 +8008,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 165918,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3Hm0cLZmR9CIAt7IYpkJBT"
@@ -8522,7 +8540,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -12260,7 +12278,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -16409,6 +16427,24 @@
     },
     {
       "album": {
+        "name": "Quiz\u00e1s Si Quiz\u00e1s No",
+        "url": "https://open.spotify.com/album/5vKqtsNQjX7WeomtQGYqbU"
+      },
+      "artists": [
+        {
+          "name": "Diableros Juje\u00f1os",
+          "url": "https://open.spotify.com/artist/6LiuYJstfjOGqb4xANsncH"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Quiz\u00e1s Si Quiz\u00e1s No",
+      "url": "https://open.spotify.com/track/6eB5kK91MfMgzknl4seoRS"
+    },
+    {
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -19680,7 +19716,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 169884,
       "name": "Tomar\u00e9 - Original",
       "url": "https://open.spotify.com/track/4qwCnneLieAz8PKGBixKYK"

@@ -4465,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Iss Tarah",
+        "url": "https://open.spotify.com/album/6ZMzPoQ7uJXIrzxAqtRBU9"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323496,
+      "name": "Iss Tarah",
+      "url": "https://open.spotify.com/track/1hj2XHe0acA4QuAS0HSxsz"
+    },
+    {
+      "album": {
         "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
         "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
       },
@@ -4909,6 +4931,28 @@
     },
     {
       "album": {
+        "name": "Jo Ishq Hua",
+        "url": "https://open.spotify.com/album/4iiAoHEukZQFJPyH14laGO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272618,
+      "name": "Jo Ishq Hua",
+      "url": "https://open.spotify.com/track/7Ap5aHmy2K57COwJqHYYEb"
+    },
+    {
+      "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
       },
@@ -5170,7 +5214,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 228461,
       "name": "Kamaal Hai",
       "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
@@ -8700,12 +8744,12 @@
       },
       "artists": [
         {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        },
-        {
           "name": "Vishal Mishra",
           "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
         },
         {
           "name": "Kaushal Kishore",
@@ -10212,7 +10256,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 185470,
       "name": "Suroor",
       "url": "https://open.spotify.com/track/5gFi3tVdaTSsz0OEmMpMrj"

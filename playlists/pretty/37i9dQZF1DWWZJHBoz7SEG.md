@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Día del amor y rolitas para dedicar en compañía de Julieta Venegas y Natalia Lafourcade PD: escucha la 14, 15 y 16 😻
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,091 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,094 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

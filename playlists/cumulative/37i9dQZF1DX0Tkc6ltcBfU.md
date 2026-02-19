@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: Don Toliver
+> The hottest out the South\. Cover: Lil Poppa 🕊️
 
-2,553 songs - 4 day 23 hr 17 min
+2,554 songs - 4 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,6 +1336,7 @@
 | [Lost Lives](https://open.spotify.com/track/6Tt0uKKBoAsc5Kbw3mWBPQ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Freedom of Speech \(Deluxe\)](https://open.spotify.com/album/3aeqa9LLgEd8el22nCOnJU) | 3:15 | 2025-09-19 | 2025-09-27 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-03-03 | 2023-04-01 |
 | [LOVE](https://open.spotify.com/track/5YDlwTwOXisQwaKbeZLXxT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [LOVE](https://open.spotify.com/album/2zg5IfRbxXHr0WriP9UZ0G) | 2:31 | 2024-02-16 | 2024-02-24 |
+| [Love & War](https://open.spotify.com/track/6FbFmJgyXcL3hmdGK41aSi) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:55 | 2026-02-18 |  |
 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 | 2022-12-16 | 2023-02-25 |
 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 | 2022-08-12 | 2022-09-24 |
 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 | 2022-07-15 | 2022-08-20 |

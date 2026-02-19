@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Bad Gyal & Chencho Corleone
 
-2,318 songs - 5 day 0 hr 50 min
+2,319 songs - 5 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1541,6 +1541,7 @@
 | [PA' DONDE](https://open.spotify.com/track/7FOgviTCYxVeUDVrldzTr2) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw), [Madmusick](https://open.spotify.com/artist/0zpdBq8lWCWYQ59EsZ13KE) | [PA' DONDE](https://open.spotify.com/album/65uWsdrhHJcp21CmoUiqm8) | 2:36 | 2023-12-08 | 2024-03-09 |
 | [Pa' La Discoteca](https://open.spotify.com/track/3zMx0js6RUW5amP18xNgD1) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ) | [Pa' La Discoteca](https://open.spotify.com/album/5cw4UOBuP8dnGjQMcJBmxl) | 3:05 | 2024-04-26 | 2024-06-22 |
 | [Pa' Medellin \(feat\. BEATS PER MINUTES\)](https://open.spotify.com/track/4AAlb2BLX2yd2pA2We8fTr) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu) | [Pa' Medellin \(feat\. BEATS PER MINUTES\)](https://open.spotify.com/album/27opqJpkqEvlGX5QNjdD73) | 3:35 | 2025-06-27 | 2025-09-20 |
+| [Pa' No Llorar](https://open.spotify.com/track/2oYWQCDw7z9M26LEy25wiy) | [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B) | [Pa' No Llorar](https://open.spotify.com/album/2IaFEtCmiVJRh9XqDfWwu0) | 3:19 | 2026-02-18 |  |
 | [Pa' Que Afinken](https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Pa' Que Afinken](https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ) | 2:28 | 2023-07-21 | 2023-10-14 |
 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 | 2024-11-29 | 2025-02-01 |
 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 | 2023-04-28 | 2023-09-09 |

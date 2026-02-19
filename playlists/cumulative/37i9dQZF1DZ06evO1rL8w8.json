@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 195813,
       "name": "El Regreso Del Chapo - En Vivo",
       "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
@@ -848,6 +848,24 @@
       "duration_ms": 212001,
       "name": "Jacinto y Feliciano - En Vivo",
       "url": "https://open.spotify.com/track/3HeAlj42VbgWsT0MQbpOMm"
+    },
+    {
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244121,
+      "name": "Juan Ignacio",
+      "url": "https://open.spotify.com/track/2FKkmbKDGuAY0VvqWqa8Dv"
     },
     {
       "album": {

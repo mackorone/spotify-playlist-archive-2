@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 160476,
       "name": "Gentle Hum",
       "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
@@ -17814,6 +17814,28 @@
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
+    },
+    {
+      "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/6cGzQRiqEMZlOYNCP6PZHF"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        },
+        {
+          "name": "Placid Angles",
+          "url": "https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347712,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/48phKBzmQN4bFrFlW3rTRG"
     },
     {
       "album": {

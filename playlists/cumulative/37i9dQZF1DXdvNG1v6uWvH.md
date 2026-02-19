@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Àsgeir og mörgum fleiri!
 
-9,706 songs - 21 day 17 hr 50 min
+9,707 songs - 21 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2237,6 +2237,7 @@
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-25 | 2025-05-02 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 | 2025-10-03 |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-02-06 | 2026-02-13 |
+| [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-13 |  |
 | [dragon](https://open.spotify.com/track/6xt61599Nmh2XoNCtWz20m) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [dragon](https://open.spotify.com/album/2w4yFTDppmlXxs3DVzvU4y) | 2:55 | 2025-05-23 | 2025-05-30 |
 | [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 | 2025-06-13 | 2025-06-20 |
 | [Drama](https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Drama](https://open.spotify.com/album/02FOs5JKp1S08NEjCW64Eo) | 2:25 | 2024-05-24 | 2024-06-01 |
@@ -7362,7 +7363,7 @@
 | [Showtime](https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [OK OK](https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt) | [Showtime](https://open.spotify.com/album/4oCrBpoXAqUo8hHmdB7ikg) | 2:54 | 2025-08-15 | 2025-08-23 |
 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 | 2024-08-23 | 2024-08-30 |
 | [Shut It Down](https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Shut It Down](https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl) | 2:10 | 2024-11-29 | 2024-12-06 |
-| [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 | 2026-02-13 |  |
+| [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 | 2026-02-13 | 2026-02-19 |
 | [SHUT UP \(dance with me\)](https://open.spotify.com/track/454jmW3wfQ3ubt5vl3T1VA) | [Günther](https://open.spotify.com/artist/5x7GdOcXcuUiSVCbl0hEfm) | [SHUT UP \(dance with me\)](https://open.spotify.com/album/17NlRqrHJSWm3RfwAB7B1r) | 2:43 | 2024-05-31 | 2024-06-07 |
 | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SHUT UP \(feat\. Big Sean\)](https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy) | 2:23 | 2024-05-31 | 2024-06-07 |
 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 | 2024-05-17 | 2024-05-24 |

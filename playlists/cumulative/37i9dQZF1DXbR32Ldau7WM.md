@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Quruli くるり
 
-1,510 songs - 4 day 2 hr 42 min
+1,511 songs - 4 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-02-27 | 2025-01-30 |
 | [FADE TO BLACK](https://open.spotify.com/track/4xiLNg93B7zJj1tWqlcenE) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:21 | 2025-08-19 | 2025-09-04 |
 | [fake drama](https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [saigoni nokorumono](https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ) | 3:47 | 2023-10-03 | 2023-10-11 |
-| [FAKEit <RE:ARR>](https://open.spotify.com/track/2ErsZINrZlG6OMRgcpeC02) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [](https://open.spotify.com/album/null) | 2:54 | 2026-02-17 |  |
+| [FAKEit <RE:ARR>](https://open.spotify.com/track/2ErsZINrZlG6OMRgcpeC02) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [PROVANT](https://open.spotify.com/album/2VHnMxMHBELPkU8akvVRpb) | 2:54 | 2026-02-17 |  |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-06-09 | 2022-06-12 |
 | [FALLING](https://open.spotify.com/track/7ms5u8VD4iHQLjRGh73IRG) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [FALLING](https://open.spotify.com/album/39CHUE0HBfOR5d65BPD6Pv) | 5:22 | 2022-05-10 | 2022-05-18 |
 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 | 2023-02-21 | 2024-04-24 |
@@ -240,7 +240,7 @@
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-06-15 |
 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 | 2023-02-21 | 2023-05-10 |
 | [Fifty's map ～おとなの地図](https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Fifty's map ～おとなの地図](https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn) | 4:50 | 2023-10-03 | 2023-11-22 |
-| [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [](https://open.spotify.com/album/null) | 4:19 | 2026-02-17 |  |
+| [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Calm Before the Storm](https://open.spotify.com/album/6JYxeSvzazSC6ZgBvYXTW9) | 4:19 | 2026-02-17 |  |
 | [Fin](https://open.spotify.com/track/0gAOZpY2aMUDZa7oF5tJRT) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 2:57 | 2022-05-12 | 2022-06-22 |
 | [FINAL PIECE](https://open.spotify.com/track/09sCgFLpjQPfEqVcPzUlx3) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [FINAL PIECE](https://open.spotify.com/album/4dh31llaEE8hkDH1W3jb1E) | 4:34 | 2022-05-17 | 2022-07-22 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-05-10 |
@@ -741,6 +741,7 @@
 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 | 2022-05-10 | 2022-07-21 |
 | [still in me](https://open.spotify.com/track/0J76SgwTH0c1asB63nUFCJ) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:45 | 2022-06-28 | 2022-07-27 |
 | [still in me](https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:45 | 2023-03-28 | 2023-05-10 |
+| [still sane](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [胎教](https://open.spotify.com/album/2xA6zfQHw5EueUW8fDnmQv) | 5:11 | 2026-02-17 |  |
 | [Stimulator \(:D\)](https://open.spotify.com/track/1FAebP2VNRYr76vIagi26N) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 3](https://open.spotify.com/album/1zvnIMPR8MCGqmWcmCwISe) | 3:15 | 2025-02-25 | 2025-03-12 |
 | [Straight Up feat\. JESSE](https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Straight Up feat\. JESSE](https://open.spotify.com/album/4KedQNW6Evrgu7vZCJtYYG) | 4:20 | 2024-10-01 | 2024-10-16 |
 | [Strange Cherry Red](https://open.spotify.com/track/2LmsLo5A6UWdH6y8JIzbin) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [Weird Dreams](https://open.spotify.com/album/2Jx2rjAN8m3ciX01J4rzCy) | 4:33 | 2025-04-01 | 2025-04-09 |
@@ -827,7 +828,6 @@
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2023-06-28 |
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-07-30 | 2024-10-09 |
-| [Track 6](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-06 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-25 |  |
@@ -1398,6 +1398,7 @@
 | [無限 LOOP](https://open.spotify.com/track/0ydnroBWtgH9gswTVmqGxt) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [無限 LOOP](https://open.spotify.com/album/6zu6PJ0tNLAXN5So6vJuLS) | 4:17 | 2023-03-21 | 2023-03-23 |
 | [煌めき](https://open.spotify.com/track/6xM1Ad2AvUs2cngcBvgPK8) | [XIIX](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [煌めき](https://open.spotify.com/album/1sbMFUGGgwNgz4eexdNOEM) | 3:37 | 2025-01-07 | 2025-01-15 |
 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 | 2022-05-10 | 2022-07-25 |
+| [燦然 \- Sanzen](https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [燦然 / 生きがい](https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY) | 5:07 | 2026-02-17 |  |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-18 | 2025-12-17 |
 | [物語のように](https://open.spotify.com/track/1B3x3AMvyCR1Ce5pjl56hM) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [物語のように](https://open.spotify.com/album/5nCrvokzQ6dm6NhPLHZEAG) | 4:30 | 2022-05-19 | 2022-05-25 |
 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 | 2024-04-03 | 2026-01-15 |
@@ -1425,7 +1426,7 @@
 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 | 2023-05-23 | 2024-07-17 |
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [空へ向かう木のように](https://open.spotify.com/track/6Gv6FWMPMipoJPgMbSdQWT) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [Version 5.0](https://open.spotify.com/album/5E257eQJYcjeqPapr7JSHr) | 3:37 | 2023-08-29 | 2023-09-13 |
-| [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 | 2023-09-05 |  |
+| [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 | 2023-09-05 | 2026-02-19 |
 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 | 2023-04-04 | 2023-12-13 |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 | 2022-12-21 |
 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 | 2024-04-23 | 2025-01-22 |

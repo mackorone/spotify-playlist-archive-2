@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world, with Charli xcx on the cover.",
-  "num_followers": 476818,
+  "num_followers": 476827,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -836,12 +836,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

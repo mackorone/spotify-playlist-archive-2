@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 92997,
+  "num_followers": 93000,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 175669,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Acto de Fe",
         "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169689,
       "name": "Acto de Fe",
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 175669,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 201187,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Que No",
-        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 163096,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/7weXDseJxjGGeqxzp1xhAv"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        },
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         }
       ],
-      "duration_ms": 207610,
-      "name": "Charlat\u00e1n",
-      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
+      "duration_ms": 233814,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/1q1U2Zf3ixxgVxU2gtheSK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1699,22 +1703,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/7weXDseJxjGGeqxzp1xhAv"
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
       },
       "artists": [
         {
-          "name": "Un Verano",
-          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
-        },
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
         }
       ],
-      "duration_ms": 233814,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/1q1U2Zf3ixxgVxU2gtheSK"
+      "duration_ms": 207610,
+      "name": "Charlat\u00e1n",
+      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
     },
     {
       "added_at": "2024-09-20 03:00:00",

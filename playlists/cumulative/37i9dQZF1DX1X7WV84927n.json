@@ -9531,6 +9531,24 @@
     },
     {
       "album": {
+        "name": "Guilt By Association",
+        "url": "https://open.spotify.com/album/6EvGw858bq7tKWPe1IgGcq"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229763,
+      "name": "Guilt By Association",
+      "url": "https://open.spotify.com/track/20C1WJvhvpR2wGUHNAwMVL"
+    },
+    {
+      "album": {
         "name": "Guilty (feat. DL of Bad Wolves)",
         "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
       },
@@ -23572,7 +23590,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 223000,
       "name": "The Only Heaven You'll Know",
       "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"

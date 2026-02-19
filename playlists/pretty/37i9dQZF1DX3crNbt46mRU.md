@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lo & Leduc, To Athena, Monet192, Lune and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,397 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,399 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 82 | [Champagnerempfang satt](https://open.spotify.com/track/7e1FdXssCYdF8wBFQlBP6G) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL) | [Champagnerempfang satt](https://open.spotify.com/album/5SFDKds59auElzXyQ43icO) | 2:59 |
 | 83 | [Vicious Chords](https://open.spotify.com/track/0P2hbnluQ22QPuWLWZLvho) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Vicious Chords](https://open.spotify.com/album/6NSpFpsmUvEMyQI3os9nJ6) | 2:45 |
 | 84 | [Keine Rosen](https://open.spotify.com/track/5C8J8AEIXWWAevDmWLLLWI) | [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Keine Rosen](https://open.spotify.com/album/3eSgaReW2wV8rH9XawZqtT) | 2:18 |
-| 85 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 85 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 86 | [massenschlägerei](https://open.spotify.com/track/58bDYyl7yNXx3QBTXNjGD7) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [massenschlägerei](https://open.spotify.com/album/3A9ZZyI7nsnBoxpW9Tawe4) | 2:44 |
 | 87 | [birds & the bees](https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up above](https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L) | 4:42 |
 | 88 | [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 25095,
+  "num_followers": 25505,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAABXQP8tBCB5kS2S3fI4Jv/T",
+  "snapshot_id": "aZOvgAAAAABbCs23EbG36GugndOuqCvt",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9"
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo"
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
+      "duration_ms": 134400,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Scary Monsters (feat. Prof)",
-        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
       },
       "artists": [
         {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
         },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 148078,
-      "name": "Super Scary Monsters (feat. Prof)",
-      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
+      "duration_ms": 187406,
+      "name": "Bawse",
+      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor's Guilt",
-        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
+        "name": "Super Scary Monsters (feat. Prof)",
+        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
       },
       "artists": [
         {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
         },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 187406,
-      "name": "Bawse",
-      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
+      "duration_ms": 148078,
+      "name": "Super Scary Monsters (feat. Prof)",
+      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
     },
     {
       "added_at": null,

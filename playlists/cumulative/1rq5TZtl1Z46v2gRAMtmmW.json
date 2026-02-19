@@ -3055,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "Feeling (Hold On You)",
+        "url": "https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216969,
+      "name": "Feeling (Hold On You)",
+      "url": "https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt"
+    },
+    {
+      "album": {
         "name": "Feeling Alive",
         "url": "https://open.spotify.com/album/3lWtwOXZx0JW7y9ynpcVQ2"
       },

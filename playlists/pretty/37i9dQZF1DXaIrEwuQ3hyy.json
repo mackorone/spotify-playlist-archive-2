@@ -1,6 +1,6 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1098173,
+  "num_followers": 1098053,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
+        "name": "Changes - EP",
+        "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "Head In The Clouds",
+      "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
+    },
+    {
+      "added_at": "2026-02-12 23:00:40",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2026-02-12 23:00:40",
-      "album": {
-        "name": "Changes - EP",
-        "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
-      },
-      "artists": [
-        {
-          "name": "Hayd",
-          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
-        }
-      ],
-      "duration_ms": 184559,
-      "name": "Head In The Clouds",
-      "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -763,18 +763,22 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -795,22 +799,18 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
+    },
+    {
+      "added_at": "2026-02-12 23:00:40",
+      "album": {
         "name": "eat some pasta",
         "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2026-02-12 23:00:40",
-      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Two Thirds",
-        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
-      },
-      "artists": [
-        {
-          "name": "Childe",
-          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Two Thirds",
-      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:40",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Lonely Island",
-        "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
+        "name": "Two Thirds",
+        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
       "artists": [
         {
-          "name": "STANOVSKY",
-          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
-        },
-        {
-          "name": "Rory J Williams",
-          "url": "https://open.spotify.com/artist/6WquekDmEAwrJWkV1V6ZD5"
+          "name": "Childe",
+          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
         }
       ],
-      "duration_ms": 173415,
-      "name": "Lonely Island",
-      "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
+      "duration_ms": 206546,
+      "name": "Two Thirds",
+      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1275,6 +1255,26 @@
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:40",
+      "album": {
+        "name": "Lonely Island",
+        "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
+      },
+      "artists": [
+        {
+          "name": "STANOVSKY",
+          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
+        },
+        {
+          "name": "Rory J Williams",
+          "url": "https://open.spotify.com/artist/6WquekDmEAwrJWkV1V6ZD5"
+        }
+      ],
+      "duration_ms": 173415,
+      "name": "Lonely Island",
+      "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
-    },
-    {
-      "added_at": "2026-02-12 23:00:40",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Sugar Clouds",
-        "url": "https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Sugar Clouds",
-      "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
+      "duration_ms": 229787,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1371,6 +1355,22 @@
       "duration_ms": 199006,
       "name": "Make me think of you",
       "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:40",
+      "album": {
+        "name": "Sugar Clouds",
+        "url": "https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Sugar Clouds",
+      "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:40",
+      "album": {
         "name": "Someone Special",
         "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
-    },
-    {
-      "added_at": "2026-02-12 23:00:40",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
       "artists": [
         {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+      "duration_ms": 287000,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
     },
     {
       "added_at": "2026-02-12 23:00:40",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-02-12 23:00:40",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
       },
       "artists": [
         {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+      "duration_ms": 214013,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
     },
     {
       "added_at": "2026-02-12 23:00:40",

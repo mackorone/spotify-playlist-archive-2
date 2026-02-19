@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-492 songs - 23 hr 43 min
+493 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Hello Kittyy](https://open.spotify.com/track/6gpeB6mcS2i0eoDwGjUP5x) | [Sage the Fox](https://open.spotify.com/artist/4wRFgacpf7f63S8faBqbTi) | [Hello Kittyy](https://open.spotify.com/album/6lcJaZlZQX1RJTo7wQt6ch) | 2:53 | 2024-06-03 |  |
 | [her](https://open.spotify.com/track/2KFVxdgdoTFIGNzhK0ebe7) | [ghø$t](https://open.spotify.com/artist/54kqwFR4Bmw72WoSJvzeEh) | [her](https://open.spotify.com/album/0A7Ovby4zmJ7BLfBmVXAXa) | 2:47 | 2024-11-17 |  |
 | [HEY](https://open.spotify.com/track/0z5mPZLAet4h0U2ChLhZZE) | [Isa\-Aura](https://open.spotify.com/artist/4ba4F0jnalxz5si2A6cfdD), [MOOMAK](https://open.spotify.com/artist/6cVjiY6xN6r3ZdbNfT7Cpn) | [HEY](https://open.spotify.com/album/13PhR9OzgvdqziZpZg57FF) | 3:32 | 2025-11-20 |  |
+| [Hide](https://open.spotify.com/track/14O8lIabKFhjaOPCV0JcGC) | [findaway](https://open.spotify.com/artist/0ODp7XLz2ZrZ9HyF0T9Dex), [Solvyr](https://open.spotify.com/artist/6G8g5qGssjLY5scNZxozqP) | [Hide](https://open.spotify.com/album/7rkK0OiNoz2SDIlmp6y0bA) | 2:14 | 2026-02-18 |  |
 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 | 2023-07-26 |  |
 | [Hip Hop Never Die](https://open.spotify.com/track/4oo4DTgdEKstG6bwUGxrYO) | [Dj Snap](https://open.spotify.com/artist/5xPzpLubb45QUU4zmqCDFK) | [Unlocked](https://open.spotify.com/album/5P4FaWqSrsVqHaj9o0ICBM) | 2:27 | 2024-06-08 |  |
 | [HISSS](https://open.spotify.com/track/4j4CgayXJnRJnLXRQH8W8s) | [BE4N](https://open.spotify.com/artist/05Gd3YKIx417Tlc5bpWPfC) | [HISSS](https://open.spotify.com/album/1oRmxuia54B539JlrcQK2v) | 2:34 | 2025-10-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 54905,
+  "num_followers": 54920,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAAjkwqBFHm9/em2+CMeL7kr",
+  "snapshot_id": "aZOvgAAAAAA4VvL3013xW6GEVlx1vi9C",
   "tracks": [
     {
       "added_at": null,
@@ -59,42 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of Hearts",
-        "url": "https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 339267,
-      "name": "I Know A Name (with Cece Winans)",
-      "url": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Worthy Of It All - Live",
-      "url": "https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Forever (Live)",
         "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
       },
@@ -115,6 +79,42 @@
       "duration_ms": 642837,
       "name": "Holy Forever (Live)",
       "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "Worthy Of It All - Live",
+      "url": "https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of Hearts",
+        "url": "https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 339267,
+      "name": "I Know A Name (with Cece Winans)",
+      "url": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrating Fisk! (The 150th Anniversary Album)",
         "url": "https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
+      "duration_ms": 276866,
+      "name": "His Strength Is Perfect",
+      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
       "duration_ms": 190600,
       "name": "He's Not On His Knees Yet",
       "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "His Strength Is Perfect",
-      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purified",
-        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 635360,
       "name": "King of Glory - Live",
       "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purified",
+        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
     },
     {
       "added_at": null,

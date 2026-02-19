@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Maki
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,746 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,761 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 21 | [Again](https://open.spotify.com/track/242tGHok7sRTVjCaTS0FoH) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Again](https://open.spotify.com/album/2eVWTwfon3c4YKWufrOLeX) | 4:53 |
 | 22 | [Bedroom Angel](https://open.spotify.com/track/416F6Hza38zyGCxrMAs5WM) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Bedroom Angel](https://open.spotify.com/album/687CISTsbjCOrs21lTOqNd) | 3:09 |
 | 23 | [生きがい](https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [生きがい](https://open.spotify.com/album/74FvrqdgGjUx8w1CuUMdIV) | 4:44 |
-| 24 | [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [](https://open.spotify.com/album/null) | 4:19 |
+| 24 | [Fig](https://open.spotify.com/track/1cztwwSiCeWbjJFHwrxL6l) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Calm Before the Storm](https://open.spotify.com/album/6JYxeSvzazSC6ZgBvYXTW9) | 4:19 |
 | 25 | [Whitoxin](https://open.spotify.com/track/7HGUFKQkVQMgPhMIm2GDfl) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Whitoxin](https://open.spotify.com/album/2OSTqjT8ESEOYbasGPRjra) | 4:09 |
 | 26 | [Telecaster Dancing](https://open.spotify.com/track/2yhsjJUSNoxHpIJBM0rf7F) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [Telecaster Dancing](https://open.spotify.com/album/4oYzZN9xqPGtSUYaOPxwhw) | 3:07 |
 | 27 | [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 41 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
 | 42 | [Life is beautiful](https://open.spotify.com/track/5AIuBzRQ7z9w529mc0S1cc) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Life is beautiful](https://open.spotify.com/album/3N5cRFtiPrK88jqVfPcGAt) | 3:24 |
 | 43 | [群鳥](https://open.spotify.com/track/6FyK3JQW1ZYLrsvkNC4n1R) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Cheers to 10!!](https://open.spotify.com/album/2sCL0So9nIEXqtFX19p6gq) | 4:34 |
-| 44 | [Track 6](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [](https://open.spotify.com/album/null) | 0:00 |
+| 44 | [still sane](https://open.spotify.com/track/6SF1BvTrFKO1Vun6sxonOn) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [胎教](https://open.spotify.com/album/2xA6zfQHw5EueUW8fDnmQv) | 5:11 |
 | 45 | [TiredSun](https://open.spotify.com/track/5iadla1CIm94ihzf8XdJQX) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [TiredSun](https://open.spotify.com/album/0faUXkd5Dad8uqI0IigNMQ) | 4:01 |
 | 46 | [メディアノーチェ](https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [メディアノーチェ](https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo) | 3:49 |
 | 47 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |

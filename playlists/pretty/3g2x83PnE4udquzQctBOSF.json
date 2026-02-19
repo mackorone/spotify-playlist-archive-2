@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2691,
+  "num_followers": 2689,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARZQSduYRTv/UKX6IxJ9Yv7ZUEZPlV",
+  "snapshot_id": "AAARZnsgR6WhuTDnSl59dlYVZTz9AN0r",
   "tracks": [
+    {
+      "added_at": "2026-02-18 11:54:38",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4UWUFqTM4G2XZCigKozMqY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/1uIQ895GDy3q9NlMu14pI7"
+    },
     {
       "added_at": "2026-02-16 15:59:11",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172359,
+  "num_followers": 172364,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAAAyavrFjpxrz1XIJCFc9gLW",
+  "snapshot_id": "aZOvgAAAAADtF5oqAhqzQ3+d4mcywnDD",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
+      "duration_ms": 216266,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
     },
     {
       "added_at": null,

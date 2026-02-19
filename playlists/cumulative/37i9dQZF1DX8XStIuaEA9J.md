@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: M!LK
 
-1,584 songs - 3 day 18 hr 48 min
+1,584 songs - 3 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Count To Love](https://open.spotify.com/track/1JcrxF5NysDqpik9nZ1Sa4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYLIFE](https://open.spotify.com/album/5tjXMOy3wo9R6Y5YUMF1cj) | 2:38 | 2025-08-19 | 2025-10-08 |
 | [Crank Up](https://open.spotify.com/track/2DynzzwRoZMeo6zdd5ZORG) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [Crank Up](https://open.spotify.com/album/3Bi5UjyFWGSOwE2HxwXVrk) | 3:39 | 2025-06-17 | 2025-07-16 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-03 | 2024-11-06 |
-| [Crescendo](https://open.spotify.com/track/6LXW1HMQjht203yPCHQy0x) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [](https://open.spotify.com/album/null) | 3:51 | 2026-02-17 |  |
+| [Crescendo](https://open.spotify.com/track/6LXW1HMQjht203yPCHQy0x) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Bakuretsu Aishiteru / Sukisugite METSU!](https://open.spotify.com/album/7HBg6QfdbQaYhqWsmNaKtl) | 3:51 | 2026-02-17 |  |
 | [Crossover \(feat\. OZworld & Yudai Takenaka\)](https://open.spotify.com/track/6Gni7iOpEhPKq5ekNogquO) | [Yoshikatsu ikeuchi](https://open.spotify.com/artist/1WfHLMAod6QQtNgKYrsiBl), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Yudai Takenaka](https://open.spotify.com/artist/1zA2p16zEwj4qT3sHRpHG4) | [Crossover](https://open.spotify.com/album/7Ey2lCdRwikDpOjuMRzQYj) | 3:38 | 2024-12-10 | 2025-02-19 |
 | [CRUSH](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [CRUSH](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) | 3:29 | 2024-08-06 | 2024-08-21 |
 | [Cry Baby](https://open.spotify.com/track/7wl1SsesjXsFCToIoGzRLJ) | [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v) | [Hood Melody DELUXE](https://open.spotify.com/album/6XG5Zq1OuyWdg86zjvbHyL) | 3:14 | 2025-09-02 | 2025-09-24 |
@@ -816,7 +816,6 @@
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-11-12 |
-| [Track 9](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-17 |  |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 | 2025-11-25 | 2025-12-24 |
@@ -947,6 +946,7 @@
 | [こんなあたしはいかがですか](https://open.spotify.com/track/58LhQvQKdmbyGpHIEnXFok) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [こんなあたしはいかがですか](https://open.spotify.com/album/0sYNWheuu06VYyoN2Ryt2m) | 3:22 | 2024-10-01 | 2024-10-09 |
 | [ごはん](https://open.spotify.com/track/6cy5nc6fiIPs5ZkEzGKHTp) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [ごはん](https://open.spotify.com/album/1UGSWv9AfENAm9piEKLqlA) | 3:18 | 2025-09-30 | 2025-11-12 |
 | [さすらい](https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd) | 3:23 | 2023-12-04 | 2024-01-05 |
+| [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 | 2026-02-17 |  |
 | [さよならは真夜中に](https://open.spotify.com/track/5W7GqHXV0EAmqNx6BkAz2I) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [さよならは真夜中に](https://open.spotify.com/album/17PbvfSpbjBaz67KXRbYr2) | 3:14 | 2023-11-23 | 2023-11-29 |
 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-04-09 | 2024-06-12 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2024-01-10 | 2024-03-20 |
@@ -1043,7 +1043,7 @@
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-25 | 2024-10-02 |
 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 | 2025-06-03 | 2025-06-11 |
 | [ガイア](https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 4:28 | 2025-12-23 |  |
-| [キセキセツ](https://open.spotify.com/track/4YYfSv3Y4Vq24NUwoSJMqM) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [](https://open.spotify.com/album/null) | 2:51 | 2026-02-17 |  |
+| [キセキセツ](https://open.spotify.com/track/4YYfSv3Y4Vq24NUwoSJMqM) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [REAL POP 2](https://open.spotify.com/album/5u867QIMtzETncq5C168ur) | 2:51 | 2026-02-17 |  |
 | [キミのいないクリスマスイヴ](https://open.spotify.com/track/2aZtHtD2JIwDi2SPcyC8VG) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [キミのいないクリスマスイヴ](https://open.spotify.com/album/13hMLAwxFSt79mpkRc1kBi) | 3:34 | 2023-12-12 | 2023-12-14 |
 | [キラキラミライ](https://open.spotify.com/track/7dP0KRbU4rcXPgFRj1bQ6i) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [キラキラミライ](https://open.spotify.com/album/6XqsYWheTU4t6zjaIoU1F7) | 2:22 | 2025-08-12 | 2025-09-03 |
 | [キラッテラッテ](https://open.spotify.com/track/2Ugyo7kjFFli9gHf9KfK5A) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [キラッテラッテ](https://open.spotify.com/album/4L3xxw1jTt0q2QfMG5WfLv) | 3:08 | 2024-02-13 | 2024-03-20 |

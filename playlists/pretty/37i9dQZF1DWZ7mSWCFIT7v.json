@@ -1,29 +1,13 @@
 {
   "description": "time-stretching granular synthesis ",
-  "num_followers": 249832,
+  "num_followers": 249863,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO4jF0fhu20hN5wX4+H/v6xXaZ8X",
+  "snapshot_id": "AAAAAPbNVENeqhXQX69SDatl13VbIU/z",
   "tracks": [
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Wagenmuzik 2",
-        "url": "https://open.spotify.com/album/4112se9p86vUJXzn2Z7ckn"
-      },
-      "artists": [
-        {
-          "name": "gum.mp3",
-          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
-        }
-      ],
-      "duration_ms": 246938,
-      "name": "Love Languages",
-      "url": "https://open.spotify.com/track/3ZgNp3Eu8Qx8UmSdnJILtK"
-    },
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
@@ -55,6 +39,38 @@
       "duration_ms": 337761,
       "name": "Scanners",
       "url": "https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Wagenmuzik 2",
+        "url": "https://open.spotify.com/album/4112se9p86vUJXzn2Z7ckn"
+      },
+      "artists": [
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        }
+      ],
+      "duration_ms": 246938,
+      "name": "Love Languages",
+      "url": "https://open.spotify.com/track/3ZgNp3Eu8Qx8UmSdnJILtK"
+    },
+    {
+      "added_at": "2026-02-18 19:25:38",
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/2Ffq3guztfuDOY4adOEu5P"
+      },
+      "artists": [
+        {
+          "name": "nextdimensional",
+          "url": "https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD"
+        }
+      ],
+      "duration_ms": 182837,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/7F8DbKBW1nZdhNU66jrsOK"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -127,6 +143,54 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Night Truths",
+        "url": "https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA"
+      },
+      "artists": [
+        {
+          "name": "Eamon Harkin",
+          "url": "https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC"
+        }
+      ],
+      "duration_ms": 428093,
+      "name": "Night Truths",
+      "url": "https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD"
+    },
+    {
+      "added_at": "2026-02-18 19:25:38",
+      "album": {
+        "name": "Common Chaos",
+        "url": "https://open.spotify.com/album/5PldAgahIvUfh2arXr6dca"
+      },
+      "artists": [
+        {
+          "name": "Chloe Battelle",
+          "url": "https://open.spotify.com/artist/4dQZbGYqmZQxjdoOzRChrc"
+        }
+      ],
+      "duration_ms": 352003,
+      "name": "Click",
+      "url": "https://open.spotify.com/track/7Mc4e7VUGHghWg2ikNJoKH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Brand Blvd",
+        "url": "https://open.spotify.com/album/1kvOOTA97CyACYKp0VypX6"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "duration_ms": 254538,
+      "name": "Brand Blvd",
+      "url": "https://open.spotify.com/track/6sNGEPiyxsdvJOeukUG7lQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Canada",
         "url": "https://open.spotify.com/album/6cGzQRiqEMZlOYNCP6PZHF"
       },
@@ -163,22 +227,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Matrix Bloom",
-        "url": "https://open.spotify.com/album/1IhDA7aVpZz3YpVOmPR5HQ"
-      },
-      "artists": [
-        {
-          "name": "RamonPang",
-          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
-        }
-      ],
-      "duration_ms": 350571,
-      "name": "Matrix Bloom",
-      "url": "https://open.spotify.com/track/4Jf2URgehgIDx5YKMVphUP"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "The Archives, Vol. 1",
         "url": "https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1"
       },
@@ -191,22 +239,6 @@
       "duration_ms": 249374,
       "name": "BSMR",
       "url": "https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Night Truths",
-        "url": "https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA"
-      },
-      "artists": [
-        {
-          "name": "Eamon Harkin",
-          "url": "https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC"
-        }
-      ],
-      "duration_ms": 428093,
-      "name": "Night Truths",
-      "url": "https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -347,22 +379,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Brand Blvd",
-        "url": "https://open.spotify.com/album/1kvOOTA97CyACYKp0VypX6"
-      },
-      "artists": [
-        {
-          "name": "RamonPang",
-          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
-        }
-      ],
-      "duration_ms": 254538,
-      "name": "Brand Blvd",
-      "url": "https://open.spotify.com/track/6sNGEPiyxsdvJOeukUG7lQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Janus Modal",
         "url": "https://open.spotify.com/album/4SSeFD5uCKAUhcfhUP1VmL"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 386332,
       "name": "Janus Modal",
       "url": "https://open.spotify.com/track/5L5BlUsV6YbG9mGb8AkIJl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Matrix Bloom",
+        "url": "https://open.spotify.com/album/1IhDA7aVpZz3YpVOmPR5HQ"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "duration_ms": 350571,
+      "name": "Matrix Bloom",
+      "url": "https://open.spotify.com/track/4Jf2URgehgIDx5YKMVphUP"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1635,26 +1667,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Starlight Divergence",
-        "url": "https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u"
-      },
-      "artists": [
-        {
-          "name": "Torus",
-          "url": "https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "Stardew",
-      "url": "https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/340HOvCalhkakUkfdtZohg"
       },
@@ -1743,22 +1755,6 @@
       "duration_ms": 392137,
       "name": "Uforia2",
       "url": "https://open.spotify.com/track/1naY9jtsdeOExa34heIlRg"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "FLOATING / 005 MAGIK",
-        "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
-      },
-      "artists": [
-        {
-          "name": "ONYX GARDEN",
-          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "005 MAGIK",
-      "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
     }
   ],
   "unique_name": "bleeps ^ glitches",

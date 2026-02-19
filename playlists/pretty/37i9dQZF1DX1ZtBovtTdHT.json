@@ -1,6 +1,6 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 211548,
+  "num_followers": 211576,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
+        "name": "Basic Injection",
+        "url": "https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj"
+      },
+      "artists": [
+        {
+          "name": "Basic Element",
+          "url": "https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ"
+        }
+      ],
+      "duration_ms": 245813,
+      "name": "The Promise Man",
+      "url": "https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW"
+    },
+    {
+      "added_at": "2025-08-05 12:50:19",
+      "album": {
         "name": "Pieces In A Modern Style",
         "url": "https://open.spotify.com/album/7ukU4X47G0x9atxxGY9aR6"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 395133,
       "name": "Barber's Adagio for Strings - Ferry Corsten Remix",
       "url": "https://open.spotify.com/track/2K4cyGqJ1klZEGF689y75P"
-    },
-    {
-      "added_at": "2025-08-05 12:50:19",
-      "album": {
-        "name": "Basic Injection",
-        "url": "https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj"
-      },
-      "artists": [
-        {
-          "name": "Basic Element",
-          "url": "https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ"
-        }
-      ],
-      "duration_ms": 245813,
-      "name": "The Promise Man",
-      "url": "https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW"
     },
     {
       "added_at": "2025-08-05 12:50:19",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
-        "name": "The Launch",
-        "url": "https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0"
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
       "artists": [
         {
-          "name": "DJ Jean",
-          "url": "https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl"
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
         }
       ],
-      "duration_ms": 220360,
-      "name": "The Launch - Radio Edit",
-      "url": "https://open.spotify.com/track/6FP4peicCGnib7asns71fs"
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
     },
     {
       "added_at": "2025-08-05 12:50:19",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+        "name": "The Launch",
+        "url": "https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0"
       },
       "artists": [
         {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+          "name": "DJ Jean",
+          "url": "https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+      "duration_ms": 220360,
+      "name": "The Launch - Radio Edit",
+      "url": "https://open.spotify.com/track/6FP4peicCGnib7asns71fs"
     },
     {
       "added_at": "2025-08-05 12:50:19",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-08-05 12:50:19",
       "album": {
-        "name": "Tech-Trance Essentials, Pt. 2",
-        "url": "https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa"
-      },
-      "artists": [
-        {
-          "name": "Randy Katana",
-          "url": "https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr"
-        }
-      ],
-      "duration_ms": 675733,
-      "name": "In Silence - Ron van den Beuken Remix",
-      "url": "https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5"
-    },
-    {
-      "added_at": "2025-08-05 12:50:19",
-      "album": {
         "name": "On the Move",
         "url": "https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 216426,
       "name": "On The Move - Radio Edit",
       "url": "https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4"
+    },
+    {
+      "added_at": "2025-08-05 12:50:19",
+      "album": {
+        "name": "Tech-Trance Essentials, Pt. 2",
+        "url": "https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa"
+      },
+      "artists": [
+        {
+          "name": "Randy Katana",
+          "url": "https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr"
+        }
+      ],
+      "duration_ms": 675733,
+      "name": "In Silence - Ron van den Beuken Remix",
+      "url": "https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5"
     },
     {
       "added_at": "2025-08-05 12:50:19",

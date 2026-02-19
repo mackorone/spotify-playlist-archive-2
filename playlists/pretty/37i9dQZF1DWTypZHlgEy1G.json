@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 534001,
+  "num_followers": 533991,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Infiniment",
+        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Vesoul",
+      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Comment te dire adieu ?",
         "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Infiniment",
-        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Vesoul",
-      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
     },
     {
       "added_at": "2024-07-25 13:22:22",

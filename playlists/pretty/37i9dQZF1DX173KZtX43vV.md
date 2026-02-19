@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,536 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,535 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 16 | [SOUTH LDN LOVER GIRL](https://open.spotify.com/track/4wZvxvi0hUvIZuWrdz2pA0) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [SOUTH LDN LOVER GIRL](https://open.spotify.com/album/35FRdyrPVvk27yq2dVmqp2) | 4:58 |
 | 17 | [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 |
 | 18 | [Chancer](https://open.spotify.com/track/5dqs7uTXxMozIA3tCzEjwX) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Chancer](https://open.spotify.com/album/6DuDANtEfqCWZ6HafjRWdT) | 3:33 |
-| 19 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 19 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 20 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
 | 21 | [20th January](https://open.spotify.com/track/08R5dODNJXuhawekAz1rFS) | [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5) | [More Muni More Freedom](https://open.spotify.com/album/6Fpxqpk6su2kCg83lxT8PO) | 2:55 |
 | 22 | [Champagne](https://open.spotify.com/track/1TVDjW0vYxVWjZ4TOskTJn) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Champagne](https://open.spotify.com/album/7kmoIrQRF90dX3pLvOG1sV) | 2:24 |

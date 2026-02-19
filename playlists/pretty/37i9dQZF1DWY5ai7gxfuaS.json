@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 321245,
+  "num_followers": 321259,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Mitsuko",
-        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 129078,
-      "name": "Mitsuko",
-      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Sun Up To Sun Down (Remix)",
         "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Nowhere Now Here",
-        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
-        }
-      ],
-      "duration_ms": 336513,
-      "name": "After You Comes the Flood",
-      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Nowhere Now Here",
+        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 336513,
+      "name": "After You Comes the Flood",
+      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 277024,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
+      },
+      "artists": [
+        {
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Bleed Like You",
-        "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
-      },
-      "artists": [
-        {
-          "name": "Mortiis",
-          "url": "https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ"
-        },
-        {
-          "name": "Merzbow",
-          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
-        }
-      ],
-      "duration_ms": 297381,
-      "name": "Bleed Like You - Merzbow Version",
-      "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
         "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Bleed Like You",
+        "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
+      },
+      "artists": [
+        {
+          "name": "Mortiis",
+          "url": "https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "duration_ms": 297381,
+      "name": "Bleed Like You - Merzbow Version",
+      "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "EUGH!",
+        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
+      },
+      "artists": [
+        {
+          "name": "SPIIRAL",
+          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
+        }
+      ],
+      "duration_ms": 82926,
+      "name": "EUGH!",
+      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "V.A.N",
         "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     },
     {
       "added_at": "2024-07-19 10:51:43",

@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Cyaa Sidung",
+        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 167524,
+      "name": "Cyaa Sidung",
+      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Misege",
         "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Cyaa Sidung",
-        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 167524,
-      "name": "Cyaa Sidung",
-      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
     },
     {
       "added_at": "2024-03-01 12:07:08",

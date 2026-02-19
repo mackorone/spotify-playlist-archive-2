@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,197 likes - 139 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,257 likes - 139 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 138 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 |
 | 139 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 |
 
-Snapshot ID: `AAAAAGxTeZ1RzOVTOMmeaYdSjK/zS0ru`
+Snapshot ID: `AAAAALvQDF2LYByC3XvDsMGZVaO5rZqs`

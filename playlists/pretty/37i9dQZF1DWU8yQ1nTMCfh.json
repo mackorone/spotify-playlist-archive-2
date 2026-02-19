@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 295954,
+  "num_followers": 295937,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOq6liYkA9Q6uMbQTpVNoDZMSYOv",
+  "snapshot_id": "AAAAAP1ri/3wNeMt0VQbfe+252ENp1rs",
   "tracks": [
     {
       "added_at": "2026-02-11 16:04:08",
@@ -223,6 +223,26 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -251,22 +271,18 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Magia Blanca",
-        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 220927,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -287,22 +303,6 @@
       "duration_ms": 216105,
       "name": "Problema Cabr\u00f3n",
       "url": "https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+      },
+      "artists": [
+        {
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "Lo Que Hay Dentro de M\u00ed",
         "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Vidas Felices",
-        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Vidas Felices",
-      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "Salida",
         "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 256986,
       "name": "Ya No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -599,22 +615,6 @@
       "duration_ms": 171945,
       "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
       "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Coraz\u00f3n de pollo",
-        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
-      },
-      "artists": [
-        {
-          "name": "Estamos Perdidos",
-          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Coraz\u00f3n de pollo",
-      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Diamante Roto",
-        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 181766,
-      "name": "Diamante Roto",
-      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
     },
     {
       "added_at": "2026-02-11 16:04:08",

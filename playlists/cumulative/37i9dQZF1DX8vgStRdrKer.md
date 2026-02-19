@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-722 songs - 2 day 13 hr 24 min
+723 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-09-15 | 2024-03-16 |
 | [PRAISE \(RENDITION\)](https://open.spotify.com/track/5dvsH15ks1ngWGKV1Uv2sB) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [PRAISE \(RENDITION\)](https://open.spotify.com/album/1h5eWQ63x30HlC6XCY2DuF) | 4:18 | 2025-08-01 | 2025-10-03 |
 | [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 | 2025-08-08 |
-| [Praise The Lord](https://open.spotify.com/track/1HqRXs13YtE39CtwWJLIgM) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Praise The Lord](https://open.spotify.com/album/72yCxn0wYqAfnhuNSKIEL4) | 1:45 | 2026-01-09 |  |
+| [Praise The Lord](https://open.spotify.com/track/1HqRXs13YtE39CtwWJLIgM) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Praise The Lord](https://open.spotify.com/album/72yCxn0wYqAfnhuNSKIEL4) | 1:45 | 2026-01-09 | 2026-02-19 |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2025-06-20 |
 | [Praise You](https://open.spotify.com/track/0xn4Y3EXSLiN4mx65Oagkt) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Praise You](https://open.spotify.com/album/2eNfBrha4wluwTcj43XI4p) | 2:04 | 2025-08-22 | 2025-10-06 |
 | [PRAISE YOU ANYWHERE](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [PRAISE YOU ANYWHERE](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 | 2023-09-15 | 2024-03-16 |
@@ -583,6 +583,7 @@
 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 | 2025-02-23 |
 | [Song Of My Father \(Live\) \- Revisitation](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\) \[Revisitation\]](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 | 2025-05-16 | 2025-06-27 |
 | [Songs of Joy](https://open.spotify.com/track/7FxxEg3YNRJq1agzBQOprW) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Songs of Joy](https://open.spotify.com/album/1cFcYbpr60J707xz5MePR2) | 4:01 | 2026-01-09 |  |
+| [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 |  |
 | [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 |  |
 | [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 | 2025-06-27 | 2025-10-15 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-06-27 |

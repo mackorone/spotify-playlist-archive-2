@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E?si=H29ND-AOSsSKrTGvxqx2-g\"> Mad G</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=E8krK0emQUe67utr5J7XmQ\"> Buruklyn Boyz</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 112045,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/5eX5ijChtp6M9e5VZ6cZkR"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 242519,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Dumpsite",
+        "url": "https://open.spotify.com/album/3Sog79yWAUA8ozZ5L9fSVQ"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Dumpsite",
+      "url": "https://open.spotify.com/track/5H4uc6iJErn2eNANePcdkm"
+    },
+    {
+      "album": {
         "name": "JUNGLE FEVER",
         "url": "https://open.spotify.com/album/5LwR69ojZA8im52dB4cBtp"
       },
@@ -2694,6 +2712,24 @@
       "duration_ms": 138082,
       "name": "Game",
       "url": "https://open.spotify.com/track/2zhNfUMX2X8jzmZ7EXnbik"
+    },
+    {
+      "album": {
+        "name": "GENJE SANA",
+        "url": "https://open.spotify.com/album/6hnSRzBdC44V77fIMsEc7U"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "GENJE SANA",
+      "url": "https://open.spotify.com/track/64n1TOe9NxsNoNKyyKiwN7"
     },
     {
       "album": {
@@ -3856,7 +3892,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 170527,
       "name": "June 25th",
       "url": "https://open.spotify.com/track/52oGL84hQkBKLqtEuwsIs6"
@@ -5498,7 +5534,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 189266,
       "name": "Mr. Blacc",
       "url": "https://open.spotify.com/track/09g0ZNOIM21pjaGe8IsP06"

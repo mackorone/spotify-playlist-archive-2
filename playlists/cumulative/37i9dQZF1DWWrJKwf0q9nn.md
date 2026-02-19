@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Gordo & Reinier Zonneveld
 
-795 songs - 1 day 16 hr 21 min
+797 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [I LOVE UR GF](https://open.spotify.com/track/7ybT12xjSu2d1cdeObULHz) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [I LOVE UR GF](https://open.spotify.com/album/1JQkbKYKIhhc9LJ5HKiyII) | 2:30 | 2025-07-17 | 2025-09-05 |
 | [I Love You](https://open.spotify.com/track/4QkKWvtMj675AKd8IForfc) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [I Love You](https://open.spotify.com/album/0USVkVzJx5jzXHjP8x5XgW) | 2:32 | 2025-07-17 | 2025-08-15 |
 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2025-11-27 | 2025-12-19 |
+| [I Run \- James Hype Remix](https://open.spotify.com/track/74ulWk192IiJDpj3SYKoLU) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [I Run \(James Hype Remix\)](https://open.spotify.com/album/46hJPkWegweBPNmqGMgQrT) | 2:17 | 2026-02-18 |  |
 | [I Wanna Go](https://open.spotify.com/track/0HfylTo23WNyrsQ0sMJgxM) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [I Wanna Go](https://open.spotify.com/album/5e6d1Y9pYejh3y1cwBFNoI) | 2:06 | 2025-07-17 | 2025-08-07 |
 | [I Wanna Go \- John Summit Remix](https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [I Wanna Go \- John Summit Remix](https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS) | 2:43 | 2025-10-16 | 2025-11-21 |
 | [I Will Survive](https://open.spotify.com/track/6bRJ51JRNdVmeIUxg1Y5Jk) | [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [I Will Survive](https://open.spotify.com/album/2jXDusS3OCrwSKrx61hBnd) | 3:49 | 2025-09-11 | 2025-10-10 |
@@ -635,6 +636,7 @@
 | [Sinners](https://open.spotify.com/track/4ThPeTmt3I8Q5w1GZ4FbCv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL) | [Sinners](https://open.spotify.com/album/3xNaUHRZ8aH7JpJfrxnEw2) | 2:51 | 2025-10-02 | 2025-10-17 |
 | [Sippin'](https://open.spotify.com/track/3CfnOZGonCritVZnVJZS4c) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Sippin'](https://open.spotify.com/album/6KVevBpcClwEuNdvRheN6u) | 1:55 | 2025-10-16 | 2025-11-08 |
 | [Sitback](https://open.spotify.com/track/0jd0ORbV0MArc9jyfVIbVQ) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [VIKTOR](https://open.spotify.com/artist/40opAACGmFD5yvWfvg4b1V) | [Sitback](https://open.spotify.com/album/1CRLM5j7rte2Zs4vbb1Ftk) | 2:47 | 2025-10-23 | 2025-11-28 |
+| [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Sitting Down Here \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/7ySSTmTidGWYiMkHZKxa1g) | 2:38 | 2026-02-18 |  |
 | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/track/3uhDIHIjJCJRCHZrXRysuG) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/album/7dDmJgKsr5rkxuS6o6XiE3) | 2:06 | 2025-10-31 | 2025-11-28 |
 | [Skip To Friday](https://open.spotify.com/track/6mS5Ypct7LRcHWjEFJYt7V) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [Skip To Friday](https://open.spotify.com/album/3k4o3htW5iN9bJRnS9Qnnf) | 1:56 | 2025-11-07 | 2025-12-12 |
 | [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 | 2025-08-07 | 2025-09-19 |

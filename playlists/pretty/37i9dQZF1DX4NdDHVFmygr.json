@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
-  "num_followers": 111800,
+  "num_followers": 111900,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPvgfcX+/ZyJ52Go8JThGXUYUXD",
+  "snapshot_id": "AAAAALKcUwhOaoB0Y6hXogrKMl63p/ew",
   "tracks": [
     {
       "added_at": "2026-02-16 06:27:46",
@@ -53,20 +53,20 @@
       "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
     },
     {
-      "added_at": "2026-02-16 06:27:46",
+      "added_at": "2026-02-18 05:59:57",
       "album": {
-        "name": "Alam",
-        "url": "https://open.spotify.com/album/1GWdlug2gmT2vOiTI1Rlig"
+        "name": "Blati",
+        "url": "https://open.spotify.com/album/2k14r77YeNBGF00ZzgH2BK"
       },
       "artists": [
         {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+          "name": "NovaQueen",
+          "url": "https://open.spotify.com/artist/6YYhmFoGalGnK51QReSoVE"
         }
       ],
-      "duration_ms": 200000,
-      "name": "TGV",
-      "url": "https://open.spotify.com/track/109qPdBVwQb4kHIm4xTQu0"
+      "duration_ms": 146400,
+      "name": "Blati",
+      "url": "https://open.spotify.com/track/4l58OohLgIY6vMAABsjG1t"
     },
     {
       "added_at": "2026-02-16 06:27:46",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-02-16 06:27:46",
       "album": {
+        "name": "Alam",
+        "url": "https://open.spotify.com/album/1GWdlug2gmT2vOiTI1Rlig"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "TGV",
+      "url": "https://open.spotify.com/track/109qPdBVwQb4kHIm4xTQu0"
+    },
+    {
+      "added_at": "2026-02-16 06:27:46",
+      "album": {
         "name": "Ya Lmossiba",
         "url": "https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd"
       },
@@ -147,6 +163,22 @@
       "duration_ms": 184000,
       "name": "Ya Lmossiba",
       "url": "https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H"
+    },
+    {
+      "added_at": "2026-02-16 06:27:46",
+      "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
     },
     {
       "added_at": "2026-02-16 06:27:46",
@@ -165,20 +197,20 @@
       "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
     },
     {
-      "added_at": "2026-02-16 06:27:46",
+      "added_at": "2026-02-18 05:59:57",
       "album": {
-        "name": "Mimti",
-        "url": "https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm"
       },
       "artists": [
         {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+          "name": "Uzishettan",
+          "url": "https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE"
         }
       ],
-      "duration_ms": 198595,
-      "name": "Mimti",
-      "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
+      "duration_ms": 166153,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL"
     },
     {
       "added_at": "2026-02-16 06:27:46",
@@ -615,26 +647,6 @@
     {
       "added_at": "2026-02-16 06:27:46",
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
-        }
-      ],
-      "duration_ms": 184568,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS"
-    },
-    {
-      "added_at": "2026-02-16 06:27:46",
-      "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
       },
@@ -887,22 +899,6 @@
       "duration_ms": 217301,
       "name": "Chkoun Ntiya",
       "url": "https://open.spotify.com/track/6xH01d8YetZfuRCSlPCymQ"
-    },
-    {
-      "added_at": "2026-02-16 06:27:46",
-      "album": {
-        "name": "Bla Bla",
-        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
-      },
-      "artists": [
-        {
-          "name": "Nouamane Belaiachi",
-          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Bla Bla",
-      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
     }
   ],
   "unique_name": "Hit Maghribi",

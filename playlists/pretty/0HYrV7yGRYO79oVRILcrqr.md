@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,699 likes - 134 songs - 8 hr 31 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,701 likes - 135 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 132 | [The Monster](https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/7wKUgvu5sCQAU2w9Zk0yS3) | [Human Side On](https://open.spotify.com/album/3hbMkCzgjGQju7MWlxgNpw) | 3:45 |
 | 133 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 |
 | 134 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
+| 135 | [Prendo il treno](https://open.spotify.com/track/295IXwJm4eeSU0Ya58Wovd) | [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [Prendo il treno](https://open.spotify.com/album/59l0dY5LeYjJo81h6eCIG3) | 4:09 |
 
-Snapshot ID: `AAAKmCx1hG0Ty57Ev7LFPfK1xb059xqa`
+Snapshot ID: `AAAKmatSkasfW2GXaXiGjHzqGClemUG1`

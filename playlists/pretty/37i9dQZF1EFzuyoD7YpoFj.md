@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 102 | [Brush Up Your Shakespeare](https://open.spotify.com/track/4qS1mXTk1LzWJfAnhFdyiq) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:51 |
 | 103 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 104 | [How Could We Be Wrong](https://open.spotify.com/track/6zZXtGTAYByufreIBwnLcV) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R) | [The Very Thought Of You](https://open.spotify.com/album/36exp8KOYFll7y1hX4vqzO) | 3:19 |
-| 105 | [0.34](https://open.spotify.com/track/5dyXKa2swXFp96qXWH7XGI) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v) | 0:34 |
-| 106 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 105 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 106 | [0.34](https://open.spotify.com/track/5dyXKa2swXFp96qXWH7XGI) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v) | 0:34 |
 | 107 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/5Zk48WZjoORvjoyZyhsGvq) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others \(Deluxe Version\)](https://open.spotify.com/album/1rnu8WZb44PlR6EZokmyl9) | 3:55 |
 | 108 | [It's a Wonder](https://open.spotify.com/track/0KqHIDBKGXOczq7lbHBCyw) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:54 |
 | 109 | [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/6sufMyIW6SE5FR53mIZxLI) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Fiesta Y Guitarra](https://open.spotify.com/album/1ExAHh9dXXiYgmaAQBoBHZ) | 2:58 |
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 168 | [I'm a Gigolo](https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:26 |
 | 169 | [Veneno Para El Corazon \- \(It's The Lovely\)](https://open.spotify.com/track/2gxSxY8f3oesNXIngMtwjM) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Veneno Para El Corazón](https://open.spotify.com/album/7tNKTunZlNnOx9gaUnOghX) | 3:05 |
 | 170 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
-| 171 | [If You Loved Me Truly](https://open.spotify.com/track/6TjPgVif9v7BGm6ILd0Clj) | [The London Theatre Orchestra](https://open.spotify.com/artist/2CMP2czDER8nvmcGhKeHPC) | [The Great Songwriters](https://open.spotify.com/album/2po2VXnacD5fCrFk5kXMhJ) | 2:24 |
+| 171 | [IF I LOVED YOU TRULY](https://open.spotify.com/track/67EtAPxT1gtSdfdmIxBz0M) | [The Starlite Orchestra & Singers](https://open.spotify.com/artist/2cAOIxdet17VPqKd8PODGs) | [THE MUSICAL \- CAN\-CAN](https://open.spotify.com/album/4U62OD0a6q36Yw0q6aHnOs) | 2:20 |
 | 172 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 173 | [I'm Going in for Love](https://open.spotify.com/track/6GzVz91Fk34wEVdTwnkXq3) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
 | 174 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcJ8iAAAAADdqEX8sLLETg3MeP9iYAup`
+Snapshot ID: `AcKB7AAAAADeA0oLv8ZO1GPRIFAG5gBI`

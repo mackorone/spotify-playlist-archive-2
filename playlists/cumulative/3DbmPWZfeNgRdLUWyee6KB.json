@@ -7511,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Say",
+        "url": "https://open.spotify.com/album/6JyDx9wI3OSBHvUKJqI55w"
+      },
+      "artists": [
+        {
+          "name": "Qatijaa",
+          "url": "https://open.spotify.com/artist/6z3zwg3wiIAJ8VaU22XdHl"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nothing to Say",
+      "url": "https://open.spotify.com/track/6QUVddM9HIqNr2PoFL9z0j"
+    },
+    {
+      "album": {
         "name": "Now I Know",
         "url": "https://open.spotify.com/album/3U1ch3aqPmHSeBaRFiI1hh"
       },

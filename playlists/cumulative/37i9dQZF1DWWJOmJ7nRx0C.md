@@ -4,7 +4,7 @@
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Holy Wars
 
-1,719 songs - 4 day 6 hr 54 min
+1,721 songs - 4 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,6 +1228,7 @@
 | [Sad Weather Kids](https://open.spotify.com/track/5NIXjeTRJmdGFixIwCe8p9) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sad Weather Kids](https://open.spotify.com/album/7fv3QtWfx54JtvZzyddyes) | 2:35 | 2023-08-04 | 2023-09-23 |
 | [Safe And Sound](https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Prepare For Despair](https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv) | 3:21 | 2023-08-18 | 2023-10-21 |
 | [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 | 2023-02-24 | 2023-08-19 |
+| [Safe And Sound](https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Safe And Sound](https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN) | 3:21 | 2026-02-18 |  |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2022-10-29 |
 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 | 2023-08-25 | 2023-11-25 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-31 | 2023-05-03 |
@@ -1260,7 +1261,7 @@
 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2024-03-08 | 2024-04-19 |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-04-09 |
 | [Searching for Tomorrow](https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Searching for Tomorrow](https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK) | 3:33 | 2024-11-22 | 2025-01-18 |
-| [Searchlight](https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Searchlight](https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ) | 3:35 | 2025-11-28 |  |
+| [Searchlight](https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Searchlight](https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ) | 3:35 | 2025-11-28 | 2026-02-19 |
 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 | 2024-03-29 | 2024-06-22 |
 | [Secrets \- with Sonny Sandoval of P.O.D.](https://open.spotify.com/track/1xudtCUOnGO5WSIFuEKmls) | [Written by Wolves](https://open.spotify.com/artist/1j55zNwCQ3jhbNsnmrOrwr), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [The Collab Project / / Secrets](https://open.spotify.com/album/5XLRwVB5V1qMuind01bYAg) | 3:58 | 2021-09-17 | 2022-05-28 |
 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 | 2024-03-23 |
@@ -1330,6 +1331,7 @@
 | [Someone Who Can](https://open.spotify.com/track/5Rqn1re29PkFLJBzNEcy0v) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 3:45 | 2025-03-14 | 2025-08-02 |
 | [Someone You Don't Know](https://open.spotify.com/track/4UOd2lvPt4bUfpIwht4Guk) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Someone You Don't Know](https://open.spotify.com/album/5RfREhxulZxtMRlLsreWMx) | 3:03 | 2023-06-16 | 2023-07-29 |
 | [Something Worse Than the Night](https://open.spotify.com/track/382Rq2Mx9bo5cWfezDskX5) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Something Worse Than the Night](https://open.spotify.com/album/4nJI2qkHIiIAgxJfqWe2NW) | 4:40 | 2026-01-23 |  |
+| [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-18 |  |
 | [sorry i'm not dead](https://open.spotify.com/track/6GF1LMFAQpWpKNMJ5LYrrF) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [sorry i'm not dead](https://open.spotify.com/album/5YW6ucfSb6mgmYhodmYtqo) | 3:40 | 2021-11-19 | 2022-07-23 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-14 | 2023-09-23 |
 | [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-08 | 2022-07-16 |
@@ -1367,7 +1369,7 @@
 | [Strange Love](https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Strange Love](https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3) | 3:58 | 2023-05-19 | 2023-08-12 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2023-04-09 |
 | [Strangest Faces](https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Strangest Faces](https://open.spotify.com/album/2PQihGqcULN7NdvgqpDnLb) | 3:11 | 2022-05-13 | 2022-12-17 |
-| [Streets of Minneapolis \- Bob Clearmountain Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Bob Clearmountain Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-30 |  |
+| [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-30 |  |
 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 | 2025-02-21 | 2025-04-26 |
 | [Stuck](https://open.spotify.com/track/42L3j5lwv984iLY6tEUF1I) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Stuck](https://open.spotify.com/album/40lErQFgyoVH3cUfQqEjIi) | 3:37 | 2022-09-02 | 2022-10-29 |
 | [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 | 2024-08-02 | 2025-02-08 |

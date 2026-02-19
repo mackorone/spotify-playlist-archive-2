@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 192207,
+  "num_followers": 192233,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -707,30 +707,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Ligeti : Project Vol.2 - Lontano, Atmosph\u00e8res, Apparitions, San Francisco Polyphony & Concert Rom\u00e2nesc",
-        "url": "https://open.spotify.com/album/6u6xyeAYduVoORqSEb2y1Y"
-      },
-      "artists": [
-        {
-          "name": "Gy\u00f6rgy Ligeti",
-          "url": "https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg"
-        },
-        {
-          "name": "Jonathan Nott",
-          "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 538800,
-      "name": "Ligeti: Atmosph\u00e8res",
-      "url": "https://open.spotify.com/track/3HVUDpc6RNoY4d1zF5F287"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 208706,
       "name": "Peepshow",
       "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Ligeti : Project Vol.2 - Lontano, Atmosph\u00e8res, Apparitions, San Francisco Polyphony & Concert Rom\u00e2nesc",
+        "url": "https://open.spotify.com/album/6u6xyeAYduVoORqSEb2y1Y"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Ligeti",
+          "url": "https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg"
+        },
+        {
+          "name": "Jonathan Nott",
+          "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 538800,
+      "name": "Ligeti: Atmosph\u00e8res",
+      "url": "https://open.spotify.com/track/3HVUDpc6RNoY4d1zF5F287"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Ghosst(s)",
-        "url": "https://open.spotify.com/album/7BpSu8aQ6QtM143oBKYALC"
-      },
-      "artists": [
-        {
-          "name": "Lorn",
-          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
-        }
-      ],
-      "duration_ms": 260004,
-      "name": "Ghosst(s)",
-      "url": "https://open.spotify.com/track/2iemI7C2z0T653GPT9ClLn"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Poradnik U\u015bmiechu (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON"
+        "name": "Ghosst(s)",
+        "url": "https://open.spotify.com/album/7BpSu8aQ6QtM143oBKYALC"
       },
       "artists": [
         {
-          "name": "Wiktor Stribog",
-          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
+          "name": "Lorn",
+          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
         }
       ],
-      "duration_ms": 429250,
-      "name": "Nowe Przebudzenie",
-      "url": "https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1"
+      "duration_ms": 260004,
+      "name": "Ghosst(s)",
+      "url": "https://open.spotify.com/track/2iemI7C2z0T653GPT9ClLn"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1151,6 +1135,22 @@
       "duration_ms": 216665,
       "name": "118k",
       "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Poradnik U\u015bmiechu (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Stribog",
+          "url": "https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs"
+        }
+      ],
+      "duration_ms": 429250,
+      "name": "Nowe Przebudzenie",
+      "url": "https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Magda",
-        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "Velluto",
-      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Magda",
+        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Velluto",
+      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 241732,
+      "name": "The Gone Away",
+      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
         "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 193346,
       "name": "The Black Drop",
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 241732,
-      "name": "The Gone Away",
-      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Burned Mind",
         "url": "https://open.spotify.com/album/6w5J0DRWsa1vSNOtim8kjp"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Director",
         "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 129953,
       "name": "Broken Theme",
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Silver Threshold",
+        "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
+      },
+      "artists": [
+        {
+          "name": "hackedepicciotto",
+          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "The Silver Threshold",
+      "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
-      },
-      "artists": [
-        {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "In Free Fall",
         "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Silver Threshold",
-        "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
       },
       "artists": [
         {
-          "name": "hackedepicciotto",
-          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
         }
       ],
-      "duration_ms": 256402,
-      "name": "The Silver Threshold",
-      "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
       "added_at": "2025-11-14 17:00:34",

@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 124020,
+  "num_followers": 124035,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Sakal Ban",
+        "url": "https://open.spotify.com/album/4vmlYA4u5I1MFgFCY2fkn2"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Sakal Ban",
+      "url": "https://open.spotify.com/track/6o3MPFaL8Y3yPWG4n8riJq"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Ghar Aa Maahi - Sajan Bin Version (From \"Bandish Bandits Season 2\")",
         "url": "https://open.spotify.com/album/5HdqUbtOQo4POIWtsZDCi0"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 448064,
       "name": "Ghar Aa Maahi - Sajan Bin Version (From \"Bandish Bandits Season 2\")",
       "url": "https://open.spotify.com/track/2b5bJwkDxeOGDH54Bj4q3B"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Sakal Ban",
-        "url": "https://open.spotify.com/album/4vmlYA4u5I1MFgFCY2fkn2"
-      },
-      "artists": [
-        {
-          "name": "Kshitij Tarey",
-          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Sakal Ban",
-      "url": "https://open.spotify.com/track/6o3MPFaL8Y3yPWG4n8riJq"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -723,42 +723,6 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Nayi Bhor",
-      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
-        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
-      },
-      "artists": [
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
-        }
-      ],
-      "duration_ms": 1398866,
-      "name": "Raga Nata Bhairav - Remastered",
-      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/7vKMHK89d10djKgor7oP1s"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 245706,
       "name": "Neend",
       "url": "https://open.spotify.com/track/1pdpAeTL7y48EbijYXEa4i"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
+        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
+        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "duration_ms": 1398866,
+      "name": "Raga Nata Bhairav - Remastered",
+      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Nayi Bhor",
+      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -907,6 +907,34 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Koyal",
+        "url": "https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        }
+      ],
+      "duration_ms": 208721,
+      "name": "Koyal",
+      "url": "https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -951,54 +979,6 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "ESWY",
-        "url": "https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI"
-      },
-      "artists": [
-        {
-          "name": "Aman Sagar",
-          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
-        },
-        {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
-        }
-      ],
-      "duration_ms": 179257,
-      "name": "ESWY",
-      "url": "https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Koyal",
-        "url": "https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "digV",
-          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
-        },
-        {
-          "name": "Ravator",
-          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
-        },
-        {
-          "name": "Vidhya Gopal",
-          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
-        }
-      ],
-      "duration_ms": 208721,
-      "name": "Koyal",
-      "url": "https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
         "name": "Bandh Aankhein",
         "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 204000,
       "name": "Bandh Aankhein",
       "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
+        "name": "ESWY",
+        "url": "https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI"
+      },
+      "artists": [
+        {
+          "name": "Aman Sagar",
+          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
+        },
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        }
+      ],
+      "duration_ms": 179257,
+      "name": "ESWY",
+      "url": "https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Woh Jagah",
+        "url": "https://open.spotify.com/album/1ejBWD9wf5R290bqqj4tRr"
+      },
+      "artists": [
+        {
+          "name": "Deveshi Sahgal",
+          "url": "https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP"
+        }
+      ],
+      "duration_ms": 315719,
+      "name": "Ae Re Sakhi",
+      "url": "https://open.spotify.com/track/64yA009hCj5khC1AE09ZlM"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Barasana Laagi Re",
         "url": "https://open.spotify.com/album/6nscidkhxexKhPhwNALlAp"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "Woh Jagah",
-        "url": "https://open.spotify.com/album/1ejBWD9wf5R290bqqj4tRr"
-      },
-      "artists": [
-        {
-          "name": "Deveshi Sahgal",
-          "url": "https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP"
-        }
-      ],
-      "duration_ms": 315719,
-      "name": "Ae Re Sakhi",
-      "url": "https://open.spotify.com/track/64yA009hCj5khC1AE09ZlM"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
         "name": "Mora Akhiyaan",
         "url": "https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8"
       },
@@ -1175,26 +1175,6 @@
       "duration_ms": 223255,
       "name": "Mora Akhiyaan",
       "url": "https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Mori Painjainiya (Raag Hamsadhwani)",
-        "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
-      },
-      "artists": [
-        {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        },
-        {
-          "name": "Ashish Ragwani",
-          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
-        }
-      ],
-      "duration_ms": 336045,
-      "name": "Mori Painjainiya (Raag Hamsadhwani)",
-      "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1219,6 +1199,26 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Mori Painjainiya (Raag Hamsadhwani)",
+        "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
+      },
+      "artists": [
+        {
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        },
+        {
+          "name": "Ashish Ragwani",
+          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
+        }
+      ],
+      "duration_ms": 336045,
+      "name": "Mori Painjainiya (Raag Hamsadhwani)",
+      "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 349928,
       "name": "Kyun Aise Rehti Hai",
       "url": "https://open.spotify.com/track/7CNN4EStQ8H0zEIvZHFMkP"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Rung",
-        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
-      },
-      "artists": [
-        {
-          "name": "Hari & Sukhmani",
-          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
-        },
-        {
-          "name": "Dhruv Sangari",
-          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
-        }
-      ],
-      "duration_ms": 326741,
-      "name": "Rung",
-      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Rung",
+        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
+      },
+      "artists": [
+        {
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+        },
+        {
+          "name": "Dhruv Sangari",
+          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
+        }
+      ],
+      "duration_ms": 326741,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Kaari",
         "url": "https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS"
       },
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "Nirbhay Nirgun (Live)",
-        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+        "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
+        "url": "https://open.spotify.com/album/11kuFFRdEn1C0zVcEDYOIy"
       },
       "artists": [
         {
@@ -1304,13 +1304,41 @@
           "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
         },
         {
-          "name": "Aastha Mandle",
-          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+          "name": "Prateek Narsimha",
+          "url": "https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO"
+        },
+        {
+          "name": "Suyash Gabriel",
+          "url": "https://open.spotify.com/artist/2loGjUhYCEgDyGsICei4Ow"
+        },
+        {
+          "name": "Saptak Sharma",
+          "url": "https://open.spotify.com/artist/3YFidceSzkOqqFqQZsskZO"
+        },
+        {
+          "name": "Soumitra Thakur",
+          "url": "https://open.spotify.com/artist/0zOCF2DAtx7rq9Hbc7ptEE"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        },
+        {
+          "name": "Varun Rajasekharan",
+          "url": "https://open.spotify.com/artist/6wG7tirouW1CRqzol1jEQ4"
+        },
+        {
+          "name": "Shrikant Biswakarma",
+          "url": "https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh"
+        },
+        {
+          "name": "Madhur Chaudhary",
+          "url": "https://open.spotify.com/artist/0kNEQWdD0mNXDr2C0s3dfx"
         }
       ],
-      "duration_ms": 380000,
-      "name": "Nirbhay Nirgun (Live)",
-      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+      "duration_ms": 477371,
+      "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
+      "url": "https://open.spotify.com/track/0ZbJLfZcTrn3NqpIjjQZdk"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1355,6 +1383,26 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
+        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Ae Ri Sakhi",
+      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
         "name": "Baiyaan",
         "url": "https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V"
       },
@@ -1375,26 +1423,6 @@
       "duration_ms": 326999,
       "name": "Baiyaan",
       "url": "https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
-      },
-      "artists": [
-        {
-          "name": "Anupam Roy",
-          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Ae Ri Sakhi",
-      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1467,8 +1495,8 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
-        "url": "https://open.spotify.com/album/11kuFFRdEn1C0zVcEDYOIy"
+        "name": "Sabr",
+        "url": "https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ"
       },
       "artists": [
         {
@@ -1476,41 +1504,37 @@
           "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
         },
         {
-          "name": "Prateek Narsimha",
-          "url": "https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO"
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
         },
         {
-          "name": "Suyash Gabriel",
-          "url": "https://open.spotify.com/artist/2loGjUhYCEgDyGsICei4Ow"
-        },
-        {
-          "name": "Saptak Sharma",
-          "url": "https://open.spotify.com/artist/3YFidceSzkOqqFqQZsskZO"
-        },
-        {
-          "name": "Soumitra Thakur",
-          "url": "https://open.spotify.com/artist/0zOCF2DAtx7rq9Hbc7ptEE"
-        },
-        {
-          "name": "Rohan Prasanna",
-          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
-        },
-        {
-          "name": "Varun Rajasekharan",
-          "url": "https://open.spotify.com/artist/6wG7tirouW1CRqzol1jEQ4"
-        },
-        {
-          "name": "Shrikant Biswakarma",
-          "url": "https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh"
-        },
-        {
-          "name": "Madhur Chaudhary",
-          "url": "https://open.spotify.com/artist/0kNEQWdD0mNXDr2C0s3dfx"
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
         }
       ],
-      "duration_ms": 477371,
-      "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
-      "url": "https://open.spotify.com/track/0ZbJLfZcTrn3NqpIjjQZdk"
+      "duration_ms": 397720,
+      "name": "Kuchh Doori",
+      "url": "https://open.spotify.com/track/6bfynqStfndCATVNOFxsJF"
+    },
+    {
+      "added_at": "2026-02-06 04:54:14",
+      "album": {
+        "name": "Aakhiyaan Laagi",
+        "url": "https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
+        },
+        {
+          "name": "Sanchari Nag",
+          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
+        }
+      ],
+      "duration_ms": 185867,
+      "name": "Aakhiyaan Laagi",
+      "url": "https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1547,26 +1571,6 @@
       "duration_ms": 273000,
       "name": "Koyaliya Kook Sunave",
       "url": "https://open.spotify.com/track/7qtwHsQZ2fvmYezRmfmaL0"
-    },
-    {
-      "added_at": "2026-02-06 04:54:14",
-      "album": {
-        "name": "Aakhiyaan Laagi",
-        "url": "https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A"
-      },
-      "artists": [
-        {
-          "name": "DEW",
-          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
-        },
-        {
-          "name": "Sanchari Nag",
-          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
-        }
-      ],
-      "duration_ms": 185867,
-      "name": "Aakhiyaan Laagi",
-      "url": "https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc"
     },
     {
       "added_at": "2026-02-06 04:54:14",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2026-02-06 04:54:14",
       "album": {
-        "name": "Chhap Tilak",
-        "url": "https://open.spotify.com/album/02TGo99icXgtWjtpDewMLe"
+        "name": "Panchii",
+        "url": "https://open.spotify.com/album/15dguOp3WQC16Gw7bD0jV4"
       },
       "artists": [
         {
-          "name": "Arpita Chakraborty",
-          "url": "https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk"
-        },
-        {
-          "name": "Mujtaba Aziz Naza",
-          "url": "https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF"
+          "name": "Akshay - Ninaad",
+          "url": "https://open.spotify.com/artist/3T3CqgjgFXbag2RS5JNq5X"
         }
       ],
-      "duration_ms": 212383,
-      "name": "Chhap Tilak",
-      "url": "https://open.spotify.com/track/0rwudDOmmbtGQELOr4zbIE"
+      "duration_ms": 204625,
+      "name": "Panchii",
+      "url": "https://open.spotify.com/track/61v9NMnW3ssoI0RkW8Cghu"
     },
     {
       "added_at": "2026-02-06 04:54:14",

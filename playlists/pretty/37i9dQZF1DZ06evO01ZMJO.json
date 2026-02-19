@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 24042,
+  "num_followers": 24054,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAACzwhSUIJ/ZvamQsxWqeQEy",
+  "snapshot_id": "aZOvgAAAAAD857INlR9ngVDTZkJf1mtE",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Magnifico (Jump Remix)",
         "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
-      },
-      "artists": [
-        {
-          "name": "Sandro Silva",
-          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Break The Rules",
         "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUTMUZIEK",
-        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "NZG\u00dbL",
-          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "KUTMUZIEK",
-      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,
@@ -975,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pullover (feat. J.D.A.)",
-        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
+        "name": "KUTMUZIEK",
+        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
       },
       "artists": [
         {
@@ -984,13 +964,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "J.D.A.",
-          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
+          "name": "NZG\u00dbL",
+          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
         }
       ],
-      "duration_ms": 182167,
-      "name": "Pullover (feat. J.D.A.)",
-      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
+      "duration_ms": 150000,
+      "name": "KUTMUZIEK",
+      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,
@@ -1011,6 +991,26 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pullover (feat. J.D.A.)",
+        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "J.D.A.",
+          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "Pullover (feat. J.D.A.)",
+      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
     },
     {
       "added_at": null,

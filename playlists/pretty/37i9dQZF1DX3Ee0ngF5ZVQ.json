@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 403395,
+  "num_followers": 403373,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
-      },
-      "artists": [
-        {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 296875,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Coulda Been Love",
         "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 241523,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
+      },
+      "artists": [
+        {
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 296875,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Hearts Don't",
-        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Hearts Don't",
-      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Hit The Hay Runnin'",
         "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
       },
@@ -1503,6 +1487,38 @@
       "duration_ms": 184271,
       "name": "Hit The Hay Runnin'",
       "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Hearts Don't",
+        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Hearts Don't",
+      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1523,22 +1539,6 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2026-01-09 05:00:37",

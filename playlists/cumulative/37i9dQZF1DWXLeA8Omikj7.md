@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,164 songs - 3 day 13 hr 18 min
+1,165 songs - 3 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Gemini](https://open.spotify.com/track/7De25QZjlGdOYMB8bdBi3e) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Stereosonic Festival Anthems 2015](https://open.spotify.com/album/2eiNxpNhOdk2IPu9UMhDB3) | 4:30 | 2019-06-21 | 2020-10-19 |
 | [gems pop like berries in my mouth](https://open.spotify.com/track/4sW84TLkvAurk7yfmEiFNT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [clean dreams](https://open.spotify.com/album/6LTRKvYkK03ig1KjNLIdiW) | 2:50 | 2024-10-07 | 2024-11-15 |
 | [Gendèr](https://open.spotify.com/track/73J0XZfBhvGgCloBnkXVCP) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Gendèr](https://open.spotify.com/album/3eO8EkqnVpLj4C8nlM0QBa) | 3:58 | 2020-04-22 | 2025-07-06 |
-| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 |  |
+| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 | 2026-02-19 |
 | [Ghomrassen](https://open.spotify.com/track/3KLlLHrAQsDUryZc3fMx7P) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 5:10 | 2019-06-23 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
@@ -948,6 +948,7 @@
 | [Subtract](https://open.spotify.com/track/6CuyhncZBwwn1pt1amDPXq) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Signal Flow](https://open.spotify.com/album/4NmKvbxPQ5OyZOdwbam3Iv) | 5:11 | 2019-06-19\* | 2022-04-21 |
 | [Subtractive Skies](https://open.spotify.com/track/5TTxqNygjuZTh5ILVDN33r) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Subtractive Skies](https://open.spotify.com/album/3XbdBcwI4SE64f49Y92V54) | 6:46 | 2020-04-23 | 2022-04-21 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2020-11-05 | 2023-05-06 |
+| [Sun](https://open.spotify.com/track/48phKBzmQN4bFrFlW3rTRG) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd), [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [Canada](https://open.spotify.com/album/6cGzQRiqEMZlOYNCP6PZHF) | 5:47 | 2026-02-13 |  |
 | [Sun In Your Eyes](https://open.spotify.com/track/0grMKtIZ6KyHXczsbc6xUM) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 4:37 | 2019-07-25 | 2020-08-26 |
 | [Sun Tickles](https://open.spotify.com/track/52UtKsQplzV4d5s36xEZXv) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sun Tickles](https://open.spotify.com/album/59PQf43N68KbDeiq8zdu3v) | 4:31 | 2023-10-13 | 2024-03-31 |
 | [Sunday Maybe](https://open.spotify.com/track/6k2pBpf10f3DNWKykGGJjn) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z) | [Sunday Maybe](https://open.spotify.com/album/0FCWOujsH9selQ8rkOP976) | 5:30 | 2019-06-19\* |  |

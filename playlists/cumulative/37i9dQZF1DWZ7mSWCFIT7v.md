@@ -4,11 +4,11 @@
 
 > time\-stretching granular synthesis
 
-553 songs - 1 day 20 hr 19 min
+555 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [005 MAGIK](https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm) | [ONYX GARDEN](https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx) | [FLOATING / 005 MAGIK](https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa) | 3:36 | 2025-03-25 |  |
+| [005 MAGIK](https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm) | [ONYX GARDEN](https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx) | [FLOATING / 005 MAGIK](https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa) | 3:36 | 2025-03-25 | 2026-02-19 |
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2025-06-07 |
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 | 2025-07-17 |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 | 2025-09-16 |
@@ -112,6 +112,7 @@
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-15 | 2024-04-19 |
 | [Circadian Rhythm \- BOP Remix](https://open.spotify.com/track/151JobcMNpyBbA47MR0z5T) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Circadian Rhythm \(BOP Remix\)](https://open.spotify.com/album/1DTFfoiB1F1DOnWQAiXea2) | 4:34 | 2025-07-23 | 2026-02-07 |
 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-08-17 | 2025-07-24 |
+| [Click](https://open.spotify.com/track/7Mc4e7VUGHghWg2ikNJoKH) | [Chloe Battelle](https://open.spotify.com/artist/4dQZbGYqmZQxjdoOzRChrc) | [Common Chaos](https://open.spotify.com/album/5PldAgahIvUfh2arXr6dca) | 5:52 | 2026-02-18 |  |
 | [Climate Flu](https://open.spotify.com/track/6RyTgXg86oSjqQFIdZQa1Z) | [Duckett](https://open.spotify.com/artist/2F1Xapfmt9HXopbgBuAfvC), [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [The Climate Flu EP](https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs) | 6:41 | 2021-10-06 | 2022-07-22 |
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2025-07-17 |
 | [Cloud Cover \- Andrew Weatherall Remix](https://open.spotify.com/track/5MUjW4dKNA5EHnFZ0vQDxH) | [GLOK](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [The Citadel EP](https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn) | 6:27 | 2021-10-06 | 2025-07-17 |
@@ -131,6 +132,7 @@
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 | 2025-06-07 |
 | [CV／Gate](https://open.spotify.com/track/77VMqdtUogf2xrCGrZkGdZ) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [CV／Gate](https://open.spotify.com/album/0gU1TsXv072udsyYjZ4n8V) | 4:17 | 2025-09-19 | 2026-01-31 |
 | [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-10 |  |
+| [daydream](https://open.spotify.com/track/7F8DbKBW1nZdhNU66jrsOK) | [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD) | [daydream](https://open.spotify.com/album/2Ffq3guztfuDOY4adOEu5P) | 3:02 | 2026-02-18 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2025-06-10 |
 | [denon](https://open.spotify.com/track/0l2azF8wxLAcJIQq5ZwgAr) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV) | [denon](https://open.spotify.com/album/0EzTFUj1ERlNOhZFELTc8N) | 5:45 | 2025-09-19 | 2025-11-30 |
@@ -427,7 +429,7 @@
 | [Spider Ballad](https://open.spotify.com/track/2om8q3alq2Fl5fLIpKy55k) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Spider Ballad](https://open.spotify.com/album/5DIsD0YTxK5K98uTT2I8kD) | 7:35 | 2025-07-23 |  |
 | [Split Second](https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Yuada](https://open.spotify.com/artist/0FF4GvpiC3VwColbz5k2jJ) | [Split Second](https://open.spotify.com/album/1GTXGMsfJKBZxthNLhVQvO) | 5:22 | 2025-06-28 | 2025-10-18 |
 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 | 2025-07-17 |
-| [Stardew](https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Starlight Divergence](https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u) | 3:17 | 2025-08-15 |  |
+| [Stardew](https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Starlight Divergence](https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u) | 3:17 | 2025-08-15 | 2026-02-19 |
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 | 2025-07-17 |
 | [Stationmaster](https://open.spotify.com/track/0ivCCyi9umwXGb0XEQtHqP) | [Elis Zazon](https://open.spotify.com/artist/3szlI3AWgGeJlq7MKRO3aX) | [Looking Glass](https://open.spotify.com/album/4RiMvT2fwVAaCIzUVL3ydT) | 1:45 | 2022-09-21 | 2022-11-28 |
 | [Stechmück](https://open.spotify.com/track/2z4NFfIfg7Ljr545MOP4qu) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Stechmück](https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu) | 6:59 | 2022-10-01 | 2025-07-17 |

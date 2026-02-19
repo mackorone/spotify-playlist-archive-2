@@ -6,7 +6,7 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAkGMeGzNzqnuHqnQ+gCzPAS5uOiR2C",
+  "snapshot_id": "AAAkGx8tLOQIVYlT5FIeTpkTSuFU30/8",
   "tracks": [
     {
       "added_at": "2026-02-06 20:00:26",
@@ -43,6 +43,26 @@
       "duration_ms": 190383,
       "name": "The Market",
       "url": "https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn"
+    },
+    {
+      "added_at": "2026-02-18 20:25:12",
+      "album": {
+        "name": "Trimski",
+        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 182673,
+      "name": "Trimski",
+      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
       "added_at": "2026-02-06 20:00:26",
@@ -1819,22 +1839,6 @@
       "duration_ms": 178442,
       "name": "5BRAZY (FEAT. QUAVO)",
       "url": "https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv"
-    },
-    {
-      "added_at": "2026-02-06 20:00:26",
-      "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
     },
     {
       "added_at": "2026-02-06 20:00:26",

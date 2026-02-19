@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: LA$$A
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,151 likes - 69 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,137 likes - 69 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Love It](https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [I Love It](https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId) | 2:58 |
 | 2 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 |
-| 3 | [Naar De Getver](https://open.spotify.com/track/1oWGfpbUVlwiyMaK47WFLe) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Naar De Getver](https://open.spotify.com/album/5ovEMJaYUZ2rVhs6FZjwOf) | 2:32 |
-| 4 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 5 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 3 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 4 | [Naar De Getver](https://open.spotify.com/track/1oWGfpbUVlwiyMaK47WFLe) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Naar De Getver](https://open.spotify.com/album/5ovEMJaYUZ2rVhs6FZjwOf) | 2:32 |
+| 5 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 6 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
 | 7 | [Voorkant \(feat\. Rijck & Trobi\)](https://open.spotify.com/track/4dceRXPzF27sXSbddy5a4z) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Voorkant \(feat\. Rijck & Trobi\)](https://open.spotify.com/album/0TRvAsXzUwcgDlrDa34MJx) | 2:05 |
 | 8 | [Wavy](https://open.spotify.com/track/2yBeSlB2ou99IppHsoKn6w) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Wavy](https://open.spotify.com/album/5fteGGvwBg5VKvPwchYQ38) | 2:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 68 | [Kom Maar](https://open.spotify.com/track/6YJ5GZQCGmNPbuSPqbKhOv) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Kom Maar](https://open.spotify.com/album/1aXrFMas052VPlol6nsLRo) | 2:53 |
 | 69 | [Awesome/Poolside](https://open.spotify.com/track/3nkZMDmPu43kkWNXkdaZ0W) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Sunflower](https://open.spotify.com/album/2uxqcqNZXfaAwU0iOBZMnq) | 2:45 |
 
-Snapshot ID: `AAAAANJm8MgGgHqm8r4m/cU5VQQwV8jC`
+Snapshot ID: `AAAAAL0bXVqbkFTdrIM/Z5IHqRUZXX4P`

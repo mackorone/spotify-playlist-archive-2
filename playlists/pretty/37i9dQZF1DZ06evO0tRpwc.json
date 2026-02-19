@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAABCYuDXidhsb4Y5lprrCihO",
+  "snapshot_id": "aZOvgAAAAAA2UQOYbr/S1AZITAUHujdq",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conoc\u00ed una Oveja",
+        "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Del King",
+      "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 307647,
       "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conoc\u00ed una Oveja",
-        "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Del King",
-      "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 238363,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acelera e Pisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 321746,
       "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
     },
     {
       "added_at": null,
@@ -911,6 +911,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Dia Bom",
+        "url": "https://open.spotify.com/album/0y8HHFwNG6ratzYzgBzXxz"
+      },
+      "artists": [
+        {
+          "name": "Vav\u00e1 Rodrigues",
+          "url": "https://open.spotify.com/artist/3WQW9yPYI80YZy19HaSZMT"
+        },
+        {
+          "name": "Sueli Gondin",
+          "url": "https://open.spotify.com/artist/4q5Z2bVdo8d0brYNw3t5tT"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 238122,
+      "name": "Um Dia Bom",
+      "url": "https://open.spotify.com/track/0k9Md9Gr4zXT5zWvT5mKbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -931,38 +955,6 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turma do Barulho, Vol. 4",
-        "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
-      },
-      "artists": [
-        {
-          "name": "Turma do Barulho",
-          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
-        },
-        {
-          "name": "Elen Diana",
-          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
-        },
-        {
-          "name": "Suelen Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Vamos Louvar a Jeov\u00e1",
-      "url": "https://open.spotify.com/track/3wWnF70N98M2XE8jUhPZtP"
     },
     {
       "added_at": null,

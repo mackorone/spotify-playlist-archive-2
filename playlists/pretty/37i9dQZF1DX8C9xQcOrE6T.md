@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,688,534 likes - 71 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,689,381 likes - 71 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 54 | [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 |
 | 55 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 |
 | 56 | [Supercalifragilisticexpialidocious \- From "Mary Poppins" Soundtrack](https://open.spotify.com/track/05miM6U3bpqzG5BRr0C8FF) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [The Pearlie Chorus](https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 2:03 |
-| 57 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mice Chorus](https://open.spotify.com/artist/3gcnVAcMBdtYbril7EqBz6) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 4:34 |
+| 57 | [Just Around the Riverbend](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 2:27 |
 | 58 | [Bibbidi\-Bobbidi\-Boo \- From "Cinderella" Soundtrack](https://open.spotify.com/track/50ssiEHx556vul2XyUbxwU) | [Verna Felton](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 1:17 |
 | 59 | [The Bare Necessities](https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74) | [Phil Harris](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa), [Bruce Reitherman](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) | [The Jungle Book](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) | 4:51 |
 | 60 | [Go the Distance](https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 3:14 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 66 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 | 67 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 | 68 | [Some Day My Prince Will Come](https://open.spotify.com/track/0E2ARPr6Anq8l4dwsu8hbP) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 1:54 |
-| 69 | [Just Around the Riverbend](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 2:27 |
+| 69 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mice Chorus](https://open.spotify.com/artist/3gcnVAcMBdtYbril7EqBz6) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 4:34 |
 | 70 | [Proud Corazón](https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:03 |
 | 71 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 
-Snapshot ID: `AAAAAFd0DAAx/iyvJm/MiU07GswWmV56`
+Snapshot ID: `AAAAAO8kol+GLGbZU5phksuLF4tkq04e`

@@ -199,22 +199,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Pozw\u00f3l mi czu\u0107",
         "url": "https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 177864,
       "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
       "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Avewaw",
-        "url": "https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs"
-      },
-      "artists": [
-        {
-          "name": "Domin",
-          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
-        },
-        {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
-        }
-      ],
-      "duration_ms": 133687,
-      "name": "Avewaw",
-      "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Szeptucha",
         "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
       },
@@ -439,22 +419,6 @@
       "duration_ms": 160866,
       "name": "Zimna woda",
       "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Na start",
-        "url": "https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh"
-      },
-      "artists": [
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 239260,
-      "name": "Na start",
-      "url": "https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -475,18 +439,54 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
+        "name": "Avewaw",
+        "url": "https://open.spotify.com/album/12wH1mQyAU1a1ExfMdGQjs"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "Domin",
+          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
+        },
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
         }
       ],
-      "duration_ms": 165479,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
+      "duration_ms": 133687,
+      "name": "Avewaw",
+      "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Na start",
+        "url": "https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh"
+      },
+      "artists": [
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "duration_ms": 239260,
+      "name": "Na start",
+      "url": "https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Byleby",
+        "url": "https://open.spotify.com/album/5L95XWMD5TGl8Yf8oxVdi2"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 253527,
+      "name": "Byleby",
+      "url": "https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Byleby",
-        "url": "https://open.spotify.com/album/5L95XWMD5TGl8Yf8oxVdi2"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
       },
       "artists": [
         {
-          "name": "Evelina Ross",
-          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 253527,
-      "name": "Byleby",
-      "url": "https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p"
+      "duration_ms": 165479,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Nic nie p\u0142onie",
-        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
-      },
-      "artists": [
-        {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Nic nie p\u0142onie",
-      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "Serce",
         "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 193500,
       "name": "Serce",
       "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Nic nie p\u0142onie",
+        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Nic nie p\u0142onie",
+      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
+        "name": "Ze stali",
+        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Ze stali",
+      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
         "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
         "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Ze stali",
-        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
+        "name": "Hollywoodzkie role",
+        "url": "https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i"
       },
       "artists": [
         {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
         }
       ],
-      "duration_ms": 131866,
-      "name": "Ze stali",
-      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
+      "duration_ms": 162676,
+      "name": "Hollywoodzkie role",
+      "url": "https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-02-12 23:00:31",
       "album": {
-        "name": "Hollywoodzkie role",
-        "url": "https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 162676,
-      "name": "Hollywoodzkie role",
-      "url": "https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
         "name": "K\u0142am",
         "url": "https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 148000,
       "name": "K\u0142am",
       "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
-    },
-    {
-      "added_at": "2026-02-12 23:00:31",
-      "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-12 23:00:31",
@@ -867,6 +851,22 @@
       "duration_ms": 156106,
       "name": "na co dzie\u0144",
       "url": "https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd"
+    },
+    {
+      "added_at": "2026-02-12 23:00:31",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-12 23:00:31",

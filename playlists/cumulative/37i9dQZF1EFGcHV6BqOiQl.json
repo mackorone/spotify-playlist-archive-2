@@ -1014,6 +1014,28 @@
     {
       "album": {
         "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/7rfHdWLSVxSfUe0MhI3mCz"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? (Remix)",
+      "url": "https://open.spotify.com/track/0IeTiOC1lnJUtS3l61bX93"
+    },
+    {
+      "album": {
+        "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
       },
       "artists": [
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 211875,
       "name": "Who Is Your Guy? - Remix",
       "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"

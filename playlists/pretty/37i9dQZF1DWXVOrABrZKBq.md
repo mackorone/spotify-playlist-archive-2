@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: THEODORT
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,127 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,130 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-29",
-  "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Tu Jhoothi Main Makkar",
+  "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Stree 2",
   "name": "Bollywood Dance Music",
   "tracks": [
     {
@@ -5401,6 +5401,36 @@
     },
     {
       "album": {
+        "name": "O' Romeo",
+        "url": "https://open.spotify.com/album/5VZxcrOq8sNpqFufVF0TiU"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300032,
+      "name": "Paan Ki Dukaan",
+      "url": "https://open.spotify.com/track/3hsDw4QmMZUtjlB1Wn7snI"
+    },
+    {
+      "album": {
         "name": "Panghat (From \"Roohi\")",
         "url": "https://open.spotify.com/album/3orpBKdIHhQyidXmrVedcN"
       },
@@ -7356,7 +7386,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"

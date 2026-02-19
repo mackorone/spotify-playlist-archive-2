@@ -6425,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6aIf5GYmq0vZUAqJeAQDhS"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264608,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3cDKySSV2sOeEjoPLV5U4E"
+    },
+    {
+      "album": {
         "name": "Everyday in the Club / Bounce on the Water",
         "url": "https://open.spotify.com/album/2soIapszzexztJpOvxtfCk"
       },
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 139384,
       "name": "GORILLA",
       "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
@@ -11802,7 +11820,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 111562,
       "name": "Kono ore wa ano otoko(feat. Yuma Abe)",
       "url": "https://open.spotify.com/track/1DyEISrDwrYI3YZC65LxwU"
@@ -12342,7 +12360,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 278200,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/7uSU8IsXLy8E3mJ6HTHmo8"
@@ -18677,6 +18695,24 @@
     },
     {
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212884,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7"
+    },
+    {
+      "album": {
         "name": "Chillin THAILAND",
         "url": "https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh"
       },
@@ -23150,6 +23186,28 @@
       "duration_ms": 159782,
       "name": "The Plot",
       "url": "https://open.spotify.com/track/5QT91mtJH2GPdN5u9O6X5R"
+    },
+    {
+      "album": {
+        "name": "Lims",
+        "url": "https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        },
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269739,
+      "name": "The qante",
+      "url": "https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC"
     },
     {
       "album": {
@@ -31560,7 +31618,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
@@ -32476,7 +32534,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 230232,
       "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"

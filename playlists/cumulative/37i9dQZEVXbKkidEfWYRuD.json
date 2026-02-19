@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -2788,6 +2788,28 @@
       "duration_ms": 167026,
       "name": "BLEEP",
       "url": "https://open.spotify.com/track/4UP9Dn3u8O4p8oH41EXOai"
+    },
+    {
+      "album": {
+        "name": "Lost Cards",
+        "url": "https://open.spotify.com/album/6LVZZFFI9SdxuiEMfv6gR3"
+      },
+      "artists": [
+        {
+          "name": "Neon Drift",
+          "url": "https://open.spotify.com/artist/2K0FvYDBG7vBmUSgntmo5n"
+        },
+        {
+          "name": "Cory Bergeron",
+          "url": "https://open.spotify.com/artist/42sio3HJFbytCKfu2vi45h"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Blind Dead Man Walking",
+      "url": "https://open.spotify.com/track/55fdkAoquirFJwYyi8PZUj"
     },
     {
       "album": {
@@ -6888,7 +6910,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -12690,7 +12712,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 186893,
       "name": "MARTINE ROSE",
       "url": "https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf"
@@ -14622,7 +14644,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -29022,7 +29044,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 157371,
       "name": "\u0417\u0443\u043f\u0438\u043d\u0438 \u0457\u0457",
       "url": "https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG"
@@ -32516,7 +32538,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -33066,7 +33088,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 166967,
       "name": "\u041d\u0456\u0447",
       "url": "https://open.spotify.com/track/3WXKnok5czWW1veDyPyFD7"
@@ -34556,7 +34578,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -35388,7 +35410,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 121558,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
@@ -36310,7 +36332,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 204285,
       "name": "\u0421\u0438\u043b\u044c\u043d\u043e \u0421\u0438\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU"
@@ -37306,7 +37328,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 190124,
       "name": "\u0422\u0430\u043a\u0443 \u044f\u043a \u0454",
       "url": "https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao"

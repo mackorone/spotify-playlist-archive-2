@@ -1,32 +1,28 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Sentimento.\n",
-  "num_followers": 210144,
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Kenta204.\n",
+  "num_followers": 210156,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVOyCrWo114FnQmEr31rIpDOqqP",
+  "snapshot_id": "AAAAAJFyyAdSX92nygHCZ/z+iV+Kd09g",
   "tracks": [
     {
-      "added_at": "2026-02-06 05:00:44",
+      "added_at": "2026-02-18 20:21:45",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/74wkNGfmzqnkZHMmz04ZR1"
+        "name": "Every Storm Hardens The Earth (Mixtape)",
+        "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
       },
       "artists": [
         {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        },
-        {
-          "name": "Nadia Rose",
-          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
         }
       ],
-      "duration_ms": 149835,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
+      "duration_ms": 167108,
+      "name": "Every Storm Hardens The Earth",
+      "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -45,6 +41,38 @@
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
     },
     {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+      },
+      "artists": [
+        {
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+        }
+      ],
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
+    {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Nothing Left to Say",
+        "url": "https://open.spotify.com/album/003d8yyAwXiYHTEUNkXoIO"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Konrad",
+          "url": "https://open.spotify.com/artist/1I7cqwyb1cKU55oVbvQ66C"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Nothing Left to Say - Radio Edit",
+      "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
+    },
+    {
       "added_at": "2026-02-11 21:59:45",
       "album": {
         "name": "Can\u2019t Take It",
@@ -59,70 +87,6 @@
       "duration_ms": 218536,
       "name": "Can\u2019t Take It",
       "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        }
-      ],
-      "duration_ms": 255086,
-      "name": "MOVE THAT BODY",
-      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
-    },
-    {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "feel better",
-        "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "feel better",
-      "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
-    },
-    {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
-      },
-      "artists": [
-        {
-          "name": "Bryson Hill",
-          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
-        }
-      ],
-      "duration_ms": 164296,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Work To Tha Beat",
-        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Work To Tha Beat",
-      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -161,36 +125,148 @@
       "url": "https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER"
     },
     {
-      "added_at": "2026-02-06 05:00:44",
+      "added_at": "2026-02-18 20:21:45",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/7yjdADEVUYAm02AJrfnS3u"
+        "name": "In Tha Club",
+        "url": "https://open.spotify.com/album/4pjoPbZFwdGTUeVsDDFA7E"
       },
       "artists": [
         {
-          "name": "Toola",
-          "url": "https://open.spotify.com/artist/0eEmBSFK88NKhgsRTtD19k"
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
         }
       ],
-      "duration_ms": 249577,
-      "name": "Player",
-      "url": "https://open.spotify.com/track/0OBS5q06C6kyUn4FrlhtbG"
+      "duration_ms": 150000,
+      "name": "In Tha Club",
+      "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
+    },
+    {
+      "added_at": "2026-02-11 21:59:45",
+      "album": {
+        "name": "feel better",
+        "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "feel better",
+      "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
+    },
+    {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0i9d7fiQLOsXrfH3dN2Rvr"
+      },
+      "artists": [
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        },
+        {
+          "name": "Frey",
+          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
+        }
+      ],
+      "duration_ms": 235737,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2wOrWUXrtXlEDJsFOxdv5W"
+    },
+    {
+      "added_at": "2026-01-30 05:01:11",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy"
+      },
+      "artists": [
+        {
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 239119,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
     },
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Lost In Transit",
-        "url": "https://open.spotify.com/album/1JV4hjYKeLMRohDnLhu0YL"
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/74wkNGfmzqnkZHMmz04ZR1"
       },
       "artists": [
         {
-          "name": "Richie Hova",
-          "url": "https://open.spotify.com/artist/2wyc7zt9JUPaGXLdAsobmR"
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
         }
       ],
-      "duration_ms": 187669,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/6ECxGuV8klm7XTOuQrgwLu"
+      "duration_ms": 149835,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "MOVE THAT BODY",
+        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        }
+      ],
+      "duration_ms": 255086,
+      "name": "MOVE THAT BODY",
+      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
+    },
+    {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Contact High",
+        "url": "https://open.spotify.com/album/5aEdF2cNQFoYdKqBvvrS1u"
+      },
+      "artists": [
+        {
+          "name": "James Massiah",
+          "url": "https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9"
+        },
+        {
+          "name": "DJ GAWAD",
+          "url": "https://open.spotify.com/artist/3JMOiTRw1hgNF7BH0DUlVV"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Visa",
+      "url": "https://open.spotify.com/track/0q9J1gIIvNZZhPjzhMu2Bu"
+    },
+    {
+      "added_at": "2026-01-23 17:35:42",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
+      },
+      "artists": [
+        {
+          "name": "JATO",
+          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
     },
     {
       "added_at": "2026-01-21 18:53:17",
@@ -225,20 +301,84 @@
       "url": "https://open.spotify.com/track/4mfKrRq2JSFHSWwsjhJMeh"
     },
     {
-      "added_at": "2026-01-23 17:35:42",
+      "added_at": "2026-02-11 21:59:45",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
       },
       "artists": [
         {
-          "name": "JATO",
-          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
         }
       ],
-      "duration_ms": 184015,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
+      "duration_ms": 164296,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "Work To Tha Beat",
+        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Work To Tha Beat",
+      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/7yjdADEVUYAm02AJrfnS3u"
+      },
+      "artists": [
+        {
+          "name": "Toola",
+          "url": "https://open.spotify.com/artist/0eEmBSFK88NKhgsRTtD19k"
+        }
+      ],
+      "duration_ms": 249577,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/0OBS5q06C6kyUn4FrlhtbG"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Lost In Transit",
+        "url": "https://open.spotify.com/album/1JV4hjYKeLMRohDnLhu0YL"
+      },
+      "artists": [
+        {
+          "name": "Richie Hova",
+          "url": "https://open.spotify.com/artist/2wyc7zt9JUPaGXLdAsobmR"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/6ECxGuV8klm7XTOuQrgwLu"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -323,22 +463,6 @@
       "duration_ms": 173571,
       "name": "HOT4U",
       "url": "https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Touched EP",
-        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
-      },
-      "artists": [
-        {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "Touched",
-      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -595,26 +719,6 @@
       "duration_ms": 210000,
       "name": "UGETME?",
       "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy"
-      },
-      "artists": [
-        {
-          "name": "Kenta204",
-          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 239119,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
     },
     {
       "added_at": "2026-01-21 18:53:17",
@@ -997,22 +1101,6 @@
       "url": "https://open.spotify.com/track/5eMyoI00BphwuiyvjPYxSm"
     },
     {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Future Chic EP",
-        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
-      },
-      "artists": [
-        {
-          "name": "Davide Dev",
-          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
-    },
-    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "Easy Flirt",
@@ -1045,22 +1133,6 @@
       "url": "https://open.spotify.com/track/4iNrrIcQH94hGaan1KalLe"
     },
     {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
-    },
-    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "Patron",
@@ -1075,22 +1147,6 @@
       "duration_ms": 180000,
       "name": "Patron",
       "url": "https://open.spotify.com/track/5dRaIOKmvdrt6QP9yru7Qm"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Body Drift",
-        "url": "https://open.spotify.com/album/4ld5TL0DtX4khDspc0rBZa"
-      },
-      "artists": [
-        {
-          "name": "BAUGRUPPE90",
-          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "Body Drift",
-      "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
     },
     {
       "added_at": "2026-01-21 18:53:17",
@@ -1213,22 +1269,6 @@
       "url": "https://open.spotify.com/track/1C7HaCCrTlGh58J3ChAwXX"
     },
     {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Borehole",
-        "url": "https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Borehole",
-      "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
-    },
-    {
       "added_at": "2026-01-21 18:53:17",
       "album": {
         "name": "Digital Phase",
@@ -1245,22 +1285,6 @@
       "url": "https://open.spotify.com/track/7k2ENVUtN4CwJnrU6jJ4Ih"
     },
     {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "ROLL OUT",
-        "url": "https://open.spotify.com/album/4pnquavbACgHeudpf9zhgR"
-      },
-      "artists": [
-        {
-          "name": "DON'T THINK",
-          "url": "https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "ROLL OUT",
-      "url": "https://open.spotify.com/track/6wTWdrWYSPURvUb9MqcN18"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Mi Gentee EP",
@@ -1275,22 +1299,6 @@
       "duration_ms": 208782,
       "name": "Mi Gentee",
       "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "NETI",
-        "url": "https://open.spotify.com/album/0HypQZZbVYL0fvgtmwyWXg"
-      },
-      "artists": [
-        {
-          "name": "Lamsi",
-          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bend Yo Back",
-      "url": "https://open.spotify.com/track/6py6p18SMpu2mx5ZSH5APE"
     },
     {
       "added_at": "2026-01-15 15:31:15",

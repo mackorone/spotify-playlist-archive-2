@@ -1,6 +1,6 @@
 {
   "description": "The newest arrivals. Cover: Brent Faiyaz",
-  "num_followers": 68536,
+  "num_followers": 68535,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
@@ -332,12 +332,12 @@
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
       "duration_ms": 218122,

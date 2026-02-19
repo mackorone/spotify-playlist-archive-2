@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3297,
+  "num_followers": 3295,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAACzwkH8JCj0tDoxzDqeEU0Q",
+  "snapshot_id": "aZOvgAAAAAC261jXXg3KcuZYffhtxsS5",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Habib",
-          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
         }
       ],
-      "duration_ms": 69293,
-      "name": "Toya, The Vivid Voice",
-      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
+      "duration_ms": 132298,
+      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh"
       },
       "artists": [
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Keegan DeWitt",
+          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
         }
       ],
-      "duration_ms": 132298,
-      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
+      "duration_ms": 212693,
+      "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
+      "url": "https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
-        "url": "https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh"
+        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
       },
       "artists": [
         {
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Keegan DeWitt",
-          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
         }
       ],
-      "duration_ms": 212693,
-      "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
-      "url": "https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS"
+      "duration_ms": 69293,
+      "name": "Toya, The Vivid Voice",
+      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
     },
     {
       "added_at": null,

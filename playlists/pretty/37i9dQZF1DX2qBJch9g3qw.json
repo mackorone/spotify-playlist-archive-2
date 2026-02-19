@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 178152,
+  "num_followers": 178136,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 329106,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/5qehd5xIsEaifMFy3jcoYr"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2025-11-13 16:46:16",

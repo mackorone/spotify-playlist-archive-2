@@ -4,7 +4,7 @@
 
 > the best cuts from the underground 💎 featuring QRTR 💎
 
-922 songs - 2 day 17 hr 31 min
+923 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Crush Me Inside \(Miss Jay Remix\)](https://open.spotify.com/track/5HOr36IqNlUDKVEmEgAaeh) | [martyrX](https://open.spotify.com/artist/6TCNXm9MpebsaY1h80CVYk), [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [Crush Me inside PRETTYBOY \(+ Remixes\)](https://open.spotify.com/album/7isr48AcHaK8JqS2Gvr8jm) | 3:14 | 2025-05-02 | 2025-07-05 |
 | [CSWS](https://open.spotify.com/track/5mjrxjeKIJEmZN2sIJFKHO) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [House FM](https://open.spotify.com/album/4RLvCg8LRSrEuxCyYBEESO) | 3:27 | 2025-06-13 | 2025-09-04 |
 | [CTX](https://open.spotify.com/track/6JWlIiYcEgYGNF8oNaMpZP) | [Fonzo](https://open.spotify.com/artist/0LEJPVIfO00yDQiUI7d88h), [Roaming Data](https://open.spotify.com/artist/086siaYv8GRd8gvRPnLqIz) | [CTX](https://open.spotify.com/album/0s2SmN5DC2ryPgNvbPQbIr) | 5:20 | 2025-05-16 | 2025-09-06 |
-| [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 | 2025-11-29 |  |
+| [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 | 2025-11-29 | 2026-02-19 |
 | [CUNTY](https://open.spotify.com/track/6AKm7mdC27HWaHomhoKGS9) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [WUPS!](https://open.spotify.com/album/2TLPuNYPn0sNJV4MWfs6By) | 4:35 | 2025-08-08 |  |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-08 | 2024-07-13 |
 | [Cyber Pressure](https://open.spotify.com/track/0cdrS268fdg1GHfKaTxNPD) | [SI Process](https://open.spotify.com/artist/7KHqgK8OKybLanDTQbtOP1) | [Cyber Pressure](https://open.spotify.com/album/4pxCcI6ehHFmvixBmMXQAa) | 6:11 | 2025-09-19 | 2025-12-06 |
@@ -512,6 +512,7 @@
 | [Luv](https://open.spotify.com/track/50sAxbAOfoiCOSZfNljcac) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Name It](https://open.spotify.com/album/5hWHm4vyqYpKKOZaMv558j) | 4:57 | 2024-07-12 | 2024-08-24 |
 | [LUXURIA](https://open.spotify.com/track/4AZ4m5Mi41B74aHNrZEriD) | [FLOR2K](https://open.spotify.com/artist/5eYDzvs1Q5lNkQbuNpSgvX), [XXVENECO](https://open.spotify.com/artist/43tsA1LCk5JodsX1cJjVOK) | [LUXURIA](https://open.spotify.com/album/5pS6aNOPgIB6o2JIUJzlgI) | 5:22 | 2025-08-01 | 2025-10-11 |
 | [M32 Riddim](https://open.spotify.com/track/2mCuGGAMp2K86a5XnzwBi6) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [IMMIGRANT](https://open.spotify.com/album/3XiL4HOizasPR1qjF9avwM) | 4:06 | 2025-10-07 |  |
+| [MACHINE](https://open.spotify.com/track/3O4Fy0oQSwsBIPuSvtj4V6) | [DJ Rtje](https://open.spotify.com/artist/1DnaV1FOR1oJYZI33wdL1n) | [MACHINE](https://open.spotify.com/album/3JpEr495gUU02BEI7hXaEy) | 2:09 | 2026-02-18 |  |
 | [Machine Decay](https://open.spotify.com/track/7qmCQWXh2oxFi2Si6bZ9Bs) | [POL100](https://open.spotify.com/artist/7k5J9paJCGT1Zv4ZaIA4V1) | [Machine Decay](https://open.spotify.com/album/1BRB5TU4mtfoNzyewd1DVc) | 3:39 | 2025-10-03 | 2025-11-30 |
 | [Mad In The Fete \(feat\. Bala Bala Boyz\)](https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX) | [Mak 10](https://open.spotify.com/artist/7b99UWPONneDHPNUmOppM9), [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Mad In The Fete \(feat\. Bala Bala Boyz\)](https://open.spotify.com/album/2rMfnYger1SSWEzZwayOpr) | 3:56 | 2021-12-10 | 2022-01-15 |
 | [Magic Bells](https://open.spotify.com/track/5RZEp3Dx5lRAhXBFhu7WSK) | [Tsepo](https://open.spotify.com/artist/2gH0kSs7X35Iigni2wpxeB) | [Magic Bells](https://open.spotify.com/album/6dMRwpF5Ica44KtBKCrx3u) | 5:11 | 2025-06-13 | 2025-09-04 |

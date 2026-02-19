@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6530,
+  "num_followers": 6536,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAADWW5ufoXQpEHEIsNVA5VKB",
+  "snapshot_id": "aZOvgAAAAAAUT3QM6lEJIPPD5Kk8vbtb",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Frente a Frente Com Deus",
+      "url": "https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Far\u00e1s Outra Vez",
         "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 246998,
       "name": "Far\u00e1s Outra Vez",
       "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Frente a Frente Com Deus",
-      "url": "https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g"
     },
     {
       "added_at": null,

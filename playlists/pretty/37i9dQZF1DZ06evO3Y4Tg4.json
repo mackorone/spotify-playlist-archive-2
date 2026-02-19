@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 262386,
+  "num_followers": 262473,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZJeAAAAAABECSO/6rseKXv0rf78DwR9",
+  "snapshot_id": "aZOvgAAAAAC9bVdolZCByCwxh3Il5bHH",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OFA (Oxlade From Africa)",
-        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "INTOXYCATED",
-      "url": "https://open.spotify.com/track/1lcSY9kXL2PG8HYuDlV4KW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 247506,
       "name": "Special",
       "url": "https://open.spotify.com/track/3JxIovCFZgnQHnZsTTISvH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OFA (Oxlade From Africa)",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "INTOXYCATED",
+      "url": "https://open.spotify.com/track/1lcSY9kXL2PG8HYuDlV4KW"
     },
     {
       "added_at": null,

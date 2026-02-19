@@ -6,8 +6,72 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHh+DwPD6j6QtVFzm0Vu/c6xQsKN0O",
+  "snapshot_id": "AAAHjdWobSoIkk3JlmA/zxysrnr+5SOj",
   "tracks": [
+    {
+      "added_at": "2026-02-18 18:50:08",
+      "album": {
+        "name": "Dharma Pig",
+        "url": "https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1"
+      },
+      "artists": [
+        {
+          "name": "Ethan Ice",
+          "url": "https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW"
+        }
+      ],
+      "duration_ms": 386240,
+      "name": "Dharma Pig",
+      "url": "https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v"
+    },
+    {
+      "added_at": "2026-02-18 18:50:07",
+      "album": {
+        "name": "METEOR QUEEN",
+        "url": "https://open.spotify.com/album/0FHPHLYuCPoK8RHJs6FsWv"
+      },
+      "artists": [
+        {
+          "name": "METEOR QUEEN",
+          "url": "https://open.spotify.com/artist/4KGSpkAJuhqRXCN43UoNBq"
+        }
+      ],
+      "duration_ms": 239543,
+      "name": "METEOR QUEEN",
+      "url": "https://open.spotify.com/track/2v7nQCFD48vBjRDcsIc0tD"
+    },
+    {
+      "added_at": "2026-02-18 18:50:05",
+      "album": {
+        "name": "Such Is Life",
+        "url": "https://open.spotify.com/album/2lfetQGbjwBMeCdNjQgtih"
+      },
+      "artists": [
+        {
+          "name": "Ethan Ice",
+          "url": "https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW"
+        }
+      ],
+      "duration_ms": 342540,
+      "name": "Such Is Life",
+      "url": "https://open.spotify.com/track/08m9F4cUSbIBzgfFVNdK7y"
+    },
+    {
+      "added_at": "2026-02-18 18:48:19",
+      "album": {
+        "name": "Infuriate Souls",
+        "url": "https://open.spotify.com/album/4cNOmUdpfzp0bohouJRi6X"
+      },
+      "artists": [
+        {
+          "name": "Infuriate Souls",
+          "url": "https://open.spotify.com/artist/4kGaDNHuSf9oJkmVxF370j"
+        }
+      ],
+      "duration_ms": 196552,
+      "name": "Can't Deal",
+      "url": "https://open.spotify.com/track/3HAYqVV6pik5cE73O9m6Xm"
+    },
     {
       "added_at": "2026-02-15 22:52:31",
       "album": {
@@ -67531,6 +67595,38 @@
       "duration_ms": 191919,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ"
+    },
+    {
+      "added_at": "2026-02-18 20:01:43",
+      "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/53Hv0nA1qvf38XMykM8877"
+      },
+      "artists": [
+        {
+          "name": "Felicita Brucato",
+          "url": "https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56"
+        }
+      ],
+      "duration_ms": 206732,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/7dVGcsc7buzvVCZxmjRKdc"
+    },
+    {
+      "added_at": "2026-02-18 20:02:45",
+      "album": {
+        "name": "Life is Changing",
+        "url": "https://open.spotify.com/album/6YvFPtcvMzHltBQyiOBpnf"
+      },
+      "artists": [
+        {
+          "name": "Felicita Brucato",
+          "url": "https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Life is Changing",
+      "url": "https://open.spotify.com/track/036ai7QE1pMDVLolRDCbPg"
     }
   ],
   "unique_name": "playlist spotify free",
