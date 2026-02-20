@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 126571,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/7hsDhQ9p1N3Z0G7pWN0P6a"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147326,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
+    },
+    {
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -5170,6 +5188,24 @@
       "duration_ms": 186858,
       "name": "French Tips (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv"
+    },
+    {
+      "album": {
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/1xlNNw1T0pxoTpm1ZGWRG7"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192030,
+      "name": "full moon. (fall in tokyo) [bonus track]",
+      "url": "https://open.spotify.com/track/6fACn9e0wdMIWZa9CZJym8"
     },
     {
       "album": {
@@ -5666,6 +5702,24 @@
       "duration_ms": 229894,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/7GtGplZ15uM6rGsG03bKYH"
+    },
+    {
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "album": {
@@ -11652,7 +11706,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173476,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO"
@@ -14358,7 +14412,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173023,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
@@ -14792,6 +14846,36 @@
       "duration_ms": 250488,
       "name": "Stuck (Your Heart)",
       "url": "https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6"
+    },
+    {
+      "album": {
+        "name": "STYLO",
+        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "UNiTY Originaal",
+          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
+        },
+        {
+          "name": "BayO",
+          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "STYLO",
+      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "album": {

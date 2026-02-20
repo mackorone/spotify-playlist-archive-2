@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Marte in cover.",
+  "description": "Punchline, storytelling, rap italiano. Salmo in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 185666,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE"
@@ -2094,6 +2094,24 @@
       "duration_ms": 151996,
       "name": "Cosa rester\u00e0 di noi",
       "url": "https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ"
+    },
+    {
+      "album": {
+        "name": "CRACKERS",
+        "url": "https://open.spotify.com/album/4JfrerWCkMFZR4PIr98khT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157084,
+      "name": "CRACKERS",
+      "url": "https://open.spotify.com/track/0WXmK981bcJwiV7XhL2mP4"
     },
     {
       "album": {
@@ -2287,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Dama Malerba",
+        "url": "https://open.spotify.com/album/3PBRQ9uhgUUa6OkD9rlO3U"
+      },
+      "artists": [
+        {
+          "name": "eyTrama",
+          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Dama Malerba",
+      "url": "https://open.spotify.com/track/3JzN4nTuTZx4UQA1WlTh28"
+    },
+    {
+      "album": {
         "name": "ELSEWHERE",
         "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
       },
@@ -2310,6 +2346,28 @@
       "duration_ms": 186040,
       "name": "Dancing With The Devil Pt.2",
       "url": "https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld"
+    },
+    {
+      "album": {
+        "name": "DARMI PACE",
+        "url": "https://open.spotify.com/album/0PjuhkfMgzjHw3owobXYsY"
+      },
+      "artists": [
+        {
+          "name": "Jeko",
+          "url": "https://open.spotify.com/artist/3aHY5YJ8YSoez2FYLK83CM"
+        },
+        {
+          "name": "Fallen",
+          "url": "https://open.spotify.com/artist/1QmF4Y2XK7p63RMJKjmgB4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "DARMI PACE",
+      "url": "https://open.spotify.com/track/4mgK6He9J9GYwzDEsJ0sRg"
     },
     {
       "album": {
@@ -3478,7 +3536,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147262,
       "name": "IL FIGLIO DEL PRETE",
       "url": "https://open.spotify.com/track/6p5Ttr2F0YJJVBwJowNvDm"
@@ -4726,7 +4784,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"

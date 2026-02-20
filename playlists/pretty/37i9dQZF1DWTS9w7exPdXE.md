@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,290 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,327 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 18 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
 | 19 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0) | 3:43 |
 | 20 | [Het Regent Zonnestralen](https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:45 |
-| 21 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 |
-| 22 | [Geef Mij Je Angst](https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Live In Het Philips Stadion](https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt) | 3:44 |
+| 21 | [Geef Mij Je Angst](https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Live In Het Philips Stadion](https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt) | 3:44 |
+| 22 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 |
 | 23 | [Met Of Zonder Jou](https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq) | 3:02 |
 | 24 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 | 25 | [Uit M'n Bol](https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:29 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 67 | [We Dansen Op De Mambo](https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [We Dansen Op De Mambo](https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3) | 2:46 |
 | 68 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 |
 | 69 | [Sexy Lady](https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Sexy Lady](https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu) | 3:16 |
-| 70 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
-| 71 | [Ontspanje](https://open.spotify.com/track/449CDQDtHMg18Y5KuMPhMx) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:40 |
+| 70 | [Ontspanje](https://open.spotify.com/track/449CDQDtHMg18Y5KuMPhMx) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Jongen Uit De Stad](https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr) | 2:40 |
+| 71 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
 | 72 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 |
 | 73 | [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 |
 | 74 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 99 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 | 100 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
 
-Snapshot ID: `AAAAALjgcSAcXx7jqTWGllDq3KKugO6y`
+Snapshot ID: `AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud`

@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Souly
 
-344 songs - 15 hr 38 min
+345 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dieses eine Lied](https://open.spotify.com/track/4eqjuxCylVKJykllp83972) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dieses eine Lied](https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r) | 2:22 | 2025-02-06 |  |
 | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 | 2024-06-28 | 2024-08-27 |
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-01-17 |
+| [Drunk in Love](https://open.spotify.com/track/7MMIqKbRvpFSfF3WaJ7IdW) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Drunk in Love](https://open.spotify.com/album/5j8myFVGmuDLHHVNGamVer) | 2:44 | 2026-02-19 |  |
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 | 2025-07-15 |
 | [Du bist das Beste](https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist das Beste](https://open.spotify.com/album/01qisonHMpguE3K1JddI4a) | 2:27 | 2025-04-10 | 2025-11-14 |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 | 2025-03-25 |
@@ -326,11 +327,11 @@
 | [Weg hier raus](https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [Weg hier raus](https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM) | 2:59 | 2026-01-30 |  |
 | [Weg zu weit](https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Weg zu weit](https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag) | 2:31 | 2024-12-16 |  |
 | [Wegen Dir](https://open.spotify.com/track/6e8jTJ7CE1Kt4M2mlooZ5J) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [FRIO](https://open.spotify.com/artist/2Z7cjLnzuXsFlU4D5Pz05c) | [Wegen Dir](https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl) | 3:10 | 2024-06-28 | 2024-10-26 |
-| [Wegen dir](https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Wegen dir](https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8) | 2:30 | 2024-11-18 | 2026-02-13 |
+| [Wegen dir](https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Wegen dir](https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8) | 2:30 | 2024-11-18 |  |
 | [Weinst du](https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Weinst du](https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1) | 2:16 | 2025-11-25 | 2026-02-14 |
 | [Weisse Orchideen](https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Weisse Orchideen](https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2) | 2:57 | 2024-06-28 |  |
 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 | 2024-06-28 | 2024-07-27 |
-| [Welt retten](https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Welt retten](https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ) | 2:40 | 2025-12-19 |  |
+| [Welt retten](https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Welt retten](https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ) | 2:40 | 2025-12-19 | 2026-02-20 |
 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-24 |  |
 | [Wenn der Sommer kommt](https://open.spotify.com/track/3pCpRmb7MCYcTqjBLmOthv) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Wenn der Sommer kommt](https://open.spotify.com/album/4Y8mOkxmMxsxSKZUFXajEF) | 2:22 | 2025-07-24 | 2025-10-28 |
 | [WENN DU MICH SIEHST](https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [WENN DU MICH SIEHST](https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2) | 2:39 | 2025-07-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LUKAS OSCAR",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Eileen Alister",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 237853,
       "name": "A Million Heartbreak Songs",
       "url": "https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI"
@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "effy stonem",
+        "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191373,
+      "name": "effy stonem",
+      "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
+    },
+    {
+      "album": {
         "name": "Egal (was passiert)",
         "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
       },
@@ -3448,7 +3466,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 194399,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
@@ -3936,6 +3954,24 @@
       "duration_ms": 200752,
       "name": "I'm Boring",
       "url": "https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte"
+    },
+    {
+      "album": {
+        "name": "ich geh heut nicht unter leute",
+        "url": "https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "ich geh heut nicht unter leute",
+      "url": "https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00"
     },
     {
       "album": {
@@ -5174,6 +5210,24 @@
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
+    },
+    {
+      "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258014,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG"
     },
     {
       "album": {
@@ -7732,7 +7786,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 141145,
       "name": "Therapiebericht",
       "url": "https://open.spotify.com/track/0WXHTZFTxVnXJvw2EsurNB"
@@ -7884,6 +7938,24 @@
       "duration_ms": 378191,
       "name": "To Whom All Lovers",
       "url": "https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
       "album": {
@@ -8406,7 +8478,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148988,
       "name": "Wake up!",
       "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"

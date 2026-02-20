@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 de største nye rap hits i dk 🔥 cover: Artigeardit
+> 🔥 de største nye rap hits i dk 🔥 cover: Baloosh
 
-502 songs - 21 hr 26 min
+503 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [X](https://open.spotify.com/track/7j5VquF3X1W8Z9eAj4vRtX) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [X](https://open.spotify.com/album/2VnRS1preGdKgWCqZYQ7lP) | 2:03 | 2025-03-27 | 2025-04-18 |
 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 | 2025-10-30 |  |
 | [xoxo \(feat\. ICEKIID\)](https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:01 | 2023-09-21 | 2024-01-19 |
+| [Yap](https://open.spotify.com/track/29tTwIpLU88cZeL7LMA0KD) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Yap](https://open.spotify.com/album/7rv1rnqWKUdfVMZJz5De8Y) | 2:02 | 2026-02-19 |  |
 | [Young Habibi \(feat\. Lamin\)](https://open.spotify.com/track/1LzZuD8TsgFC8kG5DoocWb) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:22 | 2023-09-21 | 2023-12-14 |
 | [ZaZa](https://open.spotify.com/track/6p63W1vauCsjUOVWBJMeBk) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF) | [ZaZa](https://open.spotify.com/album/4DCBKkNr6dNcfTI9e6uWvh) | 2:19 | 2025-10-30 | 2025-11-07 |
 | [Zoo \(feat\. Branco\)](https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Zoo \(feat\. Branco\)](https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA) | 2:30 | 2023-09-21 | 2024-02-23 |

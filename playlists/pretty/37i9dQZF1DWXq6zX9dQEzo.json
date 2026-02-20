@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 320608,
+  "num_followers": 320737,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "Big Brother",
+        "url": "https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A"
+      },
+      "artists": [
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        }
+      ],
+      "duration_ms": 161208,
+      "name": "Big Brother",
+      "url": "https://open.spotify.com/track/041UtdcWXo5RObALfbphb4"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Lightchild",
         "url": "https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 188986,
       "name": "MAN ABOVE",
       "url": "https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Big Brother",
-        "url": "https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A"
-      },
-      "artists": [
-        {
-          "name": "EGR",
-          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
-        }
-      ],
-      "duration_ms": 161208,
-      "name": "Big Brother",
-      "url": "https://open.spotify.com/track/041UtdcWXo5RObALfbphb4"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Dead Or Alive Pt. 2",
-        "url": "https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 245108,
-      "name": "POP UP",
-      "url": "https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Dead Or Alive Pt. 2",
+        "url": "https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 245108,
+      "name": "POP UP",
+      "url": "https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -739,18 +739,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Take The Squad",
-        "url": "https://open.spotify.com/album/6Iwh0Za8sQlla95qsU7AUX"
+        "name": "TOP NOTCH",
+        "url": "https://open.spotify.com/album/4ty2lGClz21I8lHHS7HKzA"
       },
       "artists": [
         {
-          "name": "Dante' pride",
-          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        },
+        {
+          "name": "Josh P",
+          "url": "https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ"
         }
       ],
-      "duration_ms": 118670,
-      "name": "Take The Squad",
-      "url": "https://open.spotify.com/track/3NYmNSJMWwZLhRaPpN3aUS"
+      "duration_ms": 164000,
+      "name": "TOP NOTCH",
+      "url": "https://open.spotify.com/track/1oDzQT7h4HswO5W3aQopmF"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "TOP NOTCH",
-        "url": "https://open.spotify.com/album/4ty2lGClz21I8lHHS7HKzA"
+        "name": "Take The Squad",
+        "url": "https://open.spotify.com/album/6Iwh0Za8sQlla95qsU7AUX"
       },
       "artists": [
         {
-          "name": "Tommy Zuko",
-          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
-        },
-        {
-          "name": "Josh P",
-          "url": "https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ"
+          "name": "Dante' pride",
+          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
         }
       ],
-      "duration_ms": 164000,
-      "name": "TOP NOTCH",
-      "url": "https://open.spotify.com/track/1oDzQT7h4HswO5W3aQopmF"
+      "duration_ms": 118670,
+      "name": "Take The Squad",
+      "url": "https://open.spotify.com/track/3NYmNSJMWwZLhRaPpN3aUS"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BLAKSTONE",
-        "url": "https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "BLAKSTONE",
-      "url": "https://open.spotify.com/track/1cYdnjnxJnq08AedN5KqHV"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "No Problem",
         "url": "https://open.spotify.com/album/3Yg6huueqSi6zCTUhVNwj0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 197485,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/3mbIcfHkyJmQgGbwxOVbui"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "BLAKSTONE",
+        "url": "https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "BLAKSTONE",
+      "url": "https://open.spotify.com/track/1cYdnjnxJnq08AedN5KqHV"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "DA HEAT",
+        "url": "https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 122746,
+      "name": "DA HEAT",
+      "url": "https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Sold Out to Christ",
         "url": "https://open.spotify.com/album/3EgyZPJTTWWEyOZkKZ1aH4"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 153041,
       "name": "Sold Out to Christ",
       "url": "https://open.spotify.com/track/2YWwEBN2yCWrgym7rI6esx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "DA HEAT",
-        "url": "https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 122746,
-      "name": "DA HEAT",
-      "url": "https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Glory To The Lord (Remix)",
         "url": "https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "We Already Won",
         "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
       },
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "Fifth Hour Fire",
+        "url": "https://open.spotify.com/album/7HG2JYQuaQKBfXC6Rq8uOW"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        }
+      ],
+      "duration_ms": 154630,
+      "name": "YAH",
+      "url": "https://open.spotify.com/track/1fhejtrdVabCphXSxMNyi9"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "STILL GOIN",
         "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
       },
@@ -1359,6 +1383,22 @@
       "duration_ms": 114585,
       "name": "STILL GOIN",
       "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "SAME OLE",
+        "url": "https://open.spotify.com/album/4OKDfYTUQ8J4t0Be5miCYN"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 149687,
+      "name": "SAME OLE",
+      "url": "https://open.spotify.com/track/7c8nwCUzXQ6qjN6NZtDqwi"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1411,46 +1451,6 @@
       "duration_ms": 127416,
       "name": "Can't Stop Me Now",
       "url": "https://open.spotify.com/track/4vpLGBnFcUH6EMe2x7Ea49"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Fifth Hour Fire",
-        "url": "https://open.spotify.com/album/7HG2JYQuaQKBfXC6Rq8uOW"
-      },
-      "artists": [
-        {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        },
-        {
-          "name": "Kijan Boone",
-          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
-        }
-      ],
-      "duration_ms": 154630,
-      "name": "YAH",
-      "url": "https://open.spotify.com/track/1fhejtrdVabCphXSxMNyi9"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "SAME OLE",
-        "url": "https://open.spotify.com/album/4OKDfYTUQ8J4t0Be5miCYN"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 149687,
-      "name": "SAME OLE",
-      "url": "https://open.spotify.com/track/7c8nwCUzXQ6qjN6NZtDqwi"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "GETTIN' SWOLE",
-        "url": "https://open.spotify.com/album/0BFcuds2rpsI0tijtqRD75"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        },
-        {
-          "name": "Bryson Gray",
-          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
-        },
-        {
-          "name": "BROTHER LARRY",
-          "url": "https://open.spotify.com/artist/0XRbwhPdk3LN07yO9KBsU4"
-        }
-      ],
-      "duration_ms": 247963,
-      "name": "GETTIN' SWOLE",
-      "url": "https://open.spotify.com/track/4IOXeWbGePXWIdsCqTy6Z5"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Come and See Deluxe: Command C",
         "url": "https://open.spotify.com/album/0K4QFlwgSqdYg3jaBRzh2X"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 204784,
       "name": "Bigger Than Me",
       "url": "https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "GETTIN' SWOLE",
+        "url": "https://open.spotify.com/album/0BFcuds2rpsI0tijtqRD75"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        },
+        {
+          "name": "Bryson Gray",
+          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+        },
+        {
+          "name": "BROTHER LARRY",
+          "url": "https://open.spotify.com/artist/0XRbwhPdk3LN07yO9KBsU4"
+        }
+      ],
+      "duration_ms": 247963,
+      "name": "GETTIN' SWOLE",
+      "url": "https://open.spotify.com/track/4IOXeWbGePXWIdsCqTy6Z5"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1687,42 +1687,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Shake Loose",
-        "url": "https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37"
-      },
-      "artists": [
-        {
-          "name": "LANELL GRANT",
-          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Shake Loose",
-      "url": "https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "VINE",
-        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "VINE",
-      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "TOO MANY RINGZ",
         "url": "https://open.spotify.com/album/41flcrtQjOQASdKoUG5L0K"
       },
@@ -1755,6 +1719,42 @@
       "duration_ms": 144661,
       "name": "BIG GOD",
       "url": "https://open.spotify.com/track/7vVvgh7OtySZqsFvDio9nW"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Shake Loose",
+        "url": "https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Shake Loose",
+      "url": "https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "VINE",
+        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "VINE",
+      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "THE BLOOD",
+        "url": "https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "THE BLOOD",
+      "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "CROSSES UP (Remix)",
         "url": "https://open.spotify.com/album/2T3xmPWQ3XAQbYtScBHoWm"
       },
@@ -2171,18 +2187,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "THE BLOOD",
-        "url": "https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w"
+        "name": "As of Late",
+        "url": "https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Th3 Saga",
+          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
         }
       ],
-      "duration_ms": 158709,
-      "name": "THE BLOOD",
-      "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
+      "duration_ms": 179263,
+      "name": "Live 03'",
+      "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2199,22 +2215,6 @@
       "duration_ms": 137602,
       "name": "WAR WITH ME",
       "url": "https://open.spotify.com/track/2nCC0o3My6Ht9I5HslfEhu"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "As of Late",
-        "url": "https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB"
-      },
-      "artists": [
-        {
-          "name": "Th3 Saga",
-          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
-        }
-      ],
-      "duration_ms": 179263,
-      "name": "Live 03'",
-      "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl"
-      },
-      "artists": [
-        {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
-        }
-      ],
-      "duration_ms": 138161,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
       },
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "duration_ms": 138161,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "GLOOM",
         "url": "https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi"
       },
@@ -2327,6 +2327,38 @@
       "duration_ms": 118260,
       "name": "GLOOM",
       "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "STILL 30 FOR 30",
+        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "STILL 30 FOR 30",
+      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Greater (Who Rollin')",
+        "url": "https://open.spotify.com/album/16zPRMVQCFoGtVckKsE71e"
+      },
+      "artists": [
+        {
+          "name": "Th3 Saga",
+          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Greater (Who Rollin')",
+      "url": "https://open.spotify.com/track/0dRjTEnEfIaYHDZJTw2NLE"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2371,18 +2403,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "STILL 30 FOR 30",
-        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
+        "name": "Pick Up The Pieces",
+        "url": "https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Dee Black",
+          "url": "https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 134250,
-      "name": "STILL 30 FOR 30",
-      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
+      "duration_ms": 221718,
+      "name": "Pick Up The Pieces",
+      "url": "https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2403,38 +2439,26 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Greater (Who Rollin')",
-        "url": "https://open.spotify.com/album/16zPRMVQCFoGtVckKsE71e"
+        "name": "DOPE",
+        "url": "https://open.spotify.com/album/44bz5xzKEjHLhSh3EU0kBC"
       },
       "artists": [
         {
-          "name": "Th3 Saga",
-          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Greater (Who Rollin')",
-      "url": "https://open.spotify.com/track/0dRjTEnEfIaYHDZJTw2NLE"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Pick Up The Pieces",
-        "url": "https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU"
-      },
-      "artists": [
-        {
-          "name": "Dee Black",
-          "url": "https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI"
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
         },
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Tay Nay",
+          "url": "https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i"
+        },
+        {
+          "name": "Kam Michael",
+          "url": "https://open.spotify.com/artist/39Bu0mGAL7CJojNkEY38cw"
         }
       ],
-      "duration_ms": 221718,
-      "name": "Pick Up The Pieces",
-      "url": "https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX"
+      "duration_ms": 160615,
+      "name": "DOPE",
+      "url": "https://open.spotify.com/track/7BZci4kWPGleTZTCqkflCN"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2475,22 +2499,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
+        "name": "BACK OUTSIDE",
+        "url": "https://open.spotify.com/album/5UrL9HgkeX2zCIdPg3Y28G"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
         }
       ],
-      "duration_ms": 120000,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
+      "duration_ms": 136421,
+      "name": "BACK OUTSIDE",
+      "url": "https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2511,18 +2531,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BACK OUTSIDE",
-        "url": "https://open.spotify.com/album/5UrL9HgkeX2zCIdPg3Y28G"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
       },
       "artists": [
         {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 136421,
-      "name": "BACK OUTSIDE",
-      "url": "https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0"
+      "duration_ms": 120000,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2611,30 +2635,6 @@
       "duration_ms": 184000,
       "name": "TIGHTROPE",
       "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "DOPE",
-        "url": "https://open.spotify.com/album/44bz5xzKEjHLhSh3EU0kBC"
-      },
-      "artists": [
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Tay Nay",
-          "url": "https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i"
-        },
-        {
-          "name": "Kam Michael",
-          "url": "https://open.spotify.com/artist/39Bu0mGAL7CJojNkEY38cw"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "DOPE",
-      "url": "https://open.spotify.com/track/7BZci4kWPGleTZTCqkflCN"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2775,6 +2775,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "DEMON KILLER UNIVERSITY (Bonus Pack)",
+        "url": "https://open.spotify.com/album/5XUVgHt49mYgNWNueHfy4f"
+      },
+      "artists": [
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "ON GOD TIME",
+      "url": "https://open.spotify.com/track/6RB5eX2jLHLntrAQ6VMiKU"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "TON TON",
         "url": "https://open.spotify.com/album/3Oh5smyODqhHcgvjccAzfB"
       },
@@ -2795,22 +2811,6 @@
       "duration_ms": 143576,
       "name": "TON TON",
       "url": "https://open.spotify.com/track/5asLRM4YbxAELKkOeRrnHS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "DEMON KILLER UNIVERSITY (Bonus Pack)",
-        "url": "https://open.spotify.com/album/5XUVgHt49mYgNWNueHfy4f"
-      },
-      "artists": [
-        {
-          "name": "DKG KIE",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "ON GOD TIME",
-      "url": "https://open.spotify.com/track/6RB5eX2jLHLntrAQ6VMiKU"
     },
     {
       "added_at": "2025-12-12 05:00:45",

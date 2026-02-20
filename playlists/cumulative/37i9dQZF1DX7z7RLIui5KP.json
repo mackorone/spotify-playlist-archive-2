@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Nameless",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Bahati",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR"
+      },
+      "artists": [
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216561,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt"
+    },
+    {
+      "album": {
         "name": "Baddies Need Love",
         "url": "https://open.spotify.com/album/0I4LwuokRzpfG7garp91AK"
       },
@@ -316,10 +334,32 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 238155,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu"
+    },
+    {
+      "album": {
+        "name": "Brayo",
+        "url": "https://open.spotify.com/album/3DpVSnYGtiuJhlFBximU41"
+      },
+      "artists": [
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119898,
+      "name": "Brayo",
+      "url": "https://open.spotify.com/track/7avyAPtxZStI48t4TSArol"
     },
     {
       "album": {
@@ -378,7 +418,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176000,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v"
@@ -1466,6 +1506,24 @@
       "duration_ms": 181285,
       "name": "Massage",
       "url": "https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE"
+    },
+    {
+      "album": {
+        "name": "Matamu",
+        "url": "https://open.spotify.com/album/0gWDq2SPuK9Ta3jU6o8dzB"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Matamu",
+      "url": "https://open.spotify.com/track/1lT4qy0PMeNyKmVjvXVdzj"
     },
     {
       "album": {
@@ -2850,7 +2908,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 172427,
       "name": "Wickedest Gurl",
       "url": "https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp"

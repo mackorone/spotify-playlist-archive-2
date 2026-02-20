@@ -1243,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "B\u00e1ilalo",
+        "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "KRACH",
+          "url": "https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137903,
+      "name": "B\u00e1ilalo",
+      "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
+    },
+    {
+      "album": {
         "name": "Call You",
         "url": "https://open.spotify.com/album/6rLQJEfNQDStkDBgfUldrZ"
       },
@@ -3553,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "Interdimensional Portal",
+        "url": "https://open.spotify.com/album/5wje3ystdWw1YJflk83f31"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333061,
+      "name": "Interdimensional Portal",
+      "url": "https://open.spotify.com/track/0RGq3BAWmOUoRNntkTUoGH"
+    },
+    {
+      "album": {
         "name": "pyrocbs",
         "url": "https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ"
       },
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196965,
       "name": "LSD Loop - Marie Vaunt Edit",
       "url": "https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ"
@@ -4450,7 +4490,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"

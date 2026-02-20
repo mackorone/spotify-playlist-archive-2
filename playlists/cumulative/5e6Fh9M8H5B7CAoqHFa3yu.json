@@ -10589,6 +10589,24 @@
     },
     {
       "album": {
+        "name": "For Myself",
+        "url": "https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN"
+      },
+      "artists": [
+        {
+          "name": "NOAH",
+          "url": "https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270222,
+      "name": "For Myself",
+      "url": "https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV"
+    },
+    {
+      "album": {
         "name": "Forward Melodicas",
         "url": "https://open.spotify.com/album/3XERK9rns14xbDoCtbobVn"
       },
@@ -21794,6 +21812,24 @@
       "duration_ms": 132413,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz"
+    },
+    {
+      "album": {
+        "name": "NIGHT SPIRAL",
+        "url": "https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169599,
+      "name": "NIGHT SPIRAL",
+      "url": "https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT"
     },
     {
       "album": {
@@ -34184,6 +34220,24 @@
       "duration_ms": 273000,
       "name": "Why Bittersweet?",
       "url": "https://open.spotify.com/track/4ek6efUNSL1cCQMpoHJ1Lt"
+    },
+    {
+      "album": {
+        "name": "why don't u love me",
+        "url": "https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF"
+      },
+      "artists": [
+        {
+          "name": "abbot crow",
+          "url": "https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97684,
+      "name": "why don't u love me",
+      "url": "https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL"
     },
     {
       "album": {

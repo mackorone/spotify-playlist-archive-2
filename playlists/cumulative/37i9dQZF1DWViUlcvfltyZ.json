@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Les Votives in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Fight Pausa, clauscalmo, Guinevere sfocati ma in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229973,
       "name": "27",
       "url": "https://open.spotify.com/track/6B8KXfNXvHHjFIIWMkOx0c"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196240,
       "name": "Arise I",
       "url": "https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175000,
       "name": "da questo non si torna",
       "url": "https://open.spotify.com/track/1UJWkw9zS2c0GV0VPO8gHC"
@@ -7960,7 +7960,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 117007,
       "name": "Dipende dalla storia",
       "url": "https://open.spotify.com/track/7MvLxSRXMs8e95pXh2R8IR"
@@ -13244,6 +13244,24 @@
       "duration_ms": 194994,
       "name": "Hyperdrive",
       "url": "https://open.spotify.com/track/4uSa5FEquJTsmd9nqtQCuR"
+    },
+    {
+      "album": {
+        "name": "I Am a Cat and I Love My Dog",
+        "url": "https://open.spotify.com/album/4pP3Ji6kXSeZODX4OMxtSE"
+      },
+      "artists": [
+        {
+          "name": "Animaux Formidables",
+          "url": "https://open.spotify.com/artist/6KgDrxNpxnUNIaYFL6kK7Q"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122723,
+      "name": "I Am a Cat and I Love My Dog",
+      "url": "https://open.spotify.com/track/7ehonCz0Cvo6exRjVo00uI"
     },
     {
       "album": {
@@ -21709,6 +21727,24 @@
     },
     {
       "album": {
+        "name": "Nuova Fabbrica",
+        "url": "https://open.spotify.com/album/73V9Q9Ywx1ujqC9S783fvF"
+      },
+      "artists": [
+        {
+          "name": "Asianoia",
+          "url": "https://open.spotify.com/artist/4eXBpcFoSaIDWJ11cgvEXt"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Nuova Fabbrica",
+      "url": "https://open.spotify.com/track/4cYsTjNjncB2pBKANMcgCq"
+    },
+    {
+      "album": {
         "name": "Nuvola II",
         "url": "https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr"
       },
@@ -23769,6 +23805,24 @@
     },
     {
       "album": {
+        "name": "Pissed Off 2",
+        "url": "https://open.spotify.com/album/5Ou5svmOyX3RYQJTTYdpbM"
+      },
+      "artists": [
+        {
+          "name": "Motel Cecil",
+          "url": "https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Pissed Off 2",
+      "url": "https://open.spotify.com/track/3AkefS3Ame4W5eQN8Z0mr8"
+    },
+    {
+      "album": {
         "name": "Pista Nera",
         "url": "https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3"
       },
@@ -24454,7 +24508,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 174240,
       "name": "President Alien",
       "url": "https://open.spotify.com/track/3qdCJh1aQeKQF1RYaBLveZ"
@@ -24836,6 +24890,24 @@
       "duration_ms": 168775,
       "name": "Provare ancora",
       "url": "https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia"
+    },
+    {
+      "album": {
+        "name": "Prove d'esistenza/Il gesto",
+        "url": "https://open.spotify.com/album/1Oml85X4GIo8WQNTbSNBXN"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244834,
+      "name": "Prove d'esistenza/Il gesto",
+      "url": "https://open.spotify.com/track/2pUSAvWIx9rW02g6FuR22o"
     },
     {
       "album": {
@@ -27838,7 +27910,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 203132,
       "name": "Smetto Col Pane",
       "url": "https://open.spotify.com/track/6SBSS2uw9SQRO260GkM2ty"
@@ -28636,6 +28708,28 @@
       "duration_ms": 211151,
       "name": "Splendere",
       "url": "https://open.spotify.com/track/1IbTQtCVmIHfixaU02ScIL"
+    },
+    {
+      "album": {
+        "name": "SPOILER",
+        "url": "https://open.spotify.com/album/2L3AZJro1BrlYVOJHyYzWI"
+      },
+      "artists": [
+        {
+          "name": "LE CANZONI GIUSTE",
+          "url": "https://open.spotify.com/artist/6O2ivzf1kanrflaKj2Y4PR"
+        },
+        {
+          "name": "Domenico Bini",
+          "url": "https://open.spotify.com/artist/4vRyNOlNEtaTX3QHJ6jFlF"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158359,
+      "name": "SPOILER",
+      "url": "https://open.spotify.com/track/4gHWoVKMH0HseXQIdkaXtS"
     },
     {
       "album": {
@@ -30970,7 +31064,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201546,
       "name": "traffico",
       "url": "https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q"
@@ -31273,6 +31367,24 @@
     },
     {
       "album": {
+        "name": "Truccare la realt\u00e0 non potendo cambiare il mondo",
+        "url": "https://open.spotify.com/album/5atbNn4k96AdHauLAr6yAD"
+      },
+      "artists": [
+        {
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208689,
+      "name": "Truccare la realt\u00e0 non potendo cambiare il mondo",
+      "url": "https://open.spotify.com/track/1UeROaCYXfrU627QBlXcBY"
+    },
+    {
+      "album": {
         "name": "THE TAKEOFF",
         "url": "https://open.spotify.com/album/4aydi1lM0ILF8tD6pfJ9nF"
       },
@@ -31426,6 +31538,24 @@
       "duration_ms": 248530,
       "name": "Tuono",
       "url": "https://open.spotify.com/track/64jdgyPVTzzlKBUDnaiRi6"
+    },
+    {
+      "album": {
+        "name": "Turn into a Bird",
+        "url": "https://open.spotify.com/album/4FvZYNJMDAHuTP0eNhSz2W"
+      },
+      "artists": [
+        {
+          "name": "Angel Names",
+          "url": "https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Turn into a Bird",
+      "url": "https://open.spotify.com/track/042SjAghI54pjqLN1rUEqD"
     },
     {
       "album": {
@@ -32370,7 +32500,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170386,
       "name": "Urlo",
       "url": "https://open.spotify.com/track/1jOiOzOLZYixUFCTuhRnWk"
@@ -33330,7 +33460,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 183253,
       "name": "Vorrei",
       "url": "https://open.spotify.com/track/1F2MhenVool2wWoeUykTC7"
@@ -33752,6 +33882,24 @@
       "duration_ms": 216480,
       "name": "WHAT\u2019S THE POINT",
       "url": "https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A"
+    },
+    {
+      "album": {
+        "name": "When You Breathe",
+        "url": "https://open.spotify.com/album/2Q8TE2m1LBZFYoJBfsLeo4"
+      },
+      "artists": [
+        {
+          "name": "Adriano Marinelli",
+          "url": "https://open.spotify.com/artist/7u9k2DpecPOhk1wiKhIa8b"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230135,
+      "name": "When You Breathe",
+      "url": "https://open.spotify.com/track/4VAykDBcTSHuCgdlIMLXuc"
     },
     {
       "album": {

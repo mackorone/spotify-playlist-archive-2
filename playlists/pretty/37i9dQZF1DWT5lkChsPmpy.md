@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,358 likes - 275 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,508 likes - 275 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 274 | [Think 'Bout It](https://open.spotify.com/track/5PuRbn05FsrvzbfkeXJs2P) | [Josue Kornblit](https://open.spotify.com/artist/0ZSyq1kamkeM9902EnkzBd) | [Think 'Bout It](https://open.spotify.com/album/0oXrr6xo6MGvtqW04RVASi) | 4:11 |
 | 275 | [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 |
 
-Snapshot ID: `AAAAAPSQVOKiBdwFXv8fMUrRvA1uBClQ`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

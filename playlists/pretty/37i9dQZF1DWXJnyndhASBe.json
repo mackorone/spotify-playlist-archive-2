@@ -1,15 +1,75 @@
 {
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kaz Ba\u0142agane",
-  "num_followers": 573627,
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Okekel",
+  "num_followers": 573619,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKh7Jk0rBCtb48yI0yzpeT9s9wKK",
+  "snapshot_id": "AAAAAGSV2xV9+ToGxVc0aeRJRoFOa9hO",
   "tracks": [
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Zwolnij? (deluxe)",
+        "url": "https://open.spotify.com/album/28hhwG2DedbFtRYRWzqXl3"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "duration_ms": 122763,
+      "name": "Bez pokoju",
+      "url": "https://open.spotify.com/track/2n5ZbIp73chEOuXOJrfkOX"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "FRISBEE",
+        "url": "https://open.spotify.com/album/50VqoEoeDaD1mBmDB531kB"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "duration_ms": 177402,
+      "name": "FRISBEE",
+      "url": "https://open.spotify.com/track/0SBlmCpy5NYCg2NcXSG2Mp"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "ZA KOGO MNIE MASZ?",
+        "url": "https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ZA KOGO MNIE MASZ?",
+      "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "Blondynki",
         "url": "https://open.spotify.com/album/6920FWz18dO0efFgf94V0L"
@@ -25,7 +85,7 @@
       "url": "https://open.spotify.com/track/1YiDSE4DPdr4HA33H6CJGF"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/2TBc8024032mYG0HGtjpsx"
@@ -53,7 +113,31 @@
       "url": "https://open.spotify.com/track/2C9ZtYMh1FNpMBB9ARaZhs"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Zeppy Zep",
+          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "FRASCATI",
+      "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "PRZY SONECIE",
         "url": "https://open.spotify.com/album/5RdvplsYD9RsyIMxpfdJ3a"
@@ -69,31 +153,95 @@
       "url": "https://open.spotify.com/track/601PfiSwPySKFoAHEcc1Aw"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "ZA KOGO MNIE MASZ?",
-        "url": "https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY"
+        "name": "ODNOVA",
+        "url": "https://open.spotify.com/album/40PG3ivscW5Af8mCfTwj5J"
       },
       "artists": [
         {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
         },
         {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
         },
         {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+          "name": "ADZ",
+          "url": "https://open.spotify.com/artist/3f5gO11gbpxXDddvWESMuk"
         }
       ],
-      "duration_ms": 140000,
-      "name": "ZA KOGO MNIE MASZ?",
-      "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
+      "duration_ms": 142420,
+      "name": "Od nowa",
+      "url": "https://open.spotify.com/track/7DRGpLZm5v8t4koHdAFRFe"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "BALENCI",
+        "url": "https://open.spotify.com/album/2xht0UECXf1I17uxSpnPlk"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "BALENCI",
+      "url": "https://open.spotify.com/track/1RjgnAi4yxYhvDTd2KbmMm"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "BABY?",
+        "url": "https://open.spotify.com/album/6nLb5cO1oeOypJhEwYijzy"
+      },
+      "artists": [
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        },
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "BABY?",
+      "url": "https://open.spotify.com/track/0tYT7BN5IYY8u5pjP1Sv79"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "KANCLERZ",
+        "url": "https://open.spotify.com/album/59hxqaxQwVfEskndxApQi5"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "duration_ms": 214344,
+      "name": "KANCLERZ",
+      "url": "https://open.spotify.com/track/6IWrNipdYVMaJKpakx6SmM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "TATU",
         "url": "https://open.spotify.com/album/14NUckMAJvecll0fSZXQTw"
@@ -121,199 +269,35 @@
       "url": "https://open.spotify.com/track/68jDhA3rPhBWVGiqWj1jzC"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+        "name": "Raffles",
+        "url": "https://open.spotify.com/album/1Ud1zphibbmsOJlA5cCr2X"
       },
       "artists": [
         {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
         },
-        {
-          "name": "Zeppy Zep",
-          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "FRASCATI",
-      "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "KANCLERZ",
-        "url": "https://open.spotify.com/album/59hxqaxQwVfEskndxApQi5"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        },
-        {
-          "name": "BeMelo",
-          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "KANCLERZ",
-      "url": "https://open.spotify.com/track/6IWrNipdYVMaJKpakx6SmM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "nice_g\u00fcy",
-        "url": "https://open.spotify.com/album/5EWeEYnoQ664r7QcR6TVVS"
-      },
-      "artists": [
-        {
-          "name": "MI\u00dc",
-          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
-        }
-      ],
-      "duration_ms": 163299,
-      "name": "nice_g\u00fcy",
-      "url": "https://open.spotify.com/track/3OBdwPeC4q0Wcipve3fa2l"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        },
-        {
-          "name": "Frenkie G",
-          "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
-        }
-      ],
-      "duration_ms": 192134,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "BALENCI",
-        "url": "https://open.spotify.com/album/2xht0UECXf1I17uxSpnPlk"
-      },
-      "artists": [
         {
           "name": "Malik Montana",
           "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 131368,
-      "name": "BALENCI",
-      "url": "https://open.spotify.com/track/1RjgnAi4yxYhvDTd2KbmMm"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "WAWA022",
-        "url": "https://open.spotify.com/album/6DHgCV4oanO3VdMa3dZVB0"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
         },
         {
-          "name": "Diho",
-          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
-        },
-        {
-          "name": "BNP",
-          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
         }
       ],
-      "duration_ms": 228000,
-      "name": "WAWA022",
-      "url": "https://open.spotify.com/track/4aDA4UcSQhHa9jC0QivFhf"
+      "duration_ms": 130333,
+      "name": "Raffles",
+      "url": "https://open.spotify.com/track/4ya0nxb8Eq7PG4pE6q0JWA"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
-        "url": "https://open.spotify.com/album/034bX2fFpFwsAnRsY0TKkg"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        }
-      ],
-      "duration_ms": 145811,
-      "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
-      "url": "https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
-        "url": "https://open.spotify.com/album/6b4fZRaYKXmHZxhIaDAtIH"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
-      "url": "https://open.spotify.com/track/6mzhtZbzJrjbnKwUp3XQee"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Plain Jane",
-        "url": "https://open.spotify.com/album/1HfaMal3Pyq9XkLc9SnnBP"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/5FgLtqCQ4uy59ubcTVgS03"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "GUARDIAN ANGEL ULTRA MAX",
         "url": "https://open.spotify.com/album/6Gspl3IhI9QJO9NRVJTPKf"
@@ -345,291 +329,71 @@
       "url": "https://open.spotify.com/track/5OoRgwQhV6BSkYGFsWPkxp"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Kodak",
-        "url": "https://open.spotify.com/album/2H9tCcNpAQXtBSDmCRpra2"
+        "name": "nice_g\u00fcy",
+        "url": "https://open.spotify.com/album/5EWeEYnoQ664r7QcR6TVVS"
       },
       "artists": [
         {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+          "name": "MI\u00dc",
+          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
         }
       ],
-      "duration_ms": 170344,
-      "name": "Kodak",
-      "url": "https://open.spotify.com/track/1WEWw4wlvHTpEQVHRqAhEg"
+      "duration_ms": 163299,
+      "name": "nice_g\u00fcy",
+      "url": "https://open.spotify.com/track/3OBdwPeC4q0Wcipve3fa2l"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Samotnie",
-        "url": "https://open.spotify.com/album/1iEPlhIPMAhTNgqFUVVG7L"
+        "name": "Plain Jane",
+        "url": "https://open.spotify.com/album/1HfaMal3Pyq9XkLc9SnnBP"
       },
       "artists": [
-        {
-          "name": "Oliver Olson",
-          "url": "https://open.spotify.com/artist/70ArguSAsID4vw7dOl40VN"
-        },
-        {
-          "name": "Nicole Tymcio",
-          "url": "https://open.spotify.com/artist/09deB3EjQt1Zkm3PgQo7Xd"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        },
-        {
-          "name": "DOPEHOUSE",
-          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
-        },
-        {
-          "name": "NICOLSON",
-          "url": "https://open.spotify.com/artist/6dgClrSfBKr0c2OoIQr8nY"
-        }
-      ],
-      "duration_ms": 185034,
-      "name": "Samotnie",
-      "url": "https://open.spotify.com/track/5M2sNASahXwekfvbfSqmCg"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Raffles",
-        "url": "https://open.spotify.com/album/1Ud1zphibbmsOJlA5cCr2X"
-      },
-      "artists": [
-        {
-          "name": "Tax Free",
-          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
-        },
         {
           "name": "Malik Montana",
           "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/5FgLtqCQ4uy59ubcTVgS03"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
         },
-        {
-          "name": "Kazior",
-          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
-        },
-        {
-          "name": "CUZCO$",
-          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
-        }
-      ],
-      "duration_ms": 130333,
-      "name": "Raffles",
-      "url": "https://open.spotify.com/track/4ya0nxb8Eq7PG4pE6q0JWA"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "B\u0118D\u0118 PREZYDENTEM :)",
-        "url": "https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "B\u0118D\u0118 PREZYDENTEM :)",
-      "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "PRAGNIE\u0143 BRAK",
-        "url": "https://open.spotify.com/album/076bMlMPKEhb0OM7tyWiJC"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        },
-        {
-          "name": "Gmeniu",
-          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "PRAGNIE\u0143 BRAK",
-      "url": "https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "FF",
-        "url": "https://open.spotify.com/album/2ydy628JCAOpPeT90o4f6z"
-      },
-      "artists": [
-        {
-          "name": "M\u0142ody West",
-          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Warszawski sen",
-      "url": "https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "ARROGANT RADIO 1.5",
-        "url": "https://open.spotify.com/album/5u77oNG1pmKJnh5xiLg077"
-      },
-      "artists": [
-        {
-          "name": "Kosior",
-          "url": "https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX"
-        },
-        {
-          "name": "White Widow",
-          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "SWAG DISEASE",
-      "url": "https://open.spotify.com/track/618Qh6DCeSZICtl8Ibst4A"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Czarne niebo",
-        "url": "https://open.spotify.com/album/2bpojrmP3bJmrQ40EigF8t"
-      },
-      "artists": [
-        {
-          "name": "Opa\u0142",
-          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        },
-        {
-          "name": ".voodoo people",
-          "url": "https://open.spotify.com/artist/3Z4rxaiMpSD2nMIvfEPeqk"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Czarne niebo",
-      "url": "https://open.spotify.com/track/7an7lHceBrkBBxAtAPHsKe"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "3347",
-        "url": "https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B"
-      },
-      "artists": [
         {
           "name": "Mata",
           "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
         },
         {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "Frenkie G",
+          "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
         }
       ],
-      "duration_ms": 123428,
-      "name": "BEZ NIKOGO OBOK",
-      "url": "https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV"
+      "duration_ms": 192134,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "woda sodowa",
-        "url": "https://open.spotify.com/album/1H5tIdpL8igJFWmaIBYqAb"
-      },
-      "artists": [
-        {
-          "name": "zdunekk",
-          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
-        },
-        {
-          "name": "Skibovicz",
-          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
-        },
-        {
-          "name": "prod. Liwi",
-          "url": "https://open.spotify.com/artist/4sLbHV0YOWKmOJcdIJMDsT"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "woda sodowa",
-      "url": "https://open.spotify.com/track/3A0SqfVlxoNk8TSukgDGKL"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "Rumak",
-          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
-      "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Nie b\u00f3j si\u0119 ba\u0107",
-        "url": "https://open.spotify.com/album/3MGZ2sgslhF9py8bNpdkIN"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        },
-        {
-          "name": "Anita Lipnicka",
-          "url": "https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK"
-        },
-        {
-          "name": "Luxon",
-          "url": "https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc"
-        }
-      ],
-      "duration_ms": 216047,
-      "name": "Nie b\u00f3j si\u0119 ba\u0107",
-      "url": "https://open.spotify.com/track/0LvpebWbdZaeN4Izhk9yM3"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "APOROFOBIA II",
         "url": "https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i"
@@ -645,31 +409,7 @@
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Bez i sen",
-        "url": "https://open.spotify.com/album/5tW4GFypw0VCKtShvWuGBZ"
-      },
-      "artists": [
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        },
-        {
-          "name": "Opa\u0142",
-          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
-        },
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        }
-      ],
-      "duration_ms": 170049,
-      "name": "Bez i sen",
-      "url": "https://open.spotify.com/track/24QnlTzLt6THIPmz5F48n0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "EX UMBRA AD LIBERTATEM",
         "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
@@ -685,71 +425,7 @@
       "url": "https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "FREAKY",
-        "url": "https://open.spotify.com/album/1MtsjPxpeytPlZzXGnDeG0"
-      },
-      "artists": [
-        {
-          "name": "Fagata",
-          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "FREAKY",
-      "url": "https://open.spotify.com/track/4LxUjmVAmYTSQyrYzHtXi4"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "JU\u017b P\u00d3\u0179NO ALE PIENI\u0104DZ NIE \u015aPI",
-        "url": "https://open.spotify.com/album/6PyIKhrbcnzupM53Dxwm4d"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        },
-        {
-          "name": "YPNTY",
-          "url": "https://open.spotify.com/artist/1l5PIssGE9uvouaaZCBA7S"
-        }
-      ],
-      "duration_ms": 196763,
-      "name": "JU\u017b P\u00d3\u0179NO ALE PIENI\u0104DZ NIE \u015aPI",
-      "url": "https://open.spotify.com/track/1mz4emMquYK6TclYOw6pNp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "Rumak",
-          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "BEZ STRESU",
-      "url": "https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "Rura musi yeah",
         "url": "https://open.spotify.com/album/0IJG6vKh4cB5f2fkEspyJj"
@@ -777,219 +453,51 @@
       "url": "https://open.spotify.com/track/0pcDPL1VAaCYECzx8PMhMe"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Mini Man",
-        "url": "https://open.spotify.com/album/4fjYBRd2IduLUZyXRB06tw"
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/2efgDVZpC7lj5xA0ulLcje"
       },
       "artists": [
         {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
         },
         {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
         }
       ],
-      "duration_ms": 148310,
-      "name": "Mini Man",
-      "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
+      "duration_ms": 170066,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/5FnD4h9hEb6ii4zPBLGaGb"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "HOLLYWOOD SMILE: Xtreme",
-        "url": "https://open.spotify.com/album/028DGavDDAcGMpNWeuFap0"
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
       },
       "artists": [
         {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Rumak",
+          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
-      "duration_ms": 152571,
-      "name": "KLASYK",
-      "url": "https://open.spotify.com/track/7MhPXeXKs9DIQFR31in4hQ"
+      "duration_ms": 261120,
+      "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
+      "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Kamie\u0144 z serca",
-        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        }
-      ],
-      "duration_ms": 409600,
-      "name": "Kamie\u0144 z serca",
-      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Odegaard",
-        "url": "https://open.spotify.com/album/4s684epQ5Mto0TmrdMgCnR"
-      },
-      "artists": [
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        }
-      ],
-      "duration_ms": 109859,
-      "name": "Odegaard",
-      "url": "https://open.spotify.com/track/0GUZWr03s8y0x4BpvXGhDH"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "Kawior",
-        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
-      },
-      "artists": [
-        {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
-        },
-        {
-          "name": "BL Beatz",
-          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Kawior",
-      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "CALI W Z\u0141OCIE",
-        "url": "https://open.spotify.com/album/66mZq26SoaBzsbzkgxqaha"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        },
-        {
-          "name": "BeMelo",
-          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "CALI W Z\u0141OCIE",
-      "url": "https://open.spotify.com/track/06mA8YYnatA95QCPhVFJY0"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "INTERLUDIUM",
-        "url": "https://open.spotify.com/album/3p6MAvK3MoWfAoSd85osMl"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        },
-        {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "NIE CHC\u0118 WRACA\u0106",
-      "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
-        "url": "https://open.spotify.com/album/3QoWaIRGAKUa5L3eIzAQP7"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
-      "url": "https://open.spotify.com/track/1UBZRfCnZZfggUooQCJ0Wn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
-        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
-      },
-      "artists": [
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Duit",
-          "url": "https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra"
-        }
-      ],
-      "duration_ms": 225751,
-      "name": "NORADRENALINA",
-      "url": "https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
-      "album": {
-        "name": "CASABLANCA",
-        "url": "https://open.spotify.com/album/3rMc7cIJq4QPi8G520mm4j"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
-        },
-        {
-          "name": "BNP",
-          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
-        }
-      ],
-      "duration_ms": 217850,
-      "name": "CASABLANCA",
-      "url": "https://open.spotify.com/track/0MlKudbYsh9JbHYNbrojdq"
-    },
-    {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4K8UfUWnfBvnbqcA9MQS5j"
@@ -1013,7 +521,83 @@
       "url": "https://open.spotify.com/track/0a1gVWugPujYq0gN6QFHRa"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
+        "url": "https://open.spotify.com/album/034bX2fFpFwsAnRsY0TKkg"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "duration_ms": 145811,
+      "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
+      "url": "https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "ZNANA",
+        "url": "https://open.spotify.com/album/56tv2DrSNgflJZRePN6hAf"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 144788,
+      "name": "ZNANA",
+      "url": "https://open.spotify.com/track/4XR9BKOo3oE8qEO8m59lDS"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "WAWA022",
+        "url": "https://open.spotify.com/album/6DHgCV4oanO3VdMa3dZVB0"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "WAWA022",
+      "url": "https://open.spotify.com/track/4aDA4UcSQhHa9jC0QivFhf"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "Baciata",
         "url": "https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru"
@@ -1029,7 +613,83 @@
       "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "KLAP KLAP",
+        "url": "https://open.spotify.com/album/1nZZqoVn0d0l2X9J4FBfQO"
+      },
+      "artists": [
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "KLAP KLAP",
+      "url": "https://open.spotify.com/track/18SnCvyyD2teuFvaX6hXkW"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Nie b\u00f3j si\u0119 ba\u0107",
+        "url": "https://open.spotify.com/album/3MGZ2sgslhF9py8bNpdkIN"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        },
+        {
+          "name": "Anita Lipnicka",
+          "url": "https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK"
+        },
+        {
+          "name": "Luxon",
+          "url": "https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc"
+        }
+      ],
+      "duration_ms": 216047,
+      "name": "Nie b\u00f3j si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/0LvpebWbdZaeN4Izhk9yM3"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Kamie\u0144 z serca",
+        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 409600,
+      "name": "Kamie\u0144 z serca",
+      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "B\u0118D\u0118 PREZYDENTEM :)",
+        "url": "https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "B\u0118D\u0118 PREZYDENTEM :)",
+      "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "mmmaybach",
         "url": "https://open.spotify.com/album/7MRTup7GD3gPttZBOirVDe"
@@ -1049,7 +709,267 @@
       "url": "https://open.spotify.com/track/7sgaYfG76FeGdXOgTd9MRp"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Rumak",
+          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "BEZ STRESU",
+      "url": "https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/3rMc7cIJq4QPi8G520mm4j"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "duration_ms": 217850,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/0MlKudbYsh9JbHYNbrojdq"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Kawior",
+        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "BL Beatz",
+          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Kawior",
+      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "INTERLUDIUM",
+        "url": "https://open.spotify.com/album/3p6MAvK3MoWfAoSd85osMl"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        },
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "NIE CHC\u0118 WRACA\u0106",
+      "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/2H9tCcNpAQXtBSDmCRpra2"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "duration_ms": 170344,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/1WEWw4wlvHTpEQVHRqAhEg"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "3347",
+        "url": "https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "BEZ NIKOGO OBOK",
+      "url": "https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Mini Man",
+        "url": "https://open.spotify.com/album/4fjYBRd2IduLUZyXRB06tw"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+        }
+      ],
+      "duration_ms": 148310,
+      "name": "Mini Man",
+      "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
+        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Duit",
+          "url": "https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra"
+        }
+      ],
+      "duration_ms": 225751,
+      "name": "NORADRENALINA",
+      "url": "https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "JU\u017b P\u00d3\u0179NO ALE PIENI\u0104DZ NIE \u015aPI",
+        "url": "https://open.spotify.com/album/6PyIKhrbcnzupM53Dxwm4d"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "YPNTY",
+          "url": "https://open.spotify.com/artist/1l5PIssGE9uvouaaZCBA7S"
+        }
+      ],
+      "duration_ms": 196763,
+      "name": "JU\u017b P\u00d3\u0179NO ALE PIENI\u0104DZ NIE \u015aPI",
+      "url": "https://open.spotify.com/track/1mz4emMquYK6TclYOw6pNp"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
+        "url": "https://open.spotify.com/album/6b4fZRaYKXmHZxhIaDAtIH"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "NAWET NIE WIESZ JAK CHCIA\u0141BYM M\u00d3C TO POCZU\u0106 JESZCZE RAZ",
+      "url": "https://open.spotify.com/track/6mzhtZbzJrjbnKwUp3XQee"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "FREAKY",
+        "url": "https://open.spotify.com/album/1MtsjPxpeytPlZzXGnDeG0"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "FREAKY",
+      "url": "https://open.spotify.com/track/4LxUjmVAmYTSQyrYzHtXi4"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Odegaard",
+        "url": "https://open.spotify.com/album/4s684epQ5Mto0TmrdMgCnR"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "duration_ms": 109859,
+      "name": "Odegaard",
+      "url": "https://open.spotify.com/track/0GUZWr03s8y0x4BpvXGhDH"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
+        "url": "https://open.spotify.com/album/3QoWaIRGAKUa5L3eIzAQP7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "WIDZIA\u0141AM JU\u017b WSZYSTKO",
+      "url": "https://open.spotify.com/track/1UBZRfCnZZfggUooQCJ0Wn"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
       "album": {
         "name": "SZLAUFY",
         "url": "https://open.spotify.com/album/0EEtc8Vukp8hwVsp70rcpa"
@@ -1077,24 +997,60 @@
       "url": "https://open.spotify.com/track/1ygXFoGaiGkrdKv6PlgOGc"
     },
     {
-      "added_at": "2026-02-12 23:00:52",
+      "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Zwolnij?",
-        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
+        "name": "HOLLYWOOD SMILE: Xtreme",
+        "url": "https://open.spotify.com/album/028DGavDDAcGMpNWeuFap0"
       },
       "artists": [
         {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
         },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "KLASYK",
+      "url": "https://open.spotify.com/track/7MhPXeXKs9DIQFR31in4hQ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "FF",
+        "url": "https://open.spotify.com/album/2ydy628JCAOpPeT90o4f6z"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Warszawski sen",
+      "url": "https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "PRAGNIE\u0143 BRAK",
+        "url": "https://open.spotify.com/album/076bMlMPKEhb0OM7tyWiJC"
+      },
+      "artists": [
         {
           "name": "vkie",
           "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
         }
       ],
-      "duration_ms": 222830,
-      "name": "Poczeka",
-      "url": "https://open.spotify.com/track/3DAQsaLYRQ6oBa05GSaAFK"
+      "duration_ms": 183529,
+      "name": "PRAGNIE\u0143 BRAK",
+      "url": "https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se"
     }
   ],
   "unique_name": "RAP GENERACJA",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,101 songs - 2 day 19 hr 49 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,103 songs - 2 day 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1109,5 +1109,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1099 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
 | 1100 | [Defeat Here](https://open.spotify.com/track/0cY730wUNrEZlvj4mCIdyH) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:36 |
 | 1101 | [Delirious](https://open.spotify.com/track/7D1FuWbL2SaSPfwr51dwUG) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death, The Shibuya Incident Original Soundtrack](https://open.spotify.com/album/4QYMuzcdWP6xCtGT72XO0O) | 2:30 |
+| 1102 | [STATS](https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:49 |
+| 1103 | [Lights In My Mind](https://open.spotify.com/track/4GSgx3TcPDH9RTHF7yg4BM) | [Cressida](https://open.spotify.com/artist/3Mv2LWIIrvxUKyqnXX1CSD) | [Cressida](https://open.spotify.com/album/3jM6YtRZ6Ri50V54Op2FMp) | 2:44 |
 
-Snapshot ID: `AAAH90KfWpNrtqwYUsqLu4533Ee3UBry`
+Snapshot ID: `AAAH+U2jBS1LXizQQG4jcqNXXWdE2kvk`

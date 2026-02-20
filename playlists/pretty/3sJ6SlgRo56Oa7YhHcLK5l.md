@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,497 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,489 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 | 10 | [Talk Is Cheap](https://open.spotify.com/track/6rZG4b7DocC5rO43Lv8zWi) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Talk Is Cheap](https://open.spotify.com/album/6If2bJHDvvM5PvxnKO8IAX) | 3:40 |
 | 11 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 12 | [Jealousy](https://open.spotify.com/track/2igkt5sVPBzrLXKWR98rFF) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [In The Cards](https://open.spotify.com/album/1Syxk8SXUlybhTg9AhzZmn) | 3:35 |
-| 13 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/3qZkpG7RW81clweFyefCe2) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Overtime EP](https://open.spotify.com/album/5lLQIsKacRMQwp4tfrocjh) | 3:26 |
+| 13 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/3qZkpG7RW81clweFyefCe2) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Overtime EP](https://open.spotify.com/album/5lLQIsKacRMQwp4tfrocjh) | 3:25 |
 | 14 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
 | 15 | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 |
 | 16 | [Back Up \(feat\. Big Sean\)](https://open.spotify.com/track/0sr5LOMv4x0jmTYfe6oOvP) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [\#AndSeeThatsTheThing](https://open.spotify.com/album/06KRobP4coZ4I6Kfgxb1FV) | 4:01 |

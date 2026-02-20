@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-647 songs - 1 day 12 hr 2 min
+648 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 | 2021-03-02 | 2023-11-11 |
 | [007 \(Shanty Town\)](https://open.spotify.com/track/3xGRmyXYeiEJIKv1wlngHl) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:33 | 2022-09-22 | 2022-11-14 |
 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 | 2022-09-22 | 2024-04-19 |
-| [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2021-03-02 | 2026-02-10 |
+| [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2021-03-02 |  |
 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2022-09-22 | 2024-04-19 |
 | [A Long Story](https://open.spotify.com/track/0bhm8fwHLh1OQlvL1ey71e) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Reggae Hits](https://open.spotify.com/album/6QkI9ScywRrQtMSHqgIewA) | 3:11 | 2022-09-22 | 2024-01-30 |
 | [Africa Is Paradise](https://open.spotify.com/track/4mE0swmToqH3VTxczrriGJ) | [Conscious Minds](https://open.spotify.com/artist/11y1qoHYKS7JRxKP10VDen) | [The Best of Lloyd Charmers](https://open.spotify.com/album/4hjg5OZnRMnkXIvY8D8HYM) | 3:15 | 2022-09-22 | 2024-01-30 |
@@ -44,7 +44,7 @@
 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 | 2021-03-02 | 2024-04-19 |
 | [Beat Down Babylon](https://open.spotify.com/track/0wVjx0J6LK1JswJnUaqbFq) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon \(Expanded Version\)](https://open.spotify.com/album/5LaUnFk76oOD8YkhDb7ESr) | 2:35 | 2022-09-22 | 2024-02-06 |
 | [Beat Down Babylon](https://open.spotify.com/track/29E5CC1KBt7BwBFCN7hVqH) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon \(Expanded Version\)](https://open.spotify.com/album/59LLBbHQJcib8nuXOv176P) | 2:35 | 2022-09-22 | 2023-11-11 |
-| [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 | 2021-03-02 |  |
+| [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 | 2021-03-02 | 2026-02-20 |
 | [Beat Down Babylon](https://open.spotify.com/track/3n80gl3m3XiA4sTtP7WJtx) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Trojan Classic Reggae Vol\. 1](https://open.spotify.com/album/7Bwmc0G9fy0wLWug3wQiPF) | 2:34 | 2022-09-22 | 2022-11-13 |
 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 | 2021-03-02 | 2024-04-19 |
 | [Better Must Come](https://open.spotify.com/track/0qK2bGGsNVHUQDA5VYu1em) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Pure Gold \- Foundation Singers](https://open.spotify.com/album/3JV35h1jc2aUw0msarraia) | 2:44 | 2022-09-22 | 2022-11-13 |
@@ -287,6 +287,7 @@
 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 | 2022-09-22 | 2024-04-19 |
 | [Ku Klux Klan](https://open.spotify.com/track/5xxel0yIxwmj7F28THaJjF) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Cookout](https://open.spotify.com/album/0uSdjwP39MudusThmPSCV3) | 3:34 | 2022-09-22 | 2022-11-13 |
 | [Ku Klux Klan](https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 3:35 | 2022-09-22 | 2024-03-29 |
+| [Ku Klux Klan](https://open.spotify.com/track/0NlA0b2RNynMGZoxZm8hSq) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Handsworth Revolution](https://open.spotify.com/album/0FxdNrYsdsUlZgZkJgr3NL) | 3:41 | 2024-01-29 |  |
 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 | 2021-03-02 |  |
 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 | 2022-09-22 |  |
 | [Last War](https://open.spotify.com/track/7LjmwVHnGqRsDvFCf2FfSt) | [Beres Hammond & Zap Pow](https://open.spotify.com/artist/0o9mP6OaZCcKVfkhXi54KL) | [Can't Stop A Man](https://open.spotify.com/album/6ghigyTicHIi5CjSMVzFa9) | 4:02 | 2022-08-18 | 2022-09-23 |
@@ -348,7 +349,7 @@
 | [Money In My Pocket \- 1978 Version](https://open.spotify.com/track/0zks1idFKPaGpTItkwXF8l) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:51 | 2022-09-22 | 2025-08-18 |
 | [Monkey Man](https://open.spotify.com/track/1PCa1biOjXZGOnbz9eArSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet And Dandy: The Best Of Toots And The Maytals](https://open.spotify.com/album/3DUDeWBommjyI9NTaLXhzX) | 3:43 | 2022-09-22 | 2022-11-13 |
 | [Monkey Man](https://open.spotify.com/track/7xDi25m7Kcc9rPs7zMA2zN) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/0l8YHHDWRH6dPBpp0V0sYb) | 3:44 | 2022-09-22 | 2024-01-30 |
-| [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 | 2021-03-02 |  |
+| [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 | 2021-03-02 | 2026-02-20 |
 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 | 2022-09-22 | 2023-11-11 |
 | [Monkey Spanner](https://open.spotify.com/track/5tn8ftoAruutNf8AqoSWHv) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:30 | 2022-09-22 | 2025-06-21 |
 | [Monkey Spanner](https://open.spotify.com/track/4sdGYcPasOgDpPxSPm7lC4) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Double Barrel \(Expanded Version\)](https://open.spotify.com/album/1lEtxmzjQNbT3p8dL5NxJ8) | 2:31 | 2022-09-22 | 2024-01-30 |

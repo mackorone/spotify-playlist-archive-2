@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : L'Oiseau Rare",
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 141250,
       "name": "$ign",
       "url": "https://open.spotify.com/track/39sT4m32Z3aowyOZ6EtMXp"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 120827,
       "name": "BSM LE MATIN ABJ LA NUIT",
       "url": "https://open.spotify.com/track/4Nbh40vp5vu51GxAWNoZWN"
@@ -936,6 +936,28 @@
       "duration_ms": 162491,
       "name": "CAMERA",
       "url": "https://open.spotify.com/track/5g6KbDdqijAIhBoaCEsljr"
+    },
+    {
+      "album": {
+        "name": "CAPACIT\u00c9",
+        "url": "https://open.spotify.com/album/40BD6rlYyqLZys3BUz1hkn"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "CAPACIT\u00c9",
+      "url": "https://open.spotify.com/track/2Hm1FkkmS6rUeWkI0XsVqz"
     },
     {
       "album": {
@@ -3206,7 +3228,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159999,
       "name": "Marquer le but",
       "url": "https://open.spotify.com/track/4IeT228X9Ttb9PX7uN9xuM"
@@ -3633,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
+        "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198645,
+      "name": "NOSTALGIE",
+      "url": "https://open.spotify.com/track/7fSqwkXgMVo7Z5ZSct2kmt"
+    },
+    {
+      "album": {
         "name": "NOUVEAU DEPART",
         "url": "https://open.spotify.com/album/4ujvMhSP81fvCHa0IeKqgt"
       },
@@ -3864,7 +3904,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 168333,
       "name": "ON EST PAS DJAOULI (feat. Philipayne)",
       "url": "https://open.spotify.com/track/6HzBHL5BShkBe9ShVBlJtQ"
@@ -4108,6 +4148,24 @@
       "duration_ms": 205673,
       "name": "Placali 200",
       "url": "https://open.spotify.com/track/1s9tgCjb8HirCMYBLh6bHY"
+    },
+    {
+      "album": {
+        "name": "PLUS QUE TOI",
+        "url": "https://open.spotify.com/album/559QxTexkv4Vi1pKfeWwuE"
+      },
+      "artists": [
+        {
+          "name": "Sins",
+          "url": "https://open.spotify.com/artist/4pgGpt1oWR7yDcKWJqtVSa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "PLUS QUE TOI",
+      "url": "https://open.spotify.com/track/6Mtn50CvbZJdo2xhECsqjM"
     },
     {
       "album": {
@@ -4564,6 +4622,24 @@
       "duration_ms": 187785,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/1ZjtH0XTJistu7y52uVDQC"
+    },
+    {
+      "album": {
+        "name": "STREET VIE",
+        "url": "https://open.spotify.com/album/0ZHY3CO6h4LqmiJLmdxdMq"
+      },
+      "artists": [
+        {
+          "name": "Ng Bling",
+          "url": "https://open.spotify.com/artist/4GZ5z3xAR94JLNUeIKCR3v"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172885,
+      "name": "STREET VIE",
+      "url": "https://open.spotify.com/track/4xmlrpcsnCERJts76tYhBi"
     },
     {
       "album": {
@@ -5111,6 +5187,54 @@
     },
     {
       "album": {
+        "name": "Tu veux g\u00e2ter ?",
+        "url": "https://open.spotify.com/album/7jjHgpnkOj35TqAuORFdVx"
+      },
+      "artists": [
+        {
+          "name": "Jojo le Barbu",
+          "url": "https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9"
+        },
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "Jspeed beatz",
+          "url": "https://open.spotify.com/artist/1n756IRf35UE7TmwSfeyPg"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148401,
+      "name": "Tu veux g\u00e2ter ?",
+      "url": "https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12"
+    },
+    {
+      "album": {
+        "name": "Juventus Nueva Era (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6wFsAMvb2JxIKvwMW1TMv9"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "HP",
+          "url": "https://open.spotify.com/artist/0GDCPKuao2EDbIPKGcMwDZ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136169,
+      "name": "T\u00e9l\u00e9 contre T\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/7bVy2WCPEvVAIj4YuXJOzh"
+    },
+    {
+      "album": {
         "name": "UNDER THE SUN",
         "url": "https://open.spotify.com/album/6qxe7qF6qRLjGLIRWhNIO8"
       },
@@ -5140,7 +5264,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 142551,
       "name": "UNION - DISCIPLINE - TRAP",
       "url": "https://open.spotify.com/track/02Koskvnv7KAfluUg0omQW"
@@ -5428,7 +5552,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 140978,
       "name": "\u00e7a d\u00e9pend de toi",
       "url": "https://open.spotify.com/track/0wNdx91GKQgmS3uPt5oHOe"

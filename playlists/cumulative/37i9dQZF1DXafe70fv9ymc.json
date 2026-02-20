@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175624,
       "name": "6:35",
       "url": "https://open.spotify.com/track/0YSP6Fkh8wWEhvZYGEUqId"
@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR"
+      },
+      "artists": [
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216561,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt"
+    },
+    {
+      "album": {
         "name": "Showboy",
         "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192527,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE"
@@ -668,6 +686,24 @@
       "duration_ms": 161379,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/6wVEuSE1LpdkJjGOfcHDof"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0AnaijLoHFaZtQuRuRP4BG"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6887UZDoHAQI5py5nxIr4L"
     },
     {
       "album": {
@@ -1077,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1Hn7YoUGCz02EzFjCOrNyf"
+      },
+      "artists": [
+        {
+          "name": "Rayona",
+          "url": "https://open.spotify.com/artist/2fY601KxxVSsTiDtBhFslt"
+        },
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151916,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4c3slIbfNXdkfqldDkyMtg"
+    },
+    {
+      "album": {
         "name": "Mr O\u00falala",
         "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
       },
@@ -1136,6 +1194,24 @@
       "duration_ms": 204631,
       "name": "Four Rounds",
       "url": "https://open.spotify.com/track/1OTzF1P0GumLThWaXrMKrK"
+    },
+    {
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
     },
     {
       "album": {
@@ -1220,6 +1296,24 @@
       "duration_ms": 176479,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/18oikqkbXIAuvCJ5E2nR9x"
+    },
+    {
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "album": {
@@ -2021,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "album": {
         "name": "For The Love of R&B Vol 1",
         "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
       },
@@ -2736,7 +2852,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
@@ -2754,7 +2870,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175483,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG"
@@ -3430,7 +3546,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 202000,
       "name": "Tori",
       "url": "https://open.spotify.com/track/47fXJB2c9hfyZ1svQxEntJ"

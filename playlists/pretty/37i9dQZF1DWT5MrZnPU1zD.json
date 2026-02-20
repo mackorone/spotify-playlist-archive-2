@@ -1,6 +1,6 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1685588,
+  "num_followers": 1685565,
   "original_name": "Hip-Hop Controller",
   "owner": {
     "name": "Spotify",
@@ -1871,18 +1871,22 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "HUQQA",
-        "url": "https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU"
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
       "artists": [
         {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 127031,
-      "name": "HUQQA",
-      "url": "https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl"
+      "duration_ms": 92735,
+      "name": "JUMPIN (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ"
     }
   ],
   "unique_name": "Hip-Hop Controller",

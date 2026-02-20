@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "Kollapse",
+      "url": "https://open.spotify.com/track/3cCxtJ6hUwPnQQcn2EaezU"
+    },
+    {
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
       },

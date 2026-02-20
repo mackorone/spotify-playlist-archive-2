@@ -5437,6 +5437,24 @@
     },
     {
       "album": {
+        "name": "Apothecary (Pt. 1)",
+        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152124,
+      "name": "Lie To Yourself",
+      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K"
       },
@@ -10250,7 +10268,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 290986,
       "name": "Trade it for the Night",
       "url": "https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i"

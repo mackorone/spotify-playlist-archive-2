@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 130124,
+  "num_followers": 130215,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAC2uGupwveSBKSd4aa3B0gp",
+  "snapshot_id": "aZUBAAAAAABQw72rqsI8CGrtnZRRUBYy",
   "tracks": [
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "...baby one more time",
-        "url": "https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX"
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/57KwrtSpwCgoy1uOg6ssnd"
       },
       "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 125333,
-      "name": "...baby one more time",
-      "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/5pVQKKJLoEIcCKyEK7d2zI"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoner",
-        "url": "https://open.spotify.com/album/57KwrtSpwCgoy1uOg6ssnd"
+        "name": "...baby one more time",
+        "url": "https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX"
       },
       "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 206833,
-      "name": "Separate Ways (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/5pVQKKJLoEIcCKyEK7d2zI"
+      "duration_ms": 125333,
+      "name": "...baby one more time",
+      "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
     },
     {
       "added_at": null,

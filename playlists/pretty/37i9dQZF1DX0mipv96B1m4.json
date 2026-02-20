@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1623,
+  "num_followers": 1625,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2024-03-01 12:07:08",

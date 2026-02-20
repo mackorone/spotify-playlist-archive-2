@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,061 likes - 297 songs - 16 hr 5 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,062 likes - 300 songs - 16 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,5 +305,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 295 | [Hopeless Love Affair](https://open.spotify.com/track/0Nmse34tIn4IqNvD8yNqKv) | [Anna Porto](https://open.spotify.com/artist/4gLGoG7WZ8SC5y8H96eUEr), [Christa Porto](https://open.spotify.com/artist/61mEWC4SV8eCA1YR5qfqnr) | [Hopeless Love Affair](https://open.spotify.com/album/2pB7fFu44hAgnfuKiSxyK9) | 3:28 |
 | 296 | [Dance Music ARMeniCA \(Musica De Baile\)](https://open.spotify.com/track/3oZe7E7yJgZc53aMJa0JcJ) | [Eclipsonic](https://open.spotify.com/artist/1iETsPCa4hU0ET5xPduY8d) | [Dance Music ARMeniCA \(Musica De Baile\)](https://open.spotify.com/album/520TLSw4O5i8GQxYShtm7u) | 2:50 |
 | 297 | [End of Story](https://open.spotify.com/track/6e7KWW58dI1EQxbKk94HvB) | [Mark Versluis](https://open.spotify.com/artist/6hiFQYuO9Fukh5CaHIZVy3), [Nikita Katsman](https://open.spotify.com/artist/4DAE1DQSxexmKOwDMdytfv) | [End of Story](https://open.spotify.com/album/04sIYXlMZYNOGKdqiaKHEM) | 3:43 |
+| 298 | [Thursday](https://open.spotify.com/track/4dcJzSL3inrWDsXU2QXWXe) | [mkDUBBY](https://open.spotify.com/artist/4kWnfpTnVzZt3wyAqDEvDt) | [Daylight Sessions](https://open.spotify.com/album/5D4DquhEuNaiU0GVOWtIXW) | 6:39 |
+| 299 | [Rearview](https://open.spotify.com/track/2RT6km3ba7YbYjgUzNV8st) | [Morgan Earwood](https://open.spotify.com/artist/7KnklNvvomAy4FB938Sl06) | [Static Bloom](https://open.spotify.com/album/3U4gQYQRTk9nLRHM7tNbHv) | 2:12 |
+| 300 | [Never Forget](https://open.spotify.com/track/3zrOaNs5HfMpzku4L8d6FU) | [Miqz](https://open.spotify.com/artist/5lzbGAlq4udHZNpNg36zgb) | [Never Forget](https://open.spotify.com/album/0cgHz4PuGnniHDHOyG5Xxy) | 4:05 |
 
-Snapshot ID: `AAA01elfQbH3XXlhHCmM4BirF4J2xryr`
+Snapshot ID: `AAA02JPptY9wiceJHq7nfqf+4u0mJAAQ`

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: King Promise x Mr Eazi
+> The hottest tracks in Ghana\. Cover: Dopenation
 
 430 songs - 21 hr 47 min
 

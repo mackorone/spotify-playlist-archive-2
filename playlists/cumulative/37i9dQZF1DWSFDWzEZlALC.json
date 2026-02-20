@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: KITSCHKRIEG, ENNIO",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: herbst",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -4507,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/6jAipl6QinNFySL8dFq7CZ"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/6djwT0rhezRkmFGieDw2Q6"
+    },
+    {
+      "album": {
         "name": "BYE X3 (MIT JEREMIAS)",
         "url": "https://open.spotify.com/album/5YTiunGRpgmom2Xr1PYtel"
       },
@@ -5248,7 +5266,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175414,
       "name": "das beste",
       "url": "https://open.spotify.com/track/7GfG8fMOxpeWuH3SyPFhUH"
@@ -7290,7 +7308,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170300,
       "name": "Eigentlich sch\u00f6n",
       "url": "https://open.spotify.com/track/7mgmd6ZDqRM7to8RIghTLr"
@@ -8330,6 +8348,24 @@
       "duration_ms": 144000,
       "name": "Fahrradstra\u00dfe",
       "url": "https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/6W6DXp3exCy7zEgzKNaH2P"
+      },
+      "artists": [
+        {
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162207,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2YBuKxemdAXW48wLHbRIRb"
     },
     {
       "album": {
@@ -10068,7 +10104,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159811,
       "name": "Gegenteil von Gl\u00fcck",
       "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
@@ -12168,7 +12204,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 198305,
       "name": "Hotpants f\u00fcr M\u00e4nner",
       "url": "https://open.spotify.com/track/57XpvVXfjprVjh16b2i1Nw"
@@ -12204,7 +12240,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 162552,
       "name": "Hunde",
       "url": "https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1"
@@ -12498,6 +12534,24 @@
       "duration_ms": 190000,
       "name": "Ich f\u00fchl...",
       "url": "https://open.spotify.com/track/2FCLmJXQMQF3lEix03sfuz"
+    },
+    {
+      "album": {
+        "name": "ich geh heut nicht unter leute",
+        "url": "https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "ich geh heut nicht unter leute",
+      "url": "https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00"
     },
     {
       "album": {
@@ -14963,6 +15017,24 @@
     },
     {
       "album": {
+        "name": "Klapprad",
+        "url": "https://open.spotify.com/album/6ffyP01Ey3HPsiAtdoUOMR"
+      },
+      "artists": [
+        {
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Klapprad",
+      "url": "https://open.spotify.com/track/7JVnFtZma0otI1aXPLxXiD"
+    },
+    {
+      "album": {
         "name": "Manic Pixie Dream Boy, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5JSOwrVEdgJUJ38hTXznHL"
       },
@@ -16194,7 +16266,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
@@ -16638,6 +16710,24 @@
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
+    },
+    {
+      "album": {
+        "name": "Liebeslied",
+        "url": "https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187203,
+      "name": "Liebeslied",
+      "url": "https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x"
     },
     {
       "album": {
@@ -19729,6 +19819,24 @@
     },
     {
       "album": {
+        "name": "Odyssee",
+        "url": "https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186688,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa"
+    },
+    {
+      "album": {
         "name": "Offiziell Gl\u00fccklich",
         "url": "https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C"
       },
@@ -21495,6 +21603,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138437,
+      "name": "riss im telefon",
+      "url": "https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI"
+    },
+    {
+      "album": {
         "name": "Ritalin",
         "url": "https://open.spotify.com/album/0pvZwnFhVmFkpAXwikxiEg"
       },
@@ -22436,7 +22562,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178174,
       "name": "Schnee",
       "url": "https://open.spotify.com/track/6FmzCdg1hI5XTx3xbYBNZq"
@@ -24940,7 +25066,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155000,
       "name": "stuhl im garten",
       "url": "https://open.spotify.com/track/4Y7upz5qZ64BE3eZBe3jB8"
@@ -25200,7 +25326,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 118896,
       "name": "Tanz",
       "url": "https://open.spotify.com/track/1nkfgSVuYolXFq8OEj2Y7K"
@@ -25825,6 +25951,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -26198,6 +26342,24 @@
       "duration_ms": 139694,
       "name": "Tut gut",
       "url": "https://open.spotify.com/track/3eVCkfRvRbGI0xtYLrkIoO"
+    },
+    {
+      "album": {
+        "name": "Tut mir nicht leid",
+        "url": "https://open.spotify.com/album/0zyn6kUMgSoKCVIKreIsw0"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242482,
+      "name": "Tut mir nicht leid",
+      "url": "https://open.spotify.com/track/09xobCb1XP0zy52Gwifir9"
     },
     {
       "album": {
@@ -26604,6 +26766,24 @@
       "duration_ms": 151097,
       "name": "unter uns",
       "url": "https://open.spotify.com/track/58Xbgro7vZDEtw0Zlky0kg"
+    },
+    {
+      "album": {
+        "name": "Unterk\u00fchlt",
+        "url": "https://open.spotify.com/album/2SRMlV78U0VlABSr4mGv7n"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142795,
+      "name": "Unterk\u00fchlt",
+      "url": "https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s"
     },
     {
       "album": {
@@ -28361,6 +28541,24 @@
     },
     {
       "album": {
+        "name": "Wenn alle Stricke reissen",
+        "url": "https://open.spotify.com/album/5oNtg3GkGJTqs8xWGJqINA"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204153,
+      "name": "Wenn alle Stricke reissen",
+      "url": "https://open.spotify.com/track/3m5ElnNugava0TChDfx34x"
+    },
+    {
+      "album": {
         "name": "Wenn das hier keine Liebe ist",
         "url": "https://open.spotify.com/album/5Xp5C3rJsr1KaFnxaKuw3E"
       },
@@ -28466,7 +28664,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 163200,
       "name": "Wenn du dich entfernst",
       "url": "https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7"
@@ -29566,7 +29764,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 140052,
       "name": "WUNDERLICH",
       "url": "https://open.spotify.com/track/2d9aXk7fLqvckuWv0PAzZZ"

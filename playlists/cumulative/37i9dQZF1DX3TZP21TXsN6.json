@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: Mello, Jordan, Vurr Flashy, Karma K en meer...",
+  "description": "Nieuw: Sepa, Freddie Konings en meer...",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "5 Tellies",
+        "url": "https://open.spotify.com/album/3Je2Rx6ObAiFEOOy3NzCLQ"
+      },
+      "artists": [
+        {
+          "name": "B4RKIE",
+          "url": "https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153707,
+      "name": "5 Tellies",
+      "url": "https://open.spotify.com/track/6kUs2cT1xKkpCNpdWd8cFY"
+    },
+    {
+      "album": {
         "name": "64 Barz",
         "url": "https://open.spotify.com/album/68idpzgNus0f4NcI28tUO2"
       },
@@ -566,7 +584,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 206471,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 134566,
       "name": "BCN > RAK",
       "url": "https://open.spotify.com/track/3R2n5h8ceesVR9zBkj151i"
@@ -1198,6 +1216,24 @@
       "duration_ms": 144053,
       "name": "Bij Zinnen",
       "url": "https://open.spotify.com/track/1OznBrEz4CKS2Y3svYQxlg"
+    },
+    {
+      "album": {
+        "name": "CHOSSELLONI\u00cb 3 (DELUXE)",
+        "url": "https://open.spotify.com/album/3aaKoPsl7EJv7WsEnysuwt"
+      },
+      "artists": [
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119586,
+      "name": "BLAFFENDE HONDEN",
+      "url": "https://open.spotify.com/track/5C88XqznlGZkOuA29AySpd"
     },
     {
       "album": {
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 142439,
       "name": "Criminaliteit",
       "url": "https://open.spotify.com/track/0zQ1i8Z58oLo6j25naGb81"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148309,
       "name": "Deze Dagen",
       "url": "https://open.spotify.com/track/4LSccc1P5EA3qmgOZSeF1n"
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 137903,
       "name": "DOODMOE",
       "url": "https://open.spotify.com/track/1U3vZ5UsL16VLTopEmFTP1"
@@ -2328,7 +2364,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178676,
       "name": "E-mail",
       "url": "https://open.spotify.com/track/2DKNRackqfG5bR9310M2so"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 128888,
       "name": "Grimmig",
       "url": "https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns"
@@ -3318,6 +3354,28 @@
       "duration_ms": 167866,
       "name": "Hard Times Never Humbled Us",
       "url": "https://open.spotify.com/track/5OjzE7bkdSItwIIuzsZ0LN"
+    },
+    {
+      "album": {
+        "name": "Praat van de Straat II",
+        "url": "https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        },
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Hart Ligt",
+      "url": "https://open.spotify.com/track/4Sax88ogIOBA9ytqxqLIaH"
     },
     {
       "album": {
@@ -3714,7 +3772,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 142262,
       "name": "Ik wil allang met je zijn",
       "url": "https://open.spotify.com/track/34wC52eKnmWzuUmuvIWUo7"
@@ -3824,7 +3882,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165161,
       "name": "Jong Leren",
       "url": "https://open.spotify.com/track/7hjcn9yixzQ4GucEb4lEoS"
@@ -4793,6 +4851,24 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/4bKfF7YnQg4ZPYr0nLv8rH"
+      },
+      "artists": [
+        {
+          "name": "Afriki",
+          "url": "https://open.spotify.com/artist/7wplUIsQsBY2x6E6XSZDAB"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/0suqHxpu76nCpqnDI7rDad"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/51AjqnUvFSqm89n1Mnfy3s"
       },
@@ -4958,7 +5034,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173076,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/1tJTmiK5BWSlcwvleKFHUD"
@@ -5028,7 +5104,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178477,
       "name": "Me Eige Beleid",
       "url": "https://open.spotify.com/track/0DP4RUWiohZPeAvMEyggLy"
@@ -5429,6 +5505,32 @@
     },
     {
       "album": {
+        "name": "Motherland",
+        "url": "https://open.spotify.com/album/7MB0IZluX85gbyfVTiF9JJ"
+      },
+      "artists": [
+        {
+          "name": "Yerrado",
+          "url": "https://open.spotify.com/artist/4ZsJRsJnzgOfmGPKuQIckH"
+        },
+        {
+          "name": "Vos7",
+          "url": "https://open.spotify.com/artist/3xzQ3bNUqTjZW1RoX7MZdS"
+        },
+        {
+          "name": "Kaijoeyy",
+          "url": "https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Motherland",
+      "url": "https://open.spotify.com/track/5AwCXAOOMRyhCLUBFDkG6a"
+    },
+    {
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/4SIY5DbET8kwUPCozgi72B"
       },
@@ -5544,7 +5646,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 120821,
       "name": "Nachtrust",
       "url": "https://open.spotify.com/track/3e4O0LSgGgqyggG3NW7mbG"
@@ -5716,7 +5818,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 143478,
       "name": "Niet Alleen",
       "url": "https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW"
@@ -6076,10 +6178,32 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138083,
       "name": "Oh Damn",
       "url": "https://open.spotify.com/track/0wFSMz19jZtriXJOH4RH7W"
+    },
+    {
+      "album": {
+        "name": "OK\u00c9",
+        "url": "https://open.spotify.com/album/1UYSHkineyo8RyV6aHXFCO"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Niffer",
+          "url": "https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY"
+        },
+        {
+          "name": "Klemma",
+          "url": "https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "OK\u00c9",
+      "url": "https://open.spotify.com/track/6QrW6eY5wkUpLslW8ROp4S"
     },
     {
       "album": {
@@ -6278,7 +6402,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138260,
       "name": "Op de Counter",
       "url": "https://open.spotify.com/track/3yCFs0RQZy2HKthpg51pF7"
@@ -6674,7 +6798,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132784,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/3djhoyCQQP4Tv5zErWGskZ"
@@ -8098,7 +8222,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148500,
       "name": "VERT3LLEN",
       "url": "https://open.spotify.com/track/0BrRABx6pnEqoSQ1Tkmqw4"
@@ -8832,7 +8956,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 150997,
       "name": "Zwieber",
       "url": "https://open.spotify.com/track/715N6tEkREfOg8AIexS3PX"

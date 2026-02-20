@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: COPAK
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lucid Express
 
-1,616 songs - 3 day 19 hr 27 min
+1,621 songs - 3 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Crush On U](https://open.spotify.com/track/6R5SaN98uslpM65KBWpHYI) | [Jacky Fcy 范卓賢](https://open.spotify.com/artist/5hyfE74t3py8nLH8bKwlca) | [Crush On U](https://open.spotify.com/album/1QfCkQBeJMzGKN6kx0p0BA) | 3:34 | 2024-08-01 | 2024-11-15 |
 | [cry baby](https://open.spotify.com/track/0wZVP1xzfhtXEzni1euLwG) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [cry baby](https://open.spotify.com/album/4AxO9XKqwFHv5BlT4UsxjL) | 3:58 | 2022-10-13 | 2023-03-18 |
 | [Crying on the Plane](https://open.spotify.com/track/2T0vyabR19megOmy2OM8kA) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Crying on the Plane](https://open.spotify.com/album/7L2pQQRe7qPPy6rQZUrkUz) | 3:18 | 2024-10-10 | 2025-02-14 |
+| [Custom\-made girl](https://open.spotify.com/track/0OM92xUctrtfSx2Gocn9Va) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Custom\-made girl](https://open.spotify.com/album/3Ua9hbiIAzX4NmuGBZVhhu) | 3:03 | 2026-02-19 |  |
 | [DAI MOND](https://open.spotify.com/track/6I0Y1KlUkH1pwKNKeanzRQ) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DAI MOND](https://open.spotify.com/album/0KND9Ae7tkWf0Ml2vgbH6e) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-09-09 |
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2022-11-10 | 2023-03-18 |
@@ -346,6 +347,7 @@
 | [God's Plan](https://open.spotify.com/track/4pTVAW9kmTo1Hm9AvcucoU) | [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE), [Krush](https://open.spotify.com/artist/3D5b3r7RSuaOADstxs25vo) | [God's Plan](https://open.spotify.com/album/3u2LxJoD40CzHBH8aMFQlO) | 2:57 | 2024-10-24 | 2025-02-14 |
 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 | 2023-06-22 | 2023-11-03 |
 | [GOLDEN BOYS!](https://open.spotify.com/track/0LBjHIfdzv76vvZF4z2sAT) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9) | [GOLDEN BOYS!](https://open.spotify.com/album/4jEySCSHXFnaBLnfi41LWf) | 2:47 | 2023-05-11 | 2023-09-01 |
+| [Gong Hei Fat Choi](https://open.spotify.com/track/6xPSLwlTAmfHvDUkBNpj4X) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I) | [Gong Hei Fat Choi](https://open.spotify.com/album/2b8DnEZeqL4Eb7dJeRFlEl) | 2:49 | 2026-02-19 |  |
 | [Gong Mud Ye](https://open.spotify.com/track/1H0QyVeT6UCHEdJvDGKJ4Y) | [Lazyboi Dri](https://open.spotify.com/artist/5gLpTC2hyiNnIXh2uwXFWU), [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB) | [Gong Mud Ye](https://open.spotify.com/album/6VDZeHuBpBmiezlRWWr9ae) | 2:40 | 2024-05-30 | 2024-11-15 |
 | [Good Days](https://open.spotify.com/track/6oB4jM4zrpqtaLHfO4O0bq) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Good Days](https://open.spotify.com/album/2PTAHAZcKL76qGzUQjlHYk) | 3:07 | 2024-03-07 | 2024-06-07 |
 | [Good vibe](https://open.spotify.com/track/2sQd0HmrHWrLF0BY3br4AH) | [Ant Chan](https://open.spotify.com/artist/7kAosYOzDiSkn5LXfUSU0m) | [Backseat Driver](https://open.spotify.com/album/5Vh3EwjMySkJjUNkRAOxhm) | 2:50 | 2024-05-30 | 2024-11-15 |
@@ -465,6 +467,7 @@
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2023-03-18 |
 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 | 2023-04-06 | 2023-07-14 |
 | [Inside Wanna Out](https://open.spotify.com/track/6UXqcSW9E1WVMaaUiykWQJ) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [Inside Wanna Out](https://open.spotify.com/album/7sxd4XHLaSYliu2AVdS5uw) | 3:30 | 2024-07-18 | 2024-11-15 |
+| [Instant Comfort](https://open.spotify.com/track/6ZSRPiXmN5USVRs2Rl3GhX) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Instant Comfort](https://open.spotify.com/album/2EL8CUKGvqUGoFPMizI7fK) | 4:46 | 2026-02-19 |  |
 | [Internecine](https://open.spotify.com/track/4lQhTDGRGyiRfKm3RkgcaT) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Internecine](https://open.spotify.com/album/3pHGC384OfVDqnlTBFKqrH) | 4:02 | 2025-05-09 | 2025-11-21 |
 | [It's all just coming back...](https://open.spotify.com/track/74w9yu737MPyC80EspUWni) | [CHRIS KENG](https://open.spotify.com/artist/3DbMgFXRrouUdW92AD9pdu) | [It's all just coming back...](https://open.spotify.com/album/73OvVDkLfASBQBTv5beZOT) | 2:43 | 2024-05-02 | 2024-11-15 |
 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 | 2023-05-25 | 2023-07-14 |
@@ -496,6 +499,7 @@
 | [Ladder](https://open.spotify.com/track/0qdTjdFqYQzgbyWZl29hOR) | [Code](https://open.spotify.com/artist/1IHCJSJVPOct76aO2avV0z) | [Ladder](https://open.spotify.com/album/4FuDbLshqngtrAvli7Rn6m) | 4:30 | 2024-06-27 | 2024-11-15 |
 | [Lady](https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lady](https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS) | 3:06 | 2024-05-16 | 2024-11-15 |
 | [Lagrange](https://open.spotify.com/track/0KUq7N42GfT5WgdmpbOYo1) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Lagrange](https://open.spotify.com/album/6QPj2Ayf6MUwfdtWiyIAkk) | 5:40 | 2024-08-15 | 2024-12-13 |
+| [landline](https://open.spotify.com/track/7bA9FyHOtBaI2iCA1zK1z7) | [.btec](https://open.spotify.com/artist/3ywdE8lVfcf7MB8DWcYvy8) | [landline](https://open.spotify.com/album/4ngXOiBUrnT2N78k2XMLnH) | 4:22 | 2026-02-19 |  |
 | [last dance](https://open.spotify.com/track/0HOtP1tJndPeyNsBUbrlEL) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo), [M37](https://open.spotify.com/artist/6Qi821w1k82weYA1cP04Ro), [dom falso](https://open.spotify.com/artist/09fDsoiQUWyMYJuy8WECJm) | [last dance](https://open.spotify.com/album/1qkD8fLY5YUqd6hv1UEUe8) | 4:02 | 2025-03-13 | 2025-07-11 |
 | [Last Dance](https://open.spotify.com/track/36pgnsYrvUUHeT17OXvuhK) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Last Dance](https://open.spotify.com/album/0sIGEXqcZns2OcywMnWeTj) | 2:21 | 2024-05-23 | 2024-11-15 |
 | [Last Day \(feat\. J Jelly\)](https://open.spotify.com/track/6lQLnEkJBFl9hazkoUyTN3) | [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [Last Day \(feat\. J Jelly\)](https://open.spotify.com/album/4aXaXWh27nEM55kq8Q2bRG) | 2:55 | 2025-05-01 | 2025-11-21 |
@@ -1173,6 +1177,7 @@
 | [出水芙蓉](https://open.spotify.com/track/3x2OFytSWdt2TkdJrWNtn5) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [出水芙蓉](https://open.spotify.com/album/1VSJ5mtJU9KH4poF99mJcV) | 1:57 | 2022-09-29 | 2023-02-03 |
 | [出門口食豆腐花](https://open.spotify.com/track/72vHdnHpYOZNjjQNmf2D1k) | [34 pessimists](https://open.spotify.com/artist/7CIc2EIGlSABfECh8nV4Li) | [海闊天空 sea wide sky empty](https://open.spotify.com/album/0r3y1Watg2URRb59Kuqloz) | 2:56 | 2023-09-14 | 2023-12-01 |
 | [分心](https://open.spotify.com/track/3sMKYHJbsxx3fRJQ1Cg2NT) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [分心](https://open.spotify.com/album/6ZqwuPQxzlRsoIrnCV7cgr) | 2:49 | 2023-09-21 | 2024-01-05 |
+| [分擔](https://open.spotify.com/track/38D1oJmQCOttwPWF1Olh8J) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [分擔](https://open.spotify.com/album/1k5QjHdPwlk3zEe3uhgC3O) | 2:36 | 2026-02-19 |  |
 | [分離焦慮症](https://open.spotify.com/track/2onFXg6PAwf1NHkBjINIRz) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [分離焦慮症](https://open.spotify.com/album/6lulY9GWj3N0oZWH8eP4Xz) | 3:50 | 2025-01-23 | 2025-03-14 |
 | [別怕，我會恨自己！](https://open.spotify.com/track/4oQkEh2UsKch1gQ3G8rrSF) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [別怕，我會恨自己！](https://open.spotify.com/album/7n9JfBUueY0ZfEtblnnMWw) | 4:13 | 2025-10-29 |  |
 | [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 | 2025-01-02 | 2025-04-25 |

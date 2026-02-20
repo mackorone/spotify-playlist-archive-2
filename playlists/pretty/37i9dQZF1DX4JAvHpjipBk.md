@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli xcx, Danny L Harle & Dua Lipa, Central Cee, Ella Langley, Brent Faiyaz, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,513,976 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,513,760 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

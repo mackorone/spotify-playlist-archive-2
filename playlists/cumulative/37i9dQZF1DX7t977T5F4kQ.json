@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: King Promise & Mr Eazi ",
+  "description": "The hottest and recent Ghana party starters. Cover: KJ Spio & Kidi ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148000,
       "name": "Fire Go",
       "url": "https://open.spotify.com/track/5nvokuidjeeZ0EvK6IB3Nm"
@@ -6549,6 +6549,28 @@
     },
     {
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/0YYiuJ2AqLl0QOhulYBbVR"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/6VCxJAilbuhRUwky35Qra0"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32"
       },
@@ -6872,6 +6894,24 @@
       "duration_ms": 157180,
       "name": "Miss Yu",
       "url": "https://open.spotify.com/track/0jvNABBGWF3vQH1PhJ5hJz"
+    },
+    {
+      "album": {
+        "name": "Mon Bebe",
+        "url": "https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "Mon Bebe",
+      "url": "https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq"
     },
     {
       "album": {
@@ -8928,7 +8968,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178333,
       "name": "Pick Pick",
       "url": "https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR"
@@ -9436,7 +9476,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 144000,
       "name": "Ride Solo",
       "url": "https://open.spotify.com/track/12ncJUshM46lUN0DS7kDEk"
@@ -10842,6 +10882,28 @@
       "duration_ms": 145000,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk"
+    },
+    {
+      "album": {
+        "name": "Sweet Baby",
+        "url": "https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185326,
+      "name": "Sweet Baby",
+      "url": "https://open.spotify.com/track/67EQfnVh7NoTcefV1k0xvF"
     },
     {
       "album": {

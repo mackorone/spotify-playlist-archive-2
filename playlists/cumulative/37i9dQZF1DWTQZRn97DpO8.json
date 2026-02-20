@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Nilusi x Lisandro Cuxi",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 190843,
       "name": "21 questions",
       "url": "https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW"
+    },
+    {
+      "album": {
+        "name": "3am in Paris",
+        "url": "https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "3am in Paris",
+      "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
     },
     {
       "album": {
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165000,
       "name": "fleur bleue",
       "url": "https://open.spotify.com/track/5omVv07GhoWSfoooEW6xYT"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 200000,
       "name": "FLOU",
       "url": "https://open.spotify.com/track/01czP9FzVqljP6GfZFkahU"
@@ -3317,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "Godknows",
+        "url": "https://open.spotify.com/album/5dudXduIZPhX1mrqcwTeQB"
+      },
+      "artists": [
+        {
+          "name": "Erwann",
+          "url": "https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219468,
+      "name": "Godknows",
+      "url": "https://open.spotify.com/track/3Mp6ZA3g59q6yhHv0MzLaI"
+    },
+    {
+      "album": {
         "name": "99 PBLM",
         "url": "https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU"
       },
@@ -3430,6 +3466,24 @@
       "duration_ms": 191621,
       "name": "Gravit\u00e9",
       "url": "https://open.spotify.com/track/5hgixUt055yq33WAXjrhQd"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e9rir",
+        "url": "https://open.spotify.com/album/5HFK09QVCSY58DdMUBurS0"
+      },
+      "artists": [
+        {
+          "name": "PH Trigano",
+          "url": "https://open.spotify.com/artist/5xsm7uVwFL9luO2cFcVWrM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241571,
+      "name": "Gu\u00e9rir",
+      "url": "https://open.spotify.com/track/1RWDZg4e4klXW9kQrt3ngP"
     },
     {
       "album": {
@@ -4188,7 +4242,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195964,
       "name": "J'TE PARLERAI DE...",
       "url": "https://open.spotify.com/track/0elyu4cJKMm5c2b6pQtKGK"
@@ -4394,6 +4448,24 @@
       "duration_ms": 161922,
       "name": "Juste une nuit",
       "url": "https://open.spotify.com/track/1HhJWZFlb9VJi3V5RCu4lM"
+    },
+    {
+      "album": {
+        "name": "J\u2019essaye",
+        "url": "https://open.spotify.com/album/0SKJ5hPXtj4l7dqYR05MPE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "J\u2019essaye",
+      "url": "https://open.spotify.com/track/1GNCc6nPSL7w07UcMhnPkI"
     },
     {
       "album": {
@@ -4917,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Leatsa",
+        "url": "https://open.spotify.com/album/7DptyGn5Vhb6T9ed98rEkL"
+      },
+      "artists": [
+        {
+          "name": "Melvin Coser",
+          "url": "https://open.spotify.com/artist/4LKQaEZjxdgN1r1W8q6t01"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123045,
+      "name": "Leatsa",
+      "url": "https://open.spotify.com/track/1DEW62HfoTefp3bEfsPcvx"
+    },
+    {
+      "album": {
         "name": "Les Ailes",
         "url": "https://open.spotify.com/album/4pFNFUKVKosSeo7pBjeafg"
       },
@@ -5368,10 +5458,28 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 114796,
       "name": "MA BELLE",
       "url": "https://open.spotify.com/track/7zWQaRbP9p6nVXFfvrIzP2"
+    },
+    {
+      "album": {
+        "name": "ROOM SESSION 1",
+        "url": "https://open.spotify.com/album/4Bs9a5lflko7Gw9lNbv2Ex"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "Ma belle",
+      "url": "https://open.spotify.com/track/0xss4ho1U8WEvkoR8IfHvU"
     },
     {
       "album": {
@@ -5506,7 +5614,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 217000,
       "name": "Magic for two (feat. Charlie Burg)",
       "url": "https://open.spotify.com/track/0Lcg1Jkn5RKurb5XPlxKDr"
@@ -6654,7 +6762,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 156521,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/21inZyPyh8Sf57BgGFPpoV"
@@ -7204,7 +7312,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 177237,
       "name": "Po\u00e8mes",
       "url": "https://open.spotify.com/track/7Jvo8aI1DcFWhgXIAxeAZ4"
@@ -7736,7 +7844,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155608,
       "name": "Roster",
       "url": "https://open.spotify.com/track/3eVqXHlKGVq6IGNWHV1WV1"
@@ -7950,6 +8058,28 @@
       "duration_ms": 176087,
       "name": "Saison",
       "url": "https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY"
+    },
+    {
+      "album": {
+        "name": "Saison",
+        "url": "https://open.spotify.com/album/7jIiaA6eg0GsHI7uHUC9Rh"
+      },
+      "artists": [
+        {
+          "name": "Randy IV REAL",
+          "url": "https://open.spotify.com/artist/50E5kfuyNnAlEphYyfxVwD"
+        },
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/18JBRtuTwWGS52x68HyuKn"
     },
     {
       "album": {
@@ -8774,7 +8904,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178400,
       "name": "T'aimes \u00e7a",
       "url": "https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH"
@@ -9164,6 +9294,24 @@
       "duration_ms": 164783,
       "name": "Toxique",
       "url": "https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq"
     },
     {
       "album": {
@@ -9666,6 +9814,24 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "Vitesse",
+        "url": "https://open.spotify.com/album/2AiOqUyJEEBSgo5l0eHy71"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00ebmoi",
+          "url": "https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213541,
+      "name": "Vitesse",
+      "url": "https://open.spotify.com/track/0OcskdiwseIYzc4OlPhl4U"
     },
     {
       "album": {

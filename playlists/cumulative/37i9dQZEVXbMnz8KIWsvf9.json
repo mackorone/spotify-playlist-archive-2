@@ -5489,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "guilty pleasure",
+        "url": "https://open.spotify.com/album/7MDOYH1n73qdrT1T6Ns7eI"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "guilty pleasure",
+      "url": "https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -7994,7 +8016,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 258823,
       "name": "Living Death",
       "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
@@ -19836,7 +19858,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 210612,
       "name": "\u0e21\u0e2d\u0e07 2568",
       "url": "https://open.spotify.com/track/4oOSJiNmrvZzhvr1OQPln2"
@@ -23820,7 +23842,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 314357,
       "name": "\u0e44\u0e21\u0e48\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7F9ptErLnyt0r4Q0azfqDG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Revolver.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 246893,
       "name": "1.9.82.",
       "url": "https://open.spotify.com/track/22xYHv2QEdKYKQO7jSAPM1"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "A Contracorriente",
       "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 261862,
       "name": "A contraluz",
       "url": "https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 164565,
       "name": "A estas alturas",
       "url": "https://open.spotify.com/track/3ZN6k7GoNmhhjs7FDyA2ML"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 273880,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155200,
       "name": "Ama, ama, ama y ensancha el alma",
       "url": "https://open.spotify.com/track/06ED6YIqNb66Mh6HXjmEa6"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 232672,
       "name": "AMSTERDAM",
       "url": "https://open.spotify.com/track/15HqUnRMTUb07QigZzryQy"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/1CrN92KYQTOePdubueHipL"
@@ -980,6 +980,24 @@
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/10706ilBOvqVSOAbUoxean"
+    },
+    {
+      "album": {
+        "name": "Aquellos d\u00edas",
+        "url": "https://open.spotify.com/album/6jW1yMFl0ZjtLBefCnTRBA"
+      },
+      "artists": [
+        {
+          "name": "Revolver",
+          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318016,
+      "name": "Aquellos d\u00edas",
+      "url": "https://open.spotify.com/track/3iwXI2QZT5NeArBAblveFP"
     },
     {
       "album": {
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 234774,
       "name": "Ayer So\u00f1\u00e9 - Aniversario",
       "url": "https://open.spotify.com/track/5RvUugCYiLKuBZcQHJil1v"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 205846,
       "name": "Como una rata",
       "url": "https://open.spotify.com/track/3UTUDsyEvHsl9whFbbvjxG"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 236666,
       "name": "Contracorriente (feat. Ivan Ferreiro)",
       "url": "https://open.spotify.com/track/25Yf7vQKu2vTjwLBsXvj0v"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 254987,
       "name": "Creer que se puede creer",
       "url": "https://open.spotify.com/track/39ZqBeYIp9vDAJU8SfXDRB"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 429000,
       "name": "Del Tiempo Perdido",
       "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 462013,
       "name": "Dulce introducci\u00f3n al caos",
       "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 381000,
       "name": "El hombre p\u00e1jaro",
       "url": "https://open.spotify.com/track/1RO9fcejkWoqOFj6W4tFVI"
@@ -5107,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "Era un gamberro",
+        "url": "https://open.spotify.com/album/7A0zxB4HtAcZI9dFqowHxR"
+      },
+      "artists": [
+        {
+          "name": "Los Ruidos",
+          "url": "https://open.spotify.com/artist/2Ip8z0MMdBgb2v7meVXDwl"
+        },
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194224,
+      "name": "Era un gamberro",
+      "url": "https://open.spotify.com/track/2lPKPr07OVTxBhPlWUZ2YD"
+    },
+    {
+      "album": {
         "name": "Es ansiedad",
         "url": "https://open.spotify.com/album/0pc3W5Lin9Po85wEuSHPZ7"
       },
@@ -5136,7 +5176,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 278564,
       "name": "Esa Sombra y Yo",
       "url": "https://open.spotify.com/track/6mPye8qP0R9EUKiU3zktOv"
@@ -5252,7 +5292,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 250001,
       "name": "Especie en extinci\u00f3n",
       "url": "https://open.spotify.com/track/5FQFqSwJLdFZpdte4Mh08y"
@@ -7028,7 +7068,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 286534,
       "name": "La misma canci\u00f3n",
       "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
@@ -7680,7 +7720,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 252977,
       "name": "LATAM",
       "url": "https://open.spotify.com/track/2BfQNtSAFoffu9SXaSnhEu"
@@ -8692,7 +8732,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 230434,
       "name": "Mar sin fondo",
       "url": "https://open.spotify.com/track/0Hu3LEEuyI2yciMzdgL9MV"
@@ -8822,6 +8862,24 @@
       "duration_ms": 216823,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/4xTNvrl6CL0cY8dMXIrWez"
+    },
+    {
+      "album": {
+        "name": "ME GUSTAS",
+        "url": "https://open.spotify.com/album/2Q1ckydv7pkpQGHHPgCngI"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250269,
+      "name": "ME GUSTAS",
+      "url": "https://open.spotify.com/track/6xJkaZEvVYuXVxQj5Q9t9R"
     },
     {
       "album": {
@@ -9332,7 +9390,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
@@ -9368,7 +9426,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 239266,
       "name": "Murci\u00e9lagos y Golondrinas",
       "url": "https://open.spotify.com/track/5vLnZ74nOCMFXO46PIo40u"
@@ -9458,7 +9516,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 188193,
       "name": "Nada conmigo",
       "url": "https://open.spotify.com/track/5eVwhSR37ARRpz97eoCgEz"
@@ -9970,7 +10028,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 212513,
       "name": "No tiene sentido escapar",
       "url": "https://open.spotify.com/track/5R1QGaK8a22sOL5jnvFBzP"
@@ -9992,7 +10050,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 216183,
       "name": "No Volver\u00e1 a Pasarnos Nada",
       "url": "https://open.spotify.com/track/7gUj8cEw0W1RHR3LFu2iRE"
@@ -10286,7 +10344,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 118464,
       "name": "Oye c\u00f3mo vienes",
       "url": "https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k"
@@ -10630,7 +10688,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -10970,7 +11028,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
@@ -11028,7 +11086,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 352189,
       "name": "Puntos suspensivos",
       "url": "https://open.spotify.com/track/1vo9W7p9tPuzsH1b4JGDQD"
@@ -11822,7 +11880,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
@@ -11840,7 +11898,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
@@ -12366,7 +12424,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 221440,
       "name": "Solitud y Soledad",
       "url": "https://open.spotify.com/track/1lF94W1pOncBrFED3Id1on"
@@ -12424,7 +12482,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 224961,
       "name": "Somos",
       "url": "https://open.spotify.com/track/1eLZbcxI7flUwpv5vDpZh8"
@@ -12514,7 +12572,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
@@ -12594,7 +12652,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Susurro",
       "url": "https://open.spotify.com/track/0mRNxp9ZNHwli7QOcqm6oS"
@@ -13510,7 +13568,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 251408,
       "name": "Un Brindis al Sol",
       "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
@@ -13786,7 +13844,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 230944,
       "name": "Vamos a vernos",
       "url": "https://open.spotify.com/track/1tNqo3BLZdPNoX2ffLU4oV"

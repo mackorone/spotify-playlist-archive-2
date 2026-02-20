@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,186 songs - 2 day 3 hr 17 min
+1,187 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Drifting Away](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm) | [Aron Matthews](https://open.spotify.com/artist/7cmyUzMi6RNTKMiEpLUyxH), [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y) | [Drifting Away](https://open.spotify.com/album/6dqO17ZAmTToFgzHt0jEtY) | 2:15 | 2024-06-21 | 2024-07-29 |
 | [Drifting Away](https://open.spotify.com/track/3lpajNpJVD1TUPelIqirdY) | [BLANCE](https://open.spotify.com/artist/6evlfkHSHNx1mUQwDuZFXW), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Drifting Away](https://open.spotify.com/album/2KiNhCFLP9Bso5iuTlkitj) | 2:18 | 2024-06-23 | 2024-09-09 |
 | [Driving Oceanside](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [POLLY](https://open.spotify.com/artist/3Zc4MGz1t0uHYkoW2HIr7P) | [Driving Oceanside](https://open.spotify.com/album/7CSxBFWij7dNGWORtfraBB) | 2:12 | 2024-12-08 | 2025-12-15 |
+| [Drowning](https://open.spotify.com/track/1jdEOZyXjhqP1ItM5kfH2K) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Drowning](https://open.spotify.com/album/763wUsDOzhJkQbZM6MEqqY) | 2:21 | 2026-02-19 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK) | [FMTM](https://open.spotify.com/artist/59rzq7zL5EJrmwWLPzDb0e), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Dusk Till Dawn](https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A) | 2:50 | 2024-05-04 | 2024-07-05 |
 | [DÁKITI](https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo), [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [LO RA](https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC) | [DÁKITI](https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf) | 3:07 | 2024-03-03 | 2024-04-29 |
 | [Easier](https://open.spotify.com/track/7E8UkZrPENsi35NDiGpR8F) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw), [Ma Nu](https://open.spotify.com/artist/5sEdpecv6jz6ZpTpBzYlhR) | [Easier](https://open.spotify.com/album/0TH7ZDydq8Uzylk8yC1SCF) | 2:13 | 2025-10-24 |  |

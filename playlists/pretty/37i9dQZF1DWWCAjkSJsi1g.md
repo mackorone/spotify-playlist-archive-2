@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,790 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,797 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 69 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
 | 70 | [In The Morning \(Let Your Love Come In\) \- Original Radio Edit](https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:14 |
 | 71 | [Sambuca \- Original Mix \(Radio Edit\) \[feat\. Dennis G\]](https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G](https://open.spotify.com/artist/3bNcjfsIse2W8WFGwxs5DA) | [Sambuca \(feat\. Dennis G\)](https://open.spotify.com/album/0mN3UsfFUA1JZFsWX8i3kg) | 3:24 |
-| 72 | [Beautiful Girls \- Radio Edit](https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/3xNkswNSrzwSAIb6qleRrA) | 3:45 |
-| 73 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 72 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 73 | [Beautiful Girls \- Radio Edit](https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/3xNkswNSrzwSAIb6qleRrA) | 3:45 |
 | 74 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
 | 75 | [Dilemma](https://open.spotify.com/track/18vdhCWxqPohnPwicDi3Xr) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/1kh5XByhI0DDWV7m9kddr0) | 4:49 |
 | 76 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 477 songs - 23 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 478 songs - 23 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -485,5 +485,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 475 | [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 |
 | 476 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 477 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
+| 478 | [Carona de Ex](https://open.spotify.com/track/4IkfJzS56GoQBdkQUPNPRJ) | [Dieguinho Estrela](https://open.spotify.com/artist/2w3H0sTWWGzmHtgeH87YrU), [Sabiá Records](https://open.spotify.com/artist/3u5wsRkCoJYs47GPk6AMir) | [Sua Estrela Favorita](https://open.spotify.com/album/5ddNO16mF8LKAs0VSStXOs) | 3:37 |
 
-Snapshot ID: `AcKB9gAAAACunHVIJ7L649ujKCSxbgFY`
+Snapshot ID: `AcKHlgAAAAC7NGJFOjFQjlNraI5cZvff`

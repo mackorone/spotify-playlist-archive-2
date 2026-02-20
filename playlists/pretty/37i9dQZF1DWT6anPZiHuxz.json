@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high!",
-  "num_followers": 636970,
+  "num_followers": 637022,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 176250,
       "name": "Golden - David Guetta REM/X",
       "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Fancy $hit",
         "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "I Wanna Go",
-        "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 126229,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/23eZSuMOfsr4tTWcC6DGcG"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 208320,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 126229,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/23eZSuMOfsr4tTWcC6DGcG"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1407,42 +1407,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 288159,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
         "url": "https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV"
       },
@@ -1475,22 +1439,38 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 187279,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1515,6 +1495,26 @@
       "duration_ms": 179512,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 187279,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1920,7 +1920,7 @@
           "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 206320,
+      "duration_ms": 205078,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
     },
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Take Your Places",
-        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 237341,
-      "name": "Take Your Places",
-      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Take Your Places",
+        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 237341,
+      "name": "Take Your Places",
+      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2215,6 +2215,22 @@
       "duration_ms": 201093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Too Fast",
+        "url": "https://open.spotify.com/album/0MqfOlBW188yelyfmhzA9T"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/7noH2kshIzLptuib0hIPkS"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2287,22 +2303,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Too Fast",
-        "url": "https://open.spotify.com/album/0MqfOlBW188yelyfmhzA9T"
-      },
-      "artists": [
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/7noH2kshIzLptuib0hIPkS"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "All The Things She Said (Culture Shock Version)",
         "url": "https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS"
       },
@@ -2343,30 +2343,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Original Don",
-        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Original Don",
-      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Same Day Cleaning",
         "url": "https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT"
       },
@@ -2387,6 +2363,30 @@
       "duration_ms": 171521,
       "name": "Match My Mood",
       "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Original Don",
+        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Original Don",
+      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 210978,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "one2three (feat. Leven Kali)",
         "url": "https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd"
       },
@@ -2575,26 +2595,6 @@
       "duration_ms": 248578,
       "name": "one2three (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 210978,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG"
     },
     {
       "added_at": "2026-02-13 05:00:25",

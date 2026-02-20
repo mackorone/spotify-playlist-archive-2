@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-469 songs - 1 day 5 hr 27 min
+470 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Flash\-A\-Magic](https://open.spotify.com/track/7ornB0tNXeHMuVscygsTOB) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/21SDAsPqwgYGKerUlgjpNB) | 3:17 | 2024-08-02 | 2024-09-07 |
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2021-12-17 | 2023-02-25 |
 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 | 2024-09-06 | 2025-03-22 |
-| [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 |  |
+| [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 | 2026-02-20 |
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 | 2025-10-18 |
 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 | 2024-05-31 | 2024-07-06 |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
@@ -363,6 +363,7 @@
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 | 2025-05-10 |
 | [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 | 2026-02-15 |
 | [Soul Searching](https://open.spotify.com/track/3hpZLgDKo3wrQ5PLwaNZyI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Soul Searching](https://open.spotify.com/album/32KrKYPFcywOHSorWmlp6o) | 3:57 | 2022-10-14 | 2022-11-12 |
+| [Soulbreaker](https://open.spotify.com/track/2IX9xS6ccoIQrqg3GjdB6l) | [Catfish](https://open.spotify.com/artist/2p8vm6yajSLniQujzpMB4A), [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Soulbreaker](https://open.spotify.com/album/6qd3TJkXLe4Z39V2dOEqjN) | 3:23 | 2026-02-13 |  |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-12-17 | 2026-02-14 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-01-28 | 2024-04-19 |
 | [Soulfight](https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [The Revivalists](https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT) | 6:32 | 2022-01-28 | 2023-12-16 |

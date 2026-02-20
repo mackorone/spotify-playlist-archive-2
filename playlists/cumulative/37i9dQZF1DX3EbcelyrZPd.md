@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-643 songs - 1 day 12 hr 40 min
+644 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Sitaki](https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Sitaki](https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM) | 3:36 | 2023-06-08 | 2024-06-14 |
 | [Siwezi](https://open.spotify.com/track/3XOAheboN0U3W0IlWIgv9b) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Siwezi](https://open.spotify.com/album/6xZjqJJGPFA89OdfzPrGaL) | 3:30 | 2026-01-23 |  |
 | [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 |  |
+| [Siyawezi](https://open.spotify.com/track/2auA6TWMJjkajOEiD1AplT) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Siyawezi](https://open.spotify.com/album/3Zi8VNw29bxWvZ4LpSQJZu) | 3:47 | 2026-02-19 |  |
 | [Slow](https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Slow](https://open.spotify.com/album/2sPnCcwPuXdwD7dwssEITQ) | 3:03 | 2023-09-14 | 2023-12-15 |
 | [Smarta With Data](https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Smarta With Data](https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg) | 3:57 | 2025-01-09 | 2025-03-21 |
 | [Songi Songi](https://open.spotify.com/track/03Yz6BO7KXgjRQ96NRNX54) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [Songi Songi](https://open.spotify.com/album/03UiYwDB1Qaq15J3gGOYzn) | 3:49 | 2025-10-23 |  |

@@ -4467,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Ando en la Disco (Da Players Town)",
+        "url": "https://open.spotify.com/album/5u4RfimFIdidEu57N9Xc4y"
+      },
+      "artists": [
+        {
+          "name": "5050",
+          "url": "https://open.spotify.com/artist/4wzzRsQSCa1GurLRmFbgTU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Ando en la Disco (Da Players Town)",
+      "url": "https://open.spotify.com/track/0JJhvjwiF6ylOedn2nKYWh"
+    },
+    {
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -15528,7 +15546,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152416,
       "name": "Cuerno Azulado",
       "url": "https://open.spotify.com/track/3NujAw2rFo1XtbjubBuAlo"
@@ -34663,6 +34681,24 @@
     },
     {
       "album": {
+        "name": "DESPIERTANOS",
+        "url": "https://open.spotify.com/album/1QCS4VWF5IqzqjaNr33vXr"
+      },
+      "artists": [
+        {
+          "name": "Cossio",
+          "url": "https://open.spotify.com/artist/0WPWsIPiiFX36FbnTaxpaJ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "La Victoria es Tuya",
+      "url": "https://open.spotify.com/track/2M8vy458RHLN1V5kdt6FQD"
+    },
+    {
+      "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
       },
@@ -37420,7 +37456,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -40712,6 +40748,28 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "album": {
+        "name": "Mer\u00e9",
+        "url": "https://open.spotify.com/album/6VaqMsjW9Yb9vGC2GBqk8k"
+      },
+      "artists": [
+        {
+          "name": "Dimelo Sam",
+          "url": "https://open.spotify.com/artist/7dleWaQQaQVi1ZqbSoXjJy"
+        },
+        {
+          "name": "DJ Luigi",
+          "url": "https://open.spotify.com/artist/5w2OgsMvAlXcsBNeZ91bqU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214399,
+      "name": "Mer\u00e9",
+      "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
     },
     {
       "album": {
@@ -49280,10 +49338,36 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211304,
       "name": "Pa Mover El Bote",
       "url": "https://open.spotify.com/track/5EXGhyLmJ3EotFnenZv9xm"
+    },
+    {
+      "album": {
+        "name": "Pa Mover el Bote",
+        "url": "https://open.spotify.com/album/4Ic5BL2cRjcoEibQTgyjCP"
+      },
+      "artists": [
+        {
+          "name": "Supremo",
+          "url": "https://open.spotify.com/artist/38Lid4XKPqZ2hSdxHTmbit"
+        },
+        {
+          "name": "Andro Skrt",
+          "url": "https://open.spotify.com/artist/3djWfPzAX7dRYkoT106ho9"
+        },
+        {
+          "name": "Jo\u00e3o Ferreira",
+          "url": "https://open.spotify.com/artist/2Po0n9GI0YXOkurg0l2giE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "Pa Mover el Bote",
+      "url": "https://open.spotify.com/track/0huoPce5DYnuJKwzHePgQe"
     },
     {
       "album": {
@@ -49672,7 +49756,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 152253,
       "name": "PANTI Y COLALE",
       "url": "https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM"
@@ -69620,7 +69704,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
@@ -72930,7 +73014,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

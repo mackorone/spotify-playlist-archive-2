@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 264 likes - 1,945 songs - 4 day 20 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 264 likes - 1,948 songs - 4 day 20 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1953,5 +1953,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1943 | [Old Ghosts Wash Away](https://open.spotify.com/track/05PotvxSgOgn43jerFi0a8) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Old Ghosts Wash Away](https://open.spotify.com/album/0Ou8UYSIb2Hm3OAu6B3wvh) | 3:29 |
 | 1944 | [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 |
 | 1945 | [Bottled Hope](https://open.spotify.com/track/2AAHCstOmqcOCfWDClEDro) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Bottled Hope](https://open.spotify.com/album/1rQJqPyhdCqaInoi7d8uzd) | 3:23 |
+| 1946 | [For Myself](https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV) | [NOAH](https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk) | [For Myself](https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN) | 4:30 |
+| 1947 | [why don't u love me](https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL) | [abbot crow](https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW) | [why don't u love me](https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF) | 1:37 |
+| 1948 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:49 |
 
-Snapshot ID: `AAAIIv95Ub0mKJXIQ3prf9vB2Lr5B/qb`
+Snapshot ID: `AAAIJYfux02f5OVWIjgDgIZhABe5sjOV`

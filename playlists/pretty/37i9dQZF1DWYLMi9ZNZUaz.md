@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,579 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,612 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 42 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT TAP RAP](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
 | 43 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
 | 44 | [Love Game](https://open.spotify.com/track/0x7rhEP1Tak1guiTYODlic) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Love Game](https://open.spotify.com/album/1vyxo3BO4guXsPYgWoV9gl) | 3:19 |
-| 45 | [NGƯỜI YÊU CHƯA SINH RA](https://open.spotify.com/track/2ix8KB1Xm7rRGzkh3i8P1d) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Dillan Hoàng Phan](https://open.spotify.com/artist/2VVveD3cVA7Pf61XKeJQDs) | [ANH TRAI "SAY HI" 2025, TẬP 2](https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok) | 3:54 |
-| 46 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
+| 45 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
+| 46 | [NGƯỜI YÊU CHƯA SINH RA](https://open.spotify.com/track/2ix8KB1Xm7rRGzkh3i8P1d) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Dillan Hoàng Phan](https://open.spotify.com/artist/2VVveD3cVA7Pf61XKeJQDs) | [ANH TRAI "SAY HI" 2025, TẬP 2](https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok) | 3:54 |
 | 47 | [Còn Ai Ngoài Anh Với Em](https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 4:04 |
 | 48 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
 | 49 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |

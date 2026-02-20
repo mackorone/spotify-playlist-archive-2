@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 194482,
       "name": "GLORY (It belongs to You)",
       "url": "https://open.spotify.com/track/0iBuV7UiQN9fJM8YWy9a3A"
@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "K\u00c1B\u00cdY\u00c8S\u00cd R\u0118 (Live)",
+        "url": "https://open.spotify.com/album/7FN0eyrL29SlrbvHzDq8OQ"
+      },
+      "artists": [
+        {
+          "name": "Tee Worship",
+          "url": "https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596235,
+      "name": "K\u00c1B\u00cdY\u00c8S\u00cd R\u0118 - Live",
+      "url": "https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7"
+    },
+    {
+      "album": {
         "name": "Lead Me",
         "url": "https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy"
       },
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 220003,
       "name": "My Trust",
       "url": "https://open.spotify.com/track/31CMjXa1jRfIDjFjMkryi2"
@@ -4544,6 +4562,24 @@
       "duration_ms": 231966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
+    },
+    {
+      "album": {
+        "name": "Only You (Live)",
+        "url": "https://open.spotify.com/album/28rMX1PGe2KdcLOkM1Rf5F"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567904,
+      "name": "Only You - Live",
+      "url": "https://open.spotify.com/track/7aGAhMdVTe8N3uEWQbdyCM"
     },
     {
       "album": {
@@ -5938,6 +5974,28 @@
       "duration_ms": 381040,
       "name": "You Are the Reason",
       "url": "https://open.spotify.com/track/1c0ALi1HY9oAkWpVrG1UJe"
+    },
+    {
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
+      },
+      "artists": [
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        },
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381970,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
       "album": {

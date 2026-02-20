@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6860,
+  "num_followers": 6859,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADSWrMvLOq9OdeO/RAuLPsk3Pji/mV7",
+  "snapshot_id": "AADSY1gkR5II9sNUBRJ9zHa1V4Syo+vi",
   "tracks": [
     {
       "added_at": "2026-02-18 18:32:30",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
+      "added_at": "2026-02-19 09:15:07",
+      "album": {
+        "name": "KATHARSIS",
+        "url": "https://open.spotify.com/album/2U74rtwrKI2R960UZYIexp"
+      },
+      "artists": [
+        {
+          "name": "Claudia Allmang",
+          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "KATHARSIS",
+      "url": "https://open.spotify.com/track/5QjWrqNPAIkiJH423LMJaf"
+    },
+    {
       "added_at": "2026-02-18 18:19:02",
       "album": {
         "name": "My Life",
@@ -39,6 +55,42 @@
       "duration_ms": 225800,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2iEVRI2wctS86shdunnJv3"
+    },
+    {
+      "added_at": "2026-02-19 09:39:30",
+      "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "duration_ms": 145133,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
+    },
+    {
+      "added_at": "2026-02-19 09:14:28",
+      "album": {
+        "name": "A esta invitamos nosotros",
+        "url": "https://open.spotify.com/album/192MAagOfqNj0muNXEjV08"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "Joder Juan",
+      "url": "https://open.spotify.com/track/7hySicHwxWJNOgp3hXyYaw"
     },
     {
       "added_at": "2026-02-18 18:20:04",
@@ -1663,74 +1715,6 @@
       "duration_ms": 144306,
       "name": "Pain Is A Must",
       "url": "https://open.spotify.com/track/0wL1k37TOX2ej1eCMpA3io"
-    },
-    {
-      "added_at": "2026-02-06 06:49:25",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-02-13 06:30:52",
-      "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-02-13 06:31:12",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
-      },
-      "artists": [
-        {
-          "name": "Ms Ray",
-          "url": "https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
-    },
-    {
-      "added_at": "2026-02-13 06:35:21",
-      "album": {
-        "name": "THE ART OF BEING A MESS (DELUXE)",
-        "url": "https://open.spotify.com/album/3RTRDuQ4gQwKS11ebgeSz7"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "somebody you're supposed to love",
-      "url": "https://open.spotify.com/track/1CpHz13wMel8GRkyePoS03"
     },
     {
       "added_at": "2026-02-13 06:39:01",

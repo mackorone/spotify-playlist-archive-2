@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Lylo Gold
 
-543 songs - 1 day 4 hr 0 min
+545 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-07-17 | 2024-10-04 |
 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 | 2022-07-17 | 2024-10-04 |
 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 | 2025-06-19 | 2025-08-28 |
+| [An Eater](https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [Going Normal](https://open.spotify.com/album/79TP0nVbW71q4zYVeqrd7a) | 2:27 | 2026-02-19 |  |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2022-06-24 | 2024-10-04 |
 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-23 | 2023-05-16 |
 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 | 2025-05-15 |  |
@@ -114,6 +115,7 @@
 | [Cheer Me Up](https://open.spotify.com/track/2A6rn2K7LHN5peOcEwQfzo) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Cheer Me Up](https://open.spotify.com/album/2I1A6Wn4hwuhAmP0K1GKAl) | 3:22 | 2022-06-24 | 2022-07-13 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-06-24 | 2024-10-04 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2022-06-24 | 2022-07-28 |
+| [chicken bagel](https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [chicken bagel](https://open.spotify.com/album/3tWfAbJmRTF0w78zeQ9M3y) | 2:50 | 2026-02-19 |  |
 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 | 2023-08-18 | 2024-04-19 |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-18 | 2023-10-22 |
 | [code red](https://open.spotify.com/track/5Vd46pXPA18ky9n1t4OOiP) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [code red](https://open.spotify.com/album/6JbZyVHufuyBDRYmG0td7G) | 2:35 | 2022-06-24 | 2022-07-28 |
@@ -198,7 +200,7 @@
 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-23 | 2024-04-26 |
 | [Get Me](https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Get Me](https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F) | 2:47 | 2024-10-25 | 2025-04-27 |
 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 | 2025-11-14 | 2026-02-13 |
-| [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 | 2025-04-04 |  |
+| [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 | 2025-04-04 | 2026-02-20 |
 | [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-10 | 2026-02-13 |
 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 | 2023-05-15 | 2023-06-17 |
 | [Go](https://open.spotify.com/track/2eoJHHLFlADDkbyOm3icMf) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Go](https://open.spotify.com/album/6PdBkfE508vLyjZdFGZsaP) | 2:29 | 2022-06-24 | 2022-07-28 |
@@ -273,7 +275,7 @@
 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 | 2024-11-08 |  |
 | [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-06-27 | 2024-10-11 |
 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 | 2022-07-17 | 2024-10-04 |
-| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-01 |  |
+| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-01 | 2026-02-20 |
 | [Limits](https://open.spotify.com/track/4CmdJFgdhp5RVcjLh2q3YS) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/6tdqVDZQJdk1Joub1My6yt) | 4:45 | 2025-04-04 | 2025-05-26 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-15 | 2024-10-04 |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-07-17 | 2022-07-20 |

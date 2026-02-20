@@ -4,7 +4,7 @@
 
 > 
 
-1,349 songs - 2 day 23 hr 14 min
+1,350 songs - 2 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Hot in NY](https://open.spotify.com/track/4RYRUDApJsPKTJIvBUz6a5) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 1:58 | 2025-03-13 |  |
 | [Hot Now](https://open.spotify.com/track/3eeyKNIBrt5TH4y0y3QkOu) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:08 | 2025-01-10 | 2025-05-21 |
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2023-10-03 | 2024-04-24 |
+| [Hot! Heat! Wow! Hot!](https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Fronzoli](https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt) | 3:32 | 2026-02-19 |  |
 | [How 2 Drive](https://open.spotify.com/track/1V6hdfzznWIayEAIzVrN1J) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:13 | 2024-03-04 | 2025-05-21 |
 | [How Did We Know?](https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 2:29 | 2022-07-17 | 2026-02-08 |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-06-19 | 2025-05-21 |

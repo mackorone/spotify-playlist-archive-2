@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Pharrell Williams & Voices of Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,636 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,666 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 68 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\)](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 |
 | 69 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 |
 
-Snapshot ID: `AAAAADZ3f3CpN1hldvTXXz7IIL6BZMRY`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

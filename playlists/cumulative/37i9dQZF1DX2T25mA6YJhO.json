@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: el diablo de shangai.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Linze.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -396,6 +396,24 @@
       "duration_ms": 165180,
       "name": "Alba",
       "url": "https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH"
+    },
+    {
+      "album": {
+        "name": "Alguien (quien sea)",
+        "url": "https://open.spotify.com/album/7w9y1bBWSWv1y1BJmEuXM4"
+      },
+      "artists": [
+        {
+          "name": "El Gavira",
+          "url": "https://open.spotify.com/artist/1UvQwGhNMpOK3fqW1kBW8s"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Alguien (quien sea)",
+      "url": "https://open.spotify.com/track/58otJbmPf2f6pJQUBOg2GU"
     },
     {
       "album": {
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 140565,
       "name": "Benito el aparejador",
       "url": "https://open.spotify.com/track/6i8ZEKYyMjSIIptOea9EBq"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211720,
       "name": "Cerrar los ojos",
       "url": "https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229661,
       "name": "Ciegos",
       "url": "https://open.spotify.com/track/5aCUsb2JPQl8RFl2VVzqXs"
@@ -1820,6 +1838,24 @@
       "duration_ms": 206400,
       "name": "Conjuro",
       "url": "https://open.spotify.com/track/26LaaTWcUwJLVwCzCmszWY"
+    },
+    {
+      "album": {
+        "name": "Hoy todo es amor",
+        "url": "https://open.spotify.com/album/1xXDEweUkRyYyLkkVewAit"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237285,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2O70Kh8BHu0QP49kh2nsKb"
     },
     {
       "album": {
@@ -2224,6 +2260,24 @@
       "duration_ms": 173885,
       "name": "Demasiados Deseos",
       "url": "https://open.spotify.com/track/1A6dbG3FyqNIt3uQbQDSPu"
+    },
+    {
+      "album": {
+        "name": "DEPRIMIDA PERO ALTERNATIVA",
+        "url": "https://open.spotify.com/album/0heEVcwGbnziEE8tkMLbaC"
+      },
+      "artists": [
+        {
+          "name": "TRONKAS!",
+          "url": "https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "DEPRIMIDA PERO ALTERNATIVA",
+      "url": "https://open.spotify.com/track/52zFhF23fcJ9nOsPTufKtg"
     },
     {
       "album": {
@@ -2910,7 +2964,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173532,
       "name": "El Pajarillo",
       "url": "https://open.spotify.com/track/425JO83jdHAT8a7gurmfuO"
@@ -3322,6 +3376,24 @@
       "duration_ms": 199200,
       "name": "Esp\u00edritu Ol\u00edmpico",
       "url": "https://open.spotify.com/track/6h0YQ6hAfOgpEz32vij8DI"
+    },
+    {
+      "album": {
+        "name": "Esta noche es nuestra",
+        "url": "https://open.spotify.com/album/2j8OMI3c4sVAWbU8Ld3UQa"
+      },
+      "artists": [
+        {
+          "name": "Amante Laff\u00f3n",
+          "url": "https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208731,
+      "name": "Esta noche es nuestra",
+      "url": "https://open.spotify.com/track/7ajeqqYmWYO1FSHsa9EV4d"
     },
     {
       "album": {
@@ -5144,7 +5216,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 223182,
       "name": "Llamas de Drag\u00f3n",
       "url": "https://open.spotify.com/track/6QpYqnIGnPKJLmV7TUdtUH"
@@ -7320,7 +7392,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 118464,
       "name": "Oye c\u00f3mo vienes",
       "url": "https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k"
@@ -8077,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "P\u00e9gate por favor",
+        "url": "https://open.spotify.com/album/6A7EZcNHwCo2Ze32IkX883"
+      },
+      "artists": [
+        {
+          "name": "Comic Sans",
+          "url": "https://open.spotify.com/artist/6iO5VUOZokpteF1zYVuWiJ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "P\u00e9gate por favor",
+      "url": "https://open.spotify.com/track/0QPQ8ZfzwCuEzO1obLV7K3"
+    },
+    {
+      "album": {
         "name": "QTHCQE",
         "url": "https://open.spotify.com/album/3GoRi4qKS7pGWFTfHVkILP"
       },
@@ -8185,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 dice el colegio de ingenieros",
+        "url": "https://open.spotify.com/album/7oSkXtwPshPDYQJKmba5St"
+      },
+      "artists": [
+        {
+          "name": "Go Cactus",
+          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205477,
+      "name": "Qu\u00e9 dice el colegio de ingenieros",
+      "url": "https://open.spotify.com/track/2Mejas3fYLPrptdwjObo1e"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 hay de ti? con Cora Yako",
         "url": "https://open.spotify.com/album/7oM21zceAHpG7pWF8ma13q"
       },
@@ -8222,6 +8330,24 @@
       "duration_ms": 226214,
       "name": "qu\u00e9 m\u00e1s da",
       "url": "https://open.spotify.com/track/6KVV3sZhXKfRXBKfPR6yIB"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198094,
+      "name": "Qu\u00e9 pena",
+      "url": "https://open.spotify.com/track/0QMZpdGfspLMWiOA8UDjFL"
     },
     {
       "album": {
@@ -8294,7 +8420,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 126788,
       "name": "Regalarte flores",
       "url": "https://open.spotify.com/track/5nzapEXyXahIR0DdArUhp6"

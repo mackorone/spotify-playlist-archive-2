@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Nhâm Phương Nam
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,382 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,381 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 74 | [DỪNG ĐƯỢC RỒI](https://open.spotify.com/track/71qkBBT77hvtX6Prto1wam) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh) | [DỪNG ĐƯỢC RỒI](https://open.spotify.com/album/3UNrLmQNEzSVKcgTkjCMJ9) | 3:26 |
 | 75 | [Lò Vi Sóng](https://open.spotify.com/track/0NLLlpRsGHNodtz5mJzUmW) | [Thiên Long](https://open.spotify.com/artist/3YZRuHCC8vM7StX0DNlstL) | [Lò Vi Sóng](https://open.spotify.com/album/2TgEF5huPaB0u4LoxZszUV) | 3:15 |
 
-Snapshot ID: `AAAAAF3fqt50Vojb/14TnSF9AlLG4gMJ`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

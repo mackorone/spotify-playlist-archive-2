@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Shepherd y Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,972 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,002 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 55 | [Vamo a Ve´](https://open.spotify.com/track/4IGMLAvw4kCwdQuvGPSF6n) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [El Varón Jonatan](https://open.spotify.com/artist/5t31e0PQ4BNPmxs29YHj7t) | [Vamo a Ve´](https://open.spotify.com/album/4ShD95ZnpUwTzDsiO0HhdB) | 2:43 |
 | 56 | [Made In GOD](https://open.spotify.com/track/6CjxnZfFZoXdfVkfg5Lj69) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Made in GOD](https://open.spotify.com/album/5H897ItzqtzCXPkYfuUBDr) | 2:45 |
 | 57 | [Love](https://open.spotify.com/track/7A8j7qaoYsKa38Cvg64AZz) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Antivirus](https://open.spotify.com/album/4w7Slsv9LjzUCJRafERJx7) | 3:31 |
-| 58 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:28 |
+| 58 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:25 |
 | 59 | [Hopetober 6](https://open.spotify.com/track/1413d1BEPIgAZD7Rw83MHV) | [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Hopetober 6](https://open.spotify.com/album/7MlbKa9IDgAJSORtuB1PVb) | 2:52 |
 | 60 | [Preocupado Por Quién?](https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [El Nene](https://open.spotify.com/album/1Y394HV6hXzZpJml9gqGXL) | 3:54 |
 | 61 | [Mayordomo de la rima](https://open.spotify.com/track/6TtCtlCj6Kgkk28u8l18xP) | [Elemento](https://open.spotify.com/artist/18cY0XRBki7XQXG2Sd5Fwd), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Mayordomo de la rima](https://open.spotify.com/album/0G6ws0de5h8jxFqeVlPpJO) | 4:03 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,370 songs - 3 day 5 hr 18 min
+1,371 songs - 3 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-25 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-07 | 2024-03-20 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-20 |
-| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-28 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-28 | 2026-02-20 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 | 2025-03-15 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-27 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2024-12-07 |
@@ -615,7 +615,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-19 |
 | [אבא](https://open.spotify.com/track/3PqHflY0wAwmSAt0pIZRT7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:29 | 2023-04-26 | 2023-04-28 |
-| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 | 2026-02-18 |
+| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 |  |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
 | [אגרוף](https://open.spotify.com/track/5liIuoKq6hJZOheB95eTCt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:09 | 2025-09-24 | 2025-12-19 |
@@ -634,6 +634,7 @@
 | [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 | 2022-08-28 |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-11 | 2026-02-13 |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2025-04-22 |
+| [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 | 2026-02-19 |  |
 | [אוהבת לא אוהבת](https://open.spotify.com/track/10pnfojlZf9nHvKngPHB7k) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:28 | 2024-11-11 | 2024-12-06 |
 | [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 | 2025-05-31 | 2025-06-08 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2025-10-04 |
@@ -1279,7 +1280,7 @@
 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 | 2024-10-23 |
 | [רוצה שלום](https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רוצה שלום](https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR) | 3:28 | 2021-03-27\* | 2021-12-19 |
 | [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 |  |
-| [רוקד עם הכאב](https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [כוחה של אהבה](https://open.spotify.com/album/2L5KLSiiUaV5xJRKZ0tXTB) | 4:01 | 2025-09-19 |  |
+| [רוקד עם הכאב](https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [כוחה של אהבה](https://open.spotify.com/album/2L5KLSiiUaV5xJRKZ0tXTB) | 4:01 | 2025-09-19 | 2026-02-20 |
 | [רוקי](https://open.spotify.com/track/1oZbzZEpWVtmwMjxo12SzV) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:09 | 2025-10-06 |  |
 | [רוקנרול](https://open.spotify.com/track/2tFX3wqEPyya8k2bS8pHqW) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:43 | 2024-11-11 | 2025-03-16 |
 | [רחוב המשבר](https://open.spotify.com/track/3sehBAUnI9J14iGW2KOEdk) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:47 | 2025-06-30 | 2025-07-13 |

@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+    },
+    {
+      "album": {
         "name": "4M Imbicou",
         "url": "https://open.spotify.com/album/5xYkEO9PhAtXBKpj3UcGO8"
       },
@@ -2084,6 +2102,32 @@
       "duration_ms": 251239,
       "name": "A NATA",
       "url": "https://open.spotify.com/track/4yCaCU8oRB8Pcztid6D77d"
+    },
+    {
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Acad\u00eamicos Do Grande Rio",
+          "url": "https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA"
+        },
+        {
+          "name": "Evandro Malandro",
+          "url": "https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329482,
+      "name": "A Na\u00e7\u00e3o do Mangue",
+      "url": "https://open.spotify.com/track/2EVJnYFACyxBogsoG55Ajx"
     },
     {
       "album": {
@@ -25916,7 +25960,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -49746,7 +49790,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -62578,7 +62622,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 219000,
       "name": "PENSANDO EM MIM",
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
@@ -65424,6 +65468,32 @@
       "duration_ms": 141964,
       "name": "Pra Cima Deles Flamengo",
       "url": "https://open.spotify.com/track/6Ou3ojmotX0IQ77fnWrikY"
+    },
+    {
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Unidos do Viradouro",
+          "url": "https://open.spotify.com/artist/2TvCrbqQMOG0MLbqjqBES0"
+        },
+        {
+          "name": "Wander Pires",
+          "url": "https://open.spotify.com/artist/06aErK9NwNAHzLob15if8z"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353488,
+      "name": "Pra Cima, Ci\u00e7a!",
+      "url": "https://open.spotify.com/track/3DBUjIPBwEvGupC08xhCLt"
     },
     {
       "album": {

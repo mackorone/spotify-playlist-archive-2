@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 132145,
+  "num_followers": 132154,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
-        }
-      ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Controle (Remix)",
         "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 159640,
       "name": "Controle (Remix)",
       "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
     },
     {
       "added_at": "2025-08-29 03:01:05",

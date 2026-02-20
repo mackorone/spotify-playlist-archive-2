@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 37 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 35 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 36 | [The Villest \(with Erykah Badu\)](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
 | 37 | [Girlfriend Is Better](https://open.spotify.com/track/3CLe7pOiynn4KOkmugnVAa) | [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Naive Melodies](https://open.spotify.com/album/56uG77zb81KOvJN4pR40yY) | 4:08 |
-| 38 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 |
 
 Snapshot ID: `aY6v0AAAAACsV3PQmA2rwEfFLrt7pF2B`

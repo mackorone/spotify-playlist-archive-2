@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,579 songs - 2 day 17 hr 30 min
+1,582 songs - 2 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Genom eld & vatten \- Remix](https://open.spotify.com/track/0602UxfoZWLLErZI6Ji6WV) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [Genom eld & vatten \(Remix\)](https://open.spotify.com/album/1jEELJDqnbS3CNHc3sn0SP) | 3:07 | 2022-10-27 | 2023-02-24 |
 | [GERT MUSEXPERT](https://open.spotify.com/track/6enFnXmwBiqrLgkFauh5ZY) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [GERT MUSEXPERT](https://open.spotify.com/album/6P02f73CTT12XmT5jBj62H) | 3:08 | 2023-06-29 | 2023-10-13 |
 | [Get in Trouble \(So What\) \- Lilo Remix](https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA) | [Get in Trouble \(So What\) \[Lilo Remix\]](https://open.spotify.com/album/29ys9S9fKqmXBhMluO4HA0) | 2:35 | 2021-12-16 | 2022-07-23 |
+| [Gikk en tur på stien](https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Gikk en tur på stien](https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS) | 2:23 | 2026-02-19 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-21 | 2022-06-08 |
 | [Gin och glögg](https://open.spotify.com/track/7Fr1TbFRL3RGyqCRLu3fB0) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Gin och glögg](https://open.spotify.com/album/2xeWhVD5EoeZIOVgalh0TF) | 1:27 | 2023-11-30 | 2024-01-02 |
 | [Gin och glögg \- Mozby Remix](https://open.spotify.com/track/3S4yXniNqhkSOF1SEW8Tf1) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Gin och glögg \(Mozby Remix\)](https://open.spotify.com/album/46A9HIxC5c0iYUucJZkkfD) | 1:32 | 2023-12-14 | 2024-01-02 |
@@ -584,6 +585,7 @@
 | [GÖR NÅT DUMT](https://open.spotify.com/track/4RNoZGFzsKm6x86jiW2Ujo) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [30 km/h](https://open.spotify.com/album/2mpG8EziSzEqopH9JEoWT9) | 2:32 | 2024-03-07 | 2024-04-19 |
 | [GÖR NÅT DUMT](https://open.spotify.com/track/50f1LUcmjx9PUJs2vGklJ0) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [30 km/h](https://open.spotify.com/album/21A3LL1zDwpLfGhXutTuPr) | 2:32 | 2024-02-22 | 2024-06-14 |
 | [HA DIG NU](https://open.spotify.com/track/5CbLOJ1ihMmpQSRJhiXtdM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [HA DIG NU](https://open.spotify.com/album/0BFGiFeMVFDv9adsJ6Ctj7) | 1:33 | 2024-01-11 | 2024-03-15 |
+| [HAKUNA MATATA](https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [HAKUNA MATATA](https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk) | 2:16 | 2026-02-19 |  |
 | [HALSA HELA FLASKAN](https://open.spotify.com/track/6OzTVuvzUMvSL5vp4ZQJhi) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [HALSA HELA FLASKAN](https://open.spotify.com/album/52hThFxaOwV25oPcxD4lmf) | 2:19 | 2023-03-02 | 2023-03-10 |
 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 | 2024-05-09 | 2024-05-17 |
 | [HAPPIS](https://open.spotify.com/track/44g4gsmitW2Yjv0Sdo9Jrz) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [HAPPIS](https://open.spotify.com/album/1VxgHJs40ynjBRZXfLK9o3) | 2:36 | 2023-05-04 | 2023-08-25 |
@@ -1054,6 +1056,7 @@
 | [Pressure](https://open.spotify.com/track/3u8T5pX80YQODtQz8bxR1f) | [DWELLO](https://open.spotify.com/artist/26BzdbXkQr6eenU7j5ZDSR) | [Pressure](https://open.spotify.com/album/2VQgaFiQpNz1xlZj1tTSLi) | 2:36 | 2021-12-16 | 2022-04-22 |
 | [PRIPPS I LÅNGBURK](https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [PRIPPS I LÅNGBURK](https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX) | 1:35 | 2024-05-09 | 2024-06-01 |
 | [PROJECT X](https://open.spotify.com/track/09jKjDqMTrtM5eQDcBkPJT) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [PROJECT X](https://open.spotify.com/album/1VSnPyGLEZeQkp4QkSrlaQ) | 2:14 | 2022-12-08 | 2023-02-03 |
+| [Promiskiøs \(PM\)](https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Promiskiøs \(PM\)](https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp) | 2:33 | 2026-02-19 |  |
 | [PSYCHO](https://open.spotify.com/track/3IDdIoyc1qnojBGCVrDKfN) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [PSYCHO](https://open.spotify.com/album/4IGbqJswvaRqouCxEaUbN8) | 1:44 | 2024-08-22 | 2024-10-18 |
 | [PSYKOLOGEN](https://open.spotify.com/track/3DUrNIESjNVJiVFh5goqor) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [PSYKOLOGEN](https://open.spotify.com/album/0umhuO9pOIoETr9m1xDTdn) | 2:13 | 2023-06-08 | 2023-08-18 |
 | [PSYKOPAT](https://open.spotify.com/track/513HKBUyCIwv1zXOLmEYCM) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [PSYKOPAT](https://open.spotify.com/album/3LrERkehZNXq8YsN2HowHo) | 2:36 | 2024-01-25 | 2024-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,023 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,025 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 53 | [The Lady in My Life](https://open.spotify.com/track/5Oed9NlDp3H0sCJQa3Xpsm) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 6:55 |
 | 54 | [Köln, January 24, 1975, Part I \- Live](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 26:01 |
 | 55 | [December in New York \- Live](https://open.spotify.com/track/5tfpp6qdEkDkYDbhxop5ah) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Live at Union Chapel](https://open.spotify.com/album/1F8kkZsV6ETDAwq0CIJeKu) | 5:16 |
-| 56 | [Forest Flower \- Sunrise \- Live@Monterey](https://open.spotify.com/track/07pMgVhH3m4TE9QLnki25T) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 7:30 |
+| 56 | [Forest Flower \- Sunrise \- Live at the Monterey Jazz Festival, 1966](https://open.spotify.com/track/07pMgVhH3m4TE9QLnki25T) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey \(Live\)](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 7:30 |
 | 57 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 |
 | 58 | [Summertime \- Live Version](https://open.spotify.com/track/1c2Lw08YnZq71rUyrb2r8F) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles & Quincy Live at Montreux](https://open.spotify.com/album/2uhZ5Lazl1Wyzdxa7LvMkn) | 2:58 |
 | 59 | [Afro\-Blue \- Live At Birdland Jazzclub, New York City, NY, 10/8/1963](https://open.spotify.com/track/5QblyNjAyOs0AJBQHJQkrn) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 10:49 |

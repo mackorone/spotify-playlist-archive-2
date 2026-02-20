@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: King Promise and Mr Eazi",
+  "description": "The tracks heating up the continent right now!  Cover: Wizkid and Asake ",
   "name": "African Heat",
   "tracks": [
     {
@@ -10631,6 +10631,36 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aCFxXlFzAm9dLtx5IFuYE"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Nia Pearl",
+          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379057,
+      "name": "Shela",
+      "url": "https://open.spotify.com/track/3UpOAGqJltveyi8DQYr0WI"
+    },
+    {
+      "album": {
         "name": "Show You Off",
         "url": "https://open.spotify.com/album/3zWCZabaPKAJ3Ku4lRqPzK"
       },
@@ -13644,6 +13674,36 @@
       "duration_ms": 273098,
       "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
       "url": "https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6"
+    },
+    {
+      "album": {
+        "name": "ZEP (feat. Uncool MC)",
+        "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
+      },
+      "artists": [
+        {
+          "name": "Dj Smallz",
+          "url": "https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM"
+        },
+        {
+          "name": "ZinedinexSguche",
+          "url": "https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308241,
+      "name": "ZEP (feat. Uncool MC)",
+      "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
     },
     {
       "album": {

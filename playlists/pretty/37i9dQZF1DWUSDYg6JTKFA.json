@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211765,
+  "num_followers": 211792,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "God Is With Us",
         "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226777,
       "name": "God Is With Us",
       "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
         "url": "https://open.spotify.com/album/7w7ME5DOT5DMwNWp0F0SsU"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 269293,
       "name": "Watch Him Turn It (NYE Live) [feat. Shomoneik]",
       "url": "https://open.spotify.com/track/2zuOJKwL1XsKtN0yyd4BpO"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 191710,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
         "url": "https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 247677,
       "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
       "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
     },
     {
       "added_at": "2025-12-13 23:46:05",

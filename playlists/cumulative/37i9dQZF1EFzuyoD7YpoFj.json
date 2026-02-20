@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196053,
       "name": "By The Mississinewah - From \"Something For The Boys\"",
       "url": "https://open.spotify.com/track/0wVHNEAyRaiLiCLNWqiiYs"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 179546,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 180586,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5N6uDGbLMGtkhObpMIdN4Q"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 262535,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6zt0X5Fu7HOtr8rRuyLHh5"
@@ -3074,6 +3074,28 @@
       "duration_ms": 265666,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/56nXPhIpF1JluugBO6nS21"
+    },
+    {
+      "album": {
+        "name": "The Girl From Ipanema",
+        "url": "https://open.spotify.com/album/6OcSKB5eukSbTwrLn584PE"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266640,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2nzB1LgLE3v4Jm7W86ZFrX"
     },
     {
       "album": {
@@ -3412,7 +3434,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 165266,
       "name": "Fresh As A Daisy",
       "url": "https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv"
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167093,
       "name": "Fresh As A Daisy",
       "url": "https://open.spotify.com/track/0xzqp1cuSZzVPAniCnBROp"
@@ -3949,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "High Society",
+      "url": "https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89"
+    },
+    {
+      "album": {
         "name": "King Louis",
         "url": "https://open.spotify.com/album/4P81dhj7mDhuQvbhtCXYX1"
       },
@@ -3960,7 +4000,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 239760,
       "name": "High Society",
       "url": "https://open.spotify.com/track/3Q7lmoYtGUI5npEm3bsdU2"
@@ -4830,6 +4870,24 @@
       "duration_ms": 146587,
       "name": "I'm a Gigolo (2023 Remastered)",
       "url": "https://open.spotify.com/track/50keLfAcioOZyCdKvRMU6x"
+    },
+    {
+      "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/2zPa583Ri5u6QJhFv95BCy"
+      },
+      "artists": [
+        {
+          "name": "Ray Bolger",
+          "url": "https://open.spotify.com/artist/2AFiUmVJVOF5yUjt51Yx88"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "I'm Facinating",
+      "url": "https://open.spotify.com/track/7C36hROkWCJC46bZd5Rrsz"
     },
     {
       "album": {
@@ -8156,10 +8214,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 157335,
       "name": "Pavane Op.50",
       "url": "https://open.spotify.com/track/4Qzb5VbhIcPP4Q75zR5bYo"
+    },
+    {
+      "album": {
+        "name": "World Classical 2010",
+        "url": "https://open.spotify.com/album/3umFa9oZYIS1gicfvKuuwk"
+      },
+      "artists": [
+        {
+          "name": "Radio Orchestra Berlin",
+          "url": "https://open.spotify.com/artist/5AExgoflIOxDFT5QYI8zI0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157266,
+      "name": "Pavane Op.50",
+      "url": "https://open.spotify.com/track/3o90ZRZeYU19db24Mu6unN"
     },
     {
       "album": {
@@ -10029,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "Cole Porter",
+        "url": "https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166719,
+      "name": "The Cocotte",
+      "url": "https://open.spotify.com/track/0RnpokAzF37svUwKqLmClo"
+    },
+    {
+      "album": {
         "name": "Porter, Cole - Cole Porter In The 1930s's Volume 1",
         "url": "https://open.spotify.com/album/5XNqbZPMTYxrVSpU9foKNK"
       },
@@ -10044,7 +10138,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 164106,
       "name": "The Cocotte",
       "url": "https://open.spotify.com/track/7oSwEGKB1EFISGthtWyiP5"
@@ -11420,10 +11514,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186600,
       "name": "Waltz Down the Aisle",
       "url": "https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU"
+    },
+    {
+      "album": {
+        "name": "The Highlights",
+        "url": "https://open.spotify.com/album/7lgvgiJzqEgTqMlafeaOkP"
+      },
+      "artists": [
+        {
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Waltz Down The Aisle",
+      "url": "https://open.spotify.com/track/7fVGqjsCqFSGsyNrazMSoV"
     },
     {
       "album": {
@@ -12588,7 +12700,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
@@ -12606,7 +12718,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175613,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/4nx7JRB6PajaFxZrrnBm2j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Campanella \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,377 likes - 93 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,389 likes - 93 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

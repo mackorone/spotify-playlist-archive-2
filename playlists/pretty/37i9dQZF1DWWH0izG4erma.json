@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 652481,
+  "num_followers": 652555,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "White Trash",
-        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
+        "name": "Made It This Far",
+        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
       },
       "artists": [
         {
-          "name": "Colin Stough",
-          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
         }
       ],
-      "duration_ms": 225368,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
+      "duration_ms": 164313,
+      "name": "Made It This Far",
+      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Made It This Far",
-        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
+        "name": "White Trash",
+        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
       },
       "artists": [
         {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
         }
       ],
-      "duration_ms": 164313,
-      "name": "Made It This Far",
-      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
+      "duration_ms": 225368,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
     },
     {
       "added_at": "2026-01-16 05:00:44",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Find You (feat. Rory Rodriguez)",
         "url": "https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 212680,
       "name": "Find You (feat. Rory Rodriguez)",
       "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
     },
     {
       "added_at": "2026-01-16 05:00:44",

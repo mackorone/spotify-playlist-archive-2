@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,088 songs - 9 day 1 hr 18 min
+4,089 songs - 9 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2848,6 +2848,7 @@
 | [Rebellion's Fire](https://open.spotify.com/track/654UuP9v8Jt7NV6YPtudIA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:55 | 2025-05-27 |  |
 | [Rebellion's Fire \(another\)](https://open.spotify.com/track/7w2EeMM1UfSg4AFI6UshNP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:08 | 2025-09-18 |  |
 | [Red Hot](https://open.spotify.com/track/2tgFOPOBaJYyWWAKYLGbyw) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:28 | 2025-10-09 |  |
+| [Red, White & Disrespect](https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV) | [Dulyfixed Music](https://open.spotify.com/artist/71L2ZJ5fTCiJ4K9CC9BmUF) | [Red, White & Disrespect](https://open.spotify.com/album/4C8S0fmijazAvuxE4YORnY) | 2:31 | 2026-02-19 |  |
 | [Referee](https://open.spotify.com/track/4XHx4rItlKAaIo2doe3cmF) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh) | [What's love](https://open.spotify.com/album/4ZQSgR9ZPUFWwSmdLnIcOo) | 3:29 | 2025-06-05 |  |
 | [Reflections at Dawn](https://open.spotify.com/track/3II6ALYUVAJlgnwLVfSFEH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:13 | 2025-09-19 |  |
 | [Reflections at Dawn \(another\)](https://open.spotify.com/track/5RiT7UdDUUntkXRrLlpfTs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 2:53 | 2025-09-19 |  |

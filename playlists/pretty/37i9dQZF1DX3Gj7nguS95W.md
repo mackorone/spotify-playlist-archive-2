@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 
 > The greatest New Wave songs through the decades\. Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,993 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,080 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 40 | [Dear God \- Remastered 2001](https://open.spotify.com/track/5WuRIlM4ACXHJwcjzlm9Gx) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking \(Remastered 2001\)](https://open.spotify.com/album/0KZzE7kp90tb85NaixWeir) | 3:38 |
 | 41 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 |
 | 42 | [Rise](https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Public Image Ltd.](https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3) | 6:18 |
-| 43 | [Shot By Both Sides \- Remastered 2007](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
+| 43 | [Good Girls Don't](https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 3:09 |
 | 44 | [E=MC2](https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [This Is Big Audio Dynamite](https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B) | 5:54 |
-| 45 | [Good Girls Don't](https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 3:09 |
+| 45 | [Shot By Both Sides \- Remastered 2007](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
 | 46 | [Vacation](https://open.spotify.com/track/5ZiB5Uw0wfB08gmbGpJYSc) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 2:59 |
 | 47 | [Paint By Number Heart \- Remastered](https://open.spotify.com/track/3djJEaq5BPeIKYrn7znBDH) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:29 |
 | 48 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |

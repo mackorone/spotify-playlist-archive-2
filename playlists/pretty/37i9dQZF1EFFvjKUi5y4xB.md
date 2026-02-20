@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 114 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 115 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 110 | [She Asked Me](https://open.spotify.com/track/4UWx61fJ2lmA6TcXOqsRtq) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:12 |
 | 111 | [Feel So Good](https://open.spotify.com/track/25ceDA7wDxIo60C1FuPiKJ) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Feel So Good](https://open.spotify.com/album/4O4kBKYlGvIXdDGuE0mNs7) | 2:48 |
 | 112 | [Don't Say No](https://open.spotify.com/track/6rewEZkLHDRD7kBrkwEChb) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:43 |
-| 113 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
-| 114 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
+| 113 | [More Than A Lover](https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [More Than A Lover](https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f) | 4:05 |
+| 114 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
+| 115 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AcKB7AAAAAD9NSr5o1QP/0vGjr86c+Dl`
+Snapshot ID: `AcKHyAAAAADr+XwS71w5c0LuDqbKWiri`

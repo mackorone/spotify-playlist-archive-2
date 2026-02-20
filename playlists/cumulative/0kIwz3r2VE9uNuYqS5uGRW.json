@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "V\u00c9RTIGO",
+        "url": "https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn"
+      },
+      "artists": [
+        {
+          "name": "Xems",
+          "url": "https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156257,
+      "name": "V\u00c9RTIGO",
+      "url": "https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl"
+    },
+    {
+      "album": {
         "name": "Pigheaded",
         "url": "https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD"
       },

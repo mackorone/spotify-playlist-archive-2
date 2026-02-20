@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Floema",
+        "url": "https://open.spotify.com/album/3R97Dopu5hY3dHLPTyaWDV"
+      },
+      "artists": [
+        {
+          "name": "Faer",
+          "url": "https://open.spotify.com/artist/4RBPgkSEkLWLWrqRXp1uh3"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109467,
+      "name": "Desi",
+      "url": "https://open.spotify.com/track/049UzE2dAeKVtc6D8DZNfo"
+    },
+    {
+      "album": {
         "name": "Food",
         "url": "https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u"
       },
@@ -10100,7 +10118,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"

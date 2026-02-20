@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/7GcU6XRmPo8GWzJxkZirMm"
+      },
+      "artists": [
+        {
+          "name": "Younger Hunger",
+          "url": "https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2mle4atoY4qjRBpVgAUhdG"
+    },
+    {
+      "album": {
         "name": "Feed the Machine",
         "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,712 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,723 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 72 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 |
 | 73 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
 | 74 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
-| 75 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
-| 76 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
+| 75 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
+| 76 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 77 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 |
 | 78 | [Tango Del Angel](https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog) | [Leopoldo Federico y su Orquesta Tipica](https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w) | [Todo Piazzolla](https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO) | 3:16 |
 | 79 | [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 |

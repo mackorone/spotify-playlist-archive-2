@@ -2778,10 +2778,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 231573,
       "name": "Waiting Outside The Lines",
       "url": "https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI"
+    },
+    {
+      "album": {
+        "name": "Hold On \u2018Til The Night (Special Asia Edition)",
+        "url": "https://open.spotify.com/album/2H3CMQPfaiqLkSAEMkI3YP"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        },
+        {
+          "name": "Charice",
+          "url": "https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "Waiting Outside The Lines - Remix",
+      "url": "https://open.spotify.com/track/1p7qu4Ntc7INp4RUyYIPd0"
     },
     {
       "album": {

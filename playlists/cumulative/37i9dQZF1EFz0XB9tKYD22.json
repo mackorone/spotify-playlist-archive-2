@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Best Hits for Punchball",
+        "url": "https://open.spotify.com/album/5sWV9f4gJ6ttHp0Hgy0PtD"
+      },
+      "artists": [
+        {
+          "name": "Tune Robbers",
+          "url": "https://open.spotify.com/artist/0rpos3tdyyc5uoxMM8Ptg9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248096,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2F4SgPHq9V6GAnZUzclVOm"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 248096,
       "name": "Everything (Karaoke Version With Lead Vocal) [Originally Performed By Jessica Andrews]",
       "url": "https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd"
@@ -4211,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "All American Girls",
+        "url": "https://open.spotify.com/album/2i6pJv5v5VAKNuNQoG3LNB"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Peaches",
+          "url": "https://open.spotify.com/artist/0MgubPtKQlxp3TkaDGGlPg"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6dTUPa2ZRof39DUB0pDrBf"
+    },
+    {
+      "album": {
         "name": "Top Hits-Country",
         "url": "https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w"
       },
@@ -4222,7 +4258,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 236000,
       "name": "Mine",
       "url": "https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0"

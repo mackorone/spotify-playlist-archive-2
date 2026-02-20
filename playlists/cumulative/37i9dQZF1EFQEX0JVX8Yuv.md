@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 6 hr 5 min
+125 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Je T'Adore](https://open.spotify.com/track/0VPbWmfhv2BL9BvzjPi38m) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:05 | 2023-12-30 |  |
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-12-30 |  |
 | [Knives](https://open.spotify.com/track/00Po3m9Jz0m5uNedPBw4ma) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:20 | 2023-12-30 |  |
-| [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/track/78qFR4ah1s7wY3f6qdcnDL) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:57 | 2023-12-30 |  |
+| [Love Me Less \(feat\. Kim Petras\)](https://open.spotify.com/track/5bYxifDPAAHVKS5IUEoVaf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Colour Vision \(Deluxe\)](https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6) | 2:57 | 2026-02-19 |  |
+| [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/track/78qFR4ah1s7wY3f6qdcnDL) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:57 | 2023-12-30 | 2026-02-20 |
 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 | 2024-01-03 |  |
 | [Made You Look \(feat\. Kim Petras\)](https://open.spotify.com/track/63ehxyfRWRnMPE0yItoWFo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 | 2023-12-30 |  |
 | [Made You Look \- Official Visualizer](https://open.spotify.com/track/0nsFK3rHixV5WyIjThe7Nb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Made You Look \(Official Visualizer\)](https://open.spotify.com/album/5RNZ81UGN9WBU7W7U4aMLO) | 2:27 | 2024-01-20 | 2024-01-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,495 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,524 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 49 | [Don't Forget \(Psalm 103\) \- Live](https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:23 |
 | 50 | [Give Me Oil In My Lamp](https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Give Me Oil In My Lamp](https://open.spotify.com/album/5710M92hn0jDFel2kencbw) | 2:48 |
 | 51 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
-| 52 | [God Is So Good](https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Thank You Jesus](https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh) | 2:41 |
-| 53 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
-| 54 | [Bible Verses](https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG) | [Jesus Loves Me This I Know](https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU), [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Verses](https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL) | 2:11 |
+| 52 | [Bible Verses](https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG) | [Jesus Loves Me This I Know](https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU), [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Verses](https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL) | 2:11 |
+| 53 | [God Is So Good](https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Thank You Jesus](https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh) | 2:41 |
+| 54 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
 | 55 | [\(Blessed Be\) The Name of the Lord](https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:55 |
 | 56 | [Lydia, Seller of Purple](https://open.spotify.com/track/4xYoZPp1rEUsf21QZZRrn0) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN), [Becca Jordan](https://open.spotify.com/artist/2KWuvQrbl3OtGuvGx0d1b6) | [Lydia, Seller of Purple](https://open.spotify.com/album/2cnBBglQlgWA7EBsqzbs7E) | 1:57 |
 | 57 | [Let My Light Shine](https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Let My Light Shine](https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI) | 2:46 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 63 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 |
 | 64 | [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 |
 | 65 | [Everyone Should Know](https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Everyone Should Know](https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh) | 2:24 |
-| 66 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
-| 67 | [John 3:16](https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:08 |
+| 66 | [John 3:16](https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:08 |
+| 67 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
 | 68 | [No Greater Love](https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 3:50 |
 | 69 | [Superhero \- Reimagined](https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Superhero](https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT) | 2:44 |
 | 70 | [Books Of The Bible](https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [3 Little Words, Vol\. 7](https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD) | 1:55 |

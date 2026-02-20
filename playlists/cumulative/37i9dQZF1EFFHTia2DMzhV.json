@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "The Columbia Album of Sigmund Romberg",
+        "url": "https://open.spotify.com/album/7FCk6VoHzmF2RFCJcDFD5j"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212124,
+      "name": "I Bring a Love Song",
+      "url": "https://open.spotify.com/track/0q8RmLBFnoIRD3uSddxdCF"
+    },
+    {
+      "album": {
         "name": "Sigmund Romberg",
         "url": "https://open.spotify.com/album/5UQlTOzFZPRoeYxFQ1rSVI"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211299,
       "name": "I Bring A Love Song",
       "url": "https://open.spotify.com/track/1rAx9FJ7ML3Kcr4aq78hoM"
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 195786,
       "name": "Lover, Come Back To Me",
       "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 200293,
       "name": "Lover, Come Back To Me",
       "url": "https://open.spotify.com/track/1CROrJx9hs1tXdd0H7RGcA"
@@ -1999,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Oklahoma!",
+        "url": "https://open.spotify.com/album/7sK7Az10aqaN6ZYTTeNWQq"
+      },
+      "artists": [
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175466,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/7cFthBIOeSgKLIFM7kEpfo"
+    },
+    {
+      "album": {
         "name": "Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8"
       },
@@ -2014,7 +2050,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175466,
       "name": "Overture",
       "url": "https://open.spotify.com/track/50R5QqKUfj6niDS2DTPJW1"
@@ -2208,10 +2244,44 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 263666,
       "name": "Shall We Dance'",
       "url": "https://open.spotify.com/track/1Slx4INt9vGDrF1VD0SwXN"
+    },
+    {
+      "album": {
+        "name": "The King And I: Music From The Motion Picture (Remastered 2001)",
+        "url": "https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b"
+      },
+      "artists": [
+        {
+          "name": "Deborah Kerr",
+          "url": "https://open.spotify.com/artist/1xqwGBikt66LDmSSeaFvp5"
+        },
+        {
+          "name": "Marni Nixon",
+          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
+        },
+        {
+          "name": "Yul Brynner",
+          "url": "https://open.spotify.com/artist/5ctGvibG1nCPQRi4mAKjac"
+        },
+        {
+          "name": "Darcy M. Proper",
+          "url": "https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ"
+        },
+        {
+          "name": "Jen Wyler",
+          "url": "https://open.spotify.com/artist/5ktpNQLvpix0NP8gyHGl9X"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "Shall We Dance? - From \"The King And I\" Soundtrack / Remastered 2001",
+      "url": "https://open.spotify.com/track/2laBcnH7gRXWtxZvVSnYgI"
     },
     {
       "album": {
@@ -2355,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "The Columbia Album of Sigmund Romberg",
+        "url": "https://open.spotify.com/album/3X67rvcIdJa8xVybo7y4E9"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187061,
+      "name": "Something New Is in My Heart",
+      "url": "https://open.spotify.com/track/0jwV2S79JBskDy2oyX5FQB"
+    },
+    {
+      "album": {
         "name": "The Columbia Album of Sigmund Romberg, Vol. 1",
         "url": "https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt"
       },
@@ -2366,7 +2454,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 187061,
       "name": "Something New Is in My Heart",
       "url": "https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq"

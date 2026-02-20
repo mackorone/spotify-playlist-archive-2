@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Idhayam Murali",
-  "num_followers": 187324,
+  "num_followers": 187502,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+zyL7KEH3dfz1iIRb+zecS7J/p",
+  "snapshot_id": "AAAAAFQLErxvTy7KsatX0afDmYIPUoFI",
   "tracks": [
     {
       "added_at": "2026-01-29 07:07:59",
@@ -155,6 +155,34 @@
       "duration_ms": 250212,
       "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
       "url": "https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U"
+    },
+    {
+      "added_at": "2026-02-19 12:30:01",
+      "album": {
+        "name": "Paranthene Penne (From \"Youth\")",
+        "url": "https://open.spotify.com/album/7KP9rdrmLHAq1N7iPceFTR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ken Karunaas",
+          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
+        },
+        {
+          "name": "Sony Daffodil",
+          "url": "https://open.spotify.com/artist/3hg5kBpXLQ0h6adKjwsju2"
+        },
+        {
+          "name": "Vignesh Srikanth",
+          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Paranthene Penne (From \"Youth\")",
+      "url": "https://open.spotify.com/track/3OWCVnMFh7vQgkjoVfvEIQ"
     },
     {
       "added_at": "2026-02-05 15:20:44",
@@ -647,30 +675,6 @@
       "duration_ms": 216162,
       "name": "Un Paarvai (From \"Kadhal Reset Repeat\")",
       "url": "https://open.spotify.com/track/28EaDij6IMhUBPl9zrhsLB"
-    },
-    {
-      "added_at": "2025-06-11 12:59:49",
-      "album": {
-        "name": "Pottala Muttaye (From \"Thalaivan Thalaivii\")",
-        "url": "https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 226255,
-      "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
-      "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
     },
     {
       "added_at": "2025-07-28 09:54:46",

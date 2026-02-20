@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Nadhif Basalamah
+> The best tracks from the world of music\. Cover: Naykilla
 
 483 songs - 1 day 3 hr 35 min
 

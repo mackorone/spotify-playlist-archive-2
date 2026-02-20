@@ -3971,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "jeans off.",
+        "url": "https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV"
+      },
+      "artists": [
+        {
+          "name": "Jancs",
+          "url": "https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121856,
+      "name": "jeans off.",
+      "url": "https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr"
+    },
+    {
+      "album": {
         "name": "Kadak",
         "url": "https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8"
       },

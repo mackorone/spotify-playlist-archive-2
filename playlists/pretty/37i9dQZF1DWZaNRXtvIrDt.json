@@ -1,12 +1,12 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130279,
+  "num_followers": 130273,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN",
+  "snapshot_id": "AAAAADwNZVhhFR2K42VxVxoZzhHApgkw",
   "tracks": [
     {
       "added_at": "2025-10-16 13:00:01",
@@ -23,6 +23,22 @@
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
+    },
+    {
+      "added_at": "2026-02-19 13:00:29",
+      "album": {
+        "name": "On The Ground",
+        "url": "https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 134244,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -127,6 +143,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Around",
         "url": "https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ"
       },
@@ -147,22 +179,6 @@
       "duration_ms": 418594,
       "name": "Around - Solomun Vox",
       "url": "https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -265,6 +281,26 @@
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
       "added_at": "2025-12-18 13:00:08",
       "album": {
         "name": "HARDSTYLE 2",
@@ -287,26 +323,6 @@
       "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -343,6 +359,26 @@
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+    },
+    {
+      "added_at": "2026-02-19 13:00:29",
+      "album": {
+        "name": "Original Nuttah 25",
+        "url": "https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5"
+      },
+      "artists": [
+        {
+          "name": "Uk Apache",
+          "url": "https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Original Nuttah 25",
+      "url": "https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -401,6 +437,26 @@
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
     },
     {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
       "added_at": "2025-12-18 13:00:08",
       "album": {
         "name": "All Night Long",
@@ -431,26 +487,6 @@
       "duration_ms": 182410,
       "name": "Feel The Friction",
       "url": "https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -741,6 +777,22 @@
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
+      "added_at": "2026-02-19 13:00:29",
+      "album": {
+        "name": "jazz liberation",
+        "url": "https://open.spotify.com/album/3ekHjEGoPGSQgmvZwZ2WIT"
+      },
+      "artists": [
+        {
+          "name": "FUTUREGiRL",
+          "url": "https://open.spotify.com/artist/7JXEEVwdyGNu1Qhc8x6egZ"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "jazz liberation",
+      "url": "https://open.spotify.com/track/5frKWEtszbt89Sz9qeJw32"
+    },
+    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Fuck My Computer",
@@ -791,6 +843,22 @@
       "duration_ms": 170909,
       "name": "Badder",
       "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "Home Is True",
+        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 252393,
+      "name": "Let Me Say This",
+      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -855,78 +923,6 @@
       "duration_ms": 152679,
       "name": "If U Like Me - Edit",
       "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
-      },
-      "artists": [
-        {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
-        },
-        {
-          "name": "D Taylor",
-          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
-        }
-      ],
-      "duration_ms": 413315,
-      "name": "The Shit Baby",
-      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
-    },
-    {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "Home Is True",
-        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Let Me Say This",
-      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Frankie Knuckles",
-        "url": "https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Frankie Knuckles",
-      "url": "https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7"
     }
   ],
   "unique_name": "Portal",

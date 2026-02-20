@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Leléka
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: MAX BARSKIH
 
-182 songs - 9 hr 8 min
+183 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-17 |  |
 | [Серед зими](https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Серед зими](https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8) | 3:35 | 2025-12-11 | 2026-02-10 |
 | [Силуети](https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Силуети](https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln) | 2:57 | 2024-06-27 | 2025-09-05 |
+| [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 | 2026-02-19 |  |
 | [Смак\-печаль](https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Смак\-печаль](https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k) | 2:28 | 2025-07-10 |  |
 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 | 2025-05-26 |  |
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-30 | 2025-03-14 |
@@ -179,7 +180,7 @@
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-06-27 | 2024-10-29 |
 | [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 | 2025-11-17 | 2026-01-06 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-12 | 2025-04-11 |
-| [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2026-01-08 |  |
+| [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2026-01-08 | 2026-02-20 |
 | [ШОВКОВИЦЯ](https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs), [DAMNITSKYI](https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl) | [ШОВКОВИЦЯ](https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2) | 3:05 | 2025-06-05 |  |
 | [я не прийду](https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [я не прийду](https://open.spotify.com/album/3Yb45auFxqKwbc4qzL3Fh3) | 3:15 | 2024-10-28 | 2024-11-05 |
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-06-27 | 2025-05-20 |

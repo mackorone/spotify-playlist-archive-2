@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: TWS\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: CORTIS\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-822 songs - 1 day 20 hr 38 min
+823 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 | 2025-01-14 |
 | [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-09 | 2025-07-30 |
 | [Memory Balloon](https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [Lee Jae Jin](https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P), [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Memory Balloon](https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz) | 3:24 | 2025-12-15 | 2026-01-06 |
+| [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 | 2026-02-20 |  |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 | 2022-07-27 | 2023-05-31 |
 | [MIROH](https://open.spotify.com/track/4WuKHgxdCJsaOBIh7yndty) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/79Bjt5oUy1183RJw1bJyF5) | 3:27 | 2022-01-14 | 2022-04-10 |
@@ -792,7 +793,7 @@
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-03 |
 | [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-22 | 2025-10-11 |
 | [Why](https://open.spotify.com/track/3oU6Hc7STlMBNR6Ty1m1G8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [GO LIVE](https://open.spotify.com/album/6N8KkgIpU1T3tenkJxHxk3) | 3:20 | 2022-03-22 | 2022-04-21 |
-| [WHY U MAD](https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ) | [SKINZ \(스킨즈\)](https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6) | [WHY U MAD](https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl) | 3:18 | 2026-02-05 |  |
+| [WHY U MAD](https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ) | [SKINZ \(스킨즈\)](https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6) | [WHY U MAD](https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl) | 3:18 | 2026-02-05 | 2026-02-20 |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-08 | 2022-07-28 |
 | [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 | 2023-06-30 |
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT\-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2022-03-22 | 2022-07-01 |

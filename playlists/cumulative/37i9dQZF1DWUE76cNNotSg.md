@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-644 songs - 1 day 15 hr 35 min
+645 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Together Forever](https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Together Forever](https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7) | 4:37 | 2024-01-12 | 2024-04-28 |
 | [Too Late](https://open.spotify.com/track/2WZtkWWGWjGMxQubujRiqZ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:12 | 2020-12-22 | 2022-07-29 |
 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 | 2020-12-22 | 2024-04-19 |
+| [Too Young To Know Better](https://open.spotify.com/track/6eCMQk74tZWSqE7ptPfApk) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Too Young To Know Better](https://open.spotify.com/album/4Qp2LgbXKN2iRV2FlxI2oB) | 2:46 | 2026-02-13 |  |
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-03 |  |
 | [Translight](https://open.spotify.com/track/4LeXaYxiCTANYSq9lteTF1) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Be Mine Tonight](https://open.spotify.com/album/1krjGe6g8PREor3oqeJTKh) | 3:57 | 2020-12-22 | 2022-04-21 |
 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 | 2020-12-22 | 2024-03-17 |
@@ -646,7 +647,7 @@
 | [You and Me](https://open.spotify.com/track/7ubkcbI0UvHUuKzeJbHNGY) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [You and Me](https://open.spotify.com/album/0VsXTiPidDBo0PGxhkPziI) | 3:54 | 2020-12-22 | 2022-04-19 |
 | [You Get Me So High](https://open.spotify.com/track/3EhnPwX1FR8qxWwiZT4Izp) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [You Get Me So High](https://open.spotify.com/album/3AI5uV0laCcMMUR67GtnWU) | 3:28 | 2026-01-09 | 2026-02-14 |
 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 | 2025-04-25 | 2025-05-31 |
-| [You Make Me Feel So Good](https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 3:37 | 2023-12-01 |  |
+| [You Make Me Feel So Good](https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 3:37 | 2023-12-01 | 2026-02-20 |
 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 | 2025-05-14 |  |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-12-22 | 2024-01-25 |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-03-07 | 2025-07-26 |

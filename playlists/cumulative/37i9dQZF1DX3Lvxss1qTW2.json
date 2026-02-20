@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Zaylevelten\n",
+  "description": "The future hits of today. Up Next: Mavo\n",
   "name": "NXT",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 136755,
       "name": "10 Kilo",
       "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6Rv9UuisveUCITNyuntHw3"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117777,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0mZQm5lqtstAg4xboNWPVq"
     },
     {
       "album": {
@@ -1033,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "album": {
         "name": "Avalay",
         "url": "https://open.spotify.com/album/6YdF793jc4usd4QUnfjThf"
       },
@@ -1088,7 +1128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 151522,
       "name": "AWAY",
       "url": "https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5"
@@ -1128,7 +1168,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155783,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
@@ -2768,7 +2808,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 113348,
       "name": "Crashout",
       "url": "https://open.spotify.com/track/3uerMRzubyhmewGvT0twg7"
@@ -2928,7 +2968,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 146400,
       "name": "Danger Zone",
       "url": "https://open.spotify.com/track/1XDoVOGcopL8SNEmIEdvCJ"
@@ -3654,6 +3694,28 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1Hn7YoUGCz02EzFjCOrNyf"
+      },
+      "artists": [
+        {
+          "name": "Rayona",
+          "url": "https://open.spotify.com/artist/2fY601KxxVSsTiDtBhFslt"
+        },
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151916,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4c3slIbfNXdkfqldDkyMtg"
     },
     {
       "album": {
@@ -4883,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "God is working",
+        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "God is working",
+      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+    },
+    {
+      "album": {
         "name": "GOLIATH",
         "url": "https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp"
       },
@@ -5382,7 +5462,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 182400,
       "name": "How I Want It",
       "url": "https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p"
@@ -7373,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "Mama Bear",
+        "url": "https://open.spotify.com/album/6dGxuzROGa15txjFgN6DDh"
+      },
+      "artists": [
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153460,
+      "name": "Mama Bear",
+      "url": "https://open.spotify.com/track/4E4ufQZZ3hV06rOdhJz8WX"
+    },
+    {
+      "album": {
         "name": "Man Not God",
         "url": "https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf"
       },
@@ -7548,7 +7646,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 208566,
       "name": "Mek\u0254n Ad\u0254",
       "url": "https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk"
@@ -8469,6 +8567,28 @@
     },
     {
       "album": {
+        "name": "Nzogbu",
+        "url": "https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1"
+      },
+      "artists": [
+        {
+          "name": "Zoro Swagbag",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Nzogbu",
+      "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
+    },
+    {
+      "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
@@ -8946,7 +9066,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170322,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5NGf0p8fXnzslsYXgLCDjY"
@@ -9778,6 +9898,28 @@
       "duration_ms": 168000,
       "name": "Ready",
       "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
+    },
+    {
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     },
     {
       "album": {
@@ -10932,6 +11074,32 @@
       "duration_ms": 211153,
       "name": "SPIRIT",
       "url": "https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P"
+    },
+    {
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/269TOxHBJVaApxaoaiiG2J"
+      },
+      "artists": [
+        {
+          "name": "FPR",
+          "url": "https://open.spotify.com/artist/1uuwzDTx0g15b8nKgJpyXn"
+        },
+        {
+          "name": "Drekiss",
+          "url": "https://open.spotify.com/artist/3wZkx11PnJLm93gaLfOy5V"
+        },
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153972,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4UEPWZ0NNJD3zSmSJeoaz1"
     },
     {
       "album": {
@@ -12336,7 +12504,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 220201,
       "name": "Wewe ni wangu",
       "url": "https://open.spotify.com/track/46s9rwtP41bvXAylPmOmgo"

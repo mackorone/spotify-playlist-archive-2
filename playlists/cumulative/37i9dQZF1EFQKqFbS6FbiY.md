@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-733 songs - 1 day 11 hr 43 min
+734 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2023-12-30 |  |
 | [Cargo de Amante](https://open.spotify.com/track/1h55CTPzCLTcGBkVUROXa9) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 2:37 | 2023-12-30 |  |
 | [Carona](https://open.spotify.com/track/1ee2WbHDPOq0SlZoeRE82b) | [Karol Carvalho](https://open.spotify.com/artist/10PuUQcehqOhBiCZzAuEbS) | [START, Vol\. 2](https://open.spotify.com/album/3IitoCKKf3wW3mkzlseG3H) | 3:21 | 2024-10-15 |  |
+| [Carona de Ex](https://open.spotify.com/track/4IkfJzS56GoQBdkQUPNPRJ) | [Dieguinho Estrela](https://open.spotify.com/artist/2w3H0sTWWGzmHtgeH87YrU), [Sabiá Records](https://open.spotify.com/artist/3u5wsRkCoJYs47GPk6AMir) | [Sua Estrela Favorita](https://open.spotify.com/album/5ddNO16mF8LKAs0VSStXOs) | 3:37 | 2026-02-19 |  |
 | [Carro Chefe \- Ao Vivo](https://open.spotify.com/track/3tG5PthLdj1gpw2DWqAoif) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe), [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:40 | 2025-01-09 | 2025-04-12 |
 | [Casa de Família](https://open.spotify.com/track/1ogWspH8JtisxtdNGnjs0G) | [Alex & Yvan](https://open.spotify.com/artist/4R831D36CaudkBI1YMTbKw) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/7kVvK9jPOeqdhVTp0UVHYd) | 2:23 | 2023-12-30 |  |
 | [Casal Saideira \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/0jIUmGGT3XvwWpJBq5U2LT) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Rolê Diferente 2.0 \(Ao Vivo Em Goiânia / 2019 / Vol\. 1\)](https://open.spotify.com/album/5Ht4vnpUfmGzDdZCAtsq4T) | 2:45 | 2023-12-30 |  |

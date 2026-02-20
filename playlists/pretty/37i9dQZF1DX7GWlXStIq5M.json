@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 364158,
+  "num_followers": 364133,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "Hist\u00f3ria para dois",
+        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 198926,
+      "name": "Hist\u00f3ria para dois",
+      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/30HJD6jvYxR7hJJqkbsLC3"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 164885,
       "name": "Sexta-feira",
       "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "Hist\u00f3ria para dois",
-        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 198926,
-      "name": "Hist\u00f3ria para dois",
-      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -411,6 +411,26 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 160016,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "Me Deixa Partir",
         "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 180666,
       "name": "2003",
       "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "Quase",
-        "url": "https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 160016,
-      "name": "Quase",
-      "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
-        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 183337,
-      "name": "sera que esse \u00e9 mesmo o nosso fim?",
-      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "viciado em mim",
         "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 194760,
       "name": "viciado em mim",
       "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
+        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "sera que esse \u00e9 mesmo o nosso fim?",
+      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "Caos e Poesia",
-        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
-      },
-      "artists": [
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        }
-      ],
-      "duration_ms": 145927,
-      "name": "Caos e Poesia",
-      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
@@ -1019,6 +999,46 @@
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "Caos e Poesia",
+        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
+      },
+      "artists": [
+        {
+          "name": "Isix",
+          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
+        },
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+        }
+      ],
+      "duration_ms": 145927,
+      "name": "Caos e Poesia",
+      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "O Motivo",
+        "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Tutti Beats",
+          "url": "https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH"
+        }
+      ],
+      "duration_ms": 184019,
+      "name": "O Motivo",
+      "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -1067,26 +1087,6 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "O Motivo",
-        "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Tutti Beats",
-          "url": "https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH"
-        }
-      ],
-      "duration_ms": 184019,
-      "name": "O Motivo",
-      "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
     },
     {
       "added_at": "2026-02-06 03:00:06",

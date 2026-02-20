@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 10 hr 16 min
+166 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Up Against Me](https://open.spotify.com/track/0FblCEqvjlYKCPkid3C0Z5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:02 | 2024-11-29 |  |
 | [Up Against Me](https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:02 | 2022-09-08 | 2023-12-14 |
 | [Up Against Me](https://open.spotify.com/track/4Ka3CvrwzHnCFf6Z4yXwdg) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:02 | 2023-12-13 | 2024-11-30 |
-| [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 | 2022-09-08 |  |
+| [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 | 2022-09-08 | 2026-02-20 |
+| [Waiting Outside The Lines \- Remix](https://open.spotify.com/track/1p7qu4Ntc7INp4RUyYIPd0) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX), [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Hold On ‘Til The Night \(Special Asia Edition\)](https://open.spotify.com/album/2H3CMQPfaiqLkSAEMkI3YP) | 3:52 | 2026-02-19 |  |
 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 | 2022-09-08 |  |
 | [Wasted Love \- Live](https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:11 | 2022-09-08 |  |
 | [When I'm Over You](https://open.spotify.com/track/1JueotTuCnkcTA7tBA5hLR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:26 | 2022-09-08 | 2023-12-14 |

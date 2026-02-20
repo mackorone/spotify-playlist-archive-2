@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-431 songs - 1 day 1 hr 24 min
+433 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 | 2024-02-27 |  |
 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 | 2024-02-27 |  |
 | [Eraser](https://open.spotify.com/track/3RCGz3c6nnYlMaw5INhWmh) | [The Knux](https://open.spotify.com/artist/52gwRVa1eX4gTCplPd2tlq) | [Eraser](https://open.spotify.com/album/5k8Ej3pUvCsEfcVWaSUsyu) | 3:53 | 2024-02-27 |  |
-| [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 | 2024-07-19 |  |
+| [Everything](https://open.spotify.com/track/2F4SgPHq9V6GAnZUzclVOm) | [Tune Robbers](https://open.spotify.com/artist/0rpos3tdyyc5uoxMM8Ptg9) | [Best Hits for Punchball](https://open.spotify.com/album/5sWV9f4gJ6ttHp0Hgy0PtD) | 4:08 | 2026-02-19 |  |
+| [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 | 2024-07-19 | 2026-02-20 |
 | [Everything \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/6cfwvFeHG6Tf8EZWMDCKxJ) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 4:04 | 2024-02-27 | 2024-09-16 |
 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 | 2024-02-27 |  |
 | [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 | 2025-01-09 | 2025-04-12 |
@@ -235,7 +236,8 @@
 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-11-13 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2024-02-27 |  |
 | [Million Reasons \- Andrelli Remix](https://open.spotify.com/track/0zf56ykB0pVddnwcQkWSlK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Million Reasons \(Andrelli Remix\)](https://open.spotify.com/album/5hm4Q0TO8mEbJCBLYMzhse) | 4:04 | 2025-01-09 | 2025-04-12 |
-| [Mine](https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0) | [Swordbelt's Band](https://open.spotify.com/artist/3iB2MxQhPEr7ShkGKH29bk) | [Top Hits\-Country](https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w) | 3:56 | 2024-02-27 |  |
+| [Mine](https://open.spotify.com/track/6dTUPa2ZRof39DUB0pDrBf) | [Homegrown Peaches](https://open.spotify.com/artist/0MgubPtKQlxp3TkaDGGlPg) | [All American Girls](https://open.spotify.com/album/2i6pJv5v5VAKNuNQoG3LNB) | 3:54 | 2026-02-19 |  |
+| [Mine](https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0) | [Swordbelt's Band](https://open.spotify.com/artist/3iB2MxQhPEr7ShkGKH29bk) | [Top Hits\-Country](https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w) | 3:56 | 2024-02-27 | 2026-02-20 |
 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 | 2024-06-02 |  |
 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 | 2024-02-27 |  |
 | [Need A Boat](https://open.spotify.com/track/0Lt04pLGDo0EnmguFgpv5C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:05 | 2025-06-26 |  |

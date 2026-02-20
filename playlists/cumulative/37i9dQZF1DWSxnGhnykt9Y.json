@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR"
+      },
+      "artists": [
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216561,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD"
       },
@@ -224,6 +242,24 @@
       "duration_ms": 238000,
       "name": "Away",
       "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/1c6Nat909aGblO1ZBVbpBl"
+      },
+      "artists": [
+        {
+          "name": "Diane Dddd",
+          "url": "https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/56XacO1KOlGLexctdPwnsV"
     },
     {
       "album": {
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 160130,
       "name": "FALL APART 2",
       "url": "https://open.spotify.com/track/2RFSaBBaN58ihDRhcNQhFg"
@@ -1803,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Kamakazi",
+        "url": "https://open.spotify.com/album/68JNx9kd6Ddih2FnZMohj1"
+      },
+      "artists": [
+        {
+          "name": "Lali X Lola",
+          "url": "https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115932,
+      "name": "Kamakazi",
+      "url": "https://open.spotify.com/track/6KWQVlGNYtwLWhTdAYdPrZ"
+    },
+    {
+      "album": {
         "name": "Kash and Karry",
         "url": "https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2"
       },
@@ -2125,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Mama Bear",
+        "url": "https://open.spotify.com/album/6dGxuzROGa15txjFgN6DDh"
+      },
+      "artists": [
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153460,
+      "name": "Mama Bear",
+      "url": "https://open.spotify.com/track/4E4ufQZZ3hV06rOdhJz8WX"
+    },
+    {
+      "album": {
         "name": "Manyana",
         "url": "https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5"
       },
@@ -2406,7 +2478,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155896,
       "name": "MOVE - JEJELY",
       "url": "https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz"
@@ -3986,7 +4058,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132923,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/5FEkkvBVBH50vtpxWQ1ctV"
@@ -4062,7 +4134,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167704,
       "name": "Woman King (T'as Capt\u00e9)",
       "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"

@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/3KoW0bbAAzZlHaSx2KLiPc"
+      },
+      "artists": [
+        {
+          "name": "JkashMurkum",
+          "url": "https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208793,
+      "name": "isolation",
+      "url": "https://open.spotify.com/track/3itNxvXBcwjGG2lpqaj753"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/4BNkb4V1QoAzMfjGcUuLy1"
       },

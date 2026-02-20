@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover: Wande Coal & Qing Madi
+> Intersection of R&B and afrobeats\. Cover:  RnBoi and Ayra Starr
 
-525 songs - 1 day 3 hr 32 min
+528 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [C'est toi](https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [C'est toi](https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ) | 2:51 | 2024-04-05 | 2025-03-29 |
 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 | 2022-03-11 | 2022-07-08 |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2023-01-12 | 2024-03-16 |
-| [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 |  |
+| [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 | 2026-02-20 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-06-03 |
 | [Charmeur à Gage Mission Ines](https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Charmeur à Gage Mission Ines](https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK) | 3:04 | 2026-01-23 | 2026-02-13 |
 | [Chinese](https://open.spotify.com/track/1UpkXyE8cMfXCq8eEY40BK) | [OchoForeign](https://open.spotify.com/artist/4rr4pqnoEJYZSLUSh4S699), [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Chinese](https://open.spotify.com/album/6g0V4asspKqOCxVOYl8NjT) | 3:20 | 2021-02-12 | 2022-10-14 |
@@ -195,6 +195,7 @@
 | [GOOD GIRL](https://open.spotify.com/track/6BE8bqvWBLL6Fcfrs69i37) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [BENEATH THE SURFACE](https://open.spotify.com/album/6YhxNnqUw2nbojF8o1aCge) | 3:57 | 2022-06-23 | 2022-07-08 |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-06-18 | 2023-02-04 |
 | [Good To Me](https://open.spotify.com/track/7GtGplZ15uM6rGsG03bKYH) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Good To Me](https://open.spotify.com/album/4KqN0twvL6oWgpd2p1tuYY) | 3:49 | 2023-07-20 | 2023-07-28 |
+| [Greedy](https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Greedy](https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1) | 2:45 | 2026-02-20 |  |
 | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF) | 2:45 | 2023-12-01 | 2024-12-07 |
 | [Grown Ass Girl.](https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g) | 2:59 | 2023-07-13 | 2023-07-21 |
 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2023-05-25 | 2023-07-20 |
@@ -320,9 +321,10 @@
 | [Miracle Worker \(feat\. Lojay\)](https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Lost and Found](https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax) | 3:05 | 2024-07-05 | 2025-07-18 |
 | [Misbehave](https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Misbehave](https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx) | 2:28 | 2025-08-14 | 2025-08-29 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 | 2024-12-07 |
+| [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 | 2026-02-20 |  |
 | [Money](https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Money](https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj) | 3:26 | 2025-02-19 | 2025-09-19 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-07-28 |
-| [MOVE \- JEJELY](https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [MOVE \(JEJELY\)](https://open.spotify.com/album/08dIQqGU3AI0CRBJ2D2rTd) | 2:35 | 2025-12-12 |  |
+| [MOVE \- JEJELY](https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [MOVE \(JEJELY\)](https://open.spotify.com/album/08dIQqGU3AI0CRBJ2D2rTd) | 2:35 | 2025-12-12 | 2026-02-20 |
 | [Muah \(Soulmates\)](https://open.spotify.com/track/6hrH0mb1qQsd4VRxssKa6p) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 | 2025-03-28 |  |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-03-29 |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
@@ -408,6 +410,7 @@
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-12-15 |
 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 | 2022-03-11 | 2023-02-04 |
 | [same bed](https://open.spotify.com/track/4hipQPwuLqq9RFxlpVAJET) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [keepsake](https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS) | 2:35 | 2026-01-23 |  |
+| [Sans toi](https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Sans toi](https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ) | 2:54 | 2026-02-20 |  |
 | [Sarafina](https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3YvcYmGDwqLY5wujoDDuzF) | 3:10 | 2024-03-15 | 2024-04-19 |
 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2024-07-19 |
 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 | 2021-12-16 | 2023-04-21 |
@@ -498,7 +501,7 @@
 | [WAHYA](https://open.spotify.com/track/4dfShGThl6iRK9BBAFBAfQ) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [WAHYA](https://open.spotify.com/album/3TiSm4Gj1ASJHMX9pHrk1l) | 3:48 | 2024-08-25 | 2025-09-19 |
 | [Wait!](https://open.spotify.com/track/7BQFFxWrQmrB89mVKBgSfo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Casa Mira Mar](https://open.spotify.com/album/1Z5GWD6FWevXrscgPDmwIO) | 2:17 | 2025-07-11 |  |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-03 | 2023-04-28 |
-| [Waiting For You](https://open.spotify.com/track/69FoPusRL3DhNJeTPhkZMO) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Waiting For You](https://open.spotify.com/album/2IDWvpkV3xi7a6ZWNmOQ4G) | 3:46 | 2026-02-13 |  |
+| [Waiting For You](https://open.spotify.com/track/69FoPusRL3DhNJeTPhkZMO) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Waiting For You](https://open.spotify.com/album/2IDWvpkV3xi7a6ZWNmOQ4G) | 3:46 | 2026-02-13 | 2026-02-20 |
 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-02 | 2025-11-14 |
 | [Walk Away](https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 3:01 | 2022-02-11 | 2022-04-22 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-08 | 2024-06-28 |

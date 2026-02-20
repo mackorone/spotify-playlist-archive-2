@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル『POP YOURS』の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,606 likes - 127 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,626 likes - 127 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 2 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/3yTaipGEWobd5ye5y67BwU) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Like a Flower](https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4) | 2:51 |
 | 3 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
 | 4 | [Shinpai Muyou](https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [Shinpai Muyou](https://open.spotify.com/album/7rhrrRBda7xj3rLEZ9jzcJ) | 2:45 |
-| 5 | [NEVEREST \(feat\. ANARCHY\) \- Remix](https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [NEVEREST \(feat\. ANARCHY\) \[Remix\]](https://open.spotify.com/album/0KlwMYsFzAOxGCQUiRHuYc) | 3:19 |
+| 5 | [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 |
 | 6 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/5xjwUB2jWEe3CcPBp6k1PV) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:00 |
 | 7 | [Mornin'26](https://open.spotify.com/track/2NBC57E8goEAwYAbWZ9Erf) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Mornin'26](https://open.spotify.com/album/4CML7iYgSX3VFnyWhsZDwj) | 3:33 |
 | 8 | [SHAMPOO](https://open.spotify.com/track/3ANBn4Yimw0vCqvGcIrNKN) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Iced Out](https://open.spotify.com/album/3ucvwyzUtxJDcTTeOr1gqu) | 3:24 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 126 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 127 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 
-Snapshot ID: `AAAAACY6RFIbvd/Nj4Sb7ZsnxVqJNXkl`
+Snapshot ID: `AAAAABlGX11UPqHPYZdH6+DXxCT2tPVC`

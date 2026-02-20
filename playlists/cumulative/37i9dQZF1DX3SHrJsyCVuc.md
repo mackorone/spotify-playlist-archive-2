@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: Buzz Kull
+> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Genesis Owusu
 
-122 songs - 6 hr 38 min
+126 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Double Clover](https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX) | [Eveline Breaker](https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG) | [Idle Viewer](https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC) | 4:35 | 2025-12-18 |  |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-23 | 2026-01-23 |
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-10-23 | 2026-02-13 |
+| [Easy Now](https://open.spotify.com/track/116Q6WPhxJhZZCkjlzXiaE) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [Easy Now](https://open.spotify.com/album/6EWtwbgoSPagWHzNc3lS5r) | 4:20 | 2026-02-19 |  |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-10-23 |  |
 | [Ecstatic Strife](https://open.spotify.com/track/01FYlCtSVcddMczKnmI5dW) | [R.M.F.C.](https://open.spotify.com/artist/7bpsiElrldRZYB3CbwFZlx) | [Ecstatic Strife](https://open.spotify.com/album/4x98bw8VXp4pNJoEwrquID) | 3:17 | 2025-10-23 |  |
 | [Elitest G.O.A.T.](https://open.spotify.com/track/2p9VQReMQ1yHLMEdH3KrWc) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elitest G.O.A.T.](https://open.spotify.com/album/2wgsMdq9nZr7YhHjrcjSKF) | 3:25 | 2026-01-15 |  |
@@ -64,6 +65,7 @@
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-05 |  |
 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
+| [Jets](https://open.spotify.com/track/7KHCTOQdd3fbhE4A4nLMMg) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Jets](https://open.spotify.com/album/4XT8suRAQcriBXpFu1Sepd) | 3:13 | 2026-02-19 |  |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-15 |  |
 | [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 | 2025-12-18 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 | 2026-01-15 |
@@ -90,6 +92,7 @@
 | [Pom Pom](https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pom Pom](https://open.spotify.com/album/4IzgMbugCWmPVnIp9T8aQX) | 2:08 | 2025-10-23 | 2025-11-07 |
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-10-23 |  |
 | [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-10-23 | 2026-01-15 |
+| [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 | 2026-02-19 |  |
 | [Rabbit Run \- From the "Caught Stealing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL) | 3:46 | 2025-10-23 | 2025-11-21 |
 | [Restless](https://open.spotify.com/track/4JfUcA4mR4qk7bYRuMkPQc) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Restless](https://open.spotify.com/album/2Mkm2RoXbtIMAmhNAVbDwi) | 4:53 | 2025-10-23 |  |
 | [Robbery](https://open.spotify.com/track/6kOkD5tpj0dM6dfi3ZzKtF) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Robbery](https://open.spotify.com/album/44jWNm50qfPHCVTJhZwWHN) | 2:01 | 2025-10-23 |  |
@@ -109,6 +112,7 @@
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 |  |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 |  |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 |  |
+| [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-02-19 |  |
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 |  |
 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 | 2025-12-04 |  |
 | [Step On It](https://open.spotify.com/track/0DW31s848ybq7FMG8szgCq) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [Step On It](https://open.spotify.com/album/7uOg6W8mC5lB7LSRaMdEHV) | 4:28 | 2026-02-12 |  |

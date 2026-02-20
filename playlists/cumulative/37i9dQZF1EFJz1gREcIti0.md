@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 7 hr 54 min
+152 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Heaven](https://open.spotify.com/track/2xwIfJ0ErCJlr2qPJsytcH) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [En Route](https://open.spotify.com/album/17SKLbRtJHhodYuJthn36O) | 3:01 | 2025-08-02 |  |
 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 | 2025-11-16 |  |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2025-08-02 |  |
-| [How Many](https://open.spotify.com/track/38PSvXgt7mDZSwFvLBVG2L) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [1176](https://open.spotify.com/album/44pAASGfmvetkQfzHCLRae) | 3:25 | 2025-08-02 |  |
+| [How Many](https://open.spotify.com/track/38PSvXgt7mDZSwFvLBVG2L) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [1176](https://open.spotify.com/album/44pAASGfmvetkQfzHCLRae) | 3:25 | 2025-08-02 | 2026-02-20 |
+| [How Many](https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [She Wanna \(feat\. P\-Lo\)](https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd) | 3:25 | 2026-02-19 |  |
 | [I BEEN UP!](https://open.spotify.com/track/6gEYbNc4yn0oulp0DvUCo5) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/72k7t7OuBY73bNVJGw8owe) | 2:03 | 2025-08-02 |  |
 | [I Could Imagine](https://open.spotify.com/track/6goWg0ZCPHgDThVR8thWNX) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:39 | 2025-08-02 |  |
 | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/track/4iltNAyRQxT3EN4gmmnjxy) | [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx), [Carter Mansuy](https://open.spotify.com/artist/3P7GeWJAhrXnL5fiHhEPUm) | [I'll Be There \(feat\. Carter Mansuy\)](https://open.spotify.com/album/3m1zw94rrjEmgrwNqs3L9j) | 2:45 | 2025-08-02 |  |

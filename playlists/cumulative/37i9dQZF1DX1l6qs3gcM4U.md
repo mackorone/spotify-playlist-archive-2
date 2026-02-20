@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros
+> Fall in love with the sensual sounds of Kizomba! Cover: Badoxa
 
-644 songs - 1 day 13 hr 1 min
+646 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Conheci o Amor](https://open.spotify.com/track/33My8GyioKzo0iy4ozDUN5) | [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Conheci o Amor](https://open.spotify.com/album/3b7FhBYepOsYUtwo2CHOQc) | 3:16 | 2025-05-29 | 2025-06-17 |
 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 | 2025-05-22 |  |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-20 | 2024-07-02 |
-| [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
+| [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 | 2026-02-20 |
 | [Controla](https://open.spotify.com/track/5HklSSXf2c6m3yT0RM2mc0) | [CESF](https://open.spotify.com/artist/2vuYAHr48feo9PXfmvpNsW), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Controla](https://open.spotify.com/album/0zlQ4trEx94PCK5gDTwnkZ) | 2:40 | 2025-04-17 | 2025-05-23 |
 | [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 | 2024-04-12 |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
@@ -257,7 +257,7 @@
 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 | 2024-03-08 | 2025-12-23 |
 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 | 2021-12-10 | 2025-02-28 |
 | [Jamais](https://open.spotify.com/track/4ZvWMjmldmt1XVmRYHtWlx) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ), [Pegguy Tabu](https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y) | [Vida](https://open.spotify.com/album/3qkt4e3sxMHwJA5pDVqsz9) | 2:54 | 2022-01-14 | 2022-03-05 |
-| [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-31 |  |
+| [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-31 | 2026-02-20 |
 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 | 2021-12-10 | 2025-03-28 |
 | [Juliana](https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Elements](https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm) | 2:42 | 2024-05-16 | 2024-12-06 |
 | [Jungle Fever](https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Jungle Fever](https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh) | 3:15 | 2025-02-14 |  |
@@ -286,6 +286,7 @@
 | [Lambuxa na Bo](https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Lambuxa na Bo](https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k) | 3:03 | 2022-09-22 | 2022-12-02 |
 | [Largam](https://open.spotify.com/track/6nWb98Zi1cfP70C5wdNEIk) | [Mister Nino](https://open.spotify.com/artist/5PJgbCjdHH32IKslVSIeJW) | [Largam](https://open.spotify.com/album/6QiEyG8ZZ6U6qSfgsOBEcE) | 4:15 | 2021-12-10 | 2022-07-17 |
 | [Lavender Tulips](https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Lavender Tulips](https://open.spotify.com/album/74UuzmDeji6pyS3e0ifZ70) | 4:21 | 2022-01-21 | 2022-02-19 |
+| [Lebam](https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Lebam](https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC) | 3:28 | 2026-02-20 |  |
 | [Lei 14](https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu) | [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Lei 14](https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO) | 3:15 | 2025-04-10 |  |
 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 | 2025-05-08 |  |
 | [Leva\-me](https://open.spotify.com/track/4Wgx8lyWBUUNLDcsDTcvoM) | [Daddy Killa](https://open.spotify.com/artist/21xKuobocMBa0omJ77PVuu) | [Kizomba All Stars : Les meilleurs tubes et nouveautés de Kizomba](https://open.spotify.com/album/7qdWGJCi2yp8DumQKakwS8) | 3:44 | 2022-03-25 | 2022-04-16 |
@@ -417,6 +418,7 @@
 | [Only One](https://open.spotify.com/track/47VfEFD5N2nJNasEwnNaGk) | [Dynamo](https://open.spotify.com/artist/6WcIS4bP0CR0yZyuIaq387) | [Only One](https://open.spotify.com/album/3jQGpLyTwrw96I0lWeawGA) | 3:50 | 2022-03-25 | 2022-07-23 |
 | [Onça](https://open.spotify.com/track/4m1dcL5CQJKgXmiEJZho4o) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Johnny Ramos](https://open.spotify.com/artist/24KbJf8MZdpYJdttrbRcBO) | [ONÇA](https://open.spotify.com/album/28Jc0FYJEynwpAhhAa2bv3) | 2:46 | 2025-07-31 | 2025-09-12 |
 | [OQA?](https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [OQA?](https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT) | 3:15 | 2025-03-28 |  |
+| [Otu Padaz](https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Otu Padaz](https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw) | 3:25 | 2026-02-20 |  |
 | [Outro Amor](https://open.spotify.com/track/4OYtHdw2kUdIObSTgmU2Gf) | [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Outro Amor](https://open.spotify.com/album/1MTgKIsRBNbEg3uVHzb19S) | 3:31 | 2025-01-10 | 2025-01-25 |
 | [Over Again](https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Over Again](https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS) | 3:27 | 2024-02-09 | 2024-03-08 |
 | [Pa Bo](https://open.spotify.com/track/4kG9TzsANyoGlBBBZOF3ly) | [Dji Matias](https://open.spotify.com/artist/5mOlzlTezQGdusDUogjXnP), [Friderika](https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS) | [Pa Bo](https://open.spotify.com/album/4QymS0mQNSsiVyV9Ntyw3F) | 3:17 | 2022-07-22 | 2022-07-28 |

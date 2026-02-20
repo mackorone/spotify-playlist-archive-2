@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Rambo goyard au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Niska x Genezio au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201923,
       "name": "+971",
       "url": "https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 181613,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/2ndT6P2TitN7Hf6ALtgNAg"
@@ -2130,6 +2130,28 @@
       "duration_ms": 183013,
       "name": "Demain",
       "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
+    },
+    {
+      "album": {
+        "name": "Jeune prince (Part. II)",
+        "url": "https://open.spotify.com/album/1zqtM2XR3DssG9U96oWckW"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "Derecha (feat. Timar)",
+      "url": "https://open.spotify.com/track/4apq2Q1AsRUk8DrwCVCmu1"
     },
     {
       "album": {
@@ -3504,6 +3526,24 @@
       "duration_ms": 183106,
       "name": "J'fais plaisir \u00e0 la zone",
       "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
+    },
+    {
+      "album": {
+        "name": "TOUT DROIT",
+        "url": "https://open.spotify.com/album/1dQqqh5dopbGCLSzHt5dYl"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "JACK HONEY",
+      "url": "https://open.spotify.com/track/7xr5N76go3yqgihOkHfCjz"
     },
     {
       "album": {
@@ -5328,7 +5368,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 215013,
       "name": "MTL",
       "url": "https://open.spotify.com/track/6syLLUervdBK7CsAY2FjlI"
@@ -5354,6 +5394,40 @@
       "duration_ms": 185813,
       "name": "Mucho Cuir",
       "url": "https://open.spotify.com/track/5Iol6n8dmMjguHDCc8WUh2"
+    },
+    {
+      "album": {
+        "name": "MURDER #3",
+        "url": "https://open.spotify.com/album/6PxxGDqR7IkD1Lx78xTQaI"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        },
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        },
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        },
+        {
+          "name": "Fresh laDouille",
+          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219061,
+      "name": "MURDER #3",
+      "url": "https://open.spotify.com/track/5oFe4708K3AuxVbIueAwBx"
     },
     {
       "album": {

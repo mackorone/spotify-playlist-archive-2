@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,185 songs - 2 day 17 hr 2 min
+1,188 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Neptune Nights](https://open.spotify.com/track/3eVRO8C1eT0oDzF9XoUvpb) | [Eternal Sky Library](https://open.spotify.com/artist/4oJAikKzEFNtnPRKdZGtAv) | [Neptune Nights](https://open.spotify.com/album/1lbuWKnjmufgEEVQouOAx9) | 4:49 | 2026-01-06 | 2026-02-07 |
 | [Never Alone](https://open.spotify.com/track/2d3i9u2B7NrkIptXoc2fjT) | [Catey Sue Simmons](https://open.spotify.com/artist/0ywHrFjKCvmtuN3DYCnDUv) | [Never Alone](https://open.spotify.com/album/4lzSz0QGgQgpCBVvM8YVCK) | 3:10 | 2026-01-12 | 2026-02-13 |
 | [Never Enough](https://open.spotify.com/track/3UyuGohVfdAjheyHCyFzSO) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Never Enough](https://open.spotify.com/album/0UmDMlibbaNYImoh6pVFcc) | 3:12 | 2025-11-01 | 2025-12-03 |
+| [Never Forget](https://open.spotify.com/track/3zrOaNs5HfMpzku4L8d6FU) | [Miqz](https://open.spotify.com/artist/5lzbGAlq4udHZNpNg36zgb) | [Never Forget](https://open.spotify.com/album/0cgHz4PuGnniHDHOyG5Xxy) | 4:05 | 2026-02-19 |  |
 | [Never Is the Scariest Word](https://open.spotify.com/track/26Nwpmx9vEPuuTZrNauzaF) | [DJ Ames](https://open.spotify.com/artist/3G8xVeQjjIQgl0pECOI3ce) | [When The Credits Roll](https://open.spotify.com/album/3JI4IbgtEvRGRo7q5Q54iu) | 3:04 | 2025-12-15 | 2026-01-17 |
 | [New Horizon](https://open.spotify.com/track/0iDmGKJ9Mwzn4H7BDBmxqi) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [New Horizon](https://open.spotify.com/album/5Rog51AJLE1rtcnXQP2DSP) | 3:14 | 2025-10-30 | 2025-12-01 |
 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 | 2026-01-05 | 2026-02-06 |
@@ -838,6 +839,7 @@
 | [RE\-32](https://open.spotify.com/track/3XosVKvImINmqMa82dbX2p) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Underwater](https://open.spotify.com/album/7dDRFeBjGPxeS6shq1THBd) | 1:50 | 2025-12-15 | 2026-01-17 |
 | [Real Enough](https://open.spotify.com/track/0B1qb2UMgASlHt3pPFEp0d) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Real Enough](https://open.spotify.com/album/555498Yzyq2v7JeZL7cWHT) | 2:52 | 2025-12-23 | 2026-01-24 |
 | [Real Thing](https://open.spotify.com/track/4L5kierBAWBPIeYC6kU0dP) | [ThePieces](https://open.spotify.com/artist/0BN1T49jfRbf4eMqJtS5R1) | [Real Thing](https://open.spotify.com/album/1tRXOYfiW78uWDIxOAJN7R) | 3:18 | 2025-11-25 | 2025-12-28 |
+| [Rearview](https://open.spotify.com/track/2RT6km3ba7YbYjgUzNV8st) | [Morgan Earwood](https://open.spotify.com/artist/7KnklNvvomAy4FB938Sl06) | [Static Bloom](https://open.spotify.com/album/3U4gQYQRTk9nLRHM7tNbHv) | 2:12 | 2026-02-19 |  |
 | [Rebel](https://open.spotify.com/track/0GJtHNjmOVGuItcL5yAq9B) | [Seraphic Eyes](https://open.spotify.com/artist/2tkVgX5cRQgaycTULkv27V) | [Rebel](https://open.spotify.com/album/6XBCiCNe0fNfvj6pNs6I5V) | 4:28 | 2025-11-14 | 2025-12-15 |
 | [Red Lips White Lies](https://open.spotify.com/track/2tTqHpZdsA8r0gxqQQ5FSk) | [Jessica Towler](https://open.spotify.com/artist/7bIs5nJlnwL3Gwuyva6rkq) | [Red Lips White Lies](https://open.spotify.com/album/0Ormvh4vihMLuoJyAHXaVf) | 3:00 | 2026-01-16 | 2026-02-17 |
 | [Red Queen](https://open.spotify.com/track/190eVSyyqxjSEUDdHvEvNW) | [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6) | [Wonderland](https://open.spotify.com/album/3nw4woJFNdPHEBGv0WHxGM) | 1:59 | 2025-12-20 | 2026-01-21 |
@@ -1046,6 +1048,7 @@
 | [This Is the Christ](https://open.spotify.com/track/7ojPhNBdb2hqxy3NfxuhME) | [Think Cello\-stial](https://open.spotify.com/artist/59uJbt0vEgCtPskbyutjy4) | [This Is the Christ](https://open.spotify.com/album/4zHEvyLy2yc316ghWqHO5s) | 2:25 | 2025-11-19 | 2025-12-20 |
 | [This Light Is Mine](https://open.spotify.com/track/6iAjs5h9vamPjEGjolWE8s) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [This Light Is Mine](https://open.spotify.com/album/3tNs7LpvyiPIemmAA0S0Xm) | 3:24 | 2026-02-04 |  |
 | [Thought](https://open.spotify.com/track/0f0ZrkUkTHuacGAfINhShF) | [Childish X](https://open.spotify.com/artist/6s8bC9wfenuVk1QjX1Edz7) | [Thought](https://open.spotify.com/album/0VddMn6aynC0g9LBlyyj8c) | 2:10 | 2025-12-17 | 2026-01-18 |
+| [Thursday](https://open.spotify.com/track/4dcJzSL3inrWDsXU2QXWXe) | [mkDUBBY](https://open.spotify.com/artist/4kWnfpTnVzZt3wyAqDEvDt) | [Daylight Sessions](https://open.spotify.com/album/5D4DquhEuNaiU0GVOWtIXW) | 6:39 | 2026-02-19 |  |
 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 | 2026-02-14 |  |
 | [Tiktok Rythm](https://open.spotify.com/track/4BAA6UtOFadQqXuo2O8KkI) | [GHANAPAQ](https://open.spotify.com/artist/26O4R4Y3SD2KQ6KUqwGeIB) | [Tiktok Rythm](https://open.spotify.com/album/4RIbdbjRuWTyS0JIsytvLD) | 4:28 | 2025-10-28 | 2025-11-30 |
 | [Time](https://open.spotify.com/track/7tJud3vh5jPvumj2THvdMk) | [Locuorio](https://open.spotify.com/artist/4UaRYsvuPqjOLvjza9fpPP) | [Time](https://open.spotify.com/album/0ERm3k6ZIzrgy9dvGph0U1) | 3:05 | 2026-02-11 |  |

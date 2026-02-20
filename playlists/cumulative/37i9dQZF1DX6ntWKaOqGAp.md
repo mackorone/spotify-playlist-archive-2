@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Maki
 
-2,981 songs - 7 day 18 hr 2 min
+2,982 songs - 7 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,7 @@
 | [Letter to Myself](https://open.spotify.com/track/1hmKmlMoMctWxj8g8gja9O) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Goodbye2.0](https://open.spotify.com/album/4iXfOwdVBcRG2Qw0F4KpPi) | 3:48 | 2025-02-11 | 2025-03-05 |
 | [Level up](https://open.spotify.com/track/76hK1up4IZX5jru3LMArLz) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Level up](https://open.spotify.com/album/6fEJgo9dzJ4rZOy0FIziq8) | 2:48 | 2025-08-12 | 2025-11-26 |
 | [Leyline](https://open.spotify.com/track/28fFumhaGHoQFKXhznE2w6) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Lab.](https://open.spotify.com/album/12fqQow5Nd46RVlITg0cFx) | 4:49 | 2024-11-05 | 2024-11-13 |
-| [Liar](https://open.spotify.com/track/4HhAQANF6t7Zn3kTWzwyc1) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Liar](https://open.spotify.com/album/3Vdfc1NzQa5kesS30wwWCO) | 3:54 | 2026-02-12 |  |
+| [Liar](https://open.spotify.com/track/4HhAQANF6t7Zn3kTWzwyc1) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Liar](https://open.spotify.com/album/3Vdfc1NzQa5kesS30wwWCO) | 3:54 | 2026-02-12 | 2026-02-20 |
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-15 | 2023-09-20 |
 | [Life is beautiful](https://open.spotify.com/track/5AIuBzRQ7z9w529mc0S1cc) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Life is beautiful](https://open.spotify.com/album/3N5cRFtiPrK88jqVfPcGAt) | 3:24 | 2026-02-03 |  |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-01-17 | 2023-02-15 |
@@ -1251,6 +1251,7 @@
 | [Soundproof Handle](https://open.spotify.com/track/0Hlv2qhpcpDC5bI8FXKel5) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Soundproof Handle](https://open.spotify.com/album/15pXZRlX6QwkRajyRmuHs4) | 4:10 | 2025-11-11 | 2025-12-03 |
 | [sour](https://open.spotify.com/track/75hQ6LBRV06p6DL6pnov9L) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Nemuru \- bridges](https://open.spotify.com/album/1oag16120KwYCJgbKhGk52) | 5:02 | 2025-12-23 | 2026-01-15 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 | 2023-01-20 |
+| [Space Out](https://open.spotify.com/track/07jyjtkxaKnI3rjDcAOywq) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [Space Out](https://open.spotify.com/album/6JB6VVm6WaNb0ZsVfqEy5M) | 3:30 | 2026-02-19 |  |
 | [SPACE OUT !](https://open.spotify.com/track/6SpxOKDdbkMVKJvAwfMhv2) | [I was born](https://open.spotify.com/artist/06mhRcKAyG22X6wKdMhUhv) | [SPACE OUT !](https://open.spotify.com/album/1wRgukIX4WZOhNb8CS8nh6) | 3:21 | 2023-01-13 | 2023-01-18 |
 | [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 | 2023-06-06 | 2023-07-05 |
 | [Sparkle Dancer](https://open.spotify.com/track/0uBrG0rTvuqcvl2jGFFgHh) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Sparkle Dancer](https://open.spotify.com/album/1ClZWnf2R7u3SRkRONNaZH) | 3:28 | 2023-01-24 | 2023-02-25 |

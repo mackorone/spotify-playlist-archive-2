@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 6 min
+118 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Mamacita \(feat\. Rico Nasty\)](https://open.spotify.com/track/57pTGa2YCwFT9pBIsIVO3z) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2FoY0AdBnIYxOH7Z2arD89) | 3:22 | 2025-06-01 |  |
 | [MATERIAL GWORRLLLLLLLL!](https://open.spotify.com/track/7m6UQEF3R2wlYTC1rcR6JJ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [MATERIAL GWORRLLLLLLLL!](https://open.spotify.com/album/5ZNsICoQ9yvOS1CbsFGJ2j) | 2:42 | 2025-06-01 |  |
 | [Miami](https://open.spotify.com/track/2uRlLRhuqa7OQJFuwQ8mR4) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:31 | 2025-06-01 |  |
+| [More Than A Lover](https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [More Than A Lover](https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f) | 4:05 | 2026-02-19 |  |
 | [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 | 2025-06-01 |  |
 | [Nasty \(Interlude\)](https://open.spotify.com/track/27DFNVHVPunYM8vOFuV92X) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 1:40 | 2025-06-01 |  |
 | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/2DKngADmYRacJPTxEgysqR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/1qL3Oe50xzWCWvBAjxibZu) | 2:13 | 2025-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 48 songs - 3 hr 2 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 46 | [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 |
 | 47 | [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 |
 | 48 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 |
+| 49 | [That's What We Believe](https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [Live for Today](https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu) | 4:11 |
+| 50 | [Ocean](https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg) | [S\. Lithgow](https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE) | [Ocean](https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc) | 4:43 |
 
-Snapshot ID: `AAAj5pdkGfBYzIQD9Osx1YNQRm75mo9q`
+Snapshot ID: `AAAj6LaRjn9HixWGZ575Cw/TroKCGJkO`

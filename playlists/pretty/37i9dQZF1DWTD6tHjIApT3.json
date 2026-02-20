@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b satomoka",
-  "num_followers": 135024,
+  "num_followers": 135059,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
+      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
         "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-        "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
+        "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
+        "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 277800,
-      "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
-      "url": "https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS"
+      "duration_ms": 259771,
+      "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
+      "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -835,22 +851,6 @@
       "duration_ms": 176906,
       "name": "DEAD CENTER",
       "url": "https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
-        "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
-        "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 259771,
-      "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
-      "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 223641,
       "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 198424,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "\u306e\u3073\u3084\u304b\u306b\u5730\u7344\u3078",
         "url": "https://open.spotify.com/album/24qz6xkiYEDmZnHfI97Lrm"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 284762,
       "name": "\u306e\u3073\u3084\u304b\u306b\u5730\u7344\u3078",
       "url": "https://open.spotify.com/track/2aXfowhhMWvKQ0tAhuvvWY"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 198424,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "\u85cd\u611b",
         "url": "https://open.spotify.com/album/6zcov0VyTyk6KbtbfuOKqM"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 232000,
       "name": "\u85cd\u611b",
       "url": "https://open.spotify.com/track/5OZacGkPZnRaYwpUJFmuxg"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 365440,
+      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u56db\u9762\u695a\u6b4c",
-        "url": "https://open.spotify.com/album/2rX0erWZKJR0ieN7WdWKFU"
-      },
-      "artists": [
-        {
-          "name": "Nanatsukaze",
-          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
-        }
-      ],
-      "duration_ms": 223521,
-      "name": "\u56db\u9762\u695a\u6b4c",
-      "url": "https://open.spotify.com/track/3EQ8DzEgUx2zylrlCQf3Pg"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "utas",
         "url": "https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 252634,
       "name": "\u5e7d\u970a\u306b\u306a\u3063\u3066\u3082\u7f8e\u3057\u3044",
       "url": "https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "\u56db\u9762\u695a\u6b4c",
+        "url": "https://open.spotify.com/album/2rX0erWZKJR0ieN7WdWKFU"
+      },
+      "artists": [
+        {
+          "name": "Nanatsukaze",
+          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
+        }
+      ],
+      "duration_ms": 223521,
+      "name": "\u56db\u9762\u695a\u6b4c",
+      "url": "https://open.spotify.com/track/3EQ8DzEgUx2zylrlCQf3Pg"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "24-5",
+        "url": "https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF"
+      },
+      "artists": [
+        {
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "24-5",
+      "url": "https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "STAGE -THE MUSICAL IN MY HEAD-",
         "url": "https://open.spotify.com/album/5IBfFKDYVDaGcjr6aReWEP"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 149760,
       "name": "MINE",
       "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
-        "name": "24-5",
-        "url": "https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF"
-      },
-      "artists": [
-        {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
-        }
-      ],
-      "duration_ms": 191378,
-      "name": "24-5",
-      "url": "https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt"
     },
     {
       "added_at": "2026-02-17 15:46:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Deborah Hanna",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Difki Khalif",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -4302,6 +4302,28 @@
       "duration_ms": 284988,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "album": {
+        "name": "Seandainya",
+        "url": "https://open.spotify.com/album/3IzohqNYx05Fy7iDEkOG1q"
+      },
+      "artists": [
+        {
+          "name": "Difki Khalif",
+          "url": "https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV"
+        },
+        {
+          "name": "Prinsa Mandagie",
+          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244534,
+      "name": "Seandainya",
+      "url": "https://open.spotify.com/track/6UDgmrLSS7f4f3PJDGFnMG"
     },
     {
       "album": {

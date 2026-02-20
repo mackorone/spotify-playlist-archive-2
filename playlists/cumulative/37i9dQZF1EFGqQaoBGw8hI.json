@@ -1565,6 +1565,36 @@
     },
     {
       "album": {
+        "name": "Born to Boogie",
+        "url": "https://open.spotify.com/album/0J0m3RtiwzNx6xFhEoJwfF"
+      },
+      "artists": [
+        {
+          "name": "Marc Bolan",
+          "url": "https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN"
+        },
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124160,
+      "name": "Born to Boogie",
+      "url": "https://open.spotify.com/track/0uDzdcf9Uz04lPxcomcrfM"
+    },
+    {
+      "album": {
         "name": "Tanx",
         "url": "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG"
       },
@@ -1576,7 +1606,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 124120,
       "name": "Born To Boogie",
       "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
@@ -8775,6 +8805,24 @@
     },
     {
       "album": {
+        "name": "Victoria Day Celebration",
+        "url": "https://open.spotify.com/album/658rnoe0MqsOqkueWbWvsf"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154360,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/57U9E7zXKc2UIiXPUeSCYN"
+    },
+    {
+      "album": {
         "name": "Classical for the New Age",
         "url": "https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf"
       },
@@ -8786,7 +8834,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 154360,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD"

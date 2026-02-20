@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKqH63agVAXamHR91aQiBD/UP7m+zh",
+  "snapshot_id": "AAAKqWsWI90BTqKcxl9RpbVjmMvV7QBD",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -84936,7 +84936,7 @@
           "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 258826,
+      "duration_ms": 258483,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
@@ -145791,6 +145791,22 @@
       "duration_ms": 203853,
       "name": "\u30a2\u30f3\u30d3\u30ea\u30ab\u30eb",
       "url": "https://open.spotify.com/track/0ZjPiCpMBPzb2G3FUi9N0G"
+    },
+    {
+      "added_at": "2026-02-19 20:08:19",
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv"
+      },
+      "artists": [
+        {
+          "name": "Coyote Theory",
+          "url": "https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn"
+        }
+      ],
+      "duration_ms": 242010,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT"
     }
   ],
   "unique_name": "Purge",

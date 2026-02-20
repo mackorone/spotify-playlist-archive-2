@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 32 | [Erase](https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML) | 3:59 |
 | 33 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
 | 34 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
-| 35 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/7zchcn4SERfMjsjOmWhdqh), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
+| 35 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/5oSJP58Y84CLGZgJor08Jl), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
 | 36 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
 | 37 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 |
 | 38 | [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:41 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 124 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcKCFAAAAADJswj+D+qwO3/3Cx2KlaKb`
+Snapshot ID: `AcKHtAAAAAAEVgVkTazw3pwrKRT+pmJw`

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-872 songs - 2 day 13 hr 48 min
+873 songs - 2 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Agua Viva](https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Hafa](https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI) | 4:09 | 2022-04-12 |  |
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-04-21 |
 | [Aguancó](https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Aguancó](https://open.spotify.com/album/6WhkRbDmTpfNYdAv8lkMpw) | 2:30 | 2021-10-06 | 2022-07-18 |
+| [Ah, folie](https://open.spotify.com/track/24JM4ud3syVE9zLYwC0m9s) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [](https://open.spotify.com/album/null) | 3:33 | 2026-02-20 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7EpsZtS2HGGgEqPLfhxY9J) | [The Soul Fantastics](https://open.spotify.com/artist/15V6aFPE8vKkOLLu7wMvSY) | [Panama! 2: Latin Sounds, Cumbia, Tropical & Calypso Funk on the Isthmus 1967\-77](https://open.spotify.com/album/7CZ9cGjSjWHyCYaeh2ZmcA) | 3:13 | 2022-03-09 | 2022-06-10 |
 | [Ain't No Sunshine \- Cover](https://open.spotify.com/track/5s4jbY8pUhdkLc4ATqmtTi) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/47AtkpIDQ0OFIRQPTEW7N6) | 5:22 | 2021-10-06 | 2022-05-12 |
 | [Ajala \- Single Edit](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 | 2024-05-02 | 2025-03-06 |
@@ -590,7 +591,7 @@
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2021-10-06 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2021-10-06 | 2023-04-29 |
 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2021-10-06 | 2024-02-10 |
-| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 |  |
+| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 | 2026-02-20 |
 | [OOO](https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OOO](https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd) | 3:03 | 2022-01-12 | 2024-07-05 |
 | [Open the Gates](https://open.spotify.com/track/31RxSGS6KMoMfVIOISvVFy) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/7tTmhBfHBSUJWHIygHlX31) | 2:39 | 2022-02-12 | 2022-06-12 |
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-06-27 | 2026-01-21 |

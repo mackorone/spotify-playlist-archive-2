@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 557 likes - 2,332 songs - 5 day 16 hr 17 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 558 likes - 2,334 songs - 5 day 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2340,5 +2340,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2330 | [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 |
 | 2331 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 |
 | 2332 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 |
+| 2333 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
+| 2334 | [See You](https://open.spotify.com/track/0XvMeYc3tJX1bt6Nkt9uek) | [Harry Erikson](https://open.spotify.com/artist/61SNxBw2nVfWmUuiLDGvTP) | [The Breaker and The Bride](https://open.spotify.com/album/05y5v6Ei1lxTcHhuMl7URa) | 3:08 |
 
-Snapshot ID: `AAAJs2yI2UsqrzEW+a41w2nYUsf5s1k6`
+Snapshot ID: `AAAJtfGMRx8YEvM1AzE1GUqXD5HN10hi`

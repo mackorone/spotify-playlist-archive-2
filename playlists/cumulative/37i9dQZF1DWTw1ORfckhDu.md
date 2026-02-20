@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,117 songs - 2 day 5 hr 4 min
+1,119 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,8 @@
 | [Lähetään menee](https://open.spotify.com/track/0TsvuYK3jVFHwZC5GYbmY6) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Lähetään menee](https://open.spotify.com/album/4FW8o20MyT22NDY9t7oaDc) | 3:09 | 2024-04-18 | 2024-07-05 |
 | [Lähtee heti](https://open.spotify.com/track/0HZbsvAk8etKqRpk4L7quV) | [TheoFuego](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Lähtee heti](https://open.spotify.com/album/0sXroAEaSoA5JR5s8RKnm6) | 2:58 | 2024-06-20 | 2024-08-02 |
 | [Lähteny pienest](https://open.spotify.com/track/5MJBhCtHTGxrlP4TkF4XS2) | [ADIVA](https://open.spotify.com/artist/31SWuzmzKlZLttVf4IMACW), [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I) | [Lähteny pienest](https://open.spotify.com/album/5udX0HDxXMhlkrwsAnUvcI) | 2:45 | 2023-09-21 | 2023-09-29 |
-| [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 | 2025-10-09 |  |
+| [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 | 2026-02-19 |  |
+| [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 | 2025-10-09 | 2026-02-20 |
 | [LÖYDÄ MUT](https://open.spotify.com/track/4r4MaKnClxoiiG93CbHu5l) | [glögmann](https://open.spotify.com/artist/5Nx1bhFv0kEU71ALXikPq0) | [LÖYDÄ MUT / SILMÄT KII](https://open.spotify.com/album/3N6s1CxP3Pyysj3DHZkiUJ) | 2:36 | 2024-01-11 | 2024-01-26 |
 | [Maa ilman vettä](https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Maa ilman vettä](https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1) | 2:19 | 2024-12-12 | 2025-04-11 |
 | [Maalainen](https://open.spotify.com/track/1vVDwcw3Qo9lL3RpIBrwqS) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Maalainen](https://open.spotify.com/album/7GemBwf8DwYWne3AbV6RjJ) | 2:58 | 2023-11-23 | 2024-02-23 |
@@ -548,6 +549,7 @@
 | [Mama sano](https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mama sano](https://open.spotify.com/album/3zfAYcqEcUxolb0CDRgvx0) | 2:14 | 2023-09-21 | 2023-11-03 |
 | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM) | 2:54 | 2024-06-06 | 2024-10-04 |
 | [MANIA](https://open.spotify.com/track/42wdgAhyKTfaEusVBAbjH3) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [MANIA](https://open.spotify.com/album/6lBh55sdgXTSX1VyW9Fykp) | 2:39 | 2024-01-11 | 2024-03-08 |
+| [Mannerheim](https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [](https://open.spotify.com/album/null) | 2:48 | 2026-02-19 |  |
 | [Manta](https://open.spotify.com/track/1RZmp2mZGdUtRsfwEboBcC) | [SONNY](https://open.spotify.com/artist/6Uo8DWitVulLdaWaZ3gwun), [Askel & Elere](https://open.spotify.com/artist/3ViPTsIhVM8tENOjWo4Xfo), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht), [Trisector](https://open.spotify.com/artist/15YoJiDzYhoHSxz6sCGCr3) | [Kent](https://open.spotify.com/album/25XKmBdsgYTuFOd3B3Bapj) | 3:46 | 2024-02-08 | 2024-02-23 |
 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 | 2025-03-07 |
 | [Marraskuu](https://open.spotify.com/track/6LmE87Pw29ZoHM4wge8YTf) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Marraskuu](https://open.spotify.com/album/16ny8eOJfXDt8FD4aYjdBx) | 3:11 | 2023-10-19 | 2023-10-27 |
@@ -759,7 +761,7 @@
 | [Pitää vaan uskaltaa](https://open.spotify.com/track/2IoU45bOqH6DgFbHg4nWBC) | [Nelma U](https://open.spotify.com/artist/5nDJjSWGoWmMhIi4h5SaLV) | [Pitää vaan uskaltaa](https://open.spotify.com/album/5esVv2yF7MS7fDl68xorOK) | 2:18 | 2024-01-18 | 2024-01-26 |
 | [Platinaa](https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Platinaa](https://open.spotify.com/album/1ocYLGurBOaDNnl4uYT7Ih) | 2:15 | 2024-04-18 | 2024-07-03 |
 | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/track/5DhUGbUyEEYLBoxRus5awE) | [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Poika Perkele \(feat\. ibe\)](https://open.spotify.com/album/2hNQHGIMEMOx4DoKMuFXRl) | 2:36 | 2025-04-03 | 2025-06-06 |
-| [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 | 2025-11-13 |  |
+| [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 | 2025-11-13 | 2026-02-20 |
 | [Pooloo ja fiilaa](https://open.spotify.com/track/3rcPq6JYZIvyyUZMyoGLDn) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Wayne Amor](https://open.spotify.com/artist/4X2nKOdtR28ZJWIErZT7hF) | [Pooloo ja fiilaa](https://open.spotify.com/album/5NqTYsowTSQb5C4VjwjezI) | 2:58 | 2024-03-14 | 2024-04-05 |
 | [Pornosaitilla](https://open.spotify.com/track/0RTcGbDZWapNU4cs5nw0lM) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto), [Heikki Kuula](https://open.spotify.com/artist/6sMHCVAqs85YQZYx5A08qB) | [Pornosaitilla](https://open.spotify.com/album/2s6A2JUD3Tc6u64mfByYbJ) | 3:05 | 2025-05-08 | 2025-05-16 |
 | [Porttikielto](https://open.spotify.com/track/3Dhc7Y2QMw2mO9EtzjepF5) | [Aadam Lucas](https://open.spotify.com/artist/73EkrwfceBeWADkoYET2Lh) | [Porttikielto](https://open.spotify.com/album/5RlDbVHk6bamllrJwXMzY6) | 2:26 | 2023-12-14 | 2024-01-05 |

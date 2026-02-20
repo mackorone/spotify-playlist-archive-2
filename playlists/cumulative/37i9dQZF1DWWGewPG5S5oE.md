@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 壷阪健登
 
-497 songs - 1 day 16 hr 35 min
+498 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Anemone](https://open.spotify.com/track/4ehe6nQFUuog35O65lkhH4) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Anemone](https://open.spotify.com/album/75jA4ewWsJCwOvlsV83JVA) | 4:18 | 2025-03-25 | 2025-04-15 |
 | [Angelsmiles \- LIVE](https://open.spotify.com/track/1Xm0PGnzvqgM8Xf8Q4XhdL) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj) | [Live at ALFIE "Temporal Cubic”](https://open.spotify.com/album/1VD0Bnb8WE2uWKq204nfK0) | 14:43 | 2025-12-16 |  |
 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2023-12-05 | 2024-02-11 |
-| [archives](https://open.spotify.com/track/7pmUvzBb7qTKo3nj8mI5Z5) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [archives](https://open.spotify.com/album/3iSB8jG7GaWMk0Ajk3rBoj) | 5:28 | 2026-01-13 |  |
+| [archives](https://open.spotify.com/track/7pmUvzBb7qTKo3nj8mI5Z5) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [archives](https://open.spotify.com/album/3iSB8jG7GaWMk0Ajk3rBoj) | 5:28 | 2026-01-13 | 2026-02-20 |
 | [Arpen](https://open.spotify.com/track/0OdTNdxDcZQoDjksOwDKH1) | [John Nakayama Trio](https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz) | [Journey We Did](https://open.spotify.com/album/677yvDEFo4OH08S8duKHPt) | 4:59 | 2024-06-25 | 2024-09-11 |
 | [at](https://open.spotify.com/track/6i8bbUfrvEHXu1ODPMEeBS) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [ACIDMAN Tribute Works](https://open.spotify.com/album/4diPPj0QAQdizJvdJaXWJu) | 5:42 | 2025-11-05 | 2025-12-17 |
 | [Back Street](https://open.spotify.com/track/4Oq8hpl6suohYPKLjFwzkd) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Unison](https://open.spotify.com/album/4Wz2lJawGFjMLwb9R0yWAE) | 8:21 | 2023-01-24 | 2023-02-17 |
@@ -124,6 +124,7 @@
 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 | 2024-12-10 | 2025-01-18 |
 | [Euclid](https://open.spotify.com/track/52SNjuD9IbFxKLSrliAHls) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Euclid](https://open.spotify.com/album/0turxHrkN67n2f4d2REL8o) | 3:51 | 2024-08-06 | 2024-09-04 |
 | [Eugene's Waltz](https://open.spotify.com/track/3zcmpzBM0j16wtM53nDGWB) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [Eugene's Waltz](https://open.spotify.com/album/4fOmwDWX5Ay54r8eqkMPDm) | 3:57 | 2023-05-16 | 2023-05-24 |
+| [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 | 2026-02-17 |  |
 | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi) | 4:02 | 2023-01-31 | 2023-03-18 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 | 2022-09-06 | 2024-12-18 |
 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 | 2024-02-27 |  |

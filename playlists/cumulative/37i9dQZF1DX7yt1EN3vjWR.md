@@ -4,7 +4,7 @@
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル『POP YOURS』の公式プレイリスト。
 
-993 songs - 2 day 3 hr 39 min
+994 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,7 @@
 | [Neo Gal Wop](https://open.spotify.com/track/4NcTyBmgDNwwVctpBTXsaq) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LIFE IS WAVY](https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ) | 2:00 | 2023-06-07 | 2025-01-24 |
 | [Never Disappoint](https://open.spotify.com/track/1yXP4u2UHS0EAw7d4UVEjj) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [G.O.A.T / Never Disappoint](https://open.spotify.com/album/3grnG6l6TuQBOVGPlxJtJO) | 2:58 | 2025-05-26 | 2025-10-01 |
 | [Never Get It](https://open.spotify.com/track/1KL87XeNAfA4ittn3yFL13) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Never Get It](https://open.spotify.com/album/4SdEQPJbOScadpRfI6xaXh) | 2:59 | 2023-06-07 | 2024-01-25 |
-| [NEVEREST \(feat\. ANARCHY\) \- Remix](https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [NEVEREST \(feat\. ANARCHY\) \[Remix\]](https://open.spotify.com/album/0KlwMYsFzAOxGCQUiRHuYc) | 3:19 | 2025-12-17 |  |
+| [NEVEREST \(feat\. ANARCHY\) \- Remix](https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [NEVEREST \(feat\. ANARCHY\) \[Remix\]](https://open.spotify.com/album/0KlwMYsFzAOxGCQUiRHuYc) | 3:19 | 2025-12-17 | 2026-02-20 |
 | [NEW DAY](https://open.spotify.com/track/4Wp6nGBLY5StJQbvxfgImP) | [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v) | [Hood Melody](https://open.spotify.com/album/5IcWRGsA5XaQAtV5msVoqL) | 3:08 | 2025-05-26 | 2025-10-01 |
 | [NEW DAY](https://open.spotify.com/track/5gBMRa2WsLtBhgC1SzSfpJ) | [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v) | [NEW DAY](https://open.spotify.com/album/2p3ndaKkCW4s41dFMtYmw4) | 3:08 | 2025-02-20 | 2025-05-27 |
 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-24 | 2025-01-24 |
@@ -708,6 +708,7 @@
 | [Seaside Flow](https://open.spotify.com/track/5MbXBVs0XmY8f3aunWSXnE) | [03\- Performance](https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej), [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Seaside Flow](https://open.spotify.com/album/4cr1wgnikln8PbnXQr2CmQ) | 3:07 | 2024-04-09 | 2025-01-24 |
 | [Seaside Flow](https://open.spotify.com/track/6m1VM8e90qZPp0qc3DKIAP) | [03\- Performance](https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej), [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Seaside Flow](https://open.spotify.com/album/4bIvLphbDoV8KidsnAIiZP) | 3:07 | 2024-03-07 | 2024-04-19 |
 | [Seaside Flow２](https://open.spotify.com/track/0VX80k5te65cx6SmZgFBUt) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [RommyMontana](https://open.spotify.com/artist/2xyjjP3Bh98HvHSKdzr6fJ) | [Seaside Flow２](https://open.spotify.com/album/2XHWNfXkLYVXNiWr6v1Se0) | 3:15 | 2024-05-17 | 2024-05-19 |
+| [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 | 2026-02-19 |  |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2024-01-24 | 2024-02-08 |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2023-06-07 | 2024-04-19 |
 | [Selfish](https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc) | 3:44 | 2024-04-09 | 2025-01-24 |

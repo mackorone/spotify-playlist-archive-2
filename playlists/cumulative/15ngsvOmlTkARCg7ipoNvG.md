@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,053 songs - 1 day 17 hr 21 min
+2,054 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,6 +928,7 @@
 | [Inner Peace](https://open.spotify.com/track/43EbOJD3L0SEwSUusgq39w) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Inner Peace](https://open.spotify.com/album/10JQaOmLw1XPMMHYaD1Kwh) | 1:00 | 2024-04-06 |  |
 | [Inner Reflection](https://open.spotify.com/track/2cB4bnPtiCxIBEPk1WqKI9) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Inner Reflection](https://open.spotify.com/album/3qRE8d7qhPCGGwJCckUW0j) | 1:00 | 2024-05-07 |  |
 | [Inner Reflection Arr\. For Strings](https://open.spotify.com/track/55Skdg4AJfju3GrgJeWWHv) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Inner Reflection Arr\. For Strings](https://open.spotify.com/album/4xNyZvUVJUcjcWxzwk2heq) | 1:00 | 2024-05-11 |  |
+| [Insight](https://open.spotify.com/track/0Q9JvysOsbm305QAjXuUY2) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Insight](https://open.spotify.com/album/4wicSTgfIqX3Aba1cnVokj) | 1:00 | 2026-02-19 |  |
 | [Inspire](https://open.spotify.com/track/0LCiqZ3eTBzPUNb4k6F6Je) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Inspire](https://open.spotify.com/album/3v9S2L1xrOAwOFECQi63uh) | 1:00 | 2024-01-15 |  |
 | [Inspire \- Ambient Violin Version](https://open.spotify.com/track/3ozqSZJ4HXijk8JZ8WrxdD) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Inspire \(Ambient Violin Version\)](https://open.spotify.com/album/2s9lPPloy1X2sauQUyHf9S) | 1:00 | 2024-02-13 |  |
 | [Inspire Reimagined](https://open.spotify.com/track/7fHL05CaCEwHiCmifjDrIG) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Ambient Cello Echoes](https://open.spotify.com/album/13Q34vj79HCx2ARhaEYUCC) | 1:00 | 2024-02-09 |  |

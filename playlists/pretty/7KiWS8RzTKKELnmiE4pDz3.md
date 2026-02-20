@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 393 songs - 1 day 0 hr 7 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 394 songs - 1 day 0 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -401,5 +401,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 391 | [Barz Simpson](https://open.spotify.com/track/3h7aoPHmsUadRWUK0wsic4) | [Sonnyjim](https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4), [The Purist](https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [White Girl Wasted](https://open.spotify.com/album/3weidlEL5a8ilYDyJpTkFl) | 3:34 |
 | 392 | [Gotta Be Me](https://open.spotify.com/track/2I21yEGZVgZ6Is1XSntPOP) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Gotta Be Me \(Special Edition\)](https://open.spotify.com/album/5ilrCyRAcfGMRedLGlDKkZ) | 4:12 |
 | 393 | [No Need to Call](https://open.spotify.com/track/2tCMFrDPnvJm4ltUtV2Qr3) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Gotta Be Me / All Eyez on Us \(2 For 1: Special Edition\)](https://open.spotify.com/album/08KRnWezGf0vRQ52d8ZcoP) | 3:40 |
+| 394 | [Hot! Heat! Wow! Hot!](https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Fronzoli](https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt) | 3:32 |
 
-Snapshot ID: `AAAfwooMMr49YmmKJUMHLwHzzygk5z1b`
+Snapshot ID: `AAAfw9x2Sxn5cn2kmacyAal+KBIkurMD`

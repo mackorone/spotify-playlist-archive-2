@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 16 | [ALLOCATE](https://open.spotify.com/track/7njFMXMSIiLFzPH3jguEgt) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:57 |
 | 17 | [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 |
 | 18 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 |
-| 19 | [The Love Intro](https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:38 |
-| 20 | [Peace In Your Heart](https://open.spotify.com/track/7cRT91C6TAom8tELmEDUOh) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 2:52 |
-| 21 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
-| 22 | [Born In this Body](https://open.spotify.com/track/6vVxRyk3UieTug5o9ZeUhA) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:22 |
-| 23 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
-| 24 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
-| 25 | [only me](https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t) | [Jake The Snake](https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [only me](https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0) | 2:40 |
+| 19 | [Kollapse](https://open.spotify.com/track/3cCxtJ6hUwPnQQcn2EaezU) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 2:46 |
+| 20 | [The Love Intro](https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:38 |
+| 21 | [Peace In Your Heart](https://open.spotify.com/track/7cRT91C6TAom8tELmEDUOh) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 2:52 |
+| 22 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
+| 23 | [Born In this Body](https://open.spotify.com/track/6vVxRyk3UieTug5o9ZeUhA) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:22 |
+| 24 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
+| 25 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
+| 26 | [only me](https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t) | [Jake The Snake](https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [only me](https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0) | 2:40 |
 
-Snapshot ID: `AcKB9gAAAABNi1VNED8euXJ5PZMousBy`
+Snapshot ID: `AcKHlgAAAADpRpQIj4DAzGGOp82y93xP`

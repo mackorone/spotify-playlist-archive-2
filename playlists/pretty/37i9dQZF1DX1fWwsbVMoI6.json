@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 130287,
+  "num_followers": 130317,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-01-23 04:59:11",
       "album": {
+        "name": "La Caballita",
+        "url": "https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp"
+      },
+      "artists": [
+        {
+          "name": "Los 5 de Oro",
+          "url": "https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0"
+        }
+      ],
+      "duration_ms": 218101,
+      "name": "La Caballita",
+      "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
+    },
+    {
+      "added_at": "2026-01-23 04:59:11",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6w0Um2VB3AJpUSeoAUNBtC"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 231140,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ"
-    },
-    {
-      "added_at": "2026-01-23 04:59:11",
-      "album": {
-        "name": "La Caballita",
-        "url": "https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp"
-      },
-      "artists": [
-        {
-          "name": "Los 5 de Oro",
-          "url": "https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0"
-        }
-      ],
-      "duration_ms": 218101,
-      "name": "La Caballita",
-      "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
     },
     {
       "added_at": "2026-01-23 04:59:11",

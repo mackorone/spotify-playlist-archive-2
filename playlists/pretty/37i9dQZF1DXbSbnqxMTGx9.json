@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3186871,
+  "num_followers": 3187149,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Harder They Come",
         "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
       },
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Monkey Man",
-        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+        "name": "Handsworth Revolution",
+        "url": "https://open.spotify.com/album/0FxdNrYsdsUlZgZkJgr3NL"
       },
       "artists": [
         {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Beat Down Babylon",
-        "url": "https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9"
-      },
-      "artists": [
-        {
-          "name": "Junior Byles",
-          "url": "https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC"
-        }
-      ],
-      "duration_ms": 155490,
-      "name": "Beat Down Babylon",
-      "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
+      "duration_ms": 221693,
+      "name": "Ku Klux Klan",
+      "url": "https://open.spotify.com/track/0NlA0b2RNynMGZoxZm8hSq"
     }
   ],
   "unique_name": "Reggae Classics",

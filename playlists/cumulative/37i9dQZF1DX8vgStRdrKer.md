@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-723 songs - 2 day 13 hr 27 min
+724 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,12 +659,13 @@
 | [Victory](https://open.spotify.com/track/0vVhuLpWJslUjhKN9YXIIh) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Victory](https://open.spotify.com/album/7ev8lmfEPAaYXNJA01WKZ3) | 3:10 | 2025-07-11 | 2025-08-17 |
 | [Victory Sound](https://open.spotify.com/track/4tzA51379bjf05eXSQbJJD) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA) | [Victory Sound](https://open.spotify.com/album/79zmVYrvzQCbazatZcaHvU) | 3:11 | 2025-05-16 | 2025-06-20 |
 | [Volume Of The Book \- Live](https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Volume Of The Book \(Live\)](https://open.spotify.com/album/3Ka0L9HFEuH85d2X3CBQba) | 15:15 | 2024-09-20 | 2024-09-27 |
+| [Wa Gbile Na](https://open.spotify.com/track/2GKNyDFZWhUb2JCwip2hSH) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:24 | 2026-02-13 |  |
 | [Wabwino](https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [Wabwino](https://open.spotify.com/album/1qgfsNnYLjJRs6tQk5HjKL) | 3:39 | 2025-06-27 | 2025-07-14 |
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 |  |
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-05-24 |
 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 | 2026-01-30 |  |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-28 | 2025-05-30 |
-| [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 |  |
+| [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 | 2026-02-20 |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2023-09-15 | 2024-03-16 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-07-12 |
 | [We Bow Down](https://open.spotify.com/track/0IkGmBCu8f9m9K4gOtGQRI) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [We Bow Down](https://open.spotify.com/album/1DpLBJNOvTDBSFosEhYAKA) | 9:00 | 2024-03-30 | 2025-06-06 |

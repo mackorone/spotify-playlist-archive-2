@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 653953,
+  "num_followers": 654197,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+        "name": "I Could Be Happy",
+        "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
       },
       "artists": [
         {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "\u00c9lodie Fr\u00e9g\u00e9",
+          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
         }
       ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+      "duration_ms": 211973,
+      "name": "La Pluie Et Le Beau Temps",
+      "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -619,22 +623,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "I Could Be Happy",
-        "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
       "artists": [
         {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "\u00c9lodie Fr\u00e9g\u00e9",
-          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
         }
       ],
-      "duration_ms": 211973,
-      "name": "La Pluie Et Le Beau Temps",
-      "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Je m'ennuie",
+      "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -955,6 +971,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Paris - I Love You",
+        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Et Guillaume",
+          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Un Homme Et Une Femme",
+      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -979,38 +1011,6 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Je m'ennuie",
-      "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Paris - I Love You",
-        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Et Guillaume",
-          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Un Homme Et Une Femme",
-      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
         }
       ],
-      "duration_ms": 211160,
-      "name": "O\u00f9 veux-tu aller ?",
-      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
     },
     {
       "added_at": "2026-02-13 08:51:02",

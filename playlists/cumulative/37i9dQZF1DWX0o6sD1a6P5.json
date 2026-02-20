@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: KeBlack",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: kulturr",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170395,
       "name": "Confirm\u00e9",
       "url": "https://open.spotify.com/track/7gMH6BhkS9Phrh71oXDdqP"
@@ -5318,6 +5318,28 @@
       "duration_ms": 198026,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/6oHkf01UyUH5FVvWhsbEKy"
+    },
+    {
+      "album": {
+        "name": "DOUDOU",
+        "url": "https://open.spotify.com/album/1y3IUbnsAcjEYOBbGwCUpX"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138545,
+      "name": "DOUDOU",
+      "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
     },
     {
       "album": {
@@ -11801,6 +11823,24 @@
     },
     {
       "album": {
+        "name": "Na Za D\u00e9sol\u00e9",
+        "url": "https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Na Za D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
+    },
+    {
+      "album": {
         "name": "Nalingi ye",
         "url": "https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9"
       },
@@ -14644,7 +14684,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 203215,
       "name": "RONALDINHO",
       "url": "https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS"

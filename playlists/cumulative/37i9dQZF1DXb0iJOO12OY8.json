@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Fisker I Havet",
+        "url": "https://open.spotify.com/album/55DRMxdcmnuHD85jXfI70P"
+      },
+      "artists": [
+        {
+          "name": "K\u00d8DE",
+          "url": "https://open.spotify.com/artist/33Xf7fZ9kKCjJds6dEFxcM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99545,
+      "name": "Fisker I Havet",
+      "url": "https://open.spotify.com/track/6Kj1oHqI5qd0WVNbYAtQaF"
+    },
+    {
+      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 160000,
       "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
       "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"

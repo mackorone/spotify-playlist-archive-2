@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Sjava
+> Khuphuka lapho… seku\-late! Cover: Ntencane
 
-284 songs - 22 hr 28 min
+285 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ubu Ghost bami](https://open.spotify.com/track/18135pAIhu4DClNzwruriW) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Intombi yasoLundi](https://open.spotify.com/artist/4Bn20pYoT2Dij98WIQc4lt) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 2:51 | 2025-11-14 |  |
 | [uHerodi](https://open.spotify.com/track/2OaiWMFJMnUSFLpdsYWgup) | [Madlala](https://open.spotify.com/artist/0e7YfyK9v0fTHo43iJV8Oj) | [Sizohlabelela](https://open.spotify.com/album/2X6RQrGxetaRNPOdx1TgGo) | 3:54 | 2023-08-24 |  |
 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 | 2023-06-15 | 2024-03-29 |
+| [UKHETHE MINA](https://open.spotify.com/track/35nJgry48wr2AaxRfouhfD) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Awuyiphumuze](https://open.spotify.com/album/3VFuhDO3hOZCCkrZktpGkD) | 5:20 | 2026-02-20 |  |
 | [Ukuganwa](https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:54 | 2018-11-04 | 2022-09-25 |
 | [Ukuganwa](https://open.spotify.com/track/4xrwao2zgAaG45VdsfpGBW) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 | 2018-11-04 | 2023-02-01 |
 | [Ukuganwa](https://open.spotify.com/track/65tm6Jze8PbRRIwUgJt5HF) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Tshath' Ugodo, Vol\. 1](https://open.spotify.com/album/7u3878BCzhCvrWLHtmSvYF) | 4:54 | 2018-11-04 | 2022-11-13 |

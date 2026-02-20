@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 19 Feb 23:11 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 20 Feb 23:10 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -11142,7 +11142,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 253024,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/5elOQoKVxdk7B76s4rEwNM"
@@ -20028,7 +20028,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 238000,
       "name": "CINEMA",
       "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
@@ -32141,6 +32141,28 @@
     },
     {
       "album": {
+        "name": "Eternal martyr",
+        "url": "https://open.spotify.com/album/6vokIDV1jHNJZR6KU0rCp8"
+      },
+      "artists": [
+        {
+          "name": "K\u00ebkht Ar\u00e4kh",
+          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Eternal martyr",
+      "url": "https://open.spotify.com/track/1eFlgteVBxHpbDy2b5iJuM"
+    },
+    {
+      "album": {
         "name": "Eternal.Harvest",
         "url": "https://open.spotify.com/album/34azVpTQQ17jz9OsLh2YZT"
       },
@@ -36302,7 +36324,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 306537,
       "name": "Flags",
       "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
@@ -50756,6 +50778,24 @@
       "duration_ms": 226148,
       "name": "I. THE DESCENT",
       "url": "https://open.spotify.com/track/1dwiKtLCq2pl8o316cOkV1"
+    },
+    {
+      "album": {
+        "name": "i. the many names of god",
+        "url": "https://open.spotify.com/album/7kRzdKvJsIyiSm0LG7ydY3"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "i. the many names of god",
+      "url": "https://open.spotify.com/track/6NNGIUThTVS10BjlDTf6tp"
     },
     {
       "album": {
@@ -81440,7 +81480,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 235391,
       "name": "Purity Ladder",
       "url": "https://open.spotify.com/track/4jvYJcpCtuUdqSuO6KgyKb"
@@ -86730,7 +86770,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 136862,
       "name": "sand in turks",
       "url": "https://open.spotify.com/track/709N6qKk8YojXP2CZ630at"
@@ -87042,7 +87082,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/5QAgAknbr8nCAyAubKsrfS"
@@ -94058,6 +94098,24 @@
       "duration_ms": 171561,
       "name": "Stained",
       "url": "https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0"
+    },
+    {
+      "album": {
+        "name": "STAMPEDE",
+        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "STAMPEDE",
+      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
     },
     {
       "album": {
@@ -101437,6 +101495,24 @@
     },
     {
       "album": {
+        "name": "The Iciest Eyes",
+        "url": "https://open.spotify.com/album/3iIuMGGnXR4TCaNXICO7qN"
+      },
+      "artists": [
+        {
+          "name": "Mihal Lunar",
+          "url": "https://open.spotify.com/artist/5rPLXBOjQxFDdKNJKGfvcP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192737,
+      "name": "The Iciest Eyes",
+      "url": "https://open.spotify.com/track/04Z6DTpTDvf9gpc1A53STw"
+    },
+    {
+      "album": {
         "name": "The Idiot's Maze / The Season",
         "url": "https://open.spotify.com/album/1jUl6VvsQyQ7j5LfsFs2RE"
       },
@@ -107102,6 +107178,28 @@
       "duration_ms": 216125,
       "name": "Twisting Our Fingers",
       "url": "https://open.spotify.com/track/0M46V5WC2euVqHh80ey1Hw"
+    },
+    {
+      "album": {
+        "name": "Twisting The Knife (feat. Mckenna Grace)",
+        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201477,
+      "name": "Twisting The Knife (feat. Mckenna Grace)",
+      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
     },
     {
       "album": {
@@ -116516,6 +116614,24 @@
       "duration_ms": 149250,
       "name": "Your Face as an Effigy",
       "url": "https://open.spotify.com/track/1E5zkWMKIEyo55VGi0Z7jW"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Your Favorite Toy",
+      "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
     },
     {
       "album": {

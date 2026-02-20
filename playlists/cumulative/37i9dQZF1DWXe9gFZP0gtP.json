@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1XLyuDO0stPVvOwOqF4J7d"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142913,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2rTua7tKIUh4PD9kQda06I"
+    },
+    {
+      "album": {
         "name": "Airflow",
         "url": "https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i"
       },
@@ -671,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/2exTBF2PtjgPp6EhL2hNsk"
+      },
+      "artists": [
+        {
+          "name": "Remi Ainsley",
+          "url": "https://open.spotify.com/artist/0rIQ2dXfAr8DbyfHr8LDcs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167717,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2LkVMxzdgR9tzDDFDW9wU4"
+    },
+    {
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/2lrbeE1M442C5Zp6f47N9p"
       },
@@ -686,6 +722,24 @@
       "duration_ms": 191884,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/13AqFyR1BwXAcskpEEInkD"
+    },
+    {
+      "album": {
+        "name": "Ashore In Harmony",
+        "url": "https://open.spotify.com/album/3Wxhjah35mmfulKs0pQ4Kl"
+      },
+      "artists": [
+        {
+          "name": "Ethereon",
+          "url": "https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Ashore In Harmony",
+      "url": "https://open.spotify.com/track/31mVcdvmTM4xNFrWGBQKQM"
     },
     {
       "album": {
@@ -736,7 +790,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 160000,
       "name": "Astronavia",
       "url": "https://open.spotify.com/track/3kyoOnivlYPoDLCVVu9UWQ"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 166069,
       "name": "Beneath the Earth",
       "url": "https://open.spotify.com/track/37cZLca9hhGCc4s3irGqPs"
@@ -1708,7 +1762,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 156500,
       "name": "Celestitherium",
       "url": "https://open.spotify.com/track/6qXh5FUeDIZK1yrsRY1t18"
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 134117,
       "name": "Dr\u00f6mskog",
       "url": "https://open.spotify.com/track/2dvu2sg6HuAkkNzvaKXgfM"
@@ -3372,6 +3426,24 @@
       "duration_ms": 125073,
       "name": "Enough",
       "url": "https://open.spotify.com/track/11UZcELqU0dAiNLD3MboDh"
+    },
+    {
+      "album": {
+        "name": "Entity",
+        "url": "https://open.spotify.com/album/312aUiSMelR7iv9mQKpoRn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6gonblick",
+          "url": "https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158780,
+      "name": "Entity",
+      "url": "https://open.spotify.com/track/4EqPxR0YzabZ7tZCkYn0va"
     },
     {
       "album": {
@@ -3970,6 +4042,24 @@
       "duration_ms": 185980,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61"
+    },
+    {
+      "album": {
+        "name": "Featherlight",
+        "url": "https://open.spotify.com/album/3NsOgkP3637yCJwTi7wwdV"
+      },
+      "artists": [
+        {
+          "name": "Heddwch",
+          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150816,
+      "name": "Featherlight",
+      "url": "https://open.spotify.com/track/7wUZYkmsiQbqCYHphqOcWY"
     },
     {
       "album": {
@@ -7087,6 +7177,24 @@
     },
     {
       "album": {
+        "name": "Moon Shaped",
+        "url": "https://open.spotify.com/album/5DhHT5xMEde1mOA6zDVD5A"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Moon Shaped",
+      "url": "https://open.spotify.com/track/7MkiljC7OZvtOsVNJzMk8t"
+    },
+    {
+      "album": {
         "name": "Majestic Dream",
         "url": "https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9"
       },
@@ -7134,7 +7242,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171000,
       "name": "Moonlit Path",
       "url": "https://open.spotify.com/track/0whsNavz0WLxElFP4cmgmU"
@@ -8718,7 +8826,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 174666,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/6VtN0ZX9M0fF3JeqdTI7xz"
@@ -10068,7 +10176,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175074,
       "name": "Somniora",
       "url": "https://open.spotify.com/track/2CARb79gTNPpwciqXQjTdu"
@@ -10903,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "The Path That Comes Around",
+        "url": "https://open.spotify.com/album/6jabN600JKjpX6nh56yur2"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "The Path That Comes Around",
+      "url": "https://open.spotify.com/track/5Ma2KkyGiY9AsFuSVBlDx3"
+    },
+    {
+      "album": {
         "name": "The Quiet Return",
         "url": "https://open.spotify.com/album/4hReEt7a5CioBBLQbB6O5a"
       },
@@ -11490,7 +11616,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 142741,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/71nO4YxUE9QeRg33ymRRRF"
@@ -11602,6 +11728,24 @@
       "duration_ms": 184250,
       "name": "Ut Ameris, Amabilis Esto",
       "url": "https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M"
+    },
+    {
+      "album": {
+        "name": "Vajar",
+        "url": "https://open.spotify.com/album/6CD5hcqXMpFXMAwCe1JRvA"
+      },
+      "artists": [
+        {
+          "name": "Lejo",
+          "url": "https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "Vajar",
+      "url": "https://open.spotify.com/track/3ussEoYwAJpdrdCffRL8Fy"
     },
     {
       "album": {

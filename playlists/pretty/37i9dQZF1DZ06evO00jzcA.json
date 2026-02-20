@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 485393,
+  "num_followers": 485405,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAC9zR9CEdRigrI27pfUyiri",
+  "snapshot_id": "aZUBAAAAAADdSfp62ZYzblsmdAeE/EnN",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Shout It Out Loud",
-      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 235933,
       "name": "Tears Are Falling",
       "url": "https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 202266,
-      "name": "100,000 Years - Remastered 1997",
-      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+      "duration_ms": 197333,
+      "name": "Firehouse - Remastered 1997",
+      "url": "https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Firehouse - Remastered 1997",
-      "url": "https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T"
+      "duration_ms": 202266,
+      "name": "100,000 Years - Remastered 1997",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
     }
   ],
   "unique_name": "This Is KISS",

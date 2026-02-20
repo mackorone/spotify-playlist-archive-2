@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191268,
+  "num_followers": 191255,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Truce (Acoustic)",
-        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 222983,
-      "name": "Truce - Acoustic",
-      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Brick Houses",
         "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 232258,
       "name": "22 Weeks",
       "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Truce (Acoustic)",
+        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 222983,
+      "name": "Truce - Acoustic",
+      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Wolves EP",
-        "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
-      },
-      "artists": [
-        {
-          "name": "Hydrogen Sea",
-          "url": "https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH"
-        }
-      ],
-      "duration_ms": 146786,
-      "name": "Birds Of Paradise",
-      "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "At The Party",
         "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 215000,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Wolves EP",
+        "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
+      },
+      "artists": [
+        {
+          "name": "Hydrogen Sea",
+          "url": "https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH"
+        }
+      ],
+      "duration_ms": 146786,
+      "name": "Birds Of Paradise",
+      "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "An Hour Per Day",
         "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
       },
       "artists": [
         {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
         }
       ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Sincerely, Sevens",
         "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 301417,
       "name": "More than a warning",
       "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2026-02-12 23:00:28",

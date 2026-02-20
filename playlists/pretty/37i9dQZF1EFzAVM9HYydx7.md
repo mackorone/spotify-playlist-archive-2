@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027 likes - 308 songs - 18 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027 likes - 308 songs - 18 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 243 | [Future](https://open.spotify.com/track/3YrcUQYqtaBcbgjOXI5FZv) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 5:35 |
 | 244 | [Vulnerable \(feat\. Travis Scott\)](https://open.spotify.com/track/46aqy8ZnoeCM5z4CidMSni) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Aquarius](https://open.spotify.com/album/0kAjVhWydfRkTlG95XWHOB) | 3:26 |
 | 245 | [Where You Are](https://open.spotify.com/track/6un4TmGD2zyNCpDsEY6TzJ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 3:08 |
-| 246 | [Project Baby](https://open.spotify.com/track/5Nt5bfPUn9CFmCAeFhCaKk) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Lost Souls](https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2) | 2:28 |
+| 246 | [Project Baby \(Remix\)](https://open.spotify.com/track/4QMVleuOKpfvpuloHBsBgH) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Project Baby \(Remix\)](https://open.spotify.com/album/4WHjKjDoV88TpAFn47i1L8) | 2:37 |
 | 247 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
 | 248 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 |
 | 249 | [Gimme What I Want](https://open.spotify.com/track/6YEAjS6kiOQEkLv6dI5IOA) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 2:59 |
@@ -269,9 +269,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 259 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
 | 260 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 261 | [Set It Off](https://open.spotify.com/track/7ouXmLj4SCOIuIJDlbFnnx) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Not 4 Sale](https://open.spotify.com/album/3nlZ9m98yAvhzIvaF62tpq) | 4:37 |
-| 262 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
-| 263 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
-| 264 | [Demons & Angels](https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:57 |
+| 262 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
+| 263 | [Demons & Angels](https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:57 |
+| 264 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
 | 265 | [All I Know](https://open.spotify.com/track/6wK2uzNdEnUs7NCb4guyvl) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The R.E.D\. Album](https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37) | 4:03 |
 | 266 | [Future](https://open.spotify.com/track/5F3inqOUMtTl6lW1MDGxwY) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:23 |
 | 267 | [Clean Edit](https://open.spotify.com/track/0lR9C9p0w0EaYU1ENet9Ty) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 2:08 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 307 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 308 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcKB7AAAAABdBUybc5S9VF2ow6Dz+P37`
+Snapshot ID: `AcKHvgAAAAAgv8cHj32R4IWmkQJE3k81`

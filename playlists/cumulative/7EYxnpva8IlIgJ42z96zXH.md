@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,080 songs - 2 day 8 hr 44 min
+1,081 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 | 2024-07-19 | 2024-09-06 |
 | [Only Love](https://open.spotify.com/track/2nVBisvPxcBnHHyn2PPaQK) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Only Love](https://open.spotify.com/album/5dSzvbgAgtZ3MWuJwgVbhn) | 3:26 | 2024-07-12 | 2024-07-19 |
 | [Only One](https://open.spotify.com/track/6o83b5PtCctzVb7XHhDYeJ) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Only One](https://open.spotify.com/album/5uxgZnwoHDH7wDLBxAo7j9) | 3:36 | 2021-02-26 | 2021-03-26 |
+| [only the best](https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [only the best](https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU) | 3:22 | 2026-02-20 |  |
 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 | 2023-12-08 | 2024-01-18 |
 | [Oops \(I'm Sorry\)](https://open.spotify.com/track/485KVYPmRISdLpKbaSJ81u) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Oops \(I'm Sorry\)](https://open.spotify.com/album/1ElsjvR5Stcl155XkRzJwK) | 3:22 | 2020-11-03\* | 2021-02-06 |
 | [Operator](https://open.spotify.com/track/1HCrPghkZvOrnIrAfppDeo) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Operator](https://open.spotify.com/album/6JW76FVhsFIumHVdH5RiXV) | 2:28 | 2021-12-10 | 2022-01-14 |

@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "All the Hits",
+        "url": "https://open.spotify.com/album/676qvazYtyDCysPNxVTBtP"
+      },
+      "artists": [
+        {
+          "name": "Horace Heidt & His Musical Knights",
+          "url": "https://open.spotify.com/artist/71EDwhmGGw7PlLGTm99jCK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153760,
+      "name": "Dawn of a New Day",
+      "url": "https://open.spotify.com/track/0C1vuYIWRDmplN9wcXzkek"
+    },
+    {
+      "album": {
         "name": "Horace Heidt & His Orchestra, Popular Songs",
         "url": "https://open.spotify.com/album/1tF2sOjVZtdUvWJbeRHLMv"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 150726,
       "name": "Dawn of a new day",
       "url": "https://open.spotify.com/track/4uyKviQdYun2MGKTaGbNEQ"
@@ -1605,6 +1623,48 @@
     },
     {
       "album": {
+        "name": "Gershwin: Porgy and Bess (Highlights)",
+        "url": "https://open.spotify.com/album/6RI28XfqxgmSnAAacTHenE"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Cynthia Haymon",
+          "url": "https://open.spotify.com/artist/6AtgdNp2Q7d9IpBTILhoHC"
+        },
+        {
+          "name": "Glyndebourne Chorus",
+          "url": "https://open.spotify.com/artist/5KDy5zRtt4BRjwDqq2yAe5"
+        },
+        {
+          "name": "Marietta Simpson",
+          "url": "https://open.spotify.com/artist/0PT7kJyKkN793JgwIXjLTC"
+        },
+        {
+          "name": "Willard White",
+          "url": "https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Gershwin: Porgy and Bess, Act 2, Scene 1: \"Oh, I can't sit down\" (Maria, Bess, Porgy, Chorus)",
+      "url": "https://open.spotify.com/track/3eKr9Obwor6V1qv1rPno1U"
+    },
+    {
+      "album": {
         "name": "Gershwin: Porgy & Bess",
         "url": "https://open.spotify.com/album/6JOrscZTwb7OH6e5EM9Jyg"
       },
@@ -1644,7 +1704,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 263933,
       "name": "Gershwin: Porgy and Bess, Act 2, Scene 1: \"Oh, I can't sit down\" (Maria, Bess, Porgy, Chorus)",
       "url": "https://open.spotify.com/track/10lJT9VwEPBlBBzxKJmguK"
@@ -4286,10 +4346,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 145173,
       "name": "Red Headed Woman",
       "url": "https://open.spotify.com/track/5unuMxZpZvHfK98mYv1AG8"
+    },
+    {
+      "album": {
+        "name": "Five Classic Albums (Guitar Moods / Tv Action Jazz! / Porgy & Bess / a Grand Night for Swinging / Satan in High Heels) (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/25eywlt4A0ILzC2biYOR2G"
+      },
+      "artists": [
+        {
+          "name": "Mundell Lowe",
+          "url": "https://open.spotify.com/artist/3oSDwkoxvCDQLcPYebh8R7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Redheaded Woman (Porgy & Bess)",
+      "url": "https://open.spotify.com/track/35YW0e2US8FivaTXYYjzgZ"
     },
     {
       "album": {
@@ -5174,10 +5252,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201693,
       "name": "Things Are Looking Up (11-01-37)",
       "url": "https://open.spotify.com/track/1H8FWalaTquiuh0U4cXitu"
+    },
+    {
+      "album": {
+        "name": "The Billie Holiday Collection Volume 3",
+        "url": "https://open.spotify.com/album/4GaAJzLvJW2ulKrQ4BZxuS"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Things Are Looking Up (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/2Cea9NVAO6TkS4TvvgnQ8C"
     },
     {
       "album": {

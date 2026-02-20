@@ -2043,6 +2043,32 @@
     },
     {
       "album": {
+        "name": "Blurred Lines",
+        "url": "https://open.spotify.com/album/4vCYCNlJi2sFZY3hkli3dR"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262653,
+      "name": "Blurred Lines",
+      "url": "https://open.spotify.com/track/0iYXdwGOWedOKJXEd0RaTV"
+    },
+    {
+      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -2062,7 +2088,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
@@ -2910,7 +2936,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 118758,
       "name": "Candy",
       "url": "https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9"
@@ -5094,7 +5120,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 280813,
       "name": "Erotic Candy Shop - MDNA World Tour / Live 2012",
       "url": "https://open.spotify.com/track/7KW26bM0koukpjW4zoy2zj"
@@ -5346,10 +5372,32 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 257303,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/3yVl3fuLU7rjYhByVtnNZC"
+    },
+    {
+      "album": {
+        "name": "I'll Take It from Here",
+        "url": "https://open.spotify.com/album/4p0jVlnZu60QpMDz3pRxnE"
+      },
+      "artists": [
+        {
+          "name": "Chinx",
+          "url": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257303,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/5DLsxnViSJ6I8UB1k280gE"
     },
     {
       "album": {
@@ -7596,10 +7644,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 235866,
       "name": "Head Bust",
       "url": "https://open.spotify.com/track/6NfrCH8s8WzcJIK2Ow7oRw"
+    },
+    {
+      "album": {
+        "name": "Fast and Furious",
+        "url": "https://open.spotify.com/album/1UOpbdlLwE86RilRMlv7eC"
+      },
+      "artists": [
+        {
+          "name": "Shark City Click",
+          "url": "https://open.spotify.com/artist/3DZ1lfmKq3NgX6EOcH9HdZ"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Head Bust",
+      "url": "https://open.spotify.com/track/2DeE5yl1dG4J6eNYatfPVc"
     },
     {
       "album": {
@@ -8224,10 +8294,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186133,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1OxxhfpPAaggNcWB2WAnpJ"
+    },
+    {
+      "album": {
+        "name": "35 Acoustic Country Hits of 2015",
+        "url": "https://open.spotify.com/album/0RwLGHpNve83Yowb2Mlzxg"
+      },
+      "artists": [
+        {
+          "name": "Guitar Tribute Players",
+          "url": "https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "House Party - Instrumental",
+      "url": "https://open.spotify.com/track/0qSZTXDiDMTBWBWIqgoUNe"
     },
     {
       "album": {
@@ -10118,7 +10206,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 196773,
       "name": "Kickin' In",
       "url": "https://open.spotify.com/track/0cmdzy74FsJ3Sammrf2pV9"
@@ -10232,6 +10320,28 @@
     {
       "album": {
         "name": "Kiss Tha Game Goodbye",
+        "url": "https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR"
+      },
+      "artists": [
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Knock Yourself Out",
+      "url": "https://open.spotify.com/track/4jCio4LNO1eZbl09ed4ZFn"
+    },
+    {
+      "album": {
+        "name": "Kiss Tha Game Goodbye",
         "url": "https://open.spotify.com/album/1Tjo21h3Fovb4VYTJDvxqe"
       },
       "artists": [
@@ -10242,7 +10352,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 213600,
       "name": "Knock Yourself Out - Edit",
       "url": "https://open.spotify.com/track/3Q13gzzrAUUP7kxNPnkpfU"
@@ -12002,10 +12112,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 263133,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3nrGG3qYHIhjnHOx1lnMNx"
+    },
+    {
+      "album": {
+        "name": "Fly Or Die",
+        "url": "https://open.spotify.com/album/4MwR8zCF5m9JH8t3LcHqas"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Maybe - Radio Edit",
+      "url": "https://open.spotify.com/track/7cM3P18CmapGczu8dyKq0E"
     },
     {
       "album": {

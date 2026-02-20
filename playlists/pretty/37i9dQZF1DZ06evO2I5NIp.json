@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACjMUlzYGfcDh6TMiZ9dtOW",
+  "snapshot_id": "aZUBAAAAAAD1dIroqmBFy4/eSbTbubjO",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 285990,
       "name": "Uncivil War",
       "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+        "name": "Funky Blues",
+        "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 245173,
-      "name": "Outskirts Of Love",
-      "url": "https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK"
+      "duration_ms": 303640,
+      "name": "Steamy Windows",
+      "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

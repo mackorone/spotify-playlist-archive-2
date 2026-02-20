@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,932 likes - 170 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,006 likes - 170 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 169 | [Beyond Null](https://open.spotify.com/track/3bCdcWfeuVXTWjEMWOx5Vs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Beyond Null](https://open.spotify.com/album/4D70LF3zefYSwP08zX2kyX) | 3:14 |
 | 170 | [Stillness](https://open.spotify.com/track/6viRE5YBLvIGLaQ2fk08f4) | [Seraphine](https://open.spotify.com/artist/1ZZeGCPBOTM8xb5M2xV8Sl) | [Stillness](https://open.spotify.com/album/5pVmEQXLLwoGiMRFvrYQrp) | 2:24 |
 
-Snapshot ID: `AAAAAOGtjDK3JwQRvCZC+sLWzYUlueXl`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

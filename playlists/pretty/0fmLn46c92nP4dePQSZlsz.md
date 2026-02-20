@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw?si=8crPuqYdRJWHd6szEoIQuQ">Japanese Breakfast</a>
 
-[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,291 likes - 65 songs - 4 hr 5 min
+[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,290 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 | 64 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 65 | [Valley](https://open.spotify.com/track/1ygT7tmhdoNwJEioUvXD1I) | [The Clearwater Swimmers](https://open.spotify.com/artist/5R2GDoeug0d0tCwIAnsvAm) | [The Clearwater Swimmers](https://open.spotify.com/album/4rYkDAh5BnHSmMu7rydnyE) | 5:23 |
 
-Snapshot ID: `AAAOrr7aH8WEM68epKJzajEeP5Irv/Jc`
+Snapshot ID: `AAAOr3HWOWioPgevQj2QRF01Bgj18z+H`

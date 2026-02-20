@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-896 songs - 1 day 20 hr 44 min
+897 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 | 2025-03-16 | 2025-09-19 |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-05 |
 | [1000 Ways](https://open.spotify.com/track/4t2S9k4ToCqqBfBHbTSlBl) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [1000 Ways](https://open.spotify.com/album/3vVGKpTDoyeyPkrz8dTJhN) | 3:53 | 2024-10-10 | 2024-10-25 |
+| [1001 tapaa](https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [1001 tapaa](https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU) | 2:48 | 2026-02-19 |  |
 | [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 | 2025-08-13 |
 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 | 2025-06-19 | 2025-07-04 |
 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 | 2026-01-15 |  |
@@ -90,7 +91,7 @@
 | [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 | 2026-01-18 |
 | [Clean Girl](https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Clean Girl](https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V) | 2:57 | 2026-01-15 |  |
 | [Clique La Lv](https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Clique La Lv](https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP) | 2:16 | 2025-12-18 | 2026-02-11 |
-| [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2026-01-01 |  |
+| [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2026-01-01 | 2026-02-20 |
 | [Cocktail](https://open.spotify.com/track/64PFfjxVkMnJtGd3WMZ1v7) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Mun vuosi](https://open.spotify.com/album/7fTdqVRml2FU5x6z9y8hGl) | 2:43 | 2025-03-20 | 2025-04-11 |
 | [Cokis ja Mentos](https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Cokis ja Mentos](https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ) | 2:47 | 2026-01-08 |  |
 | [Corazon \(feat\. Neo\)](https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9) | [Henriguez](https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE), [Neo](https://open.spotify.com/artist/41kvT8ol7IQdZKnzfGPtR1) | [Corazon \(feat\. Neo\)](https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj) | 3:08 | 2024-07-11 | 2024-08-02 |

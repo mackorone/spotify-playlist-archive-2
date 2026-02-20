@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 53 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 53 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 50 | [Stranger Phase](https://open.spotify.com/track/2ptNTumjhijReIvfU7EYLD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:55 |
 | 51 | [Speak Up](https://open.spotify.com/track/2JlFrcyUSZQw0iX6DK1pK5) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:07 |
 | 52 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
-| 53 | [Are You Even Real](https://open.spotify.com/track/4xH1Nq3P7agzhXV2szHMAz) | [James Major](https://open.spotify.com/artist/3UcqDmghLI8TR0MxHPtUDM) | [Are You Even Real](https://open.spotify.com/album/42WlqSCZxm7wtjh1xjSSus) | 2:28 |
+| 53 | [Are You Even Real \(vocal\)](https://open.spotify.com/track/609aY2KT1JaZFt8t3GJY3F) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Hottest Hits 2025, Vol\. 4 \(vocal\)](https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd) | 2:28 |
 
-Snapshot ID: `AcKCCgAAAABpjzSyOLgEgJ4HGw9+gWt9`
+Snapshot ID: `AcKHqgAAAADTxUx3uwiKkqw4OEocN9Xn`

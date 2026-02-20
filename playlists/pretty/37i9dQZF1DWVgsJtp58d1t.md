@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,114 likes - 151 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,306 likes - 151 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

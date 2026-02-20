@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,811 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,860 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 69 | [Road Jam](https://open.spotify.com/track/4hKTs4G3WNYRKRAylEwbdY) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA), [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Lock Down](https://open.spotify.com/album/7KwnHIkWvHKIjHw4aHA5BX) | 4:10 |
 | 70 | [When Last \- Remix](https://open.spotify.com/track/06ZEPQuntYP0MAC4D1nztv) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Grateful Co](https://open.spotify.com/artist/13nrySUFCJn8q7RIaSmtb2) | [When Last \(Remix\)](https://open.spotify.com/album/30Z7WKAvQtL56OViOk44de) | 3:14 |
 
-Snapshot ID: `AAAAAEdZqzYC1ZnGRKY2kPiRyUUdH1e+`
+Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

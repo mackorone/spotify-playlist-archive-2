@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 208061,
+  "num_followers": 208097,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Double A Side",
-        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 95373,
-      "name": "Vagina Police",
-      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Double A Side",
+        "url": "https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 95373,
+      "name": "Vagina Police",
+      "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "That's Not What I Heard",
-        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Where the Girls Are",
-      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 157933,
       "name": "A Living Human Girl",
       "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "That's Not What I Heard",
+        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Where the Girls Are",
+      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Smash Hit",
-        "url": "https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI"
-      },
-      "artists": [
-        {
-          "name": "Potty Mouth",
-          "url": "https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw"
-        }
-      ],
-      "duration_ms": 200630,
-      "name": "Smash Hit",
-      "url": "https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Autoclave",
         "url": "https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 228133,
       "name": "I'll Take You Down",
       "url": "https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Smash Hit",
+        "url": "https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI"
+      },
+      "artists": [
+        {
+          "name": "Potty Mouth",
+          "url": "https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw"
+        }
+      ],
+      "duration_ms": 200630,
+      "name": "Smash Hit",
+      "url": "https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+      "duration_ms": 162493,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
       "artists": [
         {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
     },
     {
       "added_at": "2024-10-07 20:36:39",

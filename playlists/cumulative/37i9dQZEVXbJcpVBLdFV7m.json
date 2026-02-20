@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 144226,
       "name": "Ama Ba\u015faramad\u0131m",
       "url": "https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -5782,7 +5782,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -6412,6 +6412,24 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170211,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
     },
     {
       "album": {
@@ -10642,7 +10660,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 73109,
       "name": "EFN",
       "url": "https://open.spotify.com/track/5fFrpIc3ORJiygbhh2bK3b"
@@ -12440,7 +12458,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 313638,
       "name": "Fire In My Heart",
       "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
@@ -15848,10 +15866,32 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147433,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/1VwsoJBToZak858P29s4Sn"
+    },
+    {
+      "album": {
+        "name": "How Deep is Your Love - Live",
+        "url": "https://open.spotify.com/album/7tAv8DutebVKrOCo0xL9xQ"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        },
+        {
+          "name": "Xizt",
+          "url": "https://open.spotify.com/artist/1na0C7M3oeaDrKfST1TOMF"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147490,
+      "name": "How Deep Is Your Love - Live",
+      "url": "https://open.spotify.com/track/4V4sQ6p5XMXTgUL2q62JH3"
     },
     {
       "album": {
@@ -18177,6 +18217,28 @@
     },
     {
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "album": {
         "name": "Kabul Olan Tek Duams\u0131n",
         "url": "https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE"
       },
@@ -19668,6 +19730,28 @@
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "album": {
+        "name": "Let It Drop Now",
+        "url": "https://open.spotify.com/album/53y9064NMj6SqCkONERNa9"
+      },
+      "artists": [
+        {
+          "name": "Metty",
+          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
+        },
+        {
+          "name": "BeatItPunk",
+          "url": "https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115127,
+      "name": "Let It Drop Now",
+      "url": "https://open.spotify.com/track/1cXSm3bH8WLXZq6ad60pqA"
     },
     {
       "album": {
@@ -26776,7 +26860,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"

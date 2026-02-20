@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Badoxa",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 214512,
       "name": "Je T\u2019Aime",
       "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
@@ -5686,6 +5686,24 @@
       "duration_ms": 261333,
       "name": "Lavender Tulips",
       "url": "https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU"
+    },
+    {
+      "album": {
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
     },
     {
       "album": {
@@ -8360,6 +8378,24 @@
       "duration_ms": 195714,
       "name": "OQA?",
       "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
+    },
+    {
+      "album": {
+        "name": "Otu Padaz",
+        "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205301,
+      "name": "Otu Padaz",
+      "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
     },
     {
       "album": {

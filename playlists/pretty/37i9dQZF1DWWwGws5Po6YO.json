@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Natalia Tsupryk",
-  "num_followers": 136024,
+  "num_followers": 136044,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
+      },
+      "artists": [
+        {
+          "name": "Eva Tiedemann",
+          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
+        }
+      ],
+      "duration_ms": 326878,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Leave It",
-        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
-      },
-      "artists": [
-        {
-          "name": "Eva Tiedemann",
-          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
-        }
-      ],
-      "duration_ms": 326878,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 212432,
-      "name": "Air / Fire",
-      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+      "duration_ms": 212432,
+      "name": "Air / Fire",
+      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
     },
     {
       "added_at": "2025-11-06 10:55:12",

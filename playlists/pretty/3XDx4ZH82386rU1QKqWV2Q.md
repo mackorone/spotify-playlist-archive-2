@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,007,492 likes - 103 songs - 4 hr 32 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,007,413 likes - 106 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,11 +105,14 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 95 | [Better Not](https://open.spotify.com/track/5Anx0gSH15CC6sUnvAf9fK) | [Phulti](https://open.spotify.com/artist/7djBtVJQwzLAA6erntzjRZ), [Breeze.fm](https://open.spotify.com/artist/2K7u2STDek0m1mESrIMfdB) | [Continuum](https://open.spotify.com/album/7qoNUqv8uFSTuRBV8po3eh) | 3:36 |
 | 96 | [Hip Tropical](https://open.spotify.com/track/2uH0bEwYBUl5XXgg5mitgI) | [Spekt1](https://open.spotify.com/artist/3j6N09B3RizHZIgckXxODd) | [Hip Tropical](https://open.spotify.com/album/3998AQm3cQhVSIiKlz3YRW) | 2:54 |
 | 97 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
-| 98 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 |
-| 99 | [ENGULFED](https://open.spotify.com/track/0HJ9alp6CCs8Sjw1v0ghur) | [URAI](https://open.spotify.com/artist/1Aj3e5gRhbxeonF384jZeu), [Daunter](https://open.spotify.com/artist/36Bfcbr8mLMRPteWtBIm6Y) | [ENGULFED](https://open.spotify.com/album/267gE0laAHprmprrRiQVQV) | 2:30 |
-| 100 | [THE BATTLE BEGINS](https://open.spotify.com/track/3QbTL4HD6u4c7EyJ7oxg0w) | [4D4M](https://open.spotify.com/artist/17A1KbxuoeO6Puw00Hjddq) | [THE BATTLE BEGINS](https://open.spotify.com/album/5DPmLKNcIUDQSe1mO1pmp6) | 3:12 |
-| 101 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
-| 102 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
-| 103 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
+| 98 | [WITCH KING](https://open.spotify.com/track/7k9wcWVeFTJqA0Ahm1OPGL) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0) | [WITCH KING](https://open.spotify.com/album/4JizspVEZGHhDIf96n2eHc) | 3:08 |
+| 99 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 |
+| 100 | [ENGULFED](https://open.spotify.com/track/0HJ9alp6CCs8Sjw1v0ghur) | [URAI](https://open.spotify.com/artist/1Aj3e5gRhbxeonF384jZeu), [Daunter](https://open.spotify.com/artist/36Bfcbr8mLMRPteWtBIm6Y) | [ENGULFED](https://open.spotify.com/album/267gE0laAHprmprrRiQVQV) | 2:30 |
+| 101 | [THE BATTLE BEGINS](https://open.spotify.com/track/3QbTL4HD6u4c7EyJ7oxg0w) | [4D4M](https://open.spotify.com/artist/17A1KbxuoeO6Puw00Hjddq) | [THE BATTLE BEGINS](https://open.spotify.com/album/5DPmLKNcIUDQSe1mO1pmp6) | 3:12 |
+| 102 | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/track/7dbwG1A5kgE3J3n87jaSbB) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [Obsession \(Tu Cuerpo\)](https://open.spotify.com/album/0qKaUe66CNtPY4sJ2VqRKQ) | 3:20 |
+| 103 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
+| 104 | [DANGEL](https://open.spotify.com/track/06iHOxpiYLuTs12SwCtjs4) | [Leo Tea](https://open.spotify.com/artist/1oyzU7YP2sdBuWcIcW02WJ) | [DANGEL](https://open.spotify.com/album/6l51eKrRiufyPHgzhwLJaF) | 2:24 |
+| 105 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
+| 106 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 
-Snapshot ID: `AAAN8w/Ct7H5Z62GBpaajcmiBeu/869R`
+Snapshot ID: `AAAN9mmgwuEHjHZOvQha4uFhk3J5mcoo`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 24 min
+72 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Don't Cry](https://open.spotify.com/track/15aDD2ziZncde3QXRKLfuz) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE), [Invincible](https://open.spotify.com/artist/6g0jIZjw9GHR6J5wO1FD0u) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:15 | 2024-07-26 |  |
 | [Entr'acte](https://open.spotify.com/track/1067HAhb32M02it4c0thc3) | [The "City of Angels" Orchestra](https://open.spotify.com/artist/6DoxMWfNqfdWg457cq51cN), [Ben Parry](https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9), [Neil Rutherford](https://open.spotify.com/artist/7KlBcHcWIuBRRoH6RvpIjx), [Zoe Tyler](https://open.spotify.com/artist/6B88iwAJAiJPNgRRdfWz7t), [Annalene Beechey Yeo](https://open.spotify.com/artist/5nw1ZTTkArWIHXz5N9F7ZY) | [City Of Angels \(Original London Cast Recording\)](https://open.spotify.com/album/4sMKrmZOmrW6J9ohsk1K7I) | 2:25 | 2024-07-26 |  |
 | [Exit Music](https://open.spotify.com/track/5sWNZXypJP7Tanm44iDBxd) | [The "City of Angels" Orchestra](https://open.spotify.com/artist/6DoxMWfNqfdWg457cq51cN) | [City Of Angels \(Original London Cast Recording\)](https://open.spotify.com/album/4sMKrmZOmrW6J9ohsk1K7I) | 3:16 | 2024-07-26 |  |
-| [Finale](https://open.spotify.com/track/63oEJsWq9dPjXk7Ij4jQw4) | [Giorgio Gaslini Quartet](https://open.spotify.com/artist/0DJzYA6w2Bmfk08w1KLYwm) | [La notte \(Colonna sonora originale\)](https://open.spotify.com/album/06Obfykxo3930cHdZFYcZn) | 1:04 | 2024-07-26 |  |
+| [Finale](https://open.spotify.com/track/5FFsu8T2pXoiROk3yfy3mU) | [Giorgio Gaslini](https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF) | [Michelangelo Antonioni's La Notte \(Original Soundtrack\)](https://open.spotify.com/album/5lbHc5PRCrpfDpve9AgIBY) | 1:09 | 2026-02-19 |  |
+| [Finale](https://open.spotify.com/track/63oEJsWq9dPjXk7Ij4jQw4) | [Giorgio Gaslini Quartet](https://open.spotify.com/artist/0DJzYA6w2Bmfk08w1KLYwm) | [La notte \(Colonna sonora originale\)](https://open.spotify.com/album/06Obfykxo3930cHdZFYcZn) | 1:04 | 2024-07-26 | 2026-02-20 |
 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 | 2024-07-26 |  |
 | [Finale: I'm Way Ahead / Seesaw \(Reprise\)](https://open.spotify.com/track/0prfykw7pXMydHzBhgdfoK) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 4:35 | 2024-07-26 |  |
 | [He's Good For Me](https://open.spotify.com/track/6pI8QbTo4NrD892ny98Ezn) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:23 | 2024-07-26 |  |

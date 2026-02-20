@@ -52528,7 +52528,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -59613,6 +59613,24 @@
     },
     {
       "album": {
+        "name": "A esta invitamos nosotros",
+        "url": "https://open.spotify.com/album/192MAagOfqNj0muNXEjV08"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191959,
+      "name": "Joder Juan",
+      "url": "https://open.spotify.com/track/7hySicHwxWJNOgp3hXyYaw"
+    },
+    {
+      "album": {
         "name": "Joderse La Vida",
         "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
@@ -60614,6 +60632,24 @@
       "duration_ms": 132726,
       "name": "Kate Spade",
       "url": "https://open.spotify.com/track/0WOwHPlGnzLwr1X1e3uQW3"
+    },
+    {
+      "album": {
+        "name": "KATHARSIS",
+        "url": "https://open.spotify.com/album/2U74rtwrKI2R960UZYIexp"
+      },
+      "artists": [
+        {
+          "name": "Claudia Allmang",
+          "url": "https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KATHARSIS",
+      "url": "https://open.spotify.com/track/5QjWrqNPAIkiJH423LMJaf"
     },
     {
       "album": {
@@ -76214,7 +76250,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 224826,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
@@ -80438,7 +80474,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 248440,
       "name": "NI BORRACHO",
       "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
@@ -93517,6 +93553,28 @@
     },
     {
       "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
+    },
+    {
+      "album": {
         "name": "Profane Prophecy and Pharmacy Chronicles",
         "url": "https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U"
       },
@@ -106384,7 +106442,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 190066,
       "name": "somebody you're supposed to love",
       "url": "https://open.spotify.com/track/1CpHz13wMel8GRkyePoS03"

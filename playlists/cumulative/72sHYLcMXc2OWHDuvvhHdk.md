@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,077 songs - 5 day 1 hr 28 min
+2,079 songs - 5 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Küller Kadar](https://open.spotify.com/track/0IkfuOJj8Y8g83dIF2VSRS) | [Ricky Bendová](https://open.spotify.com/artist/1hMdAU7PB3IPucem8u0sDZ) | [Aşk vë Küllër](https://open.spotify.com/album/4taYLbGZdP6SIbeOHhMB2R) | 3:59 | 2025-09-01 |  |
 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 | 2025-12-26 |  |
 | [L'écho des oubliés](https://open.spotify.com/track/4apA7NWKXRPg1wHEdhLh66) | [Céphéria](https://open.spotify.com/artist/4LVg8QqMw4FTSE47yGE0TE) | [L'écho des oubliés](https://open.spotify.com/album/5MAXfz2aPc2ZZ9WLMxE8bf) | 2:29 | 2025-03-19 |  |
+| [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 | 2026-02-19 |  |
 | [L.S.D \(Loser's Song Doubtful\)](https://open.spotify.com/track/2NYhi8qcjPxSFfjRAiHdU1) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [L.S.D \(Loser's Song Doubtful\)](https://open.spotify.com/album/6hZqjdct3h1PaL0MKeJNUh) | 4:50 | 2024-09-09 |  |
 | [LA ASERTIVIDAD ES MUY IMPORTANTE](https://open.spotify.com/track/0IjvRAUObRWtHLTyMglvdf) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LA ASERTIVIDAD ES MUY IMPORTANTE](https://open.spotify.com/album/3NwqFze8NrznOmyiqrLJUZ) | 2:30 | 2025-08-18 |  |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-07-14 |  |
@@ -1500,6 +1501,7 @@
 | [Second Chance](https://open.spotify.com/track/7mwfO87ZHJ8pMcOTKI3PLk) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Second Chance](https://open.spotify.com/album/1EGpI3O7FK6iZ3vDJ3xCAH) | 3:22 | 2025-06-03 |  |
 | [See Through](https://open.spotify.com/track/1AP3U4LTYNGtp8iPcA6HTX) | [Purr Mewsik](https://open.spotify.com/artist/3J4qIfPcJpIifGVLyJLtmK) | [See Through](https://open.spotify.com/album/3oRiBE4ECbFUfmiDr6V3Yi) | 3:18 | 2024-08-20 |  |
 | [See Ya Later](https://open.spotify.com/track/1qTXVkW1njuiXG1Q5Ylmt4) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [See Ya Later](https://open.spotify.com/album/3GgelJKiRDuNaDH6uQEBAj) | 3:24 | 2025-03-19 |  |
+| [See You](https://open.spotify.com/track/0XvMeYc3tJX1bt6Nkt9uek) | [Harry Erikson](https://open.spotify.com/artist/61SNxBw2nVfWmUuiLDGvTP) | [The Breaker and The Bride](https://open.spotify.com/album/05y5v6Ei1lxTcHhuMl7URa) | 3:08 | 2026-02-19 |  |
 | [see you again](https://open.spotify.com/track/3JqzB6A8VOkeXDftbmRlRK) | [Cade Padilla](https://open.spotify.com/artist/1WHyjzUjNbOBjYJgFtUzrR) | [see you again](https://open.spotify.com/album/6BBduX3WLQwhtyy3esJiYA) | 3:15 | 2024-09-09 |  |
 | [Seen Through Different Eyes](https://open.spotify.com/track/6jYkvca1RD5glcvvwAZOnZ) | [Morning Haze](https://open.spotify.com/artist/49vfSJBSQWYwVfJxLBCrRq) | [Ominous Ascent](https://open.spotify.com/album/3zH5O08tq4i3ZGcqGZ6O29) | 2:09 | 2025-10-15 |  |
 | [Self Detective](https://open.spotify.com/track/2BGsMsTmSAEot2pYB7nXXD) | [Rylos](https://open.spotify.com/artist/0IkkUE0LHKcxh5Iiwwrtc9) | [Signs of Life](https://open.spotify.com/album/5K1DEGaBSx7nnioaEIITMH) | 2:42 | 2025-06-03 |  |

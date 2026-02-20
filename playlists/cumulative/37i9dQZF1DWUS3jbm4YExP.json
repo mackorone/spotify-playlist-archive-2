@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Ah, folie",
+      "url": "https://open.spotify.com/track/24JM4ud3syVE9zLYwC0m9s"
+    },
+    {
+      "album": {
         "name": "Panama! 2: Latin Sounds, Cumbia, Tropical & Calypso Funk on the Isthmus 1967-77",
         "url": "https://open.spotify.com/album/7CZ9cGjSjWHyCYaeh2ZmcA"
       },
@@ -11528,7 +11546,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"

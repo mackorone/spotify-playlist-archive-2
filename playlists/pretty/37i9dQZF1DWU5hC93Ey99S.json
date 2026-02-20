@@ -1,13 +1,29 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 223307,
+  "num_followers": 223424,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAumanz1M7roQwWWGSEQdIJwTUD1",
+  "snapshot_id": "AAAAAM4kCsLNthhFynE0SwjHcdo4TAQK",
   "tracks": [
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/04sxBKraebwT1MTT8QVLRH"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5bwYtX3yntv2IZOwwlZLyF"
+    },
     {
       "added_at": "2026-02-18 09:17:03",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 210234,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Feeling (Hold On You)",
+        "url": "https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+        }
+      ],
+      "duration_ms": 216969,
+      "name": "Feeling (Hold On You)",
+      "url": "https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt"
     },
     {
       "added_at": "2026-02-18 09:17:03",
@@ -123,6 +159,38 @@
     {
       "added_at": "2026-02-18 09:17:03",
       "album": {
+        "name": "dream about u",
+        "url": "https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq"
+      },
+      "artists": [
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 170172,
+      "name": "dream about u",
+      "url": "https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
+    },
+    {
+      "added_at": "2026-02-18 09:17:03",
+      "album": {
         "name": "Rest Easy",
         "url": "https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38"
       },
@@ -153,6 +221,26 @@
       "url": "https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E"
     },
     {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Night Blooming",
+        "url": "https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "pbeatgirl",
+          "url": "https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Night Blooming",
+      "url": "https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi"
+    },
+    {
       "added_at": "2026-02-18 09:17:03",
       "album": {
         "name": "Bette Davis Eyes",
@@ -167,6 +255,22 @@
       "duration_ms": 177133,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/61OaAsCGuUvp15rW1xQTsB"
+      },
+      "artists": [
+        {
+          "name": "abelon",
+          "url": "https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/1VaeVFSTtNTbjetfyRktsZ"
     },
     {
       "added_at": "2026-02-18 09:17:03",
@@ -191,22 +295,6 @@
     {
       "added_at": "2026-02-18 09:17:03",
       "album": {
-        "name": "dream about u",
-        "url": "https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq"
-      },
-      "artists": [
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 170172,
-      "name": "dream about u",
-      "url": "https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs"
-    },
-    {
-      "added_at": "2026-02-18 09:17:03",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
       },
@@ -227,6 +315,26 @@
       "duration_ms": 274174,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "You Don't Get That",
+        "url": "https://open.spotify.com/album/5Fl1fiWipozX23QTIi0hmd"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "You Don't Get That",
+      "url": "https://open.spotify.com/track/3CxH2LyvDzK9RIbObU4yx7"
     },
     {
       "added_at": "2026-02-18 09:17:03",
@@ -285,6 +393,26 @@
       "url": "https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5"
     },
     {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
+    },
+    {
       "added_at": "2026-02-18 09:17:03",
       "album": {
         "name": "HOLD ON",
@@ -315,6 +443,26 @@
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
     },
     {
       "added_at": "2026-02-18 09:17:03",

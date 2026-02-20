@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,391 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,392 likes - 50 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 12 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 |
 | 13 | [Filho Do Deus Vivo \- Ao Vivo](https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:34 |
 | 14 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
-| 15 | [Que Se Abram os Céus \- Ao Vivo](https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 7:51 |
-| 16 | [Pardal \- Ao Vivo](https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Pardal \(Ao Vivo\)](https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G) | 6:55 |
+| 15 | [Pardal \- Ao Vivo](https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Pardal \(Ao Vivo\)](https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G) | 6:55 |
+| 16 | [Que Se Abram os Céus \- Ao Vivo](https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 7:51 |
 | 17 | [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 |
 | 18 | [Meu Respirar \- Ao Vivo](https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly) | [Ministério Vineyard](https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem, Esta É a Hora \(Ao Vivo\)](https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT) | 5:55 |
 | 19 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \- Acústico](https://open.spotify.com/track/1FipKiLmgrDWGp8Uo6Tzya) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Em Casa \(Acústico\)](https://open.spotify.com/album/5Kvc037mncJXV6K8xk244Y) | 7:00 |
 | 50 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
 
-Snapshot ID: `aZOvgAAAAACsEnITQnlTdOtW98PI163Z`
+Snapshot ID: `aZUBAAAAAACA5i3mSs0eryUGmXEYbH3/`

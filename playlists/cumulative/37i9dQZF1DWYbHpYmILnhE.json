@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Body and soul",
+        "url": "https://open.spotify.com/album/44u8joI7d7YYgnIgUCw21G"
+      },
+      "artists": [
+        {
+          "name": "Kavan",
+          "url": "https://open.spotify.com/artist/6VmlDp06IyfK7aCiHm4HlM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162664,
+      "name": "Body and soul",
+      "url": "https://open.spotify.com/track/3LUtF47QFyvSeUvOgt1BJs"
+    },
+    {
+      "album": {
         "name": "BOMB O (Remix)",
         "url": "https://open.spotify.com/album/5DvURo9wd7asbPw2DDMhzK"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 209738,
       "name": "Gbege",
       "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 136985,
       "name": "Made in 042",
       "url": "https://open.spotify.com/track/5U33pujwshD1T2sPkkW6Xb"
@@ -1652,10 +1670,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 142285,
       "name": "NOT ALL THAT",
       "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
+    },
+    {
+      "album": {
+        "name": "Nzogbu",
+        "url": "https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1"
+      },
+      "artists": [
+        {
+          "name": "Zoro Swagbag",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Nzogbu",
+      "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
     },
     {
       "album": {
@@ -1824,7 +1864,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 189090,
       "name": "OPP (S)",
       "url": "https://open.spotify.com/track/753fMTMFUw8l2Ym9LZAA6x"
@@ -1981,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/6kLpkNA9EUBhTXw0N0kiZd"
+      },
+      "artists": [
+        {
+          "name": "Stahgee",
+          "url": "https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj"
+        },
+        {
+          "name": "Lordeyang",
+          "url": "https://open.spotify.com/artist/6v8leGUQLRwqN1MKGzcJow"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1ylPmbpG7ht7cbBHu9nGK5"
+    },
+    {
+      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61"
       },
@@ -2036,10 +2098,32 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167600,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/1msw3C3tbsyyWxdBJO1g53"
+    },
+    {
+      "album": {
+        "name": "Pompous",
+        "url": "https://open.spotify.com/album/11ICxLbYsJT0eZ4mIJ0upJ"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "Anti World Gangstars",
+          "url": "https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Pompous",
+      "url": "https://open.spotify.com/track/4EfHXHVSCcWt64s8EkBQ0j"
     },
     {
       "album": {
@@ -2560,6 +2644,24 @@
       "duration_ms": 161935,
       "name": "TO BE A MAN",
       "url": "https://open.spotify.com/track/6IAnHI2UYVJ8MCtdND5u9H"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Harteez",
+          "url": "https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV"
     },
     {
       "album": {

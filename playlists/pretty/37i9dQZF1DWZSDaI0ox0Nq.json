@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21898,
+  "num_followers": 21902,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Ofrenda Gaucha: Valsecito Amigo",
-        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
-        }
-      ],
-      "duration_ms": 165637,
-      "name": "Rosas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Ofrenda Gaucha: Valsecito Amigo",
+        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
+      },
+      "artists": [
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+        }
+      ],
+      "duration_ms": 165637,
+      "name": "Rosas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Argent\u00edgena",
-        "url": "https://open.spotify.com/album/4yRJ2W2Re3eeHGlQzI0soI"
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/2FCbijPKGnP3RfksJIcFiD"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Laura Antonelli",
-          "url": "https://open.spotify.com/artist/5tr45vqk4m3wj3HoMYjI9I"
+          "name": "Marisa V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
         }
       ],
-      "duration_ms": 218848,
-      "name": "Argent\u00edgena",
-      "url": "https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH"
+      "duration_ms": 210896,
+      "name": "Almagro 6 Am",
+      "url": "https://open.spotify.com/track/5J7dmruJ0TkUACHo5u57Qh"
     }
   ],
   "unique_name": "Mujeres del Tango",

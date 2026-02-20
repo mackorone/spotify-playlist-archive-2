@@ -11497,6 +11497,24 @@
     },
     {
       "album": {
+        "name": "Too Young To Know Better",
+        "url": "https://open.spotify.com/album/4Qp2LgbXKN2iRV2FlxI2oB"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Too Young To Know Better",
+      "url": "https://open.spotify.com/track/6eCMQk74tZWSqE7ptPfApk"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
@@ -12756,7 +12774,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 217226,
       "name": "You Make Me Feel So Good",
       "url": "https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB"

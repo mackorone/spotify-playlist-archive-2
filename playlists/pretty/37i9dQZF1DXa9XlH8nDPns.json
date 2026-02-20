@@ -1,6 +1,6 @@
 {
   "description": "Feelgood indie & roadtrip bangers",
-  "num_followers": 28874,
+  "num_followers": 28877,
   "original_name": "Happy Roadtrip",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-02-12 23:00:25",
       "album": {
-        "name": "Last Goodbyes",
-        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Last Goodbyes",
-      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:25",
-      "album": {
         "name": "Divinations",
         "url": "https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 236346,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a"
+    },
+    {
+      "added_at": "2026-02-12 23:00:25",
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
       "added_at": "2026-02-12 23:00:25",
@@ -695,22 +695,18 @@
     {
       "added_at": "2026-02-12 23:00:25",
       "album": {
-        "name": "Hot!",
-        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
       },
       "artists": [
         {
-          "name": "Chloe Parch\u00e9",
-          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
-        },
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 165230,
-      "name": "Hot!",
-      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "added_at": "2026-02-12 23:00:25",
@@ -731,18 +727,22 @@
     {
       "added_at": "2026-02-12 23:00:25",
       "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
         }
       ],
-      "duration_ms": 258939,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
     },
     {
       "added_at": "2026-02-12 23:00:25",

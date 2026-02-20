@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Live recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,692 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,719 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 10 | [If I Were a Carpenter \- Live at Woodstock \- 8/15/69](https://open.spotify.com/track/2obv0TqY1j7Vb4upuhA8Q8) | [Tim Hardin](https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb) | [Live at Woodstock](https://open.spotify.com/album/4VmjVpyer7H3NkDGqr79Ta) | 5:39 |
 | 11 | [My Generation \- Live](https://open.spotify.com/track/63AW5FZAu1eptxUpyznD2l) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Woodstock 1969 \- Live & Remastered](https://open.spotify.com/album/2Doo5Mn2uVMbpYFg8sE7TZ) | 2:24 |
 | 12 | [Hey Joe \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/3CPLiX94bQmtr0vGbl38MR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 5:52 |
-| 13 | [What's Wrong \- Live at Woodstock 1969 Version](https://open.spotify.com/track/1FGolefVk3rQ2Vo4KvyGwb) | [Sweetwater](https://open.spotify.com/artist/6f1OLKvr06mLIFI4UQaV8o) | [Cycles:The Reprise Collection](https://open.spotify.com/album/6PDqW000XWsUb9Mlqe5phc) | 10:23 |
+| 13 | [What's Wrong \- Live at Woodstock 1969 Version](https://open.spotify.com/track/1FGolefVk3rQ2Vo4KvyGwb) | [Sweet Water](https://open.spotify.com/artist/3uYAclQ4ATiIMow9QAQAxw) | [Cycles:The Reprise Collection](https://open.spotify.com/album/6PDqW000XWsUb9Mlqe5phc) | 10:23 |
 | 14 | [Feelin' Alright \- Live At Woodstock 1969](https://open.spotify.com/track/3SfuiaNcH3gMwBf9VsMrU5) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Live At Woodstock](https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW) | 5:23 |
 | 15 | [Suzie Q \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/5r2LpFOMcl33DHi9tsIO0B) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Live At Woodstock](https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY) | 10:52 |
 | 16 | [Sweet Sir Galahad \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/4SlvWwyLPlNXo4jgl6PupU) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Live At Woodstock](https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj) | 3:51 |

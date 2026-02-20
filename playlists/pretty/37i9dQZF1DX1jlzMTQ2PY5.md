@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,162 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,185 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 29 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 |
 | 30 | [Say It Again](https://open.spotify.com/track/6y9t7rwFLem4yfHKVP6Sid) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Say It Again](https://open.spotify.com/album/6O5uqaPX7wkrFUTsm28Zss) | 3:01 |
 | 31 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 |
-| 32 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
-| 33 | [Lakota \- LSB Remix](https://open.spotify.com/track/1cuOFKTqv183kejS7kX1tS) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(LSB Remix\)](https://open.spotify.com/album/3lECU226QLGeyEhjhmH83D) | 4:47 |
+| 32 | [Lakota \- LSB Remix](https://open.spotify.com/track/1cuOFKTqv183kejS7kX1tS) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(LSB Remix\)](https://open.spotify.com/album/3lECU226QLGeyEhjhmH83D) | 4:47 |
+| 33 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
 | 34 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
 | 35 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 36 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |

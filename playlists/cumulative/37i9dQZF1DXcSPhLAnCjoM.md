@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Virile" de Suzane est le Grand Hit de la semaine.
+> "Dis\-moi oui" de SANTA est le Grand Hit de la semaine.
 
-313 songs - 16 hr 4 min
+315 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-07-25 | 2025-01-24 |
 | [Café froid](https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Café froid](https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G) | 3:20 | 2025-10-02 | 2026-01-15 |
 | [Capitaine \(feat\. Styleto\)](https://open.spotify.com/track/084wxZBvCg1vToPvQqqaow) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:33 | 2024-02-22 | 2024-04-05 |
+| [Capuche](https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé 2](https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB) | 3:22 | 2026-02-19 |  |
 | [Ce qui me va](https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 2:35 | 2025-04-03 | 2025-09-27 |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 | 2024-10-04 |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-28 | 2024-04-26 |
@@ -206,7 +207,7 @@
 | [Ma faute](https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT) | 3:19 | 2025-02-27 | 2025-10-17 |
 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-01-30 | 2025-02-28 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 | 2024-11-28 | 2025-07-11 |
-| [Madame](https://open.spotify.com/track/0LUiwvQMAKngway2t7Bpcz) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Madame](https://open.spotify.com/album/3ndlLOz5cBu4KpgqMqc5sH) | 2:52 | 2026-01-01 |  |
+| [Madame](https://open.spotify.com/track/0LUiwvQMAKngway2t7Bpcz) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Madame](https://open.spotify.com/album/3ndlLOz5cBu4KpgqMqc5sH) | 2:52 | 2026-01-01 | 2026-02-20 |
 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 | 2024-08-22 | 2024-12-06 |
 | [Maintenant](https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:09 | 2024-06-06 | 2024-09-27 |
 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 | 2025-03-20 | 2025-10-03 |
@@ -253,6 +254,7 @@
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-12-12 | 2025-02-21 |
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2024-01-18 | 2024-10-25 |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-11-09 | 2024-06-07 |
+| [Qu'est\-ce qu'il me restera ?](https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nouveau souffle](https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb) | 2:22 | 2026-02-19 |  |
 | [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 | 2026-01-29 |  |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-11-07 | 2024-12-06 |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-06-19 | 2025-08-08 |
@@ -288,7 +290,7 @@
 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 | 2024-02-29 | 2024-06-21 |
 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 | 2025-09-18 |  |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2024-01-18 | 2024-05-17 |
-| [Toi jamais](https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Toi jamais](https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ) | 2:51 | 2025-09-25 |  |
+| [Toi jamais](https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Toi jamais](https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ) | 2:51 | 2025-09-25 | 2026-02-20 |
 | [Ton amoureuse](https://open.spotify.com/track/3GlDnq2U3v4cWdTYDWfw65) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 2:38 | 2024-10-24 | 2025-02-21 |
 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-13 | 2025-04-25 |
 | [Tour de France](https://open.spotify.com/track/4C0ZGFMFd8OrDwKHD9Fary) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:43 | 2024-04-18 | 2024-06-21 |

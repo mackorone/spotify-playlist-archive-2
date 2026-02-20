@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Måneskin
+> Only the best rock in the world\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,754 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,772 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 6 | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz) | 5:21 |
 | 7 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 |
 | 8 | [Eat You Alive](https://open.spotify.com/track/6Ovon17zVIzfrM1yocYFCq) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Eat You Alive](https://open.spotify.com/album/4hRbLo7BrpBh462vErwNuk) | 3:07 |
-| 9 | [Rearranging Scars \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rearranging Scars \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
+| 9 | [REARRANGING SCARS \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [REARRANGING SCARS \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
 | 10 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
 | 11 | [Frozen Lake](https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Frozen Lake](https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB) | 3:29 |
 | 12 | [Twisted Transistor](https://open.spotify.com/track/4ZtdRga62VjiFizf8USSdp) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On The Other Side \(20th Anniversary Edition \- Remastered\)](https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5) | 4:12 |

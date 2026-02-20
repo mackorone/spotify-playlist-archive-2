@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-260 songs - 15 hr 14 min
+262 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [In This Moment](https://open.spotify.com/track/5vTFHGoufP2kFhydvoTt2Q) | [Mastrovita](https://open.spotify.com/artist/4XU8dozOz0okhDgr9Fq3eN) | [In This Moment](https://open.spotify.com/album/7ssMajKQNW8ygR4XZLyzJ0) | 2:55 | 2025-07-18 |  |
 | [Indonésia Soul \- Vijay & Sofia Edit](https://open.spotify.com/track/1cMUUl8DqoYnhZOStuogQZ) | [TRIBU](https://open.spotify.com/artist/24v2ndq2chguERjYbsqwJI), [Vijay & Sofia Zlatko](https://open.spotify.com/artist/23BtKJexFLn0Ri6s7BEC4d) | [Indonésia Soul \(Vijay & Sofia Edit\)](https://open.spotify.com/album/2R4lDx9vmyGGPI9Rvuv42d) | 3:45 | 2025-06-19 |  |
 | [Inner City Angels](https://open.spotify.com/track/66Sd7TDvvrsOtRTo13ZFnD) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 4:00 | 2025-06-19 |  |
+| [Into The Fade](https://open.spotify.com/track/6pmdhuQoHaAWCogQeTTGKL) | [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Into The Fade](https://open.spotify.com/album/69p0g3iAGF9jmFjC8gWbv2) | 3:56 | 2026-02-20 |  |
 | [Into The Sun](https://open.spotify.com/track/1BSx14NN0neEd0NOkqfRcB) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Weekend Players](https://open.spotify.com/artist/5ucaLl0pdpWeigdCevjf6i) | [Into The Sun](https://open.spotify.com/album/68Z0N3jeqDLhMHlrwL2wPk) | 2:50 | 2025-06-19 |  |
 | [Intracity \- Original Mix](https://open.spotify.com/track/27SyjyowIBBihbN6Etf0qY) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Intracity](https://open.spotify.com/album/5iJZ8SgQ3LC7t1nMb2lXWZ) | 7:56 | 2025-07-18 |  |
 | [Iris \(My Love\)](https://open.spotify.com/track/59XkOP6G7Pa5Okiyi0HpT6) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [Iris \(My Love\)](https://open.spotify.com/album/4gsSkPd9X4RtFzv2Fg5xAk) | 2:35 | 2025-12-05 |  |
@@ -189,6 +190,7 @@
 | [Redlight](https://open.spotify.com/track/2D15yebXDnUhavk5tBcRGs) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Metamorphoze](https://open.spotify.com/album/7cGmjoJiTfhkrZbdEX9j7s) | 3:19 | 2025-06-19 | 2025-09-26 |
 | [Redlight](https://open.spotify.com/track/4IsdObE3TpsY1XJUXvFcBu) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Redlight](https://open.spotify.com/album/0iC99h9yjKxHBZ7eiKYoVo) | 3:22 | 2025-09-26 |  |
 | [Reliquia \- German Brigante Remix](https://open.spotify.com/track/17qNEAUYgyRsfiQ1Loy2Ku) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Paji](https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ), [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [Entourage \(Remixed\)](https://open.spotify.com/album/1VQ6JoAWmjo2EZqcm5i0vz) | 3:29 | 2025-06-19 |  |
+| [Resolved](https://open.spotify.com/track/3CyTacX5VCHuDhkJaORu84) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd) | [Resolved](https://open.spotify.com/album/67mjNfaAkCvMTEzL0D1fa6) | 2:44 | 2026-02-20 |  |
 | [Resource \- ReChill](https://open.spotify.com/track/4s5HHU7R2gIwDAXSb50LFY) | [Re:Locate](https://open.spotify.com/artist/6xCpROdQDyjULgekyUtW3u), [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Armada Lounge, Vol\. 5 \(The Best Downtempo Songs For Your Listening Pleasure\)](https://open.spotify.com/album/1ageCsoBRZ9zOYgtdmN2SX) | 3:41 | 2025-08-01 |  |
 | [Rhea \- Chillout Mix](https://open.spotify.com/track/5OlKORlfA8OT4gbxeXpfxt) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Neptune Project](https://open.spotify.com/artist/3G0VlbwfjmeZO33pyp09IY) | [Unfold](https://open.spotify.com/album/6wsKImQnKlNQEKoK6nbJGf) | 2:31 | 2025-06-19 |  |
 | [Ritual](https://open.spotify.com/track/0KXMlfLPxY8bWv93FhBYve) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:08 | 2025-06-19 |  |

@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-120 songs - 6 hr 51 min
+121 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2026-01-06 |  |
 | [Punto Cero](https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Punto Cero](https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO) | 3:41 | 2026-01-10 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 |  |
+| [Resplandor](https://open.spotify.com/track/470q0uES7555MaiDrMXxDh) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Resplandor](https://open.spotify.com/album/2eJ7zfBLPHBEBym0BEOWHv) | 3:21 | 2026-02-19 |  |
 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 |  |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 | 2025-12-09 |

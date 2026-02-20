@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Face Yourself
 
-772 songs - 2 day 1 hr 20 min
+774 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Berserker](https://open.spotify.com/track/650R4q7Hv0g7K1b2rlPXH6) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Berserker](https://open.spotify.com/album/1bDfE45bgk86NAfuiKesrP) | 3:58 | 2022-01-14 | 2022-07-24 |
 | [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation](https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3) | 3:04 | 2023-07-21 | 2024-03-09 |
 | [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 | 2024-09-21 |
+| [Betrayer](https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn) | [Obey The Kraken](https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx) | [Betrayer](https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4) | 3:29 | 2026-02-13 |  |
 | [Birth of the Butcher](https://open.spotify.com/track/7vsIRXXqtHBFbEhcd9lwtB) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Birth of the Butcher](https://open.spotify.com/album/4Zvc0dmE82sOd9sg4RDZc7) | 4:46 | 2021-12-17 | 2022-07-29 |
 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 | 2021-12-17 | 2022-07-26 |
 | [Black Colors](https://open.spotify.com/track/1RaP9HvKpIICb0HFWFjX5m) | [Victim Of Deception](https://open.spotify.com/artist/0EiohUJSIPGACElZ7CE5S5) | [VoD vs LDD](https://open.spotify.com/album/14wWJX2bVWtyIhiRNf2g8x) | 4:07 | 2021-12-17 | 2022-02-10 |
@@ -179,6 +180,7 @@
 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 | 2023-01-20 |  |
 | [Dead Rabbit](https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0) | 3:11 | 2023-02-24 | 2025-03-15 |
 | [Dead Rabbit](https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb) | 3:11 | 2023-12-13 | 2024-04-19 |
+| [Dead Rose](https://open.spotify.com/track/2rJO63oX3KWb8AxlB8CYw8) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V) | [Fractured Will](https://open.spotify.com/album/5beAtnW30xf56o0OrPiRuC) | 4:13 | 2026-02-13 |  |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-12-16 | 2025-03-15 |
 | [Deadweight](https://open.spotify.com/track/5JqdZgMCEITkn0OOTwcy6W) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l), [HÅRD](https://open.spotify.com/artist/19a9qG4dOIBeBS6h2agtls) | [Deadweight](https://open.spotify.com/album/1Kqk4KaVjjCQjHGNXEGPzc) | 2:52 | 2025-03-14 | 2025-04-22 |
 | [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 | 2023-12-13 | 2024-04-19 |
@@ -244,7 +246,7 @@
 | [Ether](https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Ether](https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615) | 3:05 | 2025-10-17 |  |
 | [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 | 2024-08-24 |
 | [Evergreen](https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U) | [In Gloom](https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2) | [In Gloom II: True Violence and All the Terror That Comes With It](https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X) | 3:39 | 2025-05-02 | 2025-08-06 |
-| [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 |  |
+| [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 | 2026-02-20 |
 | [Everything Bleeds](https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY) | 2:42 | 2023-06-16 | 2025-03-15 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [EVOLVE](https://open.spotify.com/track/3J8zKMWojpAtSvyJbDHhJZ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [EVOLVE](https://open.spotify.com/album/52jS26ckoo4FxrDuzH75JV) | 3:01 | 2025-11-04 | 2026-02-19 |
@@ -668,7 +670,7 @@
 | [THE FINAL GATE](https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [THE FINAL GATE](https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N) | 3:04 | 2025-08-22 |  |
 | [The Gallow](https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Gallow](https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1) | 4:58 | 2023-12-13 | 2024-10-19 |
 | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/track/2owXgJfvIVH29Nsz2b1ETa) | [Blindfolded and Led to the Woods](https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C) | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/album/3nDaZvMPDBa3ZKtx60mISJ) | 4:12 | 2025-10-10 | 2026-01-25 |
-| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 |  |
+| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 | 2026-02-20 |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-06-12 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2021-12-17 | 2022-07-25 |
 | [The Maker](https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [The Maker](https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz) | 3:06 | 2026-02-13 |  |

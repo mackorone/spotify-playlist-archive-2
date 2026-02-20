@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Steve Ibrahim
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,119 likes - 68 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,115 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

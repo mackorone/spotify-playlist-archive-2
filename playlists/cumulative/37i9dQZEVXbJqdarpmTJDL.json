@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 263216,
       "name": "ALITHINO",
       "url": "https://open.spotify.com/track/4AT728QCnektzxr2fsgNa9"
@@ -37986,7 +37986,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -38668,6 +38668,24 @@
       "duration_ms": 163200,
       "name": "PARWN",
       "url": "https://open.spotify.com/track/7IrrM6awO3nmQTPHOjSsFr"
+    },
+    {
+      "album": {
+        "name": "PAR\u00c9A",
+        "url": "https://open.spotify.com/album/3jC6c4UCOOzX2DE6KGCxFV"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178403,
+      "name": "PAR\u00c9A",
+      "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
     },
     {
       "album": {
@@ -40786,7 +40804,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 235000,
       "name": "Primo",
       "url": "https://open.spotify.com/track/484mTE7ETTJk74VKjTTI5f"

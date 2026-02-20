@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12225,
+  "num_followers": 12229,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAALRT5uWNxnkDCBnVeCsXlr",
+  "snapshot_id": "aZUBAAAAAAAftk6OrRp9frqpdVRIOBIj",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girlie 'O' (Remix)",
+        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 235514,
+      "name": "Girlie 'O' - Remix",
+      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -419,22 +439,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girlie 'O' (Remix)",
-        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
+        "name": "A.W.A.M.",
+        "url": "https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 235514,
-      "name": "Girlie 'O' - Remix",
-      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
+      "duration_ms": 219375,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK"
     },
     {
       "added_at": null,
@@ -475,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -507,6 +515,22 @@
       "duration_ms": 186782,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
     },
     {
       "added_at": null,
@@ -611,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing My Name",
-        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
-      },
-      "artists": [
-        {
-          "name": "MzVee",
-          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 214769,
-      "name": "Sing My Name",
-      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -651,6 +655,26 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing My Name",
+        "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 214769,
+      "name": "Sing My Name",
+      "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
     },
     {
       "added_at": null,
@@ -991,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heal D World",
+        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Heal D World",
+      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -1007,22 +1047,6 @@
       "duration_ms": 175316,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heal D World",
-        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Heal D World",
-      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
     },
     {
       "added_at": null,
@@ -1047,26 +1071,6 @@
       "duration_ms": 191829,
       "name": "Grateful (feat. Soweto Spiritual Singers)",
       "url": "https://open.spotify.com/track/2OUkyY3ibF5RNw29ssSFOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
-      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
     }
   ],
   "unique_name": "This Is Patoranking",

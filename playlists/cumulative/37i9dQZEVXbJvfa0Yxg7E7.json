@@ -17155,6 +17155,28 @@
     },
     {
       "album": {
+        "name": "Gro Harlem Brundtland",
+        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168390,
+      "name": "Gro Harlem Brundtland",
+      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
+    },
+    {
+      "album": {
         "name": "Nabolagets Helter",
         "url": "https://open.spotify.com/album/09prVF1uylWy2MfPLiY5f1"
       },
@@ -27750,7 +27772,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 205846,
       "name": "Love Built This Home (feat. Red Luna)",
       "url": "https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0"

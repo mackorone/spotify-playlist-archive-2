@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 184931,
+  "num_followers": 184952,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
+        "name": "Sigue Pegando",
+        "url": "https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 340893,
+      "name": "Lo Artesanal - Remix",
+      "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
         "name": "Tierra Nueva",
         "url": "https://open.spotify.com/album/3TAG7YqTx1HWro5apt2FWe"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 178426,
       "name": "Ventana",
       "url": "https://open.spotify.com/track/0eZFAjtqZSw5cXVb4vmxVx"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
-        "name": "Incompleto - 20 Rocanroles 20",
-        "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
+        "name": "Incompleto - 20 Rocanroles 20",
+        "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
         "name": "Seremos",
         "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
-        "name": "Sigue Pegando",
-        "url": "https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT"
+        "name": "P\u00e1nico",
+        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
         }
       ],
-      "duration_ms": 340893,
-      "name": "Lo Artesanal - Remix",
-      "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
+      "duration_ms": 162360,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -663,22 +679,6 @@
       "duration_ms": 270193,
       "name": "Ultraliviano",
       "url": "https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
-        "name": "P\u00e1nico",
-        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
-        "name": "El D\u00eda Fuera Del Tiempo",
-        "url": "https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0"
-      },
-      "artists": [
-        {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1UfHgz5id14xWolin07RNW"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
         "name": "\u00a1Eureka!",
         "url": "https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 382746,
       "name": "Unos Versos",
       "url": "https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
+        "name": "El D\u00eda Fuera Del Tiempo",
+        "url": "https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1UfHgz5id14xWolin07RNW"
     },
     {
       "added_at": "2025-11-20 12:07:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
-        "name": "no me mires as\u00ed",
-        "url": "https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 146139,
-      "name": "no me mires as\u00ed",
-      "url": "https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
         "name": "Ya No Somos Dos Ahora",
         "url": "https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185960,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
+        "name": "no me mires as\u00ed",
+        "url": "https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 146139,
+      "name": "no me mires as\u00ed",
+      "url": "https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV"
     },
     {
       "added_at": "2025-11-20 12:07:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 513 likes - 73 songs - 4 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 517 likes - 78 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,10 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 71 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
 | 72 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 |
 | 73 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 |
+| 74 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 |
+| 75 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 |
+| 76 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 |
+| 77 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 |
+| 78 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
 
-Snapshot ID: `AAACwi90UKxtWhhmwWhwjIcM7Ea3mn8w`
+Snapshot ID: `AAACx2PGvsmjkxf8TW9pBfuJwAlCrLv+`

@@ -4,7 +4,7 @@
 
 > 📸 Bad Bunny
 
-649 songs - 1 day 9 hr 44 min
+650 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-05 | 2022-10-28 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-05 | 2025-09-26 |
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-24 | 2025-08-29 |
+| [TENGO UN FEELING](https://open.spotify.com/track/1toIsvoqn3HCpdetMXk2sJ) | [PEPU](https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8), [Pizzu](https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY) | [EL ÁLBUM DEL VERANO](https://open.spotify.com/album/1JM2BMHpt2pTdaIpw2Jxtb) | 3:17 | 2026-02-19 |  |
 | [TENGO UN FEELING](https://open.spotify.com/track/4ezApj4UvVqLOtxdXUOLMb) | [PEPU](https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8), [Pizzu](https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY) | [TENGO UN FEELING](https://open.spotify.com/album/6x0R5etnad2YtJ8aobqMoU) | 3:17 | 2026-02-02 |  |
 | [Tengo Una Cadena](https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Tengo Una Cadena](https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN) | 2:00 | 2025-05-23 | 2025-08-16 |
 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 | 2024-08-01 | 2025-01-10 |
@@ -615,7 +616,7 @@
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-08-30 | 2025-03-14 |
 | [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 | 2025-08-14 |  |
 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 | 2025-07-04 | 2025-09-21 |
-| [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-03-20 |  |
+| [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-03-20 | 2026-02-20 |
 | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI) | 2:53 | 2025-07-04 | 2025-08-16 |
 | [Vida De Rock](https://open.spotify.com/track/26y2gBrbiFJIOUjIlSQfdH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:01 | 2024-11-01 | 2024-12-13 |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2023-01-19 | 2023-06-23 |

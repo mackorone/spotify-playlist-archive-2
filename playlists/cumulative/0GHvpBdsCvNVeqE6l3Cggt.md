@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-86 songs - 5 hr 8 min
+88 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
 | [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 | 2025-12-30 | 2026-01-29 |
+| [Ocean](https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg) | [S\. Lithgow](https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE) | [Ocean](https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc) | 4:43 | 2026-02-19 |  |
 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 | 2025-12-01 | 2025-12-13 |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2025-12-29 | 2026-01-29 |
 | [Panorama](https://open.spotify.com/track/2ujuuoIQYTGRuHi21rHsq4) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/28RHd7GLjkq20xYnll14Sf) | 2:48 | 2025-10-13 |  |
@@ -76,6 +77,7 @@
 | [Sunday Evening](https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw) | [kroonch](https://open.spotify.com/artist/3XwKaQzzykRkBs7rLY5avT) | [Sunday Evening](https://open.spotify.com/album/3Mxh22R5GYKdxkbqt0KXO8) | 2:22 | 2025-11-29 | 2025-12-13 |
 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2021-03-29 |  |
 | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/track/4MUwRHicTU3bgH6i9zT10F) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/album/7dyB0mktazVU8ZnPAr27iK) | 4:07 | 2025-11-13 | 2025-12-12 |
+| [That's What We Believe](https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [Live for Today](https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu) | 4:11 | 2026-02-19 |  |
 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 | 2021-07-26 |  |
 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 | 2025-12-09 | 2025-12-28 |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-29 |  |

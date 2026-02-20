@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
+  "description": "Where afrobeats meets amapiano.\nCover:  Mavo",
   "name": "afro-piano",
   "tracks": [
     {
@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -248,7 +270,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155783,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
@@ -1021,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "God is working",
+        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "God is working",
+      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+    },
+    {
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 220714,
       "name": "Kautaka - Remix",
       "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
@@ -1650,7 +1690,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 235789,
       "name": "Louder (feat. Ayo Maff & Bella Shmurda)",
       "url": "https://open.spotify.com/track/5nRbkLjmA6IoeJ8megl81f"
@@ -2106,10 +2146,28 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 134000,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4glhIguPffJvNy5omJxw5U"
+    },
+    {
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172716,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
     },
     {
       "album": {
@@ -2462,6 +2520,24 @@
       "duration_ms": 357024,
       "name": "Shona Phantsi / On Da Floor",
       "url": "https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa"
+    },
+    {
+      "album": {
+        "name": "Slogodo",
+        "url": "https://open.spotify.com/album/3Z78cjTSFtGrt51uLa6OGS"
+      },
+      "artists": [
+        {
+          "name": "St. Seii",
+          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "Slogodo",
+      "url": "https://open.spotify.com/track/5WQnzL9Phe9clUJ9lKSGEQ"
     },
     {
       "album": {

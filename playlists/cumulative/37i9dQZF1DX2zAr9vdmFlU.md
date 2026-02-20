@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-286 songs - 18 hr 2 min
+287 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Miedo](https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Today Mañana](https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M) | 3:54 | 2024-05-17 |  |
 | [Mofongo](https://open.spotify.com/track/09FxzLf2KRfDpXbJWIdmE3) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Mofongo](https://open.spotify.com/album/02f0PqumrnL0YhbcxtxgLU) | 2:51 | 2021-12-09 | 2022-11-13 |
 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 | 2021-12-09 | 2024-07-10 |
-| [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 |  |
+| [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 | 2026-02-20 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 | 2023-12-14 |
 | [Mozo](https://open.spotify.com/track/6UYnSpITCrCWsmgjFwK3u0) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mozo](https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo) | 3:47 | 2021-12-09 | 2022-07-29 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2022-01-01 | 2023-03-08 |
@@ -218,6 +218,7 @@
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2022-01-01 | 2024-04-19 |
 | [Pra Manha](https://open.spotify.com/track/2d9qr42YiIJ4EXebh7PSFz) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Late Night Tales: Another Late Night \- Zero 7 \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/3RHjlzQbBixfj7mgmLDbFM) | 6:13 | 2022-01-01 | 2022-07-25 |
 | [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 | 2023-03-07 |  |
+| [Que Alguien Me Diga \- En Vivo](https://open.spotify.com/track/1UQB7AlBK4X3hTPbSHOXJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Íntimo \(En Vivo\)](https://open.spotify.com/album/5gxFzD2Aew2LN9fcvezK2m) | 4:36 | 2026-02-19 |  |
 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2021-12-09 | 2023-03-08 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/3t9LQp3NX9956wJJk4pGF6) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Que Te Vaya Bonito](https://open.spotify.com/album/6jXqFKL1GePpeDxcpK9cPr) | 3:20 | 2021-12-09 | 2022-07-29 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 | 2022-01-01 | 2024-04-19 |

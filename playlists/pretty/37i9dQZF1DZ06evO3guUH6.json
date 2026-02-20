@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1077329,
+  "num_followers": 1077415,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACXF1DVEQE6xOoVxLMReYbj",
+  "snapshot_id": "aZUBAAAAAAA6pWyZLfB15Wg82oaWVzWs",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e1",
-        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
       "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Volver\u00e1",
-      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
+      "duration_ms": 159111,
+      "name": "Se Vienen D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
     },
     {
       "added_at": null,
@@ -435,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+        "name": "Volver\u00e1",
+        "url": "https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr"
       },
       "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 159111,
-      "name": "Se Vienen D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
+      "duration_ms": 172600,
+      "name": "Volver\u00e1",
+      "url": "https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 144640,
-      "name": "Me Toc\u00f3 Morir",
-      "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 3)",
         "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 201409,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "Me Toc\u00f3 Morir",
+      "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
     },
     {
       "added_at": null,

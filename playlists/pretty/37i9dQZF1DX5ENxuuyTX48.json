@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Bernadya",
-  "num_followers": 27061,
+  "num_followers": 27062,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
+        "name": "Menerima Luka",
+        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
+      },
+      "artists": [
+        {
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+        }
+      ],
+      "duration_ms": 228073,
+      "name": "Menerima Luka",
+      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
+    },
+    {
+      "added_at": "2026-01-30 11:45:04",
+      "album": {
         "name": "Puting Beliung",
         "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 209040,
       "name": "Alamak",
       "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
-    },
-    {
-      "added_at": "2026-01-30 11:45:04",
-      "album": {
-        "name": "Menerima Luka",
-        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
-      },
-      "artists": [
-        {
-          "name": "Natasya Sabella",
-          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
-        }
-      ],
-      "duration_ms": 228073,
-      "name": "Menerima Luka",
-      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
     },
     {
       "added_at": "2026-01-30 11:45:04",
@@ -879,26 +879,18 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
-        "url": "https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ"
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
       },
       "artists": [
         {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
         }
       ],
-      "duration_ms": 235784,
-      "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
-      "url": "https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4"
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     }
   ],
   "unique_name": "OTW",

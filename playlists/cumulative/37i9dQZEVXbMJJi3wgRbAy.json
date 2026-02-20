@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176720,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/6lHmVCdbcAx8M4qjO3I6hD"
@@ -24580,6 +24580,24 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
+    },
+    {
+      "album": {
+        "name": "Estado de Enlace",
+        "url": "https://open.spotify.com/album/2KczQy95f5dMmdrRIsshdx"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240218,
+      "name": "T\u00fanel de la Vida",
+      "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"
     },
     {
       "album": {

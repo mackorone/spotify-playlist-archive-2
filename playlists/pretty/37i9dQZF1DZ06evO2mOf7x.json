@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47100,
+  "num_followers": 47104,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACZJ1/oGchIfwuisJBRKuXR",
+  "snapshot_id": "aZUBAAAAAAD3dJ9DPFv2lkijfwhxk0YY",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 172514,
       "name": "Reza y Reza",
       "url": "https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Y Siempre",
-      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor y Veneno",
         "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
       },
@@ -919,22 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
       },
       "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
+      "duration_ms": 230493,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
     },
     {
       "added_at": null,
@@ -955,6 +935,26 @@
       "duration_ms": 234208,
       "name": "Amor Perfecto",
       "url": "https://open.spotify.com/track/1VKQJRwGOEZn0eHa1bPsDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,

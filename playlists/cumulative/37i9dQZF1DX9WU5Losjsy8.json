@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 182608,
       "name": "Auf dem Besen an den Tresen",
       "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
@@ -354,6 +354,24 @@
       "duration_ms": 231424,
       "name": "Auffe aufn Berg",
       "url": "https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz"
+    },
+    {
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 123636,
       "name": "Bruttosozialprodukt 2025",
       "url": "https://open.spotify.com/track/5UVm9WJ5KgqahUKjpjP5pU"
@@ -3392,6 +3410,28 @@
       "duration_ms": 183133,
       "name": "Schau mal herein",
       "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
+    },
+    {
+      "album": {
+        "name": "Schaukelpferd",
+        "url": "https://open.spotify.com/album/0W9x3dzwrx05nF5aqAzq4k"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181448,
+      "name": "Schaukelpferd",
+      "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
     },
     {
       "album": {

@@ -15358,7 +15358,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152416,
       "name": "Cuerno Azulado",
       "url": "https://open.spotify.com/track/3NujAw2rFo1XtbjubBuAlo"
@@ -17908,7 +17908,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -25463,6 +25463,28 @@
     },
     {
       "album": {
+        "name": "Braille EP",
+        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
+      },
+      "artists": [
+        {
+          "name": "Mene",
+          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fortnite",
+      "url": "https://open.spotify.com/track/0HNiyzIg6hH5GTibGiw0gl"
+    },
+    {
+      "album": {
         "name": "Fotograf\u00eda",
         "url": "https://open.spotify.com/album/0v4Vfes63fOPtXsoIUzZvV"
       },
@@ -27700,7 +27722,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -42384,7 +42406,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -44984,6 +45006,24 @@
     {
       "album": {
         "name": "No Me Debes Nada",
+        "url": "https://open.spotify.com/album/49dNgKUXcEmhXpWETfphHh"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256162,
+      "name": "No Me Debes Nada",
+      "url": "https://open.spotify.com/track/1ibwh3Ne8ywnVNdeI4sDK2"
+    },
+    {
+      "album": {
+        "name": "No Me Debes Nada",
         "url": "https://open.spotify.com/album/6DPJieG975akEr4ZmVDlZa"
       },
       "artists": [
@@ -44994,7 +45034,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -51268,7 +51308,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159786,
       "name": "Polvo Rosita",
       "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
@@ -59002,7 +59042,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 256279,
       "name": "Sin ti",
       "url": "https://open.spotify.com/track/6mCasC1JaDUFKhPHgecHeO"
@@ -65050,7 +65090,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 166857,
       "name": "TITAPU",
       "url": "https://open.spotify.com/track/7zId2qpErETlJOQRL4is9N"

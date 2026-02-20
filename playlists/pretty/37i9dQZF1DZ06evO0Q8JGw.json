@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 799551,
+  "num_followers": 799599,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACphgyKWZoDkJtvu0jH0nK5",
+  "snapshot_id": "aZUBAAAAAACoJfkTzWzcXZxhfLY3+fgy",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 192590,
-      "name": "Go - Remastered",
-      "url": "https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262893,
       "name": "Future Days",
       "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 192590,
+      "name": "Go - Remastered",
+      "url": "https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot Act",
-        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Thumbing My Way",
-      "url": "https://open.spotify.com/track/42JkURlKrerwh2JdlwEkg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yield",
         "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 299706,
       "name": "In Hiding",
       "url": "https://open.spotify.com/track/4Pd29XwNou8SVdjcoVR4WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot Act",
+        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Thumbing My Way",
+      "url": "https://open.spotify.com/track/42JkURlKrerwh2JdlwEkg4"
     },
     {
       "added_at": null,

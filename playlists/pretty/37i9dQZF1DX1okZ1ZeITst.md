@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Sing along with Angel to "Glitter Glide" and other Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,464 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,770 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 51 | [It's All Right \- From "Soul"/Duet Version](https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [It's All Right \(From "Soul"/Duet Version\)](https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f) | 2:49 |
 | 52 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 53 | [Reflection \- From "Mulan" / Soundtrack Version](https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:26 |
-| 54 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 |
+| 54 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Donald Glover](https://open.spotify.com/artist/7tlzFDl81KD9RL045ewyIA), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 |
 | 55 | [Colors of the Wind](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 3:34 |
 | 56 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
 | 57 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
-  "num_followers": 33873,
+  "num_followers": 33876,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
-      },
-      "artists": [
-        {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 211818,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
         },
         {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+          "name": "Domenico Candellori",
+          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Giuramento (feat. Gabriele Mirabassi)",
-      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+      "duration_ms": 245200,
+      "name": "Southern Dub",
+      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
       "artists": [
         {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
         },
         {
-          "name": "Domenico Candellori",
-          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Southern Dub",
-      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+      "duration_ms": 165573,
+      "name": "Giuramento (feat. Gabriele Mirabassi)",
+      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Comes Love",
         "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 292720,
       "name": "Le Tue Mani",
       "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Grammegna",
         "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 285981,
       "name": "Grammegna",
       "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Utopia I",
-        "url": "https://open.spotify.com/album/6nVJk2IN0Plt0Zptn6ZL9J"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Utopia I",
-      "url": "https://open.spotify.com/track/4AfJTaxPS3wca8vn7arI5x"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1707,6 +1691,38 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Utopia I",
+        "url": "https://open.spotify.com/album/6nVJk2IN0Plt0Zptn6ZL9J"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Utopia I",
+      "url": "https://open.spotify.com/track/4AfJTaxPS3wca8vn7arI5x"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1767,22 +1767,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1815,6 +1799,22 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Dualism",
-        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
+        "name": "Floema",
+        "url": "https://open.spotify.com/album/3R97Dopu5hY3dHLPTyaWDV"
       },
       "artists": [
         {
-          "name": "N\u0101dt Orchestra",
-          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
+          "name": "Faer",
+          "url": "https://open.spotify.com/artist/4RBPgkSEkLWLWrqRXp1uh3"
         }
       ],
-      "duration_ms": 281466,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
+      "duration_ms": 109467,
+      "name": "Desi",
+      "url": "https://open.spotify.com/track/049UzE2dAeKVtc6D8DZNfo"
     },
     {
       "added_at": "2026-02-05 23:01:01",

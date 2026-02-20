@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 333044,
+  "num_followers": 333127,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAADQ/aCr3Q0NcXTBJBsr4JsE",
+  "snapshot_id": "aZUBAAAAAAD4P0LJFunaPrOnR9h8vs5Q",
   "tracks": [
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Cry",
-        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Devil Go Away (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 196053,
       "name": "Whiskey Bent (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Devil Go Away (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
     },
     {
       "added_at": null,

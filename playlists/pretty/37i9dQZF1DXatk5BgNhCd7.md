@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical, Elsa y Elmar<br/> 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,542 likes - 49 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,555 likes - 49 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 9 | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp) | 6:15 |
 | 10 | [Llorar](https://open.spotify.com/track/6hXTP9qeoTlFcQI47v5aJB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Cucombia](https://open.spotify.com/album/3JWWWYhb5qiRqLewY7hXUs) | 3:23 |
 | 11 | [Desamor Verdadero](https://open.spotify.com/track/7JDqTjD4uvZmq5YmUPIgMC) | [Negret](https://open.spotify.com/artist/3AjJw0OlVb2zZlDnZ5rgPH) | [Desamor Verdadero](https://open.spotify.com/album/40gJePPAbBRGg240cVpnMo) | 2:42 |
-| 12 | [Quédate](https://open.spotify.com/track/4jjiK1IXSFDvhzOKpdyQu3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [El Amor Nunca Muere](https://open.spotify.com/album/6y581GrhaWzL0OSa0DvKg6) | 3:10 |
+| 12 | [Y Quédate](https://open.spotify.com/track/4jjiK1IXSFDvhzOKpdyQu3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [El Amor Nunca Muere](https://open.spotify.com/album/6y581GrhaWzL0OSa0DvKg6) | 3:10 |
 | 13 | [Cómo Te Atreves](https://open.spotify.com/track/59cfhcTgrAJ8AcdWiw47Z7) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN), [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Cómo Te Atreves](https://open.spotify.com/album/56FfwY8N6vvpALtczkWJ0W) | 4:16 |
 | 14 | [LLUEVE: En Big Band 30 Años](https://open.spotify.com/track/1WdJQViEJWIGm3G8Pc8TRi) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM), [Juan Carlos Coronel](https://open.spotify.com/artist/7BM4VM2987j5qgnTkFjYMr) | [LLUEVE: En Big Band 30 Años](https://open.spotify.com/album/6NIEc8q99giM4gMt6WBCDB) | 8:23 |
 | 15 | [Como en el Idilio](https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Como en el Idilio](https://open.spotify.com/album/41JrkRjJsRo8EgXELTlhsn) | 4:27 |

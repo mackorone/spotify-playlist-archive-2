@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: The Incredibles
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Blacks Jnr
 
-532 songs - 1 day 23 hr 6 min
+533 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Klap Klap](https://open.spotify.com/track/3GGvTviqpbhc9L9XHRk1Uj) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [Klap Klap](https://open.spotify.com/album/3NEGgDXgN72kX6XkbNDwdY) | 3:03 | 2023-04-27 | 2023-05-26 |
 | [Kontrol](https://open.spotify.com/track/6rXnrNd6oS7LpSTmHnpoR1) | [Gino Uzokdlalela](https://open.spotify.com/artist/6WXjpenGz8rKRBcI9fJtyb), [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC) | [Bazoshaa Extended Play 2.0](https://open.spotify.com/album/2kifFGRerxsGGVmWrCPZEo) | 4:47 | 2024-10-04 | 2025-02-07 |
 | [Kosinda Obalekayo](https://open.spotify.com/track/5P7R8OIzViJxSGalhabRYg) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X) | [Party With Campmasters II](https://open.spotify.com/album/6xREbRZpKsbHDpLd3vuRhU) | 4:39 | 2024-11-15 | 2025-02-07 |
+| [Kumnandi Ethekwini](https://open.spotify.com/track/28HiylZNJW6BP0U70oCHAy) | [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [Mgilane](https://open.spotify.com/artist/4slppI2zvIkWxKR1KmGRoI) | [Kumnandi Ethekwini](https://open.spotify.com/album/2vtG5q3SLLS9PCXLI2clGU) | 5:53 | 2026-02-20 |  |
 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 | 2023-12-08 | 2025-11-28 |
 | [Kwenzakalan](https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Leodaleo](https://open.spotify.com/artist/7bJ9EMwSG96uo9Fl8KuAO5), [Dezzodigo](https://open.spotify.com/artist/4QyvRI7SNA3CSjG9C2wjRY) | [Kwenzakalan](https://open.spotify.com/album/3bMm9uOsgWcgpkMWkqKqk1) | 4:53 | 2023-12-08 | 2025-01-17 |
 | [KZN](https://open.spotify.com/track/1pBuaFqikz74StvxjAtf6f) | [NAKSoul](https://open.spotify.com/artist/0d6Hlgz11lT6BJH1HTXCrT), [Ntwana Mosotho.Kvy](https://open.spotify.com/artist/61YmYH1wHznFt4LcYFinGL), [DJ Seeyah SA](https://open.spotify.com/artist/4ozlyA1sQkRtnDYjqORPUA) | [KZN](https://open.spotify.com/album/7tSIfZ8ER4P3wa3X4RsYIG) | 6:56 | 2025-07-10 | 2025-07-25 |

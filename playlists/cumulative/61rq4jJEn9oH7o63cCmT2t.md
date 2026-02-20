@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-66 songs - 3 hr 40 min
+67 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 | 2024-11-28 |  |
 | [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 | 2024-10-27 |  |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2024-12-12 |  |
+| [Dead Inside](https://open.spotify.com/track/2mle4atoY4qjRBpVgAUhdG) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Dead Inside](https://open.spotify.com/album/7GcU6XRmPo8GWzJxkZirMm) | 3:20 | 2026-02-20 |  |
 | [Disenchanted](https://open.spotify.com/track/75tLo0qRQ5v24jkRa1kgPX) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:55 | 2023-01-11 |  |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |

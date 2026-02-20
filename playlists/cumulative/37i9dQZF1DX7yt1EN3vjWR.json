@@ -11834,7 +11834,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 199436,
       "name": "NEVEREST (feat. ANARCHY) - Remix",
       "url": "https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU"
@@ -15138,6 +15138,28 @@
       "duration_ms": 195254,
       "name": "Seaside Flow\uff12",
       "url": "https://open.spotify.com/track/0VX80k5te65cx6SmZgFBUt"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ"
+      },
+      "artists": [
+        {
+          "name": "OKAMOTO'S",
+          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218223,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01"
     },
     {
       "album": {

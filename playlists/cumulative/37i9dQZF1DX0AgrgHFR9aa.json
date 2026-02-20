@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Dysto",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Bigflo & Oli",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 156490,
       "name": "4-3-3 Offensif",
       "url": "https://open.spotify.com/track/630CfNCGen4AViGaSSMCdQ"
+    },
+    {
+      "album": {
+        "name": "44D",
+        "url": "https://open.spotify.com/album/0N3ezEuciSnIveqU5pcRin"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330468,
+      "name": "44D",
+      "url": "https://open.spotify.com/track/2iqF4C3733rvJy0QL4WExS"
     },
     {
       "album": {
@@ -704,7 +722,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 156108,
       "name": "ASHITAKA",
       "url": "https://open.spotify.com/track/6MFRx6dj7FPz2GoGkhocgj"
@@ -2074,6 +2092,28 @@
       "duration_ms": 178800,
       "name": "Emelyne",
       "url": "https://open.spotify.com/track/2raEeGwUcTICrIdX6tXdru"
+    },
+    {
+      "album": {
+        "name": "En stress",
+        "url": "https://open.spotify.com/album/3We2eL4msxPpLUKbyFCFX8"
+      },
+      "artists": [
+        {
+          "name": "Lake",
+          "url": "https://open.spotify.com/artist/76JRi7UFsONovQJaGW5F0f"
+        },
+        {
+          "name": "OJEEZ",
+          "url": "https://open.spotify.com/artist/4OTFsGYSVBdxmzal83x6Pc"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "En stress",
+      "url": "https://open.spotify.com/track/5wM3nSTOcd8uKY1d3WqIsZ"
     },
     {
       "album": {
@@ -3825,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/1M9xeYOH14JBvZ3lb2aG1M"
+      },
+      "artists": [
+        {
+          "name": "BENDE",
+          "url": "https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133910,
+      "name": "LE FLEUVE",
+      "url": "https://open.spotify.com/track/6AAanmuKQ91qu8uElHBALL"
+    },
+    {
+      "album": {
         "name": "LE MARATHON",
         "url": "https://open.spotify.com/album/1HIGldnlWzRnTKUVFSRIUH"
       },
@@ -4310,7 +4368,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 158314,
       "name": "LITTERATURE DU REEL",
       "url": "https://open.spotify.com/track/1ccupoPsSkr8WQm96kwhlV"
@@ -5182,7 +5240,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132881,
       "name": "OG SOON",
       "url": "https://open.spotify.com/track/5sWcWPw6JwQZo36doae058"
@@ -5316,7 +5374,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 163720,
       "name": "ONLYFANS",
       "url": "https://open.spotify.com/track/5hPr1THWrdI70T3UwT1GiT"
@@ -6135,6 +6193,24 @@
     },
     {
       "album": {
+        "name": "Remets",
+        "url": "https://open.spotify.com/album/2Yl9HiBicCwQWBXdjaFIXe"
+      },
+      "artists": [
+        {
+          "name": "Louvar",
+          "url": "https://open.spotify.com/artist/3gMXFPjg7pQViQAzc7Xslc"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136260,
+      "name": "Remets",
+      "url": "https://open.spotify.com/track/7mMJg9Vw6icyk2J4fUhjuI"
+    },
+    {
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/2RKkS3jHqfbZd6prSNPqJn"
       },
@@ -6425,6 +6501,28 @@
     },
     {
       "album": {
+        "name": "SECRET",
+        "url": "https://open.spotify.com/album/18WgpAwvclrUXkUUMP08ZE"
+      },
+      "artists": [
+        {
+          "name": "Punchologue",
+          "url": "https://open.spotify.com/artist/0yulFxfJ7kg9ZfxzRTHEIU"
+        },
+        {
+          "name": "MALCOM TEDDY",
+          "url": "https://open.spotify.com/artist/6QGiPl9XBfrjEM9Ic9j0SA"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "SECRET",
+      "url": "https://open.spotify.com/track/4ptBE2nRvjQuMYrxnldwzh"
+    },
+    {
+      "album": {
         "name": "Secteur",
         "url": "https://open.spotify.com/album/7mjVNkeXWB0S1rTg9YLebr"
       },
@@ -6484,7 +6582,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 200426,
       "name": "Seul",
       "url": "https://open.spotify.com/track/4pX2gTPPjYsqlnmZYu6Ijh"

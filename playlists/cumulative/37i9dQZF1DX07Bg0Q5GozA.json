@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Lykke Li",
+  "description": "New music off the beaten track. Cover: KUOKO",
   "name": "OFF POP",
   "tracks": [
     {
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 183252,
       "name": "Bullfight",
       "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178773,
       "name": "Busy DJ - David Bay Remix",
       "url": "https://open.spotify.com/track/0spJ6WVrQ1HtaC8F64MVrU"
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192715,
       "name": "Cope",
       "url": "https://open.spotify.com/track/6LnIqVqPQRNkiZbxO8x3bF"
@@ -8856,6 +8856,24 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
+        "name": "Friends Don't Break Up",
+        "url": "https://open.spotify.com/album/4V3XoF3hfXwTQqGYyJC3WF"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189140,
+      "name": "Friends Don't Break Up",
+      "url": "https://open.spotify.com/track/5IDXTeeIOi7IAmqYDGRHTm"
     },
     {
       "album": {
@@ -13776,7 +13794,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -18461,6 +18479,28 @@
     },
     {
       "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+    },
+    {
+      "album": {
         "name": "Off And On",
         "url": "https://open.spotify.com/album/0fr3l4VLVWCdSSJh1BdSRc"
       },
@@ -18902,6 +18942,24 @@
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
+    },
+    {
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/22ndlEBAiIq2WuF7kEVdRP"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184207,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/5mkvS4pcwZ9z4PmBhPY77l"
     },
     {
       "album": {
@@ -22367,6 +22425,24 @@
     },
     {
       "album": {
+        "name": "Soft Focus",
+        "url": "https://open.spotify.com/album/2F6fGbBy2eyrq1sLj2EZkm"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Soft Focus",
+      "url": "https://open.spotify.com/track/3Mt1lCEvVenbds2U8LNLhI"
+    },
+    {
+      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/4eRtgOsveRqHt8wAZXQI1E"
       },
@@ -22382,6 +22458,28 @@
       "duration_ms": 254619,
       "name": "Solid",
       "url": "https://open.spotify.com/track/3bMb5IjD0tKWKn7A11ulwg"
+    },
+    {
+      "album": {
+        "name": "Som time",
+        "url": "https://open.spotify.com/album/1a98e8P2BCVnfG0HUyUiV4"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Som time",
+      "url": "https://open.spotify.com/track/5hkSZ5nlbq56TGnxrXHyrm"
     },
     {
       "album": {
@@ -22576,6 +22674,24 @@
       "duration_ms": 287445,
       "name": "Sorry I'm Late, I Didn't Want To Come - Roosevelt Remix",
       "url": "https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Propellar",
+          "url": "https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326064,
+      "name": "Sound & Friends",
+      "url": "https://open.spotify.com/track/4bNuizZ9ggDPHbsa1eMdK9"
     },
     {
       "album": {
@@ -23066,7 +23182,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 267023,
       "name": "Stitches - Romy Remix",
       "url": "https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct"
@@ -24462,7 +24578,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 198521,
       "name": "the aftermath",
       "url": "https://open.spotify.com/track/3xoC4SJoiLqHJBuiIi0Eqd"

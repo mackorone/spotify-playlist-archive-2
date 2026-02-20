@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 4070,
+  "num_followers": 4071,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABPY9itNACriX4NuFS4sMug",
+  "snapshot_id": "aZUBAAAAAADwtuYQAJRixq9Cuf8jR/r4",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 271560,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1vD2RhbLWWdGZRUvUkWjAQ"
+      "duration_ms": 221160,
+      "name": "Distante Instante",
+      "url": "https://open.spotify.com/track/6q5ITxhCRAK98hh03pbgK4"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 221160,
-      "name": "Distante Instante",
-      "url": "https://open.spotify.com/track/6q5ITxhCRAK98hh03pbgK4"
+      "duration_ms": 271560,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1vD2RhbLWWdGZRUvUkWjAQ"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Diva Francesa",
-      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+      "duration_ms": 208826,
+      "name": "Dicen Que La Muerte",
+      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 208826,
-      "name": "Dicen Que La Muerte",
-      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jonny Reb",
+        "url": "https://open.spotify.com/album/4Bb4XWRs6akqaKglWK60v3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 169547,
+      "name": "Jonny Reb",
+      "url": "https://open.spotify.com/track/6q34EYZnEPVHkY8RA9RpKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u0438\u0437 \u043b\u0443\u0447\u0448\u0438\u0445",
         "url": "https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 216686,
       "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u0442\u0430\u043d\u0446\u043e\u0440\u044b",
       "url": "https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jonny Reb",
-        "url": "https://open.spotify.com/album/4Bb4XWRs6akqaKglWK60v3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 169547,
-      "name": "Jonny Reb",
-      "url": "https://open.spotify.com/track/6q34EYZnEPVHkY8RA9RpKi"
     },
     {
       "added_at": null,

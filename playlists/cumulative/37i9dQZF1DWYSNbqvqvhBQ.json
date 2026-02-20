@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Nona",
+  "description": "Nieuwe tijdloze muziek. Cover: DI-RECT",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 262769,
       "name": "Caught a Light (Mantra)",
       "url": "https://open.spotify.com/track/7E5Lv8xhVVvk1dTMgR7KB3"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 191256,
       "name": "Exactly What I Need",
       "url": "https://open.spotify.com/track/7KMMT9FzQL1g62zEXRtvGl"
@@ -3700,6 +3700,24 @@
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174717,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4fiUu4AntsGfTkrtB1Hrdh"
     },
     {
       "album": {
@@ -5192,6 +5210,28 @@
       "duration_ms": 214348,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
     },
     {
       "album": {
@@ -7272,7 +7312,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152124,
       "name": "Lie To Yourself",
       "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
@@ -9834,7 +9874,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 135145,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c"
@@ -9896,6 +9936,28 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
       "album": {
@@ -10268,6 +10330,24 @@
       "duration_ms": 184546,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
+    },
+    {
+      "album": {
+        "name": "Say Something You Mean",
+        "url": "https://open.spotify.com/album/4ADPerHUz25sCZn52ugOo8"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Say Something You Mean",
+      "url": "https://open.spotify.com/track/1FDp21yhgv3qaxbpxzWJ9E"
     },
     {
       "album": {
@@ -11104,6 +11184,24 @@
       "duration_ms": 183132,
       "name": "Something Over Nothing",
       "url": "https://open.spotify.com/track/5Y9wKu4rpLD7tNsLbmNlz7"
+    },
+    {
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "album": {
@@ -12126,7 +12224,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
@@ -12462,6 +12560,24 @@
       "duration_ms": 211245,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
+    },
+    {
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/4AGhuWCKdBxE7fmZnyF1Zm"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/1l3h3VMG7JTXJkketTj3cJ"
     },
     {
       "album": {
@@ -13636,7 +13752,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207033,
       "name": "Unbind",
       "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
@@ -13998,7 +14114,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195197,
       "name": "waste a life",
       "url": "https://open.spotify.com/track/2SOgQx7AcVmBDyQxx9zN6B"
@@ -14764,6 +14880,24 @@
       "duration_ms": 261124,
       "name": "Wonderwall (Live from Dublin, 16 August '25)",
       "url": "https://open.spotify.com/track/7Cc2oIT12kip9Bn1vcI232"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Fall",
+        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228900,
+      "name": "Won\u2019t Fall",
+      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
     },
     {
       "album": {

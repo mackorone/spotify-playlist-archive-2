@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Sun-El Musician",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Euggy",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -386,6 +386,40 @@
       "duration_ms": 244000,
       "name": "Auti",
       "url": "https://open.spotify.com/track/28yxbHRomKe6sqYIm0dvEe"
+    },
+    {
+      "album": {
+        "name": "Awe Mah",
+        "url": "https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213559,
+      "name": "Awe Mah",
+      "url": "https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut"
     },
     {
       "album": {
@@ -1244,7 +1278,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 177520,
       "name": "Falling - Liva K Remix",
       "url": "https://open.spotify.com/track/4kLly825xZepEsbhglx0r3"
@@ -1882,7 +1916,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 224000,
       "name": "I Love You So - Shimza Remix",
       "url": "https://open.spotify.com/track/0eLiCCY502jx4MnX7zgjb6"
@@ -2446,7 +2480,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 283491,
       "name": "I\u2019ll Be There (For You)",
       "url": "https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA"
@@ -2774,7 +2808,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 208007,
       "name": "Kiveti - Meith Remix",
       "url": "https://open.spotify.com/track/06soHZoaX2r21cS6npTUZR"
@@ -3679,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "My War",
+        "url": "https://open.spotify.com/album/3UG5LefSFTWN4Rp0ZA72Kb"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395216,
+      "name": "My War",
+      "url": "https://open.spotify.com/track/3h06DLZX33wnmxhyEX2RDt"
+    },
+    {
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/3HF0INhH4RbXjFnMBHgyjI"
       },
@@ -4158,7 +4210,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 206356,
       "name": "Oleku - Remix",
       "url": "https://open.spotify.com/track/7bA4dMvgVGhc3R4TAjOvKf"
@@ -5091,6 +5143,28 @@
     },
     {
       "album": {
+        "name": "Tropical Island (feat. Gee Skillz)",
+        "url": "https://open.spotify.com/album/636jKpmnmefeRkI6Tjjnv0"
+      },
+      "artists": [
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Gee Skillz",
+          "url": "https://open.spotify.com/artist/0Uz5ExTFA0c5xzW74CtgbQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Tropical Island (feat. Gee Skillz)",
+      "url": "https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF"
+    },
+    {
+      "album": {
         "name": "Tsama (Club Version)",
         "url": "https://open.spotify.com/album/5GnDWnztb7kjCFnmVxieLA"
       },
@@ -5630,6 +5704,32 @@
       "duration_ms": 280320,
       "name": "Unify",
       "url": "https://open.spotify.com/track/7kV15N3BLbEvuSToRyzgTs"
+    },
+    {
+      "album": {
+        "name": "Unjust",
+        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Madmix",
+          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Unjust",
+      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
     },
     {
       "album": {
@@ -6270,6 +6370,32 @@
       "duration_ms": 246250,
       "name": "You're My Ghost",
       "url": "https://open.spotify.com/track/2J5cjC8v5DzYcG1A1bMufg"
+    },
+    {
+      "album": {
+        "name": "Yuapi ?",
+        "url": "https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Winyo",
+          "url": "https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Yuapi ?",
+      "url": "https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD"
     },
     {
       "album": {

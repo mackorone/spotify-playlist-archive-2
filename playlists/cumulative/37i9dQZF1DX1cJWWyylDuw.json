@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Betrayer",
+        "url": "https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4"
+      },
+      "artists": [
+        {
+          "name": "Obey The Kraken",
+          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn"
+    },
+    {
+      "album": {
         "name": "Birth of the Butcher",
         "url": "https://open.spotify.com/album/4Zvc0dmE82sOd9sg4RDZc7"
       },
@@ -3239,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Fractured Will",
+        "url": "https://open.spotify.com/album/5beAtnW30xf56o0OrPiRuC"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253741,
+      "name": "Dead Rose",
+      "url": "https://open.spotify.com/track/2rJO63oX3KWb8AxlB8CYw8"
+    },
+    {
+      "album": {
         "name": "Deadly Potential",
         "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
       },
@@ -4472,7 +4508,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 221250,
       "name": "EVERMORE",
       "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
@@ -12548,7 +12584,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"

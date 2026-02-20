@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 64 | [Impossible](https://open.spotify.com/track/6CiG62GW00TtddkTfZwocV) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:27 |
 | 65 | [O Fortuna](https://open.spotify.com/track/4Y3fQQ38kNhYh0kFJFMgc8) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:15 |
 | 66 | [Zenosyne](https://open.spotify.com/track/7x6qZjIpi6qRDxshlzhztB) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [The Zenosyne](https://open.spotify.com/album/3PZVM5uJoIWtsutUxNmlBp) | 3:20 |
-| 67 | [carelesscarelesscarelesscarelesscareless](https://open.spotify.com/track/6xbqITFdZA7sVrAi7S733k) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 1:55 |
-| 68 | [Heart Sing](https://open.spotify.com/track/4t7DKJPtzK0ZbQ9xdZNvcO) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:09 |
+| 67 | [Heart Sing](https://open.spotify.com/track/4t7DKJPtzK0ZbQ9xdZNvcO) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:09 |
+| 68 | [carelesscarelesscarelesscarelesscareless](https://open.spotify.com/track/6xbqITFdZA7sVrAi7S733k) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 1:55 |
 | 69 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
 | 70 | [Know Who You Are](https://open.spotify.com/track/5gPirjkgoGH4Hym5JC1gf1) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:31 |
 | 71 | [HARDPAIN](https://open.spotify.com/track/1Ak6Bwm8W0v83SGEKziaKY) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:25 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 75 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 76 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcKCFAAAAAAG4sl+Tw/tk9QOFIlB0YL1`
+Snapshot ID: `AcKHtAAAAADGFIK3N/OKAx/onHuVWmX3`

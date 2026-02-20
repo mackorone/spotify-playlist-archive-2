@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Calibro 35
 
-557 songs - 1 day 17 hr 35 min
+558 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Deep Water Horizon](https://open.spotify.com/track/0izypI7hPlbzvRYMQpGuyC) | [Mauro Ottolini](https://open.spotify.com/artist/4QyZ2YEvnz71T9zBG26pnq) | [Sea Shell Musica per conchiglie](https://open.spotify.com/album/6ZMHwRbc0kSue92MS755ab) | 3:45 | 2023-06-04 | 2023-09-18 |
 | [Dense](https://open.spotify.com/track/5b8NRWfkmAddnuLRR2cQX6) | [Khalab](https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Black Noise 2084](https://open.spotify.com/album/0EsSqCtIP6bmOAMalHNNgw) | 3:14 | 2022-09-30 | 2022-11-03 |
 | [Desertico](https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Paolo Fresu Devil Quartet](https://open.spotify.com/artist/3HwP2Snx52kveIRHh9k62Z) | [Desertico](https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt) | 5:53 | 2022-11-02 | 2025-04-23 |
+| [Desi](https://open.spotify.com/track/049UzE2dAeKVtc6D8DZNfo) | [Faer](https://open.spotify.com/artist/4RBPgkSEkLWLWrqRXp1uh3) | [Floema](https://open.spotify.com/album/3R97Dopu5hY3dHLPTyaWDV) | 1:49 | 2026-02-05 |  |
 | [Didjo](https://open.spotify.com/track/5BbVK4xnh10S4p0VuKqFdO) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Indwe](https://open.spotify.com/artist/39BgxrsJgtMwRHKjwrTdUr) | [Food](https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u) | 7:53 | 2023-12-05 | 2024-03-29 |
 | [Digestive System](https://open.spotify.com/track/16S7jdyKXnNknTl5yTWOzt) | [La Sciura Del Suono](https://open.spotify.com/artist/46hcQl6b4c2ZVmes3HnocD) | [Easter Monday LO\-FI](https://open.spotify.com/album/38axByQg4nt6fGvLfcMEYp) | 2:56 | 2022-11-02 | 2022-12-06 |
 | [Dimestichezze d'amor](https://open.spotify.com/track/3gpKX1OtFfuE6TNCQ7aesx) | [Gianmaria Testa](https://open.spotify.com/artist/6LAyeCbXaoztfCbdmAcxpn) | [Vitamia](https://open.spotify.com/album/28cc6t72LXmI001oVAMLB0) | 3:29 | 2022-08-31 | 2022-10-01 |
@@ -472,7 +473,7 @@
 | [Southern Dub](https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Domenico Candellori](https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:05 | 2022-11-02 |  |
 | [Spears of Leaves](https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0) | [Karu](https://open.spotify.com/artist/68L2UQmHpBNsUkWBUn2iRv) | [Spears of Leaves](https://open.spotify.com/album/4ZM5RWTu7VvQDc3FV9wSK8) | 3:12 | 2022-11-02 | 2022-12-06 |
 | [Spinning](https://open.spotify.com/track/7cf0I8kyqpeQJvCdhGXwZn) | [Flavio Boltro](https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw), [BBB Trio](https://open.spotify.com/artist/00Emct6hk2HVR0oTaxqCoi) | [Spinning](https://open.spotify.com/album/2snzNi9mvkwypn7AegWBRZ) | 4:08 | 2023-06-04 | 2023-09-18 |
-| [Spiral](https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc) | [Nādt Orchestra](https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT) | [Dualism](https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ) | 4:41 | 2025-05-08 |  |
+| [Spiral](https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc) | [Nādt Orchestra](https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT) | [Dualism](https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ) | 4:41 | 2025-05-08 | 2026-02-20 |
 | [Stan Lee \- Alternate Version](https://open.spotify.com/track/1tv82hvJ88GOseKWEYsW3L) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Post Momentum](https://open.spotify.com/album/3xMxVoRW5cUMzZKdffnINk) | 3:23 | 2022-11-02 | 2022-12-06 |
 | [Stand Stan](https://open.spotify.com/track/3bbYpaMHAbtWkvA7ecrvOU) | [Ghost Horse](https://open.spotify.com/artist/4kbMP6FE0uIGKflO5L50rG) | [Il Bene Comune](https://open.spotify.com/album/2UZrG3aDXy8lgRybaqwsZd) | 3:23 | 2023-09-17 | 2023-12-06 |
 | [stanza](https://open.spotify.com/track/43EQlmYkZTt3PGEsfaE4V4) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/1I83D4utfYfkxSliMBVfe0) | 5:25 | 2023-09-17 | 2023-12-06 |

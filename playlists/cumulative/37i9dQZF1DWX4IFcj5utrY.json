@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Sun-El Musician",
+  "description": "The best dance hits in Africa. Cover: UNLIMITED SOUL",
   "name": "mint Africa",
   "tracks": [
     {
@@ -2802,6 +2802,40 @@
       "duration_ms": 238000,
       "name": "Away",
       "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
+    },
+    {
+      "album": {
+        "name": "Awe Mah",
+        "url": "https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213559,
+      "name": "Awe Mah",
+      "url": "https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut"
     },
     {
       "album": {
@@ -6898,7 +6932,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 426610,
       "name": "Deep In The Bottom (of Africa) (feat. Black Coffee) - Citizen Deep Remix",
       "url": "https://open.spotify.com/track/1ZCtswbsQKojGGr3ZlysAv"
@@ -18871,6 +18905,32 @@
     },
     {
       "album": {
+        "name": "Mopepe",
+        "url": "https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272033,
+      "name": "Mopepe",
+      "url": "https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x"
+    },
+    {
+      "album": {
         "name": "More Love (Rampa &ME Remix)",
         "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
       },
@@ -28913,6 +28973,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "UNLIMITED SOUL",
+          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM"
+    },
+    {
+      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf"
       },
@@ -29044,6 +29122,28 @@
       "duration_ms": 289895,
       "name": "Triomf",
       "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+    },
+    {
+      "album": {
+        "name": "Tropical Island (feat. Gee Skillz)",
+        "url": "https://open.spotify.com/album/636jKpmnmefeRkI6Tjjnv0"
+      },
+      "artists": [
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Gee Skillz",
+          "url": "https://open.spotify.com/artist/0Uz5ExTFA0c5xzW74CtgbQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Tropical Island (feat. Gee Skillz)",
+      "url": "https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF"
     },
     {
       "album": {
@@ -32303,6 +32403,40 @@
     },
     {
       "album": {
+        "name": "Wololo",
+        "url": "https://open.spotify.com/album/0NjtfpTiB7SHpHlBapDHU3"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "Freddy K",
+          "url": "https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377170,
+      "name": "Wololo",
+      "url": "https://open.spotify.com/track/53ofZtLKRJZUT6KpviQsHX"
+    },
+    {
+      "album": {
         "name": "Woman EP",
         "url": "https://open.spotify.com/album/6KSZ4RpMMTsm9zk2CbMyAu"
       },
@@ -33158,6 +33292,32 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
+    },
+    {
+      "album": {
+        "name": "Yuapi ?",
+        "url": "https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Winyo",
+          "url": "https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Yuapi ?",
+      "url": "https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD"
     },
     {
       "album": {

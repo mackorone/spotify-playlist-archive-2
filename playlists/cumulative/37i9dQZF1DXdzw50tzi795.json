@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BLUE PONGTIWAT, TEN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Z9",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -1444,6 +1444,36 @@
       "duration_ms": 253235,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19",
       "url": "https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e33\u0e40\u0e14\u0e35\u0e22\u0e27\u0e07\u0e48\u0e32\u0e22 \u0e46",
+        "url": "https://open.spotify.com/album/5jj8gk8zVlhVudMbJFRwuk"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "1ST",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "\u0e04\u0e33\u0e40\u0e14\u0e35\u0e22\u0e27\u0e07\u0e48\u0e32\u0e22 \u0e46",
+      "url": "https://open.spotify.com/track/2ORyDq8ksO5Aj1A90tqQ4I"
     },
     {
       "album": {
@@ -4284,7 +4314,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 271160,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU"

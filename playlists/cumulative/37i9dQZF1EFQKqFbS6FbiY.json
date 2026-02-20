@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Sua Estrela Favorita",
+        "url": "https://open.spotify.com/album/5ddNO16mF8LKAs0VSStXOs"
+      },
+      "artists": [
+        {
+          "name": "Dieguinho Estrela",
+          "url": "https://open.spotify.com/artist/2w3H0sTWWGzmHtgeH87YrU"
+        },
+        {
+          "name": "Sabi\u00e1 Records",
+          "url": "https://open.spotify.com/artist/3u5wsRkCoJYs47GPk6AMir"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Carona de Ex",
+      "url": "https://open.spotify.com/track/4IkfJzS56GoQBdkQUPNPRJ"
+    },
+    {
+      "album": {
         "name": "Fragmentos (ao Vivo)",
         "url": "https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp"
       },

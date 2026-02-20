@@ -10735,6 +10735,24 @@
     },
     {
       "album": {
+        "name": "Cressida",
+        "url": "https://open.spotify.com/album/3jM6YtRZ6Ri50V54Op2FMp"
+      },
+      "artists": [
+        {
+          "name": "Cressida",
+          "url": "https://open.spotify.com/artist/3Mv2LWIIrvxUKyqnXX1CSD"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164987,
+      "name": "Lights In My Mind",
+      "url": "https://open.spotify.com/track/4GSgx3TcPDH9RTHF7yg4BM"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -17468,6 +17486,24 @@
       "duration_ms": 118160,
       "name": "Stars Will Fall",
       "url": "https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0"
+    },
+    {
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169828,
+      "name": "STATS",
+      "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
     },
     {
       "album": {

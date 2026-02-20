@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Camille Yembe",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec And\u00e9ol",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 224305,
       "name": "Aux enfants de demain",
       "url": "https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 214133,
       "name": "Berger",
       "url": "https://open.spotify.com/track/4jZa91Syrxgfkc1Vu0WFV0"
@@ -1017,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "Engag\u00e9s volon-Terre (feat. Ren\u00e9 Nunes)",
+        "url": "https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl"
+      },
+      "artists": [
+        {
+          "name": "Charlelie Couture",
+          "url": "https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6"
+        },
+        {
+          "name": "Rene Nunes",
+          "url": "https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187522,
+      "name": "Engag\u00e9s volon-Terre (feat. Ren\u00e9 Nunes)",
+      "url": "https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN"
+    },
+    {
+      "album": {
         "name": "Ensemble",
         "url": "https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4"
       },
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 123800,
       "name": "j'aime pas les goodbye",
       "url": "https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV"
@@ -2100,7 +2122,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229173,
       "name": "La lune",
       "url": "https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI"
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 182200,
       "name": "Langage - Orchestral",
       "url": "https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP"
@@ -2614,6 +2636,24 @@
       "duration_ms": 244480,
       "name": "Le penseur",
       "url": "https://open.spotify.com/track/1tv58Ak1QlECDQNAIl1xqz"
+    },
+    {
+      "album": {
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
     },
     {
       "album": {
@@ -3094,7 +3134,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 182453,
       "name": "Les passantes",
       "url": "https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc"
@@ -3210,6 +3250,28 @@
       "duration_ms": 188760,
       "name": "LILA",
       "url": "https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3"
+    },
+    {
+      "album": {
+        "name": "lily rose",
+        "url": "https://open.spotify.com/album/07c7cyPlSpWzae8Co89ivG"
+      },
+      "artists": [
+        {
+          "name": "Lord Esperanza",
+          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+        },
+        {
+          "name": "Olympe Chabert",
+          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222751,
+      "name": "lily rose",
+      "url": "https://open.spotify.com/track/5aB5RkgtA34pFL5ZhRKdlx"
     },
     {
       "album": {
@@ -4400,10 +4462,28 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195840,
       "name": "Si t'\u00e9tais l\u00e0",
       "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
+    },
+    {
+      "album": {
+        "name": "Sinon rien",
+        "url": "https://open.spotify.com/album/5CcBcnoMEb3rVQ5cUKCAc3"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128346,
+      "name": "Sinon rien",
+      "url": "https://open.spotify.com/track/6tQMgq461dDsvSstb8rDMG"
     },
     {
       "album": {
@@ -4533,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/4Ty4ZoeuOeJ18HDcRneApU"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "ta peau, ma peau",
+      "url": "https://open.spotify.com/track/3M0FOj8R8WD3VxdZEZRNl0"
+    },
+    {
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf"
       },
@@ -4548,6 +4646,24 @@
       "duration_ms": 204733,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE"
+    },
+    {
+      "album": {
+        "name": "Terrible menteuse",
+        "url": "https://open.spotify.com/album/0fQFFJh9gtMSIoYB5libWM"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213794,
+      "name": "Terrible menteuse",
+      "url": "https://open.spotify.com/track/1B40kNe9s7iLbXh43xAuCE"
     },
     {
       "album": {
@@ -4642,6 +4758,24 @@
       "duration_ms": 151009,
       "name": "Tout dit",
       "url": "https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ"
+    },
+    {
+      "album": {
+        "name": "Tout est de ma faute",
+        "url": "https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Tout est de ma faute",
+      "url": "https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4"
     },
     {
       "album": {

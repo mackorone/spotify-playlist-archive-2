@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Caleb Awiti",
+  "description": "Chill, take a long walk and clear your mind. Cover: Shad Mziki ",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -286,6 +286,32 @@
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/3uEfdYeEhqdnoyiUbusnZP"
+      },
+      "artists": [
+        {
+          "name": "Musyimi",
+          "url": "https://open.spotify.com/artist/6pzPsbCzbTiOqNh89M587F"
+        },
+        {
+          "name": "B Mello",
+          "url": "https://open.spotify.com/artist/3bpznfzN3rPViWQ8hRFW75"
+        },
+        {
+          "name": "Tipilda",
+          "url": "https://open.spotify.com/artist/40L6k7x56LoB9hRwzD1Icp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213729,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6u7VACqPdv4CAqn3tkjxCG"
     },
     {
       "album": {
@@ -726,6 +752,24 @@
       "duration_ms": 175135,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k"
+      },
+      "artists": [
+        {
+          "name": "M\u016bmbi",
+          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa"
     },
     {
       "album": {
@@ -1824,7 +1868,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 262184,
       "name": "Sasa Hivi - Stripped Down",
       "url": "https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR"
@@ -2190,7 +2234,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 321552,
       "name": "Sulwe",
       "url": "https://open.spotify.com/track/4LMaeL6iAmsv9M5F4f6sCB"
@@ -2212,6 +2256,24 @@
       "duration_ms": 208235,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
+    },
+    {
+      "album": {
+        "name": "Tabasamu",
+        "url": "https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Tabasamu",
+      "url": "https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2"
     },
     {
       "album": {
@@ -2382,7 +2444,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152551,
       "name": "truth",
       "url": "https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW"

@@ -1,12 +1,12 @@
 {
-  "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19306,
+  "description": "Discover the best in new music from Aotearoa. Cover: Stan Walker",
+  "num_followers": 19307,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFTU1SFTY8/DN0wiPV9YTQMQBs10",
+  "snapshot_id": "AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P",
   "tracks": [
     {
       "added_at": "2026-02-12 13:00:16",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Ghost in Your Bed",
-        "url": "https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "Bic Runga",
-          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Ghost in Your Bed",
-      "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -931,34 +931,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "Ghost in Your Bed",
+        "url": "https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Bic Runga",
+          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
+      "duration_ms": 168560,
+      "name": "Ghost in Your Bed",
+      "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -975,6 +959,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
     },
     {
       "added_at": "2026-02-12 13:00:16",

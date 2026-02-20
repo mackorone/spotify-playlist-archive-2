@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,698 songs - 10 day 11 hr 37 min
+4,699 songs - 10 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 | 2025-04-05 | 2025-04-25 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2024-12-24 | 2025-04-06 |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 | 2022-11-22 | 2022-11-26 |
+| [Chichabeba](https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 2:11 | 2026-02-19 |  |
 | [Chicken Banana](https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye) | [Crazy Music Channel](https://open.spotify.com/artist/2Y6bsT6oxjAhpghYTlUpXG) | [Chicken Banana](https://open.spotify.com/album/2pbyB0m8GNItw3xdHjuB0k) | 2:12 | 2025-05-07 | 2025-05-15 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-03-28 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-19 | 2023-09-29 |
@@ -2289,7 +2290,7 @@
 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 | 2024-03-16 | 2024-03-29 |
 | [Leaving the Lot](https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 3:09 | 2024-03-30 | 2024-04-17 |
 | [LEBENSLANG \- HBz Remix](https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [LEBENSLANG \(HBz Remix\)](https://open.spotify.com/album/1jW5P0yu4tE2EUwJWNkfRs) | 2:50 | 2022-04-04 | 2022-04-20 |
-| [Leev Marie](https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t) | [Paveier](https://open.spotify.com/artist/0F3lC4Bfyf7mKrkCiXPAaO) | [Leev Marie](https://open.spotify.com/album/0GKP1k0w7mYKlhAfEiqc9D) | 4:22 | 2026-02-17 |  |
+| [Leev Marie](https://open.spotify.com/track/6te4u5fA8mtW1DYoB9YV4t) | [Paveier](https://open.spotify.com/artist/0F3lC4Bfyf7mKrkCiXPAaO) | [Leev Marie](https://open.spotify.com/album/0GKP1k0w7mYKlhAfEiqc9D) | 4:22 | 2026-02-17 | 2026-02-20 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-07-19 | 2022-07-28 |
 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 | 2023-02-21 | 2023-04-05 |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-31 | 2025-01-04 |

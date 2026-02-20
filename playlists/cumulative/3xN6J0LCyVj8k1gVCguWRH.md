@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,738 songs - 13 day 8 hr 45 min
+5,739 songs - 13 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4641,6 +4641,7 @@
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-07-18 | 2024-07-30 |
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Cupid](https://open.spotify.com/track/0vMRZycjJEBQTw5EYeKztq) | [Gemi Dream](https://open.spotify.com/artist/5SgNqTom9gLElyZ26cD0CI) | [Stupid Cupid](https://open.spotify.com/album/5kGoQQeR1KQxQmE5zmMty8) | 2:42 | 2024-02-19 | 2024-02-27 |
+| [Stupid Heart](https://open.spotify.com/track/4hsBVboU7ETKgjsnpHzwu9) | [Ronny Criss](https://open.spotify.com/artist/7fB9Oz2vNZm85s2t1rFfUK) | [Stupid Heart](https://open.spotify.com/album/0STm4yYrsnXJmZqwiTV0PJ) | 4:09 | 2026-02-20 |  |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |
 | [Stutter, Vol\. 2](https://open.spotify.com/track/2hbcCTN9V0W8s3I0Ji92IS) | [Antonio Sky](https://open.spotify.com/artist/02Evk0EwdPaRF3MZp0dKCH) | [Stutter, Vol\. 2](https://open.spotify.com/album/7EaHIM4CF9ibf5aZ5syd3F) | 3:39 | 2024-11-15 | 2024-11-27 |
 | [Subtext](https://open.spotify.com/track/4xr3p6e0lNigsmHhb22rkK) | [Wayne G Miller](https://open.spotify.com/artist/2X5c6ps8B7lt3K5yAaUFbR) | [Subtext](https://open.spotify.com/album/1WK8Vez2yzN0GR5zBiSo2p) | 2:46 | 2026-02-05 |  |
@@ -4667,7 +4668,7 @@
 | [summer died](https://open.spotify.com/track/6JXhm0UL5WxP4P0UwkwEVL) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [summer died](https://open.spotify.com/album/2Q1KDKB2re98AMumPjVS24) | 2:58 | 2022-05-16 | 2022-06-17 |
 | [Summer Fling](https://open.spotify.com/track/7e4WCunNrl6i0ATIxd6ZwV) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Summer Fling](https://open.spotify.com/album/7zedW3WK48nnB4UjiDoW98) | 3:26 | 2022-08-26 | 2022-09-12 |
 | [Summer Girl \(Redux\)](https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr) | [The High Plains Drifters](https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi) | [Summer Girl \(Redux\)](https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By) | 3:58 | 2024-09-21 | 2024-10-04 |
-| [Summer Haze](https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW) | [BETHY](https://open.spotify.com/artist/2AMYoSyrndaS01IOijAuhP) | [Summer Haze](https://open.spotify.com/album/4yE34Y8GLsFTh2fX7nfQsQ) | 4:03 | 2025-12-25 | 2026-01-06 |
+| [Summer Haze](https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW) | [BETHY](https://open.spotify.com/artist/2AMYoSyrndaS01IOijAuhP) | [Summer Haze](https://open.spotify.com/album/4yE34Y8GLsFTh2fX7nfQsQ) | 4:03 | 2025-12-25 |  |
 | [Summer in September](https://open.spotify.com/track/4zkMIoLDJNjikGJxE1zHuR) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E) | [Summer in September](https://open.spotify.com/album/08ACbcnqHgZXsoYZqkQ3n8) | 4:13 | 2021-10-20 | 2021-11-06 |
 | [Summer in the City](https://open.spotify.com/track/27IcXUf5LfSoVRkNmtKzew) | [Mark Shiiba](https://open.spotify.com/artist/4GwrlLHprqqy29GK9JnmY9) | [Sunny Days](https://open.spotify.com/album/5yLUGVJrVjCpENQhVo8vFZ) | 2:15 | 2023-08-23 | 2023-09-26 |
 | [Summer Is Gone](https://open.spotify.com/track/74kh8ClAEu4aqr3ibvURxb) | [Analine](https://open.spotify.com/artist/448pBKNLFue6Fzceczlp4w), [Leagan](https://open.spotify.com/artist/4xFaG8nmQ0drbpd2SC7Cge) | [Summer Is Gone](https://open.spotify.com/album/6JcXvpblPCpKbFCvW6ztaT) | 4:13 | 2024-01-05 | 2024-03-08 |

@@ -2455,6 +2455,28 @@
     },
     {
       "album": {
+        "name": "CHARDONNAY (Night & Day)",
+        "url": "https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK"
+      },
+      "artists": [
+        {
+          "name": "Romeo Louisa",
+          "url": "https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "date_added": "2026-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190460,
+      "name": "CHARDONNAY (Night & Day)",
+      "url": "https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn"
+    },
+    {
+      "album": {
         "name": "Chez B. Untitled",
         "url": "https://open.spotify.com/album/3XiYoaef5PG0iUJ8kVT4XQ"
       },
@@ -10326,7 +10348,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 198750,
       "name": "On The Run 2025",
       "url": "https://open.spotify.com/track/1SucrtxZQnBmrweftbhm2B"

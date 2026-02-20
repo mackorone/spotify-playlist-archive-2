@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준 \(Jang Beom June\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 밍기뉴 \(Mingginyu\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,643 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,641 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [lilac](https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beomjune \(January 2026\) – Lilac](https://open.spotify.com/album/5K8owHEoj8fLGzxpflJ9xU) | 3:16 |
-| 2 | [Superpower](https://open.spotify.com/track/4reOboKTk7q5SQyyFIAIEZ) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Superpower](https://open.spotify.com/album/3RHGU9VHAsheMlrDhYyc5e) | 4:28 |
+| 1 | [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 |
+| 2 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
 | 3 | [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 |
-| 4 | [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 |
-| 5 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
-| 6 | [Star](https://open.spotify.com/track/4SShZF2CETTC32MIetxVSQ) | [MILLIGRAM](https://open.spotify.com/artist/1K9B1uiDf6ZSA8mshCQnqv) | [Star](https://open.spotify.com/album/6YCRkKU7yjm8d3VrRCcDkz) | 3:10 |
+| 4 | [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 |
+| 5 | [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 |
+| 6 | [How do I let you go](https://open.spotify.com/track/0nRoTskwRuvzofpLPxyIJ6) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wandering Hearts](https://open.spotify.com/album/0xpj1qJhSy8Oc9XDQeNoRS) | 4:07 |
 | 7 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 8 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 9 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 47 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 48 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
-| 50 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 |
+| 50 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
 
-Snapshot ID: `AAAAACwndLUbRjagztfaQpANlW8KTjB6`
+Snapshot ID: `AAAAAAQOypCoWiheRDeeoFTsiBjngqst`

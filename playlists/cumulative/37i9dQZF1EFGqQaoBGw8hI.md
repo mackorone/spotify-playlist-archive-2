@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-720 songs - 2 day 2 hr 4 min
+722 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Bonnie's Gone Away \- Piano/Guitar Demo](https://open.spotify.com/track/62SPBDd5oppm1q3dQ1RSAH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:37 | 2023-05-26 |  |
 | [Boogie Pilgrim](https://open.spotify.com/track/5iQruOIwPqK1gptITfOXQv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:05 | 2022-09-08 |  |
 | [Border Song](https://open.spotify.com/track/4gpxT82T8ZzRWknBH30Zey) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 3:22 | 2022-09-08 |  |
-| [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 | 2022-09-15 |  |
+| [Born to Boogie](https://open.spotify.com/track/0uDzdcf9Uz04lPxcomcrfM) | [Marc Bolan](https://open.spotify.com/artist/4M2gGLzKCo0rPyn224PsoN), [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Born to Boogie](https://open.spotify.com/album/0J0m3RtiwzNx6xFhEoJwfF) | 2:04 | 2026-02-19 |  |
+| [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 | 2022-09-15 | 2026-02-20 |
 | [Born To Boogie \- From 'Billy Elliot The Musical'](https://open.spotify.com/track/0JbQXNSYQID38YcwR9r1ZW) | [Original London Cast of 'Billy Elliot The Musical'](https://open.spotify.com/artist/2egjsbpXXVNnl6agT4PI1T) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:25 | 2022-09-08 | 2022-09-16 |
 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 | 2022-09-08 |  |
 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:33 | 2022-09-08 |  |
@@ -469,7 +470,8 @@
 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 | 2023-05-26 |  |
 | [Restless](https://open.spotify.com/track/73nYjLyEtNZHRyDtIFFQIC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 5:16 | 2022-09-08 |  |
 | [Return To Paradise](https://open.spotify.com/track/4BTqc5vVoB3Cu3F6qtFXiz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:15 | 2022-09-08 |  |
-| [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 | 2022-09-08 |  |
+| [Reverie](https://open.spotify.com/track/57U9E7zXKc2UIiXPUeSCYN) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) | [Victoria Day Celebration](https://open.spotify.com/album/658rnoe0MqsOqkueWbWvsf) | 2:34 | 2026-02-19 |  |
+| [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 | 2022-09-08 | 2026-02-20 |
 | [Rock And Roll Madonna \- Interlude](https://open.spotify.com/track/2kRnjApYA8HRvc3L7VXdPe) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 2:41 | 2022-09-08 |  |
 | [Rock Me When He's Gone](https://open.spotify.com/track/5THQ8j1P1XZ2TMQLTkha6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 5:00 | 2022-09-08 | 2023-06-16 |
 | [Rock Me When He's Gone \- Full Version](https://open.spotify.com/track/2AeGTwNv4wuZf72djnwzbO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water \(Deluxe Edition\)](https://open.spotify.com/album/0N5UdJXj3N2Bjg5KnPAVHQ) | 7:11 | 2023-06-15 |  |

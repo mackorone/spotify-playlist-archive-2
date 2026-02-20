@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Bad Bunny dovunque, e anche sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Harry Styles sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -1620,6 +1620,28 @@
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
+    },
+    {
+      "album": {
+        "name": "KING OF DARK",
+        "url": "https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166025,
+      "name": "DARKMONEY (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw"
     },
     {
       "album": {
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147162,
       "name": "Resta Ancora Un Po'",
       "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"

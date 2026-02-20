@@ -307,50 +307,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ay Mamasita",
-        "url": "https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm"
-      },
-      "artists": [
-        {
-          "name": "xosa",
-          "url": "https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
-        },
-        {
-          "name": "Yell0w Yei",
-          "url": "https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i"
-        }
-      ],
-      "duration_ms": 159196,
-      "name": "Ay Mamasita",
-      "url": "https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -379,6 +335,50 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ay Mamasita",
+        "url": "https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm"
+      },
+      "artists": [
+        {
+          "name": "xosa",
+          "url": "https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        },
+        {
+          "name": "Yell0w Yei",
+          "url": "https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i"
+        }
+      ],
+      "duration_ms": 159196,
+      "name": "Ay Mamasita",
+      "url": "https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "MOMENTO",
         "url": "https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+        "name": "Sin Voz",
+        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
       },
       "artists": [
         {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
         }
       ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
+      "duration_ms": 255488,
+      "name": "Sin Voz",
+      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Sin Voz",
-        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
       },
       "artists": [
         {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
         }
       ],
-      "duration_ms": 255488,
-      "name": "Sin Voz",
-      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "PU\u00d1OS PULSERAS Y PALETAS",
         "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 143529,
       "name": "PU\u00d1OS PULSERAS Y PALETAS",
       "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Exitos Ajenos, Vol. 1",
-        "url": "https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw"
-      },
-      "artists": [
-        {
-          "name": "El Danny Padilla",
-          "url": "https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "UN D\u00cdA INOLVIDABLE",
         "url": "https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK"
       },
@@ -1455,18 +1423,54 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "REGGAETON CUTE (VOL. 2)",
-        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
+        "name": "Exitos Ajenos, Vol. 1",
+        "url": "https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw"
       },
       "artists": [
         {
-          "name": "Roby Damian",
-          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+          "name": "El Danny Padilla",
+          "url": "https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg"
         }
       ],
-      "duration_ms": 158571,
-      "name": "MI D",
-      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
+      "duration_ms": 206000,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "CATARSIS",
+        "url": "https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP"
+      },
+      "artists": [
+        {
+          "name": "Cross MX",
+          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        }
+      ],
+      "duration_ms": 149413,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

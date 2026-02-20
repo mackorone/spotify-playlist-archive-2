@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104057,
+  "num_followers": 104058,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABLsrcLMHghvmAaTMy6/4Ru",
+  "snapshot_id": "aZUBAAAAAAApHzkrbtYbHZuSN3/O5pkb",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 205478,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
         "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 240704,
       "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
       "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 205478,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
     },
     {
       "added_at": null,
@@ -503,26 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woman Trouble",
-        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
       "artists": [
         {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
-        {
-          "name": "Robbie Craig",
-          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Woman Trouble (Radio Edit)",
-      "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
+      "duration_ms": 155076,
+      "name": "Abracadabra (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
     },
     {
       "added_at": null,
@@ -543,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra (feat. Craig David)",
-        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
+        "name": "Woman Trouble",
+        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+        },
+        {
+          "name": "Robbie Craig",
+          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Abracadabra (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+      "duration_ms": 241293,
+      "name": "Woman Trouble (Radio Edit)",
+      "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
     },
     {
       "added_at": null,
@@ -699,42 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "2 Steps Back",
-      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pete Tong Ibiza Classics",
         "url": "https://open.spotify.com/album/1Iifumy0bI5fdwItptSoGT"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 247600,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/0qUcPMLvDwAUZjprYEwGta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "2 Steps Back",
+      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
     },
     {
       "added_at": null,

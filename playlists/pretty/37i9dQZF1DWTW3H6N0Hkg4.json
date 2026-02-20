@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 322773,
+  "num_followers": 322883,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
+        "name": "Negra Ron y Velas",
+        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "Morgan Blanco",
+          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
         }
       ],
-      "duration_ms": 199862,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
+      "duration_ms": 276199,
+      "name": "Negra Ron y Velas",
+      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Negra Ron y Velas",
-        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
       "artists": [
         {
-          "name": "Morgan Blanco",
-          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 276199,
-      "name": "Negra Ron y Velas",
-      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
+      "duration_ms": 199862,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 211506,
       "name": "Mami (Angel De Paz)",
       "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "El Ausente - Remastered",
-      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "El Toque Tropical del Barrio Vol. 3",
         "url": "https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 244826,
       "name": "Sin Ella",
       "url": "https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "El Ausente - Remastered",
+      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "50 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 180671,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "50 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
+      },
+      "artists": [
+        {
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Pa' Otro La 'o",
-        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Pa' Otro La 'o",
+        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "El Condor Legendario",
         "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Sonido La Conga \u201cForever\u201d",
-        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
       "artists": [
         {
-          "name": "Organazacion Bohio",
-          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 196573,
-      "name": "Embrujo De Cumbia",
-      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1831,6 +1815,22 @@
       "duration_ms": 219088,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Sonido La Conga \u201cForever\u201d",
+        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+      },
+      "artists": [
+        {
+          "name": "Organazacion Bohio",
+          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Embrujo De Cumbia",
+      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
     },
     {
       "added_at": "2025-08-13 19:19:00",

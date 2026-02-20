@@ -6791,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
+      },
+      "artists": [
+        {
+          "name": "MiDi KwaKwa",
+          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
+    },
+    {
+      "album": {
         "name": "Vibes Alive",
         "url": "https://open.spotify.com/album/2YwwLFpGxbbyb4HYnRiB67"
       },
@@ -7362,6 +7380,24 @@
       "duration_ms": 144006,
       "name": "Graveyard Freestyle",
       "url": "https://open.spotify.com/track/3RjRA6hxS5aC4Vnra5dSVu"
+    },
+    {
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "album": {
@@ -11626,7 +11662,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167658,
       "name": "Mezebu x 2",
       "url": "https://open.spotify.com/track/1a6n2Rh5xaqCXh9GQLcDq8"
@@ -12342,7 +12378,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173400,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO"
@@ -13462,6 +13498,24 @@
       "duration_ms": 218863,
       "name": "olivine",
       "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
+    },
+    {
+      "album": {
+        "name": "Omo Igbo",
+        "url": "https://open.spotify.com/album/1EIIU96xnk4ElwU3gjeGdH"
+      },
+      "artists": [
+        {
+          "name": "Zoro Swagbag",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Omo Igbo",
+      "url": "https://open.spotify.com/track/779VMDlol0CDND4KTKyEfr"
     },
     {
       "album": {
@@ -18002,7 +18056,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 128494,
       "name": "Supreme Dee",
       "url": "https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P"

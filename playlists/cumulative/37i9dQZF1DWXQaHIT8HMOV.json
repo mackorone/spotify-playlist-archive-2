@@ -3047,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1haxScVwh7lfpP3L5fRINd"
+      },
+      "artists": [
+        {
+          "name": "JOWY LANDA",
+          "url": "https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X"
+        },
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166739,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/77V3AIxStP7UvO6n0zIdiT"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
@@ -4412,6 +4434,24 @@
       "duration_ms": 269453,
       "name": "Kiwede",
       "url": "https://open.spotify.com/track/2DxBJ6J0BNycAYk1L8ktRK"
+    },
+    {
+      "album": {
+        "name": "Kiyamba Nze & Empeta",
+        "url": "https://open.spotify.com/album/6dV7uxni6lA7iGG80xfM0n"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175425,
+      "name": "Kiyamba Nze",
+      "url": "https://open.spotify.com/track/4cjOihQfvoYISv7usG7dMR"
     },
     {
       "album": {
@@ -7866,7 +7906,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 185182,
       "name": "Pullover",
       "url": "https://open.spotify.com/track/3lfnpygSEIOPJu072UbKoA"
@@ -9890,7 +9930,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161208,
       "name": "Tuti",
       "url": "https://open.spotify.com/track/2UPMkwvdiZMA02YNWKp0b2"

@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 166217,
       "name": "Desilusi\u00f3n",
       "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
@@ -3336,6 +3336,24 @@
       "duration_ms": 138840,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8"
+    },
+    {
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Juan Garc\u00eda Medeles y su Orquesta",
+          "url": "https://open.spotify.com/artist/0C439HfJvEeZQg74IGBksG"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152720,
+      "name": "Pobre gente de Par\u00eds",
+      "url": "https://open.spotify.com/track/158scw1c7XqzLqnrrAQOtN"
     },
     {
       "album": {

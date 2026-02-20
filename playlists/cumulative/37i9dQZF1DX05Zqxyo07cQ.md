@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-962 songs - 1 day 22 hr 9 min
+964 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Destello Cosmico](https://open.spotify.com/track/3AcEjvJHGwJBWVVHHZYKIc) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Destello Cosmico](https://open.spotify.com/album/2SPHK8VZRckwgl2k3UwwNs) | 2:45 | 2025-01-08 | 2025-11-13 |
 | [Developmental Process](https://open.spotify.com/track/5GnKoJzAANzdLmAc1fClLy) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Developmental Process](https://open.spotify.com/album/5Rsg120PXR7nqhJwh79ij8) | 3:02 | 2025-12-17 |  |
 | [Different Worlds](https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Different Worlds](https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o) | 2:30 | 2025-12-17 |  |
-| [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/3IbBAK3p67A2nrqvUCbRwT) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 | 2025-09-23 |  |
+| [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/3IbBAK3p67A2nrqvUCbRwT) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 | 2025-09-23 | 2026-02-20 |
 | [Dignity](https://open.spotify.com/track/4vFL08pP0H9RDUVj05qXyL) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Dignity](https://open.spotify.com/album/6sk6xBBjIWn7JXVnJHwuLm) | 2:46 | 2025-03-19 |  |
 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 | 2023-03-23 | 2024-02-09 |
 | [Dimmed Light](https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Dimmed Light](https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e) | 2:59 | 2025-03-19 | 2025-06-26 |
@@ -245,6 +245,7 @@
 | [Dreaming of Tomorrow](https://open.spotify.com/track/3EFaN9v9tupcVsokB6OswI) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Dreaming of Tomorrow](https://open.spotify.com/album/12mfOaap1GI6c0SCuQNLCK) | 2:50 | 2024-02-08 | 2024-07-13 |
 | [Dreamless](https://open.spotify.com/track/4NfFX4UXNLP7kjvQqdlxag) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Dreamless](https://open.spotify.com/album/4nOghyDZWdB3mqNpVmrjCQ) | 3:04 | 2024-01-17 | 2025-03-01 |
 | [Dreamplay](https://open.spotify.com/track/2LkRhuE955ZZ5QLCYNU1HM) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Dreamplay](https://open.spotify.com/album/0Dr78N59UGKGci0dtR5Xoj) | 2:50 | 2025-02-26 | 2026-01-15 |
+| [Dreams Within](https://open.spotify.com/track/5pFwnJzOhz5reS2GPzmb3k) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Dreams Within](https://open.spotify.com/album/0xyCvWw7Fz6xc738bF4ITn) | 2:40 | 2026-01-27 |  |
 | [Dreamscape Calmitude](https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Dreamscape Calmitude](https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl) | 3:07 | 2025-05-27 | 2025-12-22 |
 | [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 |  |
 | [Dreyma](https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Dreyma](https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ) | 2:47 | 2025-03-19 | 2026-01-15 |
@@ -499,6 +500,7 @@
 | [Lost Radiance](https://open.spotify.com/track/0R7CCpHV2cg5SeArcOt4LL) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Lost Radiance](https://open.spotify.com/album/1HGnlSNXsN8sFQKtdoIot7) | 2:48 | 2026-01-27 |  |
 | [Love and Light](https://open.spotify.com/track/4KHtSL1CTl3mLQUmeS0FzZ) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Love and Light](https://open.spotify.com/album/0BEXzf1T4SsA7dwfY1gLRz) | 2:52 | 2024-06-18 | 2025-02-09 |
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2023-03-23 | 2023-05-06 |
+| [Lucenor](https://open.spotify.com/track/5jrgFpfGWfZwPIDiWPtTYl) | [Moktar Debous](https://open.spotify.com/artist/5gWsUOTIaNIIeyOaxfxA91) | [Lucenor](https://open.spotify.com/album/1KhtbKhWWA7MYaRfZFZ1AV) | 2:26 | 2026-01-27 |  |
 | [Lucidity](https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Lucidity](https://open.spotify.com/album/6haBGLYkEAozj08quqeStB) | 2:34 | 2025-12-03 |  |
 | [Lueur Douce](https://open.spotify.com/track/2sVWZpQoXINyHwERzoR7Xi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Lueur Douce](https://open.spotify.com/album/4wmfSjubmk2BXI6kJmJqmA) | 2:57 | 2025-11-12 | 2026-01-15 |
 | [Lumina](https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Lumina](https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY) | 2:12 | 2025-12-17 |  |
@@ -773,7 +775,7 @@
 | [Sleepyhead](https://open.spotify.com/track/3s2wuyhnAeoE3XGjYNFlVQ) | [Vindviska](https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O) | [Sleepyhead](https://open.spotify.com/album/4ou8Pt8fwv2djnK0CH8Gec) | 2:30 | 2025-10-08 | 2026-01-17 |
 | [Slope Angle](https://open.spotify.com/track/4PAnqov2s1DU04SRdu8wVt) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Slope Angle](https://open.spotify.com/album/2me4c6Lqt8n2D00edBgz3B) | 2:36 | 2026-01-27 |  |
 | [Slow Down the Night](https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Slow Down The Night](https://open.spotify.com/album/5nE8ZiMK0GJHk6FmX17hDU) | 3:40 | 2023-03-23 | 2024-02-09 |
-| [Slowly Drifting](https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Slowly Drifting](https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ) | 2:06 | 2025-11-12 |  |
+| [Slowly Drifting](https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Slowly Drifting](https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ) | 2:06 | 2025-11-12 | 2026-02-20 |
 | [Slumber](https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Slumber](https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF) | 2:41 | 2024-06-18 | 2025-10-12 |
 | [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 | 2023-03-23 | 2023-07-29 |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2023-03-23 | 2024-05-05 |

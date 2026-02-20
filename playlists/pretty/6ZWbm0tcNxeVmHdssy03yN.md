@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,906 likes - 99 songs - 4 hr 41 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,919 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 63 | [CRIP](https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [CRIP](https://open.spotify.com/album/7MM7BvNZ0hnM5Q7Y7xt14H) | 2:32 |
 | 64 | [Last Pound](https://open.spotify.com/track/61K1crraupVe0ozjRlPB42) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Last Pound](https://open.spotify.com/album/4tQnweQakGQkQA9Zukn8sA) | 1:43 |
 | 65 | [Bad Girl](https://open.spotify.com/track/18zFTFeG93GXYeZEuH3JCn) | [Remzy](https://open.spotify.com/artist/1SmoWQ0Cbmf0WOh9eW876J) | [Bad Girl](https://open.spotify.com/album/7pgQMCheybLrRMgSNRFS1Z) | 2:16 |
-| 66 | [How Cud U?](https://open.spotify.com/track/05UdQeEyAqWcsxZKYdhkbN) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [How Cud U?](https://open.spotify.com/album/6BAvjggsEsvVPTOFBnwRtm) | 2:35 |
+| 66 | [How Cud U?](https://open.spotify.com/track/05UdQeEyAqWcsxZKYdhkbN) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [How Cud U?](https://open.spotify.com/album/6BAvjggsEsvVPTOFBnwRtm) | 2:35 |
 | 67 | [RIDER](https://open.spotify.com/track/0pl8LizYbG6joZS67m8ldP) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Sounds Of The Diaspora](https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK) | 3:32 |
 | 68 | [off the hook](https://open.spotify.com/track/4G8VmRq3L0WpLh78tMN0kS) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [i miss when monsters were only shadows](https://open.spotify.com/album/3RQhc4ECZgmOJ97tWvxJAe) | 2:57 |
 | 69 | [RUN4THEHILLS](https://open.spotify.com/track/0Hnhy2bebBDNy0gtdtE0ou) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [RUN4THEHILLS](https://open.spotify.com/album/57VlYCd16L05qwVTpjUwwN) | 2:47 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: COPAK",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Lucid Express",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Custom-made girl",
+        "url": "https://open.spotify.com/album/3Ua9hbiIAzX4NmuGBZVhhu"
+      },
+      "artists": [
+        {
+          "name": "TIAB",
+          "url": "https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183070,
+      "name": "Custom-made girl",
+      "url": "https://open.spotify.com/track/0OM92xUctrtfSx2Gocn9Va"
+    },
+    {
+      "album": {
         "name": "DAI MOND",
         "url": "https://open.spotify.com/album/0KND9Ae7tkWf0Ml2vgbH6e"
       },
@@ -6461,6 +6479,28 @@
     },
     {
       "album": {
+        "name": "Gong Hei Fat Choi",
+        "url": "https://open.spotify.com/album/2b8DnEZeqL4Eb7dJeRFlEl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Holic",
+          "url": "https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM"
+        },
+        {
+          "name": "FUNGMADE \u5353\u5cf0\u6574\u5605",
+          "url": "https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Gong Hei Fat Choi",
+      "url": "https://open.spotify.com/track/6xPSLwlTAmfHvDUkBNpj4X"
+    },
+    {
+      "album": {
         "name": "Gong Mud Ye",
         "url": "https://open.spotify.com/album/6VDZeHuBpBmiezlRWWr9ae"
       },
@@ -8759,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "Instant Comfort",
+        "url": "https://open.spotify.com/album/2EL8CUKGvqUGoFPMizI7fK"
+      },
+      "artists": [
+        {
+          "name": "Lucid Express",
+          "url": "https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286700,
+      "name": "Instant Comfort",
+      "url": "https://open.spotify.com/track/6ZSRPiXmN5USVRs2Rl3GhX"
+    },
+    {
+      "album": {
         "name": "Internecine",
         "url": "https://open.spotify.com/album/3pHGC384OfVDqnlTBFKqrH"
       },
@@ -9342,6 +9400,24 @@
       "duration_ms": 340698,
       "name": "Lagrange",
       "url": "https://open.spotify.com/track/0KUq7N42GfT5WgdmpbOYo1"
+    },
+    {
+      "album": {
+        "name": "landline",
+        "url": "https://open.spotify.com/album/4ngXOiBUrnT2N78k2XMLnH"
+      },
+      "artists": [
+        {
+          "name": ".btec",
+          "url": "https://open.spotify.com/artist/3ywdE8lVfcf7MB8DWcYvy8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/7bA9FyHOtBaI2iCA1zK1z7"
     },
     {
       "album": {
@@ -22264,6 +22340,24 @@
       "duration_ms": 169565,
       "name": "\u5206\u5fc3",
       "url": "https://open.spotify.com/track/3sMKYHJbsxx3fRJQ1Cg2NT"
+    },
+    {
+      "album": {
+        "name": "\u5206\u64d4",
+        "url": "https://open.spotify.com/album/1k5QjHdPwlk3zEe3uhgC3O"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "\u5206\u64d4",
+      "url": "https://open.spotify.com/track/38D1oJmQCOttwPWF1Olh8J"
     },
     {
       "album": {

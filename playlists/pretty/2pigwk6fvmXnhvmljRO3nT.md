@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,209 songs - 20 day 20 hr 55 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,210 songs - 20 day 20 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8217,5 +8217,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8207 | [ロストワンの号哭 \(feat\. 星乃一歌&日野森志歩&鏡音リン\)](https://open.spotify.com/track/6CyurDf3ISOyCwHwqqAPV9) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.2\(Selected Edition\)](https://open.spotify.com/album/62rbnAyLsDsHoD7aPZfD8e) | 3:35 |
 | 8208 | [ロストエンファウンド \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク\)](https://open.spotify.com/track/0YHFrIyuqPtJQt6a6lqB63) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.2\(Selected Edition\)](https://open.spotify.com/album/62rbnAyLsDsHoD7aPZfD8e) | 5:03 |
 | 8209 | [アンビリカル](https://open.spotify.com/track/0ZjPiCpMBPzb2G3FUi9N0G) | [MILGRAM ユノ \(CV: 相坂優歌\)](https://open.spotify.com/artist/7BQFAksg6eICiE2Io3h7GZ) | [アンビリカル](https://open.spotify.com/album/10lp2srOD3qXyMcZwWUNNv) | 3:23 |
+| 8210 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
 
-Snapshot ID: `AAAKqH63agVAXamHR91aQiBD/UP7m+zh`
+Snapshot ID: `AAAKqWsWI90BTqKcxl9RpbVjmMvV7QBD`

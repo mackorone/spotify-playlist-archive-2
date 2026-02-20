@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Rakkasapuradhol",
-  "num_followers": 67866,
+  "num_followers": 67874,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMSimkEpSEPhiRfeYU07od1A5/0E",
+  "snapshot_id": "AAAAAO4gpTMLaGSJjzqTpozILMkzztJ+",
   "tracks": [
     {
       "added_at": "2026-02-10 09:50:01",
@@ -83,6 +83,30 @@
       "duration_ms": 196666,
       "name": "Kaala Kelo (From \"Gatha Vaibhava\")",
       "url": "https://open.spotify.com/track/6fcyl9dRHSaAC5E6PbNvPd"
+    },
+    {
+      "added_at": "2026-02-19 12:57:15",
+      "album": {
+        "name": "Premanthaka (From \"LANDLORD\")",
+        "url": "https://open.spotify.com/album/2YsS89T85bfQoiwojs8OEv"
+      },
+      "artists": [
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "Premanthaka (From \"LANDLORD\")",
+      "url": "https://open.spotify.com/track/08FKW1x2JTIhRVwYd3wNPC"
     },
     {
       "added_at": "2026-02-12 10:57:57",
@@ -1759,26 +1783,6 @@
       "duration_ms": 334177,
       "name": "Yako Yako (From \"The Rise Of Ashoka - Kannada\")",
       "url": "https://open.spotify.com/track/6z9kzvjbTkteglA89yE4mI"
-    },
-    {
-      "added_at": "2026-01-05 07:48:31",
-      "album": {
-        "name": "Tutthina Butthiyannu (From \"Bicchugatthiya Bantana Ballirena\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2JC1ALyasQTEjfTQWLRJL7"
-      },
-      "artists": [
-        {
-          "name": "Patho Prajwal",
-          "url": "https://open.spotify.com/artist/7qTJPEijvChSlJDPynQdGp"
-        },
-        {
-          "name": "Shri Sastha",
-          "url": "https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Tutthina Butthiyannu (From \"Bicchugatthiya Bantana Ballirena\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/4sUAjiMgZeC0qfiQm5e7Uv"
     },
     {
       "added_at": "2025-12-15 09:51:46",

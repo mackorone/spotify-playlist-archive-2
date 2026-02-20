@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 243805,
+  "num_followers": 243854,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwXvu/kgFwSdUuOAgvDCgm4Aql0",
+  "snapshot_id": "AAAAAHkPPndI570nG19y2rFTIoBzET4F",
   "tracks": [
     {
       "added_at": "2026-02-12 17:24:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
-      },
-      "artists": [
-        {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 258864,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Hello (Iced Heart Riddim)",
         "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
       },
       "artists": [
         {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1215,6 +1199,22 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 87086,
       "name": "Sit on My Face",
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 206609,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
     },
     {
       "added_at": "2026-02-12 17:24:55",

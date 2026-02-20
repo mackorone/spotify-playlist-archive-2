@@ -4586,7 +4586,7 @@
           "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
         },
         {
-          "name": "ANGEL!",
+          "name": "Angel",
           "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
         }
       ],
@@ -4794,10 +4794,36 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148945,
       "name": "Project Baby",
       "url": "https://open.spotify.com/track/5Nt5bfPUn9CFmCAeFhCaKk"
+    },
+    {
+      "album": {
+        "name": "Project Baby (Remix)",
+        "url": "https://open.spotify.com/album/4WHjKjDoV88TpAFn47i1L8"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157331,
+      "name": "Project Baby (Remix)",
+      "url": "https://open.spotify.com/track/4QMVleuOKpfvpuloHBsBgH"
     },
     {
       "album": {

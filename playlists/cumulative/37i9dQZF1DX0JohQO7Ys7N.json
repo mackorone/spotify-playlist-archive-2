@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Hildah Watiri & Kyrop",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1214,6 +1214,32 @@
       "duration_ms": 150000,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti"
+    },
+    {
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        },
+        {
+          "name": "YAH LISTEN",
+          "url": "https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp"
     },
     {
       "album": {
@@ -4192,7 +4218,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 360000,
       "name": "Peddi",
       "url": "https://open.spotify.com/track/643eUUzfiHcyEVt5UHcMkC"
@@ -5265,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Tabasamu",
+        "url": "https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Tabasamu",
+      "url": "https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2"
+    },
+    {
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn"
       },
@@ -5406,7 +5450,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132954,
       "name": "The World",
       "url": "https://open.spotify.com/track/6AIPUgPeeZlyjlmYJJvQG3"

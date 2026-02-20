@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: VVV
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP KRIT
 
-840 songs - 2 day 1 hr 22 min
+842 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-01-31 | 2024-05-11 |
 | [Goodnite](https://open.spotify.com/track/0WIsTmkaxJT8bKYOO1b5od) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Goodnite](https://open.spotify.com/album/6cUos9As4HRkaeiRmmuHLH) | 2:24 | 2024-08-22 | 2024-09-13 |
 | [Grow With The Flow](https://open.spotify.com/track/0Q4NvzVTC30c8R7joBS5Lj) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:13 | 2025-11-27 | 2025-12-19 |
+| [guilty pleasure](https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [guilty pleasure](https://open.spotify.com/album/7MDOYH1n73qdrT1T6Ns7eI) | 3:13 | 2026-02-19 |  |
 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 | 2025-02-27 | 2025-03-13 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
 | [HEARTCASE](https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [HEARTCASE](https://open.spotify.com/album/0hY7fcr5136UIaQGzuoULv) | 3:55 | 2024-06-13 | 2024-06-21 |
@@ -261,7 +262,7 @@
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
 | [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-12 |  |
 | [YOU OF THE YEAR](https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0) | [YOU OF THE YEAR](https://open.spotify.com/album/5I49TQuKqF2CHsXBGg07YS) | 3:48 | 2025-12-18 | 2026-01-23 |
-| [Yours](https://open.spotify.com/track/2nhMQ5sGCQvBVlvXbaJmiH) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [Yours](https://open.spotify.com/album/5YqPF2b3Yy43HpgowDgpUx) | 3:21 | 2026-01-29 |  |
+| [Yours](https://open.spotify.com/track/2nhMQ5sGCQvBVlvXbaJmiH) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [Yours](https://open.spotify.com/album/5YqPF2b3Yy43HpgowDgpUx) | 3:21 | 2026-01-29 | 2026-02-20 |
 | [ZiGZaG](https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ZiGZaG](https://open.spotify.com/album/68EaJMPDCWqT0huDBBAT7k) | 2:34 | 2023-11-09 | 2023-11-25 |
 | [กดใจไว้หน่อย \(Double Tap\)](https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [กดใจไว้หน่อย \(Double Tap\)](https://open.spotify.com/album/39fOwDsBKcA9dbXLOLX8m6) | 3:12 | 2024-02-22 | 2024-03-02 |
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-05-26 | 2022-12-09 |
@@ -431,6 +432,7 @@
 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 | 2022-07-23 | 2022-11-16 |
 | [ถ้าเธอรู้ว่าฉันเหงา \(if only\)](https://open.spotify.com/track/0Hw3zXdLdXqtbGhBPhUhY6) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [ถ้าเธอรู้ว่าฉันเหงา \(if only\)](https://open.spotify.com/album/4kAJ7UH8aRhpDzMJq3VdBj) | 4:20 | 2022-06-02 | 2022-06-10 |
 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 | 2023-04-06 | 2024-04-19 |
+| [ถ้าเธอไม่รัก \(Cross The Line\)](https://open.spotify.com/track/73UuqtdR4gBAaxZSGYRqsq) | [MEEPOOH](https://open.spotify.com/artist/6m6obXYeSAepfEH0nwGhHa) | [ถ้าเธอไม่รัก \(Cross The Line\)](https://open.spotify.com/album/6Q8jj5yFCqX4RYabbrbdBk) | 3:00 | 2026-02-19 |  |
 | [ถ้าเธอไม่อยากโชคร้ายเรื่องความรัก \- Let Me Love You](https://open.spotify.com/track/6ah5ZmdllIdUK0VAhkCLkN) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 3:46 | 2022-08-05 | 2022-08-26 |
 | [ถ้าไม่ใช่ \(No One Else Like Me\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/6zonXTdfQREJpP8ZdBrRhg) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/0ZhtsjHqydKCTjeGt1SO1S) | 3:20 | 2023-02-23 | 2023-03-10 |
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-05-26 | 2023-09-16 |
@@ -790,7 +792,7 @@
 | [โค้ดลับ](https://open.spotify.com/track/7yPsDvID4lBpGfm2AHliHy) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โค้ดลับ](https://open.spotify.com/album/7eSrWCLACdNQiikod3JOuU) | 3:51 | 2026-01-29 | 2026-02-06 |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-26 | 2024-01-19 |
 | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/album/1nkCVldSm0BACa1JvBONAq) | 2:54 | 2026-02-12 |  |
-| [โสดสนิท \(100% single\)](https://open.spotify.com/track/1DCHQy6QgSlhjAsGr2wbEi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [โสดสนิท \(100% single\)](https://open.spotify.com/album/6WgtoQ25rW94D4gO7zJGZ2) | 2:55 | 2026-02-12 |  |
+| [โสดสนิท \(100% single\)](https://open.spotify.com/track/1DCHQy6QgSlhjAsGr2wbEi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [โสดสนิท \(100% single\)](https://open.spotify.com/album/6WgtoQ25rW94D4gO7zJGZ2) | 2:55 | 2026-02-12 | 2026-02-20 |
 | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/track/1ncwheJzbPTvNhKtwvsrjM) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc) | 3:04 | 2025-03-20 | 2025-04-25 |
 | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/album/4ZZNajw0mJqgRii3twhyDQ) | 4:06 | 2024-10-24 | 2024-11-01 |
 | [โอ้ความรัก](https://open.spotify.com/track/2VtEXjR6lKIGBafyHYLbiN) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [โอ้ความรัก](https://open.spotify.com/album/7EZylrDrTITMzf3Vx2l4Dk) | 3:47 | 2022-07-01 | 2022-07-08 |

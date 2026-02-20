@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 233172,
+  "num_followers": 233185,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAAn+YhZzcVaCF+X6eXK8S3P",
+  "snapshot_id": "aZUBAAAAAAArARltNiZBGz2pofWeqKI+",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 305600,
-      "name": "If You Know, Won't You Tell Me",
-      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White's Greatest Hits",
         "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220493,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
       "added_at": null,

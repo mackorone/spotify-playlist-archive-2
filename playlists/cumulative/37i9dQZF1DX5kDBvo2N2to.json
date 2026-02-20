@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132500,
       "name": "24/7",
       "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 225000,
       "name": "500 kr",
       "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 215834,
       "name": "Bl\u00e5\u00f6gd",
       "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
@@ -1182,6 +1182,24 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
+    },
+    {
+      "album": {
+        "name": "broken paradise",
+        "url": "https://open.spotify.com/album/2lIuWlIWooFwWvPqL2JZem"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242659,
+      "name": "broken paradise",
+      "url": "https://open.spotify.com/track/2dnBqp1fbuxotdW31xddUj"
     },
     {
       "album": {
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 159754,
       "name": "change",
       "url": "https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd"
@@ -1665,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/7IcbNnWX8Lp2S0ZgkGwb0X"
+      },
+      "artists": [
+        {
+          "name": "Faaka",
+          "url": "https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/37YwXzdP7EdR487VhhCPdP"
+    },
+    {
+      "album": {
         "name": "Damned",
         "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
@@ -3252,7 +3288,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 182911,
       "name": "Gr\u00f6n hatt",
       "url": "https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK"
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH"
@@ -3654,7 +3690,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 95217,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
@@ -3708,7 +3744,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Honor",
       "url": "https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5"
@@ -4772,7 +4808,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229994,
       "name": "Klara",
       "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
@@ -5260,7 +5296,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 204167,
       "name": "Love is for Losers",
       "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
@@ -5484,7 +5520,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 134254,
       "name": "Madame",
       "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
@@ -5610,7 +5646,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 187500,
       "name": "Men du",
       "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
@@ -5650,7 +5686,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176672,
       "name": "MIG/DIG (feat. Klaudy)",
       "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
@@ -6058,6 +6094,24 @@
       "duration_ms": 171159,
       "name": "Nere p\u00e5 golvet",
       "url": "https://open.spotify.com/track/4KYz0f2OYDQLJEE5B8y2Zy"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171248,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
     },
     {
       "album": {
@@ -6728,7 +6782,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176000,
       "name": "RING MIG 112!!?",
       "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
@@ -6800,7 +6854,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 123886,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
@@ -6894,7 +6948,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186893,
       "name": "Same Old Dirt",
       "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
@@ -7342,7 +7396,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 181090,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy"
@@ -7378,7 +7432,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161597,
       "name": "Solros",
       "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
@@ -7584,7 +7638,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 207174,
       "name": "Stanna lite till",
       "url": "https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu"
@@ -7800,7 +7854,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173173,
       "name": "St\u00f6rd",
       "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
@@ -8451,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "Tro p\u00e5 en \u00e4ngel",
+        "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Tro p\u00e5 en \u00e4ngel",
+      "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -8730,7 +8802,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 125539,
       "name": "VEM VET?",
       "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"

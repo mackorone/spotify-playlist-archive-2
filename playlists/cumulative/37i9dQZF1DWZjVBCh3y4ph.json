@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Kany",
+  "description": "Les hits zouk & kompa du moment. Photo : MARVIN",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 180000,
       "name": "Amour consum\u00e9 / Toxic II",
       "url": "https://open.spotify.com/track/0TuDPnTdoBHLje8Gc8ffxs"
@@ -520,6 +520,32 @@
       "duration_ms": 160075,
       "name": "BB Attends",
       "url": "https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "SAM",
+          "url": "https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw"
+        },
+        {
+          "name": "Gtnn",
+          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160988,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c"
     },
     {
       "album": {
@@ -1408,7 +1434,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193043,
       "name": "DERNIERE DANSE",
       "url": "https://open.spotify.com/track/52WwN0gy7cdx5XWDTpmXf9"
@@ -1794,6 +1820,28 @@
       "duration_ms": 180000,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/7vuIiqyxVwbJFLRY3IaQVa"
+    },
+    {
+      "album": {
+        "name": "DOUDOU",
+        "url": "https://open.spotify.com/album/1y3IUbnsAcjEYOBbGwCUpX"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138545,
+      "name": "DOUDOU",
+      "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
     },
     {
       "album": {
@@ -3444,7 +3492,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161426,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6JDyyg3IqwKHv4CpAZgmcc"
@@ -3958,7 +4006,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 164615,
       "name": "Mon histoire",
       "url": "https://open.spotify.com/track/4twsrwCYrH2KOBD7w5fcnF"
@@ -4970,7 +5018,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 133239,
       "name": "Pas de d\u00e9tails",
       "url": "https://open.spotify.com/track/52BeYE5LGLQd6bvCmes7Mw"
@@ -5635,6 +5683,28 @@
     },
     {
       "album": {
+        "name": "Sans compromis",
+        "url": "https://open.spotify.com/album/6DDS2aD67Sg9tGat0qXzZ7"
+      },
+      "artists": [
+        {
+          "name": "Nickson",
+          "url": "https://open.spotify.com/artist/09oRvxQZx60TJaLKEYwpcg"
+        },
+        {
+          "name": "Sha",
+          "url": "https://open.spotify.com/artist/3cedr0F6nofFjXvMn7Arkn"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Sans compromis",
+      "url": "https://open.spotify.com/track/1ZFWCpMHHijs163GvjphXN"
+    },
+    {
+      "album": {
         "name": "Sans maquillage",
         "url": "https://open.spotify.com/album/2KDHbO4HFg4lowJLirMroF"
       },
@@ -5698,6 +5768,28 @@
       "duration_ms": 195000,
       "name": "Sans ranc\u0153ur",
       "url": "https://open.spotify.com/track/7HMYc94izcZHDneK2UMp8s"
+    },
+    {
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4cjNFYPvqD0rTGYwzSfF1f"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efky",
+          "url": "https://open.spotify.com/artist/2rQeZ8SNQ5OzWyUqxGrem6"
+        },
+        {
+          "name": "T-Gui",
+          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190551,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/7y1zsDoDhyhj1SoBtEmRsM"
     },
     {
       "album": {
@@ -7146,6 +7238,24 @@
       "duration_ms": 187499,
       "name": "Un mot d'amour",
       "url": "https://open.spotify.com/track/0WxwMIFuqX4kdiL7IeEi8i"
+    },
+    {
+      "album": {
+        "name": "Une amie comme toi",
+        "url": "https://open.spotify.com/album/74m0kRMKKNtatXCmFqtz0x"
+      },
+      "artists": [
+        {
+          "name": "Loriane",
+          "url": "https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142593,
+      "name": "Une amie comme toi",
+      "url": "https://open.spotify.com/track/1y5qcqHDojtYuGqxzMuTKo"
     },
     {
       "album": {

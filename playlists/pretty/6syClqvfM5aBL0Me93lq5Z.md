@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 63 songs - 3 hr 47 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 64 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 61 | [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 |
 | 62 | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/track/6pG2R3eEUtFeH0sHkIcdg5) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/album/4ywC4BFKBC90intbtIV715) | 3:14 |
 | 63 | [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 |
+| 64 | [Dead Inside](https://open.spotify.com/track/2mle4atoY4qjRBpVgAUhdG) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Dead Inside](https://open.spotify.com/album/7GcU6XRmPo8GWzJxkZirMm) | 3:20 |
 
-Snapshot ID: `AAAARDUm91DNLrrBHkzWYq/Tf4xGAJXm`
+Snapshot ID: `AAAARYev87H+J+DvZG/tPvPcB/Ez1NKw`

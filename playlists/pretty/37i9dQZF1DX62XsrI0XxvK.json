@@ -1,13 +1,41 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dzulfahmi",
-  "num_followers": 13897,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: TADI, Isyana Sarasvati, MAKO., REDROSE",
+  "num_followers": 13895,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8fbs7zsSbDxOB+ffe7zj3kZTgY",
+  "snapshot_id": "AAAAADwQKbod8RM/tXgrt3Hfjg5PT9nU",
   "tracks": [
+    {
+      "added_at": "2026-02-19 18:00:32",
+      "album": {
+        "name": "Tunggu Aku",
+        "url": "https://open.spotify.com/album/3RPlamzxsRSD73Y3QVkBVf"
+      },
+      "artists": [
+        {
+          "name": "TADI",
+          "url": "https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF"
+        },
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "MAKO.",
+          "url": "https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH"
+        },
+        {
+          "name": "REDROSE",
+          "url": "https://open.spotify.com/artist/4zZfILWPssf3GfmXmqg7xo"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Tunggu Aku",
+      "url": "https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U"
+    },
     {
       "added_at": "2026-02-12 19:00:27",
       "album": {
@@ -527,26 +555,6 @@
     {
       "added_at": "2025-11-20 17:00:10",
       "album": {
-        "name": "Lelah",
-        "url": "https://open.spotify.com/album/4ndTARa0clTFGf8DnNzuSO"
-      },
-      "artists": [
-        {
-          "name": "Reggyf Lawalata",
-          "url": "https://open.spotify.com/artist/7dcOPR1DccewnM6nwMa4EO"
-        },
-        {
-          "name": "Mor M.A.C",
-          "url": "https://open.spotify.com/artist/7bvhAv1D7WAmKISSbTGnIu"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Lelah",
-      "url": "https://open.spotify.com/track/1fNw080eLrAFFJdH7VwEyB"
-    },
-    {
-      "added_at": "2025-11-20 17:00:10",
-      "album": {
         "name": "kenapa?",
         "url": "https://open.spotify.com/album/0o8h3D5b6oQqk4bdnmvVtx"
       },
@@ -691,22 +699,6 @@
       "duration_ms": 181394,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS"
-    },
-    {
-      "added_at": "2025-10-24 01:29:31",
-      "album": {
-        "name": "Salah Paham",
-        "url": "https://open.spotify.com/album/3hFH41buob1oT4Lyf7Cf8k"
-      },
-      "artists": [
-        {
-          "name": "Syahravi",
-          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
-        }
-      ],
-      "duration_ms": 207205,
-      "name": "Salah Paham",
-      "url": "https://open.spotify.com/track/75itNZTt1HF4CdfxAr0Ld1"
     },
     {
       "added_at": "2025-10-23 17:00:26",
@@ -899,22 +891,6 @@
       "duration_ms": 234195,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/6R549RTmRikhV9khynVxv3"
-    },
-    {
-      "added_at": "2025-10-02 17:00:33",
-      "album": {
-        "name": "Balada Ibukota",
-        "url": "https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j"
-      },
-      "artists": [
-        {
-          "name": "Gavendri",
-          "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
-        }
-      ],
-      "duration_ms": 174153,
-      "name": "Balada Ibukota",
-      "url": "https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD"
     },
     {
       "added_at": "2025-09-18 17:00:31",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Fall in love with these songs \u270d\ufe0f cover: Hetta Falzon",
+  "description": "It's all about the song  \ud83c\udfa7 cover: Noah Kahan\n\ud83d\udccdSomewhere between indie, pop, folk and country",
   "name": "Common Thread",
   "tracks": [
     {
@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "album": {
         "name": "Be By You",
         "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
       },
@@ -1430,6 +1452,24 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "album": {
+        "name": "Burning At Both Ends",
+        "url": "https://open.spotify.com/album/5ZHm6ARigT0lZt85PXIbCY"
+      },
+      "artists": [
+        {
+          "name": "Bradley Baker",
+          "url": "https://open.spotify.com/artist/0L87ufcQdvOHWZbcrIaXcc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Burning At Both Ends",
+      "url": "https://open.spotify.com/track/2GUGurzEvGaqMPi8a6hVPJ"
     },
     {
       "album": {
@@ -2206,7 +2246,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 240946,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
@@ -2276,6 +2316,24 @@
       "duration_ms": 199357,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
+    {
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/5J5vxZf2Z3nM8uE9rp56rZ"
+      },
+      "artists": [
+        {
+          "name": "Rain Corner",
+          "url": "https://open.spotify.com/artist/5DzQFYXeIc2U1R9Vrq7y5a"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266226,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/1htncNq6oinYzJ0pgZpKqi"
     },
     {
       "album": {
@@ -2424,6 +2482,24 @@
       "duration_ms": 180000,
       "name": "DidYouReadMyLetter?",
       "url": "https://open.spotify.com/track/1CJSZp2ViKNkU6CBmmxN0U"
+    },
+    {
+      "album": {
+        "name": "Die for you",
+        "url": "https://open.spotify.com/album/0pY5InO2K9DwyhJOA2924q"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Die for you",
+      "url": "https://open.spotify.com/track/7JcHHEKQUnr7EZR0GAdneV"
     },
     {
       "album": {
@@ -3390,7 +3466,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173946,
       "name": "Finest Work",
       "url": "https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU"
@@ -3924,7 +4000,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 164881,
       "name": "Getting to Know You",
       "url": "https://open.spotify.com/track/67enQoioxtVbPyXPyqAtxL"
@@ -4072,6 +4148,24 @@
       "duration_ms": 213693,
       "name": "God, We Tried",
       "url": "https://open.spotify.com/track/7pHIHWnpFs1xIeyStVgrr7"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
+      },
+      "artists": [
+        {
+          "name": "Lara Buchanan",
+          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
     },
     {
       "album": {
@@ -4386,6 +4480,24 @@
       "duration_ms": 214081,
       "name": "Happy",
       "url": "https://open.spotify.com/track/1g95lQtQLQ0Q7X2gZrIirD"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222324,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
     },
     {
       "album": {
@@ -5074,7 +5186,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175929,
       "name": "i don't wanna die today",
       "url": "https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4"
@@ -5840,7 +5952,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 236840,
       "name": "jane",
       "url": "https://open.spotify.com/track/2w2GeamozlR1GZtcGHgvXU"
@@ -8268,7 +8380,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178641,
       "name": "Phone Sex",
       "url": "https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw"
@@ -9590,6 +9702,24 @@
       "duration_ms": 176285,
       "name": "Skylight (feat. Tiny Habits)",
       "url": "https://open.spotify.com/track/4jeO32OZxJiSHsFBaR7PcR"
+    },
+    {
+      "album": {
+        "name": "Sleeping Dogs",
+        "url": "https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn"
+      },
+      "artists": [
+        {
+          "name": "Dolder",
+          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Sleeping Dogs",
+      "url": "https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD"
     },
     {
       "album": {
@@ -11120,7 +11250,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 136693,
       "name": "The Motive",
       "url": "https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt"

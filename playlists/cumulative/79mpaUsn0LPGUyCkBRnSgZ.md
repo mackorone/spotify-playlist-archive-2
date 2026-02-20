@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,060 songs - 2 day 21 hr 12 min
+1,063 songs - 2 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2023-05-19 |  |
 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 | 2025-07-23 |  |
 | [Next To Me](https://open.spotify.com/track/16MKLKWVZPt84xOwCU56hg) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Charmed](https://open.spotify.com/album/3hufhPvd2yMXONUeQjyrT3) | 7:37 | 2025-12-13 |  |
-| [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 | 2026-02-06 |  |
+| [Night Faces](https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:08 | 2026-02-06 | 2026-02-20 |
 | [Night Night \(feat\. Kehlani\)](https://open.spotify.com/track/7I8uO1htDS5K05xNIBmBNb) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 1:44 | 2025-10-18 |  |
 | [NINA](https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85) | [Vel Nine](https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ), [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP) | [NINA](https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU) | 1:20 | 2023-12-20 | 2025-02-08 |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2024-12-27 | 2024-12-29 |
@@ -701,6 +701,7 @@
 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-08-16 | 2024-08-20 |
 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 | 2024-03-17 | 2024-03-25 |
 | [Point and Shoot](https://open.spotify.com/track/1YhGlIl93I7WNvsBda9Fpw) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 3:05 | 2025-12-31 |  |
+| [Poison Cup](https://open.spotify.com/track/6RWw6s0yGwDEslUdAUtRqy) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/15NPy6xq9HcWA8hYrYtObL) | 2:40 | 2026-02-19 |  |
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |
 | [Ponta de Areia](https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Native Dancer](https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx) | 5:15 | 2024-01-09 | 2024-07-09 |
@@ -723,6 +724,7 @@
 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2025-06-23 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
 | [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 | 2026-01-16 | 2026-01-18 |
+| [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 | 2026-02-19 |  |
 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-11-11 |  |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 | 2025-08-14 |
 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 | 2026-01-20 |  |
@@ -781,7 +783,7 @@
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 | 2024-01-22 |
 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 | 2025-10-19 |  |
 | [Say It](https://open.spotify.com/track/3J6SHj9R5awrwgLzEdk9Ck) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Bicker](https://open.spotify.com/album/6DU0UVl1TV4VOfbpf0BZ2R) | 2:53 | 2025-03-29 |  |
-| [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 | 2026-01-19 |  |
+| [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 | 2026-01-19 | 2026-02-20 |
 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 | 2024-02-26 |  |
 | [Schizophrenia](https://open.spotify.com/track/22t3vCXfjQhIiXzGVSZNOz) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sister](https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8) | 4:38 | 2025-12-31 |  |
 | [Seaglass Wish](https://open.spotify.com/track/3yWSo0oqjakX2KnES2N7fD) | [Kitchen](https://open.spotify.com/artist/4WDKeq9tHjGEcSgzhzhLB0) | [Blue Heeler in Ugly Snowlight, Grey on Gray on Gray on White](https://open.spotify.com/album/59UxAPWtavTqnqeUZ1aG2t) | 7:07 | 2025-12-31 |  |
@@ -883,6 +885,7 @@
 | [Tell It To Me](https://open.spotify.com/track/2AgTYr7uZM1C2wfItdtvlc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/5Y83CwSuyymvHbtg2KgK7j) | 2:47 | 2025-10-23 |  |
 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 | 2024-05-28 |  |
 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2025-06-20 |  |
+| [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 | 2026-02-19 |  |
 | [terminal paradise](https://open.spotify.com/track/1WBavEwIws3xdg7GVDUZWp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:59 | 2023-11-04 | 2025-10-10 |
 | [Testing](https://open.spotify.com/track/5Pnq7mIrqBkedxb59iyqv7) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Oh Me Oh My](https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe) | 3:24 | 2023-05-31 |  |
 | [Tha Mobb](https://open.spotify.com/track/3DXjKH4NR0tRS44Sb1H8fw) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:20 | 2022-04-08 |  |
@@ -969,7 +972,7 @@
 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 | 2023-05-19 | 2024-01-09 |
 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 | 2025-12-15 |  |
 | [ttgwh](https://open.spotify.com/track/1YDEfY4n05BucPJIW1BalS) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 1:14 | 2025-11-07 |  |
-| [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 | 2026-01-19 |  |
+| [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 | 2026-01-19 | 2026-02-20 |
 | [Tudo O Que Você Podia Ser](https://open.spotify.com/track/4YwIblyn5m2XAJ7ljh5d79) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 2:57 | 2024-06-16 |  |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-04-25 |  |
 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 | 2025-05-16 | 2025-06-22 |

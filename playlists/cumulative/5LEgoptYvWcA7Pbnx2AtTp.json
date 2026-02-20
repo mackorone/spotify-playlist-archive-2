@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Ta-Dah",
+        "url": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "I Can't Decide",
+      "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
+    },
+    {
+      "album": {
         "name": "Sleepy Baby EP",
         "url": "https://open.spotify.com/album/6aSqVq91GliE53WYLkHKtJ"
       },

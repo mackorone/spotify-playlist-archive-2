@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 320501,
+  "num_followers": 320522,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Silver Lake Listening Companion",
+        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "From the Subway Train - Extended Version",
+      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Silver Lake Listening Companion",
-        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "From the Subway Train - Extended Version",
-      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "i wanna",
         "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 139354,
       "name": "i wanna",
       "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "rest up",
         "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     },
     {
       "added_at": "2025-05-01 21:52:32",

@@ -4301,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Drawing an apple",
+        "url": "https://open.spotify.com/album/3DDxQVZGc2DwqqOIJbUTp6"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/6XVC2bgX6oelMWXQE2wGKL"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Drawing an apple",
+      "url": "https://open.spotify.com/track/1TeaYVGDM2Jhl1WKl1vzmz"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj"
       },
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -7374,7 +7392,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195000,
       "name": "History",
       "url": "https://open.spotify.com/track/6NBoJY5N8IkkOLFTy6Yt06"
@@ -10878,7 +10896,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 179000,
       "name": "MAZE",
       "url": "https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3"
@@ -11246,6 +11264,24 @@
       "duration_ms": 221360,
       "name": "Monoamory",
       "url": "https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA"
+    },
+    {
+      "album": {
+        "name": "Monologue \u3008Sanullim's 50th Anniversary Collaboration Album\u3009",
+        "url": "https://open.spotify.com/album/14RvZlyizSDlLPvUyUu3zv"
+      },
+      "artists": [
+        {
+          "name": "sEODo BAND",
+          "url": "https://open.spotify.com/artist/3oMLo2XGQd7pzCssRNmDz6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/5YSKkQQmw6UZC4jwDXq8NY"
     },
     {
       "album": {
@@ -14784,7 +14820,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 187169,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/0Dl9zaQa98CBI888R8KGEh"
@@ -16448,7 +16484,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229173,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
@@ -17100,7 +17136,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"

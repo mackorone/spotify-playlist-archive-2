@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53750,
+  "num_followers": 53756,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACUEunYluucFuTGoKzPNS6t",
+  "snapshot_id": "aZUBAAAAAABjhWvlLTjlFFS8pzud5L2f",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace & Noise",
-        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "1959",
-      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace & Noise",
+        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,

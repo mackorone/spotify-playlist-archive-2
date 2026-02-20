@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-825 songs - 1 day 17 hr 5 min
+827 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Clockwork](https://open.spotify.com/track/4zczcRcIdlg0YLFzQjdmPR) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk), [Bryan Andrew Medina](https://open.spotify.com/artist/1AXCXAe9tTUVCTxgZzaYfI) | [Clockwork](https://open.spotify.com/album/0M9vqRe4AV89rYORJcmAbp) | 4:21 | 2023-12-13 | 2024-07-19 |
 | [Clown Around](https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Clown Around](https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47) | 2:43 | 2023-06-16 | 2023-08-20 |
 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 | 2024-04-02 | 2024-09-29 |
+| [COM BOTA](https://open.spotify.com/track/1xpgHzym0uDfioJNWRndhj) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [crysstales](https://open.spotify.com/artist/3ZIN00As3dOKnQpjA3O8uz) | [COM BOTA](https://open.spotify.com/album/0XBZTTcFiYFDn1U1STuXyA) | 1:25 | 2026-02-19 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 | 2023-04-28 |
 | [Comet](https://open.spotify.com/track/0klFHFJRTKtNQ8uX9tgs0Q) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Keepsake](https://open.spotify.com/artist/3TNyKBo7OPi8zuGJostZXS) | [Comet](https://open.spotify.com/album/2PnjRKPTRBz128x4sHSPqt) | 3:50 | 2024-05-23 | 2024-12-09 |
 | [Coming Back](https://open.spotify.com/track/0Qn5NOtqOrIvnOdZ3Rsxav) | [The Uncommon](https://open.spotify.com/artist/6fV0T8hhZJgKewDsuQ2Pm1), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Coming Back](https://open.spotify.com/album/6nExZI8i4u5qzL8tAseZdL) | 2:14 | 2026-02-13 |  |
@@ -389,6 +390,7 @@
 | [ISORIA](https://open.spotify.com/track/20FC2sm506KUAmJaDOLLQw) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v) | [ISORIA](https://open.spotify.com/album/2ZcLKXUyxEJugsJFhiLoR0) | 2:25 | 2026-01-22 |  |
 | [ITTY BITTY](https://open.spotify.com/track/6mf4SH1vuqb9xAsnEMxAOT) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [ITTY BITTY](https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m) | 2:10 | 2023-03-28 | 2023-08-10 |
 | [jealous](https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq) | [The Trinity](https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY) | [jealous](https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1) | 2:30 | 2024-07-16 | 2025-01-08 |
+| [jeans off.](https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr) | [Jancs](https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK) | [jeans off.](https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV) | 2:01 | 2026-02-19 |  |
 | [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 | 2023-08-10 |
 | [Just The Way It Goes](https://open.spotify.com/track/17BTpUvdCQBZd5wBJPa3rI) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Just The Way It Goes](https://open.spotify.com/album/6wXde8nnDrHZArLo5uAzLI) | 3:12 | 2026-01-16 |  |
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-04-28 |

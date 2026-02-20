@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Elephant Gym \(大象體操\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fi\-Né \(粉內\)
 
-603 songs - 1 day 12 hr 39 min
+604 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Freedom](https://open.spotify.com/track/1Kb8k1lx00kItso7EBh97x) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [Freedom](https://open.spotify.com/album/11nO58mkteDM9vnY1dJLNt) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [Fresh Love in Seoul](https://open.spotify.com/track/4x2bRMktn2RaM8AIcjJyjb) | [李晉瑋\(G.WeiLee\)](https://open.spotify.com/artist/5USwlHFW8l5fLMXELJrNbf) | [Fresh Love in Seoul](https://open.spotify.com/album/5Z5jXOQm3AM5Py0IkBmfwG) | 3:06 | 2025-10-02 | 2025-12-05 |
 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 | 2024-01-25 | 2024-09-27 |
-| [fu'is \- Oberka Remix](https://open.spotify.com/track/3q3dLeKm6thEOKakI9wMVx) | [Oberka](https://open.spotify.com/artist/28LXivKZPm48396rkSUUKt), [Natsuko 夏子](https://open.spotify.com/artist/4bvDxo5eMDv5sztGrTWVhr) | [fu'is \(Oberka Remix\)](https://open.spotify.com/album/66bCluAJ4CLet0j5xvDO7W) | 3:30 | 2026-01-29 |  |
+| [fu'is \- Oberka Remix](https://open.spotify.com/track/3q3dLeKm6thEOKakI9wMVx) | [Oberka](https://open.spotify.com/artist/28LXivKZPm48396rkSUUKt), [Natsuko 夏子](https://open.spotify.com/artist/4bvDxo5eMDv5sztGrTWVhr) | [fu'is \(Oberka Remix\)](https://open.spotify.com/album/66bCluAJ4CLet0j5xvDO7W) | 3:30 | 2026-01-29 | 2026-02-20 |
 | [fuh](https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [EROS](https://open.spotify.com/album/4HNWSfU1fB4LxA290mo07b) | 2:14 | 2025-01-02 | 2025-01-31 |
 | [Galaxy official](https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL) | [Galaxy official](https://open.spotify.com/album/2ZF7aDkfknXIqRiaOMY14g) | 3:16 | 2024-02-29 | 2024-03-15 |
 | [GARDEN OF MINE](https://open.spotify.com/track/5isHPpvLRRDZ7sfXmLnCIL) | [Miao Miao Flow](https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [RUN, DON'T WALK](https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV) | 3:59 | 2024-05-30 | 2024-11-22 |
@@ -252,7 +252,7 @@
 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 | 2025-10-16 | 2025-11-21 |
 | [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 | 2024-11-29 |
 | [Monday Afternoon](https://open.spotify.com/track/0lKWF4xm3K7z0f0E4McFr8) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Monday Afternoon](https://open.spotify.com/album/1Za6HXnemIpRA7qFb23YZo) | 4:55 | 2025-08-28 |  |
-| [MONEY RULES 3EVA](https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [MONEY RULES 3EVA](https://open.spotify.com/album/0itH0yBHu2Ezq4VVyIuND4) | 2:43 | 2026-02-12 |  |
+| [MONEY RULES 3EVA](https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [MONEY RULES 3EVA](https://open.spotify.com/album/0itH0yBHu2Ezq4VVyIuND4) | 2:43 | 2026-02-12 | 2026-02-20 |
 | [Moon](https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Moon](https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa) | 5:35 | 2024-05-30 | 2024-07-05 |
 | [Moon River \(221007\)](https://open.spotify.com/track/0dqAX5qj7DeyYu3AYlMzVh) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hidden Card 藏招](https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A) | 2:47 | 2025-02-27 | 2025-03-14 |
 | [more about you](https://open.spotify.com/track/3PGX7THaDbTHSdoDijMNaV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [more about you](https://open.spotify.com/album/15jd1fNpq1MGOzssezx2uj) | 2:25 | 2024-08-08 | 2024-08-30 |
@@ -322,6 +322,7 @@
 | [Ready Already \(feat\. Lazy Habits, Too Many T's\)](https://open.spotify.com/track/7HZtH2osmsWZsS2AsHnptT) | [DJ QuestionMark](https://open.spotify.com/artist/2IW4lytcDNwEMQWAWCMYti), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Too Many T's](https://open.spotify.com/artist/0FgjAZMPItkvIiFPyC39Ea) | [Vinyl Appetizer](https://open.spotify.com/album/2nW6XGzLvIGvKfphrlOAYu) | 3:07 | 2025-09-04 | 2025-09-26 |
 | [Real World](https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Real World](https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh) | 4:19 | 2024-01-25 | 2024-09-27 |
 | [Real World](https://open.spotify.com/track/6r7B52U7LeAfH3AXcSC8C7) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Dive & Give](https://open.spotify.com/album/1Zl1TH7j0cZEHf03ScvES2) | 4:19 | 2025-02-27 | 2025-09-26 |
+| [Really Not](https://open.spotify.com/track/0dvelPOEctgO6ixprB0YLO) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ) | [Really Not](https://open.spotify.com/album/4sawJEIk1Af5UqzQYpXmqm) | 4:19 | 2026-02-19 |  |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-03 | 2024-12-13 |
 | [Ridge \- Live](https://open.spotify.com/track/5f9QzTJscb6PhuXqGZ7DbE) | [YenTing Lo](https://open.spotify.com/artist/6W7lSbguF67nqkK6djqd8z), [Gin Lin](https://open.spotify.com/artist/4nz0UDdGQfUJ2uBAudUImu), [Debby Wang 王思雅](https://open.spotify.com/artist/0kPD0Ti5iYLQ6Lx9CZC7jN), [ShaoHuan Hung](https://open.spotify.com/artist/2ST9FRGx0MotiW4iTcgUlY) | [Land forms \(Live on Bebop Artist Project\)](https://open.spotify.com/album/34F61mTHBu0YMjK4HrifsB) | 3:34 | 2024-10-10 | 2024-11-01 |
 | [Right Here Right Now](https://open.spotify.com/track/7mHahJViSbDSyj2UcxvNFl) | [Lukas MAX](https://open.spotify.com/artist/4wT5Qb0wFcb2G0K0iQUnHG), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE) | [Right Here Right Now](https://open.spotify.com/album/6BVySNnOxduh2tm6DQwe2i) | 2:46 | 2024-01-25 | 2024-08-30 |

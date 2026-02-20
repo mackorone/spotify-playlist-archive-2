@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BLUE PONGTIWAT, TEN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,903 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,049 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
 | 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 3 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 4 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
-| 5 | [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 |
+| 4 | [คำเดียวง่าย ๆ](https://open.spotify.com/track/2ORyDq8ksO5Aj1A90tqQ4I) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [1ST](https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [คำเดียวง่าย ๆ](https://open.spotify.com/album/5jj8gk8zVlhVudMbJFRwuk) | 5:36 |
+| 5 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
 | 6 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
 | 7 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
 | 8 | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/track/11ZywXk23xC8T7VOpKAbKI) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [PEEMWASU OF BUS](https://open.spotify.com/artist/5Iol3bIHuguW8mLb3KwHvE) | [เพื่อนสนิท \(Platonic Love\) \[feat\. PEEMWASU OF BUS\]](https://open.spotify.com/album/26P69L852w82osraPlizaB) | 3:08 |
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 15 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 |
 | 16 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
 | 17 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
-| 18 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
-| 19 | [ซอยข่อยแน](https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC) | [YONIA](https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh) | [ซอยข่อยแน](https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL) | 3:13 |
-| 20 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 |
-| 21 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
-| 22 | [กลัวความเสียใจ](https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [กลัวความเสียใจ](https://open.spotify.com/album/1q2TDtJfts6Q393yMdgGXU) | 4:51 |
-| 23 | [ไม่ใช่ไม่รัก](https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ใช่ไม่รัก](https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd) | 4:31 |
+| 18 | [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 |
+| 19 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
+| 20 | [ซอยข่อยแน](https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC) | [YONIA](https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh) | [ซอยข่อยแน](https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL) | 3:13 |
+| 21 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 |
+| 22 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
+| 23 | [กลัวความเสียใจ](https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [กลัวความเสียใจ](https://open.spotify.com/album/1q2TDtJfts6Q393yMdgGXU) | 4:51 |
 | 24 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 |
 | 25 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
 | 26 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 | 50 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 |
 
-Snapshot ID: `AAAAAFAbEOW0euIA3+Njj78Kby3sCR8w`
+Snapshot ID: `AAAAANatnKXmVOHcpHTaGdUx9+HoKFMq`

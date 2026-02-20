@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, Mc Davi
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,083 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,123 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 61 | [Vejo Tudo](https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK) | [GBZIN](https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Vejo Tudo](https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp) | 2:59 |
 | 62 | [Eu Sou](https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Eu Sou](https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9) | 3:05 |
 | 63 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 |
-| 64 | [Tua Face](https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Tua Face](https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR) | 2:26 |
+| 64 | [Love Sangre](https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Love Sangre](https://open.spotify.com/album/4Z21EoViE71csguinP5E1S) | 2:53 |
 | 65 | [Profeta](https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Profeta](https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY) | 2:11 |
-| 66 | [Love Sangre](https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Love Sangre](https://open.spotify.com/album/4Z21EoViE71csguinP5E1S) | 2:53 |
+| 66 | [Tua Face](https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Tua Face](https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR) | 2:26 |
 | 67 | [Irrisório](https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Irrisório](https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO) | 2:26 |
 | 68 | [Oferto Eu](https://open.spotify.com/track/1pGlL6OzQVRFh1B8J2Iuuv) | [Maia Flow](https://open.spotify.com/artist/0JOgA75ZUJUBNg8Gb3hyBD), [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Oferto Eu](https://open.spotify.com/album/4fm0OHbYMX1w2hWCWPpi61) | 2:53 |
 | 69 | [Até o Fim](https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg) | [Igor PPrata](https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh), [Kenedy Gomes](https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q), [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Até o Fim](https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG) | 3:57 |

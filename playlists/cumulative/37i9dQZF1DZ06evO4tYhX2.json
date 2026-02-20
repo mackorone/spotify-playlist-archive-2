@@ -347,6 +347,32 @@
     },
     {
       "album": {
+        "name": "CRISTO",
+        "url": "https://open.spotify.com/album/3s9u1DnMLP7GE9EEn7mEdf"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403845,
+      "name": "CRISTO",
+      "url": "https://open.spotify.com/track/7BOtLQbPHdaB5VWkvtxVUm"
+    },
+    {
+      "album": {
         "name": "Proezas",
         "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
       },
@@ -2090,7 +2116,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 231291,
       "name": "Siempre Fuiste T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/0IfMJUJydrnsmpffAopUNe"

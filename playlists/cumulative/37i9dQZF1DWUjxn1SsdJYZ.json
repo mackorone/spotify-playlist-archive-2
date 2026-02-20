@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: trials",
+  "description": "The best new AUS & NZ Rap. Cover: Miss Kaninna",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 180000,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/5uuWwUmyRHmgH0SvEmxEkH"
@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 214736,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0BVK3omgiXbmEcZAmOdMMX"
@@ -6842,7 +6842,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 172235,
       "name": "Don\u2019t Complain",
       "url": "https://open.spotify.com/track/3cvlJ8SXyhcmTxPdhbaWdk"
@@ -6980,6 +6980,24 @@
       "duration_ms": 143775,
       "name": "DREAD",
       "url": "https://open.spotify.com/track/4oyodp4Qn7q7eypCzv3k8a"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5fQz8UwxTyfui4vH6ymIqo"
+      },
+      "artists": [
+        {
+          "name": "Dem Mob",
+          "url": "https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182436,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo"
     },
     {
       "album": {
@@ -7838,6 +7856,24 @@
       "duration_ms": 144006,
       "name": "Excuse My French",
       "url": "https://open.spotify.com/track/2xyxP0Di6CEDNG9fapdppv"
+    },
+    {
+      "album": {
+        "name": "Eye of Ra",
+        "url": "https://open.spotify.com/album/61wY98zKImDdvexBNVxsqv"
+      },
+      "artists": [
+        {
+          "name": "Soma",
+          "url": "https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132080,
+      "name": "Eye of Ra",
+      "url": "https://open.spotify.com/track/3BhXipdx0pqEycwC5C1RIP"
     },
     {
       "album": {
@@ -10355,6 +10391,24 @@
     },
     {
       "album": {
+        "name": "Good for Nothing",
+        "url": "https://open.spotify.com/album/3rqF3UZr31VlrG6J5uywM9"
+      },
+      "artists": [
+        {
+          "name": "DOBBY",
+          "url": "https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Good for Nothing - Single Version",
+      "url": "https://open.spotify.com/track/7dHhOqDWXb4AWi9a3TXxOn"
+    },
+    {
+      "album": {
         "name": "Good Girls Stay At Home",
         "url": "https://open.spotify.com/album/07S9GQMxJywu4q14McF4zP"
       },
@@ -12388,7 +12442,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 166728,
       "name": "I DON'T DISCRIMINATE",
       "url": "https://open.spotify.com/track/5gLymprjDYgfN2ogtMechh"
@@ -16345,6 +16399,24 @@
     },
     {
       "album": {
+        "name": "MOB TIES",
+        "url": "https://open.spotify.com/album/4Oz2R68EZVK9tPD1OHMACr"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227528,
+      "name": "MOB TIES",
+      "url": "https://open.spotify.com/track/6wA0UaXLi5neXMhV36G8SP"
+    },
+    {
+      "album": {
         "name": "Moisturise & Decolonise",
         "url": "https://open.spotify.com/album/76cke2V2wrYDBaEjbLTk1o"
       },
@@ -17766,6 +17838,28 @@
       "duration_ms": 165470,
       "name": "No Days Off",
       "url": "https://open.spotify.com/track/6nYRoHLcYiOgbfUjxysetd"
+    },
+    {
+      "album": {
+        "name": "No Disrespect",
+        "url": "https://open.spotify.com/album/4dcK8N9276yHswSlErvofy"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "No Disrespect",
+      "url": "https://open.spotify.com/track/21qvY7NRlOrdr9QOQUdw2S"
     },
     {
       "album": {
@@ -26672,7 +26766,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171120,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/5ltYYMlBXsaoR2snQIAFMQ"

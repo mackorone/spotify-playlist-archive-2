@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5"
+      },
+      "artists": [
+        {
+          "name": "Ella Kenz",
+          "url": "https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196097,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H"
+    },
+    {
+      "album": {
         "name": "A Westerner Walks Into a Bar",
         "url": "https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 253759,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc"
@@ -488,7 +506,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 120300,
       "name": "Delighted",
       "url": "https://open.spotify.com/track/5tjcDtOijDGnJuny9xT1Du"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 221052,
       "name": "Didn't We",
       "url": "https://open.spotify.com/track/188DpOR3zw1dHkMPUugNGT"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176446,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 282353,
       "name": "Ermine",
       "url": "https://open.spotify.com/track/2WRwIkKaa22ieYZVTLsV7H"
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 223373,
       "name": "Glue",
       "url": "https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH"
@@ -1062,6 +1080,28 @@
       "duration_ms": 213398,
       "name": "Gravity Loop",
       "url": "https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf"
+    },
+    {
+      "album": {
+        "name": "The Daylight is Gone",
+        "url": "https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ"
+      },
+      "artists": [
+        {
+          "name": "Isin",
+          "url": "https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z"
+        },
+        {
+          "name": "Vallartis",
+          "url": "https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6"
     },
     {
       "album": {
@@ -1400,7 +1440,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 380386,
       "name": "It's Coming Soon",
       "url": "https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh"
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 391293,
       "name": "Josef K",
       "url": "https://open.spotify.com/track/7ESCsOZPxGS1uvGriuUJfh"
@@ -1512,6 +1552,28 @@
       "duration_ms": 236330,
       "name": "Lawless - Live",
       "url": "https://open.spotify.com/track/5ITVgTTBvXKfljsjnH32bP"
+    },
+    {
+      "album": {
+        "name": "Legos",
+        "url": "https://open.spotify.com/album/7u35zpzp6buERBScBvujJi"
+      },
+      "artists": [
+        {
+          "name": "K-NON",
+          "url": "https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY"
+        },
+        {
+          "name": "Vepy",
+          "url": "https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Legos",
+      "url": "https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk"
     },
     {
       "album": {
@@ -1778,7 +1840,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192113,
       "name": "Me desviv\u00ed",
       "url": "https://open.spotify.com/track/7Moz8l65RSvMyvWzwL0AcI"
@@ -1796,7 +1858,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170073,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4IL6fBdGtJdTWHaBlq0ygR"
@@ -1994,7 +2056,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 245223,
       "name": "not ur muse",
       "url": "https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J"
@@ -2286,7 +2348,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 208500,
       "name": "Shadows on the floor",
       "url": "https://open.spotify.com/track/5527T3ToohQ1PYWneOj7lF"
@@ -2412,7 +2474,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 227533,
       "name": "Stay 11:11",
       "url": "https://open.spotify.com/track/7uJKlwmX0BxgIlbDKswIDn"
@@ -2643,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2"
+      },
+      "artists": [
+        {
+          "name": "The Great Leslie",
+          "url": "https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184833,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB"
+    },
+    {
+      "album": {
         "name": "The queen and the tearaway",
         "url": "https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp"
       },
@@ -2672,7 +2752,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167343,
       "name": "The Vampire",
       "url": "https://open.spotify.com/track/5IgY9NY1WdWAvcwc5mD9d0"
@@ -2834,7 +2914,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 158000,
       "name": "U Cut Ur Hair",
       "url": "https://open.spotify.com/track/7qDR32mmli6Ix41rsujmbZ"
@@ -2924,7 +3004,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192177,
       "name": "Watching me die",
       "url": "https://open.spotify.com/track/014TM0V1g6SxlK8WVrqaOG"
@@ -3176,7 +3256,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 327943,
       "name": "\u00c9toile filante",
       "url": "https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7"

@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Achille Lauro in cover
+> I brani italiani che abbiamo on repeat  🔁  Geolier in cover
 
-503 songs - 1 day 1 hr 52 min
+504 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,10 +125,11 @@
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-07-01 | 2024-07-12 |
 | [Dea Saffica](https://open.spotify.com/track/6Fm3dU9ZwAliTadrs8HBzL) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Dea Saffica](https://open.spotify.com/album/682OwV08MCYCXR6sYR8xnt) | 2:33 | 2024-07-01 | 2024-07-19 |
 | [DELL'AMORE IL FALLIMENTO](https://open.spotify.com/track/3uVgPOv1UT7BeP8NvmP0Dh) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [DELL'AMORE IL FALLIMENTO](https://open.spotify.com/album/42EsO0p2Z7UkolcQAXoOi9) | 2:50 | 2025-11-20 | 2025-12-12 |
-| [DeLorean](https://open.spotify.com/track/1YNYSvWkZ74y4LaYydEbZ8) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [DeLorean](https://open.spotify.com/album/3WRjNICZZ68PwIjGP5Rr5I) | 3:22 | 2026-01-29 |  |
+| [DeLorean](https://open.spotify.com/track/1YNYSvWkZ74y4LaYydEbZ8) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [DeLorean](https://open.spotify.com/album/3WRjNICZZ68PwIjGP5Rr5I) | 3:22 | 2026-01-29 | 2026-02-20 |
 | [Delusa](https://open.spotify.com/track/3IsVNs7CKal733wBFNx7HO) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:04 | 2025-10-09 | 2025-10-16 |
 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-05 | 2025-03-21 |
 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 | 2025-05-22 | 2025-09-30 |
+| [dettagli](https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [dettagli](https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp) | 4:11 | 2026-02-19 |  |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-07-01 | 2024-10-25 |
 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 | 2025-04-03 | 2025-05-02 |
 | [digiorno](https://open.spotify.com/track/4G7ZLAef0J5VbqxQ4cQwKF) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [femmina](https://open.spotify.com/album/4oH51jOoRbeLmhk6uLfIUw) | 2:46 | 2026-01-22 | 2026-02-13 |

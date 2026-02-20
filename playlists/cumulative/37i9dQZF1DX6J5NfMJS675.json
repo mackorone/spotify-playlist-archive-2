@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/3ZwkhEHyzvhvzR7Dga3Hk5"
+      },
+      "artists": [
+        {
+          "name": "Llu\u00eds Ribalta",
+          "url": "https://open.spotify.com/artist/5LezOo3EjvTZO9wOHjAyCE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5Q90SFWTHIld2Qw13d4jfz"
+    },
+    {
+      "album": {
         "name": "Blaze",
         "url": "https://open.spotify.com/album/2wChPFYvbr7jsH6htltPYX"
       },
@@ -2624,6 +2642,24 @@
       "duration_ms": 289000,
       "name": "BR3ATH3",
       "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
+    },
+    {
+      "album": {
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/4E5Ai5ZuKIodiSFN721pq1"
+      },
+      "artists": [
+        {
+          "name": "Bouras",
+          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189705,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/79Yy06jrnC0hxuKsg16l3Y"
     },
     {
       "album": {
@@ -3749,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Complex Mind",
+        "url": "https://open.spotify.com/album/697kzEx7P31XUOyN281zqo"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Gabioud",
+          "url": "https://open.spotify.com/artist/6OtBwkQnX0lkJ6VmfCMuXP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "Complex Mind",
+      "url": "https://open.spotify.com/track/40dUq9DCnzy1LExvkerS1M"
+    },
+    {
+      "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/49hL0xuBgLmsFHNvLGQncc"
       },
@@ -4852,7 +4906,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 323124,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0siHBFtW4eCTkYQPwJDuUM"
@@ -5873,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/7FsuUdJQrn6mwxHbQcTzQC"
+      },
+      "artists": [
+        {
+          "name": "Gerard H",
+          "url": "https://open.spotify.com/artist/18V8RSYqOCimBFZHStnVbG"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293967,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/0N2rAFxXncCtVpq5SX4NWK"
+    },
+    {
+      "album": {
         "name": "ECSTASY IS",
         "url": "https://open.spotify.com/album/0PjhkLOtfuhUfxlppHhiXL"
       },
@@ -6098,6 +6170,24 @@
       "duration_ms": 189441,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/1ZWyPPye3BUmtxwEOxQA9v"
+    },
+    {
+      "album": {
+        "name": "Energized",
+        "url": "https://open.spotify.com/album/03SDaT7IUHroMsCoPA7m9Y"
+      },
+      "artists": [
+        {
+          "name": "Roger Lavelle",
+          "url": "https://open.spotify.com/artist/3ZHqvLocrTfSbtm9DDJnqT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228654,
+      "name": "Energized",
+      "url": "https://open.spotify.com/track/1m7Gk4hC61hp5KKSC8XsId"
     },
     {
       "album": {
@@ -7733,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1NEP7UHGWTCZg8WVEVXgC6"
+      },
+      "artists": [
+        {
+          "name": "YOZ\u00c9",
+          "url": "https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174508,
+      "name": "FWM",
+      "url": "https://open.spotify.com/track/4hL1z4Bj7vfm8mVVXLj4AF"
+    },
+    {
+      "album": {
         "name": "Gaana Modam",
         "url": "https://open.spotify.com/album/4BUFnidsdwP7fH613sJXs4"
       },
@@ -8781,6 +8889,24 @@
     },
     {
       "album": {
+        "name": "Hey Boy Hey Girl",
+        "url": "https://open.spotify.com/album/5Y3sLQDwJVzSnHBqGfooFk"
+      },
+      "artists": [
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187204,
+      "name": "Hey Boy Hey Girl",
+      "url": "https://open.spotify.com/track/2rA8cERrKzSDF1mBWo0nMb"
+    },
+    {
+      "album": {
         "name": "HEY DJ",
         "url": "https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL"
       },
@@ -9534,7 +9660,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 320606,
       "name": "In Control",
       "url": "https://open.spotify.com/track/2XSrMVGvUooJzZ6Ef5Ik4i"
@@ -9654,7 +9780,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 319726,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/22fQffIGJCZ5hSXZIQ40Em"
@@ -11398,7 +11524,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 209888,
       "name": "Loxia",
       "url": "https://open.spotify.com/track/705TEtSR8rbcFTkFhHHHYK"
@@ -12502,7 +12628,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 230282,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/2i94CfOGQZSnOFIqwtr6ds"
@@ -14136,7 +14262,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 467050,
       "name": "Order In Chaos - Reactive Mix",
       "url": "https://open.spotify.com/track/742YGl0HOzL7nUfcireyBu"
@@ -14477,6 +14603,24 @@
     },
     {
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/6OKynWx6aidLeCaFECG6Vp"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Martinez",
+          "url": "https://open.spotify.com/artist/1djsnarwCNHsd166017key"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168636,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/3HPmYWPzoM3WaIpW7t6ljL"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T"
       },
@@ -14680,7 +14824,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 325849,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/2WeihGqdeMOJP2RlCi1kZu"
@@ -16266,7 +16410,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211970,
       "name": "Rhytm of the House",
       "url": "https://open.spotify.com/track/3NqHAwH0FKzQ2AmHs5iMUj"
@@ -20449,6 +20593,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p"
+    },
+    {
+      "album": {
         "name": "Club Quarant\u00e4ne I",
         "url": "https://open.spotify.com/album/2ZXpPaoDHmkruzEeSNMscv"
       },
@@ -21792,7 +21954,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 342857,
       "name": "Where Is Now",
       "url": "https://open.spotify.com/track/4fL3XnqmTHJZOxzvbDF2lp"

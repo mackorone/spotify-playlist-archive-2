@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-316 songs - 19 hr 41 min
+319 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bowerbird](https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6) | [Perfect Weather for Humans](https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD) | [Bowerbird](https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL) | 5:15 | 2026-01-07 | 2026-02-02 |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-10-18 | 2026-02-04 |
 | [Breakdown](https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Votive Sound](https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R) | 3:28 | 2026-02-07 |  |
+| [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 | 2026-02-19 |  |
 | [Bring Me Down](https://open.spotify.com/track/6DDJXTCoB99753Q6Pt3YDz) | [Aaetheria](https://open.spotify.com/artist/5XvLB3DxqgreEsNDrtAdfu) | [Bring Me Down](https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ) | 2:57 | 2025-11-19 | 2025-12-12 |
 | [Broken Mirrors](https://open.spotify.com/track/7EutEoJcHg6Rapoc9BIPde) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Broken Mirrors](https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs) | 4:25 | 2026-01-17 | 2026-02-18 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-18 | 2026-01-21 |
@@ -178,6 +179,7 @@
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 | 2025-12-28 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-02-13 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-12-28 | 2026-01-21 |
+| [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2026-02-19 |  |
 | [My Love is an Exploding Star](https://open.spotify.com/track/5eETbpiCV3FHMjEVVkHEiI) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [SONGBOOK BURNING](https://open.spotify.com/album/0HUMF75Y8H7ImKHHtODjS8) | 3:39 | 2026-01-06 | 2026-02-02 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-12-08 | 2025-12-28 |
@@ -301,6 +303,7 @@
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2025-12-20 | 2026-01-21 |
 | [Urge for tears](https://open.spotify.com/track/27GgZNxJqBwNDc9taf6vvC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Anton Premec](https://open.spotify.com/artist/0CPqOLIo6t828XgtQu0f25) | [Urge for tears](https://open.spotify.com/album/5Wkir5ZGd1SoOX5AdRdXXa) | 4:24 | 2025-11-04 | 2025-12-12 |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-10-28 | 2025-11-22 |
+| [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 | 2026-02-19 |  |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-01-22 | 2026-02-18 |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-12-03 | 2025-12-28 |
 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 | 2025-10-20 |  |

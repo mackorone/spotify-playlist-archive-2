@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 16 | [Shaken](https://open.spotify.com/track/4YIJ4utbwfduN8zlIDD7PV) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:45 |
 | 17 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
 | 18 | [When I'm Over You](https://open.spotify.com/track/4UW3ouO2xjiI1Thr4f1uDN) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 4:26 |
-| 19 | [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 |
+| 19 | [Waiting Outside The Lines \- Remix](https://open.spotify.com/track/1p7qu4Ntc7INp4RUyYIPd0) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX), [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Hold On ‘Til The Night \(Special Asia Edition\)](https://open.spotify.com/album/2H3CMQPfaiqLkSAEMkI3YP) | 3:52 |
 | 20 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
 | 21 | [Dreamer](https://open.spotify.com/track/7udNZcaKJQu3uh8L9TZBoP) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:25 |
 | 22 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 
-Snapshot ID: `AcKCAAAAAACgeL48dKp5rck2/xbGUMGX`
+Snapshot ID: `AcKHlgAAAAABDJSVcaZaRU5/g/U1rf82`

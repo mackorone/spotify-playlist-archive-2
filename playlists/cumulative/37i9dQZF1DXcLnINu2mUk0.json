@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Black Spygo, Deezy",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MUN",
   "name": "Seda",
   "tracks": [
     {
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "BACKSEAT",
+        "url": "https://open.spotify.com/album/53QUVmhkjItD0XkiJ4bqk6"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "BACKSEAT",
+      "url": "https://open.spotify.com/track/4DoO7IehNcb8RSA6VTd7bE"
+    },
+    {
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 140307,
       "name": "CARTAS",
       "url": "https://open.spotify.com/track/6dGZhwRzsbis7vLony2SYc"
@@ -4420,6 +4438,24 @@
       "duration_ms": 215832,
       "name": "Diva",
       "url": "https://open.spotify.com/track/2v2tuqtW3N9U32LpG5or2p"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dividir",
+      "url": "https://open.spotify.com/track/51Z2lRWJOCisUTP3z9AiNq"
     },
     {
       "album": {
@@ -7760,7 +7796,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 476337,
       "name": "Kataleya",
       "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
@@ -7844,7 +7880,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 189333,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2aoNR1tNuQl5Eklz27KWID"
@@ -8256,7 +8292,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
@@ -9416,7 +9452,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 177859,
       "name": "Muda",
       "url": "https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve"
@@ -9724,6 +9760,24 @@
       "duration_ms": 185714,
       "name": "NADA \u00c9 COMO ANTES",
       "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
+    },
+    {
+      "album": {
+        "name": "Natura",
+        "url": "https://open.spotify.com/album/2jtfk6la63lwlkpBu1MqWp"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Natura",
+      "url": "https://open.spotify.com/track/6gCDfj1tc0AywrThzeUZXf"
     },
     {
       "album": {
@@ -14144,7 +14198,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 203478,
       "name": "Sodade",
       "url": "https://open.spotify.com/track/1TorEzwo0MIK815pZdyba2"
@@ -14484,7 +14538,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 197372,
       "name": "Sufoco",
       "url": "https://open.spotify.com/track/61IsU0yPEPawwVwgMuoX4U"

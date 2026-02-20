@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,537 songs - 5 day 12 hr 39 min
+2,538 songs - 5 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-05-12 |
 | [Grizzly](https://open.spotify.com/track/5LTkOyKoB44q6q6TSxNx7H) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Grizzly](https://open.spotify.com/album/4MJga50uGk0Fmk2tgwZEXi) | 2:42 | 2024-04-19 | 2024-04-21 |
+| [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 | 2026-02-19 |  |
 | [Gucci m/ UG](https://open.spotify.com/track/5EclZlK0jk41E296EyIb79) | [Kode.59](https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q), [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Nabolagets Helter](https://open.spotify.com/album/09prVF1uylWy2MfPLiY5f1) | 1:57 | 2024-02-10 | 2024-02-12 |
 | [gud vær snill la meg bli](https://open.spotify.com/track/15ECUqelDATVKncbeVcXtt) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2024](https://open.spotify.com/album/0wHUBrwizQWTnCeBMVOuS6) | 2:57 | 2024-02-19 | 2024-02-25 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-03 | 2024-10-03 |
@@ -1387,7 +1388,7 @@
 | [LOVE </3](https://open.spotify.com/track/6kVEgWFjI0ECI8eH84ljS1) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [LOVE </3](https://open.spotify.com/album/0UfIJilXpMOcxXrDCKsVvB) | 2:09 | 2023-06-03 | 2023-10-01 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-28 | 2023-02-26 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-09 |
-| [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0) | [Doğukan San](https://open.spotify.com/artist/4APZ6Exv1JmOHPnV7CjcFT), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/album/78IZEWGJHcFHUUgvmziB6Q) | 3:25 | 2026-02-18 |  |
+| [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0) | [Doğukan San](https://open.spotify.com/artist/4APZ6Exv1JmOHPnV7CjcFT), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/album/78IZEWGJHcFHUUgvmziB6Q) | 3:25 | 2026-02-18 | 2026-02-20 |
 | [Love him anyway](https://open.spotify.com/track/7rFNL0YaG6Gp0jt7xK1E3b) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Love him anyway](https://open.spotify.com/album/0w3poGg9gDIWdR8l4swyuC) | 3:51 | 2021-11-21 | 2021-11-23 |
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2021-10-19 | 2021-11-14 |
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-22 | 2023-07-30 |

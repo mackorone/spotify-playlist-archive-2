@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Julieta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,296 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,298 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 16 | [LOKURA](https://open.spotify.com/track/2ceTylNropN8MsY6BqE5R7) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [LOKURA](https://open.spotify.com/album/5vQmgNAlnp04oqkimTY9mX) | 2:26 |
 | 17 | [UNA MINA](https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [DE LA MAÑANA A LA NOCHE](https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz) | 2:29 |
 | 18 | [Monster Truck](https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck](https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662) | 3:01 |
-| 19 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
+| 19 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 | 20 | [A la Orilla](https://open.spotify.com/track/3DC9tSYslFMhq15lmEpP9J) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:34 |
 | 21 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 |
 | 22 | [PACMAN \(Remix\)](https://open.spotify.com/track/2CtTx2D1msEd7quDtRX4dk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN \(Remix\)](https://open.spotify.com/album/2tvoulqzMBRQeuwiW8EjHF) | 3:16 |
 | 23 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 |
-| 24 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
+| 24 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
 | 25 | [Mariposillas](https://open.spotify.com/track/3tnfFC0F0KvEUCmidtWGQg) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [Mariposillas](https://open.spotify.com/album/7zz1Gzr61rkNIiMonMlZmU) | 2:51 |
 | 26 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
 | 27 | [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 |

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-493 songs - 23 hr 46 min
+494 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [iLOVEU](https://open.spotify.com/track/7eeZkbiR1x4omo8j3Vr4JJ) | [KadeAgain](https://open.spotify.com/artist/30M2RlxlFQjy4Lo2Y23Vqu) | [iLOVEU](https://open.spotify.com/album/33XQGJsoIXduqS8sjmx2a4) | 2:14 | 2025-11-15 |  |
 | [Impulse](https://open.spotify.com/track/53sQ8U0QY9z4QrWZNHgE6O) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Samsara](https://open.spotify.com/album/5hlCzmiV39hokFJ49rUgML) | 2:26 | 2024-11-18 |  |
 | [ioU](https://open.spotify.com/track/5uB8JwWGjFOA1jVVrZnvKa) | [Rhys](https://open.spotify.com/artist/3ib3suDKiZY4EmEafjuWa3) | [ioU](https://open.spotify.com/album/1lUSpq6QVxVIMJwkkx0DSh) | 2:09 | 2023-07-26 |  |
+| [isolation](https://open.spotify.com/track/3itNxvXBcwjGG2lpqaj753) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C) | [isolation](https://open.spotify.com/album/3KoW0bbAAzZlHaSx2KLiPc) | 3:28 | 2026-02-19 |  |
 | [Isolation](https://open.spotify.com/track/44ORI03tYd8T0GRGmT6hMO) | [Tee Kae](https://open.spotify.com/artist/7yVRtDOR1a7cWjvynt9yop) | [Metamorphosis](https://open.spotify.com/album/4BNkb4V1QoAzMfjGcUuLy1) | 3:44 | 2025-11-16 |  |
 | [it's not about u](https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [it's not about u](https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4) | 2:09 | 2023-07-26 |  |
 | [ITRIED](https://open.spotify.com/track/39Xhs5EHLLlcRdL30j5a9G) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [R.S TAPEZ 1](https://open.spotify.com/album/28NQqIZbAsA1sxtuuTV60B) | 2:11 | 2026-02-04 |  |

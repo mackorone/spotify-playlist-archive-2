@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,463 songs - 6 day 8 hr 17 min
+2,464 songs - 6 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 | 2023-01-05 | 2023-04-09 |
 | [Love Infinity](https://open.spotify.com/track/6l520BpwLoIAYMqLKIf7hk) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [Love Infinity](https://open.spotify.com/album/2VmhOTvolttD8BdOQOfWDh) | 3:46 | 2023-07-13 | 2023-10-04 |
 | [Love is Show](https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [高城れに](https://open.spotify.com/artist/2CxNK0ldwLmusTYWs11geL) | [Love is Show](https://open.spotify.com/album/2bcEQN6dTexArpv0SqCpL5) | 4:02 | 2022-12-15 | 2023-02-22 |
+| [LOVE LOVE ビーム](https://open.spotify.com/track/2jQYBecRC50zjn754vmyk9) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [LOVE LOVE ビーム](https://open.spotify.com/album/7rk6EfP2hbHpy1Uy3aBt8l) | 4:17 | 2026-02-19 |  |
 | [LOVE NO HATE \- TV size.\- TVアニメ「テクノロイド オーバーマインド」オープニングテーマ](https://open.spotify.com/track/4QVTFiu6ky4SVVuhH1XISg) | [浦 和希](https://open.spotify.com/artist/4APG8vQaD4Y4tTu0K6fAv7), [kayto](https://open.spotify.com/artist/4y8DiKhtHB8JSuntGso4hh), [渋谷 慧](https://open.spotify.com/artist/1CIP3NBA5ffrJvyhwr7Aod), [峯田大夢](https://open.spotify.com/artist/6BkJhinK9LHiBQz4C2qy3l) | [LOVE NO HATE \[TV size.\- \(TVアニメ「テクノロイド オーバーマインド」オープニングテーマ\)\]](https://open.spotify.com/album/3iJcvgoqdMVal6bDZWz6i6) | 1:29 | 2023-01-12 | 2023-01-25 |
 | [LOVE OR HATE?](https://open.spotify.com/track/1FrIwTf4qanLZ291r5aaIV) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [LOVE OR HATE? OPENING THEME FROM TV SERIES ”VILLAINESS LEVEL 99”](https://open.spotify.com/album/5GLpjMK7c1giXA9GFDD99t) | 3:08 | 2024-01-09 | 2024-04-11 |
 | [LOVE or HATE?](https://open.spotify.com/track/7L33yiS4Onb1E3sXG9GIzs) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TVアニメ「悪役令嬢レベル99　～私は裏ボスですが魔王ではありません～」オープニングテーマ「LOVE or HATE?」](https://open.spotify.com/album/0VTxcGlQrSolD02gcWAWX6) | 3:08 | 2024-01-09 | 2024-01-11 |

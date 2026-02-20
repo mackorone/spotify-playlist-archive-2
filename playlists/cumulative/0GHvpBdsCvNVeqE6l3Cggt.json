@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc"
+      },
+      "artists": [
+        {
+          "name": "S. Lithgow",
+          "url": "https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 247928,
       "name": "Teus Olhos, Meu Ref\u00fagio - Pop Balada",
       "url": "https://open.spotify.com/track/4MUwRHicTU3bgH6i9zT10F"
+    },
+    {
+      "album": {
+        "name": "Live for Today",
+        "url": "https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu"
+      },
+      "artists": [
+        {
+          "name": "Neil Wells",
+          "url": "https://open.spotify.com/artist/1II894supggID2amUinnsf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251765,
+      "name": "That's What We Believe",
+      "url": "https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2"
     },
     {
       "album": {

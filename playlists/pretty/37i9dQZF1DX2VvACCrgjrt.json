@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313587,
+  "num_followers": 1313546,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Jack August",
-          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Faded (Blacklizt Version)(HNTR Remix)",
         "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 193005,
       "name": "Faded (Blacklizt Version) - HNTR Remix",
       "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "duration_ms": 200353,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1945,28 +1945,24 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Dale Earnhardt",
-        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
       },
       "artists": [
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Big Baby Scumbag",
-          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Dale Earnhardt",
-      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2001,24 +1997,44 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-01-30 05:00:51",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+        "name": "Dale Earnhardt",
+        "url": "https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
         },
         {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Big Baby Scumbag",
+          "url": "https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB"
         }
       ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
+      "duration_ms": 178181,
+      "name": "Dale Earnhardt",
+      "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "F*CK THAT",
+        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "F*CK THAT",
+      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2039,22 +2055,6 @@
       "duration_ms": 185033,
       "name": "Grind It",
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "F*CK THAT",
-        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "F*CK THAT",
-      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2265,6 +2265,22 @@
       "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Stop Me Fallin",
+        "url": "https://open.spotify.com/album/04nX2OQQal62zA9hICovFt"
+      },
+      "artists": [
+        {
+          "name": "Nash Rly",
+          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
+        }
+      ],
+      "duration_ms": 231555,
+      "name": "Stop Me Fallin",
+      "url": "https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Something To Believe In",
@@ -2341,22 +2357,6 @@
       "url": "https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Stop Me Fallin",
-        "url": "https://open.spotify.com/album/04nX2OQQal62zA9hICovFt"
-      },
-      "artists": [
-        {
-          "name": "Nash Rly",
-          "url": "https://open.spotify.com/artist/0fEqU2Ir4Gh4VpUOhD5GGn"
-        }
-      ],
-      "duration_ms": 231555,
-      "name": "Stop Me Fallin",
-      "url": "https://open.spotify.com/track/11ClmGAC9GtDfuC7xvGc2A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Lemon",
@@ -2371,22 +2371,6 @@
       "duration_ms": 171555,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/6fbFaegQxrCs5uPSXbBcK1"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Rockin",
-        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Rockin",
-      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2407,6 +2391,22 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Rockin",
+        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Rockin",
+      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
     }
   ],
   "unique_name": "Nasty Bits",

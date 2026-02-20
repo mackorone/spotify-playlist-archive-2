@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 427756,
+  "num_followers": 427917,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
-      "added_at": "2024-07-29 19:50:25",
-      "album": {
-        "name": "Live at KEXP!",
-        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 300480,
-      "name": "Move on Up - Live",
-      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "R\u00fambala (Jiony Remix)",
@@ -551,6 +535,22 @@
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
+    },
+    {
+      "added_at": "2024-07-29 19:50:25",
+      "album": {
+        "name": "Live at KEXP!",
+        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 300480,
+      "name": "Move on Up - Live",
+      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
     },
     {
       "added_at": "2023-10-24 02:03:26",
@@ -697,26 +697,6 @@
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
-      "added_at": "2024-07-20 14:57:35",
-      "album": {
-        "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
-        "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 157503,
-      "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
-      "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Amor Entre Mujer",
@@ -741,20 +721,24 @@
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2024-07-20 14:57:35",
       "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+        "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
+        "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
+      "duration_ms": 157503,
+      "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
+      "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
     },
     {
       "added_at": "2022-08-19 01:51:18",
@@ -771,6 +755,22 @@
       "duration_ms": 266401,
       "name": "Ain't Nobody - 12\" Mix",
       "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        }
-      ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 262996,
       "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Selva y mar",
-        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 248099,
-      "name": "Selva y mar",
-      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
-    },
-    {
       "added_at": "2022-08-11 18:18:05",
       "album": {
         "name": "French Samba",
@@ -951,6 +935,22 @@
       "duration_ms": 163181,
       "name": "French Samba",
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Selva y mar",
+        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 248099,
+      "name": "Selva y mar",
+      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
       "added_at": "2023-03-24 19:15:37",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
     },
     {
-      "added_at": "2023-10-10 03:31:09",
-      "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Trago Coqueto",
-      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Jungle Fire",
@@ -1003,6 +987,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2023-10-10 03:31:09",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
       "added_at": "2023-12-12 18:58:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 367176,
+  "num_followers": 367245,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAADyHWTGGiYjhmww7a0fiFkl",
+  "snapshot_id": "aZUBAAAAAABlMrfWIc7J08bwQX/c6S3y",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MU\u00d1EQUITA",
+        "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "MU\u00d1EQUITA",
+      "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -231,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MU\u00d1EQUITA",
-        "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 166132,
-      "name": "MU\u00d1EQUITA",
-      "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
     },
     {
       "added_at": null,
@@ -275,26 +295,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Ruina (Version Deluxe)",
-        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Ariel Camacho",
-          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "La Vida Ruina (feat. Ariel Camacho)",
-      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Darme Explicacion",
         "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
       },
@@ -431,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1"
+        "name": "La Vida Ruina (Version Deluxe)",
+        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
       },
       "artists": [
         {
@@ -440,13 +420,13 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Ariel Camacho",
+          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
         }
       ],
-      "duration_ms": 185856,
-      "name": "SUPERCHARGED",
-      "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
+      "duration_ms": 213440,
+      "name": "La Vida Ruina (feat. Ariel Camacho)",
+      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 185856,
+      "name": "SUPERCHARGED",
+      "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duele Tu Abandono (En Vivo)",
+        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Duele Tu Abandono (En Vivo)",
+      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duele Tu Abandono (En Vivo)",
-        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Duele Tu Abandono (En Vivo)",
-      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,

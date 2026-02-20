@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200841,
+  "num_followers": 200856,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABiDB5hbg+e3PR8qf4ln5Rs",
+  "snapshot_id": "aZUBAAAAAAAHeLdltZedyDmdBo/SeKZ1",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -676,25 +660,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Genius of Love (Tom Tom Club) - Live",
-      "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+      "duration_ms": 252040,
+      "name": "Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
     },
     {
       "added_at": null,
@@ -711,6 +679,22 @@
       "duration_ms": 183760,
       "name": "The Good Thing",
       "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Genius of Love (Tom Tom Club) - Live",
+      "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
     },
     {
       "added_at": null,
@@ -740,25 +724,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Memories Can't Wait - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -779,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
     },
     {
       "added_at": null,

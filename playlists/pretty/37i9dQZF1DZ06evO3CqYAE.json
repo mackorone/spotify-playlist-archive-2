@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14315,
+  "num_followers": 14319,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACMwWqaJSBifXhZjo0QjdqQ",
+  "snapshot_id": "aZUBAAAAAAD9ESOYeh3tsHMxU4Y40hWR",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+      "duration_ms": 251586,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
     },
     {
       "added_at": null,
@@ -707,18 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 251586,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 249673,
-      "name": "You No Let Them",
-      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
+      "duration_ms": 281701,
+      "name": "All Powerful and Sovereign",
+      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 281701,
-      "name": "All Powerful and Sovereign",
-      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+      "duration_ms": 249673,
+      "name": "You No Let Them",
+      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
     }
   ],
   "unique_name": "This Is Mercy Chinwo",

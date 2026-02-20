@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,721 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,717 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 8 | [Carols](https://open.spotify.com/track/5NbBuR4dJ2GIO6dHAyUB8I) | [Soft Illy](https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV) | [Carols](https://open.spotify.com/album/35p2JcOjKy7TS5nBDd5Rk7) | 1:54 |
 | 9 | [In The Bleak Midwinter](https://open.spotify.com/track/3U5VgCJiLdJOLzxnXzKABa) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [In The Bleak Midwinter](https://open.spotify.com/album/6zfP7i3yv9GCIaO52h6yKX) | 2:11 |
 | 10 | [Xmas Bells](https://open.spotify.com/track/0nwZ6TwyMCjPfFm9KLvsD5) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Xmas Bells](https://open.spotify.com/album/4Khbpau26opiPjdN3EhUpA) | 2:02 |
-| 11 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 |
-| 12 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 |
+| 11 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 |
+| 12 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 |
 | 13 | [Ding Dong](https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP) | [Chillow Pillow](https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp) | [Ding Dong](https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY) | 2:06 |
 | 14 | [secret santa](https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz) | [ao](https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3) | [secret santa](https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV) | 2:23 |
 | 15 | [rockin' around the christmas tree](https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [rockin' around the christmas tree](https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo) | 2:06 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 63 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 64 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 65 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
-| 66 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
+| 66 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
 | 67 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 |
-| 68 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
+| 68 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 69 | [Happy Christmas \(War is Over\)](https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Happy Christmas](https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ) | 2:02 |
 | 70 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
 | 71 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |

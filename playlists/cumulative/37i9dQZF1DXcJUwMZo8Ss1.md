@@ -2,7 +2,7 @@
 
 ### [Hot Hits UAE](https://open.spotify.com/playlist/37i9dQZF1DXcJUwMZo8Ss1)
 
-> The hottest tracks in the UAE\. Cover: sombr
+> The hottest tracks in the UAE\. Cover: Taylor Swift
 
 232 songs - 12 hr 58 min
 

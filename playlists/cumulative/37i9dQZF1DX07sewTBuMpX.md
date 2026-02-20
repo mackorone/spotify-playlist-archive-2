@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: CHO
 
-113 songs - 5 hr 22 min
+114 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-12-10 |  |
 | [Lira Galore \- Remix](https://open.spotify.com/track/7EQaMPLaycCb7azZrBlQMR) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Lira Galore \(Remix\)](https://open.spotify.com/album/1RIBfx2LGcHp9O5BFAtOdk) | 2:31 | 2025-09-25 |  |
 | [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 | 2025-07-17 |  |
-| [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 | 2025-07-17 |  |
+| [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 | 2025-07-17 | 2026-02-20 |
 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 | 2025-07-17 |  |
 | [Love = Scary](https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Love = Scary](https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8) | 2:27 | 2025-07-17 | 2026-02-17 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2025-07-17 |  |
@@ -88,6 +88,7 @@
 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 | 2025-07-17 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-09-23 |  |
 | [SINGLE](https://open.spotify.com/track/3qQhi8uyeiCZnpkqh2VMNR) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [SINGLE](https://open.spotify.com/album/4iywKALSrsrGpZZrRug2G5) | 2:21 | 2025-12-10 |  |
+| [Single In De Club](https://open.spotify.com/track/5045jDDUndh7937KS177Ir) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Single In De Club](https://open.spotify.com/album/4WC3sXK9AKEQ6HlMfoZJGC) | 2:34 | 2026-02-19 |  |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2025-07-17 |  |
 | [SOS](https://open.spotify.com/track/2usgKLp2V6HTqOXh9rlETr) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [SOS](https://open.spotify.com/album/2zhqn8LO2ce6NgyQlO3n1Q) | 3:05 | 2025-07-17 |  |
 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 | 2025-07-17 |  |

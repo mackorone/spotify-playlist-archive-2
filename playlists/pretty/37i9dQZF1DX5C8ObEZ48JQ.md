@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP?si=mFJS0fqxSRaiduyOBakQ3Q">Mūmbi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs?si=KnVi6xcWRYS33mxz7RqYeA">Jack Apk</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,019 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,035 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Letting Go](https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Letting Go](https://open.spotify.com/album/7ckvmI7wind60KQOgVC7XR) | 3:16 |
-| 2 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 |
-| 3 | [Taking chances](https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs) | [2 Love letters](https://open.spotify.com/album/29Sr09HuEKEwAe1XkDu1WI) | 2:49 |
+| 1 | [Taking chances](https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs) | [2 Love letters](https://open.spotify.com/album/29Sr09HuEKEwAe1XkDu1WI) | 2:49 |
+| 2 | [Letting Go](https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Letting Go](https://open.spotify.com/album/7ckvmI7wind60KQOgVC7XR) | 3:16 |
+| 3 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 |
 | 4 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
 | 5 | [for my dawgs](https://open.spotify.com/track/3sMKZMUWOc8F5U4vAcTWfr) | [Amarii](https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY) | [for my dawgs](https://open.spotify.com/album/7KoWVuHqvnQQ0wLU44B68u) | 2:02 |
 | 6 | [Fatherless Daughters](https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls) | [BEA](https://open.spotify.com/artist/47T1oS5JM5PgJCsbPxetPO) | [Fatherless Daughters](https://open.spotify.com/album/3gku67Qp40ue91CBOpV5Za) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 |
 | 50 | [My Rider](https://open.spotify.com/track/3yt9iLc09aR4wCsK6Jn6IY) | [HEVI](https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4) | [Hevi](https://open.spotify.com/album/3SLCfZi43xfkkBRmrNd8mY) | 3:03 |
 
-Snapshot ID: `AAAAAIZF89nacxJ3bPEJkQez1Kl36Cho`
+Snapshot ID: `AAAAAGXSrvvcSolRK3mTZQshhdFdEUSZ`

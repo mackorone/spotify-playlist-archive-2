@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 724 likes - 82 songs - 5 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 728 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 80 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 |
 | 81 | [Lobo Enjaulado](https://open.spotify.com/track/1Emlppibbbk0q4dwzbdGMr) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [Lobo Enjaulado](https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM) | 6:05 |
 | 82 | [One More Time](https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [One More Time](https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo) | 3:10 |
+| 83 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 |
+| 84 | [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 |
+| 85 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 |
 
-Snapshot ID: `AAAFEAO+mDbVmKOS3nVtvy/LTcYLeCYg`
+Snapshot ID: `AAAFE2129J5avofMVQ3wfXYocIsHc33A`

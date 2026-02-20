@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 123949,
+  "num_followers": 123955,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABxbGw5KFfPCPBrtzFzae/1",
+  "snapshot_id": "aZUBAAAAAACdNP17LEQxaVmem8ly2WlB",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179640,
-      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
-      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+      "duration_ms": 179640,
+      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
+      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
     },
     {
       "added_at": null,
@@ -499,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riverside Profiles: Chet Baker",
-        "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
+        "name": "Reunion With Chet Baker",
+        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
       "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 183320,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
+      "duration_ms": 224066,
+      "name": "Trav'lin Light",
+      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reunion With Chet Baker",
-        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
+        "name": "Riverside Profiles: Chet Baker",
+        "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
       },
       "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Trav'lin Light",
-      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+      "duration_ms": 183320,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
     },
     {
       "added_at": null,

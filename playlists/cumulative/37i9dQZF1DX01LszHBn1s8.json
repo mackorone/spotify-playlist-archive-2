@@ -26903,6 +26903,24 @@
     },
     {
       "album": {
+        "name": "Swaggy",
+        "url": "https://open.spotify.com/album/1cKErqB3eedPzeq4CHykWz"
+      },
+      "artists": [
+        {
+          "name": "ROSSA",
+          "url": "https://open.spotify.com/artist/5kNTqgBtFxa85Wj3I9aspu"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119373,
+      "name": "Swaggy",
+      "url": "https://open.spotify.com/track/3Rcg117FrW49IJO2dqlAcr"
+    },
+    {
+      "album": {
         "name": "Sway (Sped Up Version)",
         "url": "https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud"
       },

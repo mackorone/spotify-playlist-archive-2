@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Nameless
+> Proudly Kenyan gems made for the entire family\. Cover: Bahati
 
-137 songs - 7 hr 52 min
+140 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,15 +17,17 @@
 | [Anyango](https://open.spotify.com/track/0SE8y9q6WAsXagEir0NGZL) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Mbak Ndalo](https://open.spotify.com/album/2UKBLrYqHmrxgS5p3oWXGZ) | 5:53 | 2025-10-23 | 2026-01-30 |
 | [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-10-23 | 2025-10-31 |
 | [Assurance](https://open.spotify.com/track/0HsFZY1LLvBI20qMtjj9j9) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Assurance](https://open.spotify.com/album/0CxUqb2AxCQTJH3bOce04X) | 4:20 | 2025-10-23 |  |
+| [Available](https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Needs](https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR) | 3:36 | 2026-02-19 |  |
 | [Baddies Need Love](https://open.spotify.com/track/7gEYreobjtjh6FPgnQcBfa) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baddies Need Love](https://open.spotify.com/album/0I4LwuokRzpfG7garp91AK) | 4:12 | 2025-11-14 |  |
 | [Bailando](https://open.spotify.com/track/44Xv4xk4hFgirmvrDijCfO) | [Kelechi Africana](https://open.spotify.com/artist/0O4K5MK5VYnGoMT3MZpr7k) | [Bailando](https://open.spotify.com/album/3R3UlDl61o3hyQvZTinE4j) | 3:07 | 2025-12-11 | 2026-02-06 |
 | [BALANCE](https://open.spotify.com/track/5fMexddrqrCRZKYp1vLveJ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:05 | 2025-11-21 | 2025-11-28 |
 | [Be My Lover](https://open.spotify.com/track/0B0jaxV7QyPGaDPFUmRfrp) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Love Language](https://open.spotify.com/album/6MJnxLZxoWycbVHLLuejVr) | 3:03 | 2025-11-21 | 2025-11-28 |
 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-10-23 | 2025-11-07 |
-| [Bella](https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Bella](https://open.spotify.com/album/2eGMuxWWgotUG05hPGvf5m) | 3:58 | 2025-10-23 |  |
+| [Bella](https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Bella](https://open.spotify.com/album/2eGMuxWWgotUG05hPGvf5m) | 3:58 | 2025-10-23 | 2026-02-20 |
+| [Brayo](https://open.spotify.com/track/7avyAPtxZStI48t4TSArol) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Brayo](https://open.spotify.com/album/3DpVSnYGtiuJhlFBximU41) | 1:59 | 2026-02-19 |  |
 | [Catchi Yoh Whine](https://open.spotify.com/track/1H8bWAkucKINTrOaovslR9) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Catchi Yoh Whine](https://open.spotify.com/album/2LzuFCeZ43aPCo37S3lYZ5) | 2:30 | 2025-10-23 |  |
 | [Colors](https://open.spotify.com/track/0KRLUkUZLsIh6k6d7Vp8Ir) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2BQcxkODkLjlM9SbwZqQS6) | 3:21 | 2025-10-23 |  |
-| [Come My Way](https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Come My Way](https://open.spotify.com/album/3YUAVNlSPHTHHYrhOYwqiH) | 2:56 | 2025-11-27 |  |
+| [Come My Way](https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Come My Way](https://open.spotify.com/album/3YUAVNlSPHTHHYrhOYwqiH) | 2:56 | 2025-11-27 | 2026-02-20 |
 | [Crash Out](https://open.spotify.com/track/40EchY6PKUPrt14nEdmKXA) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Zaituni Wambui](https://open.spotify.com/artist/70MvDj2d6WZpoIyRBHnXna) | [Crash Out](https://open.spotify.com/album/1AEOnjNRJMursjuMQ4o28C) | 3:39 | 2025-10-23 | 2026-02-13 |
 | [Dawa](https://open.spotify.com/track/08e888zImNSTqNrv6muOWM) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 3:11 | 2025-10-23 | 2025-12-19 |
 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 | 2025-10-23 |  |
@@ -78,6 +80,7 @@
 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 | 2025-10-23 |  |
 | [Manifest](https://open.spotify.com/track/2YqkqqcLITTtvdNHKTcona) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Manifest](https://open.spotify.com/album/6qzj4BgNHoOTdMgTvjEDrm) | 2:49 | 2026-02-12 |  |
 | [Massage](https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Massage](https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR) | 3:01 | 2025-10-30 |  |
+| [Matamu](https://open.spotify.com/track/1lT4qy0PMeNyKmVjvXVdzj) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Matamu](https://open.spotify.com/album/0gWDq2SPuK9Ta3jU6o8dzB) | 3:05 | 2026-02-19 |  |
 | [MAYOO](https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Mayoo](https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp) | 2:42 | 2025-10-23 |  |
 | [MONEY OVER LOVE](https://open.spotify.com/track/1bRVuXgt09LS1QVUHO4MLT) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [MONEY OVER LOVE](https://open.spotify.com/album/1b91cls5Jm2s4naoWKtMKp) | 2:26 | 2025-10-23 |  |
 | [Mr & Mrs](https://open.spotify.com/track/23amY54YH5JjEHl07h52e9) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Mr & Mrs](https://open.spotify.com/album/4HMcsqg3eXHOxyzSBcSE9x) | 3:38 | 2026-02-05 |  |
@@ -143,7 +146,7 @@
 | [WAWILI](https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo) | [Nahsh kariuki Official](https://open.spotify.com/artist/5mzYpiJA39D2iFcB3ERAfj) | [WAWILI](https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q) | 2:15 | 2026-01-29 | 2026-02-06 |
 | [We Don't Need Money to Be Rich](https://open.spotify.com/track/7vePbKLSXCGiz8Mx82PNs0) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [We Don't Need Money to Be Rich](https://open.spotify.com/album/6DYfffdAKRD8rMgKoPDKIR) | 2:44 | 2026-02-05 |  |
 | [Whine It \(feat\. Sauti Sol\)](https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:37 | 2025-11-21 | 2025-11-28 |
-| [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 | 2025-12-11 |  |
+| [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 | 2025-12-11 | 2026-02-20 |
 | [Za Mabuda](https://open.spotify.com/track/6OPKqbBsS6C0zyaotWUJzg) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Za Mabuda](https://open.spotify.com/album/4yEKWHb7dKVNlxsDMcEvOE) | 3:45 | 2025-12-11 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

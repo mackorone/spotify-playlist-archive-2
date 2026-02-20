@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Myles 6ix, Teetwo, TeniTeach",
+  "description": "Uma playlist de pura alma pop! Foto: Nuno Ribeiro",
   "name": "Pop PT",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 228320,
       "name": "20 Anos",
       "url": "https://open.spotify.com/track/0E8UYHnvtIdElOoW9FHXms"
+    },
+    {
+      "album": {
+        "name": "6\u00ba Sentido",
+        "url": "https://open.spotify.com/album/7GCcr8BPBFdAIPMyYZeRml"
+      },
+      "artists": [
+        {
+          "name": "Joana Oliveira",
+          "url": "https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "6\u00ba Sentido",
+      "url": "https://open.spotify.com/track/3i9uk30AONjbnkDsDEqz1e"
     },
     {
       "album": {
@@ -386,7 +404,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
@@ -1518,6 +1536,28 @@
       "duration_ms": 175911,
       "name": "Chuva - Acoustic",
       "url": "https://open.spotify.com/track/1J5dd7iOYWZovD8riV4HoS"
+    },
+    {
+      "album": {
+        "name": "Cidade",
+        "url": "https://open.spotify.com/album/07PnjkwXSysiILawDAjVDY"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        },
+        {
+          "name": "Buba Espinho",
+          "url": "https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170338,
+      "name": "Cidade",
+      "url": "https://open.spotify.com/track/7jCwf4u2bLCWPfU8ljz7iK"
     },
     {
       "album": {
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138260,
       "name": "Ess\u00eancia",
       "url": "https://open.spotify.com/track/1to7ZLCTvWvIHUlPaPTviL"
@@ -5316,7 +5356,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195843,
       "name": "o amor \u00e9 tudo",
       "url": "https://open.spotify.com/track/7cgCWmnfYPVgtzM3SWh6W4"
@@ -6026,7 +6066,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 203431,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/26W9LkNg5LebR0NyuphTa9"
@@ -6401,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "que me encontres",
+        "url": "https://open.spotify.com/album/4tcj8HJSMvtdsjaVQRYK0J"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "que me encontres",
+      "url": "https://open.spotify.com/track/3H2scl6udVSimxZ03tarK0"
+    },
+    {
+      "album": {
         "name": "Vai-se Andando?",
         "url": "https://open.spotify.com/album/5fTnXdADvh4aZmFIVdFoGZ"
       },
@@ -6662,7 +6720,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 141864,
       "name": "Rio do Esquecimento (Feiras Novas)",
       "url": "https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd"
@@ -6749,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Romeu e Julieta",
+        "url": "https://open.spotify.com/album/5KR3x0dHtOTFuGDvPZ0hPx"
+      },
+      "artists": [
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Romeu e Julieta",
+      "url": "https://open.spotify.com/track/53rVBoM2AJz98n8kLIA1uW"
+    },
+    {
+      "album": {
         "name": "Rosa (feat. CONAN OSIRIS)",
         "url": "https://open.spotify.com/album/210jbUrguMRYKHil7qrPLE"
       },
@@ -6811,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "Saloia",
+        "url": "https://open.spotify.com/album/7ru2TCUhoSoHXukQIWxAHL"
+      },
+      "artists": [
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Saloia",
+      "url": "https://open.spotify.com/track/6n0jihDYFApFTZIICTHxvO"
+    },
+    {
+      "album": {
         "name": "Saltamos Daqui!",
         "url": "https://open.spotify.com/album/73XIeQpT28k2fdPdv2NY0G"
       },
@@ -6840,7 +6934,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152366,
       "name": "Santa",
       "url": "https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei"
@@ -7316,6 +7410,24 @@
       "duration_ms": 162872,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"
+    },
+    {
+      "album": {
+        "name": "Soamos Todas Iguais",
+        "url": "https://open.spotify.com/album/0R309NYgmIEIhKkxQ6Y43x"
+      },
+      "artists": [
+        {
+          "name": "Joana Almeirante",
+          "url": "https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Soamos Todas Iguais",
+      "url": "https://open.spotify.com/track/6gKfQDBgaTCPdAIPN3yNtP"
     },
     {
       "album": {

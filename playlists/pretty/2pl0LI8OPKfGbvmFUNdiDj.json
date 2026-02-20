@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 592,
+  "num_followers": 590,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADDGabawdafedeSS8SDsa6r0GXZdZr",
+  "snapshot_id": "AAADDrakBrPoGmelZLl4/eq+08BFYZe9",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -155,6 +155,22 @@
       "duration_ms": 227664,
       "name": "Accroche toi",
       "url": "https://open.spotify.com/track/5eTiKImP9vTuJ1OGdiHJ0G"
+    },
+    {
+      "added_at": "2026-02-19 01:33:30",
+      "album": {
+        "name": "Something You Know",
+        "url": "https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "duration_ms": 197269,
+      "name": "Something You Know",
+      "url": "https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD"
     },
     {
       "added_at": "2026-01-06 13:54:43",

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Rakhooo",
-  "num_followers": 80523,
+  "num_followers": 80528,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlTgrzfL4rClbia9e/x2FGQWwnC",
+  "snapshot_id": "AAAAAFYfNZKNCYUiWtFEhNFFc9exyS+S",
   "tracks": [
     {
       "added_at": "2025-10-15 10:53:16",
@@ -185,6 +185,26 @@
       "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
     },
     {
+      "added_at": "2026-02-19 23:19:44",
+      "album": {
+        "name": "Kai Neraya Kannadi",
+        "url": "https://open.spotify.com/album/7mQhmxvcWaVectBz1l4qSJ"
+      },
+      "artists": [
+        {
+          "name": "Supaveen",
+          "url": "https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        }
+      ],
+      "duration_ms": 102361,
+      "name": "Kai Neraya Kannadi",
+      "url": "https://open.spotify.com/track/38K1u2uBrzKxe7cxg6Zif2"
+    },
+    {
       "added_at": "2025-12-08 05:55:32",
       "album": {
         "name": "Saaikaathey (From \"Pulse\")",
@@ -227,6 +247,26 @@
       "duration_ms": 251124,
       "name": "Naan Tamil - Pavalakkili",
       "url": "https://open.spotify.com/track/0JrMJr8gOeHPQ9r20UYqCM"
+    },
+    {
+      "added_at": "2026-02-19 12:38:12",
+      "album": {
+        "name": "Thaen Sinthuthe",
+        "url": "https://open.spotify.com/album/5QVm6GjoX0WBu3L0leGtwi"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sajikumar",
+          "url": "https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i"
+        },
+        {
+          "name": "Punnya Pradeep",
+          "url": "https://open.spotify.com/artist/120OELlsppNBgtlpuNTzxg"
+        }
+      ],
+      "duration_ms": 263978,
+      "name": "Thaen Sinthuthe",
+      "url": "https://open.spotify.com/track/0rnrwR33LjTonhShQqhlKg"
     },
     {
       "added_at": "2026-02-16 12:18:04",

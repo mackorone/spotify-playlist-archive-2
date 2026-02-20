@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-227 songs - 14 hr 1 min
+232 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
 | [Edge of Reality](https://open.spotify.com/track/0P8Jiz2SFpfEwH1dNxT90q) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8), [Norm Stockton](https://open.spotify.com/artist/59P8FStgQ946nzfFSc7aMP) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:53 | 2026-01-28 | 2026-02-19 |
+| [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2026-02-20 |  |
 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2026-02-10 |  |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 | 2025-12-06 |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-11 |  |
@@ -78,6 +79,7 @@
 | [Flying High](https://open.spotify.com/track/34Vu65tSCXXHcuKJXZYtrN) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Mark Henes](https://open.spotify.com/artist/1HSODWzFk49xph0BPYAF0l) | [Flying High](https://open.spotify.com/album/6x5RwDFMeEGiHWJtnRQ5so) | 3:15 | 2025-11-11 | 2025-12-06 |
 | [For Sale By Owner](https://open.spotify.com/track/6uNX8cb1mLv5pdlNt1CmkJ) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:46 | 2025-11-26 | 2025-12-28 |
 | [Forget](https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Forget](https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3) | 2:43 | 2025-11-19 |  |
+| [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-02-19 |  |
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-09-23 |  |
 | [Geister](https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT) | [Elektrosauna](https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi) | [Geister](https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX) | 6:10 | 2026-01-11 | 2026-02-02 |
 | [Good Dreams](https://open.spotify.com/track/0z2V3roWgX3rZERtuA6Vrr) | [OvniS](https://open.spotify.com/artist/1rtkMSxBfSbeWPUxsWWUCh) | [Humano\-Alien](https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ) | 3:54 | 2025-12-20 | 2026-01-21 |
@@ -141,6 +143,7 @@
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 |  |
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 | 2026-01-05 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |
+| [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 | 2026-02-20 |  |
 | [Nothing As It Seems](https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Dead Lights](https://open.spotify.com/album/73utoxGp8vesfCMwFvgQGX) | 3:29 | 2025-12-22 | 2026-01-21 |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-12-31 | 2026-01-21 |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
@@ -220,6 +223,7 @@
 | [Virus](https://open.spotify.com/track/7zKZS5LgJvKl018Y83mO8Z) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Virus](https://open.spotify.com/album/2JXu1atcdsne9odXJdbYnI) | 2:21 | 2026-01-24 | 2026-02-19 |
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-02-09 |  |
+| [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2026-02-20 |  |
 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 | 2026-02-09 |  |
 | [What You've Been Told](https://open.spotify.com/track/2PC2lNfhz7LiyyjV0Ignpk) | [Dandbroom](https://open.spotify.com/artist/7eH9LgP0tS3a6TwkoEWwBI) | [What You've Been Told](https://open.spotify.com/album/4W4wS1Uoo9YnJyYzxRP0pp) | 3:11 | 2025-11-11 | 2025-12-06 |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-11-17 | 2025-12-06 |
@@ -235,5 +239,6 @@
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-11-02 | 2025-12-06 |
 | [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 | 2026-01-19 | 2026-02-19 |
+| [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-20 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

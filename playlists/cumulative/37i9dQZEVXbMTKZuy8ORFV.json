@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 264996,
       "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
@@ -6384,7 +6384,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -12368,6 +12368,24 @@
       "duration_ms": 178080,
       "name": "Dynasties & Dystopia (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/28487fkXVQa2e6F2z73CBO"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde Estar\u00e1s",
+        "url": "https://open.spotify.com/album/7vpOjG7w5QYw10jaeS23wV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Rivera y Los Fen\u00f3menos",
+          "url": "https://open.spotify.com/artist/1pmX8705ZShJx4MBofcKgv"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384984,
+      "name": "D\u00f3nde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/5jZKsawh1yLlNVHRVaEguP"
     },
     {
       "album": {
@@ -21408,7 +21426,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -31730,7 +31748,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138240,
       "name": "Pecador",
       "url": "https://open.spotify.com/track/6BrttStLNK1Jiid2VA4QTp"
@@ -39238,7 +39256,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 137752,
       "name": "S\u00f3 Bund\u00e3o Grand\u00e3o",
       "url": "https://open.spotify.com/track/4QcbeYrzfyUBqnF5JU5Xt7"
@@ -42288,7 +42306,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 243951,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4J9LyFADr1h76FVyVW0TXQ"
@@ -44230,6 +44248,24 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
+    },
+    {
+      "album": {
+        "name": "La Voz M\u00e9xico 2019",
+        "url": "https://open.spotify.com/album/6ukjonjUJU560xTDhtMpt9"
+      },
+      "artists": [
+        {
+          "name": "Leo Rosas",
+          "url": "https://open.spotify.com/artist/5zy47DVm0CAlsgmY6TsHoc"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Volver A Amar",
+      "url": "https://open.spotify.com/track/5HG9nVmBiZf0lyetkVHhgE"
     },
     {
       "album": {

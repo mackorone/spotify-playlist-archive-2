@@ -4,7 +4,7 @@
 
 > 
 
-153 songs - 7 hr 58 min
+154 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
+| [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |
 | [Way We Remember](https://open.spotify.com/track/01sL1rfTr78MW7w1Me2pLo) | [Ev\. G](https://open.spotify.com/artist/7fF6lYj7ZXaTAmRRdtzOvE) | [Way We Remember](https://open.spotify.com/album/2CkRy3A2t9F9w4266B1sIA) | 2:48 | 2025-08-19 |  |
 | [Weather App](https://open.spotify.com/track/37jwT2aZIzgGicQQCJuYZY) | [Ariana Fig](https://open.spotify.com/artist/7t96BctZBDQcfKnDfREzDg) | [Weather App](https://open.spotify.com/album/6X4GGtNhMtAyyngGuOwM2P) | 4:13 | 2025-05-24 |  |

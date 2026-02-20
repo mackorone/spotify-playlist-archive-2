@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FANN",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1331,6 +1331,32 @@
     },
     {
       "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237125,
+      "name": "Asteria",
+      "url": "https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id"
+    },
+    {
+      "album": {
         "name": "Asteria",
         "url": "https://open.spotify.com/album/256dGagVSPEPbVMUyZlbMe"
       },
@@ -2512,6 +2538,32 @@
       "duration_ms": 209491,
       "name": "CARBON",
       "url": "https://open.spotify.com/track/66xAuuPku6qkjXo1wVVVPf"
+    },
+    {
+      "album": {
+        "name": "CARTEL",
+        "url": "https://open.spotify.com/album/21K02Axdn1jKwF7q4qkF5y"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161589,
+      "name": "CARTEL",
+      "url": "https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6"
     },
     {
       "album": {
@@ -5149,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Gata Latina",
+        "url": "https://open.spotify.com/album/1Z6aktdagbj2YFgtySfHEE"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Gata Latina",
+      "url": "https://open.spotify.com/track/3GCV9Z5LutfM9HYi7PQKjd"
+    },
+    {
+      "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
       },
@@ -6847,6 +6917,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164257,
+      "name": "KENZO",
+      "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
+    },
+    {
+      "album": {
         "name": "KIDNAP",
         "url": "https://open.spotify.com/album/5ouVOEmPoNf3lXl9S5TWP6"
       },
@@ -7540,7 +7636,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 217942,
       "name": "LV",
       "url": "https://open.spotify.com/track/5iXO4PqcC4d8joAhMTM2De"
@@ -8276,7 +8372,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 111333,
       "name": "Min Rotas",
       "url": "https://open.spotify.com/track/4q3ZJbvVEIFnZLW4x6wldZ"
@@ -8526,7 +8622,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 116250,
       "name": "MOTO GP",
       "url": "https://open.spotify.com/track/362mzHiBYNjkMasbA4HZKJ"
@@ -10485,6 +10581,28 @@
     },
     {
       "album": {
+        "name": "PISTEPSE ME",
+        "url": "https://open.spotify.com/album/1WqJYOxpOfSy8jvK0hso31"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "PISTEPSE ME",
+      "url": "https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG"
+    },
+    {
+      "album": {
         "name": "PISTOLERO",
         "url": "https://open.spotify.com/album/7dipSRTVdkPA6myKjYOmPy"
       },
@@ -11224,7 +11342,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 169440,
       "name": "Rave",
       "url": "https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1"
@@ -11738,7 +11856,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 128000,
       "name": "SEADOO",
       "url": "https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g"

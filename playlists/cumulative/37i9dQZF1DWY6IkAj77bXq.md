@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-307 songs - 15 hr 3 min
+308 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bare dreams](https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bare dreams](https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS) | 2:39 | 2024-08-28 |  |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2022-07-05 | 2024-12-12 |
 | [Between Galaxies](https://open.spotify.com/track/6DXhWt90wnGcyL6W7GIwwk) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Between Galaxies](https://open.spotify.com/album/4LWYVa3ShlnbxP9ohY0lri) | 2:43 | 2025-09-30 | 2026-02-12 |
-| [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 |  |
+| [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 | 2026-02-20 |
 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 | 2022-07-19 | 2024-04-19 |
 | [Blissful](https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/5Kwr9SHPE3HVyqxEdUsKIp) | 2:44 | 2022-07-05 | 2022-07-29 |
 | [Blue Dreams](https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Blue Dreams](https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG) | 2:55 | 2024-12-11 | 2025-05-15 |
@@ -245,6 +245,7 @@
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-07-05 |  |
 | [Shimmer](https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Shimmer](https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW) | 3:20 | 2025-01-14 |  |
 | [Shimmering Skies](https://open.spotify.com/track/2RmSZhe8tR1XiyG9YxpnKM) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [Shimmering Skies](https://open.spotify.com/album/2OX9kxWj8XmANZvmnVKZAK) | 2:38 | 2024-04-29 | 2024-06-11 |
+| [Shining Ridge](https://open.spotify.com/track/4hEcCpmatnGCDpo1DzZtk6) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Shining Ridge](https://open.spotify.com/album/0tWucW3Z5i6yDDWYeiz4tK) | 2:30 | 2026-02-11 |  |
 | [Silent Aurora](https://open.spotify.com/track/3mpAyQ4QANg2RXImWKvqDH) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Silent Aurora](https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn) | 3:13 | 2025-07-24 |  |
 | [Silent slumber](https://open.spotify.com/track/4g9v29eabQuJBbbCT5CWYI) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Silent slumber](https://open.spotify.com/album/7HGWndf2VOWichCVXIhvnk) | 2:27 | 2025-12-02 |  |
 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 | 2022-07-05 |  |

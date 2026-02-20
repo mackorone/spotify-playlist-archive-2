@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "A Little Tenderness",
+        "url": "https://open.spotify.com/album/0sEzEQKYhqAjSVs4zsMQPb"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Beyond Moments",
+          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114352,
+      "name": "A Little Tenderness",
+      "url": "https://open.spotify.com/track/6C75t2Ny9sKM39gD2cPOQt"
+    },
+    {
+      "album": {
         "name": "Lonnie Liston Smith JID017",
         "url": "https://open.spotify.com/album/6EZXwfwYYfU9YfxM0Gv6ZN"
       },
@@ -8592,7 +8614,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 124782,
       "name": "mooncircle",
       "url": "https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla"

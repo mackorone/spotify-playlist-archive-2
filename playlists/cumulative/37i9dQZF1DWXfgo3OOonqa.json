@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "100 g\u00e5nger",
+        "url": "https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "100 g\u00e5nger",
+      "url": "https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/1fHkJhbUoChpMjx8uy8KFV"
       },
@@ -1418,6 +1436,24 @@
       "duration_ms": 110476,
       "name": "A.P.T.A",
       "url": "https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM"
+    },
+    {
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8"
     },
     {
       "album": {
@@ -10999,6 +11035,24 @@
     },
     {
       "album": {
+        "name": "Du gamla du fria",
+        "url": "https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126036,
+      "name": "Du gamla du fria",
+      "url": "https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx"
+    },
+    {
+      "album": {
         "name": "Du m\u00e5ste veta",
         "url": "https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT"
       },
@@ -17721,6 +17775,24 @@
     },
     {
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL"
+    },
+    {
+      "album": {
         "name": "HOLD UP",
         "url": "https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ"
       },
@@ -20495,6 +20567,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Clayton",
+          "url": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Kan Bli Vad Du Vill",
+      "url": "https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa"
+    },
+    {
+      "album": {
         "name": "KAN DU H\u00d6RA MIG",
         "url": "https://open.spotify.com/album/2jyay8R58Y2lf2iwdzyByI"
       },
@@ -22294,6 +22384,28 @@
       "duration_ms": 164571,
       "name": "Lala",
       "url": "https://open.spotify.com/track/3YEME1tB3LOBaB8fxjbdFW"
+    },
+    {
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/6oPh7s4lNmI1e1ldUwQVTR"
+      },
+      "artists": [
+        {
+          "name": "Adouli",
+          "url": "https://open.spotify.com/artist/0D7xlQDyHU73mrurTwo0Fu"
+        },
+        {
+          "name": "Alex Lejonhj\u00e4rta",
+          "url": "https://open.spotify.com/artist/0QDBPTgCSmv3mKNyvY7ATB"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB"
     },
     {
       "album": {
@@ -31029,6 +31141,24 @@
     },
     {
       "album": {
+        "name": "PLATS",
+        "url": "https://open.spotify.com/album/7q2xccEnfyxpd0Qu3yGFFG"
+      },
+      "artists": [
+        {
+          "name": "Kristian Mecha",
+          "url": "https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155776,
+      "name": "PLATS",
+      "url": "https://open.spotify.com/track/7v2WS0PtWoigTLwKB4C7SQ"
+    },
+    {
+      "album": {
         "name": "Platsen",
         "url": "https://open.spotify.com/album/2uQbGKfLFdOnXeRoQnJ7rE"
       },
@@ -34430,6 +34560,24 @@
       "duration_ms": 144713,
       "name": "Sj\u00e4len \u00e4r svart",
       "url": "https://open.spotify.com/track/44N2tUIEaOrJAX96idaJQ8"
+    },
+    {
+      "album": {
+        "name": "Sj\u00e4lvportr\u00e4tt",
+        "url": "https://open.spotify.com/album/4SAKb95J5i6BimSNOjU86t"
+      },
+      "artists": [
+        {
+          "name": "Mattis",
+          "url": "https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149013,
+      "name": "Sj\u00e4lvportr\u00e4tt",
+      "url": "https://open.spotify.com/track/5YPVaYJFsIWk982PtEB5pG"
     },
     {
       "album": {
@@ -41140,6 +41288,28 @@
       "duration_ms": 126666,
       "name": "Vara jag",
       "url": "https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP"
+    },
+    {
+      "album": {
+        "name": "Varf\u00f6r (feat. Simon Superti)",
+        "url": "https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158390,
+      "name": "Varf\u00f6r (feat. Simon Superti)",
+      "url": "https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa"
     },
     {
       "album": {

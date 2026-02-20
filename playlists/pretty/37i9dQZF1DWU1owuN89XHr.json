@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 295656,
+  "num_followers": 295678,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Cartero",
-        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Divina T\u00fa",
-      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Mujer Que Camina",
         "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 322013,
       "name": "Mujer Que Camina",
       "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "El Cartero",
+        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Divina T\u00fa",
+      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Tres De Copas",
         "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 254786,
       "name": "Hasta Donde tu vayas",
       "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio",
-        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Qui\u00e9n Fuera",
-      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Arde Estocolmo",
         "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 193875,
       "name": "M\u00e1rgenes",
       "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Silvio",
+        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -959,6 +943,22 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",

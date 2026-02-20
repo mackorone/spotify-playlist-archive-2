@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-467 songs - 1 day 0 hr 24 min
+469 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 | 2025-01-17 |
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-23 | 2025-02-07 |
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-12-05 | 2025-01-03 |
-| [Den Jeg Vil For Deg](https://open.spotify.com/track/6buuay8KIO39oyykLOovoR) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [ayaga](https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO) | [Den Jeg Vil For Deg](https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5) | 3:03 | 2026-02-12 |  |
+| [Den Jeg Vil For Deg](https://open.spotify.com/track/6buuay8KIO39oyykLOovoR) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [ayaga](https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO) | [Den Jeg Vil For Deg](https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5) | 3:03 | 2026-02-12 | 2026-02-20 |
 | [Den Jeg Vil Ha](https://open.spotify.com/track/7JYQQZAzLJA3ZwhdUfzWUM) | [KLIKK9](https://open.spotify.com/artist/23UykbvVp8sE5YTO1Y9003) | [Den Jeg Vil Ha](https://open.spotify.com/album/1wchO4jCyy507FPNMvVcfk) | 3:03 | 2025-11-27 | 2025-12-05 |
 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-25 |  |
 | [DESPUÉS DE LA FERIA](https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [05050](https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx) | 3:06 | 2025-09-04 | 2025-09-26 |
@@ -270,6 +270,7 @@
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-08-01 | 2024-12-01 |
 | [Luft](https://open.spotify.com/track/2YJSx1oGUOKnjpBbC5eV8U) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Luft](https://open.spotify.com/album/0yTa4d2Tv2GzDTGiWGpsGY) | 2:58 | 2025-11-06 | 2025-11-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-03-28 |
+| [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 | 2026-02-19 |  |
 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 | 2025-06-26 | 2026-02-13 |
 | [Låt Mig Va](https://open.spotify.com/track/7MnietXFwPdKk3QhlxzgwR) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Låt Mig Va](https://open.spotify.com/album/7DuBr9drXCvHzsNoiyiw8s) | 2:52 | 2025-09-18 | 2025-09-26 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-09-01 |
@@ -339,6 +340,7 @@
 | [River Meg I To](https://open.spotify.com/track/5Iagbt0kAPlStMFjJFp0SX) | [Kløverr](https://open.spotify.com/artist/5qkTrW1lkAENJMZ0QlNUSx) | [River Meg I To](https://open.spotify.com/album/5bLs6IdAii8ZSUKBXLy7Lf) | 2:34 | 2025-04-22 | 2025-05-23 |
 | [Rollercoaster](https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Rollercoaster](https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP) | 3:06 | 2025-02-13 | 2025-02-21 |
 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 | 2025-07-10 | 2025-07-26 |
+| [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 | 2026-02-19 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 | 2024-11-02 |
 | [Running in a Dream](https://open.spotify.com/track/7on8Z2p8B13G7Kwo6KaK6u) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Running in a Dream](https://open.spotify.com/album/2R1y7fLlvszFjlRCRoovfO) | 4:22 | 2025-02-20 | 2025-04-23 |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-01-16 | 2025-04-04 |
@@ -358,7 +360,7 @@
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-11-01 | 2025-01-12 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-11-28 |
 | [Sirens](https://open.spotify.com/track/4mPmG1qvK98PXeNhLVFMVB) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Sirens](https://open.spotify.com/album/3tffwNpUA42EvmJ2O2NLGl) | 2:37 | 2025-12-04 | 2026-01-02 |
-| [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 | 2026-02-05 |  |
+| [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 | 2026-02-05 | 2026-02-20 |
 | [Sjelen](https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Sjelen](https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L) | 2:48 | 2026-02-12 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-06-27 | 2024-07-22 |
 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 | 2025-05-29 | 2025-09-26 |

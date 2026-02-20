@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 12817,
+  "num_followers": 12822,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
       },
       "artists": [
         {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
         }
       ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
       },
       "artists": [
         {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
         }
       ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
@@ -659,6 +643,38 @@
       "duration_ms": 346924,
       "name": "kulungile",
       "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -691,42 +707,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 345520,
       "name": "People of the South",
       "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-02-13 11:57:24",

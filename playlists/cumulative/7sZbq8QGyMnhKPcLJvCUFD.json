@@ -2767,6 +2767,28 @@
     },
     {
       "album": {
+        "name": "COM BOTA",
+        "url": "https://open.spotify.com/album/0XBZTTcFiYFDn1U1STuXyA"
+      },
+      "artists": [
+        {
+          "name": "cape",
+          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
+        },
+        {
+          "name": "crysstales",
+          "url": "https://open.spotify.com/artist/3ZIN00As3dOKnQpjA3O8uz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85565,
+      "name": "COM BOTA",
+      "url": "https://open.spotify.com/track/1xpgHzym0uDfioJNWRndhj"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH"
       },
@@ -8036,6 +8058,24 @@
       "duration_ms": 150222,
       "name": "jealous",
       "url": "https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq"
+    },
+    {
+      "album": {
+        "name": "jeans off.",
+        "url": "https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV"
+      },
+      "artists": [
+        {
+          "name": "Jancs",
+          "url": "https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121856,
+      "name": "jeans off.",
+      "url": "https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr"
     },
     {
       "album": {

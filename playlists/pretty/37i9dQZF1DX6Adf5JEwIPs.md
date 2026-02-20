@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Carlos Rivera & Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,536 likes - 72 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,542 likes - 72 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [Hoy La Vi Pasar \(En Vivo\)](https://open.spotify.com/track/2wP4yn6uxpJsYEOwib0RA7) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hoy La Vi Pasar \(En Vivo\)](https://open.spotify.com/album/58pNkphRpWDhPkxSJZnLnw) | 3:06 |
 | 25 | [Contemplarte](https://open.spotify.com/track/4xhopIpEEd9RZycgBhNVXi) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Contemplarte](https://open.spotify.com/album/5CmlESRXXFW9iSVZyRSukW) | 3:30 |
 | 26 | [Si Te Pudiera Mentir](https://open.spotify.com/track/1hKtcEoYcyp0hTuwSsP8c4) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2H1pOJMS5Oo3ynDDitA3HV) | 4:54 |
-| 27 | [Detalles \(Remix\)](https://open.spotify.com/track/7o7u5I89vBJ2TuefGbBFR8) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [JcHerrera](https://open.spotify.com/artist/0BtYYwh3MOt8VXEPgo8f8t) | [Detalles \(Remix\)](https://open.spotify.com/album/4ptlwj3aLpJROgEwhkM9Rw) | 2:38 |
+| 27 | [Detalles](https://open.spotify.com/track/7o7u5I89vBJ2TuefGbBFR8) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [JcHerrera](https://open.spotify.com/artist/0BtYYwh3MOt8VXEPgo8f8t) | [Detalles](https://open.spotify.com/album/4ptlwj3aLpJROgEwhkM9Rw) | 2:38 |
 | 28 | [BIEN, GRACIAS](https://open.spotify.com/track/3MU6c2siSUhWKYWt28UJA6) | [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [BIEN, GRACIAS](https://open.spotify.com/album/0vKVmrWP1QP24sPgTPibO3) | 2:54 |
 | 29 | [YA TE SUPERE](https://open.spotify.com/track/2Xn4lAWzmwAs2b9E0ZS1Eu) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [YA TE SUPERE](https://open.spotify.com/album/4Lorr569WDO17iUNk8h2yj) | 3:01 |
 | 30 | [De Rodillas Te Pido](https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB) | [Izaak G](https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [De Rodillas Te Pido](https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5) | 3:02 |

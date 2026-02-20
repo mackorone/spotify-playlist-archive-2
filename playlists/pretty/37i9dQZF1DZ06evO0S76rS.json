@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 162235,
+  "num_followers": 162261,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACwLG6pdont9l8PSb2P/3NX",
+  "snapshot_id": "aZUBAAAAAAA/rt41BXnoXzAMf2O7nTBU",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 284200,
-      "name": "La Magia De Tus Besos",
-      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
+      "duration_ms": 307106,
+      "name": "Hagamos Lo Que Diga el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/47y2Ay9EwQ6ZUNWEcUof5n"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo De Tambores",
-        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 277240,
-      "name": "Cali Aji",
-      "url": "https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI"
+      "duration_ms": 284200,
+      "name": "La Magia De Tus Besos",
+      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 252626,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
+      "duration_ms": 277240,
+      "name": "Cali Aji",
+      "url": "https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
       "duration_ms": 354133,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 252626,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Como Podr\u00e9 Disimular",
-      "url": "https://open.spotify.com/track/09oDhEqcxRtab69LIrNPEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Como Podr\u00e9 Disimular",
+      "url": "https://open.spotify.com/track/09oDhEqcxRtab69LIrNPEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tocando el Cielo Con las Manos",
         "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },
@@ -315,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 338773,
+      "name": "Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Control Absoluto",
         "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
@@ -327,22 +359,6 @@
       "duration_ms": 337998,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
       "duration_ms": 264733,
       "name": "Debiera Olvidarla",
       "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 290373,
       "name": "Un Alto En El Camino",
       "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
+      "duration_ms": 317180,
+      "name": "Un Caso Social",
+      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niche Con Cuerdas",
-        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
@@ -604,9 +604,25 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 317180,
-      "name": "Un Caso Social",
-      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
+      "duration_ms": 309800,
+      "name": "Te Ense\u00f1are A Olvidar",
+      "url": "https://open.spotify.com/track/2SWbIsC63yvZQivEtqHMa2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llegando Al 100%",
-        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 323026,
-      "name": "No Tuve A Quien Decirle Amor",
-      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 287000,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 323026,
+      "name": "No Tuve A Quien Decirle Amor",
+      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
     },
     {
       "added_at": null,
@@ -803,26 +819,6 @@
       "duration_ms": 282536,
       "name": "Han Cogido la Cosa",
       "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
     }
   ],
   "unique_name": "This Is Grupo Niche",

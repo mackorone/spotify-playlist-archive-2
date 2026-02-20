@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-3,129 songs - 6 day 21 hr 51 min
+3,130 songs - 6 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Aðfangadagskvöld](https://open.spotify.com/track/2ifjjqtgjsn0xDiQ4u2LZZ) | [Þú og ég](https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5), [Ég](https://open.spotify.com/artist/3nHx96DWe1AV86Vb49vbIA) | [Jólasnær](https://open.spotify.com/album/7ag5VU73uXExD4lFeCalxb) | 3:42 | 2024-12-02 | 2024-12-04 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-01 | 2023-07-23 |
 | [Baby Hvað Viltu?](https://open.spotify.com/track/5NW5MIr2o9h1cIGMJm4MWp) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [Lil Curly](https://open.spotify.com/artist/746fVqVoeiBPhTvtcEa93r) | [Baby Hvað Viltu?](https://open.spotify.com/album/7oxQKFChibTJ5PWoDcK3Vn) | 2:21 | 2025-05-08 | 2025-05-15 |
-| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-02-16 |  |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-02-16 | 2026-02-20 |
 | [BABÚSKA](https://open.spotify.com/track/6hItKvYg0jexB7fooXhaOQ) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ), [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57) | [STÉTTIN](https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa) | 2:53 | 2025-08-16 | 2025-08-18 |
 | [Back Door \(feat\. Quavo & Kodak Black\)](https://open.spotify.com/track/6f84PrgxSWSv4EBRweHXZJ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 4:03 | 2021-07-18 | 2021-07-19 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-04-23 | 2025-08-24 |
@@ -2592,6 +2592,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-28 | 2023-12-17 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-11 | 2024-06-02 |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-12-29 | 2023-03-23 |
+| [The Dance Of The Sugar Plum Fairy \(Volume 1: The Nutcracker Remixes\)](https://open.spotify.com/track/1uvZeXrnnPOD10kFssfeLu) | [DRMAGDN](https://open.spotify.com/artist/43AwQ5ynwG6ENTn26MJ1Bz) | [A VERY EDM XMAS](https://open.spotify.com/album/6oxnMS2OYtOOqwuNMKjzeM) | 4:01 | 2026-02-19 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-16 | 2025-02-10 |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-18 | 2024-05-26 |
 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2024-11-16 | 2024-11-18 |

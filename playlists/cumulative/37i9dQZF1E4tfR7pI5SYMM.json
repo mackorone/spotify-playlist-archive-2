@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
+  "description": "With Die Oberherren, AlligatorX, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/2f8MBmW7FByHDrSAqI2O2E"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/0EeeuVDazWVmzK3LfIMecM"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221679,
+      "name": "contact",
+      "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/1f1Z9kuUGw8gm5Mr4KUcWm"
       },
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -1548,7 +1584,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 238232,
       "name": "Dream III",
       "url": "https://open.spotify.com/track/4DXpm57YyEvDebgLuiHqAw"
@@ -2128,7 +2164,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 338079,
       "name": "Fire Dances",
       "url": "https://open.spotify.com/track/738UZ8hVEggxIVZ0UaNFqX"
@@ -2279,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Haliucinacijos",
+        "url": "https://open.spotify.com/album/168l4MNJHuRRlWSO0ir2M7"
+      },
+      "artists": [
+        {
+          "name": "Siela",
+          "url": "https://open.spotify.com/artist/1hPFXo3zHHaS83N6h4tTbH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244544,
+      "name": "Gervi\u0173 gedulo giesm\u0117s",
+      "url": "https://open.spotify.com/track/6uwjMIMIBwSqF07mhaYu3l"
+    },
+    {
+      "album": {
         "name": "Debtors Disco",
         "url": "https://open.spotify.com/album/0sj6ewWZKVDvcISyVWJf4W"
       },
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2806,7 +2860,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -3170,7 +3224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193000,
       "name": "Kom Og Klikk",
       "url": "https://open.spotify.com/track/7g9I1OQhHH3MvKGf43TbZt"
@@ -3192,7 +3246,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 243902,
       "name": "Kom Og Klikk - Harvey North Remix",
       "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
@@ -4120,7 +4174,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4192,7 +4246,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -4246,7 +4300,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4542,7 +4596,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 174545,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1ht01WVeH0egiSMOyTGjW8"
@@ -4758,7 +4812,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5232,7 +5286,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -5340,7 +5394,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 234260,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
@@ -5646,7 +5700,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -6126,7 +6180,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 269520,
       "name": "The Break Up Song",
       "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
@@ -6646,6 +6700,24 @@
       "duration_ms": 283360,
       "name": "Til Verdens Ende",
       "url": "https://open.spotify.com/track/6YegC4MQx91hki4pbalHfG"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/3sF0yBWVnBCyKLuWMxLvZw"
+      },
+      "artists": [
+        {
+          "name": "Dystopian X Vision",
+          "url": "https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206083,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
     },
     {
       "album": {
@@ -7396,7 +7468,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
@@ -7486,7 +7558,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Yes Life",
       "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"

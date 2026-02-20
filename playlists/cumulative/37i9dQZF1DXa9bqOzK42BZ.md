@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Joel Lwaga
 
-313 songs - 1 day 3 hr 10 min
+314 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Mjini](https://open.spotify.com/track/4DGWfhjyRpH7hM3ikQws7V) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Mjini](https://open.spotify.com/album/5B7ObLC2c5ls9w7Sdd1hi5) | 4:30 | 2024-12-20 | 2025-09-12 |
 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 | 2025-02-21 |
 | [Mlima \- Live](https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Higher + Deeper \(Live in Dar Es Salaam\)](https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T) | 10:23 | 2022-06-24 | 2024-04-19 |
-| [Move On](https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Move On](https://open.spotify.com/album/57FkLvxpYb3TvD6xbRvdOj) | 2:50 | 2025-08-08 |  |
+| [Move On](https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Move On](https://open.spotify.com/album/57FkLvxpYb3TvD6xbRvdOj) | 2:50 | 2025-08-08 | 2026-02-20 |
+| [Moyo Wa Shukrani](https://open.spotify.com/track/2PT4W834PIHj9BMEKbzxuE) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Moyo Wa Shukrani](https://open.spotify.com/album/1Ox4vYQcb2PMC23dSmICcX) | 2:59 | 2026-02-20 |  |
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 | 2023-11-03 |
 | [Moyoni](https://open.spotify.com/track/2qVFAjT0CajtnkuXo2BlWO) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Moyoni](https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY) | 2:47 | 2025-10-17 |  |

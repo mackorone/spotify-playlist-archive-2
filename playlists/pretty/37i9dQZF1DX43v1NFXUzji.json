@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! SOFI TUKKER & J Balvin on cover",
-  "num_followers": 612182,
+  "num_followers": 612199,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 190496,
+      "name": "MODELITO",
+      "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
+    },
+    {
+      "added_at": "2026-02-06 21:36:56",
+      "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 248362,
       "name": "Kamikaze (feat. Victor Mendivil)",
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
-    },
-    {
-      "added_at": "2026-02-06 21:36:56",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 190496,
-      "name": "MODELITO",
-      "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -955,8 +955,8 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
-        "name": "Little Demon",
-        "url": "https://open.spotify.com/album/0jcuyuKVZVkDLFlEPSaa9N"
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Little Demon",
-      "url": "https://open.spotify.com/track/5HmbkAdM5TJZcCmFQgNHI6"
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+        "name": "Little Demon",
+        "url": "https://open.spotify.com/album/0jcuyuKVZVkDLFlEPSaa9N"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+      "duration_ms": 166000,
+      "name": "Little Demon",
+      "url": "https://open.spotify.com/track/5HmbkAdM5TJZcCmFQgNHI6"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
-        "name": "ASHE ASHE",
-        "url": "https://open.spotify.com/album/5jumlYxx4AjDMUSYuMsFOQ"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "ASHE ASHE",
-      "url": "https://open.spotify.com/track/0RyDhL726SsIW5X9Jv6DwB"
-    },
-    {
-      "added_at": "2026-02-06 21:36:56",
-      "album": {
         "name": "Como Pacman",
         "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2026-02-06 21:36:56",
+      "album": {
+        "name": "ASHE ASHE",
+        "url": "https://open.spotify.com/album/5jumlYxx4AjDMUSYuMsFOQ"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "ASHE ASHE",
+      "url": "https://open.spotify.com/track/0RyDhL726SsIW5X9Jv6DwB"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
-        "name": "Como Es (Remix)",
-        "url": "https://open.spotify.com/album/0tbKQ1OplPgmakKPSzFrZz"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Como Es - Remix",
-      "url": "https://open.spotify.com/track/3uZe6zsDlFNxaKiqn1kHJi"
-    },
-    {
-      "added_at": "2026-02-06 21:36:56",
-      "album": {
         "name": "LACONE",
         "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
       },
@@ -2143,6 +2123,26 @@
       "duration_ms": 260952,
       "name": "LACONE",
       "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
+    },
+    {
+      "added_at": "2026-02-06 21:36:56",
+      "album": {
+        "name": "Como Es (Remix)",
+        "url": "https://open.spotify.com/album/0tbKQ1OplPgmakKPSzFrZz"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Como Es - Remix",
+      "url": "https://open.spotify.com/track/3uZe6zsDlFNxaKiqn1kHJi"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "added_at": "2026-02-06 21:36:56",
+      "album": {
         "name": "RZR",
         "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 173142,
       "name": "RZR",
       "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
-    },
-    {
-      "added_at": "2026-02-06 21:36:56",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 130961,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
     },
     {
       "added_at": "2026-02-06 21:36:56",
@@ -2579,6 +2579,26 @@
     {
       "added_at": "2026-02-06 21:36:56",
       "album": {
+        "name": "PLAYA DEL INGL\u00c9S",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "added_at": "2026-02-06 21:36:56",
+      "album": {
         "name": "Alley Oop",
         "url": "https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi"
       },
@@ -2599,26 +2619,6 @@
       "duration_ms": 200064,
       "name": "Alley Oop",
       "url": "https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT"
-    },
-    {
-      "added_at": "2026-02-06 21:36:56",
-      "album": {
-        "name": "PLAYA DEL INGL\u00c9S",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2026-02-06 21:36:56",

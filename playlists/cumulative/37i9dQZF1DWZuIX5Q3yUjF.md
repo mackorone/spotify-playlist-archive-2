@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> INVERNO in cover della playlist dell'R&B italiano 🫀
+> JANAKI in cover della playlist dell'R&B italiano 🫀
 
-988 songs - 2 day 0 hr 45 min
+992 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | ['A Passion](https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | ['A Passion](https://open.spotify.com/album/1TfcZ8uJZ9nZXiLBXknhBx) | 2:56 | 2024-12-12 | 2025-05-23 |
 | [+ fuori](https://open.spotify.com/track/4DU9uwudZcIQ7E2MtBXtbr) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [+ fuori](https://open.spotify.com/album/3GoJS4Mpdr26Ou1vUkqqCv) | 2:40 | 2025-10-30 |  |
 | [1 secondo](https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [1 secondo](https://open.spotify.com/album/7MTeZ7wPxGZF0zkcfNcL9p) | 2:15 | 2024-10-10 | 2025-04-18 |
+| [1 senso mio](https://open.spotify.com/track/0x2olj4DYz8BcnWYqkcpm9) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [1 senso mio](https://open.spotify.com/album/12S760HCPuVrW8DZDdmDOV) | 3:06 | 2026-02-19 |  |
 | [1000 Persone](https://open.spotify.com/track/2BoMWdcJU065H5iTnv59km) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4), [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [1000 Persone](https://open.spotify.com/album/0cemiyQDsB9mhgt1kwIv4O) | 3:16 | 2025-10-23 | 2025-11-14 |
 | [11:11](https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [11:11](https://open.spotify.com/album/0ErGOW5ewcPle8WY9AEIU9) | 3:04 | 2023-06-15 | 2023-06-30 |
 | [120 KM/H](https://open.spotify.com/track/4otcjodGGKLZ7SjRIB8ET1) | [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [120 KM/H / GIACINTI](https://open.spotify.com/album/13rVNvALnHWDKAZbCclUqD) | 2:39 | 2024-01-11 | 2024-02-02 |
@@ -70,6 +71,7 @@
 | [antidt](https://open.spotify.com/track/5eYGbLQ97nuDEZwEcn7aoo) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [antidt](https://open.spotify.com/album/3fd98pMq07pL7JG1TF0rX8) | 2:26 | 2025-03-06 | 2025-05-23 |
 | [Apollo 12](https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Apollo 12](https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w) | 2:46 | 2024-09-19 | 2025-05-23 |
 | [Appassire](https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Appassire](https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX) | 2:46 | 2023-08-31 | 2024-01-19 |
+| [AR Luna Park](https://open.spotify.com/track/2F3DuIXANQvWn8BMOsTDEf) | [Susina](https://open.spotify.com/artist/0qiqErZ1ytHMgeBlYga3QU) | [AR Luna Park](https://open.spotify.com/album/6XlQvzyfbWOFRtpIGReAmJ) | 3:56 | 2026-02-19 |  |
 | [ARGENTINA](https://open.spotify.com/track/0YQ5demtP637FNiPMEXmtL) | [GIGLIO](https://open.spotify.com/artist/6rwPrUDnGJSORRiUld3tt0) | [ARGENTINA](https://open.spotify.com/album/0fIEId02ty4Y1qT9prTfHQ) | 3:04 | 2025-06-12 | 2025-11-14 |
 | [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 | 2023-11-30 | 2024-04-14 |
 | [Aria](https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw) | 2:30 | 2024-04-12 | 2024-04-16 |
@@ -517,6 +519,7 @@
 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 | 2023-06-08 | 2024-05-10 |
 | [MaiMai](https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MaiMai](https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7) | 2:38 | 2023-06-01 | 2023-07-14 |
 | [Mal di testa](https://open.spotify.com/track/3CXbnnGSNSBZ4cBhHdnVc5) | [Sofia](https://open.spotify.com/artist/4T5t1RTDYfbyshE3hGlb4D) | [Mal di testa](https://open.spotify.com/album/3UhrMNEvpct8rQ3CHbQae1) | 2:54 | 2025-09-18 | 2025-11-14 |
+| [Male](https://open.spotify.com/track/5qgYxqoRxG5q6X9hRGfbGS) | [AZZURRA](https://open.spotify.com/artist/1Ffzy4GSWaWqkyhOWDNMU2) | [Male](https://open.spotify.com/album/1mtp7FTwowI3gAYDko7Y5C) | 3:04 | 2026-02-19 |  |
 | [MALEDETTA TE](https://open.spotify.com/track/7hXZ2ppaYw9RBm0Lb2S1zq) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [MALEDETTA TE](https://open.spotify.com/album/17ZdmY0EXzNBYsjwcsVi5J) | 2:22 | 2024-03-14 | 2024-04-16 |
 | [Mama](https://open.spotify.com/track/3Ry2ZBM6XaCDPpZaMuFE9v) | [SAMIA](https://open.spotify.com/artist/4LxiKyrhyqB0fTGmKtXSFZ) | [Mama](https://open.spotify.com/album/6Te8O72BKZZIK2MI72LUKT) | 3:11 | 2023-01-12 | 2023-04-14 |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 | 2025-07-11 |
@@ -810,6 +813,7 @@
 | [Settembre](https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n) | [Cloud](https://open.spotify.com/artist/6dapSPLViSAWcyvccpRoCX) | [Settembre](https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC) | 2:38 | 2022-05-05 | 2022-07-29 |
 | [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 | 2024-04-16 |
 | [sfumature blu](https://open.spotify.com/track/7IzxGKw9eFHoLZlTMnJnKx) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [sfumature blu](https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC) | 2:46 | 2024-03-07 | 2024-04-16 |
+| [SHADY](https://open.spotify.com/track/27HKhgSMv7yWNATq8LCT7X) | [sadbrodino](https://open.spotify.com/artist/59X6ZWuzBRU0aaqXLIQkCi) | [SHADY](https://open.spotify.com/album/2DNIvVG7KJBPJKZnmYn294) | 2:24 | 2026-02-19 |  |
 | [SHE \( REPLAY \)](https://open.spotify.com/track/4rnORO1lzpKGsz47TMFfxk) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [SHE \( REPLAY \)](https://open.spotify.com/album/3TOckgikdE9futuWsfxl9V) | 2:58 | 2025-07-10 | 2025-10-17 |
 | [Sheep and Mustangs](https://open.spotify.com/track/5gdiIs03jNmpc3Rs8qZWXP) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 3:55 | 2024-12-19 | 2025-06-20 |
 | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/track/3eQg7hoyTvnvH0yBbfnRqO) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/album/0kaKjVZXXqjLnIcBo5wxrG) | 2:03 | 2024-01-25 | 2024-05-17 |

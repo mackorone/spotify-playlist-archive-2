@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Hildah Watiri & Kyrop
 
-309 songs - 17 hr 27 min
+311 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2025-03-28 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 | 2025-05-09 |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
+| [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 | 2026-02-20 |  |
 | [Feel](https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:01 | 2024-04-25 | 2026-02-06 |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 | 2022-07-23 |
 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 | 2025-02-13 | 2025-02-21 |
@@ -218,7 +219,7 @@
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2025-02-13 | 2025-02-21 |
 | [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-13 | 2025-02-21 |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
-| [Peddi](https://open.spotify.com/track/643eUUzfiHcyEVt5UHcMkC) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Peddi](https://open.spotify.com/album/0QAP2mGhEGg4H2TeZYqnPr) | 6:00 | 2025-06-05 |  |
+| [Peddi](https://open.spotify.com/track/643eUUzfiHcyEVt5UHcMkC) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Peddi](https://open.spotify.com/album/0QAP2mGhEGg4H2TeZYqnPr) | 6:00 | 2025-06-05 | 2026-02-20 |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2024-05-17 |
 | [Penzi Wa Kasi](https://open.spotify.com/track/5YMLJGySuOfRuGJja7LOb8) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 2:44 | 2025-02-13 | 2025-02-21 |
 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 | 2025-02-13 | 2025-02-21 |
@@ -274,6 +275,7 @@
 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 |  |
 | [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 | 2025-01-09 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |
+| [Tabasamu](https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tabasamu](https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5) | 3:28 | 2026-02-20 |  |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 | 2025-02-14 |
 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 | 2025-05-05 |  |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-18 | 2024-02-02 |
@@ -281,7 +283,7 @@
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-15 | 2024-09-27 |
 | [The One](https://open.spotify.com/track/6YfzjQil3otRR3siUApB7w) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 2:58 | 2025-02-13 | 2025-02-21 |
 | [the vow](https://open.spotify.com/track/32Y8v6M0TfvQcObHbAAfr5) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [the vow](https://open.spotify.com/album/5L9h9l0GrjkDG11g6H1WQE) | 4:04 | 2025-02-13 | 2025-02-21 |
-| [The World](https://open.spotify.com/track/6AIPUgPeeZlyjlmYJJvQG3) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The World](https://open.spotify.com/album/01qXWieSBkM6m8tNHTIILL) | 2:12 | 2025-05-29 |  |
+| [The World](https://open.spotify.com/track/6AIPUgPeeZlyjlmYJJvQG3) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The World](https://open.spotify.com/album/01qXWieSBkM6m8tNHTIILL) | 2:12 | 2025-05-29 | 2026-02-20 |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 | 2023-10-20 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-08-24 | 2024-09-13 |
 | [TLC \(No Love Lost\)](https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [TLC \(No Love Lost\)](https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW) | 3:45 | 2024-05-30 | 2024-09-20 |

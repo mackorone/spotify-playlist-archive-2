@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "It's the Hits 2011, Vol. 8",
+        "url": "https://open.spotify.com/album/0jHoJGS7Cymed9okFqVvwK"
+      },
+      "artists": [
+        {
+          "name": "New Tribute Kings",
+          "url": "https://open.spotify.com/artist/4mNfOTm9TO3w8v3TIzaNZ7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195272,
+      "name": "Best Damn Night (Originally Performed By Six D) - Tribute Version",
+      "url": "https://open.spotify.com/track/3GimeKoKqRDKxaiQ2z74tj"
+    },
+    {
+      "album": {
         "name": "Ultimate Hits",
         "url": "https://open.spotify.com/album/7pPmYc4CJLup6CHjRt0z9d"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196022,
       "name": "Best Damn Night - Tribute to Six D",
       "url": "https://open.spotify.com/track/27r4IUgKduUcKcjZjlXvsJ"
@@ -3066,7 +3084,7 @@
       },
       "artists": [
         {
-          "name": "ANGEL!",
+          "name": "Angel",
           "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
         }
       ],
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 204134,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"

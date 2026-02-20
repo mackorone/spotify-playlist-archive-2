@@ -1,6 +1,6 @@
 {
   "description": "From India to MENA, these hits will make you dance.",
-  "num_followers": 67823,
+  "num_followers": 67821,
   "original_name": "Bollywood Araby",
   "owner": {
     "name": "Spotify",
@@ -250,6 +250,22 @@
         {
           "name": "Nikita Nigam",
           "url": "https://open.spotify.com/artist/6H8pKYxkF2q0vUmSNwmrL3"
+        },
+        {
+          "name": "Sajid-Wajid",
+          "url": "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
+        },
+        {
+          "name": "Wajid",
+          "url": "https://open.spotify.com/artist/6f5kUMXGROFtdAtxXZwing"
+        },
+        {
+          "name": "Shabir Ahmad",
+          "url": "https://open.spotify.com/artist/7cTM7ie95sPNt0eRKyOgVD"
+        },
+        {
+          "name": "Carlyta Mouhini",
+          "url": "https://open.spotify.com/artist/0TXTypSs85Z9ktsFlmR3pe"
         }
       ],
       "duration_ms": 250183,
@@ -519,30 +535,6 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
-        "name": "Ek Chumma (From \"Housefull 4\")",
-        "url": "https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb"
-      },
-      "artists": [
-        {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
-        },
-        {
-          "name": "Altamash Faridi",
-          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
-        },
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        }
-      ],
-      "duration_ms": 244932,
-      "name": "Ek Chumma (From \"Housefull 4\")",
-      "url": "https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5"
-    },
-    {
-      "added_at": "2024-03-13 07:49:44",
-      "album": {
         "name": "The Naari Naari Song (From \"Made in China\")",
         "url": "https://open.spotify.com/album/6C6MkQFaFZpyMnH5aVdqqL"
       },
@@ -563,6 +555,30 @@
       "duration_ms": 197000,
       "name": "The Naari Naari Song (From \"Made in China\")",
       "url": "https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l"
+    },
+    {
+      "added_at": "2024-03-13 07:49:44",
+      "album": {
+        "name": "Ek Chumma (From \"Housefull 4\")",
+        "url": "https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        }
+      ],
+      "duration_ms": 244932,
+      "name": "Ek Chumma (From \"Housefull 4\")",
+      "url": "https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5"
     },
     {
       "added_at": "2024-03-13 07:49:44",
@@ -1059,18 +1075,22 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
-        "name": "Bollywood",
-        "url": "https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh"
+        "name": "Radio (Douzi - Arabic Version) [From \"Tubelight\"]",
+        "url": "https://open.spotify.com/album/6xcfoDf2wcvUuEeUP8UZAJ"
       },
       "artists": [
         {
-          "name": "In-s",
-          "url": "https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Douzi",
+          "url": "https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG"
         }
       ],
-      "duration_ms": 189818,
-      "name": "Bollywood",
-      "url": "https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI"
+      "duration_ms": 290999,
+      "name": "Radio (Douzi - Arabic Version) [From \"Tubelight\"]",
+      "url": "https://open.spotify.com/track/6H9Qo8MsTUPm6FpbIa081X"
     }
   ],
   "unique_name": "Bollywood Araby",

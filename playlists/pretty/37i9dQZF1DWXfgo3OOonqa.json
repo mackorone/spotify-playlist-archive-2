@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 335655,
+  "num_followers": 335636,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKlBjPa2esmcv4XqjJMAQfKOjR4Q",
+  "snapshot_id": "AAAAAItmSCrvmpIxX3PIGr+Zl3omtla/",
   "tracks": [
     {
       "added_at": "2026-02-16 08:12:57",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/05WIutjuxxjZsI5wJNBg3p"
     },
     {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Du gamla du fria",
+        "url": "https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "duration_ms": 126036,
+      "name": "Du gamla du fria",
+      "url": "https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx"
+    },
+    {
       "added_at": "2026-02-16 08:12:57",
       "album": {
         "name": "Stockholmsbrud",
@@ -43,6 +59,22 @@
       "duration_ms": 101562,
       "name": "Stockholmsbrud",
       "url": "https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC"
+      },
+      "artists": [
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8"
     },
     {
       "added_at": "2026-02-16 08:12:57",
@@ -61,6 +93,26 @@
       "url": "https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN"
     },
     {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Varf\u00f6r (feat. Simon Superti)",
+        "url": "https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH"
+      },
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 158390,
+      "name": "Varf\u00f6r (feat. Simon Superti)",
+      "url": "https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa"
+    },
+    {
       "added_at": "2026-02-16 08:12:57",
       "album": {
         "name": "DraMa",
@@ -75,6 +127,22 @@
       "duration_ms": 173217,
       "name": "DraMa",
       "url": "https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Clayton",
+          "url": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Kan Bli Vad Du Vill",
+      "url": "https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa"
     },
     {
       "added_at": "2026-02-16 08:12:57",
@@ -111,6 +179,22 @@
       "duration_ms": 121165,
       "name": "En Chans",
       "url": "https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "100 g\u00e5nger",
+        "url": "https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "100 g\u00e5nger",
+      "url": "https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173"
     },
     {
       "added_at": "2026-02-16 08:12:57",
@@ -181,6 +265,22 @@
       "url": "https://open.spotify.com/track/1y5I9JZw8xzoAOzPWyrJxY"
     },
     {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL"
+    },
+    {
       "added_at": "2026-02-16 08:12:57",
       "album": {
         "name": "We Get Paid",
@@ -201,6 +301,26 @@
       "url": "https://open.spotify.com/track/0ZQ8dJaXA94uPZqFyYH19N"
     },
     {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/6oPh7s4lNmI1e1ldUwQVTR"
+      },
+      "artists": [
+        {
+          "name": "Adouli",
+          "url": "https://open.spotify.com/artist/0D7xlQDyHU73mrurTwo0Fu"
+        },
+        {
+          "name": "Alex Lejonhj\u00e4rta",
+          "url": "https://open.spotify.com/artist/0QDBPTgCSmv3mKNyvY7ATB"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB"
+    },
+    {
       "added_at": "2026-02-16 08:12:57",
       "album": {
         "name": "More Money",
@@ -215,6 +335,22 @@
       "duration_ms": 125550,
       "name": "More Money",
       "url": "https://open.spotify.com/track/0AoOhvejPWd70JPMHmAKMm"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Sj\u00e4lvportr\u00e4tt",
+        "url": "https://open.spotify.com/album/4SAKb95J5i6BimSNOjU86t"
+      },
+      "artists": [
+        {
+          "name": "Mattis",
+          "url": "https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Sj\u00e4lvportr\u00e4tt",
+      "url": "https://open.spotify.com/track/5YPVaYJFsIWk982PtEB5pG"
     },
     {
       "added_at": "2026-02-16 08:12:57",
@@ -251,6 +387,22 @@
       "duration_ms": 151502,
       "name": "L\u00c5NGT BORT",
       "url": "https://open.spotify.com/track/7zYIepuvq0QCKxF5RtGsGY"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "PLATS",
+        "url": "https://open.spotify.com/album/7q2xccEnfyxpd0Qu3yGFFG"
+      },
+      "artists": [
+        {
+          "name": "Kristian Mecha",
+          "url": "https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl"
+        }
+      ],
+      "duration_ms": 155776,
+      "name": "PLATS",
+      "url": "https://open.spotify.com/track/7v2WS0PtWoigTLwKB4C7SQ"
     },
     {
       "added_at": "2026-02-16 08:12:57",

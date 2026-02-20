@@ -696,10 +696,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192733,
       "name": "Utan dig",
       "url": "https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01"
+    },
+    {
+      "album": {
+        "name": "Utan dig",
+        "url": "https://open.spotify.com/album/1JBAH6SAYgdLYudR895pWE"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "Utan dig",
+      "url": "https://open.spotify.com/track/00Uv9RPQNwkkck0kN2XkwW"
     },
     {
       "album": {

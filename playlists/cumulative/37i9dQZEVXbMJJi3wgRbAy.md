@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,273 songs - 2 day 19 hr 22 min
+1,274 songs - 2 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Deja el guille](https://open.spotify.com/track/3xkSJ96WiMbbOgTyQcDxHd) | [Betone](https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ) | [Deja el guille](https://open.spotify.com/album/0sX77SyKS1r0wEw72XE2gi) | 2:37 | 2024-04-08 | 2024-04-10 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-13 |
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-09-21 |
-| [Dejavu](https://open.spotify.com/track/6lHmVCdbcAx8M4qjO3I6hD) | [Juli Obregon](https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn) | [Dejavu](https://open.spotify.com/album/2EzGdmfS8BjLy2kazP0Xea) | 2:56 | 2026-02-18 |  |
+| [Dejavu](https://open.spotify.com/track/6lHmVCdbcAx8M4qjO3I6hD) | [Juli Obregon](https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn) | [Dejavu](https://open.spotify.com/album/2EzGdmfS8BjLy2kazP0Xea) | 2:56 | 2026-02-18 | 2026-02-20 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-19 | 2022-05-08 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-26 | 2025-05-08 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-06 | 2023-05-08 |
@@ -1151,6 +1151,7 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-23 | 2022-06-26 |
 | [Típica Argentina](https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Chofer](https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL), [El Lobo](https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK) | [Típica Argentina](https://open.spotify.com/album/3HBd40il87H552v0UdXkUv) | 2:36 | 2025-08-16 | 2026-01-27 |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2021-10-10 | 2021-11-26 |
+| [Túnel de la Vida](https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/2KczQy95f5dMmdrRIsshdx) | 4:00 | 2026-02-19 |  |
 | [UH LA LA LA](https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [UH LA LA LA](https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7) | 2:47 | 2024-04-22 | 2024-05-15 |
 | [Ultimo Tren a Ameri](https://open.spotify.com/track/1UuWDJ8wmptULOs6RbFrBo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:51 | 2023-06-24 | 2023-06-26 |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-06 | 2022-07-24 |

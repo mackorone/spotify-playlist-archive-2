@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,697 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,758 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 31 | [Even In Death \- 2016 Version](https://open.spotify.com/track/4VO8CRItRuli3cnQLBDpvv) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:21 |
 | 32 | [Secret Door](https://open.spotify.com/track/1ium9V09FUQ32Co0D3B6Dz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:53 |
 | 33 | [Broken Pieces Shine](https://open.spotify.com/track/6LmgYdsFplTB7GEuqYqTVF) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:50 |
-| 34 | [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 |
+| 34 | [Imperfection](https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 4:23 |
 | 35 | [If You Don’t Mind](https://open.spotify.com/track/5XFvhTjWWDttRY2pi4SIwx) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 2:57 |
-| 36 | [Imperfection](https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 4:23 |
+| 36 | [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 |
 | 37 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
 | 38 | [Hi\-Lo \- feat\. Lindsey Stirling](https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Hi\-Lo \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw) | 4:16 |
 | 39 | [Together Again](https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 44 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
 | 45 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 |
 
-Snapshot ID: `aZOvgAAAAAATRmb405vctYQ0M2DGKVsP`
+Snapshot ID: `aZUBAAAAAAAyO+jP80+7RUkeUfj4XcWC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,144 songs - 9 day 4 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,145 songs - 9 day 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4152,5 +4152,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4142 | [Fangs](https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ) | [Straight](https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2) | [Fangs](https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ) | 3:11 |
 | 4143 | [The World](https://open.spotify.com/track/7dVGcsc7buzvVCZxmjRKdc) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [The World](https://open.spotify.com/album/53Hv0nA1qvf38XMykM8877) | 3:26 |
 | 4144 | [Life is Changing](https://open.spotify.com/track/036ai7QE1pMDVLolRDCbPg) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [Life is Changing](https://open.spotify.com/album/6YvFPtcvMzHltBQyiOBpnf) | 3:00 |
+| 4145 | [Red, White & Disrespect](https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV) | [Dulyfixed Music](https://open.spotify.com/artist/71L2ZJ5fTCiJ4K9CC9BmUF) | [Red, White & Disrespect](https://open.spotify.com/album/4C8S0fmijazAvuxE4YORnY) | 2:31 |
 
-Snapshot ID: `AAAHjdWobSoIkk3JlmA/zxysrnr+5SOj`
+Snapshot ID: `AAAHjqOh6MGDrElbHALkKKtWvIBhm9k9`

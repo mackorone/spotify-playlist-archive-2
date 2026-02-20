@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Sebastián Yatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,105 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,028 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
 | 61 | [Lo Que El Corazon Diga](https://open.spotify.com/track/1l0VF3yXnMDQ3EREGXoyJC) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Lo Que El Corazon Diga](https://open.spotify.com/album/4HbGml9468hDhgtiQHHODU) | 2:27 |
 | 62 | [Astucia Naval](https://open.spotify.com/track/4MU1UyaH3roqfsiWb6wBjY) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Astucia Naval](https://open.spotify.com/album/6TddLnNwvFKDMrSkoHV7ug) | 2:45 |
-| 63 | [IDIIOTA](https://open.spotify.com/track/1tVmkBt64mNvvwth75p57o) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [IDIIOTA](https://open.spotify.com/album/4EeCxMk0jcZUUPVY73OLf8) | 3:02 |
+| 63 | [Idiiota](https://open.spotify.com/track/1tVmkBt64mNvvwth75p57o) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Idiiota](https://open.spotify.com/album/4EeCxMk0jcZUUPVY73OLf8) | 3:02 |
 | 64 | [Desamor Verdadero](https://open.spotify.com/track/7JDqTjD4uvZmq5YmUPIgMC) | [Negret](https://open.spotify.com/artist/3AjJw0OlVb2zZlDnZ5rgPH) | [Desamor Verdadero](https://open.spotify.com/album/40gJePPAbBRGg240cVpnMo) | 2:42 |
 
 Snapshot ID: `AAAAADKNyEGo4S6tyfdUsWU1elR8U5pZ`

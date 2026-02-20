@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 167224,
+  "num_followers": 167240,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
+        "name": "Do It Yourself (New Bossa Remix)",
+        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
+      },
+      "artists": [
+        {
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "duration_ms": 252142,
+      "name": "Do It Yourself - New Bossa Remix",
+      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
         "name": "Papo Final",
         "url": "https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ"
       },
@@ -647,22 +667,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
-        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Tristeza P\u00e9 No Ch\u00e3o",
-      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Ningu\u00e9m Pro\u00edbe o Amor",
         "url": "https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq"
       },
@@ -679,22 +683,18 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Do It Yourself (New Bossa Remix)",
-        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
+        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
+        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
       },
       "artists": [
         {
-          "name": "Markko Mendes",
-          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
-        },
-        {
-          "name": "DJ Hum",
-          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
         }
       ],
-      "duration_ms": 252142,
-      "name": "Do It Yourself - New Bossa Remix",
-      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
+      "duration_ms": 264933,
+      "name": "Tristeza P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
     },
     {
       "added_at": "2025-11-25 18:58:58",

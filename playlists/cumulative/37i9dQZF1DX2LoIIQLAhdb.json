@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Fallon",
   "name": "R&Bae",
   "tracks": [
     {
@@ -972,6 +972,24 @@
     {
       "album": {
         "name": "BISOUS",
+        "url": "https://open.spotify.com/album/0gVRO0ZLekpgSMM7geLxUW"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175272,
+      "name": "BISOUS",
+      "url": "https://open.spotify.com/track/3nJL2HAZ5o5pzVWNJmWO13"
+    },
+    {
+      "album": {
+        "name": "BISOUS",
         "url": "https://open.spotify.com/album/5O9qz0QqRtfVCjzG4ckm4r"
       },
       "artists": [
@@ -1904,6 +1922,24 @@
       "duration_ms": 193131,
       "name": "Chupa Chups",
       "url": "https://open.spotify.com/track/7EutpTfTMlSP1mgC3TDmv4"
+    },
+    {
+      "album": {
+        "name": "CH\u00c9RIE COCO",
+        "url": "https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167108,
+      "name": "CH\u00c9RIE COCO",
+      "url": "https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR"
     },
     {
       "album": {
@@ -3024,7 +3060,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 188575,
       "name": "Discret",
       "url": "https://open.spotify.com/track/6eNd2xLnFgbcbb7Yv2OSLp"
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161000,
       "name": "Douter",
       "url": "https://open.spotify.com/track/3mrVKqmydppsdIZ2uUu6An"
@@ -5615,6 +5651,24 @@
     },
     {
       "album": {
+        "name": "Kon Sa",
+        "url": "https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Allison",
+          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162723,
+      "name": "Kon Sa",
+      "url": "https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY"
+    },
+    {
+      "album": {
         "name": "Kouma - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6ile3U8JuYt0T1G9HtOIGZ"
       },
@@ -5838,6 +5892,24 @@
       "duration_ms": 139095,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7JfGZhzQUeZMHMVVHkhNbc"
+    },
+    {
+      "album": {
+        "name": "Le ciel nous pardonne",
+        "url": "https://open.spotify.com/album/3NUi3QHZZK880miCnSVqbd"
+      },
+      "artists": [
+        {
+          "name": "Donguti",
+          "url": "https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183288,
+      "name": "Le ciel nous pardonne",
+      "url": "https://open.spotify.com/track/4mOW7I66Fomg7XwmP5Fr7T"
     },
     {
       "album": {
@@ -6898,7 +6970,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176533,
       "name": "Meilleurs",
       "url": "https://open.spotify.com/track/7gJljj1TljM6tc860T9yai"
@@ -7245,6 +7317,28 @@
     },
     {
       "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "album": {
         "name": "Mon coco",
         "url": "https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ"
       },
@@ -7422,6 +7516,24 @@
       "duration_ms": 196306,
       "name": "M\u00e8re ya Palais",
       "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
+    },
+    {
+      "album": {
+        "name": "M\u00e9chant",
+        "url": "https://open.spotify.com/album/5e830pG0xK0ZKrQh2AZmcK"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151745,
+      "name": "M\u00e9chant",
+      "url": "https://open.spotify.com/track/3VAXp5FiiUMLFThyUqnyMp"
     },
     {
       "album": {
@@ -7610,7 +7722,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 153119,
       "name": "NO STRESS",
       "url": "https://open.spotify.com/track/6XfYPlcJGR48xgye2kSOmw"
@@ -10812,7 +10924,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 150745,
       "name": "T'as chang\u00e9",
       "url": "https://open.spotify.com/track/6VtdmXixidTHxhZEq5DR0y"

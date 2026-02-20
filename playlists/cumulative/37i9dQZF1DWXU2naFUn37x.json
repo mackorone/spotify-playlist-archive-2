@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Kid Yugi in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Low-Red in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3863,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "KING OF DARK",
+        "url": "https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174388,
+      "name": "BUSINESS BOY (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/6mIXVBBQz6f8HZvWHeH0FY"
+    },
+    {
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -7253,6 +7275,32 @@
     },
     {
       "album": {
+        "name": "MARIO III",
+        "url": "https://open.spotify.com/album/7aAe08RqsSDaQrcAjbqWLX"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Fantasmi & Mostri (feat. Flaco G)",
+      "url": "https://open.spotify.com/track/6z2anCfV5x5BK94NCApyLl"
+    },
+    {
+      "album": {
         "name": "FASHION",
         "url": "https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl"
       },
@@ -7620,7 +7668,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 135666,
       "name": "FINEST (feat. Tedua)",
       "url": "https://open.spotify.com/track/5VuEZjUveMohvOpiIZOAr3"
@@ -9992,7 +10040,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159605,
       "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
       "url": "https://open.spotify.com/track/4O6POAxljB6cfjKx3I2s8A"
@@ -11178,7 +11226,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155287,
       "name": "Larry Hoover",
       "url": "https://open.spotify.com/track/7eScENac9mVHxi7kts5pBH"
@@ -11868,7 +11916,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 183600,
       "name": "MANESKIN MELODIA",
       "url": "https://open.spotify.com/track/3xpdxybRTHfSKInlHSpgoB"
@@ -13232,6 +13280,24 @@
       "duration_ms": 228570,
       "name": "MONEY MACHINE (feat. Lazza & Tony Effe)",
       "url": "https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB"
+    },
+    {
+      "album": {
+        "name": "Money Maker",
+        "url": "https://open.spotify.com/album/5XGssftBGJjQY4S13TjPmB"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/7tHCTDnsFYGUCl2zqCst1b"
     },
     {
       "album": {
@@ -15395,6 +15461,28 @@
     },
     {
       "album": {
+        "name": "PENSIERI CATTIVI",
+        "url": "https://open.spotify.com/album/1Nq8vyBbFpKsi7WRQOIAyk"
+      },
+      "artists": [
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "PENSIERI CATTIVI",
+      "url": "https://open.spotify.com/track/0ls1xhGTOQvVpFZPgGil9x"
+    },
+    {
+      "album": {
         "name": "V per Ventidue",
         "url": "https://open.spotify.com/album/61rxGfJSgCpHqKuSylu32b"
       },
@@ -16927,6 +17015,36 @@
     },
     {
       "album": {
+        "name": "MARIO III",
+        "url": "https://open.spotify.com/album/7aAe08RqsSDaQrcAjbqWLX"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Ragazzo Street, Ragazzo Rich (feat. Papa V, IvanBi)",
+      "url": "https://open.spotify.com/track/0OuXDNJQJtF2QCONUY2bqT"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -17518,7 +17636,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161632,
       "name": "ROUTINE (feat. Kuremino, Bekkeria, Promessa)",
       "url": "https://open.spotify.com/track/0iqoV33m3Zfw2h7QPJD1aI"

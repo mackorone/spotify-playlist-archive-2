@@ -1404,6 +1404,24 @@
     {
       "album": {
         "name": "AWAY",
+        "url": "https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151522,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5"
+    },
+    {
+      "album": {
+        "name": "AWAY",
         "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
       },
       "artists": [
@@ -5325,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1Hn7YoUGCz02EzFjCOrNyf"
+      },
+      "artists": [
+        {
+          "name": "Rayona",
+          "url": "https://open.spotify.com/artist/2fY601KxxVSsTiDtBhFslt"
+        },
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151916,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4c3slIbfNXdkfqldDkyMtg"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
       },
@@ -9140,7 +9180,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 234000,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA"
@@ -9368,6 +9408,28 @@
       "duration_ms": 205575,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
+    },
+    {
+      "album": {
+        "name": "Letter to My Ex",
+        "url": "https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Letter to My Ex",
+      "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
     },
     {
       "album": {
@@ -12304,7 +12366,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
@@ -14498,7 +14560,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
@@ -15528,6 +15590,36 @@
       "duration_ms": 189019,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/423xcjejlvFG1TfGTarhXv"
+    },
+    {
+      "album": {
+        "name": "STYLO",
+        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "UNiTY Originaal",
+          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
+        },
+        {
+          "name": "BayO",
+          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "STYLO",
+      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "album": {
@@ -17162,7 +17254,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 226206,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/69FoPusRL3DhNJeTPhkZMO"

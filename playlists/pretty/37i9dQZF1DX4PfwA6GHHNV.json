@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22840,
+  "num_followers": 22847,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "A Mais Linda Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1QsTUmRrO2W2vcMVFccxLv"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 163018,
       "name": "fases",
       "url": "https://open.spotify.com/track/65N0Fdt4dgCqjgg2uq6S9o"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "A Mais Linda Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1QsTUmRrO2W2vcMVFccxLv"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+      },
+      "artists": [
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -1339,22 +1359,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
       },
       "artists": [
         {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
         }
       ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-01-30 16:49:09",

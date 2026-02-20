@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92473,
+  "num_followers": 92492,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "NEVER MET! (feat. Glitch Gum)",
-        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
       "artists": [
         {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 147000,
-      "name": "NEVER MET! (feat. Glitch Gum)",
-      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -275,18 +271,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+        "name": "NEVER MET! (feat. Glitch Gum)",
+        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
         }
       ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+      "duration_ms": 147000,
+      "name": "NEVER MET! (feat. Glitch Gum)",
+      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 124516,
       "name": "i know you hate me",
       "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "cloak n dagger",
         "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 129000,
       "name": "cloak n dagger",
       "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 157903,
       "name": "fuckboy",
       "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "hi, i'm dante",
-        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 116349,
-      "name": "movinglikeazombie",
-      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Hey QT",
         "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235567,
       "name": "Hey QT",
       "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "WFLYTD",
-        "url": "https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX"
+        "name": "Dog Show",
+        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
       },
       "artists": [
         {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 215641,
-      "name": "Toy Car",
-      "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
+      "duration_ms": 117003,
+      "name": "127 Hrs in Bed",
+      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Dog Show",
-        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
+        "name": "WFLYTD",
+        "url": "https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX"
       },
       "artists": [
         {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
         }
       ],
-      "duration_ms": 117003,
-      "name": "127 Hrs in Bed",
-      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
+      "duration_ms": 215641,
+      "name": "Toy Car",
+      "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "RUBBER",
-        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        }
-      ],
-      "duration_ms": 184437,
-      "name": "FARAWAY199X/TAPE 2",
-      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 196000,
       "name": "Here",
       "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "RUBBER",
+        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 184437,
+      "name": "FARAWAY199X/TAPE 2",
+      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
-      },
-      "artists": [
-        {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "hot_babe_93",
         "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 206026,
       "name": "Donuts",
       "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+      },
+      "artists": [
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
       },
@@ -1527,18 +1543,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH"
       },
       "artists": [
         {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
         }
       ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
+      "duration_ms": 157752,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1587,6 +1607,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 157144,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "IRIS",
         "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
       },
@@ -1615,22 +1651,6 @@
       "duration_ms": 159719,
       "name": "glittr",
       "url": "https://open.spotify.com/track/6rsuyY8DWNwngUuchlWTx2"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "i hate it here",
-        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 157144,
-      "name": "i hate it here",
-      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1667,8 +1687,8 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH"
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/2P4HZoMnQ2qwLNb3Klo4W8"
       },
       "artists": [
         {
@@ -1676,13 +1696,13 @@
           "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
         },
         {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 157752,
-      "name": "LEGEND",
-      "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/1fMIomiIqQUSLynNzU4y1w"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1735,22 +1755,6 @@
       "duration_ms": 248976,
       "name": "Hot Pink",
       "url": "https://open.spotify.com/track/1MAhhW31aMIknkD19pZmrP"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "Career Boy",
-        "url": "https://open.spotify.com/album/7maEO9tUSEfV5mJVWOmdwQ"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Career Boy",
-      "url": "https://open.spotify.com/track/3GpFE1SwshhLxRTbGh7stN"
     }
   ],
   "unique_name": "Hyperpop Classics",

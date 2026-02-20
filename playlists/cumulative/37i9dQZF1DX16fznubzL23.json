@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 203428,
       "name": "Blueticks",
       "url": "https://open.spotify.com/track/2DjvVMu9pVKAzmCt7AG5MY"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147428,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5oaz3L4Ytz4UZpsH613uL8"
@@ -966,6 +966,24 @@
       "duration_ms": 168515,
       "name": "Cry (shayo) (feat. Lojay)",
       "url": "https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr"
+    },
+    {
+      "album": {
+        "name": "Cry Me A River",
+        "url": "https://open.spotify.com/album/0fQtsagY1Im1QUNMZizUjz"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/2iDKmDDsETpmtAAThCrpph"
     },
     {
       "album": {
@@ -2621,6 +2639,28 @@
     },
     {
       "album": {
+        "name": "Letter to My Ex",
+        "url": "https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Letter to My Ex",
+      "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
+    },
+    {
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -3820,7 +3860,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 162631,
       "name": "Ovah",
       "url": "https://open.spotify.com/track/7htOwWyb51H5Q6emHybw58"
@@ -3882,6 +3922,24 @@
       "duration_ms": 163424,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7yrTTV7W5i5hIg6u0rcqQ7"
+    },
+    {
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172716,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
     },
     {
       "album": {
@@ -4048,7 +4106,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 148607,
       "name": "Punish You",
       "url": "https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg"
@@ -4066,7 +4124,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 138947,
       "name": "PURE HATE",
       "url": "https://open.spotify.com/track/5NAnITwlO7fJtxTplOyFh5"
@@ -4208,7 +4266,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
@@ -4358,7 +4416,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167142,
       "name": "Shoda",
       "url": "https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh"
@@ -4542,7 +4600,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 158227,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2BaAyqsiAmoijCI4uhVvcT"
@@ -4654,7 +4712,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -5044,7 +5102,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"

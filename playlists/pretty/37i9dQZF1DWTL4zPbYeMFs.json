@@ -1,6 +1,6 @@
 {
   "description": "Music, laughter and happiness all around on your special day.",
-  "num_followers": 69978,
+  "num_followers": 70007,
   "original_name": "Mehendi",
   "owner": {
     "name": "Spotify",
@@ -759,30 +759,22 @@
     {
       "added_at": "2026-01-29 04:27:31",
       "album": {
-        "name": "Stree 2",
-        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+        "name": "Stree",
+        "url": "https://open.spotify.com/album/2Z1LgolP3fqxEJ89MS7n9C"
       },
       "artists": [
         {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        },
+        {
           "name": "Sachin-Jigar",
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 230086,
-      "name": "Tumhare Hi Rahenge Hum",
-      "url": "https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD"
+      "duration_ms": 206175,
+      "name": "Nazar Na Lag Jaaye",
+      "url": "https://open.spotify.com/track/0EPTGML5v37lIp97WBMMvD"
     },
     {
       "added_at": "2026-01-29 04:27:31",
@@ -811,22 +803,30 @@
     {
       "added_at": "2026-01-29 04:27:31",
       "album": {
-        "name": "Stree",
-        "url": "https://open.spotify.com/album/2Z1LgolP3fqxEJ89MS7n9C"
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
       },
       "artists": [
         {
-          "name": "Ash King",
-          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
-        },
-        {
           "name": "Sachin-Jigar",
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 206175,
-      "name": "Nazar Na Lag Jaaye",
-      "url": "https://open.spotify.com/track/0EPTGML5v37lIp97WBMMvD"
+      "duration_ms": 230086,
+      "name": "Tumhare Hi Rahenge Hum",
+      "url": "https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD"
     },
     {
       "added_at": "2026-01-29 04:27:31",

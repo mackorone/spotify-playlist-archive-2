@@ -3591,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "Amor.illo",
+        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
+      },
+      "artists": [
+        {
+          "name": "Louie El Ser",
+          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
+        },
+        {
+          "name": "Tommie Phoenix",
+          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "Amor.illo",
+      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
+    },
+    {
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -17312,7 +17334,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
@@ -24029,6 +24051,24 @@
     },
     {
       "album": {
+        "name": "La Vuelta",
+        "url": "https://open.spotify.com/album/73f76N6WnafjDofgAWOn2I"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177735,
+      "name": "La Vuelta",
+      "url": "https://open.spotify.com/track/3RniJsxXMWc3HExvlKxFWv"
+    },
+    {
+      "album": {
         "name": "La Yunta (Ya Viene)",
         "url": "https://open.spotify.com/album/5JsUbIccyGXGGLrhao3R6V"
       },
@@ -27984,7 +28024,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 103650,
       "name": "Me Caigo",
       "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
@@ -28848,6 +28888,28 @@
       "duration_ms": 151359,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4SJtVttPzL6gV3M5jAOi2l"
+    },
+    {
+      "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182167,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
     },
     {
       "album": {
@@ -30168,7 +30230,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 157699,
       "name": "Momento Zero",
       "url": "https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe"
@@ -36701,6 +36763,24 @@
     },
     {
       "album": {
+        "name": "Piel : Profec\u00edas",
+        "url": "https://open.spotify.com/album/4ZdqDYLthmYOsNUKRfY9vV"
+      },
+      "artists": [
+        {
+          "name": "Jaswiry",
+          "url": "https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188075,
+      "name": "Piel : Profec\u00edas",
+      "url": "https://open.spotify.com/track/523lVm48Con8p9G34j6H84"
+    },
+    {
+      "album": {
         "name": "Piel de Cristal",
         "url": "https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB"
       },
@@ -41514,7 +41594,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 273000,
       "name": "SI DIOS QUIERE YO TAMBI\u00c9N",
       "url": "https://open.spotify.com/track/6wClaxR4AGR3Mk1Tpom37o"

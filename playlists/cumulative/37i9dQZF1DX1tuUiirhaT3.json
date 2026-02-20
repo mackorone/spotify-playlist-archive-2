@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Arvandor",
+        "url": "https://open.spotify.com/album/6toRRHyZY9NCU1eFy4s0En"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Arvandor",
+      "url": "https://open.spotify.com/track/19eZSugiuVjEkYF88fiOmH"
+    },
+    {
+      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152926,
       "name": "Brought",
       "url": "https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI"
@@ -1897,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Eiren Vale",
+        "url": "https://open.spotify.com/album/6RyKg6vRmfvtXmJ3AxcNjf"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190248,
+      "name": "Eiren Vale",
+      "url": "https://open.spotify.com/track/4A2frSnLQt5qQXsuVoeN3z"
+    },
+    {
+      "album": {
         "name": "Elowen",
         "url": "https://open.spotify.com/album/2LuxY3LkXJjadb5o4yzJWa"
       },
@@ -1912,6 +1948,24 @@
       "duration_ms": 198321,
       "name": "Elowen",
       "url": "https://open.spotify.com/track/1rtTOb7i1rf9I5pX6ZgKbw"
+    },
+    {
+      "album": {
+        "name": "Elys",
+        "url": "https://open.spotify.com/album/668Zx9ekTn1ON9li5Ap43j"
+      },
+      "artists": [
+        {
+          "name": "Devi Rubio",
+          "url": "https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Elys",
+      "url": "https://open.spotify.com/track/57DbXWFhpTPR7ONSjb3pyH"
     },
     {
       "album": {
@@ -2297,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Fethgar",
+        "url": "https://open.spotify.com/album/69XqY6lqmzx9K1lOTkHhez"
+      },
+      "artists": [
+        {
+          "name": "N\u00e6turkall",
+          "url": "https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135937,
+      "name": "Fethgar",
+      "url": "https://open.spotify.com/track/3yZmhuvcDfAE1jHKYe3aov"
+    },
+    {
+      "album": {
         "name": "Secret Water",
         "url": "https://open.spotify.com/album/3YgnlQBSQIqMXWjFNXSSke"
       },
@@ -2369,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/6ajnF6n1KdiHLr9WU46dSF"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158598,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/4KbhpRyGI6q7Cf1WrFrVWW"
+    },
+    {
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/0jJsEHkuBGqa3lgF41rVtT"
       },
@@ -2398,7 +2488,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175384,
       "name": "Floating Downstream",
       "url": "https://open.spotify.com/track/2M1llBOJ280kdj3nEJp9aK"
@@ -2999,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X"
+      },
+      "artists": [
+        {
+          "name": "Decie Orion",
+          "url": "https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174074,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl"
+    },
+    {
+      "album": {
         "name": "Halcyon",
         "url": "https://open.spotify.com/album/6wnFMdZuBo3X6vuH3d9LFZ"
       },
@@ -3179,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Hidden Tone",
+        "url": "https://open.spotify.com/album/5omZ2NuoyaYvJtLSRiRSce"
+      },
+      "artists": [
+        {
+          "name": "NOMA",
+          "url": "https://open.spotify.com/artist/4cDZ9jfgpEZtLQkw0ITsMo"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165108,
+      "name": "Hidden Tone",
+      "url": "https://open.spotify.com/track/5QNvUW2rGKW9o8n1xyMfz0"
+    },
+    {
+      "album": {
         "name": "Higgur Chirp",
         "url": "https://open.spotify.com/album/3XHcCxBFxKXhn5jj0o11Yo"
       },
@@ -3302,6 +3428,24 @@
       "duration_ms": 208250,
       "name": "Impulser",
       "url": "https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj"
+    },
+    {
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/7ntnH8GlYuOQRGH21fWKUg"
+      },
+      "artists": [
+        {
+          "name": "Slowshore",
+          "url": "https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ"
     },
     {
       "album": {
@@ -3467,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Inner Stream",
+        "url": "https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50"
+      },
+      "artists": [
+        {
+          "name": "I thought about time",
+          "url": "https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Inner Stream",
+      "url": "https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA"
+    },
+    {
+      "album": {
         "name": "Introspective Thoughts Gamma",
         "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
       },
@@ -3626,6 +3788,24 @@
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz)",
       "url": "https://open.spotify.com/track/4P5fMFcTqzz8yEPMT9bF8d"
+    },
+    {
+      "album": {
+        "name": "Kapljica",
+        "url": "https://open.spotify.com/album/6RbmURR1izoJ9VuptK3U26"
+      },
+      "artists": [
+        {
+          "name": "Alojz Pavic",
+          "url": "https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Kapljica",
+      "url": "https://open.spotify.com/track/3dxOHVO8itNLWgejrXugK9"
     },
     {
       "album": {
@@ -3809,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Lingering",
+        "url": "https://open.spotify.com/album/0WQE5fEVkKrdprb1ppjjc8"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156028,
+      "name": "Lingering",
+      "url": "https://open.spotify.com/track/5QU6zrvhmxn0Vy3b5iNIl7"
+    },
+    {
+      "album": {
         "name": "Lion's Breath",
         "url": "https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd"
       },
@@ -3860,6 +4058,24 @@
       "duration_ms": 178395,
       "name": "Liquid Universe",
       "url": "https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG"
+    },
+    {
+      "album": {
+        "name": "Lit by Lanterns",
+        "url": "https://open.spotify.com/album/5JqEKYDobOEkAu67efBPXu"
+      },
+      "artists": [
+        {
+          "name": "Toni Ludwig-Grapha\u00fcs",
+          "url": "https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183159,
+      "name": "Lit by Lanterns",
+      "url": "https://open.spotify.com/track/4pLt3BhgFQlTadjp20ho7u"
     },
     {
       "album": {
@@ -4393,6 +4609,24 @@
     },
     {
       "album": {
+        "name": "Morning Serenity",
+        "url": "https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC"
+      },
+      "artists": [
+        {
+          "name": "Paia Mooni",
+          "url": "https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142649,
+      "name": "Morning Serenity",
+      "url": "https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq"
+    },
+    {
+      "album": {
         "name": "Morning Spring",
         "url": "https://open.spotify.com/album/4x0WU6pozeMkcND1zJlifI"
       },
@@ -4426,6 +4660,60 @@
       "duration_ms": 199565,
       "name": "Morning Yoga",
       "url": "https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk"
+    },
+    {
+      "album": {
+        "name": "Moss Array",
+        "url": "https://open.spotify.com/album/2ge11SsbPCABrJz1H87VdH"
+      },
+      "artists": [
+        {
+          "name": "Mellow Bars",
+          "url": "https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Moss Array",
+      "url": "https://open.spotify.com/track/0hE51cNX3wBYFgMfvDjKOn"
+    },
+    {
+      "album": {
+        "name": "Moulding",
+        "url": "https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Moulding",
+      "url": "https://open.spotify.com/track/4VdkE87ZahjkBxDxzlHelB"
+    },
+    {
+      "album": {
+        "name": "Mountain Springs",
+        "url": "https://open.spotify.com/album/2edJl7dnt8WzXcDAi8nXvy"
+      },
+      "artists": [
+        {
+          "name": "Aries Suan",
+          "url": "https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mountain Springs",
+      "url": "https://open.spotify.com/track/7cq88rdtL1awvtfRfvr6zu"
     },
     {
       "album": {
@@ -4494,7 +4782,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 210000,
       "name": "Natura Deambulatio",
       "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
@@ -5239,6 +5527,24 @@
     },
     {
       "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/3dHlqZBieSwTuJb4yCfO8e"
+      },
+      "artists": [
+        {
+          "name": "Canopy Sound",
+          "url": "https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138248,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2zSyKGCR1MExzpcSen7aSc"
+    },
+    {
+      "album": {
         "name": "Quest for Peace",
         "url": "https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd"
       },
@@ -5380,6 +5686,24 @@
       "duration_ms": 230400,
       "name": "Quechee",
       "url": "https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y"
+    },
+    {
+      "album": {
+        "name": "Quiet Mist",
+        "url": "https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Quiet Mist",
+      "url": "https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg"
     },
     {
       "album": {
@@ -5736,7 +6060,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 153912,
       "name": "Resonance Field",
       "url": "https://open.spotify.com/track/1SOCWJqcdZGVyCGxtERFut"
@@ -5830,6 +6154,24 @@
       "duration_ms": 189250,
       "name": "Rising Up",
       "url": "https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp"
+    },
+    {
+      "album": {
+        "name": "River Lea",
+        "url": "https://open.spotify.com/album/1KBUxCk8jmiHAWSMGyEYxj"
+      },
+      "artists": [
+        {
+          "name": "Lavona",
+          "url": "https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149569,
+      "name": "River Lea",
+      "url": "https://open.spotify.com/track/38BJ9avnbwbACSAxRKdnhK"
     },
     {
       "album": {
@@ -6445,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Shimmering Wave",
+        "url": "https://open.spotify.com/album/71XpWMmtnmKrXkJd0fC7re"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Shimmering Wave",
+      "url": "https://open.spotify.com/track/7CynLh6Stfjuzk4WbzHQWq"
+    },
+    {
+      "album": {
         "name": "Vibrational States",
         "url": "https://open.spotify.com/album/2zxejdOhHvXcY832gLyU6L"
       },
@@ -6654,7 +7014,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 166000,
       "name": "Soixante Forest",
       "url": "https://open.spotify.com/track/24IeEGwVyVsIWZXg3c6JTX"
@@ -6769,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "Spirits of the Forest",
+        "url": "https://open.spotify.com/album/5i6A1J1ux4zb7XKyOr6ODo"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Spirits of the Forest",
+      "url": "https://open.spotify.com/track/7msLXwo8PXqnqgFJd4flKq"
+    },
+    {
+      "album": {
         "name": "Spiritual Forest",
         "url": "https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI"
       },
@@ -6856,6 +7234,24 @@
       "duration_ms": 226704,
       "name": "Starry Night - With sounds of nature",
       "url": "https://open.spotify.com/track/7KjpmZmgh4GWoNC6O6ieq6"
+    },
+    {
+      "album": {
+        "name": "Streams of Life",
+        "url": "https://open.spotify.com/album/30FJb5muMznAhmdjpLIuYR"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Streams of Life",
+      "url": "https://open.spotify.com/track/1iltoQcHcAO8JP3d1mB43F"
     },
     {
       "album": {
@@ -7612,7 +8008,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 144064,
       "name": "Tree Spirits",
       "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
@@ -7774,7 +8170,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 158582,
       "name": "Velora",
       "url": "https://open.spotify.com/track/7EOw4qInUepF9gZTPJj1TK"
@@ -7882,7 +8278,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 153934,
       "name": "Warmly Ways",
       "url": "https://open.spotify.com/track/3ikoePNJ4pK9SVwckwaJiA"
@@ -8026,7 +8422,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159782,
       "name": "Weekend Sun",
       "url": "https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v"
@@ -8246,6 +8642,24 @@
       "duration_ms": 172020,
       "name": "Woodland",
       "url": "https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS"
+    },
+    {
+      "album": {
+        "name": "Woodland Creek",
+        "url": "https://open.spotify.com/album/7eVM2Kzi4LjJMfP1JLYKbe"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159557,
+      "name": "Woodland Creek",
+      "url": "https://open.spotify.com/track/2xGjWc6rUPJ98lDPxpMwX8"
     },
     {
       "album": {

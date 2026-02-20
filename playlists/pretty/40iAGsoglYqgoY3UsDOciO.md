@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 622 likes - 493 songs - 23 hr 46 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 622 likes - 494 songs - 23 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -501,5 +501,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 491 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 |
 | 492 | [5:e November](https://open.spotify.com/track/4gdLpLCrFm5HroXN8BbJLr) | [Doktor Digital](https://open.spotify.com/artist/2wwKK1ZYLdkTvRZcTQng23) | [Kommer Från Skuggan](https://open.spotify.com/album/6l5HMEnv3US9BbQ3idhvhB) | 3:02 |
 | 493 | [Hide](https://open.spotify.com/track/14O8lIabKFhjaOPCV0JcGC) | [findaway](https://open.spotify.com/artist/0ODp7XLz2ZrZ9HyF0T9Dex), [Solvyr](https://open.spotify.com/artist/6G8g5qGssjLY5scNZxozqP) | [Hide](https://open.spotify.com/album/7rkK0OiNoz2SDIlmp6y0bA) | 2:14 |
+| 494 | [isolation](https://open.spotify.com/track/3itNxvXBcwjGG2lpqaj753) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C) | [isolation](https://open.spotify.com/album/3KoW0bbAAzZlHaSx2KLiPc) | 3:28 |
 
-Snapshot ID: `AAABjc1PzoXkGBWn3KtZpUWMJKjIPP+S`
+Snapshot ID: `AAABjoQwvnN2l5ROA1xTxuNzjMGNTvf8`

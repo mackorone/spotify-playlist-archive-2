@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe com Theuzinho, Charli xcx,  Guilherme & Benuto, Mc Pedrinho com MC Dede  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,002 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,255,966 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 51 | [Pra Gente Ser Um Só](https://open.spotify.com/track/2OZAiCh2CwYTmbLHb6P12W) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Pra Gente Ser Um Só](https://open.spotify.com/album/7AlTKmpyKGfNCYmfpPyXef) | 2:59 |
 | 52 | [Camionete Vai Pular](https://open.spotify.com/track/0CJ5jMPVuq4msn5JQfChXU) | [Jennifer e Stephany](https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Camionete Vai Pular](https://open.spotify.com/album/1uOynOnuyoFA1ir8PlbFHe) | 2:10 |
 | 53 | [ACHEI A DOIDA](https://open.spotify.com/track/49uNUICBNQeAOSKBcJagSj) | [Diego & Ray](https://open.spotify.com/artist/1TAiyn19RP753HNE1cUbq8), [Theuzinho](https://open.spotify.com/artist/5S7nhltEOIHhyXPETyKewy) | [ACHEI A DOIDA](https://open.spotify.com/album/7b4SsYeJJXdA1VJaJP17De) | 2:10 |
-| 54 | [Ziguiriguidum](https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Cjtinha](https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [Ziguiriguidum](https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd) | 2:02 |
+| 54 | [ZIGUIRIGUIDUM FUNKHALL](https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Cjtinha](https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [ZIGUIRIGUIDUM FUNKHALL](https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd) | 2:02 |
 | 55 | [Preliminares](https://open.spotify.com/track/0qROwaFvE45qYmAFvDr5pf) | [Aori](https://open.spotify.com/artist/42aKmFNXt0KKWbnYVl2mhp), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Preliminares](https://open.spotify.com/album/4lGyE89T3G1IkvlydhEwlU) | 2:38 |
 | 56 | [Sua Boba](https://open.spotify.com/track/7EElxqd76Eb5nVJIRg0g48) | [Paulin Vaqueiro](https://open.spotify.com/artist/0d5OTkkwpo38OF7svMwBBU) | [Sua Boba](https://open.spotify.com/album/7dZw8tVWYFLdFO0fmG0lgR) | 3:03 |
 | 57 | [BOCA GOSTOSA](https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BOCA GOSTOSA](https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs) | 2:22 |

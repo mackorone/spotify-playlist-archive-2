@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 65833,
+  "num_followers": 65852,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCKIBEmrxuU9hG5eoTc10hwv6Zc",
+  "snapshot_id": "AAAAAJNoyxLM+ja85i06Htk3aF22e/TM",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -669,6 +669,26 @@
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Spirit Of David",
+        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Radical For Christ",
+          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "No Weapon",
+      "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "THIS YEAR (Blessings) [Remix]",
@@ -691,26 +711,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Spirit Of David",
-        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Radical For Christ",
-          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "No Weapon",
-      "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
     },
     {
       "added_at": "2024-08-16 00:01:00",

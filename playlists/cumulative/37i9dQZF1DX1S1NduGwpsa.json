@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Pat Metheny",
+  "description": "The best jazz new releases. Cover: WILLOW",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 266719,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
@@ -2050,6 +2050,24 @@
       "duration_ms": 406066,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170517,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
     },
     {
       "album": {
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 274680,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
@@ -4705,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
+    },
+    {
+      "album": {
         "name": "Easy come easy go (Edit)",
         "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
       },
@@ -6291,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/3CEXtuaYx6f3De4gPWeb1d"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Goody Goody",
+      "url": "https://open.spotify.com/track/0n19Dlz4j8ITUavvAXmkXs"
+    },
+    {
+      "album": {
         "name": "Introducing - Danger Zone",
         "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
       },
@@ -7118,7 +7172,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 185497,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV"
@@ -9816,7 +9870,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 222973,
       "name": "Longest Way Round",
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
@@ -10563,6 +10617,28 @@
     },
     {
       "album": {
+        "name": "Mean To Me",
+        "url": "https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
+    },
+    {
+      "album": {
         "name": "Means The World",
         "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
       },
@@ -10910,6 +10986,28 @@
       "duration_ms": 250237,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "album": {
+        "name": "Body Flows",
+        "url": "https://open.spotify.com/album/1IPUqYUEmBsnKABRdjpAzk"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "The Zawose Queens",
+          "url": "https://open.spotify.com/artist/5e8d20rB9aHyqFJLHlu4QI"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243356,
+      "name": "Mlonje: Voices Joined",
+      "url": "https://open.spotify.com/track/1vE3zkJhahSWRcDBPFQN9R"
     },
     {
       "album": {
@@ -12999,6 +13097,24 @@
     },
     {
       "album": {
+        "name": "Phoenix Rising",
+        "url": "https://open.spotify.com/album/2diTMGaJlI3rGzXoTcZiZ0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185150,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/19pkb8WPfJyAmFvAmNOqDi"
+    },
+    {
+      "album": {
         "name": "Piano joyeux",
         "url": "https://open.spotify.com/album/7oBYbHwOIbAVv5fICbHaW3"
       },
@@ -13234,6 +13350,24 @@
       "duration_ms": 302753,
       "name": "Postcard Lovers",
       "url": "https://open.spotify.com/track/23tdrZCsUcMvhWBTGvar34"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "album": {
@@ -14490,7 +14624,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 197906,
       "name": "soda",
       "url": "https://open.spotify.com/track/1S1bPtnTfEjPBxPFitk8Yd"
@@ -16015,6 +16149,24 @@
     },
     {
       "album": {
+        "name": "That's Why I Love My Baby",
+        "url": "https://open.spotify.com/album/55Br3xub7OEkXMpkZB2tk5"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290730,
+      "name": "That's Why I Love My Baby",
+      "url": "https://open.spotify.com/track/1CgkJxuZwhMsPNpQBDzr4S"
+    },
+    {
+      "album": {
         "name": "The Antidote Is in the Poison",
         "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
       },
@@ -16074,7 +16226,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 227760,
       "name": "The Barges Blues",
       "url": "https://open.spotify.com/track/04tKPExuojMrvcrcmIQlsI"
@@ -16470,7 +16622,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 236000,
       "name": "The Playful Listener",
       "url": "https://open.spotify.com/track/1O8upChPtS2EYyK3krjqy0"
@@ -17518,7 +17670,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 332000,
       "name": "Une fleur et des papillons",
       "url": "https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn"
@@ -18022,6 +18174,36 @@
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
+    },
+    {
+      "album": {
+        "name": "W 48th street",
+        "url": "https://open.spotify.com/album/6cRZh0XGEIPrcYlOYS4MIx"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Raphael Pannier",
+          "url": "https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4"
+        },
+        {
+          "name": "Jean-Yves Jung",
+          "url": "https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP"
+        },
+        {
+          "name": "William Brunard",
+          "url": "https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372213,
+      "name": "W 48th street",
+      "url": "https://open.spotify.com/track/6ntInnVcDKeuZkwZInjv47"
     },
     {
       "album": {
@@ -18584,7 +18766,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192382,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/3bZVl3PDZXdCwBVTcjGmmR"

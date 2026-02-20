@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-355 songs - 1 day 9 hr 41 min
+356 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [CHELA \#2](https://open.spotify.com/track/4VWXVM803Noqe4fjFRdSC5) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY) | [CHELA \#2](https://open.spotify.com/album/1cYUVtPylZOuqnPgDquY6O) | 5:44 | 2025-02-28 | 2025-03-20 |
 | [Cicuta](https://open.spotify.com/track/49zmg7q7EMqJzOUf88Bz7C) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Dogma](https://open.spotify.com/album/20r4ZJsIcT2WDaV0o9jaZa) | 2:29 | 2024-05-24 | 2025-07-11 |
 | [Cicuta \- Spotify Sessions](https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 4:16 | 2026-02-06 |  |
+| [Circular](https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN) | [Circular](https://open.spotify.com/album/0sneAQVgbeyI1XIRWrUrMN) | 5:19 | 2026-02-20 |  |
 | [Ciudad de Cristal](https://open.spotify.com/track/29NkzAxOEY1BUU2HdWSb2V) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Ciudad de Cristal](https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz) | 4:03 | 2024-02-02 | 2025-03-20 |
 | [Club Del Ocio \- Andrés Moris Remix](https://open.spotify.com/track/0rqfIHj0GdqQ5P9xI2pHMb) | [Madloch](https://open.spotify.com/artist/3iLQiB17qiXyeTKSD8sr2w), [Subnode](https://open.spotify.com/artist/3LLW1zLSHWxtqCLXOBGYD6), [Andrés Moris](https://open.spotify.com/artist/5xF3czoOZ49p8AvxtYLzYy) | [Club Del Ocio \(Andrés Moris Remix\)](https://open.spotify.com/album/2CMALeumdcEHx6QUrPc3Z4) | 7:56 | 2023-11-17 | 2025-03-20 |
 | [Communication](https://open.spotify.com/track/0bggrJP8JznNdTkB97U85F) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Communication](https://open.spotify.com/album/34WT9PugI9PO5MySOqEWbq) | 3:50 | 2025-06-13 | 2026-01-15 |
@@ -245,7 +246,7 @@
 | [Out of Mind](https://open.spotify.com/track/41T06CLFEf09tUQSa1ln2m) | [Julieta Kühnle](https://open.spotify.com/artist/3q5V5nh60ZXK4ejyTALGNu) | [South Strangers, Vol\. 4](https://open.spotify.com/album/7zJzOCEZMLa0mulGfWH01y) | 8:01 | 2023-11-17 | 2025-06-27 |
 | [Over](https://open.spotify.com/track/1qqUb6n3fPzIjegshaVZ3p) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv) | [13 Years of Akbal Music](https://open.spotify.com/album/1TElv6fUEh66qMzQzerrbk) | 8:19 | 2020-09-04 | 2023-11-18 |
 | [Overflow \- Fiama Molina Remix](https://open.spotify.com/track/2spNlmReyMDsZanz79yjQG) | [Miss Adk](https://open.spotify.com/artist/1P8ulwWeuGIL12delhvGEz), [Fiama Molina](https://open.spotify.com/artist/2O2QR0JbQ4Rkv9fN3HvRew) | [Overflow](https://open.spotify.com/album/58E9QSlo17wnE07iXwpzIo) | 6:27 | 2024-01-05 | 2025-07-08 |
-| [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 | 2025-04-11 |  |
+| [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 | 2025-04-11 | 2026-02-20 |
 | [Paradiso \- Radio Edit](https://open.spotify.com/track/1PSAEH5HKR35xGAy0dV6KF) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp), [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Paradiso](https://open.spotify.com/album/6bFHz7BXHgLrX0fHR0d5eM) | 3:39 | 2025-09-26 |  |
 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 | 2025-10-13 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3Uvnf9Kqgj2QLkPrcGj91F) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Peace Of Mind](https://open.spotify.com/album/0E3Ex7Qbkz6uXnCoAl6Ufj) | 4:54 | 2024-02-16 | 2025-03-20 |

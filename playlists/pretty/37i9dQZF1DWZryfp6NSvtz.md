@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: DON BROCO & Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,670 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,750 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 15 | [See Through](https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:38 |
 | 16 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
 | 17 | [I Remember When](https://open.spotify.com/track/0cI2zsCgVoCO8Lae0tPhjm) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I Remember When](https://open.spotify.com/album/4kTWgDllixJdrdq1SOM2hQ) | 3:42 |
-| 18 | [Rearranging Scars \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rearranging Scars \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
+| 18 | [REARRANGING SCARS \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [REARRANGING SCARS \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
 | 19 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:26 |
 | 20 | [Die Alone](https://open.spotify.com/track/7sPLzNndlXYlriDJRcqomv) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [End Of Us](https://open.spotify.com/album/3tgeT35mV5tfT8clmooBVC) | 2:53 |
 | 21 | [Waste Me](https://open.spotify.com/track/5LTIxoesfEED3v4SrQGnTo) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Waste Me](https://open.spotify.com/album/3hJCUS9tUMgMo6f1Jps3cI) | 2:44 |

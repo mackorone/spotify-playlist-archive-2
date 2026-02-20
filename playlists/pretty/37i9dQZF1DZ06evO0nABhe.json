@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11795,
+  "num_followers": 11800,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACMGDZPMvB4mrDMad19wuO7",
+  "snapshot_id": "aZUBAAAAAAD+5L8+hEem/T5Yk6tE6O2u",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+      "duration_ms": 192978,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6JhrwJgdChkPu2eTjQuNwR"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 192978,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6JhrwJgdChkPu2eTjQuNwR"
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 176805,
-      "name": "Tear Me to Pieces",
-      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+      "duration_ms": 193571,
+      "name": "3 am",
+      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 193571,
-      "name": "3 am",
-      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "added_at": null,
@@ -199,38 +199,6 @@
       "duration_ms": 239600,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
     },
     {
       "added_at": null,
@@ -255,6 +223,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+      "duration_ms": 207625,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209897,
-      "name": "Sorry About Me",
-      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
+      "duration_ms": 175440,
+      "name": "Good for Me / Feel so Bad",
+      "url": "https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Good for Me / Feel So Bad",
-      "url": "https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N"
+      "duration_ms": 209897,
+      "name": "Sorry About Me",
+      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209497,
-      "name": "Can't Save You",
-      "url": "https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx"
+      "duration_ms": 188543,
+      "name": "My Religion",
+      "url": "https://open.spotify.com/track/6ayyblVZraNsTNd0OyINqj"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 188543,
-      "name": "My Religion",
-      "url": "https://open.spotify.com/track/6ayyblVZraNsTNd0OyINqj"
+      "duration_ms": 209497,
+      "name": "Can't Save You",
+      "url": "https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx"
     },
     {
       "added_at": null,

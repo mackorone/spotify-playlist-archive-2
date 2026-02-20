@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Cheap",
+        "url": "https://open.spotify.com/album/6XCxciCxEYLyq7evVf1VOR"
+      },
+      "artists": [
+        {
+          "name": "Emma Foley",
+          "url": "https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Cheap",
+      "url": "https://open.spotify.com/track/4Qhkou3srObXaEFHNwzkdI"
+    },
+    {
+      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 238941,
       "name": "Heartbreakdown - Mahogany Sessions",
       "url": "https://open.spotify.com/track/10GTQ2lUYCDy4k9PwOmuB2"
@@ -2240,6 +2258,24 @@
       "duration_ms": 166990,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/74u4UGskQXFkj50uAdYO1t"
+    },
+    {
+      "album": {
+        "name": "trying not to panic",
+        "url": "https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174744,
+      "name": "Hug Yourself",
+      "url": "https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc"
     },
     {
       "album": {
@@ -4151,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX"
+    },
+    {
+      "album": {
         "name": "Shut Up And Dance",
         "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
       },
@@ -4216,7 +4270,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161069,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
@@ -5284,7 +5338,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 222498,
       "name": "WEGEN DIR",
       "url": "https://open.spotify.com/track/6RmE4KcszM9FNtVXaDiGUp"

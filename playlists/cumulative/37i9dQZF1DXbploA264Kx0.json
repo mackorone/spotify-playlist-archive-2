@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Elephant Gym (\u5927\u8c61\u9ad4\u64cd)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fi-N\u00e9 (\u7c89\u5167)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 210893,
       "name": "fu'is - Oberka Remix",
       "url": "https://open.spotify.com/track/3q3dLeKm6thEOKakI9wMVx"
@@ -4812,7 +4812,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 163846,
       "name": "MONEY RULES 3EVA",
       "url": "https://open.spotify.com/track/75TjVsnekD1AKqFSYUoxkD"
@@ -6202,6 +6202,24 @@
       "duration_ms": 259838,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6r7B52U7LeAfH3AXcSC8C7"
+    },
+    {
+      "album": {
+        "name": "Really Not",
+        "url": "https://open.spotify.com/album/4sawJEIk1Af5UqzQYpXmqm"
+      },
+      "artists": [
+        {
+          "name": "Fi-N\u00e9 \u7c89\u5167",
+          "url": "https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259603,
+      "name": "Really Not",
+      "url": "https://open.spotify.com/track/0dvelPOEctgO6ixprB0YLO"
     },
     {
       "album": {

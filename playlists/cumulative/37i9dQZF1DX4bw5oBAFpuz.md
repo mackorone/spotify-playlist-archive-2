@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-618 songs - 1 day 11 hr 8 min
+619 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-17 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2023-02-23 | 2024-06-21 |
 | [Let’s Go Home Together \- Stripped](https://open.spotify.com/track/2cptaUFdsU60tdh7zRglai) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:41 | 2023-02-23 |  |
+| [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 | 2026-02-19 |  |
 | [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 | 2025-05-09 |
 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 | 2023-11-02 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2023-02-23 | 2024-07-27 |
@@ -559,7 +560,7 @@
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-08-28 | 2025-09-26 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2024-03-19 | 2025-06-03 |
 | [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 | 2023-07-15 |
-| [Trade it for the Night](https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd) | 4:50 | 2024-04-11 |  |
+| [Trade it for the Night](https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd) | 4:50 | 2024-04-11 | 2026-02-20 |
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2024-01-16 | 2024-04-19 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 | 2023-04-13 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2024-07-15 | 2024-09-28 |

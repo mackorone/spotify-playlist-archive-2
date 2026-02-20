@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9633,
+  "num_followers": 9631,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAAmgdRXEHqYyzBSrZrBC+Gn",
+  "snapshot_id": "aZUBAAAAAAA6+tsFoEocLPzv9dG9rGQc",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 340199,
+      "name": "Guap",
+      "url": "https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mine or Yours (Yaeji Remix)",
         "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 255582,
       "name": "Mine or Yours (Yaeji Remix)",
       "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 340199,
-      "name": "Guap",
-      "url": "https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yaeji",
         "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 196364,
       "name": "Feel It Out",
       "url": "https://open.spotify.com/track/2BAtucJA8PovKDVwPAeHxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+        "name": "New York 93 (Baba Stiltz Remix)",
+        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
       "artists": [
         {
@@ -472,13 +472,13 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         },
         {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
         }
       ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+      "duration_ms": 355121,
+      "name": "New York 93 (Baba Stiltz Remix)",
+      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New York 93 (Baba Stiltz Remix)",
-        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
       "artists": [
         {
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         },
         {
-          "name": "Baba Stiltz",
-          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
         }
       ],
-      "duration_ms": 355121,
-      "name": "New York 93 (Baba Stiltz Remix)",
-      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Passed Me By",
-      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 122600,
-      "name": "I'll Remember For Me, I'll Remember For You",
-      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
     },
     {
       "added_at": null,

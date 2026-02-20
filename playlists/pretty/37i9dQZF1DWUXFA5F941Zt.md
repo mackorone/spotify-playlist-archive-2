@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 
 > Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s\-1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,669 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,668 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 | 14 | [My Man's An Undertaker](https://open.spotify.com/track/2xWpVE2kQtUyH7wlnATH5S) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Late Late Show](https://open.spotify.com/album/2tGHaMOCIXDlyoyBXHv87o) | 2:31 |
 | 15 | [The Ghost Of Smokey Joe](https://open.spotify.com/track/34LTPimLjIG8Cumg0ZeScS) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Halloween Classics: Songs That Scared The Bloomers Off Your Great\-Grandma](https://open.spotify.com/album/2fytWEp9pLSfRzo5TNTRUw) | 2:44 |
 | 16 | [The Boogie Man \(with Chick Bullock\)](https://open.spotify.com/track/1LQqjyZAZgYyjnNkuc8M2C) | [Todd Rollins & His Orchestra](https://open.spotify.com/artist/7uPxnKSyVSuLEUrSHUqtP0), [Chick Bullock](https://open.spotify.com/artist/1Y7frIh8Xuar7YfRO9HnmX) | [Halloween Classics: Songs That Scared The Bloomers Off Your Great\-Grandma](https://open.spotify.com/album/2fytWEp9pLSfRzo5TNTRUw) | 3:06 |
-| 17 | [Night Creature \(Second Movement\): Stalking Monster \- Remastered](https://open.spotify.com/track/13OVRnvV1HWX7iuy2Oan8Q) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [The Symphonic Ellington](https://open.spotify.com/album/6uQ50VQWCV5HrdQ72FNAyV) | 7:51 |
+| 17 | [Night Creature \(Second Movement\): Stalking Monster \- 2003 Remaster](https://open.spotify.com/track/13OVRnvV1HWX7iuy2Oan8Q) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Symphonic Ellington \(2003 Remaster\)](https://open.spotify.com/album/6uQ50VQWCV5HrdQ72FNAyV) | 7:51 |
 | 18 | [Shoo Shoo Boogie Boo](https://open.spotify.com/track/6kOOSRV4DJPw8uhvOcZIIF) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Am I Blue? \(Original Recodings from Her Movies 1928 \- 1929\)](https://open.spotify.com/album/3ciAbGoEal9ySlnZTgXUa7) | 2:50 |
 | 19 | [The Headless Horseman](https://open.spotify.com/track/4MykYFVQhubOeoecu3rEk3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Halloween Rock & Roll Party: Monster Oldies, Vol\. 1](https://open.spotify.com/album/2SAML3awD8TbMeynG8KZmJ) | 2:46 |
 | 20 | [Swingin' At the Seance](https://open.spotify.com/track/3Qc8IfBA3VbigHAeZy9kbW) | [The Deep River Boys](https://open.spotify.com/artist/4ZLM4eZl25NiMkWapruhlz) | [Monster Mash](https://open.spotify.com/album/03ZUglOjZqiqjLR459AQSf) | 2:04 |

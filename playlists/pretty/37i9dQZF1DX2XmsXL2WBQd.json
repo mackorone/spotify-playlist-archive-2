@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 446015,
+  "num_followers": 446076,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Biz's Baddest Beats: The Best of Biz Markie",
-        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "How Ya Like Me Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 280840,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Biz's Baddest Beats: The Best of Biz Markie",
+        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 327533,
+      "name": "I Can't Live Without My Radio",
+      "url": "https://open.spotify.com/track/1Yit1yv3n5f44TTevE4xxl"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Best Of 3rd Bass",
         "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 229840,
       "name": "The Gas Face",
       "url": "https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 327533,
-      "name": "I Can't Live Without My Radio",
-      "url": "https://open.spotify.com/track/1Yit1yv3n5f44TTevE4xxl"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Message (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash & The Furious Five",
-          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
-        }
-      ],
-      "duration_ms": 430013,
-      "name": "The Message - Extended Version",
-      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Planet Rock",
         "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "The Message (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+        }
+      ],
+      "duration_ms": 430013,
+      "name": "The Message - Extended Version",
+      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

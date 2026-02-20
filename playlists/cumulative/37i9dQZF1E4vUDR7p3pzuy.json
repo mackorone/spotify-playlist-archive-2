@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Guilt, Hex Formes, Evil Level Live and more",
+  "description": "With The Guilt, Evil Level Live, Hex Formes and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 208506,
       "name": "(UN)Lucky",
       "url": "https://open.spotify.com/track/4UdgTLn1uzI06iLUVF0kDS"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 332598,
       "name": "Child of Fear - Sinister Remix",
       "url": "https://open.spotify.com/track/0RUKvszRCjawjDV4Y5ZpqE"
@@ -1170,6 +1170,24 @@
       "duration_ms": 191500,
       "name": "Coming Back To Life",
       "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
+    },
+    {
+      "album": {
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221679,
+      "name": "contact",
+      "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
     },
     {
       "album": {
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 216000,
       "name": "Dark Lovers",
       "url": "https://open.spotify.com/track/5rkn70pnzuzxsh764uayEx"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 247296,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/0YKEjExveJD2pUxe4S5vyz"
@@ -1925,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Defense 101",
+        "url": "https://open.spotify.com/album/0OR2HfWLbc68Yu7LBevdy9"
+      },
+      "artists": [
+        {
+          "name": "WarSongs English",
+          "url": "https://open.spotify.com/artist/4j7ojtDoEQlTIdDsLGLuxL"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176479,
+      "name": "F-22 : Don't Challenge the Raptor",
+      "url": "https://open.spotify.com/track/0WAbiAYvnEsO3KmNFCkRMZ"
+    },
+    {
+      "album": {
         "name": "Time's Arrow Remixed",
         "url": "https://open.spotify.com/album/4qzbywOlrAzr5HKeHipS6u"
       },
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -3240,7 +3276,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -3334,7 +3370,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -4388,7 +4424,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 243000,
       "name": "Naked on My Own (LP Version)",
       "url": "https://open.spotify.com/track/4Bxxzzv9C9NJaIdGZci3LV"
@@ -4518,7 +4554,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 279652,
       "name": "Not Another Happy Ending",
       "url": "https://open.spotify.com/track/4FpAgGVNNAP0EzQi1BfpKv"
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
@@ -5350,7 +5386,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -5585,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/2k67l3CsavixKvxwknM8bC"
+      },
+      "artists": [
+        {
+          "name": "Retail Therapy",
+          "url": "https://open.spotify.com/artist/3JbG8NGNpePLkSd2jpo21H"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/5Z3lFkjee759xBGg88bwIJ"
+    },
+    {
+      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/5au71R19BKRJTNP74PoCnb"
       },
@@ -5708,7 +5762,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 240470,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/2UGFlniyQwdhS3HWcgmDSd"
@@ -6146,7 +6200,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
@@ -6164,7 +6218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192000,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1DFCy3dEt9o7CumF0USk3B"
@@ -6222,7 +6276,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 180665,
       "name": "Sword Like Me",
       "url": "https://open.spotify.com/track/0w0zY1j8sgiYOb56ZsyV8n"
@@ -6404,7 +6458,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 255599,
       "name": "The Fallen",
       "url": "https://open.spotify.com/track/5XzwgoKqb8CiBCIkVDQdWa"
@@ -6938,7 +6992,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -7300,7 +7354,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175000,
       "name": "War in My Kitchen",
       "url": "https://open.spotify.com/track/1h0fxGZNkSKxOcM2ZgezTv"
@@ -7528,7 +7582,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 276535,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/4s4sUzZZ4arHtSFxE4Il7p"
@@ -7672,7 +7726,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 148558,
       "name": "You Look So Alive",
       "url": "https://open.spotify.com/track/3gMDGYhdq1W4SBUfM7QEj1"

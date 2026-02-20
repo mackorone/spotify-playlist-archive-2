@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
-  "num_followers": 486414,
+  "num_followers": 486429,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "Desequilibrio",
+        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
+      },
+      "artists": [
+        {
+          "name": "Dinamo",
+          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
+        }
+      ],
+      "duration_ms": 212845,
+      "name": "El asesino del tiempo",
+      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Desequilibrio",
-        "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
-      },
-      "artists": [
-        {
-          "name": "Dinamo",
-          "url": "https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n"
-        }
-      ],
-      "duration_ms": 212845,
-      "name": "El asesino del tiempo",
-      "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "El Mosquito",
-        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 188772,
-      "name": "El Mosquito",
-      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "El Mosquito",
+        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 188772,
+      "name": "El Mosquito",
+      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1379,26 +1379,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Aqu\u00ed Estamos",
-        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
         }
       ],
-      "duration_ms": 183771,
-      "name": "Aqu\u00ed Estamos",
-      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1423,22 +1419,26 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         },
         {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+      "duration_ms": 183771,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Estando contigo",
-        "url": "https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Estando contigo",
-      "url": "https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Love for Ska",
         "url": "https://open.spotify.com/album/2ehF3lG3PqUOW7C5tNFVwO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 270598,
       "name": "Love for Ska",
       "url": "https://open.spotify.com/track/6gns7mu2t3leWMqLWMLD5B"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Estando contigo",
+        "url": "https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Estando contigo",
+      "url": "https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Somos todo",
-        "url": "https://open.spotify.com/album/7HlAXQw68Oq1e806GNEv2I"
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
       "artists": [
         {
-          "name": "Alto Grado",
-          "url": "https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH"
-        },
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
         }
       ],
-      "duration_ms": 155232,
-      "name": "Somos todo",
-      "url": "https://open.spotify.com/track/4QpD6vwI5CsWVF70Dqn25l"
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1635,22 +1631,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Somos todo",
+        "url": "https://open.spotify.com/album/7HlAXQw68Oq1e806GNEv2I"
+      },
+      "artists": [
+        {
+          "name": "Alto Grado",
+          "url": "https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH"
+        },
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 155232,
+      "name": "Somos todo",
+      "url": "https://open.spotify.com/track/4QpD6vwI5CsWVF70Dqn25l"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "\u00a1Hey T\u00fa!",
-        "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
+        "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
       },
       "artists": [
         {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 192262,
-      "name": "\u00a1Hey T\u00fa!",
-      "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
+      "duration_ms": 241306,
+      "name": "Fuera de Control - En Vivo",
+      "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
     }
   ],
   "unique_name": "Ska Latino ",

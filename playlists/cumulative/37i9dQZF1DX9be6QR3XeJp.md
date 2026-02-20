@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Chalk
+> Discover your new favourite artists from UK&IE\. Cover: Absolutely
 
-343 songs - 18 hr 24 min
+344 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Never Be The Same](https://open.spotify.com/track/3ULxtlPyKErdQl6EsyRoUz) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Home Truths](https://open.spotify.com/album/68zLKbOglU5BivfAtoBUno) | 2:56 | 2024-03-15 |  |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-03 |  |
 | [nightmares](https://open.spotify.com/track/5mnnsan9rtnYHjJoLVdD79) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [withdrawal symptoms](https://open.spotify.com/album/5Uj9bUqM83TDE0PJ2Dz7kT) | 2:41 | 2022-08-11 |  |
+| [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 | 2026-02-20 |  |
 | [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 | 2023-01-09 | 2024-04-19 |
 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-02-18 |  |
 | [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 | 2025-11-21 |  |

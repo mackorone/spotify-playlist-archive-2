@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,939 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,944 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 10 | [No quiero un final](https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD), [Susanojuicio](https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8) | [No quiero un final](https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos) | 3:57 |
 | 11 | [Boyz In Da House](https://open.spotify.com/track/2CEYNYeK5uiVvPensolF6n) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8) | [Boyz In Da House](https://open.spotify.com/album/5YiSBGrupAnOHU8KTqRVAh) | 3:49 |
 | 12 | [Tu Traición](https://open.spotify.com/track/2GxUyF5r1pvjVihKfFoNSH) | [Zona Infame](https://open.spotify.com/artist/32FmPGPkEM3IifxSPWEstr) | [Llegamos](https://open.spotify.com/album/7Abvxuj7EQVesUvTXbv6P4) | 4:38 |
-| 13 | [Que Esperas De Mi](https://open.spotify.com/track/2PUtigNLIDllpP0RBcsbS3) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Yezzy Wallace](https://open.spotify.com/artist/4ne3MCOxiaIATbGCFQbyNk) | [Que Esperas De Mi](https://open.spotify.com/album/28AZGoAknURB9KTtyBMEto) | 3:33 |
+| 13 | [Que Esperas De Mi](https://open.spotify.com/track/2PUtigNLIDllpP0RBcsbS3) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Yezzy Wallace](https://open.spotify.com/artist/2Bwl2hByhYF6oE9GIdl0c8) | [Que Esperas De Mi](https://open.spotify.com/album/28AZGoAknURB9KTtyBMEto) | 3:33 |
 | 14 | [Mala Mía](https://open.spotify.com/track/2Gu0CtVoCufgmXHhNkWVt7) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dre\. Smoke](https://open.spotify.com/artist/4lpxG5zR6wrdXdpbNnkuEq) | [Mala Mía](https://open.spotify.com/album/6n9yOfASezS1sJmjK0EYin) | 2:28 |
 | 15 | [Odiándome](https://open.spotify.com/track/43GEvvO9x01V6c4eOuy8Xg) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Anghell](https://open.spotify.com/artist/72jQJCoJsDjwxYCLUCHYwI), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Odiándome](https://open.spotify.com/album/3DDR4ZRoSHuw06O2XP0yZh) | 2:51 |
 | 16 | [Vacío](https://open.spotify.com/track/6hMnv8UhUffI60ShG1wnYV) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5) | [Vacío](https://open.spotify.com/album/5w1KvvBBUol3jKBtRpVdrz) | 3:01 |

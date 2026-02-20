@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 188847,
       "name": "Appeler Appeler",
       "url": "https://open.spotify.com/track/1SrywkMdwLcjRr0F3pyIjm"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 191280,
       "name": "Gbrokoto gbrakata",
       "url": "https://open.spotify.com/track/2P8xD8TqtVzoj8taYLcNnz"
@@ -2758,6 +2758,36 @@
       "duration_ms": 198518,
       "name": "Je suis pas dedans",
       "url": "https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e"
+    },
+    {
+      "album": {
+        "name": "Je veux voir quelque chose",
+        "url": "https://open.spotify.com/album/6ZZ4qqcm8CNvlI5paSnCoz"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Peroo",
+          "url": "https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199271,
+      "name": "Je veux voir quelque chose",
+      "url": "https://open.spotify.com/track/0WplMmXy3DpHzKa8L73aGi"
     },
     {
       "album": {
@@ -4545,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Rien du Tout",
+        "url": "https://open.spotify.com/album/681SfsZjkHI1Q7zeCA6652"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Rien du Tout",
+      "url": "https://open.spotify.com/track/0OAe0ZaxtHyeUhqqJx541P"
+    },
+    {
+      "album": {
         "name": "R\u00e9veilles toi",
         "url": "https://open.spotify.com/album/6fWiUekVUcszo2DiSBdwqr"
       },
@@ -5138,7 +5186,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176000,
       "name": "Tout laisse",
       "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
@@ -5214,6 +5262,32 @@
       "duration_ms": 163636,
       "name": "Tu Te Maries Quand? (Part. I)",
       "url": "https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw"
+    },
+    {
+      "album": {
+        "name": "Tu veux g\u00e2ter ?",
+        "url": "https://open.spotify.com/album/7jjHgpnkOj35TqAuORFdVx"
+      },
+      "artists": [
+        {
+          "name": "Jojo le Barbu",
+          "url": "https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9"
+        },
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "Jspeed beatz",
+          "url": "https://open.spotify.com/artist/1n756IRf35UE7TmwSfeyPg"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148401,
+      "name": "Tu veux g\u00e2ter ?",
+      "url": "https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12"
     },
     {
       "album": {

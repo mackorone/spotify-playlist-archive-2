@@ -16609,6 +16609,24 @@
     },
     {
       "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/4wicSTgfIqX3Aba1cnVokj"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60403,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/0Q9JvysOsbm305QAjXuUY2"
+    },
+    {
+      "album": {
         "name": "Inspire",
         "url": "https://open.spotify.com/album/3v9S2L1xrOAwOFECQi63uh"
       },

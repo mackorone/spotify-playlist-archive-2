@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 265625,
       "name": "Breaking Up Is Hard To Do",
       "url": "https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC"
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6dd i G\u00e4vle",
+        "url": "https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI"
+      },
+      "artists": [
+        {
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174871,
+      "name": "F\u00f6dd i G\u00e4vle",
+      "url": "https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL"
+    },
+    {
+      "album": {
         "name": "F\u00f6r evigt ny",
         "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 258000,
       "name": "Hold fast",
       "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
@@ -3956,6 +3974,24 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "album": {
+        "name": "Ingenting \u00e4r efter oss",
+        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+      },
+      "artists": [
+        {
+          "name": "Timo R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "Ingenting \u00e4r efter oss",
+      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
     },
     {
       "album": {

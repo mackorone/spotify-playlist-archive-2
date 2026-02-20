@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,100 songs - 2 day 6 hr 50 min
+1,101 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-06 |  |
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-14 | 2024-12-13 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-08-22 | 2024-09-13 |
-| [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 | 2025-10-23 |  |
+| [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 | 2025-10-23 | 2026-02-20 |
 | [Benz](https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/52fbcfvgainVZDsJbDwjzb) | 3:05 | 2025-05-01 | 2025-05-23 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 |  |
 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 | 2025-11-28 |  |
@@ -438,6 +438,7 @@
 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 | 2025-08-28 | 2025-10-10 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 | 2025-04-25 |
 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 | 2025-03-27 | 2025-04-25 |
+| [Keho muistaa](https://open.spotify.com/track/29njXdJZFfFaFes7iP96OH) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Keho muistaa](https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR) | 3:02 | 2026-02-19 |  |
 | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS) | 2:48 | 2025-07-03 | 2025-08-29 |
 | [Kerro mulle](https://open.spotify.com/track/2a7TN2TT1wJqZgkTZSbwD3) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Kerro mulle](https://open.spotify.com/album/2Y0ACTy2R9ZGlH1Nxc98AH) | 2:41 | 2025-05-22 | 2025-06-27 |
 | [Kerron sulle kaiken](https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Kerron sulle kaiken](https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1) | 2:53 | 2024-07-02 | 2024-08-30 |

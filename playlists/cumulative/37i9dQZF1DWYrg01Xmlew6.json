@@ -3071,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "Doje Facce",
+        "url": "https://open.spotify.com/album/74lb2qVrK7CpT7MLMK7vJs"
+      },
+      "artists": [
+        {
+          "name": "$iPP",
+          "url": "https://open.spotify.com/artist/6kXOHDXixySzXahoADlMWn"
+        },
+        {
+          "name": "Fox",
+          "url": "https://open.spotify.com/artist/6r67SznMpiiHmRlILdRsZq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Doje Facce",
+      "url": "https://open.spotify.com/track/1a6Ib5azTwU2jIQARXn9jO"
+    },
+    {
+      "album": {
         "name": "Doje Vote",
         "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"
       },
@@ -4176,7 +4198,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 137946,
       "name": "GOTTI",
       "url": "https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm"
@@ -5518,7 +5540,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 130612,
       "name": "M Serv Na 9 (feat. Dipinto)",
       "url": "https://open.spotify.com/track/2mHWTJ9MRggZObUWsis90w"
@@ -9038,7 +9060,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 126897,
       "name": "PROVA VIVENTE",
       "url": "https://open.spotify.com/track/5NnRhwXUVIc7EAxnJ9e7Hy"
@@ -9546,6 +9568,28 @@
       "duration_ms": 138333,
       "name": "RIP",
       "url": "https://open.spotify.com/track/2hlm13i9IpSFjOT1dbrJGq"
+    },
+    {
+      "album": {
+        "name": "RISPETTO",
+        "url": "https://open.spotify.com/album/2tYSvjH9CeSk9iOBPnoVuu"
+      },
+      "artists": [
+        {
+          "name": "Bl4ir",
+          "url": "https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx"
+        },
+        {
+          "name": "Vinz Turner",
+          "url": "https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "RISPETTO",
+      "url": "https://open.spotify.com/track/4F0jrUs3Y65lXIxBka27gi"
     },
     {
       "album": {

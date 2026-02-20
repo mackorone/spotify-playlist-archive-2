@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 121044,
+  "num_followers": 121094,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,22 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Azimuth Divergence",
-        "url": "https://open.spotify.com/album/3h6IEogQtadvjHA5ER04ma"
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
       },
       "artists": [
         {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         },
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
         }
       ],
-      "duration_ms": 158822,
-      "name": "Stellar Parallax",
-      "url": "https://open.spotify.com/track/0rDPpovB9tNfxHVeULoAUU"
+      "duration_ms": 461056,
+      "name": "part ii - palace / illusion",
+      "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -987,26 +983,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "RITUAL",
-        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Vylana",
-          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
-        }
-      ],
-      "duration_ms": 461056,
-      "name": "part ii - palace / illusion",
-      "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "HomeSoon",
         "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 267500,
       "name": "Catsu",
       "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Azimuth Divergence",
+        "url": "https://open.spotify.com/album/3h6IEogQtadvjHA5ER04ma"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Stellar Parallax",
+      "url": "https://open.spotify.com/track/0rDPpovB9tNfxHVeULoAUU"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 52808,
+      "name": "Mirror bridge",
+      "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
         "name": "BLCK SUN",
         "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
       "artists": [
         {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 52808,
-      "name": "Mirror bridge",
-      "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1351,22 +1367,6 @@
       "duration_ms": 225625,
       "name": "I, you",
       "url": "https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 354306,
-      "name": "Love and the Framed Insects",
-      "url": "https://open.spotify.com/track/58y66qr6jc5eMTFbrXacL7"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "Songs of Silence",
         "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 227033,
       "name": "Scarper",
       "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 354306,
+      "name": "Love and the Framed Insects",
+      "url": "https://open.spotify.com/track/58y66qr6jc5eMTFbrXacL7"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "sleep with a cane",
-        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
-      },
-      "artists": [
-        {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
-        }
-      ],
-      "duration_ms": 768000,
-      "name": "it is what it is in d minor",
-      "url": "https://open.spotify.com/track/6A7pJa4Cgto6hbCRteGZBI"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "Distances",
         "url": "https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Albadas (Dawn Songs)",
-        "url": "https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z"
+        "name": "sleep with a cane",
+        "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
         }
       ],
-      "duration_ms": 276642,
-      "name": "Timelapse",
-      "url": "https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ"
+      "duration_ms": 768000,
+      "name": "it is what it is in d minor",
+      "url": "https://open.spotify.com/track/6A7pJa4Cgto6hbCRteGZBI"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1675,6 +1659,22 @@
       "duration_ms": 367841,
       "name": "Chaparral",
       "url": "https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Albadas (Dawn Songs)",
+        "url": "https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 276642,
+      "name": "Timelapse",
+      "url": "https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1875,26 +1875,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Apofanie",
-        "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
+        "name": "Lake",
+        "url": "https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H"
       },
       "artists": [
         {
-          "name": "Hior Chronik",
-          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
-        },
-        {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        },
-        {
-          "name": "Asia Dojnikowska",
-          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Yellowed Leaves Drift Down",
-      "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
+      "duration_ms": 211053,
+      "name": "Lake",
+      "url": "https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1915,18 +1907,26 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Lake",
-        "url": "https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H"
+        "name": "Apofanie",
+        "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
       },
       "artists": [
         {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        },
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Asia Dojnikowska",
+          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
         }
       ],
-      "duration_ms": 211053,
-      "name": "Lake",
-      "url": "https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD"
+      "duration_ms": 212626,
+      "name": "Yellowed Leaves Drift Down",
+      "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "T\u1ebft 41",
         "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 319554,
       "name": "Gi\u00f3",
       "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5RmDGrwanJ17BWonobvZ5Q"
-      },
-      "artists": [
-        {
-          "name": "Emika",
-          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5sfe15oQuTlwOR0NkLmSOp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 200013,
       "name": "Pause - Reimagined by Hinako Omori",
       "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5RmDGrwanJ17BWonobvZ5Q"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5sfe15oQuTlwOR0NkLmSOp"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Waterfall Horizon",
-        "url": "https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud"
-      },
-      "artists": [
-        {
-          "name": "7038634357",
-          "url": "https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Open Shadow",
-      "url": "https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "Tempora",
         "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 482771,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Waterfall Horizon",
+        "url": "https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud"
+      },
+      "artists": [
+        {
+          "name": "7038634357",
+          "url": "https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Open Shadow",
+      "url": "https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "La Hormiga",
         "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "AMUSIA (Music From The Film)",
-        "url": "https://open.spotify.com/album/1vjDrpCywC4a1TFmfqIrTx"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
       },
       "artists": [
         {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
         }
       ],
-      "duration_ms": 116043,
-      "name": "Nostro Tempo",
-      "url": "https://open.spotify.com/track/3iPJ0Nhj3vBSM8C86oT40x"
+      "duration_ms": 210002,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2323,22 +2307,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Windmills (Salamanda Remix)",
-        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+        "name": "AMUSIA (Music From The Film)",
+        "url": "https://open.spotify.com/album/1vjDrpCywC4a1TFmfqIrTx"
       },
       "artists": [
         {
-          "name": "Anchorsong",
-          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
-        },
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Windmills - Salamanda Remix",
-      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+      "duration_ms": 116043,
+      "name": "Nostro Tempo",
+      "url": "https://open.spotify.com/track/3iPJ0Nhj3vBSM8C86oT40x"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2355,6 +2335,26 @@
       "duration_ms": 139184,
       "name": "Heterodina",
       "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "Windmills (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Windmills - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2407,6 +2407,26 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Nacho Sanchez",
+          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
+        }
+      ],
+      "duration_ms": 378291,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
         "name": "Dostrotime",
         "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 264000,
       "name": "Your First Armadillo",
       "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw"
-      },
-      "artists": [
-        {
-          "name": "Pablo Bolivar",
-          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
-        },
-        {
-          "name": "Nacho Sanchez",
-          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
-        }
-      ],
-      "duration_ms": 378291,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "The Wyrding Way",
-        "url": "https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 192798,
-      "name": "Elusive Nature",
-      "url": "https://open.spotify.com/track/4Kaw3KyIaiG77duUjjmxHZ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:41",
-      "album": {
         "name": "Kumquat",
         "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2026-02-13 05:00:41",
+      "album": {
+        "name": "The Wyrding Way",
+        "url": "https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "duration_ms": 192798,
+      "name": "Elusive Nature",
+      "url": "https://open.spotify.com/track/4Kaw3KyIaiG77duUjjmxHZ"
     },
     {
       "added_at": "2026-02-13 05:00:41",
@@ -2595,26 +2595,18 @@
     {
       "added_at": "2026-02-13 05:00:41",
       "album": {
-        "name": "Crashing waves dance to the rhythm set by the broadcast journalist revealing the tragedies of the day",
-        "url": "https://open.spotify.com/album/1ZpmQ9svb1i5OOoI3ZZnbp"
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
       "artists": [
         {
-          "name": "Charbel Haber",
-          "url": "https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe"
-        },
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        },
-        {
-          "name": "Sary Moussa",
-          "url": "https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ"
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
         }
       ],
-      "duration_ms": 486877,
-      "name": "Part 1",
-      "url": "https://open.spotify.com/track/4cBsImz8DSTYsOMyJaEXqj"
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     }
   ],
   "unique_name": "Electronic X",

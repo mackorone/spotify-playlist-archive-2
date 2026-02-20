@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Samara Cyn",
-  "num_followers": 64720,
+  "num_followers": 64717,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "Move & Flow",
         "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 236110,
       "name": "Move & Flow",
       "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "sick to my stomach",
         "url": "https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 151034,
       "name": "Call Me Baby",
       "url": "https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 238319,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "MUSIC 4 DANCING",
         "url": "https://open.spotify.com/album/4Ktfjs4DfhzMJ1gcK6NS91"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 248750,
       "name": "back 2 u",
       "url": "https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 238319,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
     },
     {
       "added_at": "2026-02-06 05:00:30",

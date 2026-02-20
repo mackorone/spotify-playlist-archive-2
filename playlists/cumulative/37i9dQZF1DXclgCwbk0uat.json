@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 141274,
       "name": "Bella",
       "url": "https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU"
@@ -3123,6 +3123,32 @@
     },
     {
       "album": {
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/34FICOMIaiIQXWb5czgi1o"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/19AXdmWfIDChkG3Yw4We41"
+    },
+    {
+      "album": {
         "name": "Duki: Bzrp Music Sessions, Vol. 50",
         "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
       },
@@ -4172,6 +4198,28 @@
       "duration_ms": 225000,
       "name": "Fuera del Planeta",
       "url": "https://open.spotify.com/track/0neouvsGp68ZH1D92bsMVQ"
+    },
+    {
+      "album": {
+        "name": "Fuera Del Planeta",
+        "url": "https://open.spotify.com/album/4qJomsv2i158uKDjAsjSuH"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Fuera Del Planeta",
+      "url": "https://open.spotify.com/track/7MQ04bZzJGKiBRioclEiIo"
     },
     {
       "album": {
@@ -12452,7 +12500,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
@@ -12474,6 +12522,28 @@
       "duration_ms": 166736,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb"
+    },
+    {
+      "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/1RcSWRxcv6q5kCIYPnvLJU"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/2KMKIoy6QKkpolyXBnasHz"
     },
     {
       "album": {
@@ -12902,7 +12972,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193024,
       "name": "y ke pa - Remix",
       "url": "https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv"

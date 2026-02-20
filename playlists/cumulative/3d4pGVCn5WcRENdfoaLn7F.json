@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Eighty-Six",
+        "url": "https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG"
+      },
+      "artists": [
+        {
+          "name": "Lake Point Drive",
+          "url": "https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223548,
+      "name": "Eighty-Six",
+      "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
+    },
+    {
+      "album": {
         "name": "El Arte de Perderse",
         "url": "https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2"
       },
@@ -1282,6 +1300,24 @@
       "duration_ms": 163152,
       "name": "Forget",
       "url": "https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R"
+    },
+    {
+      "album": {
+        "name": "Fly Eagle Fly",
+        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
     },
     {
       "album": {
@@ -2436,6 +2472,24 @@
       "duration_ms": 288312,
       "name": "No Time",
       "url": "https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2"
+    },
+    {
+      "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "album": {
@@ -3877,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Warrior Chords\"",
+        "url": "https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO"
+      },
+      "artists": [
+        {
+          "name": "Armen Matevosyan",
+          "url": "https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Warrior Chords\"",
+      "url": "https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF"
+    },
+    {
+      "album": {
         "name": "We're Not Lovers",
         "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
       },
@@ -4148,6 +4220,24 @@
       "duration_ms": 198384,
       "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV"
+    },
+    {
+      "album": {
+        "name": "\u043d\u0435\u0442 \u043c\u0435\u043d\u044f",
+        "url": "https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177218,
+      "name": "\u043d\u0430\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u044b \u0434\u0440\u0443\u0437\u044c\u044f 2",
+      "url": "https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0"
     }
   ],
   "url": "https://open.spotify.com/playlist/3d4pGVCn5WcRENdfoaLn7F"

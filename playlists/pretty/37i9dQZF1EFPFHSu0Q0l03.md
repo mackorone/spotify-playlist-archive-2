@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,188 likes - 270 songs - 17 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,190 likes - 270 songs - 17 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,10 +273,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 263 | [He Will Be Here](https://open.spotify.com/track/3OCn2xLWrI30SZhXTEeduH) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 3:39 |
 | 264 | [Cyrano's Message](https://open.spotify.com/track/0Tm0Gsj4oFBDpJ3Qrl005F) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 1:29 |
 | 265 | [Sad Is Love](https://open.spotify.com/track/1lv7ri6yvwi2cLWTWuim0g) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:54 |
-| 266 | [Lean](https://open.spotify.com/track/1dg48erTxK5JVf5SJodoPW) | [Cappo Slide](https://open.spotify.com/artist/3HGdKjoHaH53eZCSZCrf3i) | [Acoustic Instrumental Sessions](https://open.spotify.com/album/3H9TkgcfeTcZP8s6d9xWZb) | 4:26 |
+| 266 | [Lean](https://open.spotify.com/track/1zxjdDRCAQRr9zS23v1kZO) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol\. 10](https://open.spotify.com/album/5YUfOg7FEwahguhqNqrX4P) | 4:26 |
 | 267 | [Set Your Fire On Me](https://open.spotify.com/track/2rgoTyxsK7tkQhsFoITvWP) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:11 |
 | 268 | [Time Gets Eaten](https://open.spotify.com/track/76mkAIAQwWKtFYynNPUvuc) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:42 |
 | 269 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 270 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcKB9gAAAAB7pmW9PCAmUaVQS4PDQe52`
+Snapshot ID: `AcKHlgAAAABA/CQUAceuwNaSV6DmzaNR`

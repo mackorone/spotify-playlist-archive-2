@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: FISHER
+> The UK's biggest dance playlist! Cover: Milky, Mall Grab
 
 732 songs - 1 day 14 hr 5 min
 

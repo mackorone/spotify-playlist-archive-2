@@ -10373,6 +10373,24 @@
     },
     {
       "album": {
+        "name": "Fronzoli",
+        "url": "https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212617,
+      "name": "Hot! Heat! Wow! Hot!",
+      "url": "https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA"
+    },
+    {
+      "album": {
         "name": "After TTBR",
         "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
       },

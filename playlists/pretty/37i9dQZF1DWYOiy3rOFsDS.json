@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 547558,
+  "num_followers": 547592,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
         "name": "Por Si Ma\u00f1ana No Estoy",
         "url": "https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
-      },
-      "artists": [
-        {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "La Tirana",
         "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
       },
@@ -535,6 +535,26 @@
       "duration_ms": 244059,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -571,26 +591,6 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Infierno Favorito",
-        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 214279,
-      "name": "Infierno Favorito",
-      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "Infierno Favorito",
+        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 214279,
+      "name": "Infierno Favorito",
+      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sabidur\u00eda",
-      "url": "https://open.spotify.com/track/26g3hJFPLImSGwyjI1n60w"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 178909,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sabidur\u00eda",
+      "url": "https://open.spotify.com/track/26g3hJFPLImSGwyjI1n60w"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 136667,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
       },
@@ -1471,22 +1455,18 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "nomeolvides",
-        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
       "artists": [
         {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 179328,
-      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
-      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1507,6 +1487,26 @@
       "duration_ms": 195413,
       "name": "tu amor me da paz",
       "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "nomeolvides",
+        "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "qu\u00e9 triste, qu\u00e9 desastre (bolero)",
+      "url": "https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
-      },
-      "artists": [
-        {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
-    },
-    {
-      "added_at": "2026-02-13 06:00:01",
-      "album": {
         "name": "Tan B\u00e1sico",
         "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2026-02-13 06:00:01",
       "album": {
-        "name": "L\u00edneas De Tiempo (Lado A)",
-        "url": "https://open.spotify.com/album/73InhuRWkHcPkQKmlb2Ofz"
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
       },
       "artists": [
         {
-          "name": "Cecy Leos",
-          "url": "https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi"
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
         }
       ],
-      "duration_ms": 175156,
-      "name": "Noche de Agosto",
-      "url": "https://open.spotify.com/track/6dbrBnMyAOSYrtsTox6dho"
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
     },
     {
       "added_at": "2026-02-13 06:00:01",
@@ -1759,6 +1743,22 @@
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2026-02-13 06:00:01",
+      "album": {
+        "name": "L\u00edneas De Tiempo (Lado A)",
+        "url": "https://open.spotify.com/album/73InhuRWkHcPkQKmlb2Ofz"
+      },
+      "artists": [
+        {
+          "name": "Cecy Leos",
+          "url": "https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Noche de Agosto",
+      "url": "https://open.spotify.com/track/6dbrBnMyAOSYrtsTox6dho"
     },
     {
       "added_at": "2026-02-13 06:00:01",

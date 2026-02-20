@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 190561,
       "name": "1000 Timer",
       "url": "https://open.spotify.com/track/4xCGb24w2tsJxSLy1cgrBJ"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 200658,
       "name": "Bare Rolig",
       "url": "https://open.spotify.com/track/4uNtlj1JUqshoUS124tuNk"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195229,
       "name": "Everyone\u2019s A Star!",
       "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
@@ -5888,6 +5888,24 @@
       "duration_ms": 197419,
       "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3QjR1WmcsQyq75ijvPHzcz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187461,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0dAXGphhIOCZhyqZPYglmL"
     },
     {
       "album": {
@@ -7764,7 +7782,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 209013,
       "name": "HUGORM NEDL\u00c6GGER FORSVARET (feat. Peter Sommer)",
       "url": "https://open.spotify.com/track/2BcCtKjAaHfsYhSLWVUvx8"
@@ -12811,6 +12829,28 @@
     },
     {
       "album": {
+        "name": "PUSTO",
+        "url": "https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144053,
+      "name": "Piger (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY"
+    },
+    {
+      "album": {
         "name": "plastikhjerte",
         "url": "https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T"
       },
@@ -13040,6 +13080,24 @@
       "duration_ms": 175328,
       "name": "professional heartbreaker",
       "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f8veperiode",
+        "url": "https://open.spotify.com/album/0CBZzY2fFMIUgmj25IdhGc"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163704,
+      "name": "Pr\u00f8veperiode",
+      "url": "https://open.spotify.com/track/2RrQPth34wgnGlTTi290df"
     },
     {
       "album": {
@@ -14450,6 +14508,46 @@
       "duration_ms": 314423,
       "name": "Skyfall (feat. Young Thug)",
       "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
+    },
+    {
+      "album": {
+        "name": "Skyggebokser",
+        "url": "https://open.spotify.com/album/1JnCki83OeAUhA12R9yuGI"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144431,
+      "name": "Skyggebokser",
+      "url": "https://open.spotify.com/track/281VeLp2LfugJG336oFYwC"
+    },
+    {
+      "album": {
+        "name": "Slip Slip (feat. MAS)",
+        "url": "https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Slip Slip (feat. MAS)",
+      "url": "https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53"
     },
     {
       "album": {
@@ -18228,7 +18326,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"

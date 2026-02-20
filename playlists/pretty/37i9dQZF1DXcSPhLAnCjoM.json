@@ -1,31 +1,31 @@
 {
-  "description": "\"Virile\" de Suzane est le Grand Hit de la semaine.  ",
-  "num_followers": 1026349,
+  "description": "\"Dis-moi oui\" de SANTA est le Grand Hit de la semaine.  ",
+  "num_followers": 1026357,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACRPS1qUQEhmQq7cwALkrALF0JpL",
+  "snapshot_id": "AAAAANJLYfT+TAsSqtwAdw8mgD9R9fLp",
   "tracks": [
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
-        "name": "Mill\u00e9nium",
-        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
+        "name": "Dis-moi oui",
+        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
       },
       "artists": [
         {
-          "name": "Suzane",
-          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 158544,
-      "name": "Virile",
-      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
+      "duration_ms": 236119,
+      "name": "Dis-moi oui",
+      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "melodrama",
         "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Chaque seconde",
         "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Tant pis pour elle",
         "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Respire fort",
         "url": "https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "H\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
@@ -109,7 +109,55 @@
       "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "Mill\u00e9nium",
+        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "duration_ms": 158544,
+      "name": "Virile",
+      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "La Camisa Negra",
+        "url": "https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE"
+      },
+      "artists": [
+        {
+          "name": "Elliott",
+          "url": "https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "Adr\u00e9naline",
+        "url": "https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Quand m\u00eame",
+      "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Par coeur (feat. Joseph Kamel)",
         "url": "https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze"
@@ -129,23 +177,87 @@
       "url": "https://open.spotify.com/track/1grONqhU4gXxscprACJbzW"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
-        "name": "La Camisa Negra",
-        "url": "https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE"
+        "name": "Chiens",
+        "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
       },
       "artists": [
         {
-          "name": "Elliott",
-          "url": "https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 159183,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
+      "duration_ms": 182876,
+      "name": "Chiens",
+      "url": "https://open.spotify.com/track/51qMciprNwFso3R3XioUUu"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "Autrement",
+        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        }
+      ],
+      "duration_ms": 164578,
+      "name": "Autrement",
+      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "H\u00e9l\u00e9 2",
+        "url": "https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "Capuche",
+      "url": "https://open.spotify.com/track/3o7fTezEjBiIScPt4SJvX6"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "La lune",
+        "url": "https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 208963,
+      "name": "La lune",
+      "url": "https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "No Name - Single Version",
+      "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Viens on essaie",
         "url": "https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY"
@@ -165,71 +277,7 @@
       "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Dis-moi oui",
-        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 236119,
-      "name": "Dis-moi oui",
-      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Chiens",
-        "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "Chiens",
-      "url": "https://open.spotify.com/track/51qMciprNwFso3R3XioUUu"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "La lune",
-        "url": "https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 208963,
-      "name": "La lune",
-      "url": "https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Autrement",
-        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
-      },
-      "artists": [
-        {
-          "name": "Julien Lieb",
-          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
-        }
-      ],
-      "duration_ms": 164578,
-      "name": "Autrement",
-      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ"
@@ -249,23 +297,7 @@
       "url": "https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Adr\u00e9naline",
-        "url": "https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Quand m\u00eame",
-      "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "MINUIT UNE",
         "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "La fuite en avant",
         "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
@@ -297,23 +329,7 @@
       "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "No Name - Single Version",
-      "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "C amir\u00b2",
         "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Coeur maladroit",
         "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "particule",
         "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
@@ -381,7 +397,23 @@
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
+      "album": {
+        "name": "Nouveau souffle",
+        "url": "https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 142323,
+      "name": "Qu'est-ce qu'il me restera ?",
+      "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
+    },
+    {
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Tout se casse (Version radio)",
         "url": "https://open.spotify.com/album/74X7BVWblYn8tzB33EbOXb"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/7mso93CqDezz9i3Hd4Z151"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Adieu Musique",
         "url": "https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Mieux que moi",
         "url": "https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Gamin des sables",
         "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/6TxZK3SClZIkrdE89ZoYFJ"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Coeur maladroit (Deluxe)",
         "url": "https://open.spotify.com/album/4vMwcXo0IBEa0TsGUyw2pn"
@@ -477,7 +509,7 @@
       "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Mille fois",
         "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Comme toutes les filles",
         "url": "https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Etincelles",
         "url": "https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "En boucle",
         "url": "https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "grandir",
         "url": "https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "HORS DU TEMPS",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "SENTIMENTAL",
         "url": "https://open.spotify.com/album/6yWYL1AlHmkWVbuHKppErm"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Mon sang",
         "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
@@ -617,23 +649,7 @@
       "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/3ndlLOz5cBu4KpgqMqc5sH"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 172802,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/0LUiwvQMAKngway2t7Bpcz"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "Millions de c\u0153urs",
         "url": "https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u"
@@ -649,23 +665,7 @@
       "url": "https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx"
     },
     {
-      "added_at": "2026-02-12 23:00:32",
-      "album": {
-        "name": "Toi jamais",
-        "url": "https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ"
-      },
-      "artists": [
-        {
-          "name": "Oria",
-          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Toi jamais",
-      "url": "https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL"
-    },
-    {
-      "added_at": "2026-02-12 23:00:32",
+      "added_at": "2026-02-19 23:00:40",
       "album": {
         "name": "MAGNIFICAT",
         "url": "https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1"

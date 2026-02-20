@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Amigo M\u00edo",
+        "url": "https://open.spotify.com/album/7KhwNPJutT0njTtjWjLbaG"
+      },
+      "artists": [
+        {
+          "name": "Leon Coeur",
+          "url": "https://open.spotify.com/artist/2Ba1UolAMuBTKpfAlHzVM5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218321,
+      "name": "Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/2pFXuJlP2S94gy30l9Lhg8"
+    },
+    {
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -1362,6 +1380,24 @@
       "duration_ms": 201023,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/44Qgkt6lXthGoUrdOXde78"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198746,
+      "name": "Anfibia Por Veces",
+      "url": "https://open.spotify.com/track/0fFtmexbKrdPHW3TyfeAxP"
     },
     {
       "album": {
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 248573,
       "name": "Casa - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE"
@@ -5724,7 +5760,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 269227,
       "name": "El poder sobre una misma",
       "url": "https://open.spotify.com/track/2hFJg5jDMplGOM2ZST6wG0"
@@ -7724,7 +7760,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 196773,
       "name": "Junto al Mar",
       "url": "https://open.spotify.com/track/4CGc5eb3VcC8zDkRWpN5r1"
@@ -8392,7 +8428,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 244829,
       "name": "La maleza",
       "url": "https://open.spotify.com/track/1OcthnIlVcqN6Tqlvcz2Ny"
@@ -8538,6 +8574,28 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
+    },
+    {
+      "album": {
+        "name": "La Menudita",
+        "url": "https://open.spotify.com/album/3p212me26fRQCxndhwIPUY"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Comas",
+          "url": "https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb"
+        },
+        {
+          "name": "Sonex",
+          "url": "https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "La Menudita",
+      "url": "https://open.spotify.com/track/7KHDOXDm0rnN2lRrdyrpIy"
     },
     {
       "album": {
@@ -9430,7 +9488,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 231400,
       "name": "Lo bueno y lo malo",
       "url": "https://open.spotify.com/track/1Geka2pzFyEdWrBz8hSKYI"
@@ -10884,7 +10942,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 163242,
       "name": "Mi vida en partes muy peque\u00f1as",
       "url": "https://open.spotify.com/track/3FLacnDOiyKqUFUT1QEJjB"
@@ -12703,6 +12761,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Iwasaki",
+          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223018,
+      "name": "Ojos Tierra",
+      "url": "https://open.spotify.com/track/14kShgOA3LTzgnsdvw19n7"
+    },
+    {
+      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -13589,6 +13665,28 @@
     },
     {
       "album": {
+        "name": "Pez Mago & Luis Ramiro \"El hombre de la habitaci\u00f3n de al lado\"",
+        "url": "https://open.spotify.com/album/0nS92gw1K9QzfFPo6btz00"
+      },
+      "artists": [
+        {
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+        },
+        {
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Pez Mago & Luis Ramiro \"El hombre de la habitaci\u00f3n de al lado\"",
+      "url": "https://open.spotify.com/track/4LwFnUI9jshmsCb935OLX1"
+    },
+    {
+      "album": {
         "name": "Piel de Chocolate",
         "url": "https://open.spotify.com/album/5g1fEzk22bhr46WFzg7pRw"
       },
@@ -13866,6 +13964,24 @@
       "duration_ms": 285560,
       "name": "PRIEGO M\u00cdO",
       "url": "https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV"
+    },
+    {
+      "album": {
+        "name": "Primer Amor",
+        "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146654,
+      "name": "Primer Amor",
+      "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
     },
     {
       "album": {
@@ -14650,6 +14766,24 @@
       "duration_ms": 195072,
       "name": "Qu\u00edtate de Piropitos",
       "url": "https://open.spotify.com/track/682qX497ctBA4VJcJ8cKLB"
+    },
+    {
+      "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/23I4Zjla5JnwLtUOuj6kFY"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310840,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/61tKFdvTjLOM0trK7HfI2v"
     },
     {
       "album": {
@@ -16407,6 +16541,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1fica",
+        "url": "https://open.spotify.com/album/5oNrkthEhjKCotTFqUsmlF"
+      },
+      "artists": [
+        {
+          "name": "Paula Felices",
+          "url": "https://open.spotify.com/artist/4umN3hOu4rOYz2d9SfTVGf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "S\u00e1fica",
+      "url": "https://open.spotify.com/track/2l4LwK58Mlj0LAfaxtMEQe"
+    },
+    {
+      "album": {
         "name": "Tramuntana",
         "url": "https://open.spotify.com/album/6rJS2TGjVKNgIyhnw9Q05t"
       },
@@ -17456,7 +17608,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 166562,
       "name": "Toma de tierra",
       "url": "https://open.spotify.com/track/5d7LLgfpS2YzmNXORofpAK"
@@ -18500,7 +18652,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201073,
       "name": "Vendr\u00eda Bien",
       "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
@@ -18562,7 +18714,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 285647,
       "name": "Vente vindo",
       "url": "https://open.spotify.com/track/4HkDB1tgycbxhRvAKddBzj"

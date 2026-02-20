@@ -1,12 +1,12 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Carla Franco and Sophia Frank",
-  "num_followers": 26844,
+  "description": "The best new and classic South African Rock. Cover: RICKY",
+  "num_followers": 26851,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFx1Ssdzjg5u5Cj/R7z3J31QQ6Qg",
+  "snapshot_id": "AAAAAJnmGLuL/2hAW/raaL/AOptstU/K",
   "tracks": [
     {
       "added_at": "2026-02-13 07:48:27",
@@ -39,6 +39,22 @@
       "duration_ms": 193893,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+    },
+    {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "Man of The World",
+        "url": "https://open.spotify.com/album/4RYCzCqQEA5bmtXBvR3yKu"
+      },
+      "artists": [
+        {
+          "name": "RICKY",
+          "url": "https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Man of The World",
+      "url": "https://open.spotify.com/track/1jn1kPDbtL3Fe7nvapndJ4"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -77,24 +93,20 @@
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
-      "added_at": "2026-02-13 07:48:27",
+      "added_at": "2026-02-19 22:00:22",
       "album": {
-        "name": "If I Wanted You",
-        "url": "https://open.spotify.com/album/4evHwgQfQWqkjFutDPfwV1"
+        "name": "All",
+        "url": "https://open.spotify.com/album/7wvQvWqkqM6ZM2PyHV1eAY"
       },
       "artists": [
         {
-          "name": "Carla Franco",
-          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
-        },
-        {
-          "name": "Sophia Frank",
-          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
         }
       ],
-      "duration_ms": 187000,
-      "name": "If I Wanted You",
-      "url": "https://open.spotify.com/track/0tr8i60WsBjNfFOobf41Qj"
+      "duration_ms": 248000,
+      "name": "All",
+      "url": "https://open.spotify.com/track/6GmGUYOxLvvYQagDTu8EQ8"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -113,6 +125,22 @@
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "Vreemdeling",
+        "url": "https://open.spotify.com/album/68YgMlYaa0qwzdw5IXlnrI"
+      },
+      "artists": [
+        {
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "Vreemdeling",
+      "url": "https://open.spotify.com/track/0Jt4NE9vkQlujPP3LKOKsA"
+    },
+    {
       "added_at": "2026-02-13 07:48:27",
       "album": {
         "name": "SELFBEWUS",
@@ -127,6 +155,22 @@
       "duration_ms": 192794,
       "name": "SELFBEWUS",
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+    },
+    {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "HEY JY!",
+        "url": "https://open.spotify.com/album/7oER5bkdggl0d5r9PV3nzr"
+      },
+      "artists": [
+        {
+          "name": "Simeon Kriel",
+          "url": "https://open.spotify.com/artist/6gMmN8h1L9X9H6dVllgltp"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "HEY JY!",
+      "url": "https://open.spotify.com/track/7I5nUTcz1ZBkxBnf228i2L"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -169,24 +213,36 @@
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
-      "added_at": "2026-02-13 07:48:27",
+      "added_at": "2026-02-19 22:00:22",
       "album": {
-        "name": "Noorderlig",
-        "url": "https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus"
+        "name": "Bottle It Up",
+        "url": "https://open.spotify.com/album/7H7OEEYaAMLoj59WUmbN0M"
       },
       "artists": [
         {
-          "name": "Joshua Na Die Re\u00ebn",
-          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
-        },
-        {
-          "name": "Seuns van Vlug",
-          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+          "name": "Metro Villa",
+          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
         }
       ],
-      "duration_ms": 273267,
-      "name": "Noorderlig",
-      "url": "https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo"
+      "duration_ms": 253913,
+      "name": "Bottle It Up",
+      "url": "https://open.spotify.com/track/3gfqfX6zVUL6gZD0ZJ8uu7"
+    },
+    {
+      "added_at": "2026-02-13 07:48:27",
+      "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -211,34 +267,18 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Pierre Stemmett",
+          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "I'm Afraid of Americans",
-        "url": "https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa"
-      },
-      "artists": [
-        {
-          "name": "JaeXlynne",
-          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
-        }
-      ],
-      "duration_ms": 279327,
-      "name": "I'm Afraid of Americans",
-      "url": "https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA"
+      "duration_ms": 275500,
+      "name": "Fever - Single Edit",
+      "url": "https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -279,22 +319,6 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Stemmett",
-          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Fever - Single Edit",
-      "url": "https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -311,42 +335,6 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "The Door",
-        "url": "https://open.spotify.com/album/4R4Pc3nwMzmveOiAedDal1"
-      },
-      "artists": [
-        {
-          "name": "Kayla The Crow",
-          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
-        },
-        {
-          "name": "Sannie Fox",
-          "url": "https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/6k9OTAIHa2qy7L8eXIR8Rr"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -399,18 +387,18 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
       "artists": [
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -431,18 +419,18 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
       },
       "artists": [
         {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -463,6 +451,22 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
+      },
+      "artists": [
+        {
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
+    },
+    {
+      "added_at": "2026-02-13 07:48:27",
+      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -475,22 +479,6 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Damp",
-        "url": "https://open.spotify.com/album/346ARwCkck8Ir70t3cyxaJ"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "duration_ms": 337391,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/2xitvOthYS3nfCrW6aoY4Z"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -527,6 +515,22 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-02-13 07:48:27",
+      "album": {
         "name": "Stellies (feat. Rooksein)",
         "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
       },
@@ -547,22 +551,6 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
@@ -575,6 +563,26 @@
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+    },
+    {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "Girl of Your Dreams",
+        "url": "https://open.spotify.com/album/1M7pZqdzk1LZ1acvorjyO5"
+      },
+      "artists": [
+        {
+          "name": "After Wonderland",
+          "url": "https://open.spotify.com/artist/0e1yYYy2gLHF7A79auhxME"
+        },
+        {
+          "name": "Rob Visser",
+          "url": "https://open.spotify.com/artist/7aAFWnp0mf88MpytMkPLsf"
+        }
+      ],
+      "duration_ms": 203139,
+      "name": "Girl of Your Dreams",
+      "url": "https://open.spotify.com/track/2Ll6ZvvOQSmV7xiMUJfLUN"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -593,6 +601,22 @@
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "Le\u00eb Hande",
+        "url": "https://open.spotify.com/album/2d46u4ycSJGfTgKDUtEybl"
+      },
+      "artists": [
+        {
+          "name": "Stanley June",
+          "url": "https://open.spotify.com/artist/1KtOYpS9LMp4YCLanNye4W"
+        }
+      ],
+      "duration_ms": 189590,
+      "name": "Le\u00eb Hande",
+      "url": "https://open.spotify.com/track/5j7du9LOs4zKtDH2VG7YLy"
+    },
+    {
       "added_at": "2026-02-13 07:48:27",
       "album": {
         "name": "Revolusie, Romantiek, Ruk en Rol",
@@ -607,6 +631,22 @@
       "duration_ms": 175866,
       "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
+    },
+    {
+      "added_at": "2026-02-19 22:00:22",
+      "album": {
+        "name": "How The West Was Lost",
+        "url": "https://open.spotify.com/album/2L6Ckr7Kk8TaKRcLpXKuRD"
+      },
+      "artists": [
+        {
+          "name": "Plum",
+          "url": "https://open.spotify.com/artist/1Qk7agLChgxU9oXkBYlbEw"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "How The West Was Lost",
+      "url": "https://open.spotify.com/track/4egZr6rlVZJcS4cmfr16Ys"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -691,6 +731,26 @@
     {
       "added_at": "2026-02-13 07:48:27",
       "album": {
+        "name": "Noorderlig",
+        "url": "https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "duration_ms": 273267,
+      "name": "Noorderlig",
+      "url": "https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo"
+    },
+    {
+      "added_at": "2026-02-13 07:48:27",
+      "album": {
         "name": "Berge",
         "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
       },
@@ -719,6 +779,22 @@
       "duration_ms": 252108,
       "name": "Sonde",
       "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
+    },
+    {
+      "added_at": "2026-02-13 07:48:27",
+      "album": {
+        "name": "I'm Afraid of Americans",
+        "url": "https://open.spotify.com/album/2xRVDJuLOXOpfpkcvZMgCa"
+      },
+      "artists": [
+        {
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+        }
+      ],
+      "duration_ms": 279327,
+      "name": "I'm Afraid of Americans",
+      "url": "https://open.spotify.com/track/2llxtfarQAta5xhYZsq6EA"
     },
     {
       "added_at": "2026-02-13 07:48:27",
@@ -767,86 +843,6 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
-      },
-      "artists": [
-        {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Dis 'N Land",
-      "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Die Tuindwergies",
-        "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
-      },
-      "artists": [
-        {
-          "name": "Die Tuindwergies",
-          "url": "https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Kopskudkinders",
-      "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Jou Tyd Is Nou",
-        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Jou Tyd Is Nou",
-      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
-    },
-    {
-      "added_at": "2026-02-13 07:48:27",
-      "album": {
-        "name": "Pink Hell (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 185913,
-      "name": "Fire Sign",
-      "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
     }
   ],
   "unique_name": "SA Rock ",

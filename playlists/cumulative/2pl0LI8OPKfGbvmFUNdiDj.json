@@ -5005,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "Something You Know",
+        "url": "https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197269,
+      "name": "Something You Know",
+      "url": "https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD"
+    },
+    {
+      "album": {
         "name": "Cornbread and Whiskey",
         "url": "https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg"
       },

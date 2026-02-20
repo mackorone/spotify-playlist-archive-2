@@ -600,6 +600,32 @@
       },
       "artists": [
         {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157320,
+      "name": "Hear My Prayer, O Lord, Z. 15",
+      "url": "https://open.spotify.com/track/1bxJ4AfXaypb0TPkdJMAUx"
+    },
+    {
+      "album": {
+        "name": "Faire Is the Heaven: Music Of the English Church",
+        "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
+      },
+      "artists": [
+        {
           "name": "Thomas Tallis",
           "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
         },
@@ -696,7 +722,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186293,
       "name": "IV. Waltz",
       "url": "https://open.spotify.com/track/07ja5QOXSqD9h8x8bThK1H"
@@ -722,7 +748,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
@@ -967,6 +993,32 @@
     },
     {
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "O vos omnes",
+      "url": "https://open.spotify.com/track/4aTIhTWsdcmNyTDgGj7Y6E"
+    },
+    {
+      "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
       },
@@ -1126,7 +1178,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "Requiem: III. Pie Jesu",
       "url": "https://open.spotify.com/track/1bndO90NBmUw1kZD5IBIJy"
@@ -1540,7 +1592,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186373,
       "name": "The Peace of God",
       "url": "https://open.spotify.com/track/18anoHiEknIEcN7KYydspy"

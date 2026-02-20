@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 8 hr 15 min
+177 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't Shit](https://open.spotify.com/track/2NPi3iQsP41qKzCX1VMKy5) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Ain't Shit](https://open.spotify.com/album/6AxS2i3Khsq8EtiIPwsjBs) | 2:31 | 2025-06-01 |  |
 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 | 2025-06-01 |  |
 | [Army](https://open.spotify.com/track/0QhTNUkt7EJxQ4125Itf1K) | [Diamond Street Keem](https://open.spotify.com/artist/0gzOLStOIme1yKDVTa4mub) | [Army](https://open.spotify.com/album/5bRdL2XWci1GyqXDRPZz0K) | 2:34 | 2025-06-01 |  |
+| [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 | 2026-02-19 |  |
 | [Awake](https://open.spotify.com/track/5rUIMX544uJUMYJ3ibuGY5) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:00 | 2025-06-01 |  |
 | [Away Forever](https://open.spotify.com/track/2P3svitvKgeUuM0RRWI1em) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Away Forever](https://open.spotify.com/album/1Ktgpyg5MGLbf7Lno123iz) | 2:52 | 2025-06-01 |  |
 | [Away From Home](https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:18 | 2025-06-01 |  |
@@ -32,7 +33,8 @@
 | [Bury me \(feat\. Kelela\)](https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:04 | 2025-06-01 |  |
 | [can't fight the devil](https://open.spotify.com/track/3ZXOE3r6EP8EqWz40uuyIr) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 3:29 | 2025-06-01 |  |
 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 | 2025-06-01 |  |
-| [CELEBRATE LIFE](https://open.spotify.com/track/6FagVvK1pxw7dflOgAZG0G) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ant Beale](https://open.spotify.com/artist/5AR8oVaAhBu6x3W9AoluKp), [DRAM](https://open.spotify.com/artist/1V8JxzFgX6DRXjpW65na1D) | [FIREWORKS](https://open.spotify.com/album/6RfdJTFUBXrseitaphVXdA) | 3:19 | 2025-06-01 |  |
+| [CELEBRATE LIFE](https://open.spotify.com/track/6FagVvK1pxw7dflOgAZG0G) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ant Beale](https://open.spotify.com/artist/5AR8oVaAhBu6x3W9AoluKp), [DRAM](https://open.spotify.com/artist/1V8JxzFgX6DRXjpW65na1D) | [FIREWORKS](https://open.spotify.com/album/6RfdJTFUBXrseitaphVXdA) | 3:19 | 2025-06-01 | 2026-02-20 |
+| [Celebrate Life](https://open.spotify.com/track/7oONzp6SJp9WcemNauVWW9) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Celebrate Life](https://open.spotify.com/album/0OxXoSTpr6ht78O9o216M3) | 3:19 | 2026-02-19 |  |
 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 | 2025-06-01 |  |
 | [CLARITY](https://open.spotify.com/track/3z1z0Rjwhi6U71yv0qy85D) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:44 | 2025-06-01 |  |
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2025-06-01 |  |

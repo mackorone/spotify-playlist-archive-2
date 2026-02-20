@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Julieta.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Mar\u00eda Arnal.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195953,
       "name": "Amores de verbena",
       "url": "https://open.spotify.com/track/7wm4NpIu2TvRaWZrPXbWYA"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 215514,
       "name": "Caen Imperios",
       "url": "https://open.spotify.com/track/6wJk3x2eRy7Fo6stBr0N6z"
@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Cr\u00edtico",
+      "url": "https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a"
+    },
+    {
+      "album": {
         "name": "PERDEDOR",
         "url": "https://open.spotify.com/album/4f72KB6uVmDWxpjEHwNZL7"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 124618,
       "name": "desde arriba",
       "url": "https://open.spotify.com/track/4FduMcpNb8tgXqlnl1NfRg"
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171831,
       "name": "geniva",
       "url": "https://open.spotify.com/track/4WbUKIgHQS5XZwYIIBMx67"
@@ -7370,6 +7388,28 @@
       "duration_ms": 211500,
       "name": "Marte",
       "url": "https://open.spotify.com/track/4nfalsBWmNR6M2RqbhfVwH"
+    },
+    {
+      "album": {
+        "name": "MARTIRIO",
+        "url": "https://open.spotify.com/album/35TgBQTxcV3vjoysoSvETg"
+      },
+      "artists": [
+        {
+          "name": "Carmen Lillo",
+          "url": "https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW"
+        },
+        {
+          "name": "CCF",
+          "url": "https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148353,
+      "name": "MARTIRIO",
+      "url": "https://open.spotify.com/track/60vB4eadjfwoC6SFIqnEJ7"
     },
     {
       "album": {
@@ -9792,7 +9832,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152604,
       "name": "phill collinX",
       "url": "https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP"
@@ -10086,6 +10126,28 @@
       "duration_ms": 146065,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2"
+    },
+    {
+      "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
     },
     {
       "album": {
@@ -10672,6 +10734,24 @@
       "duration_ms": 165742,
       "name": "Robot",
       "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
+    },
+    {
+      "album": {
+        "name": "ROC\u00cdN",
+        "url": "https://open.spotify.com/album/4PZoJ2HR5YWjirlELbY7W5"
+      },
+      "artists": [
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187588,
+      "name": "ROC\u00cdN",
+      "url": "https://open.spotify.com/track/29A0LjKHNQj8sNlwk4ogze"
     },
     {
       "album": {
@@ -11548,7 +11628,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 157226,
       "name": "SOY PANTERA",
       "url": "https://open.spotify.com/track/4kJyo05yfAJr0deVCZMVid"
@@ -11664,6 +11744,24 @@
       "duration_ms": 165280,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Que Te Vas A Ir",
+        "url": "https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "S\u00e9 Que Te Vas A Ir",
+      "url": "https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw"
     },
     {
       "album": {
@@ -11886,6 +11984,32 @@
       "duration_ms": 224000,
       "name": "TECHNO TRISTE",
       "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
+    },
+    {
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/5ZS4XSoEXEp86YWhGwEeHz"
+      },
+      "artists": [
+        {
+          "name": "Dora Band",
+          "url": "https://open.spotify.com/artist/7xVhPBHVpiU1YPef9aHQOE"
+        },
+        {
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
+        },
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176471,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0V7SjQPNJsJ4JG2nLUzUHn"
     },
     {
       "album": {
@@ -12324,6 +12448,24 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo"
     },
     {
       "album": {
@@ -13359,6 +13501,28 @@
     },
     {
       "album": {
+        "name": "Voy a pensar en ti",
+        "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "Mundo Prestigio",
+          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "Voy a pensar en ti",
+      "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/68wPgpFpa1NpJvSBUnBI9E"
       },
@@ -13526,7 +13690,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 147541,
       "name": "Ya No Quiero Saber",
       "url": "https://open.spotify.com/track/116he6Jm6sjfVdgjC3Aynw"
@@ -13678,7 +13842,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 186214,
       "name": "Yuuuuuuuuu",
       "url": "https://open.spotify.com/track/1ltESONZwR4ypbWAcRD02U"

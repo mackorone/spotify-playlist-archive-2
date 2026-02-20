@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Jo Black, Zaan Sonnekus, Loufi, Mr Heinz en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Skemer, Arno Jordaan, Ryno Velvet, Schwabie en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211267,
       "name": "Almal Wil 'n Huisie By Die See H\u00ea",
       "url": "https://open.spotify.com/track/5k7Q5d637WZEoyZb7EnXEH"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 210623,
       "name": "As Ek M\u00f4re Nie Meer Hier Is",
       "url": "https://open.spotify.com/track/42aHc285Ilmyny26kmdGca"
@@ -5088,7 +5088,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 205107,
       "name": "Boertjie Voor My Deur",
       "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178000,
       "name": "Buitenkant 3",
       "url": "https://open.spotify.com/track/6RAAKtFZZWZaK20RZxFHyN"
@@ -9078,7 +9078,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 192096,
       "name": "Die Re\u00ebn Sal Weer Kom",
       "url": "https://open.spotify.com/track/2QvBPp8bbaRcmUV3eNT1gB"
@@ -12014,7 +12014,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201230,
       "name": "Ek Sal Veg Vir Jou",
       "url": "https://open.spotify.com/track/5D6wgUyzSYqlx5Hs5KyUgk"
@@ -12910,6 +12910,24 @@
       "duration_ms": 199876,
       "name": "Esmari",
       "url": "https://open.spotify.com/track/2Alvh5zT4bNUSWQhcsiKe5"
+    },
+    {
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/4XVW63Ydhjl2sa9x8OLA01"
+      },
+      "artists": [
+        {
+          "name": "Fabel",
+          "url": "https://open.spotify.com/artist/369Uko5udJlYpqdMWBG98X"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/2X8w7jd7KMRcy9SXA3Rjh0"
     },
     {
       "album": {
@@ -15678,6 +15696,24 @@
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "album": {
+        "name": "HEY JY!",
+        "url": "https://open.spotify.com/album/7oER5bkdggl0d5r9PV3nzr"
+      },
+      "artists": [
+        {
+          "name": "Simeon Kriel",
+          "url": "https://open.spotify.com/artist/6gMmN8h1L9X9H6dVllgltp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175922,
+      "name": "HEY JY!",
+      "url": "https://open.spotify.com/track/7I5nUTcz1ZBkxBnf228i2L"
     },
     {
       "album": {
@@ -20349,6 +20385,24 @@
     },
     {
       "album": {
+        "name": "Klasnar",
+        "url": "https://open.spotify.com/album/7v2jH1sAjeQmjvYMO3tb3X"
+      },
+      "artists": [
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144523,
+      "name": "Klasnar",
+      "url": "https://open.spotify.com/track/51eP8DrRSxTm647XiJmpsc"
+    },
+    {
+      "album": {
         "name": "Klei",
         "url": "https://open.spotify.com/album/7kEYQqClwdqAzgVBVjW7vn"
       },
@@ -20606,7 +20660,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
@@ -22002,6 +22056,24 @@
       "duration_ms": 189408,
       "name": "Kyk na my",
       "url": "https://open.spotify.com/track/5Mk0k7yeXSQoHIDE5JOFdz"
+    },
+    {
+      "album": {
+        "name": "Kyk Na My",
+        "url": "https://open.spotify.com/album/3E6c709IAkEUdMaQHEAYLh"
+      },
+      "artists": [
+        {
+          "name": "Zian\u00e9 Saayman",
+          "url": "https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Kyk Na My",
+      "url": "https://open.spotify.com/track/2LMHFQZRyA8sljdHf34HFU"
     },
     {
       "album": {
@@ -23423,6 +23495,24 @@
     },
     {
       "album": {
+        "name": "Le\u00eb Hande",
+        "url": "https://open.spotify.com/album/2d46u4ycSJGfTgKDUtEybl"
+      },
+      "artists": [
+        {
+          "name": "Stanley June",
+          "url": "https://open.spotify.com/artist/1KtOYpS9LMp4YCLanNye4W"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189590,
+      "name": "Le\u00eb Hande",
+      "url": "https://open.spotify.com/track/5j7du9LOs4zKtDH2VG7YLy"
+    },
+    {
+      "album": {
         "name": "Lief",
         "url": "https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2"
       },
@@ -24013,6 +24103,24 @@
     },
     {
       "album": {
+        "name": "Lig Bly Lig",
+        "url": "https://open.spotify.com/album/0KurYLDUdMgbUNUFyl1rJV"
+      },
+      "artists": [
+        {
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216236,
+      "name": "Lig Bly Lig",
+      "url": "https://open.spotify.com/track/1z5BkhNtgSAwDL2WBtP5bR"
+    },
+    {
+      "album": {
         "name": "Lig Die Dak",
         "url": "https://open.spotify.com/album/5YRe8s8smoWsA1eNPtB82k"
       },
@@ -24252,6 +24360,24 @@
       "duration_ms": 213000,
       "name": "Loopdop",
       "url": "https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r"
+    },
+    {
+      "album": {
+        "name": "Lorrie Man",
+        "url": "https://open.spotify.com/album/7nIi4eLKSWy1MakCBzwtgy"
+      },
+      "artists": [
+        {
+          "name": "Anton Myburgh",
+          "url": "https://open.spotify.com/artist/2N3mX8xtXgCJwaQYjm2qr4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "Lorrie Man",
+      "url": "https://open.spotify.com/track/4v1jjGwNJ2cKYfhzjo1cfb"
     },
     {
       "album": {
@@ -24591,6 +24717,24 @@
     },
     {
       "album": {
+        "name": "Maak Nie Saak Nie",
+        "url": "https://open.spotify.com/album/3vTMwBtyS5o8jEj6P9Bnur"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162962,
+      "name": "Maak Nie Saak Nie",
+      "url": "https://open.spotify.com/track/6xQF8T0FooSCQqYFeB7HpY"
+    },
+    {
+      "album": {
         "name": "Maak of Breek Awd Remix",
         "url": "https://open.spotify.com/album/5bqyafBCdIoCHavx3TTzF1"
       },
@@ -24870,6 +25014,24 @@
       "duration_ms": 210196,
       "name": "Mal Meisies",
       "url": "https://open.spotify.com/track/1DybT0BdzRNbO1Tk1pzUtk"
+    },
+    {
+      "album": {
+        "name": "Mamma Kan Tog Toor",
+        "url": "https://open.spotify.com/album/0F60Dg5xSfoNcGWg2e3Nwb"
+      },
+      "artists": [
+        {
+          "name": "Chris van der Westhuizen",
+          "url": "https://open.spotify.com/artist/29f30cR7q8nOrYRHLewv69"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181684,
+      "name": "Mamma Kan Tog Toor",
+      "url": "https://open.spotify.com/track/4t0kLaOquvPnv6pV1N9dLn"
     },
     {
       "album": {
@@ -26616,6 +26778,24 @@
       "duration_ms": 193125,
       "name": "My Lig Skyn Helder",
       "url": "https://open.spotify.com/track/16BnjCHFlx1Q2vzv8Km9xv"
+    },
+    {
+      "album": {
+        "name": "My Maat",
+        "url": "https://open.spotify.com/album/7zFsKy6Edq0awvbOAZV3lX"
+      },
+      "artists": [
+        {
+          "name": "Ou Tekkies",
+          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202249,
+      "name": "My Maat",
+      "url": "https://open.spotify.com/track/789MdR28g4exOVq623vgdV"
     },
     {
       "album": {
@@ -29211,6 +29391,24 @@
     },
     {
       "album": {
+        "name": "Om Jou Weer Heel Te Maak",
+        "url": "https://open.spotify.com/album/35I6kxZbmS4SATfnoEDgkT"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214709,
+      "name": "Om Jou Weer Heel Te Maak",
+      "url": "https://open.spotify.com/track/3eW0A1PjFsJbJQSzSYvFlI"
+    },
+    {
+      "album": {
         "name": "om myself te vind",
         "url": "https://open.spotify.com/album/1LmE3OEfeJMRxB0xbixCtr"
       },
@@ -29512,6 +29710,24 @@
       "duration_ms": 204812,
       "name": "Ons Gaan Laag",
       "url": "https://open.spotify.com/track/1ZIGOZIrqJdnVkJcMDApw2"
+    },
+    {
+      "album": {
+        "name": "Ons Het Belowe",
+        "url": "https://open.spotify.com/album/4snFgfquHCCYzAFCsAc36d"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "Ons Het Belowe",
+      "url": "https://open.spotify.com/track/647fgWTUHZ6ZiFNx2Ha5qq"
     },
     {
       "album": {
@@ -31646,7 +31862,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 198362,
       "name": "Poppe Dans",
       "url": "https://open.spotify.com/track/5xRb7jWy9ZGFxEvjsCct5R"
@@ -33118,7 +33334,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 296000,
       "name": "Saam",
       "url": "https://open.spotify.com/track/1MXjxlY6rt5zzv0gq3KNN8"
@@ -36194,7 +36410,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 184943,
       "name": "Soos Pappa",
       "url": "https://open.spotify.com/track/2FGW1G3fCoxQ8wbAKwFLKG"
@@ -37621,6 +37837,24 @@
     },
     {
       "album": {
+        "name": "Stroomop",
+        "url": "https://open.spotify.com/album/3GGFp6RfAlVw6jS1ADRXPO"
+      },
+      "artists": [
+        {
+          "name": "Skemer",
+          "url": "https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190624,
+      "name": "Stroomop",
+      "url": "https://open.spotify.com/track/59FdttbtVsOqJaXyXbR8qv"
+    },
+    {
+      "album": {
         "name": "STUKKIE",
         "url": "https://open.spotify.com/album/04HnpJFKeZWaVwjJIUOj1s"
       },
@@ -38458,7 +38692,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 200704,
       "name": "Te Laat",
       "url": "https://open.spotify.com/track/0vCl4unZggtG0YQEcTtzqF"
@@ -39822,7 +40056,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 204358,
       "name": "Tydloos saam met jou",
       "url": "https://open.spotify.com/track/0DaZqxvsGsnMY5A4DIZDP4"
@@ -42348,6 +42582,24 @@
     {
       "album": {
         "name": "Vreemdeling",
+        "url": "https://open.spotify.com/album/68YgMlYaa0qwzdw5IXlnrI"
+      },
+      "artists": [
+        {
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208551,
+      "name": "Vreemdeling",
+      "url": "https://open.spotify.com/track/0Jt4NE9vkQlujPP3LKOKsA"
+    },
+    {
+      "album": {
+        "name": "Vreemdeling",
         "url": "https://open.spotify.com/album/2Qg9EidfWw1M4XbgDkjcmz"
       },
       "artists": [
@@ -42788,7 +43040,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 130146,
       "name": "Vyftigers Tune",
       "url": "https://open.spotify.com/track/6dk9R3ra6KqchohUszVqXL"
@@ -43664,7 +43916,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 283767,
       "name": "Weerlig",
       "url": "https://open.spotify.com/track/0tbyO5Q0gKn7NDZtXesH8S"

@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207187,
       "name": "All the Light Within",
       "url": "https://open.spotify.com/track/1acd7rw70KEHGpYcIP2nT6"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 243166,
       "name": "Anima Rhythm",
       "url": "https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211973,
       "name": "Ant Sandwich",
       "url": "https://open.spotify.com/track/48MaeYhgUAN64sHd9EIkPP"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167250,
       "name": "Body and Mind",
       "url": "https://open.spotify.com/track/712Ho8tceR7yJXKt0mtDGc"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 516991,
       "name": "C# Pygmy",
       "url": "https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G"
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Chandrika Veena",
+        "url": "https://open.spotify.com/album/0NC716QDDcxeJxc26KytEj"
+      },
+      "artists": [
+        {
+          "name": "Liam Callahan",
+          "url": "https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130265,
+      "name": "Chandrika Veena",
+      "url": "https://open.spotify.com/track/6ya3UDMa9XRcY3h3irhzQw"
+    },
+    {
+      "album": {
         "name": "Trance Zen Dance",
         "url": "https://open.spotify.com/album/1pBMmdgLTkx4qUNMREa6KW"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 170931,
       "name": "Dancing Stardust",
       "url": "https://open.spotify.com/track/04lgDJZG1wsGpgugqOP5zD"
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Depth of it",
+        "url": "https://open.spotify.com/album/4UQl5iVANZtxn1jb8oImNd"
+      },
+      "artists": [
+        {
+          "name": "Turtle Man.",
+          "url": "https://open.spotify.com/artist/5Gib53WHQDHw7pCPbpH6Pb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162895,
+      "name": "Depth of it",
+      "url": "https://open.spotify.com/track/12hbT84Zmtk9AbegIhlo3m"
+    },
+    {
+      "album": {
         "name": "Divya",
         "url": "https://open.spotify.com/album/0Vmffb5uWJhXs6zi8U9mI3"
       },
@@ -828,7 +864,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 219168,
       "name": "Downward Facing Dog",
       "url": "https://open.spotify.com/track/0QsBIO39QRGUTiTq3aYM0R"
@@ -868,6 +904,42 @@
       "duration_ms": 173203,
       "name": "Earth Dance",
       "url": "https://open.spotify.com/track/4maygfMYgTjmLYC5byUjo0"
+    },
+    {
+      "album": {
+        "name": "Echo in the Wind",
+        "url": "https://open.spotify.com/album/3k43eb0XuldxNtLjnedgb5"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169445,
+      "name": "Echo in the Wind",
+      "url": "https://open.spotify.com/track/1psBYF7JpmN7x3leanhewE"
+    },
+    {
+      "album": {
+        "name": "Echoes of Andromeda",
+        "url": "https://open.spotify.com/album/71xoxPnpQiwwXzzdnwtufo"
+      },
+      "artists": [
+        {
+          "name": "Above Neon",
+          "url": "https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Echoes of Andromeda",
+      "url": "https://open.spotify.com/track/4vPlmfYOYL3H2eH3tqF1uh"
     },
     {
       "album": {
@@ -936,7 +1008,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 174853,
       "name": "Endless Rivers",
       "url": "https://open.spotify.com/track/2uqquTxKRfbZ8eUf311jVd"
@@ -954,7 +1026,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 157928,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/2uwlMSZxMKjfmbhh1URY65"
@@ -990,7 +1062,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 202951,
       "name": "Ethnic Spirit",
       "url": "https://open.spotify.com/track/5F2sIZrGyOOdu1pnLRMcHb"
@@ -1070,7 +1142,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 190253,
       "name": "Feel Good (feat. myndstream)",
       "url": "https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl"
@@ -1142,7 +1214,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 135677,
       "name": "Flowing Springs",
       "url": "https://open.spotify.com/track/2hae859R6E2XJuyIMwmhzC"
@@ -1323,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Garden Pathway",
+        "url": "https://open.spotify.com/album/7f3Kl9HRmWppQNpWSUkbYK"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160751,
+      "name": "Garden Pathway",
+      "url": "https://open.spotify.com/track/3thFjFmC5lrE07JEKWg0IU"
+    },
+    {
+      "album": {
         "name": "Gentle Rhythms",
         "url": "https://open.spotify.com/album/7HL6P1kM1b9LU4aaBcLMZI"
       },
@@ -1370,7 +1460,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 130000,
       "name": "Hang Drum - Water Sounds",
       "url": "https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs"
@@ -1450,6 +1540,24 @@
       "duration_ms": 216672,
       "name": "Hypnosis Practice",
       "url": "https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH"
+    },
+    {
+      "album": {
+        "name": "In The Core",
+        "url": "https://open.spotify.com/album/63gBpNhYE75TEr0QGBinWX"
+      },
+      "artists": [
+        {
+          "name": "Terra Lungo",
+          "url": "https://open.spotify.com/artist/5ncCllyNsZfHdhTb42G2H7"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178619,
+      "name": "In The Core",
+      "url": "https://open.spotify.com/track/4NMDH75LphYjWGkx8gN1an"
     },
     {
       "album": {
@@ -1536,7 +1644,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 354893,
       "name": "Indu",
       "url": "https://open.spotify.com/track/4UimAfSmis906EWI5ZrZgz"
@@ -1576,6 +1684,24 @@
       "duration_ms": 164349,
       "name": "Inner Dance",
       "url": "https://open.spotify.com/track/69nypj8gpPFz6SucdJbKMA"
+    },
+    {
+      "album": {
+        "name": "Inner healing",
+        "url": "https://open.spotify.com/album/1IiFlQ69seGAgGCp2BiHGv"
+      },
+      "artists": [
+        {
+          "name": "Auricz",
+          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166932,
+      "name": "Inner healing",
+      "url": "https://open.spotify.com/track/79G4WIP4K1OglpFFOgcABb"
     },
     {
       "album": {
@@ -1774,7 +1900,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 282000,
       "name": "Lost Treasures",
       "url": "https://open.spotify.com/track/1rV4lmkwXPVJl5styxffBR"
@@ -2188,7 +2314,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193720,
       "name": "News From New Zealand",
       "url": "https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj"
@@ -2278,7 +2404,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 162617,
       "name": "Orange Crush",
       "url": "https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o"
@@ -2318,10 +2444,28 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 132765,
       "name": "Pay the price",
       "url": "https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6"
+    },
+    {
+      "album": {
+        "name": "Peaceful Patterns",
+        "url": "https://open.spotify.com/album/2XQo9u5w65gErttR9urNmL"
+      },
+      "artists": [
+        {
+          "name": "Suntam",
+          "url": "https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Peaceful Patterns",
+      "url": "https://open.spotify.com/track/5IZa9OYyWoCGktdJPaGbut"
     },
     {
       "album": {
@@ -2398,6 +2542,24 @@
       "duration_ms": 282000,
       "name": "Powerfull Ra",
       "url": "https://open.spotify.com/track/0Ddy6MDY9iivXKPCX4EvDV"
+    },
+    {
+      "album": {
+        "name": "Precense",
+        "url": "https://open.spotify.com/album/55jOmIXPNvKbreG5wJ9Gxw"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176740,
+      "name": "Precense",
+      "url": "https://open.spotify.com/track/7ua4zXqEuQ2T6nJJWgJYp3"
     },
     {
       "album": {
@@ -2484,7 +2646,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178409,
       "name": "Rhythm from Heart",
       "url": "https://open.spotify.com/track/3VubNnjazv74glZW5bwCR1"
@@ -2502,7 +2664,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 146494,
       "name": "Rhythm of You",
       "url": "https://open.spotify.com/track/1BXUdFKa5z9PAovnLyraRf"
@@ -2524,6 +2686,24 @@
       "duration_ms": 199319,
       "name": "Rhythmic Odyssey",
       "url": "https://open.spotify.com/track/5iIJxhyD7Aile3v11sWZza"
+    },
+    {
+      "album": {
+        "name": "Ritu Jharna",
+        "url": "https://open.spotify.com/album/3JxBRe5J7XwdsOhSeMt9nN"
+      },
+      "artists": [
+        {
+          "name": "Anapanasati",
+          "url": "https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162900,
+      "name": "Ritu Jharna",
+      "url": "https://open.spotify.com/track/6Fot5VjvuR9AsYu5nQKSBY"
     },
     {
       "album": {
@@ -2574,7 +2754,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 176041,
       "name": "River Hymn",
       "url": "https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3"
@@ -2754,7 +2934,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 234161,
       "name": "Shamanic Journeywork",
       "url": "https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY"
@@ -3010,7 +3190,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165250,
       "name": "Sunrise Rhythm",
       "url": "https://open.spotify.com/track/6BrvOJmKsMrld46VFYDUK7"
@@ -3230,7 +3410,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 197772,
       "name": "Tribal Drums Music",
       "url": "https://open.spotify.com/track/4HzvPSVGo7HsPLYCM8Q7kE"

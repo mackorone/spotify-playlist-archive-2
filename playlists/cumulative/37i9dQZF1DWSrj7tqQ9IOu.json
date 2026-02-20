@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Vendredi sur Mer",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Heroe",
   "name": "Indie France",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 149747,
       "name": "Avis de temp\u00eate",
       "url": "https://open.spotify.com/track/2CIVM7mLxcb3cmwkWC9L9h"
@@ -3911,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Est-ce que \u00e7a vaut la peine ?",
+        "url": "https://open.spotify.com/album/3wBGjgh4JyfwDFkcYBCONY"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198292,
+      "name": "Est-ce que \u00e7a vaut la peine ?",
+      "url": "https://open.spotify.com/track/0o3M448avTpOtZk8Hp2xEY"
+    },
+    {
+      "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
@@ -5993,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "Infinite Beach",
+        "url": "https://open.spotify.com/album/15H3tSTUGmje1IOkoAQGuX"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Infinite Beach",
+      "url": "https://open.spotify.com/track/2hq1733Z2sfUT57d4f8IXC"
+    },
+    {
+      "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
@@ -6200,7 +6236,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 168247,
       "name": "J'aime cette fille",
       "url": "https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf"
@@ -7192,7 +7228,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 134846,
       "name": "La pomme",
       "url": "https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R"
@@ -8180,7 +8216,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165707,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
@@ -8608,6 +8644,24 @@
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "album": {
+        "name": "Mec normal",
+        "url": "https://open.spotify.com/album/6SSV4PIUjTKY9U4uY5OpR4"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147371,
+      "name": "Mec normal",
+      "url": "https://open.spotify.com/track/3Nwqs1Rc4d7UzThsoV60o6"
     },
     {
       "album": {
@@ -12785,6 +12839,24 @@
     },
     {
       "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/4Ty4ZoeuOeJ18HDcRneApU"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "ta peau, ma peau",
+      "url": "https://open.spotify.com/track/3M0FOj8R8WD3VxdZEZRNl0"
+    },
+    {
+      "album": {
         "name": "Tactile",
         "url": "https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6"
       },
@@ -13627,6 +13699,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -13754,7 +13844,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 168597,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae"

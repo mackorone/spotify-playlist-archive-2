@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,905 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,913 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 | 50 | [way \(feat\. DJ Lambo\)](https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Lambo](https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:32 |
 
-Snapshot ID: `aZOvgAAAAAAHZFspqFCnqSZZB4STLccD`
+Snapshot ID: `aZUBAAAAAAA0l0JnlpQ3T3s46LxF5Q4p`

@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35748,
+  "num_followers": 35754,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAC2Kvm3NL2AUex12e4J+eVx",
+  "snapshot_id": "aZUBAAAAAAAY6kxHoRU7AMBPh0Q1MXZH",
   "tracks": [
     {
       "added_at": null,
@@ -451,46 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
-      },
-      "artists": [
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 186437,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "My Melancholy Baby",
-      "url": "https://open.spotify.com/track/1SDvm4WAujlsLkj0R1YCYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -511,6 +471,46 @@
       "duration_ms": 166000,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "My Melancholy Baby",
+      "url": "https://open.spotify.com/track/1SDvm4WAujlsLkj0R1YCYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+      },
+      "artists": [
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 186437,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
+      "duration_ms": 149960,
+      "name": "Naguine",
+      "url": "https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT"
     },
     {
       "added_at": null,
@@ -599,8 +599,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+        "name": "War Clouds 1940",
+        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
       "artists": [
         {
@@ -608,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 149960,
-      "name": "Naguine",
-      "url": "https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT"
+      "duration_ms": 196680,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,
@@ -635,26 +655,6 @@
       "duration_ms": 188333,
       "name": "The Sheik of Araby",
       "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Clouds 1940",
-        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
     },
     {
       "added_at": null,
@@ -839,54 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "Ol' Man River",
-      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "European Swing Giants, Vol.9: Django Reinhardt, Vol. 2,The HMV / Electrola Sessions (Recorded 1936-1937 in Paris) and Django in Brussels (The RhythmeSessions Part 2, Recorded 1942)",
         "url": "https://open.spotify.com/album/0NORmBz3eeTDS57d8wIvGU"
       },
@@ -915,6 +867,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -922,6 +922,14 @@
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
         },
         {
           "name": "Eug\u00e8ne V\u00e9es",
@@ -932,21 +940,13 @@
           "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
         },
         {
-          "name": "Andr\u00e9 Jourdan",
-          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
-        },
-        {
-          "name": "G\u00e9rard L\u00e9v\u00e9que",
-          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
-        },
-        {
-          "name": "Fred Ermelin",
-          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
         }
       ],
-      "duration_ms": 172993,
-      "name": "I Can't Give You Anything but Love",
-      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
+      "duration_ms": 181009,
+      "name": "Viper's Dream",
+      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
     },
     {
       "added_at": null,
@@ -1012,14 +1012,6 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Maurice Meunier",
-          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
-        },
-        {
-          "name": "Eddie Bernard",
-          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
-        },
-        {
           "name": "Eug\u00e8ne V\u00e9es",
           "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
         },
@@ -1028,13 +1020,21 @@
           "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
         },
         {
-          "name": "Jacques Martinon",
-          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+          "name": "Andr\u00e9 Jourdan",
+          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
+        },
+        {
+          "name": "G\u00e9rard L\u00e9v\u00e9que",
+          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
+        },
+        {
+          "name": "Fred Ermelin",
+          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
         }
       ],
-      "duration_ms": 181009,
-      "name": "Viper's Dream",
-      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
+      "duration_ms": 172993,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
     },
     {
       "added_at": null,

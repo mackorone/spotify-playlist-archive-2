@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Converge
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,478 likes - 125 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,516 likes - 125 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 15 | [THE MESS I CREATED](https://open.spotify.com/track/6qNZcXQHfuG3ZddNTNe9cd) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE MESS I CREATED](https://open.spotify.com/album/780QrDOEZULMdT1JgkdNxi) | 2:31 |
 | 16 | [See Through](https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:38 |
 | 17 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
-| 18 | [Rearranging Scars \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rearranging Scars \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
+| 18 | [REARRANGING SCARS \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [REARRANGING SCARS \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 |
 | 19 | [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 |
 | 20 | [A Beautiful Day](https://open.spotify.com/track/1KULaBpDCpq7gIZWumasLU) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES \| VISIONS](https://open.spotify.com/album/0Rh14gOoUIL9m3kR2gMBZU) | 4:45 |
 | 21 | [Die Alone](https://open.spotify.com/track/7sPLzNndlXYlriDJRcqomv) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [End Of Us](https://open.spotify.com/album/3tgeT35mV5tfT8clmooBVC) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeFtiUMSxKD.md) - [plain]
 
 > The songs that inspired "Wuthering Heights," curated by Charli xcx and Emerald Fennell\. Plus, the film's original soundtrack album by Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,468 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,692 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeFtiUMSxKD.md) - [plain]
 | 30 | [Run From Me](https://open.spotify.com/track/0AwLsPPWgYkib7HCrayqwy) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Hot Dreams](https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C) | 4:16 |
 | 31 | [Lay Me Down](https://open.spotify.com/track/2j9SiDWXChOLprv8aBIRjf) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [I Predict A Graceful Expulsion](https://open.spotify.com/album/3z2Ju3hf9Of7leBgEalMZY) | 3:11 |
 | 32 | [Three Fingers In](https://open.spotify.com/track/5zm8WgIwH4Pjkp6t6D9NkI) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 3:55 |
-| 33 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
-| 34 | [Carry Me](https://open.spotify.com/track/77Awc4FqPT73tjIKCqWKAI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/0Dn05ZrhYlqEXIfbdkNqQS) | 3:37 |
-| 35 | [The Dark Eyed Sailor \- Live](https://open.spotify.com/track/6UqQoVUSbZLjZMCRwFKwPn) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [The Mark Radcliffe Folk Sessions: Olivia Chaney \(Live\)](https://open.spotify.com/album/29wG59yyhtcPPjl6eC1fOG) | 5:00 |
-| 36 | [Flight from the City](https://open.spotify.com/track/3Sy6wgTNEp6vSgLs4EyXAf) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 6:31 |
-| 37 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
-| 38 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 |
-| 39 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
+| 33 | [Carry Me](https://open.spotify.com/track/77Awc4FqPT73tjIKCqWKAI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/0Dn05ZrhYlqEXIfbdkNqQS) | 3:37 |
+| 34 | [The Dark Eyed Sailor \- Live](https://open.spotify.com/track/6UqQoVUSbZLjZMCRwFKwPn) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [The Mark Radcliffe Folk Sessions: Olivia Chaney \(Live\)](https://open.spotify.com/album/29wG59yyhtcPPjl6eC1fOG) | 5:00 |
+| 35 | [Flight from the City](https://open.spotify.com/track/3Sy6wgTNEp6vSgLs4EyXAf) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 6:31 |
+| 36 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
+| 37 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 |
+| 38 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 
-Snapshot ID: `AAAAAJAEx9dHjnXW/hSoroQPGk6RcBXY`
+Snapshot ID: `AAAAAGKqAGT0l0QIsxZdNh5g7gwRxs9J`

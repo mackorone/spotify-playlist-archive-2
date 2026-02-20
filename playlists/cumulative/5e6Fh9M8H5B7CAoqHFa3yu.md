@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,879 songs - 4 day 16 hr 40 min
+1,882 songs - 4 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Folhas pelo chão](https://open.spotify.com/track/5pumoeoh05XWSUtePa2pyW) | [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Beto Carrara](https://open.spotify.com/album/3cdxEgI90tIyBQIVxyYGoe) | 2:42 | 2025-06-02 |  |
 | [Follow The Bassline](https://open.spotify.com/track/0Ie0iCIsMnr019R2PIzQLe) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Follow The Bassline](https://open.spotify.com/album/090Dn5JbWzxVKvmeGGTtDi) | 3:28 | 2024-03-10 |  |
 | [Follow The Dub](https://open.spotify.com/track/03FOZ92InPhhbCFMnzjWqx) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Follow The Bassline](https://open.spotify.com/album/090Dn5JbWzxVKvmeGGTtDi) | 3:31 | 2024-05-01 |  |
+| [For Myself](https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV) | [NOAH](https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk) | [For Myself](https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN) | 4:30 | 2026-02-19 |  |
 | [Forward Melodicas](https://open.spotify.com/track/5OnRyvKuHbZYSlKSzL526N) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF) | [Forward Melodicas](https://open.spotify.com/album/3XERK9rns14xbDoCtbobVn) | 3:33 | 2024-03-25 |  |
 | [Forward Melodicas \- Dub](https://open.spotify.com/track/0IOHq5lRmV4koix7SuDB7r) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF) | [Forward Melodicas](https://open.spotify.com/album/3XERK9rns14xbDoCtbobVn) | 3:47 | 2024-03-25 |  |
 | [Fotografía](https://open.spotify.com/track/54lhtiP5xava5go63Q2FBX) | [Chicoxico](https://open.spotify.com/artist/4sOjdTixz0QQCfyecNDtiD) | [Fotografía](https://open.spotify.com/album/167vnsP2xFgSfU86uo9Vgr) | 4:05 | 2025-11-08 |  |
@@ -1146,6 +1147,7 @@
 | [Niebaschil](https://open.spotify.com/track/3QkXNDZIpBxJhnrOesyiqo) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 3:39 | 2025-10-09 |  |
 | [Night in Blue](https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Night in Blue](https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY) | 2:47 | 2022-10-24 |  |
 | [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 |  |
+| [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:49 | 2026-02-20 |  |
 | [Nina plays Swiftly \(a goodbye in my garage early\)](https://open.spotify.com/track/2ptEjreHIpK9uhUuq6YCUs) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:02 | 2025-09-24 |  |
 | [Nina Sings Again \(a goodbye in my garage\)](https://open.spotify.com/track/1GeAgHaA2a0538y6ZFHD7M) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:55 | 2025-09-24 |  |
 | [No Bad Decisions Just Directions](https://open.spotify.com/track/3SesERLCdGBXWrXiVbxJC6) | [Alex Boillat](https://open.spotify.com/artist/7ss7dQcXWlSTOsFQO0p1EL) | [No Bad Decisions Just Directions](https://open.spotify.com/album/6uYr2dmxDTcVkBjlgltzvC) | 3:49 | 2025-06-02 |  |
@@ -1799,6 +1801,7 @@
 | [Who's Gonna Dance](https://open.spotify.com/track/2hphu9RhPBX53JMrwSjUuo) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 2:54 | 2024-05-01 |  |
 | [Why](https://open.spotify.com/track/43wVFd4CxjyOK62xp2Dmei) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 4:06 | 2024-05-04 |  |
 | [Why Bittersweet?](https://open.spotify.com/track/4ek6efUNSL1cCQMpoHJ1Lt) | [Woodshed Collective](https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3) | [Why Bittersweet?](https://open.spotify.com/album/5dCozzxdS9SR7RZQUGIw7k) | 4:33 | 2025-11-15 |  |
+| [why don't u love me](https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL) | [abbot crow](https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW) | [why don't u love me](https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF) | 1:37 | 2026-02-19 |  |
 | [WI A STRONG](https://open.spotify.com/track/57p6rmI3C5nw0vHW0L83Hk) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc), [LION SCRIPT](https://open.spotify.com/artist/0QWi9CV9U8mx2u9A996Fom) | [WI A STRONG](https://open.spotify.com/album/2mjnWOMJPvl9DwLfO50llz) | 3:38 | 2025-02-07 |  |
 | [Wicked Ah Come](https://open.spotify.com/track/2H22wgZL7aSUoBG6SXkbFx) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:58 | 2024-03-23 |  |
 | [Wicked Babylon](https://open.spotify.com/track/759LNjKrf2prwpu7QVnbq4) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 3:41 | 2024-05-01 |  |

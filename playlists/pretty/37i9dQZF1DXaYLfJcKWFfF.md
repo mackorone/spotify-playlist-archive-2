@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Babble Hume
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,717 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,732 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 56 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
 | 57 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
 | 58 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
-| 59 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
-| 60 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
-| 61 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
+| 59 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
+| 60 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
+| 61 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 62 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
 | 63 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f) | 2:50 |
 | 64 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
 | 65 | [Almost Famous](https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Almost Famous](https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG) | 2:46 |
-| 66 | [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 |
-| 67 | [Ayaye](https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS) | [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Muhamago](https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1), [Neil Darmon](https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy), [Marcia Buwa](https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8) | [Ayaye](https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP) | 3:23 |
+| 66 | [Ayaye](https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS) | [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Muhamago](https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1), [Neil Darmon](https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy), [Marcia Buwa](https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8) | [Ayaye](https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP) | 3:23 |
+| 67 | [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 |
 | 68 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 | 69 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
 | 70 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |

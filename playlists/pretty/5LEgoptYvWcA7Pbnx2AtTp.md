@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 173 songs - 10 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,5 +181,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 171 | [Disco Snails](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Dot](https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs) | 3:13 |
 | 172 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
 | 173 | [Get It Up](https://open.spotify.com/track/2bPZ7cEBa5SKliThdwdiK7) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P) | 2:35 |
+| 174 | [I Can't Decide](https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:46 |
 
-Snapshot ID: `AAAA8D+QY2LPjSq7r3+N4cLRfY/7bHll`
+Snapshot ID: `AAAA8Y0r2y7DCoTF1t3mBi3I+UlvDwSH`

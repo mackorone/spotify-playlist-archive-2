@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-281 songs - 18 hr 37 min
+282 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [June's a River](https://open.spotify.com/track/7Axp67HBTEHK04I3o02Xu2) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc), [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:27 | 2024-04-25 |  |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2024-04-25 |  |
 | [Laugh Track \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:24 | 2024-04-25 |  |
-| [Lean](https://open.spotify.com/track/1dg48erTxK5JVf5SJodoPW) | [Cappo Slide](https://open.spotify.com/artist/3HGdKjoHaH53eZCSZCrf3i) | [Acoustic Instrumental Sessions](https://open.spotify.com/album/3H9TkgcfeTcZP8s6d9xWZb) | 4:26 | 2025-02-08 |  |
+| [Lean](https://open.spotify.com/track/1dg48erTxK5JVf5SJodoPW) | [Cappo Slide](https://open.spotify.com/artist/3HGdKjoHaH53eZCSZCrf3i) | [Acoustic Instrumental Sessions](https://open.spotify.com/album/3H9TkgcfeTcZP8s6d9xWZb) | 4:26 | 2025-02-08 | 2026-02-20 |
+| [Lean](https://open.spotify.com/track/1zxjdDRCAQRr9zS23v1kZO) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol\. 10](https://open.spotify.com/album/5YUfOg7FEwahguhqNqrX4P) | 4:26 | 2026-02-19 |  |
 | [Let It Happen](https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:20 | 2024-07-12 |  |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2024-04-25 |  |
 | [loml](https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:37 | 2024-05-04 |  |

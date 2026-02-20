@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: LA$$A",
+  "description": "Motion & good vibes! Cover: Bokoesam & Bryan Mg",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 209700,
       "name": "90s",
       "url": "https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 155381,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 188375,
       "name": "Allerlaatste Kus",
       "url": "https://open.spotify.com/track/4PgmFTZGjBlwnS59PvmQvl"
@@ -8633,6 +8633,24 @@
     },
     {
       "album": {
+        "name": "Demure",
+        "url": "https://open.spotify.com/album/1VjdrNrh26Ndi6xLvWWdZj"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139381,
+      "name": "Demure",
+      "url": "https://open.spotify.com/track/6hg28GGtCiFQvmuqJ5scMw"
+    },
+    {
+      "album": {
         "name": "DESATAAA",
         "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
       },
@@ -8784,6 +8802,32 @@
       "duration_ms": 136615,
       "name": "Deze Is Down (feat. Alessio)",
       "url": "https://open.spotify.com/track/20cjwvKsa3aHrG6redo3xl"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4MuxVrrpni5YG1BcqVoSP6"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        },
+        {
+          "name": "Firri",
+          "url": "https://open.spotify.com/artist/0XQmrclzpHHHtDO5dOdP6Y"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1Iu7jLEn3rZUHGPblvtmII"
     },
     {
       "album": {
@@ -10537,6 +10581,24 @@
     },
     {
       "album": {
+        "name": "EURO GEEN DOLLAR",
+        "url": "https://open.spotify.com/album/4iT3Ffez53STjPQJW7S8ED"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126918,
+      "name": "EURO GEEN DOLLAR",
+      "url": "https://open.spotify.com/track/2qOndQbWu4mkc8PvCOql6f"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
@@ -10768,7 +10830,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 167647,
       "name": "FALL AGAIN",
       "url": "https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn"
@@ -14401,6 +14463,28 @@
     },
     {
       "album": {
+        "name": "Hou Me Vast",
+        "url": "https://open.spotify.com/album/2cjy3JmvMPN33c92DcETLE"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188190,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/75KqAhAByxO7EHFF76Tj0J"
+    },
+    {
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -16884,7 +16968,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173787,
       "name": "Kom Maar",
       "url": "https://open.spotify.com/track/6YJ5GZQCGmNPbuSPqbKhOv"
@@ -24591,6 +24675,32 @@
     },
     {
       "album": {
+        "name": "Op Een Go",
+        "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177346,
+      "name": "Op Een Go",
+      "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
+    },
+    {
+      "album": {
         "name": "Op Huid",
         "url": "https://open.spotify.com/album/1mauFKVEqWbJa3Ak3uGRBi"
       },
@@ -25430,6 +25540,28 @@
       "duration_ms": 214280,
       "name": "PASSA PASSA PASSA",
       "url": "https://open.spotify.com/track/6x7LwtkzFYwcCKJgvNt7Io"
+    },
+    {
+      "album": {
+        "name": "Patser",
+        "url": "https://open.spotify.com/album/2VYzkX2SSNBS6ZL8lYdYA6"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Patser",
+      "url": "https://open.spotify.com/track/0zTKvfSa0CLzav90AfZvQa"
     },
     {
       "album": {

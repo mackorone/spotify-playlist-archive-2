@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Mori Calliope",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Ado",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 230751,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 213000,
       "name": "CATCH!!!",
       "url": "https://open.spotify.com/track/6EnaMPmxQwv0Hy3sbv6yaw"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 175247,
       "name": "dedede",
       "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
@@ -4240,6 +4240,24 @@
       "duration_ms": 253314,
       "name": "I want tomorrow to come",
       "url": "https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w"
+    },
+    {
+      "album": {
+        "name": "I Want You to Tell Me the Moon is Beautiful!",
+        "url": "https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "I Want You to Tell Me the Moon is Beautiful!",
+      "url": "https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9"
     },
     {
       "album": {
@@ -7938,7 +7956,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 154835,
       "name": "PPPP (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC"
@@ -8398,6 +8416,24 @@
       "duration_ms": 122482,
       "name": "Retry Now",
       "url": "https://open.spotify.com/track/7gKt5lOImlJ2bOOcrODFQY"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212884,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7"
     },
     {
       "album": {
@@ -10857,6 +10893,24 @@
     },
     {
       "album": {
+        "name": "Vivarium",
+        "url": "https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243317,
+      "name": "Vivarium",
+      "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
+    },
+    {
+      "album": {
         "name": "WANI",
         "url": "https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK"
       },
@@ -10872,6 +10926,24 @@
       "duration_ms": 140195,
       "name": "WANI",
       "url": "https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn"
+    },
+    {
+      "album": {
+        "name": "IDOL1ST (Special Edition)",
+        "url": "https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216013,
+      "name": "Waraigusa",
+      "url": "https://open.spotify.com/track/7606gBXc0S34E96zE448t2"
     },
     {
       "album": {
@@ -11724,7 +11796,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 194530,
       "name": "\u304a\u3069\u308b\u30dd\u30f3\u30dd\u30b3\u30ea\u30f3",
       "url": "https://open.spotify.com/track/4TLPjY3Gf0xcfF8ZtgrQ42"
@@ -12158,7 +12230,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 220421,
       "name": "\u305a\u3076\u6fe1\u308c\u9b54\u6cd5\u5c11\u5973 \u963f\u6bd4\u7559\u30df\u30ba\u30ad",
       "url": "https://open.spotify.com/track/5FUj8czH3mfrdTi6a4hNKY"
@@ -12618,6 +12690,24 @@
       "duration_ms": 150124,
       "name": "\u3075\u3081\u3064\u306e\u3042\u306a\u305f",
       "url": "https://open.spotify.com/track/1jf4TZZyavDuL11sK5UdBY"
+    },
+    {
+      "album": {
+        "name": "\u3075\u308f\u8f2a",
+        "url": "https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210925,
+      "name": "\u3075\u308f\u8f2a",
+      "url": "https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi"
     },
     {
       "album": {
@@ -14399,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "5g\u306e\u5e73\u548c",
+        "url": "https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215965,
+      "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
         "url": "https://open.spotify.com/album/4kcc8GqdEyElkwYN39dRz9"
       },
@@ -15536,7 +15644,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 178383,
       "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
       "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
@@ -17656,6 +17764,24 @@
       "duration_ms": 201936,
       "name": "\u611b\u8a00\u8449",
       "url": "https://open.spotify.com/track/3EEreM1pyR4PBqfSLSfmOK"
+    },
+    {
+      "album": {
+        "name": "\u611b\u8a00\u8449V",
+        "url": "https://open.spotify.com/album/7uW6r1LE0p2VB94cCauFhk"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "\u611b\u8a00\u8449V",
+      "url": "https://open.spotify.com/track/78Kmvc9j6E8e0B1wNPVN8k"
     },
     {
       "album": {

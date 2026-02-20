@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Koe Wetzel
+> The cream of today's country crop\. Cover: Megan Moroney
 
-1,114 songs - 2 day 13 hr 4 min
+1,116 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Easy To Love](https://open.spotify.com/track/0sxoEtpGZKcelKPU3xQyAF) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Easy To Love](https://open.spotify.com/album/4fIAnqinLU9HISWz9PeCqf) | 2:18 | 2024-04-18 | 2024-07-12 |
 | [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-24 | 2025-09-27 |
 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 | 2025-11-13 |  |
+| [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 | 2026-02-19 |  |
 | [End Up With Me](https://open.spotify.com/track/4UOIb7ID8WEfWRwETcsrXK) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [End Up With Me](https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf) | 2:43 | 2023-04-27 | 2023-06-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
 | [Everything](https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Everything](https://open.spotify.com/album/4InMmBXbvnfYt2fXckBIax) | 2:38 | 2024-02-29 | 2024-06-14 |
@@ -434,7 +435,7 @@
 | [Hell on My Heart](https://open.spotify.com/track/3sXZExdTZQnBcyPRfzlyoP) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [The Long Way Home](https://open.spotify.com/album/6flZe9WaoJjVOF6ZS9824w) | 3:21 | 2023-09-28 | 2024-01-26 |
 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 | 2024-05-23 | 2024-10-18 |
 | [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-10-13 | 2023-03-18 |
-| [Help You Remember](https://open.spotify.com/track/0NDbgxEjozJOUUWk7amahQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Help You Remember](https://open.spotify.com/album/44O93Aw5e60hDtCb8V3l5P) | 3:51 | 2025-11-06 |  |
+| [Help You Remember](https://open.spotify.com/track/0NDbgxEjozJOUUWk7amahQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Help You Remember](https://open.spotify.com/album/44O93Aw5e60hDtCb8V3l5P) | 3:51 | 2025-11-06 | 2026-02-20 |
 | [Here's To The Ones](https://open.spotify.com/track/53rHehGjBUn1k6aVVezAyi) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Here's To The Ones](https://open.spotify.com/album/3HXC5LAHWGRWOQXcQsaJYO) | 3:11 | 2023-02-16 | 2023-05-26 |
 | [Heroes](https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heroes](https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj) | 3:04 | 2024-09-26 | 2025-01-24 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-14 | 2024-04-19 |
@@ -512,7 +513,7 @@
 | [If I Had a Lover](https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Songs in the Gravel](https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2) | 3:23 | 2024-03-21 | 2024-08-16 |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-12-30 | 2022-01-28 |
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2022-01-21 | 2022-06-03 |
-| [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-11-06 |  |
+| [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 | 2025-11-06 | 2026-02-20 |
 | [If There's A Heaven](https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [If There's A Heaven](https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3) | 5:01 | 2025-10-02 | 2025-12-05 |
 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 | 2023-06-08 | 2023-11-10 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-04-05 | 2024-07-19 |
@@ -632,6 +633,7 @@
 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-11 | 2022-10-21 |
 | [ME OR THE DAWN](https://open.spotify.com/track/7n3pY0rbsvj9RuOLo2Xmf1) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil](https://open.spotify.com/album/6T9rAaoXTDxE89KyDtIAUl) | 2:54 | 2025-01-16 | 2025-04-11 |
 | [Mean To Me](https://open.spotify.com/track/0agNRCX4jPTixnICS7Y5rq) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Mean To Me](https://open.spotify.com/album/2ldklRaRO2DjrfbQrErA73) | 4:06 | 2025-10-23 | 2025-11-14 |
+| [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [](https://open.spotify.com/album/null) | 3:11 | 2026-02-19 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-07 | 2025-02-14 |
 | [Memory Lane](https://open.spotify.com/track/2FsHQotAXaB8colawUzXQG) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Memory Lane](https://open.spotify.com/album/6EoqlNlbld5ks0Vy6eDYNz) | 3:30 | 2022-07-14 | 2023-01-20 |
 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 | 2023-01-19 | 2023-07-18 |

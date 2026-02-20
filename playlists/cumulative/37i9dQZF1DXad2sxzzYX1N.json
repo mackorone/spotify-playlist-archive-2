@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
+    },
+    {
+      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 265880,
       "name": "Solutions to My Gloom",
       "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
@@ -3399,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "So Divine",
+        "url": "https://open.spotify.com/album/6sWAB0wSgyGzcc30MgtLc0"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55200,
+      "name": "Twist Cone",
+      "url": "https://open.spotify.com/track/65s1uCnfmWsugThlXe4GzA"
+    },
+    {
+      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -3626,7 +3662,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 246293,
       "name": "West End Girl",
       "url": "https://open.spotify.com/track/6gafVG02AvcZou1oz7titv"

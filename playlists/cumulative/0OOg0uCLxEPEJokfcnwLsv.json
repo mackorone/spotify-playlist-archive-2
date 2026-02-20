@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Breathe In Breathe Out",
+        "url": "https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB"
+      },
+      "artists": [
+        {
+          "name": "Crimson Brooks",
+          "url": "https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121480,
+      "name": "Breathe In Breathe Out",
+      "url": "https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI"
+    },
+    {
+      "album": {
         "name": "Bring Me Down",
         "url": "https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ"
       },
@@ -3086,6 +3104,24 @@
       "duration_ms": 235453,
       "name": "My Body Says",
       "url": "https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ"
+    },
+    {
+      "album": {
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b"
+      },
+      "artists": [
+        {
+          "name": "Byron's Brigades",
+          "url": "https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186546,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2"
     },
     {
       "album": {
@@ -5316,6 +5352,24 @@
       "duration_ms": 274384,
       "name": "Vice",
       "url": "https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy"
+    },
+    {
+      "album": {
+        "name": "Vows",
+        "url": "https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h"
+      },
+      "artists": [
+        {
+          "name": "The Haptics",
+          "url": "https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195408,
+      "name": "Vows",
+      "url": "https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO"
     },
     {
       "album": {

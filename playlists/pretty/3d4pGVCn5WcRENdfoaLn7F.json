@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 513,
+  "num_followers": 517,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACwi90UKxtWhhmwWhwjIcM7Ea3mn8w",
+  "snapshot_id": "AAACx2PGvsmjkxf8TW9pBfuJwAlCrLv+",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1179,6 +1179,86 @@
       "duration_ms": 222273,
       "name": "If I Was God",
       "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
+    },
+    {
+      "added_at": "2026-02-19 16:02:49",
+      "album": {
+        "name": "Fly Eagle Fly",
+        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
+    },
+    {
+      "added_at": "2026-02-20 01:52:13",
+      "album": {
+        "name": "Warrior Chords\"",
+        "url": "https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO"
+      },
+      "artists": [
+        {
+          "name": "Armen Matevosyan",
+          "url": "https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Warrior Chords\"",
+      "url": "https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF"
+    },
+    {
+      "added_at": "2026-02-20 02:20:45",
+      "album": {
+        "name": "\u043d\u0435\u0442 \u043c\u0435\u043d\u044f",
+        "url": "https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "duration_ms": 177218,
+      "name": "\u043d\u0430\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u044b \u0434\u0440\u0443\u0437\u044c\u044f 2",
+      "url": "https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0"
+    },
+    {
+      "added_at": "2026-02-20 02:27:05",
+      "album": {
+        "name": "Eighty-Six",
+        "url": "https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG"
+      },
+      "artists": [
+        {
+          "name": "Lake Point Drive",
+          "url": "https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn"
+        }
+      ],
+      "duration_ms": 223548,
+      "name": "Eighty-Six",
+      "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
+    },
+    {
+      "added_at": "2026-02-20 02:32:52",
+      "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. Milkman por siempre 🫡
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,615 likes - 102 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,639 likes - 102 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

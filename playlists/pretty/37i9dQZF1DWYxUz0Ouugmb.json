@@ -1,13 +1,33 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Deborah Hanna",
-  "num_followers": 42348,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Difki Khalif",
+  "num_followers": 42344,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe",
+  "snapshot_id": "AAAAAEDnP/hW1MAz8SC638ZvFbBS7r0t",
   "tracks": [
+    {
+      "added_at": "2026-02-19 17:09:12",
+      "album": {
+        "name": "Seandainya",
+        "url": "https://open.spotify.com/album/3IzohqNYx05Fy7iDEkOG1q"
+      },
+      "artists": [
+        {
+          "name": "Difki Khalif",
+          "url": "https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV"
+        },
+        {
+          "name": "Prinsa Mandagie",
+          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+        }
+      ],
+      "duration_ms": 244534,
+      "name": "Seandainya",
+      "url": "https://open.spotify.com/track/6UDgmrLSS7f4f3PJDGFnMG"
+    },
     {
       "added_at": "2026-02-05 22:56:31",
       "album": {

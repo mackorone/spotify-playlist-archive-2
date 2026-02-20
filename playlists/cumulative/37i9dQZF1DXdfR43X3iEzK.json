@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "my alt/pop could mean anything \u2694\ufe0f cover: melanie martinez",
+  "description": "my alt/pop could mean anything \u2694\ufe0f\ncover: hannes",
   "name": "alt/pop",
   "tracks": [
     {
@@ -1268,6 +1268,24 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN"
+    },
+    {
+      "album": {
+        "name": "Blame it on You",
+        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185318,
+      "name": "Blame it on You",
+      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
     },
     {
       "album": {
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
@@ -3616,6 +3634,24 @@
       "duration_ms": 127162,
       "name": "Ganni Top (She Gets What She Needs)",
       "url": "https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX"
+    },
+    {
+      "album": {
+        "name": "GEEKS",
+        "url": "https://open.spotify.com/album/0Rj54qKAZOzwwW3msHk0u7"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "GEEKS",
+      "url": "https://open.spotify.com/track/5KSQlhN1qMNOP54pH3uR51"
     },
     {
       "album": {
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 165047,
       "name": "iNSOMNiAC",
       "url": "https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF"
@@ -5488,7 +5524,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207866,
       "name": "july/november",
       "url": "https://open.spotify.com/track/6hyirnhFtP1farDrJnsjy6"
@@ -6977,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi"
+      },
+      "artists": [
+        {
+          "name": "congratulations",
+          "url": "https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Nevagonna",
+      "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"
+    },
+    {
+      "album": {
         "name": "Never Need Me",
         "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
       },
@@ -7442,7 +7496,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 207189,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7zMxMEDYWSXlFFZITu9GEb"
@@ -9139,6 +9193,24 @@
     },
     {
       "album": {
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+    },
+    {
+      "album": {
         "name": "What Happened To The Heart?",
         "url": "https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7"
       },
@@ -9752,7 +9824,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 223570,
       "name": "the party !",
       "url": "https://open.spotify.com/track/01XMrHNnC0GTyldXN36HVo"
@@ -9828,6 +9900,24 @@
       "duration_ms": 161828,
       "name": "think about u",
       "url": "https://open.spotify.com/track/28WgWRhOApboNjM7s5Hl3h"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/254NzQAXPkatkE73jDeOz8"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323477,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7cUZ3YkpKNqjUOY87qTGWb"
     },
     {
       "album": {

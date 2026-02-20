@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: The Incredibles",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Blacks Jnr",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -5738,6 +5738,32 @@
       "duration_ms": 279697,
       "name": "Kosinda Obalekayo",
       "url": "https://open.spotify.com/track/5P7R8OIzViJxSGalhabRYg"
+    },
+    {
+      "album": {
+        "name": "Kumnandi Ethekwini",
+        "url": "https://open.spotify.com/album/2vtG5q3SLLS9PCXLI2clGU"
+      },
+      "artists": [
+        {
+          "name": "Blacks Jnr",
+          "url": "https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ"
+        },
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        },
+        {
+          "name": "Mgilane",
+          "url": "https://open.spotify.com/artist/4slppI2zvIkWxKR1KmGRoI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353225,
+      "name": "Kumnandi Ethekwini",
+      "url": "https://open.spotify.com/track/28HiylZNJW6BP0U70oCHAy"
     },
     {
       "album": {

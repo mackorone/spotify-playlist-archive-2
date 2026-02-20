@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,974 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,018 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 33 | [Os 100](https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Os 100](https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO) | 4:08 |
 | 34 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
 | 35 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
-| 36 | [Tentação](https://open.spotify.com/track/2yGHa9nqKpmWrVac0z2pZE) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o) | [Tentação](https://open.spotify.com/album/0Wai4QP0vTnVgo5dZ0DdTS) | 3:25 |
+| 36 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 37 | [MARATONA](https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MARATONA](https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs) | 3:22 |
 | 38 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
-| 39 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
+| 39 | [Tentação](https://open.spotify.com/track/2yGHa9nqKpmWrVac0z2pZE) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o) | [Tentação](https://open.spotify.com/album/0Wai4QP0vTnVgo5dZ0DdTS) | 3:25 |
 | 40 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
 | 41 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 42 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 |

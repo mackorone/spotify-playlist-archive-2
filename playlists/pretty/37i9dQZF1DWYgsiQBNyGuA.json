@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Durand Bernarr",
-  "num_followers": 1015539,
+  "num_followers": 1015505,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "My World",
@@ -1211,22 +1227,6 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
-    },
-    {
       "added_at": "2025-02-21 07:15:25",
       "album": {
         "name": "Jupiter",
@@ -1651,6 +1635,22 @@
       "duration_ms": 185603,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/3nHgOnUhWqLoc5OPUjvDqi"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Avery*Sunshine",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
       "added_at": "2025-02-21 07:15:25",

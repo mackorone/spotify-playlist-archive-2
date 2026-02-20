@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 6 | [Golden](https://open.spotify.com/track/4uIvIbeGjaLRVjGtxbIUUL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Golden](https://open.spotify.com/album/6uNPQgkGoW0XMZ55YFU0FO) | 2:16 |
 | 7 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
 | 8 | [Sundown](https://open.spotify.com/track/2GcFA2lRvsiq83UnWMGGeB) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Sundown](https://open.spotify.com/album/68gDsH0JmcQJhzu7cTaLZf) | 2:33 |
-| 9 | [Utan dig](https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01) | [Linus S](https://open.spotify.com/artist/6bUbaWCjpjUl7pBQ4FQKgF) | [Utan dig](https://open.spotify.com/album/64F9k0bd7Zf2b5k2yd7XzQ) | 3:12 |
+| 9 | [Utan dig](https://open.spotify.com/track/00Uv9RPQNwkkck0kN2XkwW) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Utan dig](https://open.spotify.com/album/1JBAH6SAYgdLYudR895pWE) | 3:12 |
 | 10 | [Who You Are \(feat\. Robin Vane\)](https://open.spotify.com/track/4wgFtDrCUzu2d333k4Yu7K) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Better With You](https://open.spotify.com/album/5IRhCZtMZgz3jATXM0YEdI) | 2:43 |
 | 11 | [Hatar att vara kär](https://open.spotify.com/track/18MpuOSImIe1L4h9jZqXN0) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Hatar att vara kär](https://open.spotify.com/album/65EmbYRfiaajO4kftbC1N4) | 3:12 |
 | 12 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `AcKCCgAAAAAvPHvGKlIU+MOjqc75Vjnx`
+Snapshot ID: `AcKHqgAAAAAIc61+FolvSb7ICnH5s1K0`

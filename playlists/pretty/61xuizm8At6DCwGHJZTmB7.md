@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,360 likes - 125 songs - 11 hr 33 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,352 likes - 125 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

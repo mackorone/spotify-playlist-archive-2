@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 10 hr 2 min
+170 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bombastic](https://open.spotify.com/track/4bcoWuBDrHX3uvmR9abW1w) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/6REH0cFgViL95se2iBnJWp) | 3:22 | 2024-11-29 | 2025-07-07 |
 | [Bombastic](https://open.spotify.com/track/6L8zRjFzvUKvDtZeUl0gIW) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 3:22 | 2025-07-06 |  |
 | [Bombastic](https://open.spotify.com/track/7EQUcAtXbbTwWLrZx256iF) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:22 | 2024-02-27 | 2024-11-30 |
-| [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 | 2024-02-27 |  |
+| [Burnin'](https://open.spotify.com/track/017KESLifaU30JWq495Bm0) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [Sleepwalker \(Resurrected\)](https://open.spotify.com/album/12rWlAmLJjX5lBrVh9ot6J) | 3:29 | 2026-02-19 |  |
+| [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 | 2024-02-27 | 2026-02-20 |
 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 | 2024-02-27 |  |
 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 | 2024-02-27 |  |
 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 | 2025-09-10 |  |
@@ -158,7 +159,8 @@
 | [Tommie Sunshine's Megasix Smash\-Up](https://open.spotify.com/track/0xJCJbY4Qpdq5Vc3q2aMT3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 7:03 | 2024-02-27 |  |
 | [Tomorrow Never Dies](https://open.spotify.com/track/1FH0foV70oRzZNZ92z4XZy) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love \(Deluxe Edition\)](https://open.spotify.com/album/103CJSreSMtgNGvwOSg3CN) | 3:40 | 2024-02-27 |  |
 | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/track/4eP9Et7gkdPf6eeCRNal75) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/album/1P4e2cMIcjR9zM709Bd8QY) | 3:56 | 2024-02-27 |  |
-| [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 | 2024-02-27 |  |
+| [Touch Me \(SMASH Cast Version\) \(feat\. Katharine McPhee\)](https://open.spotify.com/track/3QcRZrUNKmQpF7c8ewR9IL) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [The Music of SMASH](https://open.spotify.com/album/6JKqGgmHfwqBalG9x4rSnj) | 3:51 | 2026-02-19 |  |
+| [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 | 2024-02-27 | 2026-02-20 |
 | [Trouble](https://open.spotify.com/track/7BgVp7EuxrvyPCQyRdmxzg) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:03 | 2024-02-27 |  |
 | [Turn Me Up](https://open.spotify.com/track/2d5SLxED4RIdjnAfbpTcYw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:44 | 2024-02-27 |  |
 | [Un Love Me](https://open.spotify.com/track/4OoMl6NlkSlaeomEAoJGkM) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:12 | 2024-02-27 |  |

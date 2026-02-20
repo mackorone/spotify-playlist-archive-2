@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396186,
+  "num_followers": 396199,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Morning Dawns Again",
         "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 238699,
       "name": "Morning Dawns Again",
       "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -483,34 +483,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -527,6 +511,22 @@
       "duration_ms": 192823,
       "name": "Happier - Piano Version",
       "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 160153,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "You Give Me Something (Refreshed)",
-        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "You Give Me Something (Refreshed)",
-      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "You Give Me Something (Refreshed)",
+        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "You Give Me Something (Refreshed)",
+      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "the moment (acoustic)",
         "url": "https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "When She\u2019s Around",
         "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 215280,
       "name": "When She\u2019s Around",
       "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 145403,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Apple Tree",
+        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -1159,34 +1175,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Apple Tree",
-        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
       "artists": [
         {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 178336,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Julianne",
-      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
+        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+      },
+      "artists": [
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
+      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
-        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
-      },
-      "artists": [
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
-      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "That's What I Love",
         "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+        "name": "Kind Of Love",
+        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
         }
       ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+      "duration_ms": 234183,
+      "name": "Kind Of Love",
+      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1595,22 +1611,6 @@
       "duration_ms": 169585,
       "name": "I Will",
       "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Kind Of Love",
-        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
-      },
-      "artists": [
-        {
-          "name": "Kris Berry",
-          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
-        }
-      ],
-      "duration_ms": 234183,
-      "name": "Kind Of Love",
-      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
     },
     {
       "added_at": "2026-02-06 08:55:44",

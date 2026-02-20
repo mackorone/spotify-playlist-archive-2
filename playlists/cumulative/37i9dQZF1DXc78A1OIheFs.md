@@ -2,7 +2,7 @@
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: Lorde
+> Discover the best in new music from Aotearoa\. Cover: Stan Walker
 
 327 songs - 18 hr 46 min
 

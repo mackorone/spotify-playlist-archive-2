@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-300 songs - 1 day 16 hr 34 min
+302 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Kingdom Come \- Live](https://open.spotify.com/track/3Q7oyCiwMOYyUlGhYfxU2i) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Hallel](https://open.spotify.com/artist/46UGxcEh5kqVkGG9O09U4S), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Favvy Sings](https://open.spotify.com/artist/7scyetePnpih3zaBZIZE8t) | [Kingdom Come \(Live\)](https://open.spotify.com/album/2qc2BQ2DpXKbChrvM02Djq) | 10:34 | 2024-11-08 | 2024-12-20 |
 | [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 | 2025-05-23 | 2025-10-17 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \(Live\)](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 | 2024-11-01 |
+| [KÁBÍYÈSÍ RĘ \- Live](https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [KÁBÍYÈSÍ RĘ \(Live\)](https://open.spotify.com/album/7FN0eyrL29SlrbvHzDq8OQ) | 9:56 | 2026-02-20 |  |
 | [Let Them Know \- Live](https://open.spotify.com/track/0HqvZlBUawha81zBQ5wnFl) | [David Ekene](https://open.spotify.com/artist/5A7uVlEs5QcS92rQl9A2IJ) | [Let Them Know \(Live\)](https://open.spotify.com/album/5V9HkW2CNncaS6dI8K3WG9) | 9:07 | 2024-09-20 | 2024-11-15 |
 | [Lift Up Your Voices \- Live](https://open.spotify.com/track/0TXH1EyG4FsKHpp8CIBK4I) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Lift Up Your Voices \(Live\)](https://open.spotify.com/album/66rGbvNL1jJAcKHf6fqMi7) | 9:17 | 2024-09-13 | 2025-02-21 |
 | [Light Come \- Live](https://open.spotify.com/track/1A4XJqbjVomOLrN2pKt2gX) | [Isabella Melodies](https://open.spotify.com/artist/4MoAcSftH9uiQEfe8pA0tr) | [Light Come \(Live\)](https://open.spotify.com/album/7xHhTXpmEtwd68DpcNw9tA) | 3:30 | 2024-12-20 | 2025-01-17 |
@@ -214,6 +215,7 @@
 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 | 2024-02-23 |  |
 | [Omemma \- Live](https://open.spotify.com/track/428iORDSeSdLxmoQS7DAjn) | [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5) | [Omemma \(Live\)](https://open.spotify.com/album/0T5EcQSUH8gOwlpwI3riqR) | 9:24 | 2025-02-28 | 2025-05-23 |
 | [Only You \(Live\)](https://open.spotify.com/track/6PQ6xxWWDUJJeD6sIZWetL) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Only You \(Live\)](https://open.spotify.com/album/2Z0pI31oUNhphHR8wAXP88) | 5:13 | 2025-06-20 | 2025-08-08 |
+| [Only You \- Live](https://open.spotify.com/track/7aGAhMdVTe8N3uEWQbdyCM) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Only You \(Live\)](https://open.spotify.com/album/28rMX1PGe2KdcLOkM1Rf5F) | 9:27 | 2026-02-20 |  |
 | [Only You \- Live](https://open.spotify.com/track/5GaU7VE0s3s0swmNvfMDmt) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Only You \- Live](https://open.spotify.com/album/45JvaXvxfvciQ8CA4HhNgG) | 9:30 | 2024-09-06 | 2024-10-04 |
 | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/track/20H0O1lG1btliyXHzvHXcW) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/album/6Ln9d1zapgFKYd2tVa1jWb) | 12:12 | 2025-08-22 | 2025-10-03 |
 | [Osivwi \(My Redeemer\)](https://open.spotify.com/track/1W9mDCe9Gum4XlBtKMux0r) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Osivwi \(My Redeemer\)](https://open.spotify.com/album/0S6zkrcx4YFxAWAGYrTqqW) | 9:39 | 2024-11-22 | 2025-01-17 |

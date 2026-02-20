@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93013,
+  "num_followers": 93017,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABNofyy3OJZXHAl1TKnZ+am",
+  "snapshot_id": "aZUBAAAAAADrkyZ2n5ePHMLZqzdI4S/T",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A to H",
-        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 85379,
-      "name": "Everything in Moderation (especially moderation)",
-      "url": "https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 142440,
       "name": "Liza And Louise",
       "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A to H",
+        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 85379,
+      "name": "Everything in Moderation (especially moderation)",
+      "url": "https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U"
     },
     {
       "added_at": null,

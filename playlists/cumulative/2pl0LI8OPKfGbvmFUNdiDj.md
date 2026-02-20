@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-349 songs - 19 hr 29 min
+350 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 | 2025-11-30 | 2026-01-05 |
 | [So Long](https://open.spotify.com/track/5dhqVccwycomqYhcQWNZKq) | [The Stream](https://open.spotify.com/artist/2cN7g606wcqVTsx0zbOAOH) | [So Long](https://open.spotify.com/album/0sZ1XohRLhjo7JjeWpCpzk) | 5:21 | 2025-11-07 | 2025-12-01 |
 | [Solos tú y yo](https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE) | [Chaplin](https://open.spotify.com/artist/0NRtBBSool3NhHpi6WPHkI), [Drumglass](https://open.spotify.com/artist/5TV3jKC1INn5xO2MLgdDSw) | [Solos tú y yo](https://open.spotify.com/album/4d8ImOKjPHKYKLEaOX439d) | 3:20 | 2025-11-22 | 2026-01-05 |
+| [Something You Know](https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [Something You Know](https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC) | 3:17 | 2026-02-19 |  |
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-11-30 | 2026-01-05 |

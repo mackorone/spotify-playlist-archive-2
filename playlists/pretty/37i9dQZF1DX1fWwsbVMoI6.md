@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,287 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,317 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 45 | [Chiquitita](https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM) | [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA), [Hnos Yaipén](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [Chiquitita](https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf) | 3:29 |
 | 46 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
 | 47 | [Algo de Mi](https://open.spotify.com/track/1BPtafg3QTReiTZlz4Lhix) | [Briyit y Su Banda](https://open.spotify.com/artist/1653vuBCsYsC9dtWE0HAeS) | [Sálvame](https://open.spotify.com/album/1xkomr3AT5INTVanUiprik) | 4:23 |
-| 48 | [Tú](https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI), [Dantes Cardosa](https://open.spotify.com/artist/5nzCbQIHLZDzSX1q60ObgQ) | [Tú](https://open.spotify.com/album/6w0Um2VB3AJpUSeoAUNBtC) | 3:51 |
-| 49 | [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 |
+| 48 | [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 |
+| 49 | [Tú](https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI), [Dantes Cardosa](https://open.spotify.com/artist/5nzCbQIHLZDzSX1q60ObgQ) | [Tú](https://open.spotify.com/album/6w0Um2VB3AJpUSeoAUNBtC) | 3:51 |
 | 50 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
 
 Snapshot ID: `AAAAAA5vbHp0i7SSQ/evAuMkUzdnAfs7`

@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> La fine della guerra è il nuovo album di svegliaginevra, ed è qua su indie italia 🍭
+> ci prepariamo a Sanremo con Tommaso in cover 🏹❤️
 
-468 songs - 1 day 1 hr 4 min
+470 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 | 2025-02-27 | 2025-07-04 |
 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 | 2025-11-27 | 2025-12-05 |
 | [Dentro al fumo](https://open.spotify.com/track/52XbuKouJsjUpTzBiPXMQg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:35 | 2025-06-12 |  |
+| [dettagli](https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [dettagli](https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp) | 4:11 | 2026-02-19 |  |
 | [Dirigibile](https://open.spotify.com/track/5OGVgeJOkTBaBUxXZK9hV9) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Futuro Dirigibile](https://open.spotify.com/album/3KrlHusx87ZaCkNYuyK6Ay) | 4:23 | 2025-05-29 | 2025-06-27 |
 | [disperata gioventù](https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [disperata gioventù](https://open.spotify.com/album/01TWoRyZKm4cQxJ8g1RDmC) | 3:01 | 2025-05-08 | 2025-06-06 |
 | [Distratta](https://open.spotify.com/track/37dylnfUvikMtKmgbbjtss) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Distratta](https://open.spotify.com/album/0E0i11rmqpis0BD5qYCWpC) | 5:05 | 2025-04-08 | 2025-04-25 |
@@ -158,6 +159,7 @@
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-10-17 | 2025-03-28 |
 | [Gomma Americana](https://open.spotify.com/track/6atsBUUO14VdT7XdUtUcKj) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Gomma Americana](https://open.spotify.com/album/5CuqrabMbyE2wmNx3bEcgA) | 2:32 | 2025-09-04 | 2025-09-19 |
 | [Gommage](https://open.spotify.com/track/6I7xsGvMbY2B0jhqi6Fjua) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Gommage](https://open.spotify.com/album/6L1PBw3iHtrerlZxGp7E3G) | 3:17 | 2025-11-06 | 2025-12-05 |
+| [goodbye](https://open.spotify.com/track/6XQlNJwGwDqVhTZh8ccP82) | [Maninni](https://open.spotify.com/artist/28XNEW8SrY9rwD1s1f8gRL) | [goodbye](https://open.spotify.com/album/57qvZucAwJc0Hbyjpc4UEm) | 2:15 | 2026-02-19 |  |
 | [Grattacieli meteoriti gli angeli](https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:24 | 2025-01-23 |  |
 | [Grazie ma no grazie](https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Grazie ma no grazie](https://open.spotify.com/album/0qXDA1aseu36UbzuadyYnx) | 3:25 | 2025-02-12 | 2025-05-16 |
 | [GUAGLIONA \(feat\. Lil Jolie\)](https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [GUAGLIONA](https://open.spotify.com/album/6ssZZ0r8YDAFO8NMcLNmMP) | 2:45 | 2024-06-27 | 2024-08-16 |
@@ -200,7 +202,7 @@
 | [L'Ultima Canzone](https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [L'Ultima Canzone](https://open.spotify.com/album/1F7KSJn8zM1j6A7amJJ0XI) | 2:44 | 2025-07-17 | 2025-09-26 |
 | [l'universo da fermo](https://open.spotify.com/track/5VSG25WEs5n4cukaTJmcPO) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [l'universo da fermo](https://open.spotify.com/album/3Gnt8S8poXw1a8gpiSRPey) | 2:52 | 2025-05-01 | 2025-06-06 |
 | [La Bomba Intelligente](https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [La Bomba Intelligente](https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz) | 3:09 | 2026-01-29 |  |
-| [La Casa dei Miei Nonni](https://open.spotify.com/track/0HXwWTOiAysPFSo6gHbjEs) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [La Casa dei Miei Nonni](https://open.spotify.com/album/6ZntguvNUlVKCzSFMMuYjY) | 3:38 | 2026-01-29 |  |
+| [La Casa dei Miei Nonni](https://open.spotify.com/track/0HXwWTOiAysPFSo6gHbjEs) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [La Casa dei Miei Nonni](https://open.spotify.com/album/6ZntguvNUlVKCzSFMMuYjY) | 3:38 | 2026-01-29 | 2026-02-20 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-25 |
 | [La Distanza \(con Ariete & Lorenzza\)](https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:14 | 2025-05-29 | 2026-01-30 |
 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 | 2025-11-20 |  |
@@ -247,7 +249,7 @@
 | [Mao](https://open.spotify.com/track/3R9z5gVkW83FPI3b1yVlph) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Lunedì](https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo) | 3:18 | 2026-01-22 |  |
 | [MARCIA INDIETRO \(feat\. ARIETE\)](https://open.spotify.com/track/0GAXeiEXGHjQl4clO17FRg) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA VACANZA](https://open.spotify.com/album/3feilFBJs9Sth0r4BwizKX) | 2:32 | 2025-06-19 | 2025-10-04 |
 | [Marco](https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Marco](https://open.spotify.com/album/07HKCzahOB4OhaZseqGVSP) | 2:59 | 2025-07-24 | 2025-08-29 |
-| [Marzo Beige](https://open.spotify.com/track/2vOwmqcjNLQefZA1ckRlMy) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Marzo Beige](https://open.spotify.com/album/7fF6zXf4c4TXfBceajLRFL) | 3:33 | 2026-01-22 |  |
+| [Marzo Beige](https://open.spotify.com/track/2vOwmqcjNLQefZA1ckRlMy) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Marzo Beige](https://open.spotify.com/album/7fF6zXf4c4TXfBceajLRFL) | 3:33 | 2026-01-22 | 2026-02-20 |
 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 | 2025-11-11 |  |
 | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 | 2026-01-29 |  |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |

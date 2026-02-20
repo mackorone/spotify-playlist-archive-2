@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-257 songs - 14 hr 24 min
+258 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 | 2022-05-10 |  |
 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 | 2022-05-10 |  |
 | [Dejenme Si Estoy Llorando](https://open.spotify.com/track/1AKVp391WhJwzhqVmhqosu) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:02 | 2022-05-10 |  |
-| [Desilusión](https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho) | [Paulina](https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa) | [Just](https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD) | 2:46 | 2024-05-10 |  |
+| [Desilusión](https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho) | [Paulina](https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa) | [Just](https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD) | 2:46 | 2024-05-10 | 2026-02-20 |
 | [Detalles \(Detalhes\)](https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 5:08 | 2022-05-10 |  |
 | [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 | 2022-05-10 |  |
 | [Dos Enamorados](https://open.spotify.com/track/4PfMg0efe5q1104vAWyRMT) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [La Más Completa Colección \(Disc 2 \- Mexico\)](https://open.spotify.com/album/3BiU9Rlr6rLAAUPoaCMt8n) | 3:45 | 2024-05-10 |  |
@@ -191,6 +191,7 @@
 | [Piel Canela](https://open.spotify.com/track/6nxTm1XUBHjxcs5Wc9oFLC) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Gran Colección del 60 Aniversario CBS \- Eydie Gormé y Los Panchos](https://open.spotify.com/album/4OsoVNbRkfopwfBabCH6Hi) | 2:16 | 2022-05-10 | 2022-11-13 |
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2022-05-10 | 2024-02-24 |
 | [Piel Canela](https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Brillantes \- Eydie Gorme Y Los Panchos](https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO) | 2:18 | 2022-05-10 | 2022-07-29 |
+| [Pobre gente de París](https://open.spotify.com/track/158scw1c7XqzLqnrrAQOtN) | [Juan García Medeles y su Orquesta](https://open.spotify.com/artist/0C439HfJvEeZQg74IGBksG) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 2:32 | 2024-07-11 |  |
 | [Por Las Calles De México](https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 | 2022-05-10 | 2024-04-19 |
 | [Por Las Calles de México](https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Triunfadora Sonora Santanera](https://open.spotify.com/album/354MRjHGrHN7podHW6Wyo6) | 2:46 | 2022-05-10 |  |
 | [Por Las Calles De México](https://open.spotify.com/track/3NrCHykyKFGmyTeXh0Ym3g) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 2:51 | 2022-05-10 | 2022-11-13 |

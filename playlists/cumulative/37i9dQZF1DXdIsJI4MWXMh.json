@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 246325,
       "name": "Elenita",
       "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 206949,
       "name": "La Sustancia",
       "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
@@ -1898,6 +1898,24 @@
       "duration_ms": 231393,
       "name": "Matalas",
       "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+    },
+    {
+      "album": {
+        "name": "Me Opongo",
+        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177711,
+      "name": "Me Opongo",
+      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
     },
     {
       "album": {
@@ -2086,6 +2104,24 @@
       "duration_ms": 303345,
       "name": "Mix del Recuerdo - Que de Raro Tiene/El T\u00edo Borrachales /Tragos de Amargo Licor / El Mil Amores 1",
       "url": "https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT"
+    },
+    {
+      "album": {
+        "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375600,
+      "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
+      "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
     },
     {
       "album": {

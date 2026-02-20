@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Måneskin
+> Only the best rock in the world\. Cover: Megadeth
 
 1,026 songs - 2 day 15 hr 31 min
 
@@ -702,7 +702,7 @@
 | [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-11 | 2025-08-08 |
 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 | 2024-03-01 | 2024-03-15 |
 | [Ready Set Go](https://open.spotify.com/track/5ayfXfjt4dGMGb3QWoJo5c) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [Ready Set Go](https://open.spotify.com/album/1OaeLMcA8KyqpnZGWEOC7Q) | 2:30 | 2023-06-01 | 2023-06-23 |
-| [Rearranging Scars \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rearranging Scars \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 | 2026-02-13 |  |
+| [REARRANGING SCARS \- From The Original Motion Picture "Scream 7"](https://open.spotify.com/track/6u0EzFBWNcUui4tCsu2nOP) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [REARRANGING SCARS \(From The Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/1sxYOzjdrUfxmHPns9Lx2r) | 3:16 | 2026-02-13 |  |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-09-15 |
 | [Red, White and Jersey](https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 3:36 | 2025-08-29 | 2025-10-18 |
 | [Redemption](https://open.spotify.com/track/5ElQVSkRuOzqKyLS9OdSLa) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:10 | 2022-05-06 | 2023-01-27 |

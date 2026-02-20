@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: 中島健人
 
-898 songs - 2 day 1 hr 8 min
+900 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-19 | 2025-08-23 |
 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 | 2024-08-13 | 2024-12-23 |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-01 | 2025-08-20 |
-| [Amazing!!!!!!](https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Amazing!!!!!!](https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3) | 3:43 | 2026-01-21 |  |
+| [Amazing!!!!!!](https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Amazing!!!!!!](https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3) | 3:43 | 2026-01-21 | 2026-02-20 |
 | [Aonooto](https://open.spotify.com/track/5uHoSGdji2lJjpZ4AtcpEw) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Aonooto](https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV) | 4:00 | 2025-07-08 | 2025-08-05 |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-02-20 | 2024-06-03 |
 | [Arcadia](https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Arcadia](https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO) | 2:50 | 2025-09-30 | 2026-01-15 |
@@ -261,6 +261,7 @@
 | [FUN](https://open.spotify.com/track/2IkUO4UhrUvVhfy6fGawYe) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [FUN](https://open.spotify.com/album/7MQN91PFTzXHmA4uUukZ4B) | 3:17 | 2024-07-09 | 2024-07-31 |
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
 | [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 | 2025-12-11 | 2026-02-10 |
+| [Gachi Funk](https://open.spotify.com/track/0oDpDtYZV6qzH7kDogQHEm) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Gachi Funk](https://open.spotify.com/album/1YDH1vzepebgnAAeIEo3xx) | 2:30 | 2026-02-19 |  |
 | [GBAD](https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [GBAD](https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve) | 3:10 | 2025-03-27 | 2025-04-16 |
 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-15 | 2025-09-10 |
 | [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 | 2025-05-15 | 2025-05-30 |
@@ -851,6 +852,7 @@
 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 | 2025-02-03 |
 | [メタルなかよし](https://open.spotify.com/track/6V02BcehQcu2u2ugSjvIQj) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [メタルなかよし](https://open.spotify.com/album/39j9M9qIcQtue6TmiAtJ7F) | 3:54 | 2025-04-07 | 2025-04-18 |
 | [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 | 2025-11-25 | 2025-12-12 |
+| [一秒](https://open.spotify.com/track/1jzBL9oiCg4qaZbazOxBQ8) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [一秒](https://open.spotify.com/album/5iWFBoiNfiDjTpj8C4Mg6E) | 3:55 | 2026-02-19 |  |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |
 | [両片想い](https://open.spotify.com/track/1UMIpUFDRaNmTMMu1br8gL) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [両片想い](https://open.spotify.com/album/0N8vRd5AcdsyifTccX4abX) | 3:08 | 2025-07-31 | 2025-12-24 |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 | 2025-02-12 |

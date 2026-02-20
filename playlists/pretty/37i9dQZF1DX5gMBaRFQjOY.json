@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 608499,
+  "num_followers": 608688,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -835,8 +835,8 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -915,8 +915,8 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 141466,
+      "name": "Please Help Me, I'm Falling",
+      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "RCA Country Legends",
-        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 141466,
-      "name": "Please Help Me, I'm Falling",
-      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1287,22 +1303,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
         "name": "With His Hot and Blue Guitar",
         "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Bobby Helms Sings To My Special Angel",
-        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 169346,
       "name": "The Fightin' Side Of Me",
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1620,22 +1620,6 @@
       "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
-        "name": "Super Hits",
         "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
       },
       "artists": [
@@ -1647,6 +1631,22 @@
       "duration_ms": 134786,
       "name": "Just Between You and Me",
       "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2026-02-11 22:45:47",

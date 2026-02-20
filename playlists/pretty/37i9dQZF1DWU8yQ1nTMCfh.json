@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 295937,
+  "num_followers": 295921,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Magia Blanca",
-        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+      },
+      "artists": [
+        {
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "Coraz\u00f3n de pollo",
-        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
-      },
-      "artists": [
-        {
-          "name": "Estamos Perdidos",
-          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Coraz\u00f3n de pollo",
-      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "Un Minuto Con Vos",
         "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Mi Tormenta (feat. DannyLux)",
-        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mi Tormenta (feat. DannyLux)",
-      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "Mi Tormenta (feat. DannyLux)",
+        "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 202479,
+      "name": "Mi Tormenta (feat. DannyLux)",
+      "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
     },
     {
       "added_at": "2026-02-11 16:04:08",

@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ONE OR EIGHT
 
-567 songs - 1 day 8 hr 20 min
+568 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-23 | 2023-06-09 |
 | [Last Party Never End \(feat\. Tiji Jojo, YZERR, Vingo & Yellow Pato\)](https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 4:15 | 2024-03-01 | 2024-04-12 |
 | [Let Go \(feat\. 柊人\)](https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 3:00 | 2023-08-03 | 2023-09-22 |
-| [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 | 2024-12-05 |  |
+| [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 | 2024-12-05 | 2026-02-20 |
 | [Life We Live \(feat\. Namond Lumpkin & Edgar Fletcher\)](https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Namond Lumpkin](https://open.spotify.com/artist/4s8NUFZU7vQ5s4yT3paDpw), [Edgar Fletcher](https://open.spotify.com/artist/0A9t7hQJTPECh5yinJPwb0) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 4:14 | 2024-09-26 | 2024-10-11 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-04-17 | 2025-06-20 |
 | [Little Red Riding Hood](https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Little Red Riding Hood](https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3) | 3:15 | 2023-01-26 | 2023-03-25 |
@@ -433,6 +433,7 @@
 | [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 | 2023-06-01 | 2023-09-09 |
 | [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2023-01-26 | 2023-02-24 |
 | [チーム友達](https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [チーム友達](https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x) | 2:32 | 2024-04-18 | 2024-07-12 |
+| [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 | 2026-02-19 |  |
 | [ハナウタ](https://open.spotify.com/track/0K8ckD0WIk7AzgEkXDPoVC) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [ハナウタ](https://open.spotify.com/album/3Lc1YBq6bx1Cu2SgLIho0N) | 3:49 | 2023-12-07 | 2024-01-05 |
 | [ハピチョコ](https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ハピチョコ](https://open.spotify.com/album/6YuRTXMTLyw27w13yU9UPy) | 4:01 | 2023-02-09 | 2023-03-31 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-01-26 | 2023-02-02 |

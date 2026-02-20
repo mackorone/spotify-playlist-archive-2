@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'S Wonderful",
+        "url": "https://open.spotify.com/album/0xYW8vNYMbuRaZCWrvXLv4"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96080,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4F3VlX4MGtizCwGxAHMX8D"
+    },
+    {
+      "album": {
         "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 10",
         "url": "https://open.spotify.com/album/2lyBf4gsQR1Do7XOJvhLBb"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 152893,
       "name": "Do Your Duty, Doctor",
       "url": "https://open.spotify.com/track/2XQ8xs85nQWb5Hb3P6Ft4A"
@@ -2384,10 +2402,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 171506,
       "name": "He Ain't Got Rhythm (01-25-37)",
       "url": "https://open.spotify.com/track/30g0CRj3qg42ntrChOqtKu"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "He Ain't Got Rhythm (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/4MlMvlC6RejgsoJyD3sUC2"
     },
     {
       "album": {
@@ -4506,7 +4546,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -5145,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "The Golden Hits of Guy Mitchell, Vol. 1",
+        "url": "https://open.spotify.com/album/3XL6nd2qRaQDMgeV3XkOK2"
+      },
+      "artists": [
+        {
+          "name": "Guy Mitchell",
+          "url": "https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Marrying For Love",
+      "url": "https://open.spotify.com/track/0pXaoFLXluhHEAySrtfe3N"
+    },
+    {
+      "album": {
         "name": "Tea for Two - Duets",
         "url": "https://open.spotify.com/album/3XvVEcF5PDheG3QBp3jLZv"
       },
@@ -5156,7 +5214,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193400,
       "name": "Marrying For Love",
       "url": "https://open.spotify.com/track/3mg8BI6nYoKa7Jgkzz7ee7"
@@ -5360,7 +5418,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 195693,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/18CUQDqPQzbtk06xp2TG7A"
@@ -6342,7 +6400,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 96080,
       "name": "S Wonderful",
       "url": "https://open.spotify.com/track/2IYGMvHtyXgaS8sOr73woD"
@@ -6757,6 +6815,24 @@
     },
     {
       "album": {
+        "name": "I Saw Stars",
+        "url": "https://open.spotify.com/album/2GEKBLGvESdUV32kW9XrWg"
+      },
+      "artists": [
+        {
+          "name": "Carroll Gibbons",
+          "url": "https://open.spotify.com/artist/7IFehwNMIwBSIf40iX0gm9"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187584,
+      "name": "So Help Me",
+      "url": "https://open.spotify.com/track/5JZYMWbCMZlD8zJVxrlnKR"
+    },
+    {
+      "album": {
         "name": "Brighter Than The Sun",
         "url": "https://open.spotify.com/album/5lpzJY1r902bTp4omAN5zM"
       },
@@ -6768,7 +6844,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 188741,
       "name": "So Help Me",
       "url": "https://open.spotify.com/track/7pmT1c8oLPWa72ilihwyjW"
@@ -6928,6 +7004,24 @@
       "duration_ms": 160040,
       "name": "Stay Down Here Where You Belong",
       "url": "https://open.spotify.com/track/7rnuKO6Qk9DDPFmcGZjJca"
+    },
+    {
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/4RMpSLXLvoi2RkcrHDkDpi"
     },
     {
       "album": {
@@ -8344,7 +8438,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 189040,
       "name": "Top Hat, White Tie And Tails",
       "url": "https://open.spotify.com/track/0hGhCFg8NNe5x3hgSyrcmF"
@@ -8362,7 +8456,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 190653,
       "name": "Top Hat, White Tie and Tails (2012 - Remaster)",
       "url": "https://open.spotify.com/track/2iHOKNoE6ac5zIMkT1uRKs"
@@ -8883,6 +8977,24 @@
     },
     {
       "album": {
+        "name": "Al Bowlly's Time On My Hands",
+        "url": "https://open.spotify.com/album/1bTtYKyLuAx7LTN94PXEFR"
+      },
+      "artists": [
+        {
+          "name": "Al Bowlly",
+          "url": "https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "When The Man Is Dead and Gone",
+      "url": "https://open.spotify.com/track/7ph1yADbUFItvPvzLpDcsd"
+    },
+    {
+      "album": {
         "name": "The Al Bowlly Story",
         "url": "https://open.spotify.com/album/47hhYNghGCEsZ0ACXaFUEQ"
       },
@@ -8894,10 +9006,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 177261,
       "name": "When The Man Is Dead And Gone",
       "url": "https://open.spotify.com/track/0etUUubnhfuJggNEegCeDZ"
+    },
+    {
+      "album": {
+        "name": "Christmas Jazz Time",
+        "url": "https://open.spotify.com/album/1BdX8VT9JqAu0m3t1BNjmA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Duchin",
+          "url": "https://open.spotify.com/artist/4NMlon6w1HmlQGMjxUlOT2"
+        },
+        {
+          "name": "His Orchestra",
+          "url": "https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156840,
+      "name": "When Winter Comes",
+      "url": "https://open.spotify.com/track/6OoEL2p8OTKFMWH8mZKrWf"
     },
     {
       "album": {
@@ -8916,7 +9050,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 154933,
       "name": "When Winter Comes (with Johnny MacAfee) - 78rpm Version",
       "url": "https://open.spotify.com/track/6SCa4F9z0xaSgcXXPSgN2F"

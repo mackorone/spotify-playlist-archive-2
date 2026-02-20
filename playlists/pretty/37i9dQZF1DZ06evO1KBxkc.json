@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 203828,
+  "num_followers": 203834,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAADiNDbXteAfOX4xCNOD829J",
+  "snapshot_id": "aZUBAAAAAAAbvK1JacCFuPLDm66DUinw",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist 2.0",
         "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 161764,
       "name": "Me and My Guitar",
       "url": "https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Glitchin",
+      "url": "https://open.spotify.com/track/5wXM2RNVFqFNPXNlLSDm1V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Glitchin",
-      "url": "https://open.spotify.com/track/5wXM2RNVFqFNPXNlLSDm1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 198053,
       "name": "Skeezers",
       "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Show Me Something Real",
+      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Show Me Something Real",
-      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 220888,
       "name": "Just Like Me (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "\ufeffGet Away",
+      "url": "https://open.spotify.com/track/57gmI0FUpCoixrnjBxpXpS"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "\ufeffGet Away",
-      "url": "https://open.spotify.com/track/57gmI0FUpCoixrnjBxpXpS"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Dead to Me",
+      "url": "https://open.spotify.com/track/7e5ViOVPA6LHk6CYSEdg2k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "Dead to Me",
-      "url": "https://open.spotify.com/track/7e5ViOVPA6LHk6CYSEdg2k"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red Light (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "Red Light (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 184000,
       "name": "Timeless (feat. DJ SPINKING)",
       "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Light (feat. Trippie Redd)",
-        "url": "https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "Red Light (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z"
     },
     {
       "added_at": null,

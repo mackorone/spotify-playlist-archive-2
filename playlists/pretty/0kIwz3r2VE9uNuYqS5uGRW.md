@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 157 songs - 8 hr 11 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 158 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 155 | [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 |
 | 156 | [Electric Night](https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Electric Night](https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo) | 3:26 |
 | 157 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 |
+| 158 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 |
 
-Snapshot ID: `AAAVo0yoj9oLO9WMlrRKAyTRZGG/DKd/`
+Snapshot ID: `AAAVpNWgZKbWiuR40QmItkucDal5gqVo`

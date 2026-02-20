@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-565 songs - 1 day 2 hr 50 min
+566 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 | 2024-01-29 |  |
 | [Quer Beijar Pra Ver](https://open.spotify.com/track/2nyCzrDlbQdvvj50Kmtj3C) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Quer Beijar Pra Ver](https://open.spotify.com/album/5WG4IyE5qPtAKCdx1WkHpy) | 3:15 | 2024-01-29 | 2025-11-14 |
 | [Quer Beijar Pra Ver](https://open.spotify.com/track/6cl5sqcEZzI4aV9VQqlRGY) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Quer Beijar Pra Ver](https://open.spotify.com/album/3e8p8V8WrCzpdzTHVnsI3j) | 3:15 | 2025-11-13 |  |
-| [Quero Ver Você Fazer](https://open.spotify.com/track/4S7qM1EarHgEd0DUnzHSMf) | [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd) | [Proposta Ousada](https://open.spotify.com/album/5GPY0YeuM308v8rKT1cUiM) | 2:40 | 2024-03-26 |  |
+| [Quero Ver Você Fazer](https://open.spotify.com/track/4S7qM1EarHgEd0DUnzHSMf) | [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd) | [Proposta Ousada](https://open.spotify.com/album/5GPY0YeuM308v8rKT1cUiM) | 2:40 | 2024-03-26 | 2026-02-20 |
+| [Quero Ver Você Fazer](https://open.spotify.com/track/5cw00vxFzxDIif92nfg7aS) | [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Quero Ver Você Fazer](https://open.spotify.com/album/2nw1qO1uvo7xJicQgwa3Md) | 2:40 | 2026-02-19 |  |
 | [Quinta Madrugada](https://open.spotify.com/track/1Lc35gHpuYS7VwKCTKkfDT) | [Kelvin Araújo](https://open.spotify.com/artist/467sfSm4OytxDNQ6z9XgHt) | [Quinta Madrugada](https://open.spotify.com/album/0O8DA2g6jSoaSyW0nHS6bh) | 2:40 | 2025-05-31 |  |
 | [Raiva Boa de Passar \- Ao Vivo](https://open.spotify.com/track/496EyHBPrRiky2JrC2hkHK) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 2:57 | 2024-01-29 | 2025-06-28 |
 | [RASCUNHO](https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:43 | 2024-09-29 |  |

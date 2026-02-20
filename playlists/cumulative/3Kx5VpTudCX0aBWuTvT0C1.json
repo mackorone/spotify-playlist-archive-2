@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Resplandor",
+        "url": "https://open.spotify.com/album/2eJ7zfBLPHBEBym0BEOWHv"
+      },
+      "artists": [
+        {
+          "name": "Valira",
+          "url": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201510,
+      "name": "Resplandor",
+      "url": "https://open.spotify.com/track/470q0uES7555MaiDrMXxDh"
+    },
+    {
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 605785,
+  "num_followers": 605831,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Ensaio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Ensaio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Zero a Cem",
-        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+        "name": "Todo Caminho \u00c9 Sorte",
+        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
       },
       "artists": [
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 190652,
-      "name": "Zero a Cem",
-      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+      "duration_ms": 229480,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1479,22 +1475,6 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Todo Caminho \u00c9 Sorte",
-        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1531,6 +1511,26 @@
       "duration_ms": 160699,
       "name": "Pensando em Voc\u00ea",
       "url": "https://open.spotify.com/track/28SnPmRvZwsd4KtyENLWZd"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Radiante",
+        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 191743,
+      "name": "Cora\u00e7\u00e3o Radiante",
+      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Cora\u00e7\u00e3o Radiante",
-        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 191743,
-      "name": "Cora\u00e7\u00e3o Radiante",
-      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -1695,26 +1695,6 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Cheirinho (Feat. YO\u00d9N)",
-        "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173994,
-      "name": "Cheirinho - Feat. YO\u00d9N",
-      "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1751,22 +1731,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mela\u00e7o",
-        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
+        "name": "Cheirinho (Feat. YO\u00d9N)",
+        "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
       "artists": [
         {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Mela\u00e7o",
-      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
+      "duration_ms": 173994,
+      "name": "Cheirinho - Feat. YO\u00d9N",
+      "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1787,6 +1767,26 @@
       "duration_ms": 199800,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/670aLEeGjada1OsYDfC0iw"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Mela\u00e7o",
+        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Mela\u00e7o",
+      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Bossinha",
-        "url": "https://open.spotify.com/album/3Ejxw6TpFdEbiaVZrs0RK9"
+        "name": "Por Que N\u00e3o",
+        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 162708,
-      "name": "Bossinha",
-      "url": "https://open.spotify.com/track/1gSKh4JqZ1odoPLK4d8SE4"
+      "duration_ms": 185639,
+      "name": "Por Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

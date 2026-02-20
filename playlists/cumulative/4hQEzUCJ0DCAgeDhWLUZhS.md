@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-555 songs - 1 day 8 hr 26 min
+558 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-25 |  |
 | [Graveyard Love](https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Graveyard Love](https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN) | 3:14 | 2022-07-08 | 2025-06-04 |
 | [Grief](https://open.spotify.com/track/0dNHARb1Sa96bnjLsMqDVz) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Grief](https://open.spotify.com/album/4ccdjRpjZ6JyiazYgUslAB) | 2:34 | 2025-08-26 |  |
+| [Ground Kiss](https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Ground Kiss](https://open.spotify.com/album/7AXDQsvMW88RqE1Py7cOyE) | 3:35 | 2026-02-19 |  |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-06-03 | 2026-01-23 |
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 | 2025-05-28 |
 | [Guilt](https://open.spotify.com/track/31mA7LoZx6ot2Jkg1ro5IA) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [Guilt](https://open.spotify.com/album/2siQNet39SgvMihAHEhd8j) | 3:13 | 2023-04-27 | 2025-06-04 |
@@ -439,10 +440,12 @@
 | [Somebody Told Me](https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Somebody Told Me](https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS) | 3:19 | 2020-10-10\* | 2022-03-18 |
 | [Something](https://open.spotify.com/track/4o34BmBdtT3m0DhckS40xe) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Something](https://open.spotify.com/album/2OXDMYzwQ5T1UwgL2SGvsO) | 3:20 | 2021-03-26 | 2022-03-18 |
 | [Sonny](https://open.spotify.com/track/5IlJpc7LFVNfuuyefZ8wmp) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Doomsday Ballet](https://open.spotify.com/album/1RZFQ4A26BjFKM95xd2Dik) | 3:26 | 2020-10-10\* | 2021-02-25 |
+| [Sorry Again](https://open.spotify.com/track/0yQoxaHtPIpVkEPAtqua6w) | [Velocity Girl](https://open.spotify.com/artist/1fXw2uWfwAlNxlDsW8cKIS) | [Simpatico!](https://open.spotify.com/album/3gHAJA2daOBf8BONHAALPs) | 2:49 | 2026-02-19 |  |
 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 | 2020-10-10\* | 2022-03-18 |
 | [Speak For Myself](https://open.spotify.com/track/60CmL8TwFXT2nQNNZQbVRa) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Speak For Myself](https://open.spotify.com/album/6qAWZdcR2sGsgWn0tNrV4D) | 3:17 | 2022-09-16 | 2025-06-04 |
 | [Spin Me Like Your Records](https://open.spotify.com/track/2tqZfY9DDnCT8YgiD6jusX) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Spin Me Like Your Records](https://open.spotify.com/album/3HgUIAeyGhnpDpbryaz4vV) | 3:11 | 2023-02-10 | 2025-06-04 |
 | [Spiral Of Debt](https://open.spotify.com/track/1ZBtmG5NTGcTcCQ1kK0Rdp) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Assume Your Ultimate Form](https://open.spotify.com/album/5uq03r7PwNeKRIZIV4tiza) | 2:10 | 2023-09-22 | 2025-06-04 |
+| [Spirit](https://open.spotify.com/track/7HYFBV7aq2Uspiqr10JIHc) | [SPIRIT](https://open.spotify.com/artist/2ha096DrrrPcdpX3McOXYr) | [Sold Your Soul](https://open.spotify.com/album/11on8I09Pe9e7IDdMEm7fV) | 0:47 | 2026-02-19 |  |
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2025-06-04 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 | 2025-06-04 |

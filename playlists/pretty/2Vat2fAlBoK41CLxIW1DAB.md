@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,600 likes - 869 songs - 2 day 6 hr 48 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 888 songs - 2 day 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -877,5 +877,24 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 867 | [iykyk](https://open.spotify.com/track/1khLpAonIHoh4DCsKgl1ot) | [Zack Medlin](https://open.spotify.com/artist/5MTkRB12rSMaYFxdmsmbYf) | [iykyk](https://open.spotify.com/album/0gRbrvoXSVygkPxQ558WOk) | 3:32 |
 | 868 | [Fall In Love](https://open.spotify.com/track/35E3gf5Ghv3kLECmXbXQVu) | [Jahgan Olivier](https://open.spotify.com/artist/4CLjjMMlfnjvz89e1nrSPc) | [Fall In Love](https://open.spotify.com/album/5k6XeNxIVRhx3u9hYulxpV) | 4:18 |
 | 869 | [Stai pensando qualcosa?](https://open.spotify.com/track/1jnP9aTCGb3MQVDZlJXnbU) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Stai pensando qualcosa?](https://open.spotify.com/album/5sqYayw1qTZ0z2KTAkPRN7) | 2:56 |
+| 870 | [Vessel](https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Vessel](https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu) | 3:51 |
+| 871 | [Sunshine](https://open.spotify.com/track/4LvxUGM0wBXq6gkD0CALK4) | [Priddice Brothers Band](https://open.spotify.com/artist/2K8S5b9EBD9mv0MzCi6uV1) | [Sunshine](https://open.spotify.com/album/4nXa4z9Np9N9f6hzjOzxSe) | 3:30 |
+| 872 | [How to Cope](https://open.spotify.com/track/4f0e0HwGfVab0t45F760lE) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [How to Cope](https://open.spotify.com/album/6zgb6pK9LP0mHpq85IbBNg) | 3:41 |
+| 873 | [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 |
+| 874 | [Many in One](https://open.spotify.com/track/5JzcT5mCFP6tQzErHQdvTe) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Many in One](https://open.spotify.com/album/0kv67h1RiGQrRzMo0czIvK) | 4:39 |
+| 875 | [Letter \(for the Quiet\)](https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Letter \(for the Quiet\)](https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS) | 2:15 |
+| 876 | [No Joke](https://open.spotify.com/track/0TOE9sRvN9mTjDdduRuNob) | [Bridge The Silence](https://open.spotify.com/artist/2fzaxa52pkXU0PK4WBRbWY), [Suave G](https://open.spotify.com/artist/1udviuCZQhyp3zRzpFowvJ) | [No Joke](https://open.spotify.com/album/5FrrOp8NrSXHpvsDH94Smf) | 3:43 |
+| 877 | [VULTURES](https://open.spotify.com/track/6ZDc6x3ah4UbQvRWNzuTf5) | [Homesick](https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ) | [EASY TO THE CORE](https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB) | 3:19 |
+| 878 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 |
+| 879 | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/track/0Td82gVZP9rfCw8aRgVaIt) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/album/368OzTE0b2r3Ns4SUgTelt) | 4:00 |
+| 880 | [Lärm](https://open.spotify.com/track/12WXkJI0UCNWg9Q38Dd5Tt) | [Punch Drunk Poets](https://open.spotify.com/artist/5AIiuf6qpRRCKnfnaLSS78) | [Lärm](https://open.spotify.com/album/0Lio5BdqW4YK5iccClzZpx) | 3:29 |
+| 881 | [Ella Está](https://open.spotify.com/track/73s6rb6tvZqaUpfQjClo3T) | [RompeKbezaS](https://open.spotify.com/artist/3mYqxRwkH5ckNXByc5tYod) | [Eternaborra](https://open.spotify.com/album/1iMqsbMOLXbE4vManToL6y) | 2:27 |
+| 882 | [The blood can hear](https://open.spotify.com/track/4cXLR3kcDn42n21OF1ql8h) | [B.J Starink](https://open.spotify.com/artist/6tBJu6bwF9iKth36fU4QqB) | [The blood can hear](https://open.spotify.com/album/18rAOpUy3p90TvjSjqya3S) | 3:10 |
+| 883 | [Silent code](https://open.spotify.com/track/6aYkXZKiZtZdzKogJ5ghFn) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:03 |
+| 884 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 885 | [Make it Someday](https://open.spotify.com/track/1yUxYoPyWkewU1Ai4BB0pV) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Make it Someday](https://open.spotify.com/album/5mxHt0ap4MfroXTcu6yxBo) | 4:57 |
+| 886 | [The Echoes Of My Screams](https://open.spotify.com/track/0pWXCua3FgJ18l9stZQJkO) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [The Echoes Of My Screams](https://open.spotify.com/album/6QKIRdG1rs9enoxTzPaQ5V) | 3:32 |
+| 887 | [Same Roots, New Fire](https://open.spotify.com/track/7ylG8ggNngVKDa0f5760pf) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Same Roots, New Fire](https://open.spotify.com/album/3xDKyBvMGjSgCYLv4YV7Ks) | 3:16 |
+| 888 | [Focused Frank](https://open.spotify.com/track/6gmIkIRS2RYEFW3IO5kBGb) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Echoes In Balance](https://open.spotify.com/album/5nCv2Eubc2RnEVxAJ1KIrA) | 3:38 |
 
-Snapshot ID: `AAADhDqR8oAFrw+cpl/PTz7gfUT6bZfP`
+Snapshot ID: `AAADmRp1EUMxsbWvZ42eZre3AZGnld5v`

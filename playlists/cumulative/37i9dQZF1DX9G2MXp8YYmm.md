@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Pop'un sevilen isimleri\. Kapak: Ege Can Sal x Sena Şahin
+> Pop'un sevilen isimleri\. Kapak: Anıl Durmuş
 
-504 songs - 1 day 1 hr 24 min
+505 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Affet Beni](https://open.spotify.com/track/5zcjVHdSAD1PFnKcloYHbL) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Affet Beni](https://open.spotify.com/album/1RfOPexXsCeH9jLGFftWqN) | 2:32 | 2024-06-27 | 2024-07-21 |
 | [Ah Yar](https://open.spotify.com/track/2bO2ECvjWpbCy64fOpIDTc) | [Demet Özdemir](https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q) | [Ah Yar](https://open.spotify.com/album/4mwo62Bd37GCXFST365dwI) | 2:11 | 2025-09-22 |  |
 | [Ahde Vefa](https://open.spotify.com/track/1Jg14R12v9VvvUqKZuzKr9) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [Ahde Vefa](https://open.spotify.com/album/21KSHDfmvZjU8vlL72JJFI) | 2:55 | 2024-10-03 | 2024-10-11 |
+| [Ahım Var](https://open.spotify.com/track/5cJG3FmcQYqygEsKTzi9JW) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Ahım Var](https://open.spotify.com/album/7l1o7ENu5wVHwPm1NvoOeY) | 2:46 | 2026-02-19 |  |
 | [Aklım Hep Onda](https://open.spotify.com/track/3e95JlOEKVfoebYjEFC5Dj) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Aklım Hep Onda](https://open.spotify.com/album/1eecP8iu3v4vdRThMfGE9T) | 2:45 | 2025-07-17 | 2025-09-15 |
 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 | 2025-02-06 | 2025-08-01 |
 | [Allı Turnam](https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Allı Turnam](https://open.spotify.com/album/5LXJSwRHsMcsq47ZcFIW5i) | 2:28 | 2025-07-31 | 2025-08-16 |
@@ -502,7 +503,7 @@
 | [Özür Dilerim](https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Özür Dilerim](https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6) | 2:35 | 2025-01-09 |  |
 | [Özür Dilerim](https://open.spotify.com/track/0QE4d6T2bxCqpqf8vhN5Kt) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Özür Dilerim](https://open.spotify.com/album/7EBgi5b7TmEL3StT3WWUYZ) | 4:02 | 2025-05-22 | 2025-05-30 |
 | [Üzdü](https://open.spotify.com/track/37h8rUJVvJ3AjsHqFxeuo8) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [2 Şarkı](https://open.spotify.com/album/5GrJxnDfpxO83UV8jnb8x8) | 4:24 | 2025-02-06 | 2025-02-14 |
-| [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 |  |
+| [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2026-02-20 |
 | [Üzgünüm](https://open.spotify.com/track/0hhfaytUvJM5ouXayoEuPc) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Üzgünüm](https://open.spotify.com/album/4wYg0nesrlhwHUdTSs3lq4) | 2:57 | 2026-01-22 |  |
 | [Üzgünüm Aşkım](https://open.spotify.com/track/27JIwRoqmSZ85M20Im6yGR) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Üzgünüm Aşkım](https://open.spotify.com/album/08xRb60WnzSW4iH127Bi40) | 3:15 | 2026-02-12 |  |
 | [Şarkıları Sen Seç](https://open.spotify.com/track/6rSiGLKusaEhZYo7k1GeKo) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Şarkıları Sen Seç](https://open.spotify.com/album/16jPtZQ6sxaYj6mwhP1XU0) | 2:37 | 2025-08-07 | 2025-08-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175892,
+  "num_followers": 175898,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Going, Going, Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Going, Going, Gone - Acoustic",
-      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Fall In Love (Acoustic)",
         "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 238676,
       "name": "Fall In Love - Acoustic",
       "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Going, Going, Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Going, Going, Gone - Acoustic",
+      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Rock and A Hard Place (Acoustic)",
         "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 207540,
       "name": "Rock and A Hard Place - Acoustic",
       "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
         }
       ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
       },
       "artists": [
         {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "This Town's Been Too Good To Us (Stripped)",
         "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
       },
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+        "name": "Six Strings",
+        "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
+      "duration_ms": 201653,
+      "name": "Heart Shut (feat. Tenille Townes)",
+      "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1427,26 +1447,6 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Six Strings",
-        "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
-      },
-      "artists": [
-        {
-          "name": "Alex Hall",
-          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Heart Shut (feat. Tenille Townes)",
-      "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "My Left Hand (Wedding Version)",
         "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 186133,
       "name": "My Left Hand (Wedding Version)",
       "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2026-01-16 05:00:43",

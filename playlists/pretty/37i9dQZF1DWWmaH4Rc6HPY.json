@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Playa Limbo en portada.",
-  "num_followers": 37668,
+  "num_followers": 37678,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
         "name": "PIRRI",
         "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2026-01-30 06:00:19",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
         "name": "El M\u00e9ndigo D\u00eda Del Padre",
         "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2026-01-30 06:00:19",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-01-30 06:00:19",
       "album": {
-        "name": "Miedo",
-        "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        },
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 196964,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx"
-    },
-    {
-      "added_at": "2026-01-30 06:00:19",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-01-30 06:00:19",
+      "album": {
+        "name": "Miedo",
+        "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        },
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 196964,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx"
     },
     {
       "added_at": "2026-01-30 06:00:19",

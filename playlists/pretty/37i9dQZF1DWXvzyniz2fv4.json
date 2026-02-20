@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159027,
+  "num_followers": 159013,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,26 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Balan\u00e7o de Rede",
-        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
+        "name": "A Casa \u00c9 Tua",
+        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Balan\u00e7o de Rede",
-      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
+      "duration_ms": 198667,
+      "name": "A Casa \u00c9 Tua",
+      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -263,26 +271,18 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "A Casa \u00c9 Tua",
-        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
+        "name": "Balan\u00e7o de Rede",
+        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
       },
       "artists": [
         {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Blood Beatz",
-          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 198667,
-      "name": "A Casa \u00c9 Tua",
-      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
+      "duration_ms": 199680,
+      "name": "Balan\u00e7o de Rede",
+      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -427,34 +427,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00e9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Tom Cinza",
         "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
       },
@@ -511,6 +483,34 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00e9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
     },
     {
       "added_at": "2026-02-13 15:20:30",

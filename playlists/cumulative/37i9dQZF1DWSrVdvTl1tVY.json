@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+      },
+      "artists": [
+        {
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+        },
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176079,
+      "name": "Back Up",
+      "url": "https://open.spotify.com/track/3NyidCW3AsxCme8vGoS1xH"
+    },
+    {
+      "album": {
         "name": "Backfire",
         "url": "https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK"
       },
@@ -2058,6 +2080,24 @@
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/0ElzuUyDS8KbSasod7h1TC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
     },
     {
       "album": {
@@ -3322,7 +3362,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 193488,
       "name": "Cabasa",
       "url": "https://open.spotify.com/track/2dM32FbOh1fMSyuqH6YMOV"
@@ -6162,6 +6202,24 @@
       "duration_ms": 147656,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0HWV4PvPt5Z7N8rg4AX8bC"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177243,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/7CDXUYEVUm1SwPC4aVueX6"
     },
     {
       "album": {
@@ -10673,6 +10731,24 @@
     },
     {
       "album": {
+        "name": "I Got U",
+        "url": "https://open.spotify.com/album/3B6P4Vp7Pn5ueUbtoavK7T"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196340,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/7wALrcTC0lHlLpdh17gdps"
+    },
+    {
+      "album": {
         "name": "I Just Want To Love You",
         "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
       },
@@ -11316,7 +11392,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 161250,
       "name": "In Your Face",
       "url": "https://open.spotify.com/track/7uhFirt9AE12bXWqB4ILot"
@@ -11949,6 +12025,24 @@
     },
     {
       "album": {
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "album": {
         "name": "Just Stay The Night",
         "url": "https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC"
       },
@@ -12016,6 +12110,24 @@
       "duration_ms": 173604,
       "name": "Keep Forgettin'",
       "url": "https://open.spotify.com/track/1Bc9nB7Kyett9oZ4KCPm3c"
+    },
+    {
+      "album": {
+        "name": "Keep It Movin'",
+        "url": "https://open.spotify.com/album/06jAhqNyTEC8vfRA8OcTPj"
+      },
+      "artists": [
+        {
+          "name": "BETH",
+          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187725,
+      "name": "Keep It Movin'",
+      "url": "https://open.spotify.com/track/3jXZzQIDIe2IiJC6mXzeVG"
     },
     {
       "album": {
@@ -12242,6 +12354,28 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/6UnjaECUBh52YmZUw0QUa5"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Gaelle",
+          "url": "https://open.spotify.com/artist/5Y05sxUHmmYpTRHNA5u6Jy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/0ZmLjkpWlejhp6rhg6zA7B"
     },
     {
       "album": {
@@ -12598,6 +12732,24 @@
       "duration_ms": 145312,
       "name": "Lay Low - 220 Kid La La Land Version",
       "url": "https://open.spotify.com/track/6t5VdpJL48b2EuLq9XUz4d"
+    },
+    {
+      "album": {
+        "name": "Lease Of Life",
+        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166073,
+      "name": "Lease Of Life",
+      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
     },
     {
       "album": {
@@ -17055,6 +17207,28 @@
     },
     {
       "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx"
       },
@@ -17654,6 +17828,24 @@
       "duration_ms": 154859,
       "name": "People Ain't Dancing (feat. Kah-Lo)",
       "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+    },
+    {
+      "album": {
+        "name": "Tales from the Power Hour EP",
+        "url": "https://open.spotify.com/album/2OdmBZ7ijpR59J7OI7oJa6"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173550,
+      "name": "Percy Veering",
+      "url": "https://open.spotify.com/track/7BWZuW9xcmtkWcLhLfM6g9"
     },
     {
       "album": {
@@ -22567,6 +22759,24 @@
     },
     {
       "album": {
+        "name": "The Groove",
+        "url": "https://open.spotify.com/album/4FBLxAB8l8tCfFWCOi5YF5"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "The Groove",
+      "url": "https://open.spotify.com/track/6A4BdOyIcPzAeTYTJq6cPY"
+    },
+    {
+      "album": {
         "name": "The Inside",
         "url": "https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek"
       },
@@ -25902,6 +26112,32 @@
       "duration_ms": 213809,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/5jjD8vO0sCfqF03oppnVUu"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"
     },
     {
       "album": {

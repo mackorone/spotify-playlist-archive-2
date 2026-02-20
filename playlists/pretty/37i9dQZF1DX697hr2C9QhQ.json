@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 59883,
+  "num_followers": 59913,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Shades Of A Blue Orphanage (Deluxe)",
-        "url": "https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 345186,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 336613,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Shades Of A Blue Orphanage (Deluxe)",
+        "url": "https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 345186,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Live at Oxegen 2008",
-        "url": "https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq"
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
       },
       "artists": [
         {
-          "name": "Mundy",
-          "url": "https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 240453,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8"
+      "duration_ms": 228466,
+      "name": "Pride (In The Name Of Love)",
+      "url": "https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "The Best Of 1980 - 1990",
-        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Pride (In The Name Of Love)",
-      "url": "https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Rum Sodomy & The Lash (Expanded Edition)",
         "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 283826,
       "name": "A Rainy Night in Soho",
       "url": "https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Live at Oxegen 2008",
+        "url": "https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq"
+      },
+      "artists": [
+        {
+          "name": "Mundy",
+          "url": "https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8"
     },
     {
       "added_at": "2022-03-17 10:54:32",

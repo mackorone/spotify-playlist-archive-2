@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18476,
+  "num_followers": 18480,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQzvTI+Y5eeTy4hxAf4hhniHgVe",
+  "snapshot_id": "AAAAAIQzFLmmPUKtwEe82pBUMzDdHtBV",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -51,6 +51,30 @@
       "duration_ms": 176142,
       "name": "Papi",
       "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
+    },
+    {
+      "added_at": "2026-02-19 11:44:49",
+      "album": {
+        "name": "Maayam Neeyadi",
+        "url": "https://open.spotify.com/album/66XgsDlWKmaHu3TXcztoud"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Maayam Neeyadi",
+      "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -408,8 +432,8 @@
           "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
         },
         {
-          "name": "Sathyamoorthy C",
-          "url": "https://open.spotify.com/artist/3ChJYuz2a0u0yymgxdXBRT"
+          "name": "C. Sathya",
+          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
         },
         {
           "name": "Viveka",
@@ -428,12 +452,16 @@
       },
       "artists": [
         {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
           "name": "Aneesh",
           "url": "https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj"
         },
         {
-          "name": "Vighnesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/7xa7uCYXquIwjRNTU3Silg"
+          "name": "Samanwitha Prashanth",
+          "url": "https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP"
         }
       ],
       "duration_ms": 228853,

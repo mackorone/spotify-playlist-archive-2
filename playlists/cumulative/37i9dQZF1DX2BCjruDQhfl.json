@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 108260,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/0XLOhjJBDxpcL47b1pTShu"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 131004,
       "name": "Halen / Trekken",
       "url": "https://open.spotify.com/track/6J0LTt5zN5rGVtqhDqzY5A"
@@ -1760,6 +1760,24 @@
       "duration_ms": 216960,
       "name": "Het Spijt Me Dat Ik Niet Perfect Ben",
       "url": "https://open.spotify.com/track/4kJ5Wj9tRQShRGFLVWKtBm"
+    },
+    {
+      "album": {
+        "name": "HOE",
+        "url": "https://open.spotify.com/album/7DUERXZOl7uQJ38WB1gZqn"
+      },
+      "artists": [
+        {
+          "name": "Ruskey",
+          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "HOE",
+      "url": "https://open.spotify.com/track/0fB4BuWrtqYf93J9aCMQQR"
     },
     {
       "album": {
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 159360,
       "name": "Ik Voel Je",
       "url": "https://open.spotify.com/track/0DBx7trZvbNTHW4HYYstpk"
@@ -2397,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "WROKGEVOELENS",
+        "url": "https://open.spotify.com/album/30sYkjQGYY7dnPxi2dhesm"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Marcio",
+          "url": "https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134016,
+      "name": "LEIDSE",
+      "url": "https://open.spotify.com/track/4F7qTv8mrjrpAoC2Ov4cKu"
+    },
+    {
+      "album": {
         "name": "Leugens",
         "url": "https://open.spotify.com/album/5ptuKXWOSfHCbLkeIL7FYC"
       },
@@ -2726,10 +2762,32 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "album": {
@@ -3068,6 +3126,24 @@
       "duration_ms": 164980,
       "name": "No Love",
       "url": "https://open.spotify.com/track/0FoSZsi6Tj4W4IHPK3duVk"
+    },
+    {
+      "album": {
+        "name": "No stress zone",
+        "url": "https://open.spotify.com/album/0kh2WQprmeAATldxsuum22"
+      },
+      "artists": [
+        {
+          "name": "Nyarko",
+          "url": "https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "No stress zone",
+      "url": "https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c"
     },
     {
       "album": {

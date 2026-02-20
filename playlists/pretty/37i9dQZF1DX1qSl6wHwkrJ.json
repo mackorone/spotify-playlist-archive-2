@@ -1,6 +1,6 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 25545,
+  "num_followers": 25542,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Merry Blue Christmas",
-        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Williams",
-          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
-        }
-      ],
-      "duration_ms": 130532,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212626,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Merry Blue Christmas",
+        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Williams",
+          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
+        }
+      ],
+      "duration_ms": 130532,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD"
     },
     {
       "added_at": "2023-11-22 12:51:56",

@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/59yx8ngDCtq6YATujXGQyg"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224374,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF"
+    },
+    {
+      "album": {
         "name": "Al Paso",
         "url": "https://open.spotify.com/album/1HqbfQoIpDjhQJE5pkIKQX"
       },
@@ -4552,7 +4570,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -23264,7 +23282,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 269960,
       "name": "Eres la herida m\u00e1s bonita",
       "url": "https://open.spotify.com/track/516E1cUXyiGvy2xAOmwLln"
@@ -47628,6 +47646,24 @@
     {
       "album": {
         "name": "No Me Debes Nada",
+        "url": "https://open.spotify.com/album/49dNgKUXcEmhXpWETfphHh"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256162,
+      "name": "No Me Debes Nada",
+      "url": "https://open.spotify.com/track/1ibwh3Ne8ywnVNdeI4sDK2"
+    },
+    {
+      "album": {
+        "name": "No Me Debes Nada",
         "url": "https://open.spotify.com/album/6DPJieG975akEr4ZmVDlZa"
       },
       "artists": [
@@ -47638,7 +47674,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -54824,7 +54860,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 157547,
       "name": "polly pocket",
       "url": "https://open.spotify.com/track/0bAU3Jy8R12QwX8gTTlWXR"

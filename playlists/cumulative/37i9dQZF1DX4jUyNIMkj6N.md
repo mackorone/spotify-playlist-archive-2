@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-383 songs - 23 hr 4 min
+384 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Soldier Song](https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Soldier Song](https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF) | 3:32 | 2024-10-10 | 2024-12-07 |
 | [Solfager og Ormekongen](https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Solfager og Ormekongen](https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS) | 4:53 | 2021-12-02 | 2022-07-28 |
 | [Solringen \- First Flight of the White Raven LIVE](https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Solringen \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/6onBcLQqwIoGL81fFAwI82) | 4:45 | 2022-01-20 | 2022-07-21 |
-| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 |  |
+| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 | 2026-02-20 |
 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 | 2023-04-13 | 2023-05-16 |
 | [Starting Again](https://open.spotify.com/track/7BnzDWMDn1lV25kTTEefNz) | [Rebekka Lundstrøm](https://open.spotify.com/artist/3gVauPfgPGg6uKuR6dOMui) | [Starting Again](https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds) | 4:36 | 2022-03-24 | 2022-07-19 |
 | [Stay Alive \- From "The Secret Life of Walter Mitty" Soundtrack](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2021-12-02 |  |
@@ -370,6 +370,7 @@
 | [Where Are We Now](https://open.spotify.com/track/4strxrzrIlwvVdbyBm1c6W) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Where Are We Now](https://open.spotify.com/album/65UxaqiDvqdJJ3QLCVRKwW) | 3:43 | 2025-05-08 | 2025-05-26 |
 | [While He Is Still Asleep](https://open.spotify.com/track/11QGYpsukruD6f85WSDyQD) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [While He Is Still Asleep](https://open.spotify.com/album/1KGp59EIwjR3kh4eRHAHjM) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [While I Was Asleep](https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh) | 3:27 | 2021-12-02 | 2022-07-17 |
+| [Who Am I](https://open.spotify.com/track/1rB9qUObJZvI91XoIfWBbZ) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Who Am I](https://open.spotify.com/album/3MAXqtp9tiiuHRzhkCc8dO) | 5:21 | 2026-02-19 |  |
 | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/album/1hAYAyoKGVinR7S1ETybdu) | 2:57 | 2022-02-17 | 2022-07-29 |
 | [Wild Dreams](https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Wild Dreams](https://open.spotify.com/album/2UeNGwnXHPQEdouzwRUMZ5) | 4:01 | 2022-09-08 | 2022-09-27 |
 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 | 2024-03-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 109589,
+  "num_followers": 109613,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-02-06 14:30:37",
       "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+        "name": "Do Meu Jeito (Majestade)",
+        "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+      "duration_ms": 253909,
+      "name": "Do Meu Jeito (Majestade)",
+      "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
     },
     {
       "added_at": "2026-02-06 14:30:37",
@@ -715,8 +715,8 @@
     {
       "added_at": "2026-02-06 14:30:37",
       "album": {
-        "name": "Do Meu Jeito (Majestade)",
-        "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 253909,
-      "name": "Do Meu Jeito (Majestade)",
-      "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
     },
     {
       "added_at": "2026-02-06 14:30:37",
@@ -767,54 +767,6 @@
     {
       "added_at": "2026-02-06 14:30:37",
       "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
-    },
-    {
-      "added_at": "2026-02-06 14:30:37",
-      "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
-        }
-      ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2026-02-06 14:30:37",
-      "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2026-02-06 14:30:37",
-      "album": {
         "name": "Voc\u00ea Vai Cantar",
         "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
       },
@@ -835,6 +787,54 @@
     {
       "added_at": "2026-02-06 14:30:37",
       "album": {
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
+    },
+    {
+      "added_at": "2026-02-06 14:30:37",
+      "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2026-02-06 14:30:37",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+    },
+    {
+      "added_at": "2026-02-06 14:30:37",
+      "album": {
         "name": "Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
-    },
-    {
-      "added_at": "2026-02-06 14:30:37",
-      "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-02-06 14:30:37",
@@ -883,6 +867,22 @@
       "duration_ms": 247449,
       "name": "Arma Forjada",
       "url": "https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG"
+    },
+    {
+      "added_at": "2026-02-06 14:30:37",
+      "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-02-06 14:30:37",

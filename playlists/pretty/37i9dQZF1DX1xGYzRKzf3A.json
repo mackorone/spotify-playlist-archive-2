@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 168925,
+  "num_followers": 168961,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Braille EP",
+        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
+      },
+      "artists": [
+        {
+          "name": "Mene",
+          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Sopa de Letritas",
+      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 218000,
       "name": "Marybel - Remix",
       "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Braille EP",
-        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
-      },
-      "artists": [
-        {
-          "name": "Mene",
-          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Sopa de Letritas",
-      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/48uMj9tdQVX9JOy85siyEq"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "As\u00ed Te Ped\u00ed",
+      "url": "https://open.spotify.com/track/7u6mbnlARiA51m5aMkIbzX"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Ramo Buch\u00f3n",
         "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 213333,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/48uMj9tdQVX9JOy85siyEq"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "As\u00ed Te Ped\u00ed",
-      "url": "https://open.spotify.com/track/7u6mbnlARiA51m5aMkIbzX"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Quiero Volver - Live",
+      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Malvivientes",
         "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 294545,
       "name": "Malvivientes",
       "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Quiero Volver - Live",
-      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6"
-      },
-      "artists": [
-        {
-          "name": "Sam Vazquez",
-          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
-        }
-      ],
-      "duration_ms": 208269,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/5AzSus4mqRMRDmYhauyuoJ"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "No Es Que No Te Quiera Pero\u2026",
         "url": "https://open.spotify.com/album/4lT9QcAZdlOvF6Ah0AbtEn"
       },
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6"
+      },
+      "artists": [
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "duration_ms": 208269,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/5AzSus4mqRMRDmYhauyuoJ"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1931,22 +1931,6 @@
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/2YPUSBvQwfFgfe6aIsW69j"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Scratch De Versos",
-        "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
-      },
-      "artists": [
-        {
-          "name": "El Riqu\u00e9",
-          "url": "https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Materia Gris",
-      "url": "https://open.spotify.com/track/6dUdzcJRYT2uvPZxKptycR"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1967,6 +1951,22 @@
       "duration_ms": 136156,
       "name": "Vas A Perrear Como Nunca Has Perreado",
       "url": "https://open.spotify.com/track/2bKVmT0K33VdKgKxrRhU9I"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Scratch De Versos",
+        "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
+      },
+      "artists": [
+        {
+          "name": "El Riqu\u00e9",
+          "url": "https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Materia Gris",
+      "url": "https://open.spotify.com/track/6dUdzcJRYT2uvPZxKptycR"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Marcando La Diferencia",
+        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 179948,
+      "name": "Marcando La Diferencia",
+      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "El Rosario (Bonus Track)",
         "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 234000,
       "name": "El Rosario - Bonus Track",
       "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Marcando La Diferencia",
-        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 179948,
-      "name": "Marcando La Diferencia",
-      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2147,8 +2147,8 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
       },
       "artists": [
         {
@@ -2156,9 +2156,9 @@
           "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
         }
       ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+      "duration_ms": 207853,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2219,6 +2219,38 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "SaD </3 VaLENTIN",
+        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "Sexo Con Tu Ex",
+      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "ODISEA",
         "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
       },
@@ -2239,38 +2271,6 @@
       "duration_ms": 203624,
       "name": "AM\u00c1NDOTE",
       "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "SaD </3 VaLENTIN",
-        "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Sexo Con Tu Ex",
-      "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2331,30 +2331,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "GOZANDO",
-        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "GOZANDO",
-      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "El Morro Que Hace M\u00fasica",
         "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
       },
@@ -2387,6 +2363,30 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
     },
     {
       "added_at": "2025-11-09 06:50:57",

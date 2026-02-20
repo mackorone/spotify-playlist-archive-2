@@ -39952,24 +39952,6 @@
     {
       "album": {
         "name": "Detalles",
-        "url": "https://open.spotify.com/album/4cZsE4sP3zBrn9rJd9fqPQ"
-      },
-      "artists": [
-        {
-          "name": "Juan Moya Y Los Del Valle",
-          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
-        }
-      ],
-      "date_added": "2026-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170107,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/7A6ROWZxSjRlymHPy0Ej8s"
-    },
-    {
-      "album": {
-        "name": "Detalles (Remix)",
         "url": "https://open.spotify.com/album/4ptlwj3aLpJROgEwhkM9Rw"
       },
       "artists": [
@@ -39986,8 +39968,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158296,
-      "name": "Detalles (Remix)",
+      "name": "Detalles",
       "url": "https://open.spotify.com/track/7o7u5I89vBJ2TuefGbBFR8"
+    },
+    {
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/4cZsE4sP3zBrn9rJd9fqPQ"
+      },
+      "artists": [
+        {
+          "name": "Juan Moya Y Los Del Valle",
+          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170107,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/7A6ROWZxSjRlymHPy0Ej8s"
     },
     {
       "album": {

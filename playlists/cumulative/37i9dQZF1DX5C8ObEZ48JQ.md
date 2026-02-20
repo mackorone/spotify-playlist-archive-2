@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP?si=mFJS0fqxSRaiduyOBakQ3Q">Mūmbi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs?si=KnVi6xcWRYS33mxz7RqYeA">Jack Apk</a>\. Artwork: Isu Kim.
 
 1,431 songs - 2 day 23 hr 27 min
 

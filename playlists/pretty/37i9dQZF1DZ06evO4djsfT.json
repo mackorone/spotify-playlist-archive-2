@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28293,
+  "num_followers": 28299,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABaewXOtU8gsQkfs+wy0f9C",
+  "snapshot_id": "aZUBAAAAAAD577egjoQpIchp5GSjOCj6",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOT A REASON",
-        "url": "https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 169792,
-      "name": "GOT A REASON",
-      "url": "https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weight & Glory",
         "url": "https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 197066,
       "name": "Church Clap",
       "url": "https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOT A REASON",
+        "url": "https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 169792,
+      "name": "GOT A REASON",
+      "url": "https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "Not Today Satan",
-      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sheep II",
         "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 154169,
       "name": "Black Sheep II",
       "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 225809,
-      "name": "Yes Song",
-      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -710,11 +710,19 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
         }
       ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+      "duration_ms": 203195,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
     },
     {
       "added_at": null,
@@ -786,19 +794,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Cardec Drums",
-          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
         }
       ],
-      "duration_ms": 203195,
-      "name": "Danza",
-      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Be The Glory (Remix)",
-        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "God Be The Glory (Remix)",
-      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 246346,
       "name": "One Sixteen",
       "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Be The Glory (Remix)",
+        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "God Be The Glory (Remix)",
+      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
     },
     {
       "added_at": null,

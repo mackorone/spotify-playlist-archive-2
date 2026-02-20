@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-39 songs - 2 hr 0 min
+40 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Splash](https://open.spotify.com/track/4zdKDFFjZ5ZWGBRgNIwGF6) | [OLIVIO](https://open.spotify.com/artist/4AqSg5M86lgbLEEprbEajB) | [Splash](https://open.spotify.com/album/6gCrd502MTnnIfDfuytFbV) | 3:27 | 2022-05-29 |  |
 | [Stress No More](https://open.spotify.com/track/7e4AjAysr2lNQVva4Lasvy) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Stress No More](https://open.spotify.com/album/7hx7CmaGtC2odugPxf1TR8) | 3:12 | 2022-05-29 |  |
 | [Sundown](https://open.spotify.com/track/2GcFA2lRvsiq83UnWMGGeB) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Sundown](https://open.spotify.com/album/68gDsH0JmcQJhzu7cTaLZf) | 2:33 | 2022-05-29 |  |
-| [Utan dig](https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01) | [Linus S](https://open.spotify.com/artist/6bUbaWCjpjUl7pBQ4FQKgF) | [Utan dig](https://open.spotify.com/album/64F9k0bd7Zf2b5k2yd7XzQ) | 3:12 | 2022-05-29 |  |
+| [Utan dig](https://open.spotify.com/track/3QLkGh1DnNKEUFbcGpzp01) | [Linus S](https://open.spotify.com/artist/6bUbaWCjpjUl7pBQ4FQKgF) | [Utan dig](https://open.spotify.com/album/64F9k0bd7Zf2b5k2yd7XzQ) | 3:12 | 2022-05-29 | 2026-02-20 |
+| [Utan dig](https://open.spotify.com/track/00Uv9RPQNwkkck0kN2XkwW) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Utan dig](https://open.spotify.com/album/1JBAH6SAYgdLYudR895pWE) | 3:12 | 2026-02-19 |  |
 | [When We Were Kids](https://open.spotify.com/track/2upAsEC2spNx7SjeegZXed) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [When We Were Kids](https://open.spotify.com/album/3K8UDI2CeV11Mv27FVZhV6) | 3:10 | 2022-05-29 |  |
 | [Who You Are \(feat\. Robin Vane\)](https://open.spotify.com/track/4wgFtDrCUzu2d333k4Yu7K) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Better With You](https://open.spotify.com/album/5IRhCZtMZgz3jATXM0YEdI) | 2:43 | 2022-05-29 |  |
 | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/track/4xNbZHwy05mDPp8aDJSVzG) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/album/4Tfp5bhONESSxLwwKFR9Jr) | 3:20 | 2022-05-29 |  |

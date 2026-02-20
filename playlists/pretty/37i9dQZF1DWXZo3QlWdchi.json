@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 341852,
+  "num_followers": 341876,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Straight From The Heart - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "With Or Without You (Songs Of Surrender)",
         "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194812,
       "name": "With Or Without You - Songs Of Surrender",
       "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
     },
     {
       "added_at": "2025-10-03 16:58:21",

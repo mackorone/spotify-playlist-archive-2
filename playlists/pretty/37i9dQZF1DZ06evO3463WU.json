@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158313,
+  "num_followers": 158329,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAABTnLm1mfX/Qa2vzZNb/vXy",
+  "snapshot_id": "aZUBAAAAAACFlXjU+X3zfyjfagT3sjof",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/3PFFlBz7EWEuT6VeckIoyI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 171409,
       "name": "Mi Amor Y Mi Agon\u00eda",
       "url": "https://open.spotify.com/track/2LpDaTcq9mHmhIr43phoDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/3PFFlBz7EWEuT6VeckIoyI"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 194875,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo O Nada",
         "url": "https://open.spotify.com/album/1TUOGsKIg3CKeiGbIFzHdz"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Canciones de Amor (Remastered 2025)",
         "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 215224,
       "name": "La Reyna de Mi Hogar - Remastered 2025",
       "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inv\u00e9ntame Un Amor",
-        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Mariachi Santa Mar\u00eda",
-          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Llorando Una Pena",
-      "url": "https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inv\u00e9ntame Un Amor",
+        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Mariachi Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
+        }
+      ],
+      "duration_ms": 200353,
+      "name": "Llorando Una Pena",
+      "url": "https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6"
     },
     {
       "added_at": null,

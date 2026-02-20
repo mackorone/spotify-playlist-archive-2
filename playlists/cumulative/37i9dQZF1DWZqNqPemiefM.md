@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Akira Kosemura
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Exportion
 
-903 songs - 2 day 21 hr 0 min
+904 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [That Мorning](https://open.spotify.com/track/5gKCeE1TQeudhmwKQzS0OY) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Afterimage](https://open.spotify.com/album/09JqZXxkKVOdcLkzDSui6S) | 4:53 | 2022-03-30 | 2022-04-03 |
 | [That's All](https://open.spotify.com/track/7L4Ty83tfVpK5PvZB2sF3l) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:30 | 2022-03-31 | 2022-05-03 |
 | [The Bird](https://open.spotify.com/track/1JcztJ8lL7BcTbZlDGCLKL) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Transparent Leaves](https://open.spotify.com/album/5218RUgaSfamaV6MQoMLiN) | 6:51 | 2022-03-31 | 2022-06-17 |
+| [The Breath That Precedes Light](https://open.spotify.com/track/5I9csQLzfT16RQUYRr8Xr5) | [Exportion](https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q) | [On the Motion of Fortune](https://open.spotify.com/album/5ZuAyNPLSVwjUHKaOoD7JZ) | 7:06 | 2026-02-19 |  |
 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 | 2024-02-15 |  |
 | [THE ENDLESS TALKING/終りのないおしゃべり\(エンドレス・トーキング\)](https://open.spotify.com/track/1QrtWRXyq4e6ISTliifgCu) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [THE ENDLESS TALKING/エンドレス・トーキング](https://open.spotify.com/album/55TS7AN0dxJbQuTHdzXOta) | 3:01 | 2022-04-28 | 2022-07-10 |
 | [The Funeral Of A Woman Whose Soul Is Trapped In The Sun](https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN) | [The Giver Of Illness](https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch), [Ak'chamel](https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626) | [The Totemist](https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ) | 7:41 | 2024-02-08 | 2026-02-01 |

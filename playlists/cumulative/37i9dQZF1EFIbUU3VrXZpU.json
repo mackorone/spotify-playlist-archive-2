@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"
@@ -7443,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "The Instrumental R&B and Hip-Hop Collection, Vol. 25",
+        "url": "https://open.spotify.com/album/13L5EoUGMwwzuz595uQyVu"
+      },
+      "artists": [
+        {
+          "name": "The Hit Co.",
+          "url": "https://open.spotify.com/artist/2UxjiPpWHNc2txHrYy5EF3"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233787,
+      "name": "Take That (Instrumental Version)",
+      "url": "https://open.spotify.com/track/2YRMCKHZ9D0bP0HzECy2Cw"
+    },
+    {
+      "album": {
         "name": "Karaoke Girls From Da Hood Part 1",
         "url": "https://open.spotify.com/album/3PiFneciyorrQxJccOmYk5"
       },
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 229590,
       "name": "Take That (karaoke-version) As Made Famous By: Missy Elliott",
       "url": "https://open.spotify.com/track/74I3N8S3MMjFhNRTd5t5HR"
@@ -7890,10 +7908,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 162000,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/4CC2jqYzym92GOhxfg3zZl"
+    },
+    {
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/02Hh2CWTzEU9XkUCBzFIm7"
+      },
+      "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/0bQjoatL12QNQlG2GgPeB9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 316160,
+  "num_followers": 316205,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAACAV5k8t3t53trMAl2cKQOT",
+  "snapshot_id": "aZUBAAAAAAC1p0HDN1yLMu2SWV6WYfHZ",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Lying In State",
-      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 217333,
       "name": "Wake Up Dead - 2004 Remaster",
       "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Lying In State",
+      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 287493,
-      "name": "Death From Within",
-      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+      "duration_ms": 287493,
+      "name": "Death From Within",
+      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "This Was My Life",
-      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The System Has Failed",
         "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207221,
       "name": "Back In the Day",
       "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Foreclosure Of A Dream - 2004 Remastered",
-      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 252146,
       "name": "Life In Hell",
       "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Foreclosure Of A Dream - 2004 Remastered",
+      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
     }
   ],
   "unique_name": "This Is Megadeth",

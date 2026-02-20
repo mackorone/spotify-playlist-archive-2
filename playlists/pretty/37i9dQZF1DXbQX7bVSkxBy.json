@@ -1,29 +1,13 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 55313,
+  "num_followers": 55346,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC8xgnByxO6eWHFuWpkcWmFZ79g/",
+  "snapshot_id": "AAAAAIHdbG3wZcoixaNCT/IQc88o/DOy",
   "tracks": [
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Future Now",
-        "url": "https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 362556,
-      "name": "I Testify",
-      "url": "https://open.spotify.com/track/46H0xkzmrXpdrkPVH8R2n9"
-    },
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
@@ -51,6 +35,26 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
+        "name": "Biggest Name (Man of Galilee)",
+        "url": "https://open.spotify.com/album/1LZZycH5z1vzlyuyYYlFq4"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 211513,
+      "name": "Biggest Name (Man of Galilee)",
+      "url": "https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A"
     },
     {
       "added_at": "2025-07-18 00:01:14",
@@ -89,28 +93,20 @@
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
     },
     {
-      "added_at": "2026-02-06 00:01:25",
+      "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "Goodness and Mercy (Remix Pack)",
-        "url": "https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz"
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
       },
       "artists": [
         {
-          "name": "Quiz Tha Great",
-          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
-        },
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        },
-        {
-          "name": "Miracle Paul",
-          "url": "https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0"
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
         }
       ],
-      "duration_ms": 134042,
-      "name": "Goodness and Mercy - Rap Version",
-      "url": "https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3"
+      "duration_ms": 172716,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
     },
     {
       "added_at": "2025-12-12 00:01:22",
@@ -127,6 +123,50 @@
       "duration_ms": 225142,
       "name": "Ire",
       "url": "https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4"
+    },
+    {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/6thGDniAyFPCkSop8Gqf7M"
+      },
+      "artists": [
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "FIDEL E. William",
+          "url": "https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/4LCwNO8WGdmwTqcpbZ9BCg"
+    },
+    {
+      "added_at": "2026-01-30 00:01:25",
+      "album": {
+        "name": "Odimafo (Defender)",
+        "url": "https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L"
+      },
+      "artists": [
+        {
+          "name": "Morris Singz",
+          "url": "https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 155371,
+      "name": "Odimafo (Defender)",
+      "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -163,42 +203,6 @@
       "duration_ms": 465744,
       "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
-    },
-    {
-      "added_at": "2026-01-30 00:01:25",
-      "album": {
-        "name": "Odimafo (Defender)",
-        "url": "https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L"
-      },
-      "artists": [
-        {
-          "name": "Morris Singz",
-          "url": "https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP"
-        },
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        }
-      ],
-      "duration_ms": 155371,
-      "name": "Odimafo (Defender)",
-      "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
-    },
-    {
-      "added_at": "2026-01-23 00:01:16",
-      "album": {
-        "name": "Gudu Gudu",
-        "url": "https://open.spotify.com/album/4fuTMGMYEcpXIkJzeV8DAy"
-      },
-      "artists": [
-        {
-          "name": "Prexy Sam Ola",
-          "url": "https://open.spotify.com/artist/5iRkivmqchrmNzDst3gS3l"
-        }
-      ],
-      "duration_ms": 221875,
-      "name": "Gudu Gudu",
-      "url": "https://open.spotify.com/track/7GcV1YSYuxB1nYZQOnhROZ"
     },
     {
       "added_at": "2025-12-26 00:01:41",
@@ -261,20 +265,20 @@
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0VV4aY8dxHjcnsPos1rZv8"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Kole Light",
+          "url": "https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+      "duration_ms": 186383,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/38j3wn08OC9WYEBXf6qyDV"
     },
     {
       "added_at": "2025-11-07 00:01:42",
@@ -457,24 +461,20 @@
       "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -509,6 +509,42 @@
       "url": "https://open.spotify.com/track/2QbgofsZEpfnFtEEis9TIN"
     },
     {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Look Now",
+      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
+    },
+    {
       "added_at": "2025-07-18 00:01:14",
       "album": {
         "name": "Peace",
@@ -527,22 +563,6 @@
       "duration_ms": 455007,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -745,22 +765,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
       "added_at": "2025-10-10 00:01:08",
       "album": {
         "name": "Race To Peace",
@@ -775,6 +779,22 @@
       "duration_ms": 157500,
       "name": "Follow Your Lead",
       "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -947,26 +967,6 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
-        }
-      ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2024-04-05 00:01:00",

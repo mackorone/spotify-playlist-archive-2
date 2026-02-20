@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 478346,
+  "num_followers": 478319,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZOvgAAAAAB2mXP1rKdUm/GCOlhJqhbt",
+  "snapshot_id": "aZUBAAAAAAAE5AJj0xFC/MKftg+ss+D0",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Blame It on Your Love (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Did The Body",
         "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 149173,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 169042,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coconut Oil",
         "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
       },
@@ -739,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
       "artists": [
         {
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 172466,
-      "name": "GOTCHO BITCH",
-      "url": "https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE"
+      "duration_ms": 169042,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
     },
     {
       "added_at": null,
@@ -775,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juice (Breakbot Mix)",
-        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 172453,
-      "name": "Juice - Breakbot Mix",
-      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+      "duration_ms": 172466,
+      "name": "GOTCHO BITCH",
+      "url": "https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 177841,
       "name": "Worship",
       "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 175497,
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coconut Oil",
         "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225190,
       "name": "Coconut Oil",
       "url": "https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 175497,
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To"
     }
   ],
   "unique_name": "This Is Lizzo",

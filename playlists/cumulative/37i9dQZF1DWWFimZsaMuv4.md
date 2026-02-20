@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-222 songs - 10 hr 38 min
+222 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Perfect Silence](https://open.spotify.com/track/57u0tjiHDVPxU88BAkzmTj) | [Alpha Noise](https://open.spotify.com/artist/3D11xwI7KbEPyQxdYCoyI6) | [Sounds of Serenity](https://open.spotify.com/album/5torbd6LM91zIYzUDvRGhW) | 2:11 | 2023-09-20 |  |
 | [Pink Cloud Nine](https://open.spotify.com/track/7o4bNY3FD413QkOw1kc3zj) | [Pink Noise Orchestra](https://open.spotify.com/artist/5ArL02BGaSy7C4lrXl9U0s) | [Pink Noise Lullaby](https://open.spotify.com/album/4x6m8vrXN3PI9JBzSxTNu7) | 2:06 | 2023-06-16 |  |
 | [Pink Noise Air](https://open.spotify.com/track/4iu3Bn25JWPygLy26cnfx9) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Bathing in Pink Noise](https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su) | 3:22 | 2023-05-26 |  |
-| [Plane Cabin Pink Noise](https://open.spotify.com/track/7IrzMD1q565Ur3qJaZnrOu) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Plane Cabin Noise](https://open.spotify.com/album/2WSO7SV91g5sanb6KZk5yN) | 2:00 | 2023-06-16 |  |
+| [Plane Cabin Pink Noise](https://open.spotify.com/track/7IrzMD1q565Ur3qJaZnrOu) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Plane Cabin Noise](https://open.spotify.com/album/2WSO7SV91g5sanb6KZk5yN) | 3:52 | 2023-06-16 |  |
 | [Pressurized Airplane Cabin \(Noise\)](https://open.spotify.com/track/1AFz0E6B9dOXhg3ZkzFZuL) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Airplane Mode](https://open.spotify.com/album/4wbmOUDGhTXz0WxiqoAgaH) | 2:48 | 2023-06-29 |  |
 | [Private Jet Sleep](https://open.spotify.com/track/7rl3oe00C0iWzsdmRoIsuG) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 3:19 | 2023-06-29 |  |
 | [Qualitätsschlaf](https://open.spotify.com/track/43rGLS6OxlCNC9QvaHUXv8) | [Sleep FX\-Aufnahmen](https://open.spotify.com/artist/7ndOQQEeVQRksJMR6Ywmly) | [Qualitätsschlaf](https://open.spotify.com/album/6BpuM3bXaQrGQHrbnzNXkV) | 1:52 | 2023-05-26 | 2023-06-17 |

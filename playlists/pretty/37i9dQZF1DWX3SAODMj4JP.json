@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 161818,
+  "num_followers": 161834,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "O Banquete",
+        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Corpo I",
+      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "O Banquete",
-        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Corpo I",
-      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Qual \u00c9 O Pensamento",
         "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 141537,
       "name": "Qual \u00c9 O Pensamento",
       "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -611,22 +591,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
       },
       "artists": [
         {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         },
         {
-          "name": "Vagner Dida",
-          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         }
       ],
-      "duration_ms": 201247,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -643,6 +623,26 @@
       "duration_ms": 277884,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Vagner Dida",
+          "url": "https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri"
+        }
+      ],
+      "duration_ms": 201247,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
     },
     {
       "added_at": "2025-03-07 03:01:18",

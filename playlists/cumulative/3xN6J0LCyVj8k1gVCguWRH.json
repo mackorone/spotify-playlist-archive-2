@@ -88027,6 +88027,24 @@
     },
     {
       "album": {
+        "name": "Stupid Heart",
+        "url": "https://open.spotify.com/album/0STm4yYrsnXJmZqwiTV0PJ"
+      },
+      "artists": [
+        {
+          "name": "Ronny Criss",
+          "url": "https://open.spotify.com/artist/7fB9Oz2vNZm85s2t1rFfUK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249031,
+      "name": "Stupid Heart",
+      "url": "https://open.spotify.com/track/4hsBVboU7ETKgjsnpHzwu9"
+    },
+    {
+      "album": {
         "name": "NIIVA",
         "url": "https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx"
       },
@@ -88530,7 +88548,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 243900,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW"

@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dani Flow & Nfasis en portada.",
-  "num_followers": 307942,
+  "num_followers": 307950,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIlS2dsQUNES3FIC4NHcfNRVgxF",
+  "snapshot_id": "AAAAANSzG6kGiC5kRIa5gRRT1vNG0EQP",
   "tracks": [
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "CINDERELLA",
         "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 216920,
       "name": "CINDERELLA",
       "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "Lujo y Detalle",
-        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Lujo y Detalle",
-      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 169440,
       "name": "GOMIN0LA",
       "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
     },
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "Capitan O Chachito",
-        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224314,
-      "name": "Capitan O Chachito",
-      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "Lamine Yamal",
         "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "Capitan O Chachito",
+        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224314,
+      "name": "Capitan O Chachito",
+      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
     },
     {
       "added_at": "2026-01-02 06:00:23",

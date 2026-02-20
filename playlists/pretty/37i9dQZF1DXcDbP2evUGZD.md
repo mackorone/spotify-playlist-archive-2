@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2025</a>! Meet them first at the MU:CON 2025 official playlist\. \(뮤콘 2025 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,223 likes - 99 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,222 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 73 | [Bloom](https://open.spotify.com/track/4CBol2lVqoeKeS7SftTwpG) | [Jacqui](https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1) | [Dirty Mirror Selfie](https://open.spotify.com/album/19J8K7Sf4uY5FwpOZ0MqMZ) | 3:18 |
 | 74 | [Mmm !](https://open.spotify.com/track/3rytlpvQru5k0DGOuZ3MQZ) | [Jacqui](https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1) | [Dirty Mirror Selfie](https://open.spotify.com/album/19J8K7Sf4uY5FwpOZ0MqMZ) | 2:48 |
 | 75 | [fries, bb](https://open.spotify.com/track/0OkoWVHw2lWwACJ9YQBHtt) | [Jacqui](https://open.spotify.com/artist/4g07FXwEqS5euGYGo1n6x1) | [fries, bb](https://open.spotify.com/album/5mOuxWNonPXnBDlhO4BtbD) | 2:40 |
-| 76 | [Misfits' Sunday](https://open.spotify.com/track/3KB5ooWIdoCIoDhxVrJNPx) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 2:57 |
+| 76 | [Misfits' Sunday](https://open.spotify.com/track/3KB5ooWIdoCIoDhxVrJNPx) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 2:58 |
 | 77 | [As I Am](https://open.spotify.com/track/41bysUyw813nzRBPxUvTfM) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 2:45 |
 | 78 | [My Soles Worn Out](https://open.spotify.com/track/7hwVNnKXMowKAgHE2akCO2) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:28 |
 | 79 | [Somozu Fever](https://open.spotify.com/track/2elTeqDcnK2f6jttJotJx8) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [MODM 2 : The Bento Knight](https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV) | 2:53 |

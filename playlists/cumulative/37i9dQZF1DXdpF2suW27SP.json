@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "For\u00e7a Suprema, Rahiz  entram na zona. ",
+  "description": "Carl\u00e3o entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Alta Cultura - Dangerous",
+        "url": "https://open.spotify.com/album/1sudI9zUaPpCNvShiRuTC4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Alta Cultura - Dangerous",
+      "url": "https://open.spotify.com/track/2rLJhC51bvXlEsxw5rsFRJ"
+    },
+    {
+      "album": {
         "name": "Alta Cultura - Fica Calmo",
         "url": "https://open.spotify.com/album/1AcdTHA1wuXeI2uYzM5SU1"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 152755,
       "name": "Alta Cultura - Mal ou Bem",
       "url": "https://open.spotify.com/track/1wlNU4ooUWFYil0nYd2mgW"
@@ -1394,6 +1412,24 @@
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Amaz\u00f3nia",
+      "url": "https://open.spotify.com/track/7yeAc1eiLyJaZ1QvX2ApyJ"
     },
     {
       "album": {
@@ -2320,7 +2356,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 173366,
       "name": "Batalhas",
       "url": "https://open.spotify.com/track/5Vfspq0SUazrH6IQ4Q4Vdj"
@@ -5619,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dividir",
+      "url": "https://open.spotify.com/track/51Z2lRWJOCisUTP3z9AiNq"
+    },
+    {
+      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/3K8LvFUKsMj3seejRF6M0W"
       },
@@ -8735,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "In\u00edcio e Final (feat. Julinho Ksd)",
+      "url": "https://open.spotify.com/track/4tAJ2hAOKnxTwE8dMS6YMG"
+    },
+    {
+      "album": {
         "name": "Lista dos N\u00e3o Convocados (Mixtape)",
         "url": "https://open.spotify.com/album/0WxDcCImbaX1qups97EjxW"
       },
@@ -11060,7 +11136,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 140336,
       "name": "Mexi Cadera",
       "url": "https://open.spotify.com/track/33yTgyjcmpU1JSxdArUtql"
@@ -12916,7 +12992,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 168266,
       "name": "O Meu Lugar",
       "url": "https://open.spotify.com/track/5LUARBAcweeHJydX6RO70H"
@@ -13726,6 +13802,24 @@
       "duration_ms": 248421,
       "name": "Para Casa",
       "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+    },
+    {
+      "album": {
+        "name": "Para L\u00e1 Da Espuma",
+        "url": "https://open.spotify.com/album/0dVyWbsK4xt9wOQlvcJhK2"
+      },
+      "artists": [
+        {
+          "name": "Carl\u00e3o",
+          "url": "https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Para L\u00e1 Da Espuma",
+      "url": "https://open.spotify.com/track/7DCaU5AhNIzlHJ2VG0YwJR"
     },
     {
       "album": {
@@ -14670,6 +14764,32 @@
       "duration_ms": 195125,
       "name": "Pre\u00e7o",
       "url": "https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7"
+    },
+    {
+      "album": {
+        "name": "PRE\u00c7O CERTO",
+        "url": "https://open.spotify.com/album/1C9yjmSpA8qwtdgY3sSQAr"
+      },
+      "artists": [
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        },
+        {
+          "name": "Kroa",
+          "url": "https://open.spotify.com/artist/2cBkZING16JqKkEN7KEDBC"
+        },
+        {
+          "name": "YeezYuri",
+          "url": "https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176287,
+      "name": "PRE\u00c7O CERTO",
+      "url": "https://open.spotify.com/track/42E4oNpbl32FOqwcjkKVDe"
     },
     {
       "album": {
@@ -17939,6 +18059,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/3fDfSkqoPsKcnWEt3gUZ0Q"
+    },
+    {
+      "album": {
         "name": "Entrelinhas",
         "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
       },
@@ -18692,7 +18830,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 199500,
       "name": "Vai Vem",
       "url": "https://open.spotify.com/track/7GXgJi99HdLgr4N46RMIZI"
@@ -18732,7 +18870,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 232727,
       "name": "Vento",
       "url": "https://open.spotify.com/track/1kvAnM70MHm9mKFeieswme"
@@ -19584,7 +19722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-20",
       "duration_ms": 211200,
       "name": "\u00c0 tua espera",
       "url": "https://open.spotify.com/track/7781LiDh0iW2UU2PGPNjmw"

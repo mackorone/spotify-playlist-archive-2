@@ -4,7 +4,7 @@
 
 > 🍾
 
-271 songs - 15 hr 29 min
+272 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-12-08 | 2023-01-05 |
 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 | 2023-07-28 |  |
 | [Belle âme](https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:07 | 2025-11-28 |  |
+| [BETTERTIMES](https://open.spotify.com/track/7uVEmyPVdlN3A0QhKp8j7t) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49), [Alex Laine](https://open.spotify.com/artist/66TgNK79uRGaGOxeVYA8Ve) | [BETTERTIMES](https://open.spotify.com/album/7o1TmhS3lxLMfGwoEFiV4H) | 2:44 | 2026-02-19 |  |
 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 | 2025-05-16 |  |
 | [Blue Left Hand](https://open.spotify.com/track/3AHX4K5PPO81j4VF0uWe7n) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Blue Left Hand](https://open.spotify.com/album/1q4CM3Kxe4VcCNP1TSX5lP) | 3:45 | 2025-01-16 | 2025-02-15 |
 | [Bobby & Whitney \- Ashley Beedle No' West Edit](https://open.spotify.com/track/0wYNfsk8I5SXaXGmXU9KKa) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Bobby & Whitney \(Ashley Beedle Remixes\)](https://open.spotify.com/album/11Y7W8eajykFngFQV1uI9T) | 3:05 | 2023-12-01 | 2025-02-21 |
@@ -252,7 +253,7 @@
 | [To Let Myself Go](https://open.spotify.com/track/5ngEoEew3XmBNQO1cD9x2O) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:14 | 2023-01-04 | 2024-04-19 |
 | [To Let Myself Go](https://open.spotify.com/track/62d0YCTAtRcVQ8s44H9HbM) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:14 | 2024-03-22 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-12-08 | 2023-12-02 |
-| [Tongue Tied](https://open.spotify.com/track/3768OdXtIFAJYJBAXOcdCM) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Tongue Tied](https://open.spotify.com/album/6V0Acbhdfgfvb1FWWMLICS) | 3:12 | 2025-11-20 |  |
+| [Tongue Tied](https://open.spotify.com/track/3768OdXtIFAJYJBAXOcdCM) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Tongue Tied](https://open.spotify.com/album/6V0Acbhdfgfvb1FWWMLICS) | 3:12 | 2025-11-20 | 2026-02-20 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-21 | 2025-04-04 |
 | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/track/6w8cza3O4lfQksOP94V2Qw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/album/7hFlZmAmRd64a8sh7MfQmv) | 3:21 | 2022-12-08 | 2023-02-25 |
 | [Traveling](https://open.spotify.com/track/6gt5K9gmKX6nFU0Z35TPSh) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Traveling](https://open.spotify.com/album/13jajzKoI3hhybfKEBpneW) | 3:22 | 2024-06-21 | 2025-01-24 |

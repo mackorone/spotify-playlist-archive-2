@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 3 hr 41 min
+65 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Lost a Little](https://open.spotify.com/track/41sV7uznvg52Cp9MDI9sqa) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [Lost a Little](https://open.spotify.com/album/4Yps6djInQAR3P50zsncHA) | 3:32 | 2024-01-29 |  |
 | [Love Fatale](https://open.spotify.com/track/4DoUxalu1oTnLQpWbGbfXa) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [Toronto \(Vol\. 2\)](https://open.spotify.com/album/6XRKw4wDdjYwyyDPPZSGOQ) | 3:26 | 2024-01-29 |  |
 | [Love Stays \(Interlude\)](https://open.spotify.com/track/2cOwfguaJyVuoXxNBsBezP) | [SAMBA](https://open.spotify.com/artist/79g4BP5oaBzlxFzvPuhOgR), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Match My High](https://open.spotify.com/album/6W6bS0KVmQdT6s6m9pe0Y1) | 1:54 | 2024-01-29 |  |
-| [Match My High](https://open.spotify.com/track/1p0rJkhcFoNZjhfrPaiOKC) | [SAMBA](https://open.spotify.com/artist/79g4BP5oaBzlxFzvPuhOgR) | [Match My High](https://open.spotify.com/album/6cK7zU6FdtDPzEr5UF96S4) | 4:56 | 2024-01-29 |  |
+| [Match My High](https://open.spotify.com/track/1p0rJkhcFoNZjhfrPaiOKC) | [SAMBA](https://open.spotify.com/artist/79g4BP5oaBzlxFzvPuhOgR) | [Match My High](https://open.spotify.com/album/6cK7zU6FdtDPzEr5UF96S4) | 4:56 | 2024-01-29 | 2026-02-20 |
+| [Match My High](https://open.spotify.com/track/73wgTW5QxjESNh35E1ytJu) | [SAMBA](https://open.spotify.com/artist/79g4BP5oaBzlxFzvPuhOgR), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Match My High](https://open.spotify.com/album/6W6bS0KVmQdT6s6m9pe0Y1) | 4:48 | 2026-02-19 |  |
 | [Mine \(Intro\)](https://open.spotify.com/track/17jQSqEhhBa81iSkYmuGuf) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 1:50 | 2024-01-29 |  |
 | [Moving On \(feat\. Emmavie\)](https://open.spotify.com/track/0x5q5rCUSMddB44BQUXre3) | [Sivey](https://open.spotify.com/artist/4jhi6FBQkNJndD3XOunAEv), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Soulection Presents: Promise Once More](https://open.spotify.com/album/3Nde11qqXpDmmNTFuswNVr) | 4:39 | 2024-01-29 |  |
 | [Murder](https://open.spotify.com/track/7gEnK4IUcwxaoVeOTYfTWh) | [ROM](https://open.spotify.com/artist/6PXL0thYp53Z1SIubTKEot), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Soulection Presents: Promise Once More](https://open.spotify.com/album/3Nde11qqXpDmmNTFuswNVr) | 3:59 | 2024-01-29 |  |
