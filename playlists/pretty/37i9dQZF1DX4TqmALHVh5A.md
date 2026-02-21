@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : THÉA
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,423 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,461 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YA RIEN À FAIRE \(p\*\*\*\*\*\)](https://open.spotify.com/track/1j9BL0fKs460ujdeGxFD2I) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [YA RIEN À FAIRE \(p\*\*\*\*\*\)](https://open.spotify.com/album/2BaH4VEuNj8O5cDgmlVi7S) | 3:07 |
-| 2 | [ENFANT DE MA VILLE!](https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [](https://open.spotify.com/album/null) | 2:21 |
+| 2 | [ENFANT DE MA VILLE!](https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [DRACHE!](https://open.spotify.com/album/0xjX9SNPi6ZkHwv55EA64e) | 2:21 |
 | 3 | [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 |
 | 4 | [mes dégâts](https://open.spotify.com/track/3BZVvt21W0x7ADbx0X4XrP) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [mes dégâts](https://open.spotify.com/album/46ekCxsYd36dP4EPugKMrv) | 3:49 |
-| 5 | [Track 10](https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc) | [Samy](https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [J'aime](https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc) | [Samy](https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH) | [MY NAME IS LEGACY](https://open.spotify.com/album/4u8rdbMdeqSopRhY92X2Lb) | 2:08 |
 | 6 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
 | 7 | [Peaux Miroirs](https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Peaux Miroirs](https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF) | 2:54 |
 | 8 | [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 10 | [People Are Afraid](https://open.spotify.com/track/4ARZSaY13oxocIbvHBKoLi) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [People Are Afraid](https://open.spotify.com/album/5lWUoBPPotqfkEZJ4P3Mnb) | 3:49 |
 | 11 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 |
 | 12 | [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 |
-| 13 | [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [](https://open.spotify.com/album/null) | 2:52 |
+| 13 | [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [Crier Vomir Pleurer](https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg) | 2:52 |
 | 14 | [La Fable](https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa) | [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [La Fable](https://open.spotify.com/album/61giTMofDEougdMZ1vPnME) | 2:50 |
 | 15 | [Approximatif](https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Bonne chance pour la suite](https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm) | 4:05 |
 | 16 | [Je fume pour oublier que tu bois](https://open.spotify.com/track/3yig6fkLrwKm8nL3kS45oD) | [Côme Ranjard](https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz), [Benjamin Siksou](https://open.spotify.com/artist/3c8a5SxsvbvqUzstEbcgeM) | [Je fume pour oublier que tu bois](https://open.spotify.com/album/3faBJcSfGRBiZkGyMNVNHM) | 3:12 |

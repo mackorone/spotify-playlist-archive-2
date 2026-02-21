@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Chicago Disco Circus, Vol 1: Disko Night",
+        "url": "https://open.spotify.com/album/7lAIxtdwBfqvNGZGZIsFyB"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Chicago Disco Circus, Vol 1: Disko Night",
+      "url": "https://open.spotify.com/track/3A4HtqlXHdUvrpJW8K5hg0"
+    },
+    {
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8"
       },
@@ -4278,7 +4296,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168281,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/0jg3GLkmWNxHHy03Bp6YrO"
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 354677,
       "name": "Give Me Love - Louie Vega Remix Edit",
       "url": "https://open.spotify.com/track/4wxPP2iPC2PDQgi1x9tlBy"
@@ -5806,7 +5824,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 157750,
       "name": "Hold You Close",
       "url": "https://open.spotify.com/track/7uDY17CxkrjsPXTG0a2L7b"
@@ -11237,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
+    },
+    {
+      "album": {
         "name": "Rise (feat. Tasita D'Mour)",
         "url": "https://open.spotify.com/album/6PfePnzCIre7VjRWJutZmV"
       },
@@ -11778,6 +11814,24 @@
       "duration_ms": 197952,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/5ndgdr9wwdx6AGA9aykwnX"
+    },
+    {
+      "album": {
+        "name": "Scandalize",
+        "url": "https://open.spotify.com/album/4If6VbE7TrPrAvwyzd7wYH"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156017,
+      "name": "Scandalize",
+      "url": "https://open.spotify.com/track/6k2KiTbVSBuL3ErsWCinlS"
     },
     {
       "album": {
@@ -12608,7 +12662,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 151145,
       "name": "Something You Feel",
       "url": "https://open.spotify.com/track/0H2AZDP9ef8FctGWqMCZQR"
@@ -15016,6 +15070,32 @@
       "duration_ms": 269000,
       "name": "Yellow Daze - Opolopo Remix",
       "url": "https://open.spotify.com/track/67128y97g2y4zrT3ZPWdUG"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"
     },
     {
       "album": {

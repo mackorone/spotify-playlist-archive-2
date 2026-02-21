@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-301 songs - 18 hr 27 min
+303 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,10 @@
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 | 2024-09-06 |  |
 | [Labor](https://open.spotify.com/track/3Ra7J2KKsqKOHR4w9OMuEN) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:01 | 2023-01-12 | 2023-02-22 |
-| [Lady Moon](https://open.spotify.com/track/1VMBtwHltlJVdwcStLEMDM) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Greta Link](https://open.spotify.com/artist/7A4ESAV4ApIPjQRLJcm3ZJ) | [Age of Aquarius](https://open.spotify.com/album/3ZXd4o2kk2UjDcfpQnZjMN) | 6:55 | 2025-10-10 |  |
+| [Lady Moon](https://open.spotify.com/track/1VMBtwHltlJVdwcStLEMDM) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Greta Link](https://open.spotify.com/artist/7A4ESAV4ApIPjQRLJcm3ZJ) | [Age of Aquarius](https://open.spotify.com/album/3ZXd4o2kk2UjDcfpQnZjMN) | 6:55 | 2025-10-10 | 2026-02-21 |
 | [LAST WISH](https://open.spotify.com/track/7ImDK6cahdEFf5A70IaHOE) | [DIGITAL REY](https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS) | [LAST WISH](https://open.spotify.com/album/6LCTBtZtq1ogCINSnDQrA3) | 3:23 | 2023-11-09 |  |
 | [Leave](https://open.spotify.com/track/7i0Y4Lmp5Zrvu3QvKn3H9C) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [Leave](https://open.spotify.com/album/6e1FsnxiW7AuqxhzrV5jM4) | 4:29 | 2023-03-07 | 2023-03-25 |
+| [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 | 2026-02-20 |  |
 | [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [leichter//kälter](https://open.spotify.com/album/1Q3Vo8cPBMEYDnCm5982vC) | 3:15 | 2021-09-01 |  |
 | [level7 \(demo\)](https://open.spotify.com/track/4MANod8oMUPPAm4wokn5AV) | [OSAKA](https://open.spotify.com/artist/5soAIOjDZMDEn1VxZEbVA4) | [level7 \(demo\)](https://open.spotify.com/album/4YNQmLQeAIJT7G2KZ7Pc9Z) | 1:31 | 2024-03-05 |  |
 | [Lightyears](https://open.spotify.com/track/5DzgAJOHNyOhj8jxrBghHq) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité](https://open.spotify.com/album/5p7tig2puSC6MFU7wLVuc5) | 4:16 | 2020-12-21 | 2023-02-10 |
@@ -172,7 +173,7 @@
 | [Luces](https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Luces](https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j) | 3:26 | 2020-12-21 | 2024-01-12 |
 | [Lucid Dreaming](https://open.spotify.com/track/7iQM3uHalxTDWF9yfnLWUY) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Sympathy Garden](https://open.spotify.com/album/0lJDsMUvO0gnnYMEjISatI) | 2:35 | 2023-08-31 | 2024-03-06 |
 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 | 2023-02-09 |  |
-| [Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO) | [Luisa](https://open.spotify.com/album/7xcQvDJUkJmlXvNjLiFVYv) | 1:49 | 2023-08-31 |  |
+| [Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO) | [Luisa](https://open.spotify.com/album/7xcQvDJUkJmlXvNjLiFVYv) | 1:49 | 2023-08-31 | 2026-02-21 |
 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 | 2023-02-09 |  |
 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 | 2023-04-03 | 2023-04-20 |
 | [Melancholy](https://open.spotify.com/track/1CKbOdC5szD5tR0VpMPNOk) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 3:10 | 2020-12-21 | 2024-01-12 |
@@ -227,6 +228,7 @@
 | [Sadness Is Rebellion](https://open.spotify.com/track/2nlZXuEOc2jtntW37SBRTT) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 3:44 | 2023-02-09 | 2024-03-06 |
 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 | 2024-03-05 |  |
 | [scrape my teeth](https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [scrape my teeth](https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv) | 2:34 | 2023-08-31 |  |
+| [Se Fue el Sol](https://open.spotify.com/track/5imuzVaALa9imm5kLy9SbA) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Ohm](https://open.spotify.com/album/2QHDd0DUJBWc8zPKJ2xWWB) | 3:48 | 2026-02-20 |  |
 | [SEGA SUNSET](https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [RARITIES](https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s) | 3:02 | 2020-12-21 | 2024-01-12 |
 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2023-02-09 | 2023-11-02 |
 | [Sensation](https://open.spotify.com/track/6G0VtsWmC9sVtonNOc5Moc) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 4:36 | 2023-08-31 | 2023-12-12 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-630 songs - 1 day 13 hr 20 min
+632 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [In a New Way](https://open.spotify.com/track/2iUGljoQoak1plOfUETSV9) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:42 | 2023-10-25 |  |
 | [In Heaven \(Lady in the Radiator Song\)](https://open.spotify.com/track/39G7UPM6ujNpN17RmAhAEs) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 2:22 | 2023-10-25 |  |
 | [In Numbers](https://open.spotify.com/track/1oX2bQXVpS5vziV3bz0VaI) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [In Numbers](https://open.spotify.com/album/5DsFwwdySfCi1df9m4sO3P) | 3:57 | 2025-10-10 |  |
+| [In Numbers](https://open.spotify.com/track/5o7D67sy3DZHqT2lNkuOmh) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Sweet Heart Sugar Love](https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR) | 3:57 | 2026-02-20 |  |
 | [In the Morning](https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF) | [Santa Selva](https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG) | [In the Morning](https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu) | 2:57 | 2024-11-20 |  |
 | [In This Life](https://open.spotify.com/track/1TJNxZj0x71aWYF0VBl7Iy) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 3:02 | 2024-11-27 |  |
 | [Interlude](https://open.spotify.com/track/51DEOKQtG86h0Pq83rQhQx) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 1:47 | 2024-02-20 |  |
@@ -571,6 +572,7 @@
 | [These Days](https://open.spotify.com/track/6o7D1Uak91nKsXKypKznw0) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [These Days](https://open.spotify.com/album/2b4Zkl1LheUqTvx0YJMTvU) | 2:25 | 2023-10-25 |  |
 | [Things will be fine](https://open.spotify.com/track/5fDVGTBnAnB8K0Kcn3Lmf6) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:30 | 2023-10-25 |  |
 | [This World Can Wait](https://open.spotify.com/track/0yFCbNI02sCBbSSr5O7mer) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:08 | 2024-11-14 |  |
+| [Three Four](https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Sweet Heart Sugar Love](https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR) | 2:53 | 2026-02-20 |  |
 | [through](https://open.spotify.com/track/28mPBhmQS6lY68NPqrlRS3) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [through](https://open.spotify.com/album/31KJIOyefMwvgpGCTxH4Q9) | 3:25 | 2024-11-15 |  |
 | [Throw me a Bone](https://open.spotify.com/track/0ID1v4itbvkW2h5jctquxQ) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 4:00 | 2024-09-20 |  |
 | [Tide Over](https://open.spotify.com/track/74VHeSLkbAwGzk8ciuflOn) | [Shortwaved](https://open.spotify.com/artist/4TFFZEDmpTFbzd8ntR6JKZ) | [Tide Over](https://open.spotify.com/album/7A44Lho8FL4CjSE7uFpfi7) | 6:41 | 2023-10-25 |  |

@@ -8143,6 +8143,24 @@
     },
     {
       "album": {
+        "name": "Stuck In My Groove EP",
+        "url": "https://open.spotify.com/album/6bLzCIiBkAnyRVjdlfZ5QS"
+      },
+      "artists": [
+        {
+          "name": "Lumiere",
+          "url": "https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177417,
+      "name": "Stuck In This Groove - Radio Mix",
+      "url": "https://open.spotify.com/track/28LUlmUub0GfnP294ELZZ6"
+    },
+    {
+      "album": {
         "name": "STUPID",
         "url": "https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg"
       },
@@ -8318,6 +8336,24 @@
       "duration_ms": 412500,
       "name": "symphonia.",
       "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"
+    },
+    {
+      "album": {
+        "name": "Synthstorm",
+        "url": "https://open.spotify.com/album/6h7CqVK5uUP7lQS0jwGZfw"
+      },
+      "artists": [
+        {
+          "name": "Tony Kay",
+          "url": "https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312380,
+      "name": "Synthstorm",
+      "url": "https://open.spotify.com/track/7fo8e9ax1XHoF4yP2wHcQ0"
     },
     {
       "album": {

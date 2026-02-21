@@ -3877,6 +3877,28 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199831,
+      "name": "Dramatic Girl (feat. Che Ecru)",
+      "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
+    },
+    {
+      "album": {
         "name": "dreamerboi",
         "url": "https://open.spotify.com/album/0CfVqR4YYQMWEQuKkcTGcy"
       },
@@ -4974,6 +4996,24 @@
       "duration_ms": 206160,
       "name": "Floats My Boat",
       "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "album": {
@@ -7430,7 +7470,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 105951,
       "name": "Jagger",
       "url": "https://open.spotify.com/track/4TGBZwesP5VIu6chItnCRZ"
@@ -8228,7 +8268,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
@@ -9394,7 +9434,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 157979,
       "name": "My World",
       "url": "https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans"
@@ -11176,7 +11216,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 124790,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/1j63nUGlWYJ3AgqmMxV6We"
@@ -12144,6 +12184,28 @@
     {
       "album": {
         "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
         "url": "https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE"
       },
       "artists": [
@@ -12736,6 +12798,28 @@
       "duration_ms": 165977,
       "name": "Something Stupid",
       "url": "https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq"
+    },
+    {
+      "album": {
+        "name": "sometimes love means letting go",
+        "url": "https://open.spotify.com/album/6hutvnSTdYmRqYCZWdZYwx"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        },
+        {
+          "name": "Sly Jr.",
+          "url": "https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104815,
+      "name": "sometimes love means letting go",
+      "url": "https://open.spotify.com/track/7haXwJXCIif44j7JVPsh3h"
     },
     {
       "album": {

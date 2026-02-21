@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-827 songs - 1 day 17 hr 9 min
+828 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 | 2023-04-28 |
 | [Don't Left Me](https://open.spotify.com/track/5mBeCgCZbOczw4BBZoXzIa) | [CØDE](https://open.spotify.com/artist/7c5R9FOE8ceL55E6KUE1pj) | [Don't Left Me](https://open.spotify.com/album/5qf8tXchpT9rDcrx08UV8B) | 2:17 | 2023-03-24 | 2023-08-10 |
 | [Don't Stay](https://open.spotify.com/track/5QMwOxEiP3My3HaUxGj4Sf) | [NGO](https://open.spotify.com/artist/3UKatg0fWx5md56wN6mEYb) | [Don't Stay](https://open.spotify.com/album/5gBqiNczDMwkm4hM5BrhKo) | 2:34 | 2024-01-11 | 2024-08-28 |
+| [DON'T STOP NOW!](https://open.spotify.com/track/4ePliKQJLvcyDtlzqfnZF2) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx), [Jasq](https://open.spotify.com/artist/32Outb7Q3w7dRQUhUqpvpl) | [DON'T STOP NOW!](https://open.spotify.com/album/13GXMtWGDN7EJohfbuZNUl) | 2:44 | 2026-02-20 |  |
 | [Don't Surrender](https://open.spotify.com/track/7CYmaKqY6HuQrP8JBaniAP) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Don't Surrender](https://open.spotify.com/album/6rnQEX7eeA2POsxsk38QIV) | 2:45 | 2023-08-08 | 2024-03-13 |
 | [Don't Understand](https://open.spotify.com/track/068ysAB24O3bxsG2ckfOdh) | [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Don't Understand](https://open.spotify.com/album/2R53EaGCJFfcZb6Pw9k4Ff) | 2:18 | 2023-12-13 | 2024-04-17 |
 | [Don't Wake Me Up](https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Don't Wake Me Up](https://open.spotify.com/album/3BG9PweBEnI1wE8Vvtvo4L) | 2:31 | 2025-12-26 |  |

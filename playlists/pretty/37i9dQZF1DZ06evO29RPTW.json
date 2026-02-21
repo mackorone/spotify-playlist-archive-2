@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 134918,
+  "num_followers": 134931,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAAuDMC/AjWR2VdhM9e2iTFT",
+  "snapshot_id": "aZZSgAAAAADOGeLuC7NFx/w8YQrTP3QG",
   "tracks": [
     {
       "added_at": null,
@@ -178,11 +178,15 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Never Gonna Stop (The Red, Red Kroovy)",
-      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
+      "duration_ms": 251200,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
+      "duration_ms": 189133,
+      "name": "Never Gonna Stop (The Red, Red Kroovy)",
+      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
     },
     {
       "added_at": null,

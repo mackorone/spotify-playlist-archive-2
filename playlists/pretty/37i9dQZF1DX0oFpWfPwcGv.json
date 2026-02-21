@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 72355,
+  "num_followers": 72361,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
-        "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
-      },
-      "artists": [
-        {
-          "name": "Vera",
-          "url": "https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh"
-        }
-      ],
-      "duration_ms": 423003,
-      "name": "Take Me to the Bridge",
-      "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "I Want To Feel Your Love",
         "url": "https://open.spotify.com/album/5CNIhCpg0W8pdXBJ8b3ISJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/2TAuq1e91Y636PDppnI2tq"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
+        "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
+      },
+      "artists": [
+        {
+          "name": "Vera",
+          "url": "https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh"
+        }
+      ],
+      "duration_ms": 423003,
+      "name": "Take Me to the Bridge",
+      "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 433093,
-      "name": "This Time Baby - Special 12\" Version",
-      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "The Essential Evelyn \"Champagne\" King",
         "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 391693,
       "name": "Shame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 433093,
+      "name": "This Time Baby - Special 12\" Version",
+      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "'Lectric Lady",
-        "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
+        "name": "Dimitri From Paris Presents Le CHIC Remix",
+        "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
       "artists": [
         {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         },
         {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
         }
       ],
-      "duration_ms": 473240,
-      "name": "Love Is You - A Tom Moulton Mix",
-      "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+      "duration_ms": 389332,
+      "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
+      "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
     }
   ],
   "unique_name": "Disco Decadence",

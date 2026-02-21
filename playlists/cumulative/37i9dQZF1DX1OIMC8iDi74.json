@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186827,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/6SU8l6cjaSc3I9Ml9tGoRk"
@@ -6608,7 +6608,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 158571,
       "name": "HAVEN",
       "url": "https://open.spotify.com/track/7fKEuqdii6qrd5n95sC76y"
@@ -8523,6 +8523,32 @@
     },
     {
       "album": {
+        "name": "Keep Your Hands Up",
+        "url": "https://open.spotify.com/album/4vkVU0eh2aT7xuKFNbIEBN"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "nmgKeymo",
+          "url": "https://open.spotify.com/artist/2vyiggQ44J23tmBeP5xEFM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Keep Your Hands Up",
+      "url": "https://open.spotify.com/track/1XbM0X7ZhS9qMcW6ddKyuo"
+    },
+    {
+      "album": {
         "name": "KGM (irl)*",
         "url": "https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX"
       },
@@ -10057,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "MERCERDOME",
+        "url": "https://open.spotify.com/album/5ccTCd8IjJdk5isrlooxcA"
+      },
+      "artists": [
+        {
+          "name": "KILLMATTER",
+          "url": "https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5"
+        },
+        {
+          "name": "Broderick Jones",
+          "url": "https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "MERCERDOME",
+      "url": "https://open.spotify.com/track/6a0oUBuVMUEx3DRTXRwz4y"
+    },
+    {
+      "album": {
         "name": "SEEING DOUBLE EP",
         "url": "https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43"
       },
@@ -10910,7 +10958,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228691,
       "name": "need2know",
       "url": "https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h"
@@ -12912,6 +12960,24 @@
       "duration_ms": 165818,
       "name": "Reverse!",
       "url": "https://open.spotify.com/track/0KnpdxHMTCirFroK4DrS2C"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2wEDO49ptZpZhjxmb7IUp1"
+      },
+      "artists": [
+        {
+          "name": "Heimanu",
+          "url": "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0o5IDKMI1S9fpATAspv4qq"
     },
     {
       "album": {
@@ -15256,7 +15322,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132124,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/1afXl20jJheylc45ueOLrr"
@@ -15954,6 +16020,28 @@
       "duration_ms": 250285,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6B6KWZO1y3RM6nTxhAPmuC"
+      },
+      "artists": [
+        {
+          "name": "Bailo",
+          "url": "https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC"
+        },
+        {
+          "name": "Ricky Remedy",
+          "url": "https://open.spotify.com/artist/2nWD5qpzn6rGaBz5gLZvfB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218718,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0iWHDplkRdrtv9ensY6lTY"
     },
     {
       "album": {
@@ -17258,7 +17346,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 171428,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/0EeBmLAtkmLsFiQ8kaPwLI"
@@ -17792,6 +17880,28 @@
       "duration_ms": 200063,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/1wHzum4Guz5XfaGXd2t9QY"
+    },
+    {
+      "album": {
+        "name": "WRECKLESS",
+        "url": "https://open.spotify.com/album/5nCsEV5JAy3zfOCuchh6gl"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151071,
+      "name": "WRECKLESS",
+      "url": "https://open.spotify.com/track/4oejX73F36hVfzAMaaOKem"
     },
     {
       "album": {

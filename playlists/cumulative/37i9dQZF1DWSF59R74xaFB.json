@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Playa Limbo en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Ana Torroja en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 232918,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 208000,
       "name": "cerrajero - natural al natural",
       "url": "https://open.spotify.com/track/4ngJ3lddBXw6W6cQUXju8K"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
@@ -8541,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "Rosa del Desierto",
+        "url": "https://open.spotify.com/album/0PbWT0napgGLtga2K8lL61"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220634,
+      "name": "Rosa del Desierto",
+      "url": "https://open.spotify.com/track/5Kv5VXkQU88hzz3W12CFTt"
+    },
+    {
+      "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
@@ -9086,6 +9104,24 @@
       "duration_ms": 207409,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/2fcGU8AyKHG1ZLxOwokc5i"
+    },
+    {
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/3e9LeVEa0ZkncWVPem9YvB"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/2R3vDX0uy96LH8SSRVqZdk"
     },
     {
       "album": {
@@ -9987,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "tembl\u00f3",
+        "url": "https://open.spotify.com/album/6Rpc6syp1cVPq5CtbKFfTR"
+      },
+      "artists": [
+        {
+          "name": "Emilia Vega",
+          "url": "https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185785,
+      "name": "tembl\u00f3",
+      "url": "https://open.spotify.com/track/2rhdqHEsYc4iJKqt9q5ywP"
+    },
+    {
+      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -10600,7 +10654,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 213026,
       "name": "Una Lady Como T\u00fa",
       "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"

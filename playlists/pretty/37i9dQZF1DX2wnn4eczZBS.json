@@ -1,6 +1,6 @@
 {
   "description": "IJSLAND (Abel, Sef & FAISAL) op de cover",
-  "num_followers": 11243,
+  "num_followers": 11248,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Zeg Me Hoe Het Moet",
-        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 208999,
-      "name": "Zeg Me Hoe Het Moet",
-      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
-    },
-    {
-      "added_at": "2026-02-19 23:00:52",
-      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Zeg Me Hoe Het Moet",
+        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 208999,
+      "name": "Zeg Me Hoe Het Moet",
+      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
     },
     {
       "added_at": "2026-02-19 23:00:52",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
+        "name": "Iedereen Gaat Vreemd",
+        "url": "https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 143168,
+      "name": "Iedereen Gaat Vreemd",
+      "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 201627,
       "name": "Maskers",
       "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
-    },
-    {
-      "added_at": "2026-02-19 23:00:52",
-      "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 201981,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     },
     {
       "added_at": "2026-02-19 23:00:52",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Bidden In De Moshpit",
-        "url": "https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx"
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
       },
       "artists": [
         {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
         }
       ],
-      "duration_ms": 187704,
-      "name": "Bidden In De Moshpit",
-      "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
+      "duration_ms": 201981,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     },
     {
       "added_at": "2026-02-19 23:00:52",

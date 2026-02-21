@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  TAVE & Tia Gordon
+> Stripped back vibes\. Cover:  Anaïs Cardot
 
-309 songs - 17 hr 56 min
+310 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [24HRS \- Acoustic](https://open.spotify.com/track/5lrtJGxswNUHomvQDNoc2W) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [THE AFTERHOURS \(24HRS REMIX BUNDLE\)](https://open.spotify.com/album/1PeKXYEl4kDFH2adMyhOTW) | 2:53 | 2025-12-05 |  |
 | [28 Degrees In Houston \- Acoustic](https://open.spotify.com/track/1snIH5F1BcCT0ASu8iKImP) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [28 Degrees In Houston \(Acoustic\)](https://open.spotify.com/album/2xySHe99qRHvo8DFbzsVlr) | 2:18 | 2025-12-12 |  |
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
+| [3am in Paris](https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [3am in Paris](https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn) | 2:49 | 2026-02-20 |  |
 | [4EVER](https://open.spotify.com/track/1Jn4ikm3OMIii8DvdiRT2b) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 3:17 | 2025-05-16 |  |
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |
 | [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 | 2021-12-09 | 2022-06-17 |

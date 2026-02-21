@@ -1961,6 +1961,28 @@
     },
     {
       "album": {
+        "name": "DON'T STOP NOW!",
+        "url": "https://open.spotify.com/album/13GXMtWGDN7EJohfbuZNUl"
+      },
+      "artists": [
+        {
+          "name": "LOFIN",
+          "url": "https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx"
+        },
+        {
+          "name": "Jasq",
+          "url": "https://open.spotify.com/artist/32Outb7Q3w7dRQUhUqpvpl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "DON'T STOP NOW!",
+      "url": "https://open.spotify.com/track/4ePliKQJLvcyDtlzqfnZF2"
+    },
+    {
+      "album": {
         "name": "The Revolution (Remixed)",
         "url": "https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g"
       },

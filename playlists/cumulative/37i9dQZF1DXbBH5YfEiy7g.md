@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-222 songs - 23 hr 56 min
+222 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,6 @@
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thula Moya Wam \- Live At Krugersdorp](https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv) | [William Sejake](https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R) | [Thula Moya Wam \(Live At Krugersdorp\)](https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX) | 4:21 | 2026-02-06 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
-| [Track 2](https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-20 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |
@@ -219,6 +218,7 @@
 | [Wash'Umlilo](https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 6:15 | 2025-08-01 | 2025-08-06 |
 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 | 2025-11-07 | 2026-02-14 |
 | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/album/6dOtsPFsoEgXpdbNqaIYKW) | 15:00 | 2025-08-01 | 2025-08-06 |
+| [WEMBHTHE](https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [BANDLA LAKITHI](https://open.spotify.com/album/7esumreMtD9vadIsdRF7bf) | 5:44 | 2026-02-20 |  |
 | [Wenzile \- Live](https://open.spotify.com/track/2wQEpdV8eh06s1H5OSGhLv) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 22: All For You \(Live\)](https://open.spotify.com/album/1V8rJMpD0XtsBBCgAC4uU3) | 8:38 | 2024-10-11 |  |
 | [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 | 2024-10-15 | 2024-11-15 |
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2024-10-04 |  |

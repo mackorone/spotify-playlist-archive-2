@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83855,
+  "num_followers": 83847,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Kill Bill - Speed",
+        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
+      },
+      "artists": [
+        {
+          "name": "Cabrxlzin",
+          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 88068,
+      "name": "Kill Bill - Speed",
+      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 120100,
       "name": "Karma - Speed",
       "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Kill Bill - Speed",
-        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
-      },
-      "artists": [
-        {
-          "name": "Cabrxlzin",
-          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 88068,
-      "name": "Kill Bill - Speed",
-      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "NICOTINA",
-        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        }
-      ],
-      "duration_ms": 90240,
-      "name": "NICOTINA - Speed",
-      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Sustenta a Botada",
         "url": "https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 144915,
       "name": "Sustenta a Botada - Speed",
       "url": "https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "NICOTINA",
+        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        }
+      ],
+      "duration_ms": 90240,
+      "name": "NICOTINA - Speed",
+      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -987,8 +987,8 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2024-07-08 19:10:57",

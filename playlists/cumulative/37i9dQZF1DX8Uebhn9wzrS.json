@@ -5894,7 +5894,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 123529,
       "name": "Cabin Light",
       "url": "https://open.spotify.com/track/50AeEAZJ9o2s4pzVaYrum7"
@@ -8805,6 +8805,24 @@
     },
     {
       "album": {
+        "name": "Cornerlights",
+        "url": "https://open.spotify.com/album/13TbUePPE6ViouIaLJhfNB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Cornerlights",
+      "url": "https://open.spotify.com/track/79TF7WKh8CP6i05ojWUG2i"
+    },
+    {
+      "album": {
         "name": "Columns",
         "url": "https://open.spotify.com/album/5wCpqiEMc7zGKuCmjBIn6B"
       },
@@ -11411,6 +11429,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/1TVaaJfmcNwPLkxj7IntZx"
+      },
+      "artists": [
+        {
+          "name": "Neon Panda",
+          "url": "https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156178,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/2agArjJAjzA4qFO4mDPi7o"
+    },
+    {
+      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/7eqxz9vooQM1Cla93iPw4u"
       },
@@ -12525,6 +12561,28 @@
     },
     {
       "album": {
+        "name": "Everything is fine",
+        "url": "https://open.spotify.com/album/3rqui5isyEsf89zxiwqISt"
+      },
+      "artists": [
+        {
+          "name": "Thymes",
+          "url": "https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu"
+        },
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Everything is fine",
+      "url": "https://open.spotify.com/track/3g5Fhl6T1P4QHEcXQd7z6s"
+    },
+    {
+      "album": {
         "name": "Everything you need",
         "url": "https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N"
       },
@@ -13606,6 +13664,28 @@
       "duration_ms": 142392,
       "name": "Ferrochrome",
       "url": "https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B"
+    },
+    {
+      "album": {
+        "name": "Fields of Flowers",
+        "url": "https://open.spotify.com/album/4SvSY8V8tqKRyWeLCruqtB"
+      },
+      "artists": [
+        {
+          "name": "Hazue",
+          "url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU"
+        },
+        {
+          "name": "Revoir",
+          "url": "https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Fields of Flowers",
+      "url": "https://open.spotify.com/track/2Ltyyje29jtFSN5WLUkZTB"
     },
     {
       "album": {
@@ -16590,7 +16670,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173358,
       "name": "Green Coco",
       "url": "https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P"
@@ -41812,7 +41892,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 135882,
       "name": "Tired",
       "url": "https://open.spotify.com/track/31KifM78wjPdCgy5a00YgZ"
@@ -45240,7 +45320,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 133846,
       "name": "Whispers of the Wind",
       "url": "https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV"

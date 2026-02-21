@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:7hjNO6RQeqZIBZpZQdstUO">Taffy</a>
 
-1,378 songs - 2 day 15 hr 31 min
+1,379 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [FINALLY](https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:12 | 2022-06-24 | 2022-10-08 |
 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 | 2023-06-24 | 2023-09-09 |
 | [Finding Mirrors](https://open.spotify.com/track/0EH463Fps1RLF2qlecBCHh) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Finding Mirrors](https://open.spotify.com/album/1lmRglMGcYLTfZIW8EfHRU) | 3:42 | 2024-01-12 | 2024-02-17 |
+| [Fine Shit](https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Fine Shit](https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw) | 1:53 | 2026-02-20 |  |
 | [Finesse](https://open.spotify.com/track/7FCBaE2gGhlWUzUaROPqoV) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [2 Slippery](https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk) | 2:09 | 2024-02-16 | 2024-02-24 |
 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 | 2024-03-29 | 2024-04-06 |
 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-20 | 2024-11-09 |

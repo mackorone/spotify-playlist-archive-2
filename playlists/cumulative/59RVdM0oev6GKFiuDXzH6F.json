@@ -1971,6 +1971,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/3iWfVWXxMjZph4eJTJCHaw"
       },
@@ -2230,6 +2252,24 @@
       "duration_ms": 220957,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
+    },
+    {
+      "album": {
+        "name": "Body & Soul / Winning Prize",
+        "url": "https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161363,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe"
     },
     {
       "album": {
@@ -21216,6 +21256,24 @@
       "duration_ms": 197142,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m"
+    },
+    {
+      "album": {
+        "name": "Waist Move",
+        "url": "https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd"
+      },
+      "artists": [
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Waist Move",
+      "url": "https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW"
     },
     {
       "album": {

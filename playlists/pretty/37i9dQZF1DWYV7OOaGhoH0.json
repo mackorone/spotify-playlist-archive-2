@@ -1,13 +1,33 @@
 {
   "description": "The best in folk & acoustic today featuring music from Cat Clyde",
-  "num_followers": 1714006,
+  "num_followers": 1713906,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPUnYeokU1ccPm1u84X/khkLzUr",
+  "snapshot_id": "AAAAAMkqkR3doz2/w5MP2rx6ERdbL1s2",
   "tracks": [
+    {
+      "added_at": "2026-02-20 19:14:28",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
+    },
     {
       "added_at": "2026-02-13 05:00:42",
       "album": {
@@ -57,6 +77,22 @@
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
+      "added_at": "2026-02-20 05:00:48",
+      "album": {
+        "name": "When the Love Is New",
+        "url": "https://open.spotify.com/album/11LYMGT0owxMNQwnZ5ipHm"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 244659,
+      "name": "When the Love Is New",
+      "url": "https://open.spotify.com/track/0M7ReoGtrZMZsfyOuPCVwU"
+    },
+    {
       "added_at": "2026-02-13 05:00:42",
       "album": {
         "name": "Under The Streetlights",
@@ -87,6 +123,22 @@
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/6vvhhwl8XabfZJBq5d1iIB"
+    },
+    {
+      "added_at": "2026-02-20 05:00:48",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
     },
     {
       "added_at": "2026-02-13 05:00:42",
@@ -151,6 +203,22 @@
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
+    },
+    {
+      "added_at": "2026-02-20 05:00:48",
+      "album": {
+        "name": "What Are You Thinking Of?",
+        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/45pWokYj1xP4VXSpxROH9P"
     },
     {
       "added_at": "2026-02-13 05:00:42",
@@ -1635,118 +1703,6 @@
       "duration_ms": 191198,
       "name": "Tu Fantasma",
       "url": "https://open.spotify.com/track/3RdxaQyDTWu6QmDakA7uTd"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 217185,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 247648,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Nothing I Need",
-        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Nothing I Need",
-      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Cruel Joke",
-        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wolf In Sheep\u2019s Clothes",
-      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Beg, Steal, Borrow",
-      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     }
   ],
   "unique_name": "Roots Rising",

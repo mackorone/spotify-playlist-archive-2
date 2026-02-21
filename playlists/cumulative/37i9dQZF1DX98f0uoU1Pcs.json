@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 225186,
       "name": "Break the Tension",
       "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 258933,
       "name": "Broadcast",
       "url": "https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex"
@@ -2028,6 +2028,24 @@
       "duration_ms": 148106,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/3273Kpy786sstHxwBMMlnn"
+    },
+    {
+      "album": {
+        "name": "Calcium",
+        "url": "https://open.spotify.com/album/5xZQEfkuDqLyZOHZ6fg1vO"
+      },
+      "artists": [
+        {
+          "name": "Accessory",
+          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170451,
+      "name": "Calcium",
+      "url": "https://open.spotify.com/track/3zonc3ETbpfha6IsNbigeD"
     },
     {
       "album": {
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 248114,
       "name": "Drawbacks",
       "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
@@ -5466,7 +5484,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 306146,
       "name": "Goon Show",
       "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
@@ -6066,6 +6084,24 @@
       "duration_ms": 226492,
       "name": "Heavy Heart - Edit",
       "url": "https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw"
+    },
+    {
+      "album": {
+        "name": "Hedgesitting",
+        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286771,
+      "name": "Hedgesitting",
+      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
     },
     {
       "album": {
@@ -7297,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "Instakill",
+        "url": "https://open.spotify.com/album/33TaWZPisjvUodC0QI2Iu6"
+      },
+      "artists": [
+        {
+          "name": "Stuck",
+          "url": "https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Instakill",
+      "url": "https://open.spotify.com/track/3344AMSXldXlpbYzhcjBar"
+    },
+    {
+      "album": {
         "name": "Shook",
         "url": "https://open.spotify.com/album/7KTAkz6cGXjFqpxUZIG8WH"
       },
@@ -7762,7 +7816,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 221589,
       "name": "King",
       "url": "https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW"
@@ -7982,6 +8036,24 @@
       "duration_ms": 175116,
       "name": "Left Right Forward",
       "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+    },
+    {
+      "album": {
+        "name": "Legs In A Snare",
+        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194538,
+      "name": "Legs In A Snare",
+      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
     },
     {
       "album": {
@@ -9282,7 +9354,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 268389,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta"
@@ -9846,6 +9918,24 @@
       "duration_ms": 280866,
       "name": "Nothing's Changed",
       "url": "https://open.spotify.com/track/6LHUubtVwmThrbG7GA3W8K"
+    },
+    {
+      "album": {
+        "name": "Numerology",
+        "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
+      },
+      "artists": [
+        {
+          "name": "My New Band Believe",
+          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258064,
+      "name": "Numerology",
+      "url": "https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep"
     },
     {
       "album": {
@@ -13593,6 +13683,24 @@
     },
     {
       "album": {
+        "name": "The Sound It Made",
+        "url": "https://open.spotify.com/album/3ejGatYed8blR2jFn3Vtbm"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158981,
+      "name": "The Sound It Made",
+      "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"
+    },
+    {
+      "album": {
         "name": "The Talker",
         "url": "https://open.spotify.com/album/5BXR50ykahvMIalgUfzYmD"
       },
@@ -14815,6 +14923,24 @@
     },
     {
       "album": {
+        "name": "EXPO",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Weights & Measures",
+      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
+    },
+    {
+      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -14938,7 +15064,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144782,
       "name": "Whatever You Say Man (feat. White Reaper)",
       "url": "https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI"

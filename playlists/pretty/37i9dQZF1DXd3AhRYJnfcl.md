@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,227 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,275 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 9 | [LAW NASYANY](https://open.spotify.com/track/2yGYedTBTlRtXzmlrXL4wi) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [LAW NASYANY](https://open.spotify.com/album/0PgOjyhg5YNV5yq4q7PRVK) | 3:05 |
 | 10 | [Ghebet El Habayeb](https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 4:03 |
 | 11 | [Kelma](https://open.spotify.com/track/0GqXFN7jjKYWjiNyPtozdX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ghammadt Einy](https://open.spotify.com/album/4gg2CJrmvibTRGgHbzfj2H) | 4:09 |
-| 12 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
+| 12 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
 | 13 | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex) | 3:36 |
 | 14 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
 | 15 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |

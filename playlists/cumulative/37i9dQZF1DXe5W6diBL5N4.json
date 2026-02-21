@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: IVE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: Hearts2Hearts (\ud558\uce20\ud22c\ud558\uce20)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -49216,7 +49216,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 198000,
       "name": "Crown",
       "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
@@ -52744,6 +52744,24 @@
       "duration_ms": 284575,
       "name": "Dayspring",
       "url": "https://open.spotify.com/track/2mZFOCs7cOP2uVYeEt2xIk"
+    },
+    {
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Dazzle Flash",
+      "url": "https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0"
     },
     {
       "album": {
@@ -58227,6 +58245,24 @@
     },
     {
       "album": {
+        "name": "Does Love Always Hurt",
+        "url": "https://open.spotify.com/album/3JUrrwmIXCoDTDS2BNugr9"
+      },
+      "artists": [
+        {
+          "name": "EUNICE",
+          "url": "https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233433,
+      "name": "Does Love Always Hurt",
+      "url": "https://open.spotify.com/track/5lNLozPQ9cnUFvLi2AmXv8"
+    },
+    {
+      "album": {
         "name": "DOG",
         "url": "https://open.spotify.com/album/7LQwfb0iRgbpoZubvfV8r9"
       },
@@ -61585,7 +61621,7 @@
       "artists": [
         {
           "name": "SORAN",
-          "url": "https://open.spotify.com/artist/6XVC2bgX6oelMWXQE2wGKL"
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
       "date_added": "2026-02-19",
@@ -71330,6 +71366,24 @@
       "duration_ms": 180000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4EVTF3X6bJa1NcEokzusC2"
+    },
+    {
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/79pU4sEkEAcaT6uYNEJHVh"
+      },
+      "artists": [
+        {
+          "name": "Sii",
+          "url": "https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/1oakOStb5cfwTC2vSNkEr6"
     },
     {
       "album": {
@@ -109814,7 +109868,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156000,
       "name": "I QUIT XANNY (feat. Kid Milli)",
       "url": "https://open.spotify.com/track/3Ij2FW1ZdhGpuEDZZTTQDR"
@@ -122849,6 +122903,36 @@
     },
     {
       "album": {
+        "name": "IYWO",
+        "url": "https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "YOONSEOK",
+          "url": "https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN"
+        },
+        {
+          "name": "WOOKI",
+          "url": "https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN"
+        },
+        {
+          "name": "OF'F",
+          "url": "https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "IYWO",
+      "url": "https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt"
+    },
+    {
+      "album": {
         "name": "N/a",
         "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
       },
@@ -125338,6 +125422,24 @@
       "duration_ms": 179150,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/1DsZiNbPwS6WyHdm6P9RZi"
+    },
+    {
+      "album": {
+        "name": "Just as I am",
+        "url": "https://open.spotify.com/album/0Jbrqtnva5a4LcApVeBiPt"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227571,
+      "name": "Just as I am",
+      "url": "https://open.spotify.com/track/1hVvnKg4Jh18CZF5I3Vxnw"
     },
     {
       "album": {
@@ -135558,7 +135660,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 244000,
       "name": "Like a wave",
       "url": "https://open.spotify.com/track/3MILbPAQppdWCGskVqlMre"
@@ -153604,6 +153706,28 @@
       "duration_ms": 190893,
       "name": "MICHELIN CYPHER",
       "url": "https://open.spotify.com/track/41J6fcsioFDdh410It3BUt"
+    },
+    {
+      "album": {
+        "name": "Microhabitat",
+        "url": "https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Microhabitat (feat. Kim gyeol)",
+      "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
     },
     {
       "album": {
@@ -177676,7 +177800,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 222000,
       "name": "Our Memories Under the Stars",
       "url": "https://open.spotify.com/track/6TuJ8lNXcHuOEsjeMfC36m"
@@ -197162,7 +197286,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 141000,
       "name": "ROSES",
       "url": "https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme"
@@ -197602,6 +197726,24 @@
       "duration_ms": 203360,
       "name": "RUCKUS",
       "url": "https://open.spotify.com/track/6X17eeNgCoYfNPOwHfTsSv"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -215460,7 +215602,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197647,
       "name": "Sparkling Yellow Stars",
       "url": "https://open.spotify.com/track/1Eyimsotbp2gNLkn091VBi"
@@ -247089,6 +247231,24 @@
     },
     {
       "album": {
+        "name": "No tail to tell, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0I18WwCqRKGFMQLv5YJI62"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "True Love (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2J1yM6Rmw9ud2EJMjMYXYL"
+    },
+    {
+      "album": {
         "name": "SOULBYSEL Compilation 02",
         "url": "https://open.spotify.com/album/7MQeO9OhUuCPlNd44bXHTj"
       },
@@ -249572,7 +249732,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228000,
       "name": "Under Me",
       "url": "https://open.spotify.com/track/7mvXhsHK2ybmD5k9GQ1h9q"
@@ -273620,7 +273780,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186000,
       "name": "You make me crzy",
       "url": "https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p"
@@ -275308,7 +275468,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197000,
       "name": "YOUR EYES",
       "url": "https://open.spotify.com/track/4JKoezs2gVjdyuBbZPM0IA"
@@ -279122,6 +279282,24 @@
       "duration_ms": 225451,
       "name": "\ub05d\ub098\uc9c0 \uc54a\uc740 \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/0tSfMzPKVqUdi5S29DcTin"
+    },
+    {
+      "album": {
+        "name": "\ub05d\uc5d0\uc11c \ub05d",
+        "url": "https://open.spotify.com/album/0SYUaWUCjoCJwQpauU4cJQ"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Stand",
+          "url": "https://open.spotify.com/artist/6pNFXAMb6iPCEO6fmyTYsE"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190577,
+      "name": "\ub05d\uc5d0\uc11c \ub05d",
+      "url": "https://open.spotify.com/track/0fRXRxQzn0KTrACBGxudLU"
     },
     {
       "album": {

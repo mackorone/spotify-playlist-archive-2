@@ -4,7 +4,7 @@
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-105 songs - 7 hr 4 min
+106 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Thorns In My Flesh](https://open.spotify.com/track/4FSyWukxlZE36c1Wp3Rkzc) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:54 | 2022-07-01 | 2022-07-03 |
 | [Through the Eyes of a Raven](https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 5:09 | 2022-05-30 | 2025-09-20 |
 | [Time Is Black](https://open.spotify.com/track/5aMAkoRfoGSa245NPn15iw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 5:23 | 2022-06-01 | 2022-10-05 |
+| [To The Last Breath](https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [To The Last Breath](https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6) | 4:57 | 2026-02-21 |  |
 | [Turn to Dust \- Instrumental](https://open.spotify.com/track/6Zb8zjJrGEjYRzKsXIuGH6) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 0:38 | 2024-03-13 | 2024-06-04 |
 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 | 2022-05-30 |  |
 | [Vivre Libre](https://open.spotify.com/track/1GhrLheC4G4oGjm2VL2DVv) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:07 | 2025-03-30 | 2025-04-01 |

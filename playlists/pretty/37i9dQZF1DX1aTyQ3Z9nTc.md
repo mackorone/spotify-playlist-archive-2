@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > KAYTRANADA celebrates the release of his new album with a takeover with that bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,601 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,599 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 3 | [By the Sea](https://open.spotify.com/track/6s3WNFoFcRLk16MS0xI1Uo) | [Wendy & Bonnie](https://open.spotify.com/artist/4FirQ33WFYSxKUY7KRjGqU) | [Genesis](https://open.spotify.com/album/3sq7WzlP6sal02b8opb0b7) | 3:58 |
 | 4 | [I Know We Could Be So Happy Baby \(If We Wanted To Be\)](https://open.spotify.com/track/4oq6sHpGfB4UmX36jK9Cz0) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:27 |
 | 5 | [Pressure Cooker](https://open.spotify.com/track/0JSNZh46LnjwGqn1f4002C) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [I've Got The Music In Me](https://open.spotify.com/album/49q5arYD0N0SITH10JtLMs) | 4:24 |
-| 6 | [Pressure \(feat\. Jay\-Z\)](https://open.spotify.com/track/2grmagJB45Dhvc4R9Hxh65) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:47 |
+| 6 | [Pressure \(feat\. Jay\-Z\)](https://open.spotify.com/track/2grmagJB45Dhvc4R9Hxh65) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:47 |
 | 7 | [Stupid Lies](https://open.spotify.com/track/4Py5JgVGP1oBbpbzXUBQiW) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 2:36 |
 | 8 | [Lovelight](https://open.spotify.com/track/2JizpfEEYC94XOv6koT6xl) | [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Olesi: Fragments of an Earth](https://open.spotify.com/album/4QQGowOzr8uWYIFPbzwQC2) | 2:08 |
 | 9 | [Orbitz](https://open.spotify.com/track/0rIdxlN1w6ZF9Rpko0o1kC) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Alone Together](https://open.spotify.com/album/3Z295aI1J54wiMXVkj21wu) | 0:39 |

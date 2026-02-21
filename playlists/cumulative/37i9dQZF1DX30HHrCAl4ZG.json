@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Broken Social Scene",
+  "description": "Explore all things indie rock right now. Featuring music from Liz Cooper",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "105",
+        "url": "https://open.spotify.com/album/7j6jhAp9F1TnyskG9lMs2v"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144145,
+      "name": "105",
+      "url": "https://open.spotify.com/track/2i5R1iPGTfmycvWURBj4Vo"
+    },
+    {
+      "album": {
         "name": "10:36",
         "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
       },
@@ -256,7 +274,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 163906,
       "name": "19",
       "url": "https://open.spotify.com/track/4dd4aXsxKoFIabi7tYlpQz"
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 210301,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 203154,
       "name": "Ain\u2019t For The Faint",
       "url": "https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
@@ -3250,7 +3268,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 159893,
       "name": "Barnard",
       "url": "https://open.spotify.com/track/5Eif8jXrg8NtFe8Wufw9A6"
@@ -3794,6 +3812,24 @@
       "duration_ms": 157955,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/5bcAsvVeaZnTl2juM3HGYt"
+    },
+    {
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5Ev2w3fmyrYkYg8j23YAZU"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/29wasPuhAidYxMC6WXR3JS"
     },
     {
       "album": {
@@ -4468,7 +4504,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
@@ -4526,6 +4562,24 @@
       "duration_ms": 191764,
       "name": "Blue Copper",
       "url": "https://open.spotify.com/track/1W7FKWfoWQa0RMJ4ETdnjB"
+    },
+    {
+      "album": {
+        "name": "Blue Fairy",
+        "url": "https://open.spotify.com/album/2TtrqrgTpOPInXcj9FmcCl"
+      },
+      "artists": [
+        {
+          "name": "Clarion",
+          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159527,
+      "name": "Blue Fairy",
+      "url": "https://open.spotify.com/track/0tTfzkTDrCO9iX5hiBHjl7"
     },
     {
       "album": {
@@ -9898,7 +9952,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 243390,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7klqS8ANxWfwFatHuDsL49"
@@ -14817,6 +14871,24 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/6P1eyTGIP1gvSvixx3Sea1"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218476,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/7xKtm7nXBMwdQTkHyL1m3d"
+    },
+    {
+      "album": {
         "name": "Haunted World",
         "url": "https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n"
       },
@@ -16260,7 +16332,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 233141,
       "name": "I CARE",
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
@@ -17980,6 +18052,24 @@
       "duration_ms": 244546,
       "name": "Intake",
       "url": "https://open.spotify.com/track/4h78x5FcSa6RZbnhkzDdP6"
+    },
+    {
+      "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/6IE54t4dhpEIX9kI3lWjJY"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij"
     },
     {
       "album": {
@@ -20945,6 +21035,24 @@
     },
     {
       "album": {
+        "name": "Love Will Kill Me",
+        "url": "https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx"
+      },
+      "artists": [
+        {
+          "name": "Hetta Falzon",
+          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Love Will Kill Me",
+      "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
+    },
+    {
+      "album": {
         "name": "LOVEBITES",
         "url": "https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7"
       },
@@ -21552,6 +21660,24 @@
       "duration_ms": 149068,
       "name": "Marlboro Nights 2",
       "url": "https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL"
+    },
+    {
+      "album": {
+        "name": "marry me to dopamine",
+        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213083,
+      "name": "marry me to dopamine",
+      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
     },
     {
       "album": {
@@ -23343,6 +23469,24 @@
     },
     {
       "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "album": {
         "name": "My Name on a T-Shirt",
         "url": "https://open.spotify.com/album/5M01zE7XhWA9PWSSvfi67Y"
       },
@@ -24914,7 +25058,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 115738,
       "name": "One of Each",
       "url": "https://open.spotify.com/track/12eWiYEblFgedfDE46en5r"
@@ -26785,6 +26929,32 @@
     },
     {
       "album": {
+        "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
+      },
+      "artists": [
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Antony Genn",
+          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
+        },
+        {
+          "name": "Martin Slattery",
+          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266759,
+      "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+      "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
+    },
+    {
+      "album": {
         "name": "Puppy Princess",
         "url": "https://open.spotify.com/album/1yXAYcuyEvKKc8SKJVnmyM"
       },
@@ -27524,7 +27694,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 185533,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/00g9FpnPpWq9D6pSlazJy3"
@@ -28518,6 +28688,24 @@
       "duration_ms": 199149,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/3qTx09RfTk18uwaJ2hKiVx"
+    },
+    {
+      "album": {
+        "name": "Scratches",
+        "url": "https://open.spotify.com/album/46TI1jzxbi0jaIjhq3CMA9"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195406,
+      "name": "Scratches",
+      "url": "https://open.spotify.com/track/3tpqmATobykYj8Z89YCgVq"
     },
     {
       "album": {
@@ -30920,7 +31108,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 202877,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/6hPXdgRVXu1X04HenogfCN"
@@ -32700,10 +32888,28 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 170750,
       "name": "Tearing Away",
       "url": "https://open.spotify.com/track/77yVVQ6nZMCOWB0FGUMOsH"
+    },
+    {
+      "album": {
+        "name": "Tears Are",
+        "url": "https://open.spotify.com/album/55qNiuxAaaC6YHvFQMmz6M"
+      },
+      "artists": [
+        {
+          "name": "The Orielles",
+          "url": "https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332405,
+      "name": "Tears Are",
+      "url": "https://open.spotify.com/track/7stcnuYJENeGeElIewTiSM"
     },
     {
       "album": {
@@ -33238,7 +33444,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197564,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/1f2ef3Upp7f4On9KIoFoZZ"
@@ -36386,7 +36592,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186987,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
@@ -37002,7 +37208,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 187731,
       "name": "What's In My Head",
       "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
@@ -38250,7 +38456,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 102466,
       "name": "YELLOW PLUTO",
       "url": "https://open.spotify.com/track/1YwTX6uxwqcmjmd5lkJVwg"
@@ -38419,6 +38625,24 @@
     },
     {
       "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244766,
+      "name": "You Were Solved",
+      "url": "https://open.spotify.com/track/2GCpKaWWtcM6UKG2oJ2hut"
+    },
+    {
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -38542,7 +38766,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 131726,
       "name": "Yucky's Song",
       "url": "https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr"

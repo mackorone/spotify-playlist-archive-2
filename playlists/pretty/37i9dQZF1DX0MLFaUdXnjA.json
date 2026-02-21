@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
-  "num_followers": 1801132,
+  "num_followers": 1801022,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSFkLrYw9yYX8RDXjI9iqXty2UU",
+  "snapshot_id": "AAAAAGd/6P9VrK9HrPB6GbtTnfwOO6nh",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:47",
@@ -23,6 +23,58 @@
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "added_at": "2026-01-30 00:00:09",
+      "album": {
+        "name": "You Stole The Show",
+        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 207190,
+      "name": "You Stole The Show",
+      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
+    },
+    {
+      "added_at": "2026-02-20 17:49:49",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -57,70 +109,6 @@
       "url": "https://open.spotify.com/track/75yQOshwRa0DiiCOylVwnV"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "You Stole The Show",
-        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 207190,
-      "name": "You Stole The Show",
-      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/4vacitZKKjz1PBOtTwWkp2"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/2deosh9uwwwECK6Z20YOCK"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
-        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 193012,
-      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
-      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
       "added_at": "2026-02-06 05:00:49",
       "album": {
         "name": "Cry",
@@ -141,20 +129,100 @@
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
     },
     {
-      "added_at": "2026-02-13 05:00:47",
+      "added_at": "2026-02-20 05:00:44",
       "album": {
-        "name": "pocket knife",
-        "url": "https://open.spotify.com/album/0TQmZAfuXMYWYLF9UUUDHq"
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
       "artists": [
         {
-          "name": "Maya J'an",
-          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 208575,
-      "name": "pocket knife",
-      "url": "https://open.spotify.com/track/3zw5VNP6TiCdjTsPdWaUuu"
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4vacitZKKjz1PBOtTwWkp2"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/2deosh9uwwwECK6Z20YOCK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "mad world",
+        "url": "https://open.spotify.com/album/5ICQnbZihkkawIoikvOcbd"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 154380,
+      "name": "mad world",
+      "url": "https://open.spotify.com/track/1B8vE6SLPu04H0y9E7waDw"
+    },
+    {
+      "added_at": "2026-01-09 05:00:49",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Shadow Of A Bird",
+        "url": "https://open.spotify.com/album/2q7MrQ1wRDkJCpzhPdkgwi"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "duration_ms": 207845,
+      "name": "Shadow Of A Bird",
+      "url": "https://open.spotify.com/track/5khNrNDRBfOpMZccGImGVZ"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -173,20 +241,20 @@
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
-      "added_at": "2026-01-09 05:00:49",
+      "added_at": "2026-02-13 05:00:47",
       "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+        "name": "pocket knife",
+        "url": "https://open.spotify.com/album/0TQmZAfuXMYWYLF9UUUDHq"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+      "duration_ms": 208575,
+      "name": "pocket knife",
+      "url": "https://open.spotify.com/track/3zw5VNP6TiCdjTsPdWaUuu"
     },
     {
       "added_at": "2026-02-13 05:00:47",
@@ -225,22 +293,6 @@
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "f u jonathan",
-        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 157055,
-      "name": "u made a smart girl dumb!!",
-      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "Lover Girl",
@@ -257,6 +309,22 @@
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
     },
     {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Favorite Person",
+        "url": "https://open.spotify.com/album/4Z6g0egtF1nHzHAGrfizXh"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 159729,
+      "name": "Favorite Person",
+      "url": "https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf"
+    },
+    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "The Art of Loving",
@@ -271,6 +339,38 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/5yMdykRjtY0u6qOpmwuGu0"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 162351,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2TEysTPzmaFHWr9wdkurgS"
+    },
+    {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "added_at": "2026-02-13 05:00:47",
@@ -383,6 +483,22 @@
       "duration_ms": 136800,
       "name": "Normal Feelings",
       "url": "https://open.spotify.com/track/6sMPcbrBEdc8ZxSmidIkzy"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "American Doll",
+        "url": "https://open.spotify.com/album/5XvgDR0gGcqvuokAjOErIo"
+      },
+      "artists": [
+        {
+          "name": "Maya Manuela",
+          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
+        }
+      ],
+      "duration_ms": 161188,
+      "name": "LAURA",
+      "url": "https://open.spotify.com/track/7H96Nyr9xo81KAFKK7PAkh"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -745,22 +861,6 @@
       "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
-      "added_at": "2026-01-16 05:00:28",
-      "album": {
-        "name": "long haul",
-        "url": "https://open.spotify.com/album/42WkbA7vPKZ1tUjPZT7JHS"
-      },
-      "artists": [
-        {
-          "name": "Sidney",
-          "url": "https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8"
-        }
-      ],
-      "duration_ms": 204431,
-      "name": "long haul",
-      "url": "https://open.spotify.com/track/1bRQgLhzAaW5uqpKem3nxk"
-    },
-    {
       "added_at": "2026-01-09 18:19:49",
       "album": {
         "name": "I'm Crying, Are You?",
@@ -889,22 +989,6 @@
       "url": "https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H"
     },
     {
-      "added_at": "2025-12-12 05:00:48",
-      "album": {
-        "name": "The Price",
-        "url": "https://open.spotify.com/album/2OJcl3GrTfXg8hOXs99YJP"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 189492,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/62EGmGmjAzX23NzkpIn00c"
-    },
-    {
       "added_at": "2026-01-09 18:49:15",
       "album": {
         "name": "At The Beach, In Every Life",
@@ -919,22 +1003,6 @@
       "duration_ms": 303698,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
-    },
-    {
-      "added_at": "2025-11-28 05:00:25",
-      "album": {
-        "name": "Toyota Camry",
-        "url": "https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 246516,
-      "name": "Toyota Camry",
-      "url": "https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA"
     },
     {
       "added_at": "2025-12-05 05:05:38",
@@ -1451,22 +1519,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7qBpyVM9uE6l43uhjDBgLl"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0LJ1jj9Sya8yg9zbTFwjhu"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -1483,38 +1535,6 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "something like this",
-        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
-      },
-      "artists": [
-        {
-          "name": "Cil",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "something like this",
-      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Incurable Optimist",
-        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 200964,
-      "name": "Tomorrow's Tomorrow",
-      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1635,22 +1655,6 @@
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     }
   ],
   "unique_name": "Chill Pop",

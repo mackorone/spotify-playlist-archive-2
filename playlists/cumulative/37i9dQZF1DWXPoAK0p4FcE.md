@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: SHERRY
 
-159 songs - 11 hr 3 min
+160 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |
 | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf) | 3:16 | 2025-08-08 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-27 | 2025-04-12 |
+| [หวังว่าเราจะไม่พบกันอีก \(Hello, Goodbye!\)](https://open.spotify.com/track/2nDfwvNrFTZzMZoiyYIUjL) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [Human Certificate](https://open.spotify.com/album/5GUEyeFL6NXFMc0N1zbFbn) | 4:01 | 2026-02-20 |  |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 | 2025-06-28 |
 | [หาย](https://open.spotify.com/track/0ztahKmSIUIdr2F8Iy8ZYw) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [หาย](https://open.spotify.com/album/0UDjVe5A2IGrMAeLEZt3m6) | 4:20 | 2025-03-21 | 2025-07-12 |
 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 | 2024-08-30 | 2024-11-29 |
@@ -148,7 +149,7 @@
 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 | 2025-11-21 | 2026-02-03 |
 | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/track/7DCeytp6V1Pp7U5sMfE7qb) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [แม้ว่าจะเหลือแค่เพียงน้ำตา \( Tears \)](https://open.spotify.com/album/3RZJaIhAUcjQLa61I0tPZM) | 4:23 | 2025-11-21 |  |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2024-06-27 | 2024-10-12 |
-| [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos) | 5:06 | 2026-02-02 |  |
+| [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/track/3x48XhiGJb4z77U84VNGTK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [โทรศัพท์หาคนบนฟ้า](https://open.spotify.com/album/6CpcMEDGbHpyiqHfVN2Pos) | 5:06 | 2026-02-02 | 2026-02-21 |
 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 | 2025-09-05 |  |
 | [โลก \(Missing\)](https://open.spotify.com/track/2mYDnxshyoh6TW2dkjHhh7) | [tinn](https://open.spotify.com/artist/1zDqtVjZrcKpg4xwaGdKlC) | [Bitter Sweet Things](https://open.spotify.com/album/0ZLJC25IXJetxllm9Z9tyO) | 2:58 | 2024-11-01 | 2025-01-24 |
 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 | 2025-02-21 | 2025-10-25 |

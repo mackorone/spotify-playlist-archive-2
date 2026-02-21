@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 44947,
+  "num_followers": 44954,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-19 23:00:38",
       "album": {
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
+    },
+    {
+      "added_at": "2026-02-19 23:00:38",
+      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
-    },
-    {
-      "added_at": "2026-02-19 23:00:38",
-      "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-02-19 23:00:38",

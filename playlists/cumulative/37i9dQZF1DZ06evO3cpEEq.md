@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 |  |
+| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 | 2026-02-21 |
 | [All Good Fun](https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:33 | 2023-08-10 | 2026-02-20 |
 | [All Good Fun \- Live @ Studio Goonga, 2019](https://open.spotify.com/track/6b051VFccFPDnLXwDOJX2Z) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [All Good Fun \(Live @ Studio Goonga, 2019\)](https://open.spotify.com/album/37BOImeDfA77dEkVWqvAJG) | 3:43 | 2023-09-18 | 2024-06-14 |
 | [Amazing](https://open.spotify.com/track/2eWvmojw75d2yaPARaKj22) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:01 | 2023-06-17 | 2025-12-30 |
@@ -89,7 +89,7 @@
 | [Swingtown](https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:25 | 2023-07-12 | 2026-02-02 |
 | [Take Me Back](https://open.spotify.com/track/1Uaddq5yoeTw1EGaUXeVqe) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:56 | 2023-07-06 | 2026-02-11 |
 | [Tears](https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Leave On A Light \(The Songs Of Karl Broadie\)](https://open.spotify.com/album/2REprfLuELHBfhQbGRuSJp) | 4:13 | 2023-06-17 |  |
-| [That Boy Sure Can Jump a Train](https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:40 | 2023-06-17 | 2026-02-19 |
+| [That Boy Sure Can Jump a Train](https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:40 | 2023-06-17 |  |
 | [That's What I Call Love](https://open.spotify.com/track/2kab9AsEvFdnT1OeSn1U7W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:32 | 2023-06-17 | 2026-02-11 |
 | [The Flood](https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:55 | 2023-06-17 |  |
 | [This Is Life](https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:51 | 2023-06-17 |  |

@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234390,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8"
+    },
+    {
+      "album": {
         "name": "Wranglers",
         "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
       },

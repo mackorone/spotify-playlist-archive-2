@@ -1,80 +1,32 @@
 {
-  "description": "50% techno, 50% house \u26d3\ufe0f Tech house operators, featuring DJ Minx",
-  "num_followers": 701762,
+  "description": "50% techno, 50% house \ud83d\udca5 Tech house operators, featuring HILLS & WELKER",
+  "num_followers": 701819,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfxvmtsT36r+p4JPCeuQ/mK2dc1",
+  "snapshot_id": "AAAAAB8OyIarG4u3H99m7QAFTikF/REO",
   "tracks": [
     {
-      "added_at": "2026-02-13 05:00:36",
+      "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/0B7bXDBpSaOWEL4yASImrW"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
         },
         {
-          "name": "Kendra Foster",
-          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
         }
       ],
-      "duration_ms": 172913,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+      "duration_ms": 189523,
+      "name": "Swagger",
+      "url": "https://open.spotify.com/track/468PuGB2Aii62sRbKupxD9"
     },
     {
       "added_at": "2026-02-13 05:00:36",
@@ -97,20 +49,72 @@
       "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
     },
     {
-      "added_at": "2026-01-27 22:33:36",
+      "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Picture: Volkoder Part 1",
-        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
       },
       "artists": [
         {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 181874,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "I Don't Want To",
+        "url": "https://open.spotify.com/album/3EctQMphj2fWCEnkUeYTbD"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 227209,
+      "name": "I Don't Want To",
+      "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -129,28 +133,76 @@
       "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
     },
     {
-      "added_at": "2026-01-30 05:00:45",
+      "added_at": "2026-02-20 23:36:04",
       "album": {
-        "name": "Hell Yeah (Feat. Waxmaster)",
-        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Parris Mitchell",
-          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
-        },
-        {
-          "name": "Waxmaster",
-          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Hell Yeah (Feat. Waxmaster)",
-      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-01-27 22:33:36",
+      "album": {
+        "name": "Picture: Volkoder Part 1",
+        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
+    },
+    {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "duration_ms": 172913,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/694NBSqbODzPdeg9fWbmjA"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5Qb6BbM9zkHXg3X7OCXzbb"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -169,20 +221,20 @@
       "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
     },
     {
-      "added_at": "2026-02-13 05:00:36",
+      "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Sixth Sense",
-        "url": "https://open.spotify.com/album/6O36KmDcrgLTGo89pRqll5"
+        "name": "Body & Soul / Winning Prize",
+        "url": "https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp"
       },
       "artists": [
         {
-          "name": "Kieran San Jose",
-          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 145459,
-      "name": "Sixth Sense",
-      "url": "https://open.spotify.com/track/2e9k1CQ5sq1KwMQBuItk1j"
+      "duration_ms": 161363,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe"
     },
     {
       "added_at": "2025-11-14 05:00:31",
@@ -209,24 +261,40 @@
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     },
     {
-      "added_at": "2026-02-13 05:00:36",
+      "added_at": "2026-01-09 05:00:35",
       "album": {
-        "name": "Girl on Girl",
-        "url": "https://open.spotify.com/album/5ZoICYgEzwuCGonP4w6qcB"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/62N5iJwmbeNaoG8sUYAhVh"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
         }
       ],
-      "duration_ms": 255454,
-      "name": "Girl on Girl",
-      "url": "https://open.spotify.com/track/6785lvSkoSl3I5CYtx3fMq"
+      "duration_ms": 166477,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6uaReMYzSpw9NFReHxAs1J"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Headshake",
+        "url": "https://open.spotify.com/album/4RMRZYoDtikYNHFFYaCXiZ"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Headshake",
+      "url": "https://open.spotify.com/track/5M3qjL1GfsAcpCqVcTELKm"
     },
     {
       "added_at": "2026-01-16 05:00:33",
@@ -249,6 +317,22 @@
       "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
     },
     {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/6O36KmDcrgLTGo89pRqll5"
+      },
+      "artists": [
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "duration_ms": 145459,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/2e9k1CQ5sq1KwMQBuItk1j"
+    },
+    {
       "added_at": "2026-02-06 05:00:30",
       "album": {
         "name": "Touched EP",
@@ -263,6 +347,82 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "The Bank EP",
+        "url": "https://open.spotify.com/album/1t3t3TfRuudnwWTFzAn0sE"
+      },
+      "artists": [
+        {
+          "name": "Balanka",
+          "url": "https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "TBNK",
+      "url": "https://open.spotify.com/track/5jfU1CxmstTzx7b3bjrevH"
+    },
+    {
+      "added_at": "2026-01-30 05:00:45",
+      "album": {
+        "name": "Hell Yeah (Feat. Waxmaster)",
+        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Parris Mitchell",
+          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
+        },
+        {
+          "name": "Waxmaster",
+          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Hell Yeah (Feat. Waxmaster)",
+      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/3Gm9uilx7xgHervSuHrhEj"
+      },
+      "artists": [
+        {
+          "name": "HIISAK",
+          "url": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
+        },
+        {
+          "name": "Reeva",
+          "url": "https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r"
+        }
+      ],
+      "duration_ms": 150642,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/4owC4efdLUPtVFqoubrmj3"
+    },
+    {
+      "added_at": "2026-02-20 23:36:04",
+      "album": {
+        "name": "Waist Move",
+        "url": "https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd"
+      },
+      "artists": [
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Waist Move",
+      "url": "https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW"
     },
     {
       "added_at": "2026-01-30 17:08:27",
@@ -299,6 +459,58 @@
       "duration_ms": 207429,
       "name": "Jaguar (Feat. Eloise Keeble)",
       "url": "https://open.spotify.com/track/0FlEMLNFhZ0UrF4hvnoWyY"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/1mqBB0tiMPokLwVyGAt6r7"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/5arUbuxt5SmwdiRwsjfCPW"
+    },
+    {
+      "added_at": "2026-02-13 05:00:36",
+      "album": {
+        "name": "Girl on Girl",
+        "url": "https://open.spotify.com/album/5ZoICYgEzwuCGonP4w6qcB"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 255454,
+      "name": "Girl on Girl",
+      "url": "https://open.spotify.com/track/6785lvSkoSl3I5CYtx3fMq"
+    },
+    {
+      "added_at": "2026-02-20 23:36:04",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/1V0QDndPUNd0RPNN6XvZBt"
+      },
+      "artists": [
+        {
+          "name": "Carvalho(BR)",
+          "url": "https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/2L4Qi64RztsNtyF8x8vVas"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -431,26 +643,6 @@
       "duration_ms": 168250,
       "name": "Activate",
       "url": "https://open.spotify.com/track/5AA3QcxRWrdJmvrfUdGFlV"
-    },
-    {
-      "added_at": "2026-01-09 05:00:35",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/62N5iJwmbeNaoG8sUYAhVh"
-      },
-      "artists": [
-        {
-          "name": "Kamino",
-          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 166477,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6uaReMYzSpw9NFReHxAs1J"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -707,26 +899,6 @@
       "duration_ms": 185156,
       "name": "Ice In My Eyes",
       "url": "https://open.spotify.com/track/6h7BeqJkbKztoZxGY8gk1R"
-    },
-    {
-      "added_at": "2026-02-13 05:00:36",
-      "album": {
-        "name": "KILLA",
-        "url": "https://open.spotify.com/album/3Gm9uilx7xgHervSuHrhEj"
-      },
-      "artists": [
-        {
-          "name": "HIISAK",
-          "url": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
-        },
-        {
-          "name": "Reeva",
-          "url": "https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r"
-        }
-      ],
-      "duration_ms": 150642,
-      "name": "KILLA",
-      "url": "https://open.spotify.com/track/4owC4efdLUPtVFqoubrmj3"
     },
     {
       "added_at": "2026-02-06 17:54:28",
@@ -1329,26 +1501,6 @@
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Twist It",
-        "url": "https://open.spotify.com/album/09WfwScc48ji39uTL5RXzL"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        },
-        {
-          "name": "FREAK ON",
-          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Twist It",
-      "url": "https://open.spotify.com/track/1odxo0bx2NenaCwwq69V0A"
-    },
-    {
       "added_at": "2025-11-14 15:05:32",
       "album": {
         "name": "Kids",
@@ -1381,26 +1533,6 @@
       "url": "https://open.spotify.com/track/2DiPXjBn3mkDOLwLsTqBHU"
     },
     {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Smack That",
-        "url": "https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "Funk It",
@@ -1415,38 +1547,6 @@
       "duration_ms": 228188,
       "name": "Funk It",
       "url": "https://open.spotify.com/track/3yFovGJTvTbV1JlbWhvh1y"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Turn The Lights Off (with Jaxstyle) [HILLS & Dansyn Remix]",
-        "url": "https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD"
-      },
-      "artists": [
-        {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
-        },
-        {
-          "name": "Jaxstyle",
-          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
-        },
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        },
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
-      "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
     },
     {
       "added_at": "2026-01-09 05:00:35",
@@ -1657,42 +1757,6 @@
       "url": "https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237"
     },
     {
-      "added_at": "2026-01-09 05:00:35",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/1Q45n2hY2QgvXrZrJJkmgn"
-      },
-      "artists": [
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/6Q6azhdz0iwaHhcCLsj9k5"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "BOTA (feat. MC Lan)",
-        "url": "https://open.spotify.com/album/03SZzt5XMIIiRwukZkCgxL"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BOTA (feat. MC Lan)",
-      "url": "https://open.spotify.com/track/4FaRs5JRhBCMsTLmmqcGGQ"
-    },
-    {
       "added_at": "2025-12-05 05:00:23",
       "album": {
         "name": "Another Hit",
@@ -1777,26 +1841,6 @@
       "url": "https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn"
     },
     {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "EZ (feat. Puku)",
-        "url": "https://open.spotify.com/album/1VRoccWTmZMUlRGRM0KBxo"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 178038,
-      "name": "EZ (feat. Puku)",
-      "url": "https://open.spotify.com/track/002dBRKtXSr5Iajr6hAd1f"
-    },
-    {
       "added_at": "2025-08-08 04:01:30",
       "album": {
         "name": "WTF",
@@ -1847,22 +1891,6 @@
       "duration_ms": 155624,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
-    },
-    {
-      "added_at": "2025-11-07 05:44:08",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
       "added_at": "2025-10-24 14:55:30",
@@ -1919,22 +1947,6 @@
       "duration_ms": 149204,
       "name": "Ecstasy (Take Your Shirts Off) - DJ Licious Remix",
       "url": "https://open.spotify.com/track/3qKz4gYsU8aOJXld0SPawR"
-    },
-    {
-      "added_at": "2025-10-31 04:00:39",
-      "album": {
-        "name": "I Got The Gas",
-        "url": "https://open.spotify.com/album/4lojIUpOSpgDWi99qmBeX2"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Neal",
-          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "I Got The Gas",
-      "url": "https://open.spotify.com/track/64cHiZ9v6Ke1TCKPWZMPuC"
     },
     {
       "added_at": "2025-11-07 05:00:37",
@@ -2191,46 +2203,6 @@
       "duration_ms": 163269,
       "name": "Cry (Just A Little)",
       "url": "https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Galvanize (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 223618,
-      "name": "Galvanize - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Backtrack Blow Up (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/6CQ9rcuravEBO6IOIjyIKy"
-      },
-      "artists": [
-        {
-          "name": "Samantha Loveridge",
-          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Backtrack Blow Up - Max Styler Remix",
-      "url": "https://open.spotify.com/track/2gyyB70dNaYPD5yKWCpOlV"
     },
     {
       "added_at": "2025-08-08 04:01:30",

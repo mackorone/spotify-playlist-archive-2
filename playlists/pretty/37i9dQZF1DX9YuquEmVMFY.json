@@ -1,358 +1,830 @@
 {
-  "description": "[THE MARCHING OF AG! TOUR IN SEOUL] 2026.01.31 @ YES24\ub77c\uc774\ube0c\ud640",
-  "num_followers": 39515,
-  "original_name": "On Tour Korea: ATARASHII GAKKO!",
+  "description": "[DETOX Asia Tour 2026 in Korea] 02.27-28 @ \uc7a0\uc2e4\uc2e4\ub0b4\uccb4\uc721\uad00",
+  "num_followers": 39523,
+  "original_name": "On Tour Korea: ONE OK ROCK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1",
+  "snapshot_id": "AAAAAEFowQpSeBlOwEWD0wR4/p+W6RIC",
   "tracks": [
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+        "name": "DETOX (International Version)",
+        "url": "https://open.spotify.com/album/3MAE3S3GzzErgUKqLq2UKr"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 184773,
-      "name": "OTONABLUE",
-      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+      "duration_ms": 208666,
+      "name": "Tropical Therapy",
+      "url": "https://open.spotify.com/track/3gap4AuGFSfeR0oOSPTNsk"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 242250,
-      "name": "One Heart",
-      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
+      "duration_ms": 255484,
+      "name": "We are",
+      "url": "https://open.spotify.com/track/4QL5DKkPZwBXkph4fW2Y0Z"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "\ub098\ub780\ud788 \ub098\ub780\ud788 (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/1rlMLLKihzjtrNCmSZ5eyH"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
       },
       "artists": [
         {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 244538,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/51jNm9g0nRKfYUXx0CQcae"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Stand Out Fit In",
+      "url": "https://open.spotify.com/track/17EiIn0d2tftCjJrGOrbFj"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 214091,
+      "name": "Tiny Pieces",
+      "url": "https://open.spotify.com/track/036iUO4liHzQnxsHtgNowt"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/5YeMEudvokfIWmueG4ce3L"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Puppets Can't Control You",
+        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "\u4eba\u751f\u00d7\u50d5\uff1d",
+        "url": "https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1J6MFj60gFCvYqOtjoYkM0"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1xeikRZtZYOymGJAxOm1dr"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 257807,
+      "name": "This Can\u2019t Be Us",
+      "url": "https://open.spotify.com/track/26vXyc7EvoKwqJUTBo01na"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 203922,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/2GN1B22Dbk598irIocvQmI"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 178031,
+      "name": "Party\u2019s Over",
+      "url": "https://open.spotify.com/track/5frSRn5j45iBAn9baq5TZk"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 180211,
+      "name": "Let Me Let You Go",
+      "url": "https://open.spotify.com/track/6PM8wi7Z9LnM426pJT47kY"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 232964,
+      "name": "+Matter",
+      "url": "https://open.spotify.com/track/4HbYbjDZeCgubdSvFaBOmn"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/1zPsa7aCICVvxBpPuzA9JJ"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 184543,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/0g3TpQFLDLUwjj56BCxsou"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         },
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 224297,
-      "name": "\ub098\ub780\ud788 \ub098\ub780\ud788 (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/33UW0S5w5bBTaB5GD96RW7"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "Sailor, Sail On",
-        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248136,
-      "name": "Sailor, Sail On",
-      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "NAINAINAI",
-        "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 193877,
-      "name": "NAINAINAI",
-      "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "Go Wild / Miyao",
-        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 164267,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Fly High",
-      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/5ssnfj7TGiqSmgGbUMfroM"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
         },
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Some Type Of Skin (Ft. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/0XosFVK1iMaeVKSRoUWTVK"
+      "duration_ms": 188626,
+      "name": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "url": "https://open.spotify.com/track/71E4lKbdJljCPVfgXqg4hL"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "I was King",
+      "url": "https://open.spotify.com/track/0LwktKzh7qjyrWpcrUsqhn"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Wasted Nights",
+      "url": "https://open.spotify.com/track/2gSQoIbvF2hDfIayhF7QLa"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 218992,
+      "name": "Listen (featuring Avril Lavigne)",
+      "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Take what you want (featuring 5 Seconds of Summer)",
+      "url": "https://open.spotify.com/track/1P3cdB5wydoRlTFRz0bNLO"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/7tUfjtfQLYCIRoStmdboBB"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 231940,
+      "name": "The Pilot </3",
+      "url": "https://open.spotify.com/track/62eJtpke7vPVXnCn98Rzl0"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "35xxxv",
+        "url": "https://open.spotify.com/album/7KtMmS3E9mm8MeB9JUx0v2"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/35u1HQH5grjygDHlmImpax"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 226769,
+      "name": "Prove",
+      "url": "https://open.spotify.com/track/52ag4tcZZ9ZSRZJPELSUzV"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Broken Heart of Gold",
+        "url": "https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 253487,
+      "name": "Broken Heart of Gold",
+      "url": "https://open.spotify.com/track/5DLqCKIi1lquKvGTIjlf6I"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 216970,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/62i2LI6iDmAHbE9H9wa99z"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/4vXiNswx89Q5jE9eB8KCT9"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "35xxxv",
+        "url": "https://open.spotify.com/album/7KtMmS3E9mm8MeB9JUx0v2"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Cry out",
+      "url": "https://open.spotify.com/track/1yDQHmQ4uxcC3qrYpd702l"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 219084,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/7bmdV1IiqeCIK1Lb3klDVV"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "In the Stars (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/3VESewT7ERH2wtE5OyuKWH"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "35xxxv",
+        "url": "https://open.spotify.com/album/7KtMmS3E9mm8MeB9JUx0v2"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Mighty Long Fall",
+      "url": "https://open.spotify.com/track/68unkgYfyfZDWSVz7FoY8Z"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194264,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/71MTBfRQTn7AxOPVtAB8gB"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         },
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 133802,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+      "duration_ms": 192888,
+      "name": "Free Them (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/0kiEbXlAps3N4kCKFtOL59"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Go Wild / Miyao",
-        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Miyao - 10th Anniversary Version",
-      "url": "https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI"
+      "duration_ms": 182370,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7uPqCPyYOZV9OqRfGCKhoP"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
-    },
-    {
-      "added_at": "2026-01-26 02:00:15",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 191194,
+      "duration_ms": 176946,
       "name": "Change",
-      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+      "url": "https://open.spotify.com/track/14DNw6R24Vcm4lzaSFn3oz"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "\u9752\u6625\u6c38\u9060",
-        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
       },
       "artists": [
         {
-          "name": "Shonan No Kaze",
-          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 215465,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1KGDfQnjkz98Ht1fG6MayU"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 203442,
+      "name": "Bedroom Warfare",
+      "url": "https://open.spotify.com/track/641v1GDGA1OYzn4LKksAyt"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "\u6b8b\u97ff\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/46tySm112BCkEkfssfPODv"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "\u30ad\u30df\u30b7\u30c0\u30a4\u5217\u8eca",
+      "url": "https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "35xxxv",
+        "url": "https://open.spotify.com/album/7KtMmS3E9mm8MeB9JUx0v2"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 225453,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3Od9KboHdqw7eJiR1jCwz7"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         },
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "Satoshi Fujihara",
+          "url": "https://open.spotify.com/artist/7hAm1vHUQJI1ymDy8bNkCM"
         }
       ],
-      "duration_ms": 265053,
-      "name": "\u9752\u6625\u6c38\u9060",
-      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
+      "duration_ms": 191959,
+      "name": "Gravity (feat. Satoshi Fujihara) [OFFICIAL HIGE DANDISM]",
+      "url": "https://open.spotify.com/track/2sjFLSGUKxYT8qSuuLHAdx"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 165960,
-      "name": "Omakase",
-      "url": "https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ"
+      "duration_ms": 200253,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/79oyoDlPustmUs5yIlhbBI"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 156560,
-      "name": "Toryanse",
-      "url": "https://open.spotify.com/track/4i48TEB2wcgSF3QKbbeBCt"
+      "duration_ms": 195666,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/0TnsHXFPmukAwCKE5vkDax"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+      "duration_ms": 196400,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/33Hu2f48qijCrfa7NlLkXN"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Pineapple Kryptonite",
-        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Pineapple Kryptonite",
-      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+      "duration_ms": 227347,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/4lUpv1FFjb7B2IaZu8O8Sb"
     },
     {
-      "added_at": "2026-01-26 02:00:15",
+      "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 251866,
-      "name": "amayo no seppun",
-      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+      "duration_ms": 263853,
+      "name": "Bombs away",
+      "url": "https://open.spotify.com/track/5kIYyeGwlDKCFUN2SFofGd"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 202291,
+      "name": "Outta Sight",
+      "url": "https://open.spotify.com/track/5WqJTNhzupAvCDFt8jJ834"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 256088,
+      "name": "Your Tears are Mine",
+      "url": "https://open.spotify.com/track/18rY0odTZPuODbH8QBnsmP"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "\u5b8c\u5168\u611f\u899aDreamer",
+      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
     }
   ],
-  "unique_name": "On Tour Korea: ATARASHII GAKKO!",
+  "unique_name": "On Tour Korea: ONE OK ROCK",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY"
 }

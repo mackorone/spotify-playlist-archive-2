@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Can I Take You Home",
+        "url": "https://open.spotify.com/album/11DdfoOJMI9WR5pqzXeE0z"
+      },
+      "artists": [
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197801,
+      "name": "Can I Take You Home",
+      "url": "https://open.spotify.com/track/24B0ePrVEASYgMp3MyxSWs"
+    },
+    {
+      "album": {
         "name": "Can You Pay?",
         "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
       },
@@ -5442,7 +5460,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 176664,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK"
@@ -8092,7 +8110,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 96010,
       "name": "kompa romance",
       "url": "https://open.spotify.com/track/2QVApYjHq8L7ikec5l4UW1"
@@ -8562,6 +8580,24 @@
       "duration_ms": 133234,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+    },
+    {
+      "album": {
+        "name": "LIGHT IT UP",
+        "url": "https://open.spotify.com/album/3tg2JhImF3Bk8HMYgrjRzW"
+      },
+      "artists": [
+        {
+          "name": "Halogen",
+          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "LIGHT IT UP",
+      "url": "https://open.spotify.com/track/1sCmwjwL5n4rAcajCQEy6z"
     },
     {
       "album": {
@@ -11175,6 +11211,24 @@
     },
     {
       "album": {
+        "name": "only the best",
+        "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202525,
+      "name": "only the best",
+      "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7hHkHLdur7B5iz1TjrBpbZ"
       },
@@ -12846,7 +12900,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 307083,
       "name": "Runaways (feat. Bonnie McKee)",
       "url": "https://open.spotify.com/track/3S9GLal6O79Kqb1HH7f54y"
@@ -13034,6 +13088,32 @@
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
       "album": {
@@ -13992,7 +14072,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-484 songs - 1 day 1 hr 39 min
+488 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
 | [BALENCIAGA DOGS](https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [$USPICIOUSLY WEALTHY FURRIE$](https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7) | 1:31 | 2025-07-03 |  |
 | [Best friend](https://open.spotify.com/track/3GuAaedm9h7AtcDfZY3ymI) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [Dangwoo](https://open.spotify.com/artist/1I1fniaM5aQpdPmWZq0hWv), [Kruyo](https://open.spotify.com/artist/5iUiHeYlymptgOr8hdFHwe), [Chase](https://open.spotify.com/artist/4eIQ6kXx8kwoW4ykKQ3nNI), [Cross](https://open.spotify.com/artist/75hD2nouxnATI5mcNqoHpT), [Coolman](https://open.spotify.com/artist/7HXmQqlhwWd4kHlAg0A9cD), [Niloc](https://open.spotify.com/artist/2VDjNNL97uqtKSSWXlJUSS) | [Best friend](https://open.spotify.com/album/25US1PpTgszREgddFdqMoU) | 3:30 | 2024-03-25 |  |
+| [Best Pony](https://open.spotify.com/track/7ohh6tH0STpX1A5rzzjQfL) | [Sophiaaaahjkl;8901](https://open.spotify.com/artist/7otvnD5KZH9KfeMk62VqSj), [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Best Pony](https://open.spotify.com/album/1T5NMb5Oq7ilxod1IZvQoA) | 5:28 | 2026-02-20 |  |
 | [better start](https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [better start](https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg) | 1:49 | 2025-06-27 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2023-06-14 |  |
 | [Birdbrain!](https://open.spotify.com/track/40UHPOWIPMkI5jUnRJ81jl) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Birdbrain!](https://open.spotify.com/album/1ATnijcOqHEqtPn1IRoMlN) | 4:19 | 2025-12-20 |  |
@@ -174,6 +175,7 @@
 | [Gorveve](https://open.spotify.com/track/2golnpSgmVjIgUjvlz4CWk) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 | 2025-01-25 |  |
 | [Gospel for Triumph](https://open.spotify.com/track/0HqHMuxRCndUaivcYjUBqR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 3:23 | 2025-07-06 |  |
 | [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 |  |
+| [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/6yTpWXx5VvVfL8acHx8jYi) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [Great Fairy Fountain \(From "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/album/30f9j2ZuaOY0GTtyhdQ5kk) | 3:30 | 2026-02-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HEAT](https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HEAT](https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v) | 4:00 | 2025-07-29 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 | 2025-08-13 |
@@ -413,6 +415,7 @@
 | [SPOTS 2](https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS 2](https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC) | 2:30 | 2025-08-15 |  |
 | [SSRIs](https://open.spotify.com/track/1fIFWhfMRU9gZOB0flDOzN) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 2:01 | 2025-10-27 | 2025-10-29 |
 | [Stars Slumbering In The Shade](https://open.spotify.com/track/3NVIDqMy2rnRkHu78Bqwc0) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 4:08 | 2023-12-15 |  |
+| [Stay With Me](https://open.spotify.com/track/1olQDDyFl2VoptI4PO7s6f) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Stay With Me](https://open.spotify.com/album/5ghEdRGCMpU5zBMjDsG2k9) | 2:38 | 2026-02-20 |  |
 | [STEREO](https://open.spotify.com/track/6zv74Wofa6MjtFb6g0LSy1) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [STEREO](https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR) | 2:29 | 2024-07-14 |  |
 | [Stranded](https://open.spotify.com/track/2Fp950faiPewSg3cyRSk8u) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Stranded](https://open.spotify.com/album/7sByh9eDixb9KBnzhcx9oh) | 3:24 | 2024-11-25 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-18 |  |
@@ -492,5 +495,6 @@
 | [You'll Be Gone](https://open.spotify.com/track/0WQ7qaeId6XAi704MbQM1x) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [You'll Be Gone](https://open.spotify.com/album/0gH8DEh4ckICe6PB7Dc4kq) | 3:42 | 2023-06-14 |  |
 | [your friend](https://open.spotify.com/track/5BJwsSeQAgYJDHvg4hCUMF) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:06 | 2025-02-03 |  |
 | [YOUR TOUCH](https://open.spotify.com/track/0FuB5N3msY4vAbyA4cngiI) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [YOUR TOUCH](https://open.spotify.com/album/4JGzn0cPRwE5vgMRFHYWh4) | 4:41 | 2024-12-31 | 2025-10-05 |
+| [zip](https://open.spotify.com/track/628T47wvIfjsBko9Lwkkpb) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [zip](https://open.spotify.com/album/2AUBPZdJMfdcOnU7MeozSV) | 1:48 | 2026-02-20 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

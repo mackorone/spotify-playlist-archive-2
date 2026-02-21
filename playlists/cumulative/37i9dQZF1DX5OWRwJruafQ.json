@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174510,
       "name": "Awoke",
       "url": "https://open.spotify.com/track/34nRjwFxWPeMgN8D69Tlqm"
@@ -6156,6 +6156,32 @@
       "duration_ms": 139591,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/30sbsEzuROKIkABVBEnp4C"
+    },
+    {
+      "album": {
+        "name": "GTA Mohali",
+        "url": "https://open.spotify.com/album/4VWX3ctvnVSGMWRpoXwxkY"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Sukhn Sandhu",
+          "url": "https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l"
+        },
+        {
+          "name": "Bhallwaan",
+          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "GTA Mohali",
+      "url": "https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk"
     },
     {
       "album": {
@@ -11860,7 +11886,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 177230,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/4lkP1cosJXQylSwi7U4D8A"
@@ -17112,6 +17138,28 @@
       "duration_ms": 234857,
       "name": "Yaar Mere",
       "url": "https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC"
+    },
+    {
+      "album": {
+        "name": "Yaari Anthem",
+        "url": "https://open.spotify.com/album/1X6O3orzdIbC8iSIja5VUg"
+      },
+      "artists": [
+        {
+          "name": "Davvy Sekhon",
+          "url": "https://open.spotify.com/artist/0yPyCUdaZuShcwGUH5xZNM"
+        },
+        {
+          "name": "Mann",
+          "url": "https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "Yaari Anthem",
+      "url": "https://open.spotify.com/track/2GIp0chxUqGogeFVKvSRqJ"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Tiana Major9",
-  "num_followers": 229956,
+  "description": "New music from your favorite women.  Cover: Essosa",
+  "num_followers": 229968,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5rB2Ai0f7vW9Ak09oMmSNw3mQr",
+  "snapshot_id": "AAAAABuKLCSdufQeghbnPB53kjh1LVLf",
   "tracks": [
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "Touch bby",
+        "url": "https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 125954,
+      "name": "Touch bby",
+      "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
+    },
     {
       "added_at": "2026-02-13 05:40:53",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2026-02-13 05:40:53",
       "album": {
-        "name": "D'ANGELO'S JOINT",
-        "url": "https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "D'ANGELO'S JOINT",
-      "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
-    },
-    {
-      "added_at": "2026-02-13 05:40:53",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
@@ -55,58 +55,6 @@
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
-      "added_at": "2026-02-13 05:40:53",
-      "album": {
-        "name": "Sweetest Lullabye",
-        "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 255237,
-      "name": "Sweetest Lullabye",
-      "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
-    },
-    {
-      "added_at": "2026-02-13 05:40:53",
-      "album": {
-        "name": "To Whom This May Concern",
-        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 270833,
-      "name": "To B Honest",
-      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
-    },
-    {
-      "added_at": "2026-02-13 05:40:53",
-      "album": {
-        "name": "More Than A Lover",
-        "url": "https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 245227,
-      "name": "More Than A Lover",
-      "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -129,20 +77,120 @@
       "url": "https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw"
     },
     {
-      "added_at": "2026-02-13 05:40:53",
+      "added_at": "2026-02-20 06:05:29",
       "album": {
-        "name": "Choose",
-        "url": "https://open.spotify.com/album/3A9SdjMibU11v6vGvYxPcO"
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 236670,
-      "name": "Choose",
-      "url": "https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg"
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+    },
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
+    },
+    {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "Sweetest Lullabye",
+        "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 255237,
+      "name": "Sweetest Lullabye",
+      "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
+    },
+    {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "D'ANGELO'S JOINT",
+        "url": "https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "D'ANGELO'S JOINT",
+      "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
+    },
+    {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
+    },
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
+    },
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6mRkUgC6mCNj20Nhllj6Nb"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 159212,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/1iJF4mX0EnG6Pqfg91Vm7r"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -193,6 +241,54 @@
       "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
     },
     {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/0RrCbYpd3E2UwH3i0K0n8i"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 113305,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/6lYb8xPgq1lhfoxfx6UJqr"
+    },
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "3am in Paris",
+        "url": "https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "3am in Paris",
+      "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
+    },
+    {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "Choose",
+        "url": "https://open.spotify.com/album/3A9SdjMibU11v6vGvYxPcO"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 236670,
+      "name": "Choose",
+      "url": "https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg"
+    },
+    {
       "added_at": "2026-02-13 05:40:53",
       "album": {
         "name": "Telephone",
@@ -209,6 +305,22 @@
       "url": "https://open.spotify.com/track/0MKqFbQ0w3zuXO2KiBmHhY"
     },
     {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "More Than A Lover",
+        "url": "https://open.spotify.com/album/2t7S3nHD6l7KQYvHTFAU9f"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 245227,
+      "name": "More Than A Lover",
+      "url": "https://open.spotify.com/track/4q6s9yhqQRwJQAMCWjnB9K"
+    },
+    {
       "added_at": "2026-02-06 08:03:21",
       "album": {
         "name": "ijan",
@@ -223,6 +335,22 @@
       "duration_ms": 212133,
       "name": "somewhere in the world",
       "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
+    },
+    {
+      "added_at": "2026-02-20 06:05:29",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 170517,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
     },
     {
       "added_at": "2026-02-06 08:03:21",
@@ -1095,22 +1223,6 @@
     {
       "added_at": "2025-11-21 11:20:02",
       "album": {
-        "name": "Smoov",
-        "url": "https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Smoov",
-      "url": "https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO"
-    },
-    {
-      "added_at": "2025-11-21 11:20:02",
-      "album": {
         "name": "Officer, Pt. 2",
         "url": "https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR"
       },
@@ -1845,38 +1957,6 @@
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
     },
     {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "Magnify",
-        "url": "https://open.spotify.com/album/60dw1Si8TWEXO57JG5XAK3"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Fae",
-          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Magnify",
-      "url": "https://open.spotify.com/track/5SN0zJOEIA1nUlstP6QKee"
-    },
-    {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "TOUCH ME",
-        "url": "https://open.spotify.com/album/5d7YW7B7u0uwqozHgnlQAV"
-      },
-      "artists": [
-        {
-          "name": "GoGo Morrow",
-          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
-        }
-      ],
-      "duration_ms": 158674,
-      "name": "TOUCH ME",
-      "url": "https://open.spotify.com/track/5iJJvvVUVumJNoM5yIPlLk"
-    },
-    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "Assumptions",
@@ -2463,22 +2543,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "DUMBCRAZY",
-        "url": "https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW"
-      },
-      "artists": [
-        {
-          "name": "AKIA",
-          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Back In Bed",
-      "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/32mhSctEoshvXv1xoenks0"
       },
@@ -2507,22 +2571,6 @@
       "duration_ms": 182615,
       "name": "24HRS",
       "url": "https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 273684,
-      "name": "back of the club",
-      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -2575,22 +2623,6 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -2663,26 +2695,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "JOURNEY",
-        "url": "https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        },
-        {
-          "name": "S'ABLE SOUNDS",
-          "url": "https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "JOURNEY",
-      "url": "https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "YARN",
         "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
       },
@@ -2695,22 +2707,6 @@
       "duration_ms": 197323,
       "name": "Empath",
       "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "SMH",
-        "url": "https://open.spotify.com/album/4y8qnEMm9K0TWwOKSM5B12"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "SMH",
-      "url": "https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ"
     },
     {
       "added_at": "2025-09-19 16:39:00",

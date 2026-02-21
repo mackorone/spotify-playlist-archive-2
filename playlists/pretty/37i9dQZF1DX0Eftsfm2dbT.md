@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain](/playlists/plain/37i9dQZF1DX0Eftsfm2dbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Eftsfm2dbT)
 
-### [+81 Connect: J\-HipHopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
+### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Campanella \*毎週更新
+> J\-Hip Hopの最新注目曲をまとめてチェック　cover: Campanella \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,389 likes - 93 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,398 likes - 93 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 92 | [オービス \(feat\. ANARCHY\)](https://open.spotify.com/track/30renGL0hyUfHWywmzkQ8i) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [ALXVE](https://open.spotify.com/album/5ZiuSExC5yyLO8hX6Tqzef) | 3:04 |
 | 93 | [Tokyo Metro](https://open.spotify.com/track/0daD9InzN5yS1lP0jcTGO4) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [Tokyo Metro](https://open.spotify.com/album/4EPNKsyYHVDnF6K5FRPnIm) | 2:50 |
 
-Snapshot ID: `AAAAAIhRhibi1su+1BjO2Z/xD7c9wp2g`
+Snapshot ID: `AAAAAB/xDJ0DhMoZucAEb2+x9qoGt9Rt`

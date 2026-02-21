@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 21329,
+  "num_followers": 21334,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-02-09 04:28:38",
       "album": {
-        "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5"
-    },
-    {
-      "added_at": "2026-02-09 04:28:38",
-      "album": {
         "name": "Sadder Than Yesterday",
         "url": "https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 236240,
       "name": "Sadder Than Yesterday",
       "url": "https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9"
+    },
+    {
+      "added_at": "2026-02-09 04:28:38",
+      "album": {
+        "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5"
     },
     {
       "added_at": "2026-02-09 04:28:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-09 04:28:38",
       "album": {
-        "name": "Hierarchy (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 214334,
-      "name": "RAINY DAYS",
-      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
-    },
-    {
-      "added_at": "2026-02-09 04:28:38",
-      "album": {
         "name": "The Dreamest",
         "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 270000,
       "name": "How have you been",
       "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
+    },
+    {
+      "added_at": "2026-02-09 04:28:38",
+      "album": {
+        "name": "Hierarchy (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 214334,
+      "name": "RAINY DAYS",
+      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
     },
     {
       "added_at": "2026-02-09 04:28:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 46 | [Pra Sempre](https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4) | [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [BOLA + 1 BECK](https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni) | 8:07 |
 | 47 | [Sua Intenção](https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Spinnheli](https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud) | [Sua Intenção](https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS) | 2:11 |
 | 48 | [As Ruas Sabem Meu Nome](https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX) | [Má Influência](https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw) | 2:57 |
-| 49 | [Azzy On The Radar Freestyle](https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Azzy On The Radar Freestyle](https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV) | 2:21 |
+| 49 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
 | 50 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 |
 
-Snapshot ID: `aZUBAAAAAAA96WbC7tLm8X1XB9ku7w5O`
+Snapshot ID: `aZZSgAAAAADOwo3QPKwr5mLy3GSbjNco`

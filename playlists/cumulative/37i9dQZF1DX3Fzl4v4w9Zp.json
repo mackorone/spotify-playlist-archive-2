@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Charley Crockett",
+  "description": "Where roots meet what\u2019s next. Cover: Chris Stapleton and Mumford & Sons",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1300,6 +1300,28 @@
       "duration_ms": 197145,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86"
+    },
+    {
+      "album": {
+        "name": "Ballad of The Texas Gentlemen",
+        "url": "https://open.spotify.com/album/6hwWxOmvoyJgekms5Ppwh3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        },
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209535,
+      "name": "Ballad of The Texas Gentlemen",
+      "url": "https://open.spotify.com/track/7nG4lfE9RnpqxZcXmsTZza"
     },
     {
       "album": {
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 123135,
       "name": "Country",
       "url": "https://open.spotify.com/track/4vYEOiAOlID8WQ3SWGiKBc"
@@ -5764,7 +5786,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 219157,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/0kRqJAjd2M4XKuMS9owJFX"
@@ -6776,6 +6798,28 @@
       "duration_ms": 295133,
       "name": "Help Me Remember",
       "url": "https://open.spotify.com/track/4GavZXRXpUzGMT8Gt4VOpG"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
       "album": {
@@ -9174,6 +9218,24 @@
       "duration_ms": 161187,
       "name": "Livin' the Dream",
       "url": "https://open.spotify.com/track/5BnzjFbWDTIR0I7Vri1TfQ"
+    },
+    {
+      "album": {
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "album": {
@@ -15334,7 +15396,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 293845,
       "name": "The Lucky Ones (feat. The Texas Gentlemen)",
       "url": "https://open.spotify.com/track/52vvsMAYXmHjc9xs2xttRy"
@@ -17123,6 +17185,24 @@
     },
     {
       "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296380,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
+    },
+    {
+      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/4dr0GU9HpLwxU2XSKn08fZ"
       },
@@ -17152,7 +17232,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 193915,
       "name": "Why Oh Why",
       "url": "https://open.spotify.com/track/0YAPtmbnJEiWYPlph7iKIx"

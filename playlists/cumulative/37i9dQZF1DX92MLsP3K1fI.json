@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kenia OS en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jotdog en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 232918,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178743,
       "name": "Ah\u00ed Voy",
       "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Crecer",
+        "url": "https://open.spotify.com/album/2VboIgWOM9fNPJBwO8opSR"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241102,
+      "name": "Crecer",
+      "url": "https://open.spotify.com/track/61jWnsuOqyOcYgMfP96bx6"
+    },
+    {
+      "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH"
       },
@@ -2614,6 +2632,24 @@
       "duration_ms": 178199,
       "name": "Cuerno",
       "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+    },
+    {
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5svD6S60kyy5y2TtxjdMqf"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162859,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/5JxFRFkgC96NhOtVvcTH5r"
     },
     {
       "album": {
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228608,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1lAkPVAzytqPPhfzLUIGP7"
@@ -4184,7 +4220,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 137419,
       "name": "Estimado Cobarde",
       "url": "https://open.spotify.com/track/0jbewxIGs1ReTAKndYvKWs"
@@ -5162,6 +5198,24 @@
       "duration_ms": 201521,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/3k8OecyCuXi8khi6BlA64t"
+    },
+    {
+      "album": {
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/6ua7OrjJXvdecm1ccxKErh"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158051,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/0kJRu6DFQRSvj47MP0ozjw"
     },
     {
       "album": {
@@ -10986,6 +11040,24 @@
       "duration_ms": 186346,
       "name": "TQ",
       "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
+    },
+    {
+      "album": {
+        "name": "tquiero",
+        "url": "https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "tquiero",
+      "url": "https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW"
     },
     {
       "album": {

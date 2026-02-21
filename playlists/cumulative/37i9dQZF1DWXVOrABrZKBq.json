@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: THEODORT",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bigflo & Oli",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "44D",
+        "url": "https://open.spotify.com/album/0N3ezEuciSnIveqU5pcRin"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330468,
+      "name": "44D",
+      "url": "https://open.spotify.com/track/2iqF4C3733rvJy0QL4WExS"
+    },
+    {
+      "album": {
         "name": "4h44",
         "url": "https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ"
       },
@@ -660,7 +678,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 128520,
       "name": "Alicia Ariana",
       "url": "https://open.spotify.com/track/1xIyEVFDMdgetvA9fYxjZL"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217456,
       "name": "AURA",
       "url": "https://open.spotify.com/track/5rJkCx0L99pPxv4p6OCqQU"
@@ -2215,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "CH\u00c9RIE COCO",
+        "url": "https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167108,
+      "name": "CH\u00c9RIE COCO",
+      "url": "https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR"
+    },
+    {
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv"
       },
@@ -2908,10 +2944,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 142640,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/62Ktq84kSEvVvbSXGj1jU1"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/7eyBsX2SGwVPl4ch6GX0xq"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172310,
+      "name": "Diapason",
+      "url": "https://open.spotify.com/track/1dBIUdxZnd3ula7ajkegSt"
     },
     {
       "album": {
@@ -3185,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9luge",
+        "url": "https://open.spotify.com/album/26eOt7X6AOtPIDhPh9Ctle"
+      },
+      "artists": [
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "D\u00e9luge",
+      "url": "https://open.spotify.com/track/6VKViODSQDgDmgpuTsChdZ"
+    },
+    {
+      "album": {
         "name": "CAMPAGNARD",
         "url": "https://open.spotify.com/album/0m71cSCCxDcP3FtVK7WMNt"
       },
@@ -3382,6 +3454,24 @@
       "duration_ms": 160551,
       "name": "EN ROTATION",
       "url": "https://open.spotify.com/track/7kuagnjuLZDtOLg0TG5F5i"
+    },
+    {
+      "album": {
+        "name": "Essentiel",
+        "url": "https://open.spotify.com/album/6KJVhMeQOWhPVe23rutW5C"
+      },
+      "artists": [
+        {
+          "name": "Kpoint",
+          "url": "https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143078,
+      "name": "Essentiel",
+      "url": "https://open.spotify.com/track/1EAllf5nFkcLD8ER7Ge6xv"
     },
     {
       "album": {
@@ -4344,7 +4434,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 169180,
       "name": "IA",
       "url": "https://open.spotify.com/track/3m0mIBEsm8irnsn8q02OGe"
@@ -4752,6 +4842,32 @@
       "duration_ms": 177705,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "album": {
+        "name": "Jeune Scorsese",
+        "url": "https://open.spotify.com/album/4TazuNIVaQDUO1BZaZPNaU"
+      },
+      "artists": [
+        {
+          "name": "Caballero",
+          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
+        },
+        {
+          "name": "JeanJass",
+          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+        },
+        {
+          "name": "Martin Gal",
+          "url": "https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Jeune Scorsese",
+      "url": "https://open.spotify.com/track/3kdPIxa8qN0YTg6EFyTWN7"
     },
     {
       "album": {
@@ -5203,6 +5319,24 @@
     },
     {
       "album": {
+        "name": "LE GO\u00dbT D'MES 16",
+        "url": "https://open.spotify.com/album/5InhNeF4OBaJ10qed5jPZr"
+      },
+      "artists": [
+        {
+          "name": "Sarrow",
+          "url": "https://open.spotify.com/artist/0pwRgxCXvfLx3e0uJ7ODk2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138728,
+      "name": "LE GO\u00dbT D'MES 16",
+      "url": "https://open.spotify.com/track/1EimszNEZIAOaKdaTE53Ee"
+    },
+    {
+      "album": {
         "name": "Le P'tit",
         "url": "https://open.spotify.com/album/3W9RcU9NZt2GyHNsJjD1YT"
       },
@@ -5334,7 +5468,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144298,
       "name": "LIVIN IT",
       "url": "https://open.spotify.com/track/68VT15ILdHQ2sH1sqpjP4n"
@@ -6010,7 +6144,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 133018,
       "name": "Milanaise",
       "url": "https://open.spotify.com/track/1hdShNmsaMeAfOHsywcNuS"
@@ -6738,7 +6872,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 251212,
       "name": "Omerta 19",
       "url": "https://open.spotify.com/track/3BRQQ4IGg4kZPY4EOBwmQj"
@@ -6838,6 +6972,24 @@
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
+    },
+    {
+      "album": {
+        "name": "\u00c9B\u00c8NE VOL.2 - EXTENSION",
+        "url": "https://open.spotify.com/album/4XVueuQtPtiQj2PRRYo7p6"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203714,
+      "name": "OUTRO MAMEK",
+      "url": "https://open.spotify.com/track/7xRbgJim0Nmpoz2slHcGGM"
     },
     {
       "album": {
@@ -7020,6 +7172,28 @@
       "duration_ms": 143525,
       "name": "Pas b\u00eate",
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+    },
+    {
+      "album": {
+        "name": "SIROCCO +",
+        "url": "https://open.spotify.com/album/3ARjtF70a3kcycc8ilyA1h"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        },
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "PAS DE PROBL\u00c8ME",
+      "url": "https://open.spotify.com/track/6WnusMYYG5cVcmcWvIfzL4"
     },
     {
       "album": {
@@ -8416,10 +8590,32 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 200426,
       "name": "Seul",
       "url": "https://open.spotify.com/track/4pX2gTPPjYsqlnmZYu6Ijh"
+    },
+    {
+      "album": {
+        "name": "Sex Model",
+        "url": "https://open.spotify.com/album/1pgfJ1jwNNEq3aiexOkcP1"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166922,
+      "name": "Sex Model",
+      "url": "https://open.spotify.com/track/4YiP42tiEfZ1blOnzJ6fRr"
     },
     {
       "album": {
@@ -8856,7 +9052,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190640,
       "name": "Survivant",
       "url": "https://open.spotify.com/track/58VZurLTMH9szEdaNndfj9"
@@ -9072,7 +9268,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 134907,
       "name": "TEXAS",
       "url": "https://open.spotify.com/track/7hjHU0GRqqftxx1ZGToU8l"
@@ -9240,6 +9436,28 @@
       "duration_ms": 217728,
       "name": "Tout c'que j'connais",
       "url": "https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr"
+    },
+    {
+      "album": {
+        "name": "TOUT EN FLOU",
+        "url": "https://open.spotify.com/album/5o8y2ItHImIIbP06RTEdDt"
+      },
+      "artists": [
+        {
+          "name": "Notorious 2T",
+          "url": "https://open.spotify.com/artist/6TeaUiLWLlOnhbJwAQj27V"
+        },
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "TOUT EN FLOU",
+      "url": "https://open.spotify.com/track/42R9tV9sy9dHiwjP8msxXu"
     },
     {
       "album": {
@@ -9558,7 +9776,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197585,
       "name": "Vendredi 13 Mars",
       "url": "https://open.spotify.com/track/1BAFwMW6iE4Wp4PJR4KEJy"
@@ -9628,10 +9846,32 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178000,
       "name": "VIEUX STOCK",
       "url": "https://open.spotify.com/track/5122PVHWtf1BHrWCBhVGXu"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/781KI2jUgJ7w6gyDExPxH9"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/6RwydXnLDQQm7zJe2hNrel"
     },
     {
       "album": {

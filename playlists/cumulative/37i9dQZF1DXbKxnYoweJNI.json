@@ -1602,6 +1602,36 @@
     {
       "album": {
         "name": "All Money Back My Home",
+        "url": "https://open.spotify.com/album/7tQnfRcHVcnvfB0NFEdXg2"
+      },
+      "artists": [
+        {
+          "name": "Cloud Wang",
+          "url": "https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY"
+        },
+        {
+          "name": "CLED",
+          "url": "https://open.spotify.com/artist/3dsr9Bla243ZQVtpbGDtR4"
+        },
+        {
+          "name": "\u5f6d\u5bb6\u79ba",
+          "url": "https://open.spotify.com/artist/4wGQgj7omh1n8MvbYTa9uq"
+        },
+        {
+          "name": "\u6797\u7682\u9c7c",
+          "url": "https://open.spotify.com/artist/7rRzq7IpIJQOZVAPa4w7yz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232768,
+      "name": "All Money Back My Home",
+      "url": "https://open.spotify.com/track/6pUtZpZHfoGBIDaRpovHnV"
+    },
+    {
+      "album": {
+        "name": "All Money Back My Home",
         "url": "https://open.spotify.com/album/418GC66DBbEzy1Z5copY3D"
       },
       "artists": [
@@ -43820,6 +43850,24 @@
       "duration_ms": 230958,
       "name": "\u5e7b\u89ba (NRP)",
       "url": "https://open.spotify.com/track/6lFMGi9Yo5h6maKTNaDO2N"
+    },
+    {
+      "album": {
+        "name": "\u5e95\u6c23\u91d1\u5e63",
+        "url": "https://open.spotify.com/album/1HBdggdlDXo4OjM0eQlFAw"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u751fPnut",
+          "url": "https://open.spotify.com/artist/2FGzdqYoX6yGc0NLQWNcDA"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166878,
+      "name": "\u5e95\u6c23\u91d1\u5e63",
+      "url": "https://open.spotify.com/track/1vsxUnzBLKJFJholVCHmKu"
     },
     {
       "album": {

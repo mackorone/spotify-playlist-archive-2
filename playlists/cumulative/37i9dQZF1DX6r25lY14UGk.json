@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Brush Your Teeth",
+        "url": "https://open.spotify.com/album/5aiYd61EmlNkz607k7WUQi"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166541,
+      "name": "Brush Your Teeth",
+      "url": "https://open.spotify.com/track/6AS6WpntcvexcqTbuNd5Cs"
+    },
+    {
+      "album": {
         "name": "GoNoodle Dance Party: What Time Is It?",
         "url": "https://open.spotify.com/album/6X1Y7BuCeqjZhVc2ecFheN"
       },
@@ -2992,6 +3010,24 @@
       "duration_ms": 132000,
       "name": "Clipperty Clop",
       "url": "https://open.spotify.com/track/7fzvLNXrhWiV5ZG7JwVfsA"
+    },
+    {
+      "album": {
+        "name": "Coach Peppa",
+        "url": "https://open.spotify.com/album/2lP0YERSzIouL8hXAn25Dw"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163415,
+      "name": "Coach Peppa's Exercise",
+      "url": "https://open.spotify.com/track/5JeQkVmAUvcuXc7sma5MLl"
     },
     {
       "album": {
@@ -5860,7 +5896,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168545,
       "name": "Girlies - Day Of The Girl",
       "url": "https://open.spotify.com/track/5zboDbeslpqe8LfH6ZZOia"
@@ -11177,6 +11213,28 @@
     },
     {
       "album": {
+        "name": "Maybe (Purple Monkey Activity Center) [2026 Remix]",
+        "url": "https://open.spotify.com/album/1sHwhVjwjuf8ekX1OOzG8u"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73896,
+      "name": "Maybe (Purple Monkey Activity Center) - 2026 Remix",
+      "url": "https://open.spotify.com/track/6oi1DdNEqvLXq7iKd8Miaj"
+    },
+    {
+      "album": {
         "name": "Me and Julio Down by the Schoolyard",
         "url": "https://open.spotify.com/album/1wwygt8wXs4jrBQ0a93zdV"
       },
@@ -11924,7 +11982,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 160092,
       "name": "Nature's Music",
       "url": "https://open.spotify.com/track/7w0V5I7bNJBgSLwJjcLECS"
@@ -13348,7 +13406,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 129600,
       "name": "Pop! Goes the Weasel",
       "url": "https://open.spotify.com/track/3q12MYGc4rv8QRogu3jmbX"
@@ -13438,7 +13496,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 106662,
       "name": "Puppy Campers - Skye's Music Party",
       "url": "https://open.spotify.com/track/4QSG8ZZ5DALRMphfEJJaP9"
@@ -15618,6 +15676,24 @@
       "duration_ms": 117127,
       "name": "Super Spy",
       "url": "https://open.spotify.com/track/5OJYHkkHLKq4yNXa3nQ5Y8"
+    },
+    {
+      "album": {
+        "name": "Super Team",
+        "url": "https://open.spotify.com/album/2jPNe2AIu04Pjd1jdJK1N3"
+      },
+      "artists": [
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171484,
+      "name": "Super Team",
+      "url": "https://open.spotify.com/track/7h51vSsC6Uzhnx8po3TPRy"
     },
     {
       "album": {
@@ -18090,7 +18166,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 101023,
       "name": "Use Your Imagination",
       "url": "https://open.spotify.com/track/4FSmnnhe2fOCW8j0reCd7I"
@@ -18834,6 +18910,28 @@
       "duration_ms": 115553,
       "name": "What Dinosaurs Do In The Morning - Nursery Rhymes Remix",
       "url": "https://open.spotify.com/track/47gbMS0Bc34tvMHOdu8kgy"
+    },
+    {
+      "album": {
+        "name": "What Do You Hear?",
+        "url": "https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181403,
+      "name": "What Do You Hear?",
+      "url": "https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc"
     },
     {
       "album": {

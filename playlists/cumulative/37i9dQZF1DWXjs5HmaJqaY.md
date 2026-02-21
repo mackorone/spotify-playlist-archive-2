@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-372 songs - 1 day 10 hr 25 min
+373 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [ce n'est pas la réalité \(perlonesque\)](https://open.spotify.com/track/3ZtfkDYaF4M61uNvjCbIni) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Ce n'est pas la réalité EP](https://open.spotify.com/album/7HLoHa6qc7E47t9EwBxHKv) | 6:26 | 2024-10-28 | 2025-06-28 |
 | [Cedes](https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Cedes](https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl) | 6:36 | 2022-09-16 | 2023-10-28 |
 | [Cee](https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Cee](https://open.spotify.com/album/0984f8nBVFnUqEebp5bFLg) | 5:11 | 2023-10-27 | 2023-12-09 |
-| [Chezana \- Extended Mix](https://open.spotify.com/track/2mZQeDBnroSHx2QIUB2Cv1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Chezana](https://open.spotify.com/album/3eupXugfZMOCkZmaR2vgI9) | 4:48 | 2026-02-06 |  |
+| [Chezana \- Extended Mix](https://open.spotify.com/track/2mZQeDBnroSHx2QIUB2Cv1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Chezana](https://open.spotify.com/album/3eupXugfZMOCkZmaR2vgI9) | 4:48 | 2026-02-06 | 2026-02-21 |
 | [Clearer Mind](https://open.spotify.com/track/2ELTcPtYTXaQC5OruwrOSi) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Clearer Mind](https://open.spotify.com/album/0wipOv3FjBQlbpXef5YQ4a) | 7:29 | 2024-10-28 | 2025-02-15 |
 | [Clearer Mind \- Black Hertz Remix](https://open.spotify.com/track/3gHBZ1PC2eGe9U9rV1pIra) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs), [Black Hertz](https://open.spotify.com/artist/6obt1A8AjcidwQPqqIU2fb) | [Clearer Mind \(Black Hertz Remix\)](https://open.spotify.com/album/4K6KXls8ZoXPNoGeXnACqy) | 7:37 | 2025-08-08 | 2025-12-23 |
 | [Close Your Eyes](https://open.spotify.com/track/3FqEWu34eG5zy26YvanvCP) | [Marco Zaffarano](https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY), [Andy Lupoli](https://open.spotify.com/artist/5nCAQDQ08Qjd7muR4kndek) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 5:53 | 2024-07-26 | 2025-06-28 |
@@ -137,6 +137,7 @@
 | [Get Up](https://open.spotify.com/track/041C78qqcmlvop1hGYtqGP) | [ASK:ME](https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU), [Ithaka](https://open.spotify.com/artist/19D6c1zHSp2sHkOvUIuVBz) | [Get Up](https://open.spotify.com/album/1UrpdDBbmDLgiCNOHNRVS2) | 6:27 | 2026-02-13 |  |
 | [Getaway \- Henrik Schwarz Remix](https://open.spotify.com/track/5HqIyQKKL6NbD5Ok7Z8AQe) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [Getaway \(Henrik Schwarz Remix\)](https://open.spotify.com/album/7zDp5SwpTrgIQEnA9qpBh6) | 6:53 | 2025-02-14 | 2025-06-28 |
 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 | 2025-08-08 |  |
+| [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 | 2026-02-20 |  |
 | [Give A Little Bit](https://open.spotify.com/track/17mSLidLd8RFDgF2pNge3q) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Give A Little Bit](https://open.spotify.com/album/5yF5qpAoOQorS2xxO0RnYK) | 4:06 | 2023-09-01 | 2024-11-09 |
 | [GoGoGo! \- VIP Intro Mix](https://open.spotify.com/track/3WTRRyTuMWqVCbBsNy4oMC) | [PRADA2000](https://open.spotify.com/artist/3IFQLbStnxyOJ5g4TEDrRm) | [GoGoGo! \(VIP Intro Mix\)](https://open.spotify.com/album/0W9qcgJ7rpEs34eAhEKMAR) | 2:41 | 2025-08-08 |  |
 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 | 2024-01-26 |  |

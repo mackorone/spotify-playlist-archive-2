@@ -8907,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Telling You",
+        "url": "https://open.spotify.com/album/42MWTShhyXvCf2IGNZKml2"
+      },
+      "artists": [
+        {
+          "name": "TELLER",
+          "url": "https://open.spotify.com/artist/23mpKE76RtF9bmcz18m88D"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184529,
+      "name": "I\u2019m Telling You",
+      "url": "https://open.spotify.com/track/3p62W5L3VVaPQ1zr2mbV5i"
+    },
+    {
+      "album": {
         "name": "Jaja",
         "url": "https://open.spotify.com/album/5vzMIA3cZTuPRiGd4w2rBs"
       },
@@ -14862,6 +14880,24 @@
       "duration_ms": 266000,
       "name": "Rose de blanc",
       "url": "https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb"
+    },
+    {
+      "album": {
+        "name": "ROSE PERFUME",
+        "url": "https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh"
+      },
+      "artists": [
+        {
+          "name": "blam",
+          "url": "https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ROSE PERFUME",
+      "url": "https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh"
     },
     {
       "album": {

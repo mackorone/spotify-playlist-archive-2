@@ -1,6 +1,6 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18480,
+  "num_followers": 18484,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
@@ -428,12 +428,12 @@
       },
       "artists": [
         {
-          "name": "Abhijith Rao",
-          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
-        },
-        {
           "name": "C. Sathya",
           "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
+        },
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
         },
         {
           "name": "Viveka",
@@ -452,16 +452,16 @@
       },
       "artists": [
         {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        },
-        {
           "name": "Aneesh",
           "url": "https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj"
         },
         {
           "name": "Samanwitha Prashanth",
           "url": "https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
         }
       ],
       "duration_ms": 228853,

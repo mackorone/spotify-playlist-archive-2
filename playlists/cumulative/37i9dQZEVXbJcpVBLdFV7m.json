@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -15873,6 +15873,24 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love (Mitski)",
+        "url": "https://open.spotify.com/album/1Fd1BApGmxobrQavY1n7en"
+      },
+      "artists": [
+        {
+          "name": "loseph",
+          "url": "https://open.spotify.com/artist/6pIVPI7SACFXtftz8ULhL1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147433,
+      "name": "How Deep Is Your Love (Mitski)",
+      "url": "https://open.spotify.com/track/5slF72ooXiNirljjVJcEKd"
+    },
+    {
+      "album": {
         "name": "How Deep is Your Love - Live",
         "url": "https://open.spotify.com/album/7tAv8DutebVKrOCo0xL9xQ"
       },
@@ -15888,7 +15906,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147490,
       "name": "How Deep Is Your Love - Live",
       "url": "https://open.spotify.com/track/4V4sQ6p5XMXTgUL2q62JH3"
@@ -24824,7 +24842,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 98437,
       "name": "nas\u0131l kurtulurum senden ?",
       "url": "https://open.spotify.com/track/5MaVEvwqF3ZxcMMVzdQdhn"
@@ -37906,7 +37924,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132571,
       "name": "Versatile - Slowed",
       "url": "https://open.spotify.com/track/2zLmTbXbaZD6xwjLsLsa3l"
@@ -39922,7 +39940,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 148006,
       "name": "WOOPAAA",
       "url": "https://open.spotify.com/track/4wtd8ekJ0ntQADpwLaPOgy"

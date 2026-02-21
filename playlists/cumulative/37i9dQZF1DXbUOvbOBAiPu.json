@@ -6113,8 +6113,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
       },
       "artists": [
         {
@@ -8151,8 +8151,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nous deux (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A"
       },
       "artists": [
         {
@@ -27107,6 +27107,28 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/4s6vd6pnbvnrqv8080N76U"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Disaster Music",
+          "url": "https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR"
+    },
+    {
+      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
       },
@@ -33219,6 +33241,24 @@
     },
     {
       "album": {
+        "name": "Dancing on the ice",
+        "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
+      },
+      "artists": [
+        {
+          "name": "Essyla",
+          "url": "https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dancing on the ice",
+      "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
       },
@@ -36379,8 +36419,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/7eyBsX2SGwVPl4ch6GX0xq"
       },
       "artists": [
         {
@@ -38596,6 +38636,28 @@
       "duration_ms": 168750,
       "name": "Don't Forget To Breathe",
       "url": "https://open.spotify.com/track/0oUszHe1amsQIganTqaIa3"
+    },
+    {
+      "album": {
+        "name": "California Calling",
+        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Don't Forget Yourself",
+      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
     },
     {
       "album": {
@@ -43323,8 +43385,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "DRACHE!",
+        "url": "https://open.spotify.com/album/0xjX9SNPi6ZkHwv55EA64e"
       },
       "artists": [
         {
@@ -46441,8 +46503,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Dreams To Keep",
+        "url": "https://open.spotify.com/album/0d3KGNBNAaloccr0GedG4r"
       },
       "artists": [
         {
@@ -55007,6 +55069,32 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
       },
@@ -55043,8 +55131,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "(((((ultraSOUND)))))+",
+        "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
       },
       "artists": [
         {
@@ -57247,8 +57335,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "No Lube So Rude",
+        "url": "https://open.spotify.com/album/6gCIqW8uTdkgNNnXmDj5rD"
       },
       "artists": [
         {
@@ -64196,6 +64284,24 @@
       "duration_ms": 493667,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
+    },
+    {
+      "album": {
+        "name": "Pomcore: The Weird Dance Tapes",
+        "url": "https://open.spotify.com/album/4RuI85K7Vksj5F3uowDavP"
+      },
+      "artists": [
+        {
+          "name": "Pomrad",
+          "url": "https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Hymn Of The Harpy",
+      "url": "https://open.spotify.com/track/5CTeE00oP9XhQPesgWJ5v8"
     },
     {
       "album": {
@@ -71482,6 +71588,24 @@
       "duration_ms": 141786,
       "name": "J'AIME",
       "url": "https://open.spotify.com/track/5Ugyg4eFQstj9SRzkbZS2h"
+    },
+    {
+      "album": {
+        "name": "MY NAME IS LEGACY",
+        "url": "https://open.spotify.com/album/4u8rdbMdeqSopRhY92X2Lb"
+      },
+      "artists": [
+        {
+          "name": "Samy",
+          "url": "https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128706,
+      "name": "J'aime",
+      "url": "https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc"
     },
     {
       "album": {
@@ -93187,6 +93311,28 @@
     },
     {
       "album": {
+        "name": "miss u 2 (with Leon Thomas)",
+        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148404,
+      "name": "miss u 2 (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
       },
@@ -101573,8 +101719,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "(K)NOT",
+        "url": "https://open.spotify.com/album/2f55idbVWLlH3yTs04I7GX"
       },
       "artists": [
         {
@@ -109607,8 +109753,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SIROCCO +",
+        "url": "https://open.spotify.com/album/3ARjtF70a3kcycc8ilyA1h"
       },
       "artists": [
         {
@@ -143441,8 +143587,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "l'hiver",
+        "url": "https://open.spotify.com/album/3hwIqvbve1Jc8lQCxFzkqq"
       },
       "artists": [
         {
@@ -146720,60 +146866,6 @@
       "duration_ms": 208413,
       "name": "Traces",
       "url": "https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Samy",
-          "url": "https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Pomrad",
-          "url": "https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5CTeE00oP9XhQPesgWJ5v8"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
     },
     {
       "album": {

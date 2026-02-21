@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,660 likes - 98 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,621 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 14 | [Stück für Stück](https://open.spotify.com/track/37adQclvGrLqK21mZD8kym) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Stück für Stück / Grau](https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx) | 2:39 |
 | 15 | [Atemnot](https://open.spotify.com/track/6UhgRaImXqsKLZUOkyzFyx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Atemnot](https://open.spotify.com/album/4gCWVd9F5dMXaIDLxWYmXa) | 2:15 |
 | 16 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
-| 17 | [Track 11](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Song 11 ft Provinz](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [listen carefully](https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD) | 2:46 |
 | 18 | [Jump!](https://open.spotify.com/track/45YzlcmsbsAvK78jTV2u8B) | [c4rl](https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c) | [Jump!](https://open.spotify.com/album/0DkaN2CUjBmgroNrKDDPBB) | 2:26 |
 | 19 | [mitternacht](https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [mitternacht](https://open.spotify.com/album/6sPAArJU3y6Cs4lJ8FVPfY) | 2:32 |
 | 20 | [Haus mit Boot](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Haus mit Boot](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 |

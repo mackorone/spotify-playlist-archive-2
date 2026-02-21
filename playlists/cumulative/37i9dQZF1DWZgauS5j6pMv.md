@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-497 songs - 1 day 5 hr 1 min
+498 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 | 2023-02-02 |
 | [Dance](https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U) | [Numb Tongues](https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7), [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Dance](https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06) | 4:25 | 2022-05-13 | 2022-07-16 |
 | [Dance 'N Forget](https://open.spotify.com/track/1LHWhmfgWC2sU9iewXd0cz) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dance 'N Forget](https://open.spotify.com/album/5oEANUbXBprnhPnc1yekXP) | 3:20 | 2024-06-28 |  |
-| [Dance All Night](https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [J.Ar.J](https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A) | [Dance All Night](https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe) | 3:07 | 2023-09-22 |  |
+| [Dance All Night](https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [J.Ar.J](https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A) | [Dance All Night](https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe) | 3:07 | 2023-09-22 | 2026-02-21 |
 | [Dancing Through the Night](https://open.spotify.com/track/3dcqOn4XpWWTsvaSrTTvhl) | [Vlade Kay](https://open.spotify.com/artist/1yDN7vHPBnAbYFpS25DTWV) | [Dancing Through the Night](https://open.spotify.com/album/28FcNigpOpZjXqhbWW4A0N) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-30 | 2024-10-19 |
@@ -369,6 +369,7 @@
 | [Rock With Me \- Jafunk Remix](https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Rock With Me \(Jafunk Remix\)](https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm) | 2:05 | 2022-10-28 | 2024-03-30 |
 | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/3baccsZBLbwyt13He6xLgf) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:50 | 2023-03-10 | 2024-04-19 |
 | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Rollin' \(Love Will Be Here\)](https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP) | 4:50 | 2023-03-10 | 2025-03-29 |
+| [Runnin'](https://open.spotify.com/track/5OgeCVeIpbhGGfRtkjaXxt) | [Pockets](https://open.spotify.com/artist/1puOMsBwXpCEU7lk1rjYK2), [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runnin'](https://open.spotify.com/album/1Kf9kAAluhR6x74DVIytsI) | 3:59 | 2026-02-20 |  |
 | [Running For Cover](https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Running For Cover](https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX) | 2:39 | 2023-01-27 | 2023-02-25 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2023-01-24 |
 | [Sales Pitch](https://open.spotify.com/track/7IEjQqBJsvp4U48FyLJkxG) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Sales Pitch](https://open.spotify.com/album/2nXYMagjpvyG1cbDw8z668) | 3:54 | 2023-02-24 | 2023-07-08 |

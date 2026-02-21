@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 264 likes - 1,948 songs - 4 day 20 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 263 likes - 1,951 songs - 4 day 21 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1956,5 +1956,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1946 | [For Myself](https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV) | [NOAH](https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk) | [For Myself](https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN) | 4:30 |
 | 1947 | [why don't u love me](https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL) | [abbot crow](https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW) | [why don't u love me](https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF) | 1:37 |
 | 1948 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:49 |
+| 1949 | [My last song for you](https://open.spotify.com/track/4bpODX6WMCmdohiQNUYxfd) | [RAWRITO](https://open.spotify.com/artist/69kJaVwMWBJF2ncss4pvqV) | [My last song for you](https://open.spotify.com/album/4ZoXUCQKkfr5jmC1MrDy4A) | 3:01 |
+| 1950 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 |
+| 1951 | [Push On](https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO) | [12 Tribes Of Mars](https://open.spotify.com/artist/6DCPOFQmbWMu64jaWWEX87) | [Push On](https://open.spotify.com/album/1n0zoAysgW94AmxkNgm9FG) | 5:22 |
 
-Snapshot ID: `AAAIJYfux02f5OVWIjgDgIZhABe5sjOV`
+Snapshot ID: `AAAIKD/0LGCvqr5jzKXw0sF5Q2uYyL6G`

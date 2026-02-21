@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Fuera Del Cielo",
+        "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Del Real",
+          "url": "https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM"
+        },
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232880,
+      "name": "16 De Febrero",
+      "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "album": {
         "name": "La Metamorfosis",
         "url": "https://open.spotify.com/album/7cvvYt07HdpHNKQEUEIgZg"
       },
@@ -14277,6 +14299,24 @@
     },
     {
       "album": {
+        "name": "LO QUE SIENTE EL ALMA",
+        "url": "https://open.spotify.com/album/7o8QaJPQ5pX0IJPHzENmDf"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171099,
+      "name": "CORAZON BONITO",
+      "url": "https://open.spotify.com/track/3oLQoawKDRx0v6YMHk1zN2"
+    },
+    {
+      "album": {
         "name": "Babylon Club",
         "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
@@ -17478,7 +17518,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 234879,
       "name": "Desgraciada",
       "url": "https://open.spotify.com/track/2nzfgpGvMINYAzrv7YpHfv"
@@ -27722,7 +27762,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -51308,7 +51348,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 159786,
       "name": "Polvo Rosita",
       "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
@@ -51698,7 +51738,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 162541,
       "name": "Por Hollywood",
       "url": "https://open.spotify.com/track/5hH1MqxQG7FQdeu2W5G9x4"
@@ -59002,7 +59042,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216102,
       "name": "Sin Ser Nada, Eres Mi Todo",
       "url": "https://open.spotify.com/track/5d6ljhOPEibxNyAuSD87bk"
@@ -73296,7 +73336,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 146246,
       "name": "\u00bfHasta D\u00f3nde Te Quiero?",
       "url": "https://open.spotify.com/track/1licjid99qj1BFIYGb3wZC"

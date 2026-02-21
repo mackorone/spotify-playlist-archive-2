@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2691,
+  "num_followers": 2692,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARZnsgR6WhuTDnSl59dlYVZTz9AN0r",
+  "snapshot_id": "AAARaCxQlc8Zevr7sODsLx+74L0sw0ZB",
   "tracks": [
+    {
+      "added_at": "2026-02-20 11:41:09",
+      "album": {
+        "name": "Synthstorm",
+        "url": "https://open.spotify.com/album/6h7CqVK5uUP7lQS0jwGZfw"
+      },
+      "artists": [
+        {
+          "name": "Tony Kay",
+          "url": "https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ"
+        }
+      ],
+      "duration_ms": 312380,
+      "name": "Synthstorm",
+      "url": "https://open.spotify.com/track/7fo8e9ax1XHoF4yP2wHcQ0"
+    },
+    {
+      "added_at": "2026-02-20 08:33:41",
+      "album": {
+        "name": "Stuck In My Groove EP",
+        "url": "https://open.spotify.com/album/6bLzCIiBkAnyRVjdlfZ5QS"
+      },
+      "artists": [
+        {
+          "name": "Lumiere",
+          "url": "https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj"
+        }
+      ],
+      "duration_ms": 177417,
+      "name": "Stuck In This Groove - Radio Mix",
+      "url": "https://open.spotify.com/track/28LUlmUub0GfnP294ELZZ6"
+    },
     {
       "added_at": "2026-02-18 11:54:38",
       "album": {

@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-175 songs - 11 hr 45 min
+176 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-17 |  |
 | [Easy](https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Easy](https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL) | 6:09 | 2026-01-09 |  |
 | [EMPTY THREATS](https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [EMPTY THREATS](https://open.spotify.com/album/6EcqysNWlAXs2OqPrXnXvJ) | 2:51 | 2025-01-31 |  |
+| [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 | 2026-02-20 |  |
 | [Faithfully \- Single Version](https://open.spotify.com/track/7FKO2mSmhkR9NzjXr82zpz) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Faithfully](https://open.spotify.com/album/3a0ksuLUOLApL6mWogz7tF) | 2:48 | 2024-05-24 |  |
 | [Fake Fix](https://open.spotify.com/track/1ISjPzPrfa4GTrf6tznM0k) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [Fake Fix](https://open.spotify.com/album/3HgvyvvE2tOMSxeB1SRxgS) | 3:39 | 2025-01-31 |  |
 | [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/5JFgQswV8AjhVUznCfUYha) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:55 | 2026-01-08 |  |

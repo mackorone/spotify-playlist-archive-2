@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,658 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,715 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 6 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 |
 | 7 | [Ranjhea](https://open.spotify.com/track/0XzQsVLirMJgbQXXc1mPYb) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 2:38 |
 | 8 | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Charanjit Ahuja](https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj), [Muhammad Sadiq](https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD), [Ranjit Kaur](https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn) | 2:35 |
-| 9 | [Once in a Lifetime](https://open.spotify.com/track/4lkP1cosJXQylSwi7U4D8A) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K) | [Once in a Lifetime](https://open.spotify.com/album/1uu2Kslt8472t7nSWyiq5q) | 2:57 |
+| 9 | [Housefull](https://open.spotify.com/track/7rvpmqxwjY7shpobV0b8zV) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Hattrick](https://open.spotify.com/album/3qjy2ASixumOpuSeU1JPLX) | 3:16 |
 | 10 | [Bloodline](https://open.spotify.com/track/58e0YubYQ1d9cCeXPAwsol) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Bloodline](https://open.spotify.com/album/5ODlJ6z5wzl9niMH2KWAWd) | 2:26 |
 | 11 | [Badmash \- From "Dsp Dev 2"](https://open.spotify.com/track/2A2vDULe18wwg8E7AmYU0o) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Badmash \(From "Dsp Dev 2"\)](https://open.spotify.com/album/0rGtX0aiBfOahc0VDJhkPQ) | 2:30 |
 | 12 | [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 50 | [12 Vajde](https://open.spotify.com/track/7BqkqK5ZrqePJKUxxCI7Nd) | [Sohal Y](https://open.spotify.com/artist/4hzpfKWl3sNab2m0CE4aQA) | [12 Vajde](https://open.spotify.com/album/0ZHBJzPSGcdY2hZtd8TEPx) | 2:35 |
 
-Snapshot ID: `AAAAAALZqArH36F2cAa7rUhHqSawF2OS`
+Snapshot ID: `AAAAAL5NIv2T8qBNceyDrxitwaV+XnRy`

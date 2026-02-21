@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,296,156 likes - 189 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,296,413 likes - 189 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 94 | [Baba O'Riley \- ConfidentialMX Remix](https://open.spotify.com/track/5iq0Tela3gm73ZW72XZ5dm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:33 |
 | 95 | [You Don't Mess Around with Jim](https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:02 |
 | 96 | [Get Up And Go](https://open.spotify.com/track/5u165RYdVYhMtPc8ukhaoY) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:16 |
-| 97 | [Gunpoint Affection](https://open.spotify.com/track/5ZZGzKa8TTRiE6tyal0AjX) | [Black Market Baby](https://open.spotify.com/artist/1pI4G6rXOzQdOUWrNO2P6H) | [Coulda..\. Shoulda..\. Woulda \(The Black Market Baby Collection\)](https://open.spotify.com/album/4j1UB6mtgsCYdoz2jcxAqe) | 3:52 |
+| 97 | [Gunpoint Affection](https://open.spotify.com/track/5ZZGzKa8TTRiE6tyal0AjX) | [Black Market Baby](https://open.spotify.com/artist/1pI4G6rXOzQdOUWrNO2P6H) | [Coulda..\. Shoulda..\. Woulda: The Black Market Baby Collection](https://open.spotify.com/album/4j1UB6mtgsCYdoz2jcxAqe) | 3:52 |
 | 98 | [My Bologna](https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 1:59 |
 | 99 | [Material Girl](https://open.spotify.com/track/2PMcv8wvhIrAGBCFSsiP4w) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:00 |
 | 100 | [Cold as Ice](https://open.spotify.com/track/1ai4tCk7VbSvrWM0RAyhi2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 3:19 |

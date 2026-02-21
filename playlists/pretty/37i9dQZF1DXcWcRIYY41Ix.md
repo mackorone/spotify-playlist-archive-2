@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Antía Muíño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,349 likes - 104 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,351 likes - 104 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 2 | [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 |
 | 3 | [El Vacío](https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn) | [Adam Guerrero](https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn) | [El Vacío](https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux) | 2:34 |
 | 4 | [Si Se Cae el Cielo](https://open.spotify.com/track/3WPbvNi77RxzkaBWPOImAj) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Si Se Cae el Cielo](https://open.spotify.com/album/7yJmry1fqotRnI7PUqo26S) | 3:46 |
-| 5 | [Anfibia Por Veces](https://open.spotify.com/track/0fFtmexbKrdPHW3TyfeAxP) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [](https://open.spotify.com/album/null) | 3:18 |
+| 5 | [Anfibia Por Veces](https://open.spotify.com/track/0fFtmexbKrdPHW3TyfeAxP) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Anfibia Por Veces](https://open.spotify.com/album/66W6vjIToX8YxcoGVjghH1) | 3:18 |
 | 6 | [La primera vez que te vi](https://open.spotify.com/track/21QAzTxFDvFsulmRrj0KlO) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Cantares de llanura y monte \(CLM\)](https://open.spotify.com/album/5J1f3zQVxU8DVFKRy2iuaM) | 3:30 |
 | 7 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 |
 | 8 | [lo\_divino](https://open.spotify.com/track/20SlD6QDxPlOd1Ip0NvsdG) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [anónimo](https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y) | 3:21 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 18 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
 | 19 | [Amigo Mío](https://open.spotify.com/track/2pFXuJlP2S94gy30l9Lhg8) | [Leon Coeur](https://open.spotify.com/artist/2Ba1UolAMuBTKpfAlHzVM5) | [Amigo Mío](https://open.spotify.com/album/7KhwNPJutT0njTtjWjLbaG) | 3:38 |
 | 20 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
-| 21 | [Ojos Tierra](https://open.spotify.com/track/14kShgOA3LTzgnsdvw19n7) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [](https://open.spotify.com/album/null) | 3:43 |
+| 21 | [Ojos Tierra](https://open.spotify.com/track/14kShgOA3LTzgnsdvw19n7) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj), [Nia Zalén](https://open.spotify.com/artist/5FrRFYsPkw2FeQBKt0QLRd) | [Zulviem](https://open.spotify.com/album/5za4ffJn56PYbS0gkpKi9t) | 3:43 |
 | 22 | [Me Perdono](https://open.spotify.com/track/6xXYaE5cstVvcBhwCJFOGJ) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Me Perdono](https://open.spotify.com/album/3CCGWWOZtZHtWhYiQNa1yA) | 3:20 |
 | 23 | [Vos](https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Vos](https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t) | 3:18 |
 | 24 | [Años Luz](https://open.spotify.com/track/5cf39wt7M3YLwZCivMBrTU) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu) | [Años Luz](https://open.spotify.com/album/247rXo0XxqlOYxPBuTE8xf) | 3:35 |

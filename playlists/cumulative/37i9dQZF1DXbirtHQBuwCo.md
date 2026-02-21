@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>Suen\(수엔\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: Molly Yam, DIMO REX\)
 
 894 songs - 1 day 23 hr 13 min
 

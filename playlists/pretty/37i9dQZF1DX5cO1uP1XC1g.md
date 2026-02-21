@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: Haifa Wehbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,433 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,473 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
 | 2 | [TA3AL](https://open.spotify.com/track/1EACavreLWxuxCd6Xzdaxj) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [TA3AL](https://open.spotify.com/album/4NUYyvXa1Qm8S9CQfK1ERB) | 2:19 |
-| 3 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
+| 3 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
 | 4 | [Kazdoura](https://open.spotify.com/track/0Br77SqBisRvGY6yLXzpxz) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Abu Ward](https://open.spotify.com/artist/2xaYgmlluZUUKCcfJEUdYe) | [Kazdoura](https://open.spotify.com/album/4Py37GaBzo4gpfIkOqDJQA) | 3:21 |
 | 5 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
 | 6 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |

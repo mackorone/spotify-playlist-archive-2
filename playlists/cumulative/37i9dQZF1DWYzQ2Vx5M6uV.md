@@ -2,7 +2,7 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
+> Latin Afrobeats heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
 
 333 songs - 16 hr 48 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Danny Felix en portada.",
+  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Adriel Favela en portada.",
   "name": "Corridos Tumbados",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "album": {
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "444 X Tipo Need For Speed",
+      "url": "https://open.spotify.com/track/4B5SNNTbgiizvK83g0m4im"
     },
     {
       "album": {
@@ -816,6 +834,24 @@
       "duration_ms": 175179,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/2wEHpXdFjkxlv6pHhSqMiQ"
+    },
+    {
+      "album": {
+        "name": "COUNTACH",
+        "url": "https://open.spotify.com/album/20RNT1nWEnjcBSDNyissHb"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172923,
+      "name": "COUNTACH",
+      "url": "https://open.spotify.com/track/56mD5kXR69phYrteaP7koz"
     },
     {
       "album": {

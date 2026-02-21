@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-132 songs - 5 hr 59 min
+132 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A1 PERICO \(feat\. Nasty C and Mizzle\)](https://open.spotify.com/track/7M0dCEkncviZNTqb4yZMXx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 3:29 | 2024-06-28 | 2024-07-27 |
 | [Acct Number \(Omalicha\)](https://open.spotify.com/track/70rXBzhbteWhbc1Ra5xb6r) | [Izztopik](https://open.spotify.com/artist/3xV6vHDr8Ca4GHDZT0JSRt), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Acct Number \(Omalicha\)](https://open.spotify.com/album/1oQJNH7DtXfgyuURTDP74s) | 3:42 | 2025-11-07 |  |
 | [Apapa](https://open.spotify.com/track/67K9m0tdDtJFrynVmVIbGn) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [The Efeleme Pack](https://open.spotify.com/album/1cbTJMZRqKSwxU77jPEhCh) | 2:44 | 2024-06-28 | 2025-08-01 |
+| [Ayinke](https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV) | [Harteez](https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn), [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [Menace](https://open.spotify.com/album/3etpDVT1amvU3KRVXjF82E) | 2:18 | 2026-02-20 |  |
 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G), [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 | 2024-11-08 | 2025-05-17 |
 | [Bando Diaries](https://open.spotify.com/track/3T27JFvKbp3btufldaKOUU) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:38 | 2024-06-28 |  |
 | [Bartender](https://open.spotify.com/track/1wg5Tt2TjFuxaowloDi7eQ) | [Determination](https://open.spotify.com/artist/06HaqkiO8AojNrCRcfGOw9) | [Bartender](https://open.spotify.com/album/648NaLDkGaHEFdbVJ21UNI) | 2:30 | 2025-09-05 |  |
@@ -131,7 +132,6 @@
 | [TekTekk](https://open.spotify.com/track/7sPFHI6c95gz62bcVKDqGf) | [Kagedimes](https://open.spotify.com/artist/4easzzLwBxAXIQIZu0u7De), [Caesar Is King](https://open.spotify.com/artist/2ot3lSBWEgWbBnzEZ4Y50M) | [TekTekk](https://open.spotify.com/album/2sNKBekbkDe70e7XIbuuZT) | 2:46 | 2024-06-28 | 2024-07-19 |
 | [Thank God](https://open.spotify.com/track/13iklRLQRhn1t0Hw4UPP64) | [Spacethesurvivor](https://open.spotify.com/artist/7Ab1Ud7TkuRcg7vNUwa0zc), [Tidinz](https://open.spotify.com/artist/3oeUMszF674PW8qcNqIbsX), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Thank God](https://open.spotify.com/album/1tAIu0kdfL7CPYXz8OdXn3) | 3:31 | 2024-08-02 | 2025-03-15 |
 | [TO BE A MAN](https://open.spotify.com/track/6IAnHI2UYVJ8MCtdND5u9H) | [ogbanje](https://open.spotify.com/artist/3VB10o5j05jlL5FXfyCNGC), [JOHN ZELO](https://open.spotify.com/artist/7zgm4C7Gxgw0Yk9b7KXfB0) | [TO BE A MAN](https://open.spotify.com/album/5cLfj4YhTOT6l5upgTrIGD) | 2:41 | 2025-03-14 | 2025-05-17 |
-| [Track 5](https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV) | [Harteez](https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-20 |  |
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2024-06-28 |  |
 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 | 2024-08-02 | 2025-08-30 |
 | [Who Dey Jonze](https://open.spotify.com/track/42vLWq6jFlOImVgi4Z3cRo) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [Who Dey Jonze](https://open.spotify.com/album/68BD66Qgrh8IqakriJ38Jx) | 2:04 | 2024-06-28 | 2025-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,525 likes - 50 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,531 likes - 50 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 45 | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/album/6HkB8bvQTWnPLkKThPiP0e) | 17:28 |
 | 46 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
 | 47 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 |
-| 48 | [Raga Megh \- Tala Jhaptala and Teentala](https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ) | [Ustad Ghulam Mustafa Khan](https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg), [Sultan Niyaz](https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx) | [Celebrating the Legend \- Ghulam Mustafa Khan](https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK) | 21:27 |
-| 49 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
-| 50 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
+| 48 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
+| 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
+| 50 | [Raga Megh \- Tala Jhaptala and Teentala](https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ) | [Ustad Ghulam Mustafa Khan](https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg), [Sultan Niyaz](https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx) | [Celebrating the Legend \- Ghulam Mustafa Khan](https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK) | 21:27 |
 
 Snapshot ID: `AAAAAGnNuNe7G6CWorDar0tH7yyCfGa4`

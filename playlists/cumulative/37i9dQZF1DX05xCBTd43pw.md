@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-479 songs - 1 day 0 hr 44 min
+480 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 | 2025-08-28 |  |
+| [Echo](https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Echo](https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n) | 2:55 | 2026-02-19 |  |
 | [Ehreteam](https://open.spotify.com/track/7aqXRqvTzoOyxt9vQpCL6c) | [ETO](https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj) | [Ehreteam](https://open.spotify.com/album/2jDRPzcGRsai4aB5f79md1) | 2:53 | 2025-04-24 | 2025-05-02 |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 | 2025-09-13 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
@@ -383,7 +384,7 @@
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
 | [Sombrero](https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Sombrero](https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi) | 3:01 | 2025-10-16 | 2026-02-13 |
 | [Somebody I Don't Know](https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy](https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm) | 3:05 | 2025-02-27 | 2025-04-18 |
-| [Somebody Loves You](https://open.spotify.com/track/6R6WMZllL7ZxfRjrK8v1sn) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Finished](https://open.spotify.com/album/6llcRRb5n49oo7N6hdGHWP) | 3:01 | 2025-11-20 |  |
+| [Somebody Loves You](https://open.spotify.com/track/6R6WMZllL7ZxfRjrK8v1sn) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Finished](https://open.spotify.com/album/6llcRRb5n49oo7N6hdGHWP) | 3:01 | 2025-11-20 | 2026-02-21 |
 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 | 2025-09-13 |
 | [Something Casual](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Something Casual](https://open.spotify.com/album/1l63h2CYnKWPNu7Z2OiWBH) | 3:29 | 2025-11-06 | 2025-12-06 |
 | [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 | 2025-06-14 |
@@ -411,7 +412,7 @@
 | [Test Drive](https://open.spotify.com/track/5HRN0Lv27ah0HHpVqi6MXP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Test Drive](https://open.spotify.com/album/7sG18Qe8wSb1JFdq4a1R9W) | 2:22 | 2025-11-27 |  |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
-| [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [](https://open.spotify.com/album/null) | 6:27 | 2026-02-19 |  |
+| [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 | 2026-02-19 |  |
 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 | 2025-10-09 |  |
 | [THE LOVER](https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [XAOS](https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g) | 2:20 | 2025-05-29 | 2026-01-15 |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-20 | 2025-11-06 |
@@ -434,7 +435,6 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 4](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
@@ -471,6 +471,7 @@
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 | 2025-09-13 |
 | [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 | 2025-08-14 | 2025-10-29 |
 | [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 | 2025-06-01 |
+| [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 | 2026-02-19 |  |
 | [When We Get There We'll Know](https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/2uNlRP9wGl6kZnzAcO0piz) | 3:00 | 2025-05-22 | 2025-06-16 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 | 2025-03-15 |
 | [Will you read my mind?](https://open.spotify.com/track/5OAsL40eMUld36G5c6ankC) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will you read my mind?](https://open.spotify.com/album/107YlaWLAAp5qqvKy8F2BN) | 4:05 | 2025-05-22 | 2025-07-02 |

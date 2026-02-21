@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-552 songs - 1 day 6 hr 26 min
+553 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Down](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Down](https://open.spotify.com/album/0Hs90o1lKIZe9PPPqjKyxo) | 2:47 | 2022-01-28 | 2022-05-07 |
 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 | 2024-03-22 | 2024-11-30 |
 | [Dream](https://open.spotify.com/track/0WI137pes6r0v32K8ZsWqD) | [Jyye](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Dream](https://open.spotify.com/album/5X8zGXcZCLNOYeLVKzBvyN) | 3:15 | 2026-01-05 |  |
+| [Dreamin' About You](https://open.spotify.com/track/6naA2kx3P4uRTjWbNuSdDX) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Dreamin' About You](https://open.spotify.com/album/0HfkWy9EKBs4KtYjbQNMs0) | 2:27 | 2026-02-20 |  |
 | [Dreaming](https://open.spotify.com/track/5SYHmSFd6XPK0dLYWML1vU) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Frost](https://open.spotify.com/album/5bjn5UoB5fAEY5n1bMhO2T) | 4:55 | 2020-09-13\* | 2021-03-06 |
 | [Dreaming](https://open.spotify.com/track/15vNoLXoliW2XdTUDlNlWk) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:40 | 2024-07-26 | 2025-01-04 |
 | [Dreams](https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Dreams](https://open.spotify.com/album/0A7mcxKjEulhu0P9ves8sT) | 2:37 | 2020-10-24 | 2022-08-06 |

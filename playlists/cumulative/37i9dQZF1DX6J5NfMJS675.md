@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-1,162 songs - 4 day 4 hr 21 min
+1,162 songs - 4 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Loca](https://open.spotify.com/track/7oJHO6r8Rh4PbDcQflvmOQ) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Explorer Vol\. 1](https://open.spotify.com/album/7jvBgKQK4ALnqRoxGQbktc) | 4:06 | 2025-07-24 | 2025-10-10 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-02 | 2023-02-18 |
 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-09-02 | 2023-03-25 |
+| [Lose Control](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3), [HYBRD](https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC) | [Lose Control](https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW) | 3:11 | 2026-02-19 |  |
 | [Lose My Mind](https://open.spotify.com/track/2UnN0d2M6qDrycNDoYVK8D) | [Return Fall](https://open.spotify.com/artist/2cyxOYiCRIb8zwTfdLyTx2) | [Lose My Mind](https://open.spotify.com/album/4s0QkKVemLLai5UgrKvSa5) | 3:51 | 2024-09-27 | 2024-12-10 |
 | [Lost](https://open.spotify.com/track/7sSq94cwwAZ7WHs2UTb0p5) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Lost](https://open.spotify.com/album/1ZApiaODz4vJMQhz3FZnJD) | 3:56 | 2023-11-10 | 2024-09-17 |
 | [Lost Mantra](https://open.spotify.com/track/6KfztRviGBaPUTWnlqphV0) | [MIRA MIRA](https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC) | [Lost Mantra](https://open.spotify.com/album/5ljjaHb3O0DdWvrcODolr6) | 3:20 | 2025-03-24 | 2025-05-30 |
@@ -1060,7 +1061,6 @@
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-11-11 | 2025-05-15 |
 | [Touch The Darkness](https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 7:33 | 2023-05-05 | 2023-10-11 |
 | [Toxic People](https://open.spotify.com/track/75p7aD6YTSBpR3hN6R59E6) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Toxic People](https://open.spotify.com/album/3RaHkhI4pg1nM0q7AmMqL7) | 6:53 | 2022-06-28 | 2022-10-29 |
-| [Track 1](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [TRACK ID?](https://open.spotify.com/track/6jxSaOj8vfH3TV0ojFVH4r) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x) | [Club Quarantäne I](https://open.spotify.com/album/2ZXpPaoDHmkruzEeSNMscv) | 5:39 | 2021-03-27 | 2021-05-03 |
 | [Transcendence](https://open.spotify.com/track/01PvCgdphu1eh2hJaPcxN0) | [Kate Hex](https://open.spotify.com/artist/5jeRWqe3aZfPrtbEQbo0KU) | [Transcendence](https://open.spotify.com/album/3DHH6Bv6smiXc04k6oaed7) | 3:51 | 2024-09-02 | 2024-10-11 |
 | [Transformer \- Original Mix](https://open.spotify.com/track/2VQDsarsCp6Ozz10buneOA) | [Xenia \(UA\)](https://open.spotify.com/artist/4Ge7e4OovxABUtAAhLhk8n) | [Transformer](https://open.spotify.com/album/5YEgd5fkjvmClZzLeGl1Z1) | 4:24 | 2021-10-02 | 2022-02-12 |

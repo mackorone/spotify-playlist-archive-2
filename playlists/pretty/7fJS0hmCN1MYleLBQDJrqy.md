@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,835 likes - 50 songs - 2 hr 19 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,828 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 39 | [Koning](https://open.spotify.com/track/5edpUbDaaTQdGt8uyWNLSP) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Koning](https://open.spotify.com/album/0xATFfVzfsP8sz3PoyJPgS) | 1:58 |
 | 40 | [Dansen Met Een Engel](https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Dansen Met Een Engel](https://open.spotify.com/album/5mwYNIoM2DnIKQfKjZsqH7) | 2:36 |
 | 41 | [Vluchtstrook](https://open.spotify.com/track/2IV6ArKIuTpNxqXCCHd0mG) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/3ROg8rapFYVq5IJmOwDHlq) | 2:28 |
-| 42 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 |
-| 43 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
-| 44 | [If I tell you](https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [If I tell you](https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3) | 3:11 |
-| 45 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 |
-| 46 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
+| 42 | [Laatste Keer](https://open.spotify.com/track/1FHt4YSHoOmjtQmdBdhbLx) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Laatste Keer](https://open.spotify.com/album/0fNE71IuBEkFed4U94UwGt) | 2:12 |
+| 43 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 |
+| 44 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
+| 45 | [If I tell you](https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [If I tell you](https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3) | 3:11 |
+| 46 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 |
 | 47 | [Bacotrein](https://open.spotify.com/track/7HHiMHLwYK89ZHMjNq6xsn) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/6n0thGb2uDy1vXgOmFScPB) | 2:16 |
 | 48 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
 | 49 | [Beauty & De Brains](https://open.spotify.com/track/4aOqKc3Zdg4m5uK3mqAM8B) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:08 |
 | 50 | [Feel It Still](https://open.spotify.com/track/7FESgYLcOufHqKlwrvJN60) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Feel It Still](https://open.spotify.com/album/2fbps64P1Z4EEktydBn9yZ) | 2:43 |
 
-Snapshot ID: `AAAT0igTRLC4tL9fGpFBC+KTOUA3vsvT`
+Snapshot ID: `AAAT1Lu4Od22ibhNEeSyjCd5ktSBZS1i`

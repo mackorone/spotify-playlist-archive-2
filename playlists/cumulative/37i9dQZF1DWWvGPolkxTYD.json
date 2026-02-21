@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 306920,
       "name": "Hijaz",
       "url": "https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM"
@@ -928,6 +928,24 @@
       "duration_ms": 176600,
       "name": "Ourakjoutyoun (Joy) [Lebanon]",
       "url": "https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo"
+    },
+    {
+      "album": {
+        "name": "Oriental Breeze",
+        "url": "https://open.spotify.com/album/26kvGzUIQrtJI2kREW1bmc"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Antar and Oriental Secrets Ensemble",
+          "url": "https://open.spotify.com/artist/2jwkIGB8WGIbWPfj5IC69H"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Qanoun Improvisation",
+      "url": "https://open.spotify.com/track/50JMemVAIno0plc9HqbFOu"
     },
     {
       "album": {

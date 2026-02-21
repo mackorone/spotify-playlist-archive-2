@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Fin Ny Tid (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6gQPpg3ThXVHlQfifysaaG"
-      },
-      "artists": [
-        {
-          "name": "Smithyboy",
-          "url": "https://open.spotify.com/artist/2PfxuQRgR80lTnaH2m41yg"
-        },
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "G\u00e5 Hardt Eller G\u00e5 Hjem",
-      "url": "https://open.spotify.com/track/7oF3DOYkEbjDa9AJPX8gRX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glem Elegansen",
         "url": "https://open.spotify.com/album/4kfdoRnEnvI6YeOykHUje4"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 236207,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/7FlBmx5pQD1AzKi1rILX5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Fin Ny Tid (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6gQPpg3ThXVHlQfifysaaG"
+      },
+      "artists": [
+        {
+          "name": "Smithyboy",
+          "url": "https://open.spotify.com/artist/2PfxuQRgR80lTnaH2m41yg"
+        },
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "G\u00e5 Hardt Eller G\u00e5 Hjem",
+      "url": "https://open.spotify.com/track/7oF3DOYkEbjDa9AJPX8gRX"
     },
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u041b\u044e\u0431\u043b\u044e",
-        "url": "https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9"
-      },
-      "artists": [
-        {
-          "name": "Kutas",
-          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
-        }
-      ],
-      "duration_ms": 221836,
-      "name": "\u041b\u044e\u0431\u043b\u044e",
-      "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glem Elegansen",
         "url": "https://open.spotify.com/album/4kfdoRnEnvI6YeOykHUje4"
       },
@@ -167,18 +151,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defense 101",
-        "url": "https://open.spotify.com/album/0OR2HfWLbc68Yu7LBevdy9"
+        "name": "\u041b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9"
       },
       "artists": [
         {
-          "name": "WarSongs English",
-          "url": "https://open.spotify.com/artist/4j7ojtDoEQlTIdDsLGLuxL"
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
         }
       ],
-      "duration_ms": 117399,
-      "name": "F-15 : Feel the power",
-      "url": "https://open.spotify.com/track/1xzPJeLC6tFsRmnqIS6GCi"
+      "duration_ms": 221836,
+      "name": "\u041b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Want to Stop",
+        "url": "https://open.spotify.com/album/3NDv0NRRyl9uSn6SF7USQi"
+      },
+      "artists": [
+        {
+          "name": "Scott Jimmy",
+          "url": "https://open.spotify.com/artist/566O6P9z1Neip0rTk1qYZB"
+        }
+      ],
+      "duration_ms": 187409,
+      "name": "Whisper in Storms",
+      "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
     },
     {
       "added_at": null,
@@ -203,18 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Other Way",
-        "url": "https://open.spotify.com/album/4JV0TIzoG7rOt4P0D8vUp3"
+        "name": "Patient X",
+        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
       },
       "artists": [
         {
-          "name": "M\u00f6\u00f6N",
-          "url": "https://open.spotify.com/artist/4jLACY8UVXCPkrchkbsO8z"
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
         }
       ],
-      "duration_ms": 131027,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
+      "duration_ms": 188625,
+      "name": "Man on a Horse",
+      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patient X",
-        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
-      },
-      "artists": [
-        {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
-        }
-      ],
-      "duration_ms": 188625,
-      "name": "Man on a Horse",
-      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All These Monsters",
+        "url": "https://open.spotify.com/album/5KFiSSd3h3N3jW4P3eyXdh"
+      },
+      "artists": [
+        {
+          "name": "The Black Capes",
+          "url": "https://open.spotify.com/artist/180v9Qh92pqu4wXDcudKNx"
+        }
+      ],
+      "duration_ms": 298068,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/7Fwwylr7ZnMXQnewxCod0S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -287,102 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams and Falls",
-        "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
+        "name": "Creepy Tales from the Other Side",
+        "url": "https://open.spotify.com/album/1sSif6lfRIcsTDFfG3hglj"
       },
       "artists": [
         {
-          "name": "Organoclorados",
-          "url": "https://open.spotify.com/artist/45GwPSYcsi1sTNCtHHVAeH"
+          "name": "THE VAMPIRES OF KOPENHAGEN",
+          "url": "https://open.spotify.com/artist/4Curt4KIEHtDoCoaghY9n8"
         }
       ],
-      "duration_ms": 226758,
-      "name": "Days and Roses",
-      "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Year Of The Snake",
-        "url": "https://open.spotify.com/album/2hZcIRKzA9UAWr05Emda07"
-      },
-      "artists": [
-        {
-          "name": "Roderiko Pop",
-          "url": "https://open.spotify.com/artist/2l2ji2t6bt74IRnrs05eDW"
-        },
-        {
-          "name": "Jonathan Andrew Rysdon",
-          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
-        }
-      ],
-      "duration_ms": 174481,
-      "name": "The Year Of The Snake",
-      "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Die Like a God",
-        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
-      },
-      "artists": [
-        {
-          "name": "Die Oberherren",
-          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
-        }
-      ],
-      "duration_ms": 185227,
-      "name": "Shadows Across The South",
-      "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water Music",
-        "url": "https://open.spotify.com/album/5bsbZ3uj9V9eZJtr1f0rHY"
-      },
-      "artists": [
-        {
-          "name": "Mary By Force",
-          "url": "https://open.spotify.com/artist/3SmZQdsZssPfgEt4q1TSuL"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Scared Dancer",
-      "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Dark",
-        "url": "https://open.spotify.com/album/1OP03khqF6QV0kX0AzKcGz"
-      },
-      "artists": [
-        {
-          "name": "Phantoms Of Future",
-          "url": "https://open.spotify.com/artist/6DcFg9y0dLUlwP4oykv8Zh"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
+      "duration_ms": 248679,
+      "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
+      "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
     },
     {
       "added_at": null,
@@ -403,18 +319,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dopey Smile",
-        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
+        "name": "To Die Like a God",
+        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
       },
       "artists": [
         {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+          "name": "Die Oberherren",
+          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Dopey Smile",
-      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
+      "duration_ms": 185227,
+      "name": "Shadows Across The South",
+      "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Break Up Song",
+        "url": "https://open.spotify.com/album/7H5xMzx3G0cDhJA2pI6V3l"
+      },
+      "artists": [
+        {
+          "name": "CAPIT\u00c1N BANDA CHILE",
+          "url": "https://open.spotify.com/artist/5Je2v7bvAnTZbkxgwHzeHr"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "The Break Up Song",
+      "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defense 101",
+        "url": "https://open.spotify.com/album/0OR2HfWLbc68Yu7LBevdy9"
+      },
+      "artists": [
+        {
+          "name": "WarSongs English",
+          "url": "https://open.spotify.com/artist/4j7ojtDoEQlTIdDsLGLuxL"
+        }
+      ],
+      "duration_ms": 117399,
+      "name": "F-15 : Feel the power",
+      "url": "https://open.spotify.com/track/1xzPJeLC6tFsRmnqIS6GCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "duration_ms": 394040,
+      "name": "The Hole",
+      "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Predatory Trails of the Spirit",
+        "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 319892,
+      "name": "The Scavengers",
+      "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
     },
     {
       "added_at": null,
@@ -451,66 +447,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Predatory Trails of the Spirit",
-        "url": "https://open.spotify.com/album/6s7vYnwCt4E0n4yPIUzx9U"
+        "name": "Into the Void",
+        "url": "https://open.spotify.com/album/1QaGsmCUHyjBlmULzbsJys"
       },
       "artists": [
         {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+          "name": "Electrical Storm",
+          "url": "https://open.spotify.com/artist/1UUfVsPvdB3GdAG4dsw14Y"
         }
       ],
-      "duration_ms": 319892,
-      "name": "The Scavengers",
-      "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
+      "duration_ms": 223629,
+      "name": "VoidWalker",
+      "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Der Wahn Als Methode",
-        "url": "https://open.spotify.com/album/6gHoLJnRgtRf4NUeiKPzn9"
+        "name": "Forever Dark",
+        "url": "https://open.spotify.com/album/1OP03khqF6QV0kX0AzKcGz"
       },
       "artists": [
         {
-          "name": "photophor",
-          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+          "name": "Phantoms Of Future",
+          "url": "https://open.spotify.com/artist/6DcFg9y0dLUlwP4oykv8Zh"
         }
       ],
-      "duration_ms": 215204,
-      "name": "Worte",
-      "url": "https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ"
+      "duration_ms": 249640,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Haliucinacijos",
-        "url": "https://open.spotify.com/album/168l4MNJHuRRlWSO0ir2M7"
+        "name": "Dance On My Grave",
+        "url": "https://open.spotify.com/album/6TsZ5MPfbqgjfckASagjKd"
       },
       "artists": [
         {
-          "name": "Siela",
-          "url": "https://open.spotify.com/artist/1hPFXo3zHHaS83N6h4tTbH"
+          "name": "Still Patient?",
+          "url": "https://open.spotify.com/artist/0YlOJACl6cDK4csBuyCoRh"
         }
       ],
-      "duration_ms": 244544,
-      "name": "Gervi\u0173 gedulo giesm\u0117s",
-      "url": "https://open.spotify.com/track/6uwjMIMIBwSqF07mhaYu3l"
+      "duration_ms": 226568,
+      "name": "Dance On My Grave",
+      "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
+        "name": "Dreams and Falls",
+        "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
       },
       "artists": [
         {
-          "name": "Haneke Twins",
-          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+          "name": "Organoclorados",
+          "url": "https://open.spotify.com/artist/45GwPSYcsi1sTNCtHHVAeH"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
+      "duration_ms": 226758,
+      "name": "Days and Roses",
+      "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
     },
     {
       "added_at": null,
@@ -531,50 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Die Like a God",
-        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
+        "name": "Apofenia",
+        "url": "https://open.spotify.com/album/54AqDEVCZNNlXSZj9RVMjj"
       },
       "artists": [
         {
-          "name": "Die Oberherren",
-          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
+          "name": "In Nocte Perpetua",
+          "url": "https://open.spotify.com/artist/6nZB1rHIDDHscrslmBQO5X"
         }
       ],
-      "duration_ms": 161926,
-      "name": "Here's your Reaper",
-      "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost in Silence",
-        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
-      },
-      "artists": [
-        {
-          "name": "Jacobs Fall",
-          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
-        }
-      ],
-      "duration_ms": 394040,
-      "name": "The Hole",
-      "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never the Same",
-        "url": "https://open.spotify.com/album/1igc8PfGM3LoFSQMW2H0Kf"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
-        }
-      ],
-      "duration_ms": 299311,
-      "name": "Never the Same",
-      "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
+      "duration_ms": 246088,
+      "name": "Old Heart Falls",
+      "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
     },
     {
       "added_at": null,
@@ -595,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never the Same",
+        "url": "https://open.spotify.com/album/1igc8PfGM3LoFSQMW2H0Kf"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+        }
+      ],
+      "duration_ms": 299311,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth Behind The Lies",
+        "url": "https://open.spotify.com/album/1iCfPzIOgxd4SwWudJq3E4"
+      },
+      "artists": [
+        {
+          "name": "Fyre Insyde",
+          "url": "https://open.spotify.com/artist/4l7eikbYJX8fI70wwl5gtk"
+        }
+      ],
+      "duration_ms": 142785,
+      "name": "Truth Behind The Lies",
+      "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -611,18 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Kyiv 2023",
-        "url": "https://open.spotify.com/album/4bVQ99ynP4nSTy7HNBAxbQ"
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
       },
       "artists": [
         {
-          "name": "ROME",
-          "url": "https://open.spotify.com/artist/5Y9b87BZjL8FYMFiWfSFAL"
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
         }
       ],
-      "duration_ms": 216864,
-      "name": "Sons of Aeeth",
-      "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
+      "duration_ms": 221679,
+      "name": "contact",
+      "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
     },
     {
       "added_at": null,
@@ -647,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth Behind The Lies",
-        "url": "https://open.spotify.com/album/1iCfPzIOgxd4SwWudJq3E4"
-      },
-      "artists": [
-        {
-          "name": "Fyre Insyde",
-          "url": "https://open.spotify.com/artist/4l7eikbYJX8fI70wwl5gtk"
-        }
-      ],
-      "duration_ms": 142785,
-      "name": "Truth Behind The Lies",
-      "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/3sF0yBWVnBCyKLuWMxLvZw"
       },
@@ -679,18 +659,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Draumen",
-        "url": "https://open.spotify.com/album/3MvU3bncfVIGLw91FiTPlV"
+        "name": "Antipode",
+        "url": "https://open.spotify.com/album/7CQsyA3DUdv6viu20GxAuA"
       },
       "artists": [
         {
-          "name": "Sleggefett",
-          "url": "https://open.spotify.com/artist/7zs9wewsPxF0yy3BMJhWJb"
+          "name": "OUL",
+          "url": "https://open.spotify.com/artist/7fYCDj4CFxzSB6D9ts52Iu"
         }
       ],
-      "duration_ms": 201586,
-      "name": "Draumen",
-      "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
+      "duration_ms": 255812,
+      "name": "My Elegy",
+      "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire Dances",
+        "url": "https://open.spotify.com/album/6e5k5g411e2zSZq9JHTLB0"
+      },
+      "artists": [
+        {
+          "name": "Inner Sun",
+          "url": "https://open.spotify.com/artist/6YDETnIl8C2ygAB0uD3fkq"
+        }
+      ],
+      "duration_ms": 338079,
+      "name": "Fire Dances",
+      "url": "https://open.spotify.com/track/738UZ8hVEggxIVZ0UaNFqX"
     },
     {
       "added_at": null,
@@ -715,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No One's Embrace",
+        "url": "https://open.spotify.com/album/7EW3MKKRJ9MZEhI0p6DjOp"
+      },
+      "artists": [
+        {
+          "name": "Alltid Allena",
+          "url": "https://open.spotify.com/artist/0SXrICo5ETuiDWuEmn7P7u"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "No One's Embrace",
+      "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost in Silence",
         "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
       },
@@ -731,66 +743,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Queen, Turn Me Upside Down",
-        "url": "https://open.spotify.com/album/1tlVOzNFnflL6zvlw2l2T6"
+        "name": "Vessel To Nowhere",
+        "url": "https://open.spotify.com/album/1D2GNqEfh2MGCskkejE6pn"
       },
       "artists": [
         {
-          "name": "Good Goes Away",
-          "url": "https://open.spotify.com/artist/6zYFqvHjgqIx14JH45XJ0r"
+          "name": "Hela",
+          "url": "https://open.spotify.com/artist/1rRi8buombpxhC9BDJmhhT"
         }
       ],
-      "duration_ms": 190545,
-      "name": "'Til They Clean Me From the Side of the Road",
-      "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
+      "duration_ms": 420060,
+      "name": "Vessel To Nowhere",
+      "url": "https://open.spotify.com/track/0yWg1jXATCxyo76uyWDjrW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Yes Life",
-        "url": "https://open.spotify.com/album/5Qtqlqt0oISUXgdZhNiz4s"
+        "name": "Dying Lights",
+        "url": "https://open.spotify.com/album/4hz0uwIal4y9dlIg6vMSEs"
       },
       "artists": [
         {
-          "name": "Dust Lovers",
-          "url": "https://open.spotify.com/artist/78P63iwIPxyFQbWXYz8OoG"
+          "name": "The Distortionist",
+          "url": "https://open.spotify.com/artist/6q4GAyXDGty2BPLerd9o0i"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Yes Life",
-      "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"
+      "duration_ms": 296470,
+      "name": "Dying Lights",
+      "url": "https://open.spotify.com/track/48GXQDTWzg7FQCwExG8nhH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Break Up Song",
-        "url": "https://open.spotify.com/album/7H5xMzx3G0cDhJA2pI6V3l"
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
       },
       "artists": [
         {
-          "name": "CAPIT\u00c1N BANDA CHILE",
-          "url": "https://open.spotify.com/artist/5Je2v7bvAnTZbkxgwHzeHr"
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
         }
       ],
-      "duration_ms": 269520,
-      "name": "The Break Up Song",
-      "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "*the colour of lead*",
-        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
-      },
-      "artists": [
-        {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
-        }
-      ],
-      "duration_ms": 221679,
-      "name": "contact",
-      "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
+      "duration_ms": 178000,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
     },
     {
       "added_at": null,
@@ -811,34 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creepy Tales from the Other Side",
-        "url": "https://open.spotify.com/album/1sSif6lfRIcsTDFfG3hglj"
+        "name": "Der Wahn Als Methode",
+        "url": "https://open.spotify.com/album/6gHoLJnRgtRf4NUeiKPzn9"
       },
       "artists": [
         {
-          "name": "THE VAMPIRES OF KOPENHAGEN",
-          "url": "https://open.spotify.com/artist/4Curt4KIEHtDoCoaghY9n8"
+          "name": "photophor",
+          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
         }
       ],
-      "duration_ms": 248679,
-      "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
-      "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
+      "duration_ms": 215204,
+      "name": "Worte",
+      "url": "https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Into the Void",
-        "url": "https://open.spotify.com/album/1QaGsmCUHyjBlmULzbsJys"
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/5LluJR2yxtV1y4Co7MKCGo"
       },
       "artists": [
         {
-          "name": "Electrical Storm",
-          "url": "https://open.spotify.com/artist/1UUfVsPvdB3GdAG4dsw14Y"
+          "name": "ANTIAGE",
+          "url": "https://open.spotify.com/artist/0GYVW5OLnttK3DWHIgcp6o"
         }
       ],
-      "duration_ms": 223629,
-      "name": "VoidWalker",
-      "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
+      "duration_ms": 234260,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

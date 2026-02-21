@@ -904,7 +904,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174053,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X"
@@ -7286,6 +7286,28 @@
       "duration_ms": 227970,
       "name": "Sue\u00f1o Encontrarme Con Vos",
       "url": "https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3"
+    },
+    {
+      "album": {
+        "name": "Tan Dif\u00edcil",
+        "url": "https://open.spotify.com/album/5rr85OTSE3DoFpqhVpF9Tu"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199237,
+      "name": "Tan Dif\u00edcil",
+      "url": "https://open.spotify.com/track/1H53Jd1J6SVUyuQFN5qhx2"
     },
     {
       "album": {
@@ -8790,6 +8812,24 @@
       "duration_ms": 160133,
       "name": "Yo Me Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI"
+    },
+    {
+      "album": {
+        "name": "Yo No Te Pido",
+        "url": "https://open.spotify.com/album/1DMtGm75109X7iGZePbqwF"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202645,
+      "name": "Yo No Te Pido",
+      "url": "https://open.spotify.com/track/4KLnX1RkeUQubEPzkjojqn"
     },
     {
       "album": {

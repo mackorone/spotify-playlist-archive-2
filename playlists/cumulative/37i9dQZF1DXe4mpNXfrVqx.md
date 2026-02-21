@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mari Raia, Muse Maya
 
-233 songs - 10 hr 20 min
+234 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
 | [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 | 2023-08-19 |
+| [Chama de amor](https://open.spotify.com/track/2qOzVhY0aa8mdAdGT42eX4) | [OGCapitu](https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD), [MaBapp](https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U), [Bertoi](https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T) | [Chama de amor](https://open.spotify.com/album/62sT4NHJ53d9JVkCE5bbDt) | 2:41 | 2026-02-20 |  |
 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-02-22 |  |
 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 | 2023-04-21 | 2025-10-10 |
 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 | 2024-04-26 | 2024-09-27 |
@@ -91,7 +92,7 @@
 | [Fofoqueira](https://open.spotify.com/track/6lEfI6QvsdZyQKhDW9FYmB) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Fofoqueira](https://open.spotify.com/album/6flPMDm8S9h2s3bCMaWA6e) | 2:01 | 2022-04-08 | 2022-06-04 |
 | [Força Feminina](https://open.spotify.com/track/5YAeh6eIl9MoTOvLF2k2WZ) | [DeaaZ](https://open.spotify.com/artist/6qwsKQVKf0xfhUYBObyfQc), [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6) | [Histórias Primas](https://open.spotify.com/album/5ymgayaqTQxiUOJ7kOHlSC) | 3:04 | 2022-04-22 | 2022-09-03 |
 | [Fruto da Várzea](https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:38 | 2025-10-24 |  |
-| [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
+| [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 | 2026-02-21 |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2024-04-06 |
 | [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 | 2024-06-29 |

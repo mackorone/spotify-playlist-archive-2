@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Twenty One Pilots",
-  "num_followers": 1046140,
+  "num_followers": 1046052,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZFk1ZANnWD0+QE1X3t1/z+wk4u",
+  "snapshot_id": "AAAAAP4mk21vfMfMTPo7sylh2EslvEL3",
   "tracks": [
     {
       "added_at": "2026-02-20 00:00:13",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
     },
     {
+      "added_at": "2026-02-20 09:19:51",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
+    },
+    {
       "added_at": "2026-02-20 00:00:13",
       "album": {
         "name": "Dying To Love",
@@ -141,6 +157,22 @@
       "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
     },
     {
+      "added_at": "2026-02-20 09:17:55",
+      "album": {
+        "name": "Goodbye (If You Call That Gone)",
+        "url": "https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 185998,
+      "name": "Am I There",
+      "url": "https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S"
+    },
+    {
       "added_at": "2026-02-20 00:00:13",
       "album": {
         "name": "Masquerade",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5"
     },
     {
+      "added_at": "2026-02-20 09:17:55",
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
       "added_at": "2026-02-20 00:00:13",
       "album": {
         "name": "Magnificent Seven",
@@ -171,6 +219,22 @@
       "duration_ms": 166840,
       "name": "Magnificent Seven",
       "url": "https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
     },
     {
       "added_at": "2026-02-20 00:00:13",
@@ -243,22 +307,6 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
-    },
-    {
-      "added_at": "2026-02-20 00:00:13",
-      "album": {
         "name": "God Save The Gun",
         "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
       },
@@ -305,6 +353,22 @@
       "url": "https://open.spotify.com/track/7oViH3tXp5dpqSTOfnBmef"
     },
     {
+      "added_at": "2026-02-20 09:17:55",
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
       "added_at": "2026-02-20 00:00:13",
       "album": {
         "name": "On and On",
@@ -339,8 +403,8 @@
     {
       "added_at": "2026-02-20 00:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "AUTONOMY",
+        "url": "https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm"
       },
       "artists": [
         {
@@ -348,8 +412,8 @@
           "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 280405,
+      "name": "AUTONOMY",
       "url": "https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz"
     },
     {

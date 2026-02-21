@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 16282,
+  "num_followers": 16285,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Tegnapr\u00f3l",
         "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179580,
       "name": "\u00dct\u00f6tt kopott",
       "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Szeg\u00e9nyk\u00e9m",
-        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Szeg\u00e9nyk\u00e9m",
-      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Pillang\u00f3hat\u00e1s",
         "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 138351,
       "name": "Pillang\u00f3hat\u00e1s",
       "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Szeg\u00e9nyk\u00e9m",
+        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Szeg\u00e9nyk\u00e9m",
+      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "\u00c9jszakai",
-        "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
-      },
-      "artists": [
-        {
-          "name": "TELEHOLD",
-          "url": "https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "\u00c9n velem",
-      "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "B\u00e1natszalonna",
         "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 182827,
       "name": "B\u00e1natszalonna",
       "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "\u00c9jszakai",
+        "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
+      },
+      "artists": [
+        {
+          "name": "TELEHOLD",
+          "url": "https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "\u00c9n velem",
+      "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Aludn\u00e9k (de nem lehet)",
-        "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
-      },
-      "artists": [
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Aludn\u00e9k (de nem lehet)",
-      "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1271,18 +1251,22 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Senki m\u00e1s",
-        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+        "name": "Aludn\u00e9k (de nem lehet)",
+        "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Senki m\u00e1s",
-      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
+      "duration_ms": 205440,
+      "name": "Aludn\u00e9k (de nem lehet)",
+      "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1299,6 +1283,22 @@
       "duration_ms": 180983,
       "name": "Vigy\u00e9l El",
       "url": "https://open.spotify.com/track/57v3hecB0GJkHY8FZBcjS4"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Senki m\u00e1s",
+        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Senki m\u00e1s",
+      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
     },
     {
       "added_at": "2026-02-05 23:00:28",

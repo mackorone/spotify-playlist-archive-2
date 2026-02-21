@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Garrett Kato",
+  "description": "A laid-back trip in the folk scene. Cover: Jonah Kagen",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 277917,
       "name": "#44 - Live From The Woodshed",
       "url": "https://open.spotify.com/track/5veNNxR1BUk75heaV2pMEY"
@@ -420,6 +420,24 @@
       "duration_ms": 182452,
       "name": "A Little Older",
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
+    },
+    {
+      "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
     },
     {
       "album": {
@@ -2029,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "album": {
         "name": "baja bird",
         "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
       },
@@ -2772,7 +2812,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217165,
       "name": "Black Water - Cinematic Version",
       "url": "https://open.spotify.com/track/3pMKzFAcMUDb74NbHitSFr"
@@ -2956,6 +2996,24 @@
       "duration_ms": 185226,
       "name": "Blue Ridge Run",
       "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
+    },
+    {
+      "album": {
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
     },
     {
       "album": {
@@ -7180,7 +7238,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 246240,
       "name": "Every Minute",
       "url": "https://open.spotify.com/track/3NE77NaFVEXQ8tlASEs2L8"
@@ -9798,7 +9856,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 108261,
       "name": "Hardcore Band",
       "url": "https://open.spotify.com/track/4EAuRsejUfadrIvsNR0Me0"
@@ -10166,7 +10224,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 235394,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN"
@@ -12724,7 +12782,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 205599,
       "name": "Jeopardy - Up Late with Lefty",
       "url": "https://open.spotify.com/track/5LzQvqJdJm1yRneSU4bfJj"
@@ -13400,6 +13458,24 @@
       "duration_ms": 219080,
       "name": "lagunas",
       "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
+    },
+    {
+      "album": {
+        "name": "Lake Effect",
+        "url": "https://open.spotify.com/album/5M2Qm6miL0fBOSlaYQE3y6"
+      },
+      "artists": [
+        {
+          "name": "Darryl Rahn",
+          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196917,
+      "name": "Lake Effect",
+      "url": "https://open.spotify.com/track/1V57OlQHsUEePM47rxYjxQ"
     },
     {
       "album": {
@@ -15219,6 +15295,24 @@
     },
     {
       "album": {
+        "name": "I Can Dream",
+        "url": "https://open.spotify.com/album/79T68idWo8fapNq659HB0a"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265179,
+      "name": "Maywell",
+      "url": "https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc"
+    },
+    {
+      "album": {
         "name": "Meaning of Home",
         "url": "https://open.spotify.com/album/5AtiiQsqVvpSKdKKV8srR0"
       },
@@ -16178,6 +16272,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "album": {
@@ -22783,6 +22895,24 @@
     },
     {
       "album": {
+        "name": "Talkin' About Jesus",
+        "url": "https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Talkin' About Jesus",
+      "url": "https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS"
+    },
+    {
+      "album": {
         "name": "Tall Boy",
         "url": "https://open.spotify.com/album/5A3jNX3ZP3DepmTViId4qj"
       },
@@ -25028,7 +25158,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
@@ -25382,7 +25512,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 255026,
       "name": "Victory City",
       "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
@@ -25458,6 +25588,28 @@
       "duration_ms": 190348,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/4HAEvT4ylhnLybDfl8hmDm"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0Hg77PUb3vybnbsbuct5Hz"
+      },
+      "artists": [
+        {
+          "name": "We Lepers",
+          "url": "https://open.spotify.com/artist/3NUxNOAEGlJsIeormnXtnr"
+        },
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2HOlrg63jArzoBkAPbQxTC"
     },
     {
       "album": {

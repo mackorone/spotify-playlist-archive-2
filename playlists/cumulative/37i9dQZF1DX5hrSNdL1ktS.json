@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Alu Mix y Brray en cover",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Sayuri y Sopholov en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 169787,
       "name": "2012",
       "url": "https://open.spotify.com/track/0X0mkGmA9xKbL5933RjNkA"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173617,
       "name": "Doble D",
       "url": "https://open.spotify.com/track/2TzWKKox93RxQGH8HTKs9z"
@@ -12087,6 +12087,32 @@
     },
     {
       "album": {
+        "name": "Me Prendo",
+        "url": "https://open.spotify.com/album/06vl9N0mLWkI6BZVmDFPEp"
+      },
+      "artists": [
+        {
+          "name": "Irving Soto",
+          "url": "https://open.spotify.com/artist/7J05EPkDn6njFSTBsCow1E"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        },
+        {
+          "name": "Chimpa Hp",
+          "url": "https://open.spotify.com/artist/45V7crRM4Tv7tn2zlPKKR4"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151879,
+      "name": "Me Prendo",
+      "url": "https://open.spotify.com/track/5ReFJtJUiQv0RMXNhXCPu9"
+    },
+    {
+      "album": {
         "name": "Me Tientas (Remix)",
         "url": "https://open.spotify.com/album/2lXwnIgNG1OIr8iLAVi9tf"
       },
@@ -13892,6 +13918,28 @@
       "duration_ms": 256875,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/1R2EVhoWhlCkBTb8l9MdCn"
+    },
+    {
+      "album": {
+        "name": "noche fr\u00eda",
+        "url": "https://open.spotify.com/album/5xuGeuNYJskSglAA5Cpw8D"
+      },
+      "artists": [
+        {
+          "name": "Jessvel Peyret",
+          "url": "https://open.spotify.com/artist/561iBCGIcONOAjmQYjyVi8"
+        },
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "noche fr\u00eda",
+      "url": "https://open.spotify.com/track/7GrUmqxUqFCpvwTMkNZpD2"
     },
     {
       "album": {
@@ -17754,7 +17802,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 146086,
       "name": "Robarte",
       "url": "https://open.spotify.com/track/3CrvlZwOBy0UffpnFYydBc"
@@ -18856,6 +18904,36 @@
       "duration_ms": 164137,
       "name": "SI TE DIGO QUE SI",
       "url": "https://open.spotify.com/track/29bPGQQUNsjhqIg8cmlXE6"
+    },
+    {
+      "album": {
+        "name": "Si te sientes sola",
+        "url": "https://open.spotify.com/album/4dwN3acQzPU8zSWHdUiZme"
+      },
+      "artists": [
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Yell G",
+          "url": "https://open.spotify.com/artist/6wRa5hi05LDZDZZ1XywWdn"
+        },
+        {
+          "name": "Monrow",
+          "url": "https://open.spotify.com/artist/0wrAEJ3kzKLmyEJYJTgVWH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Si te sientes sola",
+      "url": "https://open.spotify.com/track/5oYrgHrZ7dAuz0RUddfNiB"
     },
     {
       "album": {

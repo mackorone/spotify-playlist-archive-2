@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,544 likes - 23 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,540 likes - 23 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [i](https://open.spotify.com/track/69x16JmnJxuLVP9ELBoY03) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/5lFpwXzQZYkxOrlrLn71zP) | 3:51 |
 | 2 | [U Should Know Better \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3ahyoMiyG2aLnrDJGmAE1Q) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Body Talk, Pt\. 2](https://open.spotify.com/album/448gOSoxEgjyMHCx6sHs29) | 4:00 |
-| 3 | [Pound Cake / Paris Morton Music 2](https://open.spotify.com/track/4RI9eX7jNcdaQOJifn7t6z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 7:13 |
+| 3 | [Pound Cake / Paris Morton Music 2](https://open.spotify.com/track/4RI9eX7jNcdaQOJifn7t6z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 7:13 |
 | 4 | [Rich N\*\*\*\*z](https://open.spotify.com/track/2x8cJzo5oiUTS99Ytv7Ap4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner](https://open.spotify.com/album/01bX1QVMshWYjWeGvFCinV) | 4:36 |
 | 5 | [\(All Along The\) Watchtower \- Radio Edit](https://open.spotify.com/track/3q8gaiM1ZgCVPkSAj55AG4) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Watchtower](https://open.spotify.com/album/2rTYUGlZineEuDSzIh3vR0) | 3:39 |
 | 6 | [Champagne Problems](https://open.spotify.com/track/5tw9TI8BTO0VHNgZrmpdLD) | [Dante](https://open.spotify.com/artist/6pLczwiw7MRvvstnzGrp7A), [ADIAM](https://open.spotify.com/artist/5SVQms74Ebh4MKJ3IJtJ3N) | [Champagne Problems](https://open.spotify.com/album/3pz3i5N0NfypvjBCFZv7ER) | 3:37 |

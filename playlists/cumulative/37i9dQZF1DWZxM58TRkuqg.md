@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Batas Senja
 
-601 songs - 1 day 15 hr 11 min
+602 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2024-09-26 | 2024-11-15 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 | 2025-02-14 |
 | [Makin Aku Cinta](https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [GLENN](https://open.spotify.com/album/38JgbBDqJCfyUkuzBmzreB) | 4:28 | 2025-11-20 |  |
+| [Makna](https://open.spotify.com/track/2FPYnKqvSmYUBk1YE8q31E) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 3:44 | 2026-02-20 |  |
 | [Malam Mingguku](https://open.spotify.com/track/6eFkVyh3eh8rrn99PhdrXM) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Malam Mingguku](https://open.spotify.com/album/7gH0RtOJGhglEkxQWSRAZ4) | 3:19 | 2025-06-05 | 2025-10-03 |
 | [Malam Rawan](https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Malam Rawan](https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH) | 3:40 | 2025-06-20 |  |
 | [Malam\-malam](https://open.spotify.com/track/1N2wyU2ZAyGL0expxN7WuO) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Malam\-malam](https://open.spotify.com/album/3sZCsnRE7cxcT5eLgktca2) | 4:19 | 2025-12-04 | 2026-02-06 |

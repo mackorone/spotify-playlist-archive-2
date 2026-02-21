@@ -2,7 +2,7 @@
 
 ### [T1 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0BcvW2psHDx)
 
-> T1 ‘치어플리 챌린지’ 당첨 작품입니다\. ‘강효은’님 축하합니다!<br/><br/>T1 공식 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
+> T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
 200 songs - 9 hr 40 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. The Warning y Carin Leon en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Kross Vasquez y Vondr\u00e9 en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 195096,
       "name": "a d\u00f3nde voy???",
       "url": "https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS"
@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Cae La Lluvia",
+        "url": "https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3"
+      },
+      "artists": [
+        {
+          "name": "Luis D\u00edazz",
+          "url": "https://open.spotify.com/artist/1YrcerJAHip85arXssuLvm"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179829,
+      "name": "Cae La Lluvia",
+      "url": "https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/1ZH9F9DEd2QQlItkwwRsja"
       },
@@ -1692,7 +1714,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 128450,
       "name": "Cambia De Actitud",
       "url": "https://open.spotify.com/track/7sYlx0T6wjTq281Wq2rkU5"
@@ -2032,7 +2054,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 238830,
       "name": "Chubaca Tiene Un Secreto",
       "url": "https://open.spotify.com/track/3JuDbZIk7XPCo9hgXQCYbs"
@@ -3828,7 +3850,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 166477,
       "name": "D\u00e9jame Cantarte Amor",
       "url": "https://open.spotify.com/track/45KvxWGH1HtxurzwTb3MmJ"
@@ -4026,7 +4048,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 232183,
       "name": "El Cantar de los Anzuelos",
       "url": "https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE"
@@ -4586,6 +4608,28 @@
       "duration_ms": 225494,
       "name": "Enven\u00e9name",
       "url": "https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ"
+    },
+    {
+      "album": {
+        "name": "ERES INCREIBLE",
+        "url": "https://open.spotify.com/album/4FHLVoiKluh25qWHjEFMsf"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "ERES INCREIBLE",
+      "url": "https://open.spotify.com/track/1dH3R9AxxIk1AG9HS5sVDs"
     },
     {
       "album": {
@@ -7155,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Desconozco",
+        "url": "https://open.spotify.com/album/6FzzRBolxPwdHmsVFfrvZ1"
+      },
+      "artists": [
+        {
+          "name": "Migrant Motel",
+          "url": "https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206727,
+      "name": "Lo Que Desconozco",
+      "url": "https://open.spotify.com/track/7nc9ntLNjoGgiVjLC6jgpS"
+    },
+    {
+      "album": {
         "name": "Lo Que Siento por Ti",
         "url": "https://open.spotify.com/album/6UNzdNlomtHHP5zPjeRKnC"
       },
@@ -7300,6 +7362,28 @@
       "duration_ms": 218175,
       "name": "Los Imanes",
       "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
+    },
+    {
+      "album": {
+        "name": "Los Malaventurados No Lloran",
+        "url": "https://open.spotify.com/album/3mM4Rc25A4uJnEx0xOTTnL"
+      },
+      "artists": [
+        {
+          "name": "Kross Vazquez",
+          "url": "https://open.spotify.com/artist/2XsoadLmNstbslctx5O9b4"
+        },
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230758,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/6XvKFvFk8ZF1gvQw3hTzh0"
     },
     {
       "album": {
@@ -7502,7 +7586,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168810,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U"
@@ -13841,6 +13925,24 @@
     },
     {
       "album": {
+        "name": "veo, veo",
+        "url": "https://open.spotify.com/album/0rWjkiYxDJ7xtC6GDApJa0"
+      },
+      "artists": [
+        {
+          "name": "vestigio",
+          "url": "https://open.spotify.com/artist/3aYtF0V0wYXBwmZ6aY3YWf"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "veo, veo",
+      "url": "https://open.spotify.com/track/5Wz7GBWgsoOZ5zSuzlyyUn"
+    },
+    {
+      "album": {
         "name": "Verano Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
       },
@@ -14128,6 +14230,24 @@
       "duration_ms": 212000,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"
+    },
+    {
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/3e7oS9NTqrll9HPjLxlsXu"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205756,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/37vTJSP632xmRC7zPU0mRl"
     },
     {
       "album": {

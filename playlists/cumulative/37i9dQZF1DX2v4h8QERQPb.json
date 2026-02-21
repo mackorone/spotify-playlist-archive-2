@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bien Argento \ud83d\udcf8 Oney1",
+  "description": "Bien Argento \ud83d\udcf8 Cerounno",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 198260,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/3BPHTXnhA3J171UnkbgWrw"
@@ -3198,6 +3198,24 @@
       "duration_ms": 179032,
       "name": "ESTAMO EN ESA",
       "url": "https://open.spotify.com/track/0yxiCVYBW0eFxQGlOdAGuN"
+    },
+    {
+      "album": {
+        "name": "Estelar",
+        "url": "https://open.spotify.com/album/6eEgsYg1waSowUMQG0ABTv"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141287,
+      "name": "Estelar",
+      "url": "https://open.spotify.com/track/1Ccx2VM7NS3xcvNHURwu3s"
     },
     {
       "album": {
@@ -7028,7 +7046,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147644,
       "name": "R.A.P",
       "url": "https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe"
@@ -8002,6 +8020,28 @@
       "duration_ms": 186666,
       "name": "SIN PAPELES",
       "url": "https://open.spotify.com/track/3UeeOBf9eKfJsy6EDY0VU8"
+    },
+    {
+      "album": {
+        "name": "SIN PSV",
+        "url": "https://open.spotify.com/album/15fF8cZGTkHA1r7xkAMs5A"
+      },
+      "artists": [
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275294,
+      "name": "SIN PSV",
+      "url": "https://open.spotify.com/track/62Zj9Q2FUVLelEx7J0RnV6"
     },
     {
       "album": {

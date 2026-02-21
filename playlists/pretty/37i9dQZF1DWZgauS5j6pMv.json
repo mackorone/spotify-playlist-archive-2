@@ -1,13 +1,37 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 351429,
+  "num_followers": 351457,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB66gfZ4F/G9Td8k+kwqkCnQ9VNT",
+  "snapshot_id": "AAAAACw+zbaEQINb4X0GhAziUoYPa1Uc",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:32",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/1Kf9kAAluhR6x74DVIytsI"
+      },
+      "artists": [
+        {
+          "name": "Pockets",
+          "url": "https://open.spotify.com/artist/1puOMsBwXpCEU7lk1rjYK2"
+        },
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "duration_ms": 239855,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/5OgeCVeIpbhGGfRtkjaXxt"
+    },
     {
       "added_at": "2026-02-13 05:00:22",
       "album": {
@@ -1363,30 +1387,6 @@
       "duration_ms": 219513,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4RqGyEEl4UdiecuoPy8FGk"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Dance All Night",
-        "url": "https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "5amDiaries",
-          "url": "https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g"
-        },
-        {
-          "name": "J.Ar.J",
-          "url": "https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A"
-        }
-      ],
-      "duration_ms": 187258,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5"
     },
     {
       "added_at": "2023-07-07 04:01:00",

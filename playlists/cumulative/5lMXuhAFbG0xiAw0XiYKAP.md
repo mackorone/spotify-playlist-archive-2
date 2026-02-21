@@ -17,6 +17,6 @@
 | [Mockingbird](https://open.spotify.com/track/17baAghWcrewNOcc9dCewx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call \(Deluxe\)](https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA) | 4:11 | 2013-06-10 |  |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2013-06-10 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2013-06-10 |  |
-| [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 | 2013-06-10 |  |
+| [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 | 2013-06-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

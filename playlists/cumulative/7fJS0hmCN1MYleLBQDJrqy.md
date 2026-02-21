@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-128 songs - 5 hr 45 min
+129 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-07-18 |  |
 | [Eigen Bed](https://open.spotify.com/track/0eEhLzSPEazOgbfcsHUuOE) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Hidde](https://open.spotify.com/artist/1qpvnEPLT3fB3ijBTJFtyh) | [Eigen Bed](https://open.spotify.com/album/26a5lcwytTuppbXBkvzcpJ) | 2:18 | 2025-07-18 | 2026-02-11 |
 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 | 2026-02-10 |  |
-| [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2026-02-10 |  |
+| [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2026-02-10 | 2026-02-21 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2025-07-18 | 2025-11-01 |
 | [Ey Gap \(feat\. Big2, Willie Wartaal & Donnie\) \- DANIQ Remix](https://open.spotify.com/track/3B7jRvIxaFRygXFlNMlgpS) | [DANIQ](https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Ey Gap \(feat\. Big2, Willie Wartaal & Donnie\) \[DANIQ Remix\]](https://open.spotify.com/album/2KgWppoNGzr84Lorr57Cwp) | 2:47 | 2026-02-10 |  |
 | [FALL AGAIN](https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [FALL AGAIN](https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB) | 2:47 | 2025-10-31 | 2026-02-11 |
@@ -85,6 +85,7 @@
 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 | 2025-10-10 |  |
 | [Koning](https://open.spotify.com/track/5edpUbDaaTQdGt8uyWNLSP) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Koning](https://open.spotify.com/album/0xATFfVzfsP8sz3PoyJPgS) | 1:58 | 2025-07-18 |  |
 | [Kristallen](https://open.spotify.com/track/2GmQZqpwMkLEbIcLpwyQZw) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 3:06 | 2025-11-28 | 2026-02-11 |
+| [Laatste Keer](https://open.spotify.com/track/1FHt4YSHoOmjtQmdBdhbLx) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Laatste Keer](https://open.spotify.com/album/0fNE71IuBEkFed4U94UwGt) | 2:12 | 2026-02-20 |  |
 | [Last 2 Leave](https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Last 2 Leave](https://open.spotify.com/album/1nOD3LXVd8jdPN7qGsxEmU) | 2:05 | 2025-09-12 | 2026-02-11 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2026-02-10 |  |
 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2025-11-14 | 2026-02-11 |

@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 415706,
       "name": "Lady Moon",
       "url": "https://open.spotify.com/track/1VMBtwHltlJVdwcStLEMDM"
@@ -2798,6 +2798,24 @@
       "duration_ms": 269473,
       "name": "Leave",
       "url": "https://open.spotify.com/track/7i0Y4Lmp5Zrvu3QvKn3H9C"
+    },
+    {
+      "album": {
+        "name": "Left Aside",
+        "url": "https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ"
+      },
+      "artists": [
+        {
+          "name": "Lllyric?",
+          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143011,
+      "name": "Left Aside",
+      "url": "https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy"
     },
     {
       "album": {
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 109500,
       "name": "Luisa",
       "url": "https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK"
@@ -4012,6 +4030,28 @@
       "duration_ms": 154464,
       "name": "scrape my teeth",
       "url": "https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5"
+    },
+    {
+      "album": {
+        "name": "Ohm",
+        "url": "https://open.spotify.com/album/2QHDd0DUJBWc8zPKJ2xWWB"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228891,
+      "name": "Se Fue el Sol",
+      "url": "https://open.spotify.com/track/5imuzVaALa9imm5kLy9SbA"
     },
     {
       "album": {

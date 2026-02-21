@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Vera
 
-663 songs - 1 day 14 hr 2 min
+663 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-10-23 |
 | [İstanbul](https://open.spotify.com/track/5KcaqBNrwKBRtH4G9JfToR) | [Milat](https://open.spotify.com/artist/5BJ04QfXObFjFkvZCn6T9v), [Anıl Selvi](https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE) | [İstanbul](https://open.spotify.com/album/3xyiewC0JU1ItG483Fj9RF) | 4:04 | 2025-12-11 | 2026-01-24 |
 | [İstanbul](https://open.spotify.com/track/09fCxHuI0opy8KQBfX5Y5L) | [Nil Dönmez](https://open.spotify.com/artist/1VVCToquAQNb7cFzQiShUv) | [İstanbul](https://open.spotify.com/album/4YXKEyLKK9HqlJIfAVSiMs) | 3:45 | 2025-09-04 | 2025-09-20 |
+| [İstanbul \- Live](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [Akustikhane Live Sessions](https://open.spotify.com/album/6HxwRg3YarLiodU1RFJ94u) | 5:36 | 2026-02-19 |  |
 | [İstemeyerek](https://open.spotify.com/track/1kFjcKvK9dMRdk4PpAAUmR) | [Serdar Ateşer](https://open.spotify.com/artist/3n6Xy24xiyMnwRpFZYqAPD) | [Avdet Seyri](https://open.spotify.com/album/16LIGZdu9lyO6FeV3gM9HJ) | 4:38 | 2024-10-22 | 2024-11-08 |
 | [İsterdim](https://open.spotify.com/track/4PAevN9C1nzkWcmXLNWb37) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [İsterdim](https://open.spotify.com/album/3aS3RbXZLL1z31PbHWdAx4) | 4:07 | 2024-09-26 | 2024-11-12 |
 | [İSYAN](https://open.spotify.com/track/0YRkTjFtNYpvs1Fn6HIs6F) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [KAÇAK ELEKTRİK](https://open.spotify.com/album/2gsMKoRLXvzXjGzFj8nU9h) | 3:05 | 2025-10-23 | 2026-01-24 |
@@ -524,7 +525,6 @@
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
 | [Ters Çingene](https://open.spotify.com/track/3YWnLnHWY3ZJQXC2URCuix) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Ters Çingene](https://open.spotify.com/album/06MY2lC2YmcTGWGIs4FvOf) | 4:04 | 2025-11-13 | 2025-12-05 |
 | [Toz Duman \- Rock Version](https://open.spotify.com/track/3ci6hJvT0VlcKDvqgnvEqr) | [Anıl Bektaş](https://open.spotify.com/artist/1MhbXjORYpq5VYTmPRLKMs) | [Toz Duman \(Rock Version\)](https://open.spotify.com/album/28EfENFMKlh1DmKQ1JkyqR) | 4:22 | 2025-12-04 |  |
-| [Track 2](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 | 2025-11-15 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-13 | 2026-02-06 |
 | [Tövbeler Olsun](https://open.spotify.com/track/7MWjzXxPHI3Y4ExcxNbnpk) | [Murat Kekilli](https://open.spotify.com/artist/1av8oluskzg2mOBajdzRI9) | [Tövbeler Olsun](https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb) | 3:12 | 2025-10-16 | 2025-11-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Felipe Rodrigues, Marcus Salles
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,006 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,245 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Tudo que eu vivi](https://open.spotify.com/track/4x1l7WZX6yt1TH3FiQGy1t) | [Nícolas Henrique](https://open.spotify.com/artist/5xvISfiKpFFkYr6MUfEbnU) | [Tudo que eu vivi](https://open.spotify.com/album/0q2eTITsM38w8N7Knqtne6) | 4:30 |
 | 50 | [Jesus Tá Lá \- Cover](https://open.spotify.com/track/34gQNGwfIdnEpINfbW4Dap) | [PagoShip](https://open.spotify.com/artist/1ku6EBungm8yqLAM0BU9Cb), [Oceano Hit](https://open.spotify.com/artist/1CgDMc4rOm00J0zA6pLqsL) | [Jesus Tá Lá \(Cover\)](https://open.spotify.com/album/6355CRbRVeaqeEQmmd10Bl) | 3:09 |
 
-Snapshot ID: `AAAAAKKrqHkdola8iWYBtwyYnFyOhWcW`
+Snapshot ID: `AAAAAOM0b4eXbhYacN/OSPdHdj99gDi1`

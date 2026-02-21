@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Katteyes & SINAKA are bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,869 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,842 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 4 | [Ponte Perra](https://open.spotify.com/track/1DbT2COwAovcubwNvYIAg6) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [DJ Urba](https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z) | [Ponte Perra](https://open.spotify.com/album/7pgmxtpt0l7logu5f6d9Ee) | 2:54 |
 | 5 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
 | 6 | [Choque](https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Choque](https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr) | 3:19 |
-| 7 | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
+| 7 | [Dios los Bendiga](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
 | 8 | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA) | 3:01 |
 | 9 | [El Trote](https://open.spotify.com/track/4r0Z65yr2es49w85G2tB16) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 1:28 |
 | 10 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |

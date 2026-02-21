@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 142545,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/3uo60yCYpFb5Ydz5hlAiOp"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 123077,
       "name": "Besties",
       "url": "https://open.spotify.com/track/7pKsuvE9LbdgFO3qM9XuiC"
@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 129000,
       "name": "Dreamscale",
       "url": "https://open.spotify.com/track/6q5c22z2LYA0aFverWTcg0"
@@ -5366,6 +5366,24 @@
       "duration_ms": 130194,
       "name": "Floating Clouds",
       "url": "https://open.spotify.com/track/6dvM9hnnSGiKAwkLV5bz9K"
+    },
+    {
+      "album": {
+        "name": "Floating in the Clouds",
+        "url": "https://open.spotify.com/album/6rccZLdXlFDNofNE8ZUHrI"
+      },
+      "artists": [
+        {
+          "name": "Noah Everly",
+          "url": "https://open.spotify.com/artist/3L8jfj9E8QsnJloKEr1plT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84313,
+      "name": "Floating in the Clouds",
+      "url": "https://open.spotify.com/track/3LLZDH5l6pJiAeRW1OjDKz"
     },
     {
       "album": {
@@ -7400,7 +7418,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 133069,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/6n36fjtE5R8NOItQEASrIR"
@@ -14633,6 +14651,24 @@
     },
     {
       "album": {
+        "name": "School day",
+        "url": "https://open.spotify.com/album/4WS2v2fkIR0k7tnibTmqiB"
+      },
+      "artists": [
+        {
+          "name": "Tristan Bloom",
+          "url": "https://open.spotify.com/artist/4QmjTpvhNW0HtsPaDhJIKh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "School day",
+      "url": "https://open.spotify.com/track/0z3TWUxwaF8R1vFSmut8Vc"
+    },
+    {
+      "album": {
         "name": "Sea Lions",
         "url": "https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON"
       },
@@ -18244,7 +18280,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 93636,
       "name": "The Mighty Mist",
       "url": "https://open.spotify.com/track/5SEOO7xHMIJbYrVRxtpIM0"
@@ -18320,6 +18356,24 @@
       "duration_ms": 95384,
       "name": "The Muffin Man",
       "url": "https://open.spotify.com/track/6Ar27ZlkeQ23W7UJJO7Xw9"
+    },
+    {
+      "album": {
+        "name": "The Night Is Kind",
+        "url": "https://open.spotify.com/album/6j2KnMu0nTGSl6F1gHYetl"
+      },
+      "artists": [
+        {
+          "name": "Louis Luz",
+          "url": "https://open.spotify.com/artist/3AOK1HVumpSNo2VRydPgP9"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "The Night Is Kind",
+      "url": "https://open.spotify.com/track/4RKJ4d02dL5AynK1mkVu6U"
     },
     {
       "album": {
@@ -20357,6 +20411,24 @@
     },
     {
       "album": {
+        "name": "Velvet Pillow",
+        "url": "https://open.spotify.com/album/6UK7DK332dUXqLfMrgGti6"
+      },
+      "artists": [
+        {
+          "name": "Arden Snow",
+          "url": "https://open.spotify.com/artist/0wZdNfRgcWHzvE2D8oFNXH"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120353,
+      "name": "Velvet Pillow",
+      "url": "https://open.spotify.com/track/2fWCcShyZFnQ88DNBrKQEB"
+    },
+    {
+      "album": {
         "name": "Videvisan, sov du lilla videung",
         "url": "https://open.spotify.com/album/1RmdToFyMqDM9ygtVLu26n"
       },
@@ -20408,6 +20480,24 @@
       "duration_ms": 190042,
       "name": "Warm Milk",
       "url": "https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2"
+    },
+    {
+      "album": {
+        "name": "Warm Stillness",
+        "url": "https://open.spotify.com/album/6SzzfOhM34k4FdRtbyEwqe"
+      },
+      "artists": [
+        {
+          "name": "Alder Bloom",
+          "url": "https://open.spotify.com/artist/2KyIbCqRUveIhB1IYZsiMI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112446,
+      "name": "Warm Stillness",
+      "url": "https://open.spotify.com/track/47BHMNXsnlj7wfBncfSYCK"
     },
     {
       "album": {

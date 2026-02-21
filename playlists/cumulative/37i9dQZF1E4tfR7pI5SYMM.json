@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190545,
       "name": "'Til They Clean Me From the Side of the Road",
       "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -1660,6 +1660,24 @@
       "duration_ms": 387600,
       "name": "Dukkha (Good Old Wine)",
       "url": "https://open.spotify.com/track/0Pl1Celco5onaXWQ4SjioI"
+    },
+    {
+      "album": {
+        "name": "Dying Lights",
+        "url": "https://open.spotify.com/album/4hz0uwIal4y9dlIg6vMSEs"
+      },
+      "artists": [
+        {
+          "name": "The Distortionist",
+          "url": "https://open.spotify.com/artist/6q4GAyXDGty2BPLerd9o0i"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296470,
+      "name": "Dying Lights",
+      "url": "https://open.spotify.com/track/48GXQDTWzg7FQCwExG8nhH"
     },
     {
       "album": {
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 338079,
       "name": "Fire Dances",
       "url": "https://open.spotify.com/track/738UZ8hVEggxIVZ0UaNFqX"
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 244544,
       "name": "Gervi\u0173 gedulo giesm\u0117s",
       "url": "https://open.spotify.com/track/6uwjMIMIBwSqF07mhaYu3l"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -4116,7 +4134,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -4271,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "All These Monsters",
+        "url": "https://open.spotify.com/album/5KFiSSd3h3N3jW4P3eyXdh"
+      },
+      "artists": [
+        {
+          "name": "The Black Capes",
+          "url": "https://open.spotify.com/artist/180v9Qh92pqu4wXDcudKNx"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298068,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/7Fwwylr7ZnMXQnewxCod0S"
+    },
+    {
+      "album": {
         "name": "Ni tystnade n\u00e4r jag reste mig",
         "url": "https://open.spotify.com/album/73hEY2KF41EeG71g4lEwgm"
       },
@@ -4300,7 +4336,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -5286,7 +5322,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -5394,7 +5430,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 234260,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -6602,7 +6638,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -7114,7 +7150,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 420060,
       "name": "Vessel To Nowhere",
       "url": "https://open.spotify.com/track/0yWg1jXATCxyo76uyWDjrW"
@@ -7468,7 +7504,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
@@ -7558,7 +7594,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 193880,
       "name": "Yes Life",
       "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"

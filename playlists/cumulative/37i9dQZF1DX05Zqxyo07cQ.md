@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-964 songs - 1 day 22 hr 14 min
+966 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2023-03-23 | 2024-01-18 |
 | [Borium](https://open.spotify.com/track/0Vw8mKmVFvEwYgO7vYxKtG) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalloides](https://open.spotify.com/album/1BLv8sdw0H8bP8PNh1M49i) | 2:59 | 2025-02-14 | 2025-07-07 |
 | [Bountiful](https://open.spotify.com/track/5VzPfqAPty6kWuGywackk7) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Bountiful](https://open.spotify.com/album/3c2XFnhG8jgzSvUivAxY5h) | 2:29 | 2024-05-04 | 2024-07-16 |
-| [Branches of Air](https://open.spotify.com/track/5H2ObgLV0efeX7GPqVobHZ) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Branches of Air](https://open.spotify.com/album/5JW1SgUY9iz0S2EIDlC2kN) | 2:16 | 2025-09-23 |  |
+| [Branches of Air](https://open.spotify.com/track/5H2ObgLV0efeX7GPqVobHZ) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Branches of Air](https://open.spotify.com/album/5JW1SgUY9iz0S2EIDlC2kN) | 2:16 | 2025-09-23 | 2026-02-21 |
 | [Breakthrough](https://open.spotify.com/track/1JF7MGHMuarWty6Yjbyfhr) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Breakthrough](https://open.spotify.com/album/3s6qRbBjaaX7hUVJ0Wnpay) | 2:41 | 2024-05-04 | 2024-07-12 |
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2023-03-23 | 2023-07-29 |
 | [Breath Trough](https://open.spotify.com/track/3VvSsZ9Z8EYjqkgQAF2OAH) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Breath Trough](https://open.spotify.com/album/3ia8HkaYrjVPIhhuFW6akT) | 3:01 | 2025-10-08 | 2026-01-29 |
@@ -345,6 +345,7 @@
 | [Floating Above and Beyond](https://open.spotify.com/track/028js7t7KIEFlXvW4lmdhG) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Floating Above and Beyond](https://open.spotify.com/album/3dQYr3qyPPQCxM8dvCYDx6) | 3:36 | 2023-03-23 | 2024-05-05 |
 | [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 | 2025-05-20 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2023-03-23 | 2024-02-09 |
+| [Flood of Calm](https://open.spotify.com/track/1JKeT1X6VB3JHXevW3IQOj) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Flood of Calm](https://open.spotify.com/album/0G2IeZ3VJwLwSIpS7Q49CY) | 2:26 | 2026-01-27 |  |
 | [Flourishing](https://open.spotify.com/track/6wF6AIn5w8PX3YdQaQRJqh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Flourishing](https://open.spotify.com/album/6e8daMHEJ3IhTI51FDKOSg) | 3:21 | 2026-01-27 |  |
 | [For a moment](https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [For a moment](https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC) | 2:39 | 2024-07-09 | 2025-01-26 |
 | [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2023-03-23 | 2024-02-09 |
@@ -578,6 +579,7 @@
 | [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-25 | 2025-10-31 |
 | [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 | 2025-12-03 |
 | [New Centering](https://open.spotify.com/track/6Rl1hrBWmelAm4rRMVIHYG) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [New Centering](https://open.spotify.com/album/4T5dqPRP8Ke4o5aI3k04yv) | 3:13 | 2025-06-17 | 2025-06-26 |
+| [New Chapter](https://open.spotify.com/track/4soxNTzaJuHXM7UJvp6rxo) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [New Chapter](https://open.spotify.com/album/2DP1aluD4p2naDuUE659Rg) | 2:50 | 2026-01-27 |  |
 | [Night Air](https://open.spotify.com/track/3Lj2UdxfsJbQNl1f05f9fP) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Night Air](https://open.spotify.com/album/48kclPVfAq9YV9JJdVUDYu) | 2:59 | 2025-09-23 |  |
 | [Nightbound](https://open.spotify.com/track/1eyJETJbXOdk21bCuN3hlH) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Nightbound](https://open.spotify.com/album/1ScU3u4CEFByPcPa7Cb0CS) | 2:15 | 2024-03-20 | 2024-07-12 |
 | [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 | 2025-02-14 | 2025-10-20 |
@@ -846,7 +848,7 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-04 | 2025-02-05 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2023-03-23 | 2024-02-09 |
-| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 |  |
+| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 | 2026-02-21 |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-02-04 |  |
 | [Sunlit Understory](https://open.spotify.com/track/1jAbNYgBCIDlQlBaOPLVDf) | [Somnia Flow](https://open.spotify.com/artist/5r14VhQ7URvz9IclyYvrZl) | [Sunlit Understory](https://open.spotify.com/album/5HoY4nF6IewhgaNaBAWPXo) | 2:15 | 2026-01-27 |  |
 | [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 | 2025-07-29 |

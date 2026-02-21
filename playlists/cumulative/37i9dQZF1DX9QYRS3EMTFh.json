@@ -3491,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/4s6vd6pnbvnrqv8080N76U"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Disaster Music",
+          "url": "https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR"
+    },
+    {
+      "album": {
         "name": "Chupa Chups",
         "url": "https://open.spotify.com/album/4evQmLlRFvmjGbbLfrVnO4"
       },

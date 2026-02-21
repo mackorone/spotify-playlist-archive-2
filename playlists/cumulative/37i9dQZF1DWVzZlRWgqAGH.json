@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Jill Scott and music for your soul.",
+  "description": "WILLOW and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 242032,
       "name": "Amber",
       "url": "https://open.spotify.com/track/7sxBj2FG6PF5t3bEZNyoQI"
@@ -4156,6 +4156,24 @@
       "duration_ms": 123966,
       "name": "BLOOD",
       "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170517,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
     },
     {
       "album": {
@@ -8723,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
+    },
+    {
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -8786,6 +8822,28 @@
       "duration_ms": 150500,
       "name": "East Side",
       "url": "https://open.spotify.com/track/4ErK8fosX0VmvHPOviIH98"
+    },
+    {
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "album": {
@@ -10380,7 +10438,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190513,
       "name": "Find Your Love",
       "url": "https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD"
@@ -12815,6 +12873,28 @@
     },
     {
       "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/3yNhczLbYrRBPTdDCqn398"
+      },
+      "artists": [
+        {
+          "name": "The Kount",
+          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
+        },
+        {
+          "name": "Noam",
+          "url": "https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128534,
+      "name": "Great Expectations",
+      "url": "https://open.spotify.com/track/6pQJTKEbTazGQGGutE3GT6"
+    },
+    {
+      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
       },
@@ -13096,10 +13176,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 284672,
       "name": "grow grow grow",
       "url": "https://open.spotify.com/track/0dTb3EQIYiHFVQNDaKkgxF"
+    },
+    {
+      "album": {
+        "name": "GUCCI",
+        "url": "https://open.spotify.com/album/4AGjW8zmXrrCHVadyG9wZS"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163410,
+      "name": "GUCCI",
+      "url": "https://open.spotify.com/track/0rdxMCygB27tg8uCtSGFi1"
     },
     {
       "album": {
@@ -14766,7 +14864,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 227733,
       "name": "I Cannot Believe In Tomorrow",
       "url": "https://open.spotify.com/track/3V8Uo8FEWucjOaKoExg6R6"
@@ -15450,7 +15548,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197973,
       "name": "If Time Could Talk",
       "url": "https://open.spotify.com/track/0P2MOytHinqvtf91CqEjeZ"
@@ -16514,7 +16612,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 280421,
       "name": "Justify",
       "url": "https://open.spotify.com/track/7lvWVI3diu50eevJ4u8QNX"
@@ -16862,7 +16960,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147330,
       "name": "KOFFEE",
       "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
@@ -18503,6 +18601,32 @@
     },
     {
       "album": {
+        "name": "Love N Drugs",
+        "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249331,
+      "name": "Love N Drugs",
+      "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
+    },
+    {
+      "album": {
         "name": "Go! Common Classics",
         "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
@@ -19258,7 +19382,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
@@ -19422,6 +19546,24 @@
       "duration_ms": 186562,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1k6SUkKKBsBXX1HpyOy2IF"
+    },
+    {
+      "album": {
+        "name": "Maybe...",
+        "url": "https://open.spotify.com/album/6q6meFNQnJyNwiT5PQWZEu"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224273,
+      "name": "Maybe...",
+      "url": "https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ"
     },
     {
       "album": {
@@ -23465,6 +23607,24 @@
     },
     {
       "album": {
+        "name": "PEACES",
+        "url": "https://open.spotify.com/album/3Cuw5zyJLLwccv21SELj2o"
+      },
+      "artists": [
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142011,
+      "name": "PEACES",
+      "url": "https://open.spotify.com/track/0DcB1hWky142AZjHKIVmTO"
+    },
+    {
+      "album": {
         "name": "Peach Optimo",
         "url": "https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj"
       },
@@ -26657,6 +26817,28 @@
     },
     {
       "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "album": {
         "name": "She Loves Me",
         "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
@@ -27378,6 +27560,28 @@
       "duration_ms": 130119,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/2G4KvLGgx1zfjlU4jcfa8H"
+    },
+    {
+      "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/3OF0bgp9n5uCID9pM5Qmnd"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "C The Reason",
+          "url": "https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197475,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/0c3yJh9U1w6tSiel47cEQc"
     },
     {
       "album": {
@@ -33458,7 +33662,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 263737,
       "name": "What Are You Sayin'",
       "url": "https://open.spotify.com/track/2xgNO2prwTqGfryq6c5Aiy"
@@ -33542,7 +33746,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 164605,
       "name": "What It Gave Me",
       "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"

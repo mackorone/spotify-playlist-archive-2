@@ -1,13 +1,45 @@
 {
   "description": "I didn\u2019t do my makeup just to cry!\nchloe moriondo on the cover.",
-  "num_followers": 595917,
+  "num_followers": 595911,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaQhZRm0Jn/idZnoDjOyCHOg7aC",
+  "snapshot_id": "AAAAAAkqIEyde6yhUvYSouGQj1A5fnv4",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 171386,
+      "name": "Truth Of Pursuit",
+      "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
     {
       "added_at": "2026-02-13 05:27:29",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-01-23 05:59:46",
@@ -479,22 +527,6 @@
     {
       "added_at": "2025-10-25 14:36:55",
       "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 208438,
-      "name": "In Another Life",
-      "url": "https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts"
-    },
-    {
-      "added_at": "2025-10-25 14:36:55",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
       },
@@ -687,22 +719,6 @@
       "duration_ms": 207852,
       "name": "Don\u2019t Wanna Cry",
       "url": "https://open.spotify.com/track/4s1jXpACCXFDNYTKWKH3tq"
-    },
-    {
-      "added_at": "2025-10-25 14:36:55",
-      "album": {
-        "name": "Tough Luck",
-        "url": "https://open.spotify.com/album/4OYDfYtehc25QPb3ft8YoI"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Tough Luck",
-      "url": "https://open.spotify.com/track/6PLXJetycVoEZOr1f81XKI"
     },
     {
       "added_at": "2025-10-25 14:36:55",
@@ -1603,22 +1619,6 @@
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
-    },
-    {
-      "added_at": "2025-10-25 14:36:55",
-      "album": {
-        "name": "feel something",
-        "url": "https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 180161,
-      "name": "feel something",
-      "url": "https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC"
     },
     {
       "added_at": "2025-10-25 14:36:55",

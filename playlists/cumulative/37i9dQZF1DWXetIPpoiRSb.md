@@ -4,7 +4,7 @@
 
 > now and next level pop 🧪 cover: horsegiirL
 
-2,136 songs - 4 day 10 hr 53 min
+2,136 songs - 4 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,6 +1141,7 @@
 | [Live to Survive](https://open.spotify.com/track/3DnUQXJqtTsS17KLeZQSh9) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Live to Survive](https://open.spotify.com/album/4Bw8gXuaXOEFf5XEMMyIXl) | 3:04 | 2021-05-28 | 2021-07-31 |
 | [Live Without It](https://open.spotify.com/track/7d41MrY3HNLfD7EM0wzGDb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:16 | 2022-04-08 | 2022-07-30 |
 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-08-12 | 2022-10-29 |
+| [LLORONiTA](https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [LLORONiTA](https://open.spotify.com/album/7zbvllEi5vpQVIhlt9jJAu) | 4:00 | 2026-02-20 |  |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-27 | 2023-05-13 |
 | [Lock It](https://open.spotify.com/track/2T09uhdl7hZohdD6YXjSHK) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Lock It](https://open.spotify.com/album/0OsDXhcfv7epx8kaREv4xy) | 3:32 | 2025-08-28 | 2025-11-15 |
 | [Lockdown](https://open.spotify.com/track/197Jh1YGNedmMXKCU784ku) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Lockdown](https://open.spotify.com/album/63gDamnABvNNMHhvqPBKex) | 2:44 | 2021-09-04 | 2021-11-13 |
@@ -1516,7 +1517,7 @@
 | [Priorities](https://open.spotify.com/track/52bypla5rY64eIO39OUdRc) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Priorities](https://open.spotify.com/album/3Ndk0cadV8E9opHrlTFmXC) | 2:56 | 2021-07-31 | 2021-10-16 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-15 | 2025-07-12 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-16 | 2023-08-19 |
-| [Prototype](https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [](https://open.spotify.com/album/null) | 2:26 | 2026-02-20 |  |
+| [Prototype](https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 2:26 | 2026-02-20 |  |
 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-07-28 | 2023-10-14 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-10 | 2025-02-21 |
 | [Psycho \(feat\. Rubi Rose\)](https://open.spotify.com/track/3Q872ol7VFg088SkbxSuqO) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Psycho \(feat\. Rubi Rose\)](https://open.spotify.com/album/2P4Rixsgbbij70Oyfwi6XS) | 2:30 | 2021-07-24 | 2021-09-10 |
@@ -1955,7 +1956,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 1](https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-20 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

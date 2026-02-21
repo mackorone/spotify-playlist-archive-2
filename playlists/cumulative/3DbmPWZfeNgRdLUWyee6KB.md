@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-661 songs - 1 day 14 hr 57 min
+662 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Heart's Goin' \(Fa La\)](https://open.spotify.com/track/7KlLfTw6etwXKyJ3hMRADF) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Attached](https://open.spotify.com/album/3Mjld0y5ko1Lxe8axCJTrv) | 3:35 | 2025-09-29 | 2025-11-29 |
 | [Heartbreak](https://open.spotify.com/track/4Kfz8tiFJqYn8lVRYwsdSC) | [Amovura](https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq) | [Heartbreak](https://open.spotify.com/album/3ogH4sbNLfvoo5B83dywvS) | 2:49 | 2025-11-17 | 2025-12-21 |
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2025-12-22 | 2026-01-24 |
+| [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 | 2026-02-20 |  |
 | [Hi\-ya\-no](https://open.spotify.com/track/7oGZiK7KTyUjVu5NxHUoQW) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR) | [Hi\-ya\-no](https://open.spotify.com/album/4lvmA2qn4KzZIomq7u0Rd7) | 6:00 | 2025-12-16 | 2026-01-15 |
 | [Hiera](https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Hiera](https://open.spotify.com/album/66cw3IsY8YP2SRqAlDtN5R) | 3:04 | 2025-10-02 |  |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-12-13 | 2026-01-15 |

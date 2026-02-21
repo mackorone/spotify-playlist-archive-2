@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ismULUbSO3WkcbV1D7jn8.md) - [plain]
 
 > De beste meezingers van vroeger en nu\. Iedereen kent de tekst en kan deze hits meezingen! Met nu de grootste oude meezingers en sing\-a\-long hits van o.a\. Beyoncé, Rihanna, Dua Lipa, David Guetta en nog veel meer!
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 83,278 likes - 120 songs - 7 hr 29 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 83,273 likes - 120 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/3ismULUbSO3WkcbV1D7jn8.md) - [plain]
 | 72 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 73 | [Sweet but Psycho](https://open.spotify.com/track/25sgk305KZfyuqVBQIahim) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho](https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA) | 3:07 |
 | 74 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
-| 75 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
+| 75 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
 | 76 | [Want to Want Me](https://open.spotify.com/track/0HFx7PLqzGxSfN59j3UHmR) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Want to Want Me](https://open.spotify.com/album/1SFUdxOO5cvoDlKFqplE3U) | 3:27 |
 | 77 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/7rMTLPej6tXQ6TQdLVSzTD) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/6f06neONZ0xqqftlgtVP74) | 3:16 |
 | 78 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/3AYcyxEACnmE6d96RPubID) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist \(Deluxe Edition\)](https://open.spotify.com/album/0CoiTAUBiO70lic9p9Lboq) | 3:55 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/3ismULUbSO3WkcbV1D7jn8.md) - [plain]
 | 119 | [Don't Be So Shy \- Filatov & Karas Remix](https://open.spotify.com/track/6iQdOR7NpulkD1hXkPHWvs) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [Don't Be So Shy \(Filatov & Karas Remix\)](https://open.spotify.com/album/1dv9BfIRKfJXt4IjtLluW9) | 3:10 |
 | 120 | [Hold My Hand](https://open.spotify.com/track/58jx3tTuDuzHysC77c0AQd) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 3:47 |
 
-Snapshot ID: `AAAVgPAXgEu17uyW7V/JZ2tDt36xRcsG`
+Snapshot ID: `AAAVgnuIXSKeGywyc/5oMv656N15J/5B`

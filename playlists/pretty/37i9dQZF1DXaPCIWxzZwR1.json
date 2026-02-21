@@ -1,12 +1,12 @@
 {
   "description": "next gen pop\nCover: Mercer Henderson",
-  "num_followers": 1263862,
+  "num_followers": 1263804,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwBJcrjfY9K+D4oSTuBJjuGwkWv",
+  "snapshot_id": "AAAAAFXE05RXdyePzHxA6Guej7pLZURx",
   "tracks": [
     {
       "added_at": "2026-02-13 05:25:30",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
     },
     {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 195092,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/1pBero70FE3zpcvs2zYp3e"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "Cherry Red Balloon",
+        "url": "https://open.spotify.com/album/2gEE29RM7xDqWrhFcEio9P"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 157567,
+      "name": "Cherry Red Balloon",
+      "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
+    },
+    {
       "added_at": "2026-02-13 05:25:30",
       "album": {
         "name": "Not Even Gone",
@@ -55,6 +87,22 @@
       "duration_ms": 226284,
       "name": "Not Even Gone",
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "Confessions: An Unexpected Turn of Events",
+        "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 173485,
+      "name": "Ends In Y",
+      "url": "https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS"
     },
     {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "Casual Lady",
+        "url": "https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 194429,
+      "name": "Casual Lady",
+      "url": "https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs"
+    },
+    {
       "added_at": "2026-02-13 05:25:30",
       "album": {
         "name": "My Regards",
@@ -89,20 +153,36 @@
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
-      "added_at": "2026-02-13 05:25:30",
+      "added_at": "2026-02-20 05:01:42",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/5eK4HC5peQFUjsSSp7YDYl"
+        "name": "Blame it on You",
+        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
         }
       ],
-      "duration_ms": 145872,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/6HCdmHf9DdL5RnxvsQB2ym"
+      "duration_ms": 185318,
+      "name": "Blame it on You",
+      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "YDH",
+        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -121,20 +201,36 @@
       "url": "https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o"
     },
     {
-      "added_at": "2026-02-13 05:25:30",
+      "added_at": "2026-02-20 05:01:42",
       "album": {
-        "name": "So Sad So Hot",
-        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
+        "name": "No More Heart To Break",
+        "url": "https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
         }
       ],
-      "duration_ms": 171014,
-      "name": "So Sad So Hot",
-      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+      "duration_ms": 217917,
+      "name": "No More Heart To Break",
+      "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "prettyboy",
+        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 152125,
+      "name": "prettyboy",
+      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -233,6 +329,22 @@
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
       "added_at": "2026-02-13 05:25:30",
       "album": {
         "name": "silent treatment",
@@ -265,6 +377,22 @@
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "START OVER",
+        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 170381,
+      "name": "START OVER",
+      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
+    },
+    {
       "added_at": "2026-02-13 05:25:30",
       "album": {
         "name": "other side",
@@ -281,6 +409,22 @@
       "url": "https://open.spotify.com/track/1X77svze8Ec0WfRsmddT51"
     },
     {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "First Generation Degenerate",
+        "url": "https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2"
+      },
+      "artists": [
+        {
+          "name": "Earth to Eve",
+          "url": "https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea"
+        }
+      ],
+      "duration_ms": 216900,
+      "name": "First Generation Degenerate",
+      "url": "https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog"
+    },
+    {
       "added_at": "2026-02-13 05:25:30",
       "album": {
         "name": "someone new",
@@ -295,6 +439,38 @@
       "duration_ms": 154105,
       "name": "someone new",
       "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "The Secrets to Altering Reality",
+        "url": "https://open.spotify.com/album/3PFaFQFU6zGhplEMD0iJTK"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Fawnheart",
+      "url": "https://open.spotify.com/track/7bRwZhLnHe4i7X5MlIyBfV"
+    },
+    {
+      "added_at": "2026-02-13 05:25:30",
+      "album": {
+        "name": "So Sad So Hot",
+        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 171014,
+      "name": "So Sad So Hot",
+      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -407,6 +583,22 @@
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "My Ego Told Me To",
+        "url": "https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 204001,
+      "name": "Goodbye Goodmorning",
+      "url": "https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -567,6 +759,22 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-02-20 05:01:42",
+      "album": {
+        "name": "What Would I Look Like Without A Brave Face? (Deluxe)",
+        "url": "https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nealon",
+          "url": "https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Hospital Blue",
+      "url": "https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs"
     },
     {
       "added_at": "2026-02-13 05:25:30",
@@ -1407,214 +1615,6 @@
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "U-Turn",
-        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 206628,
-      "name": "U-Turn",
-      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "IT'S HARD (to be a Man)",
-        "url": "https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 180267,
-      "name": "IT'S HARD (to be a Man)",
-      "url": "https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Perrie",
-        "url": "https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 207275,
-      "name": "Rocket Scientist",
-      "url": "https://open.spotify.com/track/2F7vIBvNBXQnQpE9HNQQL6"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Running Home",
-      "url": "https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "The Provocateur",
-        "url": "https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "SexOnTheBeat",
-      "url": "https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "COMING OF AGE",
-        "url": "https://open.spotify.com/album/62GUpcHIWzze0HUJI5iFs4"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 197617,
-      "name": "WRITTEN BY A WOMAN",
-      "url": "https://open.spotify.com/track/0LzJZffGxrFuKpQjS1Id4S"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Women Theory",
-        "url": "https://open.spotify.com/album/6gitkSTyoLIwdpDbirpB0S"
-      },
-      "artists": [
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Women Theory",
-      "url": "https://open.spotify.com/track/4nwVWUZZlR93FBniXaKlu6"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "coming around",
-        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
-      },
-      "artists": [
-        {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "coming around",
-      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Hold On You",
-        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
-      },
-      "artists": [
-        {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Hold On You",
-      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "Change of Plans",
-        "url": "https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 160947,
-      "name": "Swiss Army Knife",
-      "url": "https://open.spotify.com/track/44DV4JLsOuXvFRhERDCHSJ"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "BUZZKILL",
-        "url": "https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "buzzkill",
-      "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
-    },
-    {
-      "added_at": "2026-02-13 05:25:30",
-      "album": {
-        "name": "U WON'T!",
-        "url": "https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 121795,
-      "name": "U WON'T!",
-      "url": "https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl"
     }
   ],
   "unique_name": "Pop Sauce",

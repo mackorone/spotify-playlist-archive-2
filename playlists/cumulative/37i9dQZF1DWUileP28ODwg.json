@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190506,
       "name": "Hold Your Horses",
       "url": "https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V"
@@ -11659,6 +11659,24 @@
     },
     {
       "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
+    },
+    {
+      "album": {
         "name": "What An Awesome God",
         "url": "https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc"
       },
@@ -12018,6 +12036,24 @@
     {
       "album": {
         "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/7cbj9Vgx8sgEczqzF9Z1Eg"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192745,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/5e0qKbeQs7tww07my2CT6o"
+    },
+    {
+      "album": {
+        "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
       },
       "artists": [
@@ -12050,7 +12086,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 225140,
       "name": "Where Would I Be - Live",
       "url": "https://open.spotify.com/track/6Rmgg4Wu66Sjt0VpscGM52"

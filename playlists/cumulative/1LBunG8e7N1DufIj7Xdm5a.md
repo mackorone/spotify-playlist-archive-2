@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,089 songs - 9 day 1 hr 21 min
+4,093 songs - 9 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2102,6 +2102,8 @@
 | [Lost in the Beat](https://open.spotify.com/track/2wymtJo9VYxL40gvszcqZc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 2:45 | 2025-05-27 |  |
 | [Lost in the Beat \(another\)](https://open.spotify.com/track/2eQu4PYO6nG1Jk1zgADiFT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:00 | 2025-09-18 |  |
 | [Lost In Thinking](https://open.spotify.com/track/4naEuDomT3yUnz4MXMLu9a) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [No Time To Be Sad](https://open.spotify.com/album/0jCv1PmqT8yUk8g60ezvm3) | 3:49 | 2025-06-05 |  |
+| [Lost in Time](https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time](https://open.spotify.com/album/3hzgNZ6zaLgx7YTL6Pxzjv) | 3:52 | 2026-02-20 |  |
+| [Lost in Time \(chill mix\)](https://open.spotify.com/track/7tBGS2XjzE4cOxJCxkCwvD) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Lost in Time \(chill mix\)](https://open.spotify.com/album/4qTsPXuKGezL0Jlk9nqssJ) | 4:10 | 2026-02-20 |  |
 | [Lost in Wonderland](https://open.spotify.com/track/3batbGcDKx0Tai9G8vSSmy) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:42 | 2025-05-27 |  |
 | [Lost in Wonderland \(another\)](https://open.spotify.com/track/14NpDtKkGpWFPLUtYWNPkN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:04 | 2025-09-18 |  |
 | [Lost Without Your Touch](https://open.spotify.com/track/4waNswoAZr6IZt2zR7jVWr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:28 | 2025-09-19 |  |
@@ -2967,6 +2969,7 @@
 | [Sarewa](https://open.spotify.com/track/0rnpNiomBXVh7vhaH5jWM6) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ), [Mr veer](https://open.spotify.com/artist/2eP4rizShoA5jnUtrB1Lmn) | [Sarewa](https://open.spotify.com/album/4jP8bHnJUv0tLizM3OVYVw) | 3:06 | 2025-06-04 |  |
 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 | 2025-07-28 |  |
 | [Satellite Gazing](https://open.spotify.com/track/4XcyVyLm2TsYuvUoa7lBEP) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [The Creation of Birds](https://open.spotify.com/album/7HfTwE4MRUwwzFpkwxbl6Z) | 3:50 | 2025-11-05 |  |
+| [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 | 2026-02-20 |  |
 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 | 2025-05-29 |  |
 | [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 | 2025-06-13 |  |
 | [SAY SOMETHIN'](https://open.spotify.com/track/04U6CZTpcrhIHxyrNIWmrZ) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [WISH U WERE HERE](https://open.spotify.com/album/5VykTQitQAIZg9gUFZPIRg) | 3:13 | 2025-06-23 |  |
@@ -4014,6 +4017,7 @@
 | [World Shut Your Mouth](https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa) | [Julian Cope](https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv) | [Saint Julian \(Expanded Edition\)](https://open.spotify.com/album/0cWXdCck9lEusGVYb5wpfa) | 3:35 | 2025-11-05 |  |
 | [Wormhole](https://open.spotify.com/track/4NBBjHgjzzlRQsYRHd6Lrd) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Againstide](https://open.spotify.com/album/1VUgfF5WaAd6MbKYC0Yerp) | 4:48 | 2025-07-03 |  |
 | [Worth the Silence](https://open.spotify.com/track/0voIA6g9vfC7URJnjSXOpi) | [Sadja](https://open.spotify.com/artist/3raZKrJIHOZXG0U0iYlDXq) | [Worth the Silence](https://open.spotify.com/album/5G79tZEzc5h10DTubDOhpv) | 2:56 | 2026-02-07 |  |
+| [Wounded](https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Wounded](https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv) | 2:16 | 2026-02-20 |  |
 | [Wrath of the Steel](https://open.spotify.com/track/6tHz63onbanTeazLYBzk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:34 | 2025-09-17 |  |
 | [Wrath of the Void](https://open.spotify.com/track/5WO8sLwPuYJ5Qx0pOzZiZ4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:28 | 2025-09-17 |  |
 | [XanMan](https://open.spotify.com/track/2JAa6n5fsEVSQub0mYmUZy) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [XanMan](https://open.spotify.com/album/6qzidS9awVafvZeKvE8TOl) | 1:39 | 2025-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1425984,
+  "num_followers": 1426108,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAASQwCjSVWC9fLa2/E83hs0",
+  "snapshot_id": "aZZSgAAAAACvPmzx0m5S0O1fmsSeLRam",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarit\u00e4ten (1994 - 2012)",
-        "url": "https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 224706,
-      "name": "Halleluja",
-      "url": "https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ"
+      "duration_ms": 269045,
+      "name": "Was ich liebe",
+      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Rarit\u00e4ten (1994 - 2012)",
+        "url": "https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 269045,
-      "name": "Was ich liebe",
-      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
+      "duration_ms": 224706,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ"
     },
     {
       "added_at": null,

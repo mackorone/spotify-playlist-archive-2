@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38015,
+  "num_followers": 38017,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAABadUVsMdI6ETJL/lRE3+ZP",
+  "snapshot_id": "aZZSgAAAAAC/r/WXO9P29d2JtveqtCg8",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "1,2,3 dayz up",
-        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 213678,
-      "name": "1,2,3 dayz up",
-      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
+      "duration_ms": 281636,
+      "name": "Eeehhh",
+      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "1,2,3 dayz up",
+        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
       "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 281636,
-      "name": "Eeehhh",
-      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
+      "duration_ms": 213678,
+      "name": "1,2,3 dayz up",
+      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
     },
     {
       "added_at": null,

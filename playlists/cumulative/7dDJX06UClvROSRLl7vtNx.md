@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,187 songs - 2 day 3 hr 20 min
+1,189 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Close To You](https://open.spotify.com/track/4PkLwEkDcE4DDDWL9IjEE9) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [DAYIZ](https://open.spotify.com/artist/0nR8gvmZpo8R7EXLGU4J3Z), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Close To You](https://open.spotify.com/album/73MsOmOdajALrCz3j0Mnm1) | 3:09 | 2025-08-10 | 2025-09-29 |
 | [Close To You](https://open.spotify.com/track/0ONuv4rQSS2Td8tZh9gSfF) | [Tripton](https://open.spotify.com/artist/3vIZaGKxTpq9QyknvvpIH1), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Close To You](https://open.spotify.com/album/3gXHjpxAOIY7S3BczNKDeq) | 2:55 | 2024-06-02 | 2026-02-16 |
 | [Closer](https://open.spotify.com/track/3rBD8phZjb14NPblq35s77) | [Seazons](https://open.spotify.com/artist/0yO8jzH8NUwFbJqKfvrRnf), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Closer](https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj) | 2:26 | 2023-12-10 | 2023-12-31 |
+| [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 | 2026-02-20 |  |
 | [Clouds Over Twin Lakes](https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Clouds Over Twin Lakes](https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW) | 2:25 | 2025-02-20 | 2025-03-23 |
 | [Coastline](https://open.spotify.com/track/4Osd2TTF3qHsdPi0mMk6TN) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Coastline](https://open.spotify.com/album/3a2eWnc5vJWVJtZSfOgWTv) | 3:07 | 2025-07-24 | 2025-10-20 |
 | [Coastline](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Coastline](https://open.spotify.com/album/30dwOHMsQ1Lw2CHHiQufEj) | 2:06 | 2025-11-30 |  |
@@ -1116,6 +1117,7 @@
 | [Warmth of Summer](https://open.spotify.com/track/0SUyTMRm2e31TIbid9hucc) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Warmth of Summer](https://open.spotify.com/album/4mgnbCRISUTWCYJfZXdFQN) | 2:45 | 2024-07-21 | 2024-08-08 |
 | [Was It A Dream](https://open.spotify.com/track/0dSAUKyLQN2MjZMSYkIjoR) | [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo), [Manunt](https://open.spotify.com/artist/52x5hsgXNzjmWUV1SkdkII), [sunsett.](https://open.spotify.com/artist/5YoAuObMlm022Z0tDOYXsB) | [Was It A Dream](https://open.spotify.com/album/3ztsRrUeM8gm5KDDDuTM2a) | 2:40 | 2025-08-17 |  |
 | [Wasting Colors](https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx) | [Wasting Colors](https://open.spotify.com/album/5vnuf5b8bOcbO3f4nDd5dH) | 2:43 | 2026-01-09 |  |
+| [Waterfalls](https://open.spotify.com/track/1SBzR8E9SRvUZH3WHT73B5) | [Dalvay](https://open.spotify.com/artist/5Gf6NzwAaQZ9iaQHqheOct), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Waterfalls](https://open.spotify.com/album/6qxE6LmRLuEiC9HmVMcZFj) | 2:32 | 2026-02-20 |  |
 | [Waterproof](https://open.spotify.com/track/0eGmFfFUz8HRPTohDtlWVc) | [Mike Key](https://open.spotify.com/artist/4XkrjaEBlplom5eENt6nSP), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Waterproof](https://open.spotify.com/album/5Mxuzdwplzi5P0S62gQ75g) | 2:59 | 2025-08-03 | 2025-08-26 |
 | [Waves](https://open.spotify.com/track/4mjNM3kR6OXuWC6l6UYrLA) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk), [masafi](https://open.spotify.com/artist/3vCicyLsjEgDLqhScIpRHe) | [Waves](https://open.spotify.com/album/16nVomqI0rXk8RnrFc7WM1) | 2:24 | 2024-10-10 | 2025-01-26 |
 | [Waves Of Love](https://open.spotify.com/track/2SmmeqdB7uwfimshgLYKqC) | [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [Waves Of Love](https://open.spotify.com/album/6mef2j88XNSjsBLYr3zt5y) | 2:09 | 2024-10-10 | 2025-04-07 |

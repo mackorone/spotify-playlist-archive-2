@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform\">talk to us about music! </a>   Cover: MUNA ",
+  "description": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform\">talk to us about music :) </a>   Cover: Lana Del Rey",
   "name": "Lorem",
   "tracks": [
     {
@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 232000,
       "name": "38 inch loveseat",
       "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 213169,
       "name": "Across My Jaw",
       "url": "https://open.spotify.com/track/4Qhyimumx4f4ZUyjITXfGG"
@@ -18528,7 +18528,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 162321,
       "name": "Enjoy Yourself - very cool tutorials Remix",
       "url": "https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6"
@@ -27638,7 +27638,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
@@ -37905,6 +37905,24 @@
     },
     {
       "album": {
+        "name": "Manmade Manmaid",
+        "url": "https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "Manmade Manmaid",
+      "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
+    },
+    {
+      "album": {
         "name": "Manta Rays",
         "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
       },
@@ -46768,7 +46786,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 243014,
       "name": "Pool - Stripped",
       "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
@@ -46898,7 +46916,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 283137,
       "name": "Portion Control",
       "url": "https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa"
@@ -48234,7 +48252,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 210386,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg"
@@ -48946,6 +48964,24 @@
       "duration_ms": 176011,
       "name": "roadkill",
       "url": "https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi"
+    },
+    {
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "album": {
@@ -51566,6 +51602,24 @@
       "duration_ms": 182166,
       "name": "shadow",
       "url": "https://open.spotify.com/track/6BWWtayzzwqgdNgvyPuaWi"
+    },
+    {
+      "album": {
+        "name": "Shadow Of A Bird",
+        "url": "https://open.spotify.com/album/2q7MrQ1wRDkJCpzhPdkgwi"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207845,
+      "name": "Shadow Of A Bird",
+      "url": "https://open.spotify.com/track/5khNrNDRBfOpMZccGImGVZ"
     },
     {
       "album": {
@@ -64278,6 +64332,24 @@
       "duration_ms": 226050,
       "name": "Walk Home",
       "url": "https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA"
+    },
+    {
+      "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "album": {

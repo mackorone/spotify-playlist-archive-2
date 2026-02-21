@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,780 likes - 117 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,799 likes - 117 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 17 | [Dooset Daram](https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Dooset Daram](https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n) | 2:57 |
 | 18 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
 | 19 | [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 |
-| 20 | [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [](https://open.spotify.com/album/null) | 3:11 |
+| 20 | [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:11 |
 | 21 | [Ain't Today](https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Ain't Today](https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq) | 2:40 |
 | 22 | [Lucky Day](https://open.spotify.com/track/4XAOqOH1fmm8COSqWqzhYH) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Lucky Day](https://open.spotify.com/album/1vK8WFZRsDlyx2ZWJo4sV6) | 3:13 |
 | 23 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 |

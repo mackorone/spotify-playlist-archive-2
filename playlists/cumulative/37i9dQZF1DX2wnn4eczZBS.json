@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 187704,
       "name": "Bidden In De Moshpit",
       "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
@@ -1898,6 +1898,24 @@
       "duration_ms": 139889,
       "name": "i miss u [brood]",
       "url": "https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj"
+    },
+    {
+      "album": {
+        "name": "Iedereen Gaat Vreemd",
+        "url": "https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143168,
+      "name": "Iedereen Gaat Vreemd",
+      "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
     },
     {
       "album": {

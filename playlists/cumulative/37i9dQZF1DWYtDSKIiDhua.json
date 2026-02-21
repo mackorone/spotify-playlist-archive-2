@@ -1137,8 +1137,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
       },
       "artists": [
         {
@@ -21520,6 +21520,24 @@
       "duration_ms": 157241,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2OOMy8bcLiVOquyAM8ONeb"
+    },
+    {
+      "album": {
+        "name": "ROSE PERFUME",
+        "url": "https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh"
+      },
+      "artists": [
+        {
+          "name": "blam",
+          "url": "https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ROSE PERFUME",
+      "url": "https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh"
     },
     {
       "album": {

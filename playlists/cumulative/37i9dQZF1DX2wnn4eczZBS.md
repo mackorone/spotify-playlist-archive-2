@@ -4,7 +4,7 @@
 
 > IJSLAND \(Abel, Sef & FAISAL\) op de cover
 
-295 songs - 15 hr 21 min
+296 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 | 2026-02-04 |  |
 | [Bevrijd Me](https://open.spotify.com/track/0gahCzF8XX2DqQKJzQQWgR) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Alleen Bij Mij](https://open.spotify.com/album/169JAJ4TYcBRDSw86oGa2B) | 3:44 | 2024-06-26 | 2024-10-23 |
 | [Bezonnen](https://open.spotify.com/track/5a7eT9uULHMFw5s3vL3CKr) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Schip](https://open.spotify.com/album/1yA4hHmu2QkN4lubAvkdAY) | 2:48 | 2025-04-17 | 2025-05-27 |
-| [Bidden In De Moshpit](https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Bidden In De Moshpit](https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx) | 3:07 | 2025-06-20 |  |
+| [Bidden In De Moshpit](https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Bidden In De Moshpit](https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx) | 3:07 | 2025-06-20 | 2026-02-21 |
 | [Blijf](https://open.spotify.com/track/4ap3sNRDT70SYLiyaQUhoY) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Blijf](https://open.spotify.com/album/0IHyCLajI8fimyu9fouxos) | 3:46 | 2024-11-14 | 2025-01-11 |
 | [Blijf Maar Zitten](https://open.spotify.com/track/2Im5y148VhyId6QP2Theig) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Blijf Maar Zitten](https://open.spotify.com/album/0XqFNh4lPuxE0caEm6B5Yi) | 3:00 | 2024-11-14 | 2025-03-14 |
 | [Blijven](https://open.spotify.com/track/3iKkOyOmhhavRA3v4Rzy7O) | [monokimono](https://open.spotify.com/artist/4DXrrpP0iZv5KlcnZvYawZ) | [Blijven](https://open.spotify.com/album/6K1aa83670KggQuqWy1Mrn) | 2:33 | 2024-11-07 | 2025-03-10 |
@@ -110,6 +110,7 @@
 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-06-26 | 2025-11-08 |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 | 2025-03-13 | 2025-04-06 |
+| [Iedereen Gaat Vreemd](https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Iedereen Gaat Vreemd](https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx) | 2:23 | 2026-02-19 |  |
 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-04-03 | 2025-06-03 |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
 | [IJsberen](https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [IJsberen](https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5) | 3:02 | 2025-03-20 | 2025-04-18 |

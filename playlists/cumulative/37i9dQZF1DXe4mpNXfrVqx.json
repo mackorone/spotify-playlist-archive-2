@@ -841,6 +841,32 @@
     },
     {
       "album": {
+        "name": "Chama de amor",
+        "url": "https://open.spotify.com/album/62sT4NHJ53d9JVkCE5bbDt"
+      },
+      "artists": [
+        {
+          "name": "OGCapitu",
+          "url": "https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD"
+        },
+        {
+          "name": "MaBapp",
+          "url": "https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U"
+        },
+        {
+          "name": "Bertoi",
+          "url": "https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Chama de amor",
+      "url": "https://open.spotify.com/track/2qOzVhY0aa8mdAdGT42eX4"
+    },
+    {
+      "album": {
         "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
         "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
       },
@@ -1938,7 +1964,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 143801,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg"

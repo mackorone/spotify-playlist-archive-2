@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175253,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
+    },
+    {
+      "album": {
         "name": "Ehreteam",
         "url": "https://open.spotify.com/album/2jDRPzcGRsai4aB5f79md1"
       },
@@ -7022,7 +7040,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 181293,
       "name": "Somebody Loves You",
       "url": "https://open.spotify.com/track/6R6WMZllL7ZxfRjrK8v1sn"
@@ -7535,8 +7553,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav"
       },
       "artists": [
         {
@@ -7954,24 +7972,6 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
       "album": {
@@ -8628,6 +8628,24 @@
       "duration_ms": 128901,
       "name": "What Went Wrong",
       "url": "https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK"
+    },
+    {
+      "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "What\u2019s a Girl Gotta Do?",
+      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
       "album": {

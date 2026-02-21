@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-123 songs - 7 hr 35 min
+124 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 | 2021-02-17 |  |
 | [Hard Case](https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:22 | 2021-02-17 |  |
 | [He Made A Woman Out Of Me](https://open.spotify.com/track/2gMxsK1P5PF65J6q4rsCYl) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Fancy](https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6) | 2:37 | 2021-02-17 |  |
-| [Hell Yes I Cheated](https://open.spotify.com/track/79imbJqh9XMsomd3RIXAaB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Introduction To Johnny Adams](https://open.spotify.com/album/6jQ5ziyzITOgNHaZkiyPvR) | 3:35 | 2021-02-17 |  |
+| [Hell Yes I Cheated](https://open.spotify.com/track/79imbJqh9XMsomd3RIXAaB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Introduction To Johnny Adams](https://open.spotify.com/album/6jQ5ziyzITOgNHaZkiyPvR) | 3:35 | 2021-02-17 | 2026-02-21 |
 | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A) | 3:52 | 2026-02-13 |  |
 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 | 2021-02-17 |  |
 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 | 2026-02-13 |  |
@@ -62,6 +62,7 @@
 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 | 2021-02-17 |  |
 | [Kentucky Too Long](https://open.spotify.com/track/6dPMvMqLD2sfmDWYfGLgHa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Kentucky Too Long](https://open.spotify.com/album/4Z8FQO3TmpkD6COopQTTxE) | 3:38 | 2026-02-13 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2026-02-13 |  |
+| [Livin’ In Shame](https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Livin’ In Shame](https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f) | 2:25 | 2026-02-20 |  |
 | [Long Way to Go](https://open.spotify.com/track/4Tb1Yf1e6tgimjLKPQhhOd) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing \(Deluxe Edition\)](https://open.spotify.com/album/4dUldCEXkgAezE5GYMeJMW) | 4:04 | 2021-02-17 |  |
 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 | 2026-02-13 |  |
 | [Manufactured Feelings](https://open.spotify.com/track/1ZxzH9KKrvGgKRQS0L8QgF) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Manufactured Feelings](https://open.spotify.com/album/7MHHibngFhVwcQH6ubUxwk) | 3:47 | 2026-02-13 |  |

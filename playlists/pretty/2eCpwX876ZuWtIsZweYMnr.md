@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,112 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,110 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 | 18 | [Just The Way You Are](https://open.spotify.com/track/24lMtPOCzP5g4hrg3NklLa) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Just The Way You Are](https://open.spotify.com/album/4axhLmtq8nhvF5zJ21FoH8) | 3:40 |
 | 19 | [Cooler Than Me \(feat\. Big Sean\)](https://open.spotify.com/track/2DPYlWl50ydYsnnuryL5aX) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Cooler Than Me EP](https://open.spotify.com/album/4LScr6kNKfExUuZeizmoDb) | 3:47 |
 | 20 | [Imma Be](https://open.spotify.com/track/5OiLJ8tjUPFiPX2gVM8fxJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:17 |
-| 21 | [Empire State Of Mind \[Jay\-Z + Alicia Keys\]](https://open.spotify.com/track/69yVxyuRahEzs2taFMVVoO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:37 |
+| 21 | [Empire State Of Mind \[Jay\-Z + Alicia Keys\]](https://open.spotify.com/track/69yVxyuRahEzs2taFMVVoO) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:37 |
 | 22 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/5tXyNhNcsnn7HbcABntOSf) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/album/3W9fTZ9MCMB8TWXrbjdNt5) | 3:42 |
 | 23 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn) | 3:31 |
 | 24 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 | 47 | [Only Girl \(In The World\)](https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 3:55 |
 | 48 | [Live Like We're Dying](https://open.spotify.com/track/51YhN4y2tOvfI0Sv1hoBRo) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Live Like We're Dying](https://open.spotify.com/album/3kCKozGQlG80GXSHQc77hY) | 3:32 |
 | 49 | [Hard](https://open.spotify.com/track/3XcCfweqtfMbZNbM7Mq0gg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Rated R](https://open.spotify.com/album/5oMe51UhWt6rsnkAvNRd1A) | 4:10 |
-| 50 | [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 |
+| 50 | [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 |
 
 Snapshot ID: `AAAAA+f7QQLAXgmsbR54aZS9dWl1nS8E`

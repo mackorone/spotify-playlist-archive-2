@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-619 songs - 1 day 10 hr 40 min
+620 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 | 2024-02-14 | 2024-09-18 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 | 2023-08-05 |
-| [Na Jaanu Main](https://open.spotify.com/track/60qn1HQuwlA88Yap8TaZaU) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Plabita Borthakur](https://open.spotify.com/artist/5it58n8w0HfIvsHUPLcvjU) | [Four More Shots Please! Season 4 \(Original Series Soundtrack\)](https://open.spotify.com/album/4Zx1oqJZiNoe1mRbygUmsn) | 1:22 | 2026-01-09 |  |
+| [Na Jaanu Main](https://open.spotify.com/track/60qn1HQuwlA88Yap8TaZaU) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Plabita Borthakur](https://open.spotify.com/artist/5it58n8w0HfIvsHUPLcvjU) | [Four More Shots Please! Season 4 \(Original Series Soundtrack\)](https://open.spotify.com/album/4Zx1oqJZiNoe1mRbygUmsn) | 1:22 | 2026-01-09 | 2026-02-21 |
 | [Na Koi Ehsaas](https://open.spotify.com/track/1U2zDSIsNTvsEJYJxphWGK) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Na Koi Ehsaas](https://open.spotify.com/album/5j4tDlDc5NCbYKB7HKW8Fv) | 4:58 | 2025-02-28 | 2025-05-16 |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 | 2023-08-05 |
 | [Naa Samjhe Tum](https://open.spotify.com/track/2yBHRByW65XskyQqpMMMpO) | [Nikhil Chandel](https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r) | [Naa Samjhe Tum](https://open.spotify.com/album/7g2Kze0Dnqrkb47kZwvJBJ) | 3:40 | 2024-07-15 | 2024-10-26 |
@@ -467,6 +467,7 @@
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saanson Ki Mala \- Live Loop Version](https://open.spotify.com/track/0H2LYJrPFMEr5JmdNBSwUd) | [Bhuwin](https://open.spotify.com/artist/6vsLn0UxL3GhtYP7ghpF3t) | [Saanson Ki Mala \(Live Loop Version\)](https://open.spotify.com/album/1o90SCXyYBya1VybapCgjS) | 3:36 | 2025-10-15 | 2025-11-15 |
 | [Saare Badal](https://open.spotify.com/track/5MTi1rw6cAtPKY4SuyRYh5) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Saare Badal](https://open.spotify.com/album/1RYWtFD73pspXEkm2v04ZA) | 3:30 | 2025-03-21 | 2025-07-17 |
+| [Saari Raat](https://open.spotify.com/track/2FuHwIdCmfTwjaXBOVmE76) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Saari Raat](https://open.spotify.com/album/5WnCiVjmZgdlazM3lEnUgj) | 2:17 | 2026-02-20 |  |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |
 | [Sab Kuch Mera \- Deep Heart](https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Mann](https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79) | [Sab Kuch Mera \(Deep Heart\)](https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow) | 2:07 | 2024-06-27 | 2024-07-27 |
 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 | 2025-08-29 |  |

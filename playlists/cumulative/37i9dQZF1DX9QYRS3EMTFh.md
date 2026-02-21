@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Kalash
 
-809 songs - 1 day 10 hr 37 min
+810 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [CHO CHO](https://open.spotify.com/track/5hbvvhmXmMDeoa63XaVowC) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [CHO CHO](https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN) | 2:46 | 2024-06-13 | 2024-09-13 |
 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 | 2024-06-13 | 2024-07-27 |
 | [Choquer](https://open.spotify.com/track/7y1z1fQtI1akuOk4lMrqEm) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Lya](https://open.spotify.com/artist/36gjO1QUVa9mEXVCzN26o3), [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo) | [Choquer](https://open.spotify.com/album/6uU4LXwHzQhcXEkHipagSX) | 2:22 | 2023-09-07 | 2023-09-22 |
+| [Chosen](https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Disaster Music](https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR) | [Chosen](https://open.spotify.com/album/4s6vd6pnbvnrqv8080N76U) | 3:12 | 2026-02-19 |  |
 | [Chupa Chups](https://open.spotify.com/track/1yPvo0vccRNMEc8xDIFsqi) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Chupa Chups](https://open.spotify.com/album/4evQmLlRFvmjGbbLfrVnO4) | 2:10 | 2023-11-23 | 2024-05-03 |
 | [Clap Clap](https://open.spotify.com/track/0HRh0oyCzL77523ZBDZHhV) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clap Clap](https://open.spotify.com/album/4ujzl78TKBfkTbmB5VtllJ) | 3:15 | 2022-07-21 | 2022-10-14 |
 | [Clean](https://open.spotify.com/track/7tyHwcv9QHq6Wjv3kdSoCB) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Clean](https://open.spotify.com/album/3BvCoIzXKuFgTjMWoBgBs6) | 2:16 | 2025-04-24 | 2025-05-30 |

@@ -4,7 +4,7 @@
 
 > new gen alt ⛓ ft\. chalk
 
-1,077 songs - 2 day 6 hr 20 min
+1,079 songs - 2 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [DEEP CUTS](https://open.spotify.com/track/7q9xpIuDaUShbrXdFw54gu) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 4:14 | 2022-11-11 | 2022-11-13 |
 | [Deep End](https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Deep End](https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm) | 3:16 | 2023-06-22 | 2023-12-08 |
 | [DEMONS](https://open.spotify.com/track/32xcZLqIik5c21zDJj9xAV) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [BORN ON THE INTERNET](https://open.spotify.com/album/5qMCPAIS3GDGQHPl8N0Mvx) | 2:22 | 2022-08-04 | 2022-09-09 |
+| [Departed](https://open.spotify.com/track/0qzh7NPIeN70tdhlmb16De) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Departed](https://open.spotify.com/album/3ctE5B7pqHvC6iqLxbBIC8) | 3:38 | 2026-02-20 |  |
 | [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-04 | 2025-09-26 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-01-07 | 2022-03-25 |
 | [Devotion And Desire](https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bayside](https://open.spotify.com/album/2QtIreQj0XrhypG6U5H4o5) | 3:29 | 2022-10-20 | 2022-11-01 |
@@ -338,6 +339,7 @@
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-10-06 | 2024-05-10 |
 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 | 2023-02-24 | 2023-03-31 |
 | [FALLING FROM MY GRACE](https://open.spotify.com/track/6t3MI9dLi4DJOHz15bE0uJ) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [FALLING FROM MY GRACE](https://open.spotify.com/album/1Kt4pp8S77Lkr9fHv5BPfG) | 2:47 | 2022-07-07 | 2022-09-16 |
+| [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 | 2026-02-20 |  |
 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 | 2023-07-27 | 2023-10-27 |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-10 | 2023-09-29 |
 | [Fcked Up Teeth](https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [Fcked Up Teeth](https://open.spotify.com/album/6bsiQWW6O3PBOFYPNXUQFS) | 3:01 | 2022-03-04 | 2022-07-22 |

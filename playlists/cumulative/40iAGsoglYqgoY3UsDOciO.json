@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GUJ5vxHDZfUFLEwMpu75l"
+      },
+      "artists": [
+        {
+          "name": "Raptor",
+          "url": "https://open.spotify.com/artist/2Lh18EDnkLyFCq2HlOU5z5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5nFzYj3ZjY0BcdhsjRVmVc"
+    },
+    {
+      "album": {
         "name": "Coping Method",
         "url": "https://open.spotify.com/album/2jwzIgkaMQoVgkqaLuoAIz"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124313,
+  "num_followers": 124309,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVJHqxBpWFmp6x7iqr0q35oTVaHau5",
+  "snapshot_id": "AAAVJV8wyWOsEysxKa8TzB2CIAJWYB/6",
   "tracks": [
+    {
+      "added_at": "2026-02-20 16:11:06",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/74fJ4CYKnPIAXGnHcU71o9"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/6GcmTzGhvKCWYWvbLi0Q8Q"
+    },
     {
       "added_at": "2026-02-19 16:59:04",
       "album": {

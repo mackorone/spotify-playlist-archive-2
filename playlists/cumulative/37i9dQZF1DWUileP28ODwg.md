@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Jenn Johnson & Brian Johnson
 
-677 songs - 1 day 17 hr 37 min
+679 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 | 2023-03-10 | 2024-06-08 |
 | [Hold You Tight](https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:55 | 2022-07-08 | 2023-10-07 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2022-02-25 | 2022-05-14 |
-| [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 | 2025-10-19 |  |
+| [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 | 2025-10-19 | 2026-02-21 |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2023-10-06 | 2025-06-08 |
 | [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-08-26 | 2022-10-02 |
 | [Holy Trouble](https://open.spotify.com/track/4crXyrGXp9UJlTTSMH8nfN) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Holy Trouble + What I Was Made For](https://open.spotify.com/album/26ESial2wdAJSrBqFLGeoY) | 2:51 | 2024-10-04 | 2024-10-26 |
@@ -621,6 +621,7 @@
 | [We're Gonna Make It](https://open.spotify.com/track/6L9sPIBo4WOEJE6IPs6bva) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [We're Gonna Make It](https://open.spotify.com/album/02KoyTR71Rf8c3dG2qGGb0) | 3:06 | 2025-01-17 | 2025-07-12 |
 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 | 2022-08-26 | 2023-07-28 |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-28 | 2023-03-11 |
+| [Well Done](https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Well Done](https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3) | 2:46 | 2026-02-20 |  |
 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 | 2025-07-25 |  |
 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 | 2023-10-06 | 2024-03-21 |
 | [What God Is Gonna Do](https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [What God Is Gonna Do](https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D) | 4:19 | 2024-07-19 | 2025-03-01 |
@@ -640,8 +641,9 @@
 | [Where The Glory Is](https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:30 | 2022-10-01 | 2022-10-22 |
 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 | 2022-10-01 | 2024-04-19 |
 | [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2025-11-07 | 2025-12-13 |
+| [Where Would I Be](https://open.spotify.com/track/5e0qKbeQs7tww07my2CT6o) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/7cbj9Vgx8sgEczqzF9Z1Eg) | 3:12 | 2026-02-20 |  |
 | [Where Would I Be](https://open.spotify.com/track/3IsymeG164xqab7pmeblhi) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Where Would I Be](https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K) | 3:12 | 2025-12-12 | 2026-02-15 |
-| [Where Would I Be \- Live](https://open.spotify.com/track/6Rmgg4Wu66Sjt0VpscGM52) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/7cbj9Vgx8sgEczqzF9Z1Eg) | 3:45 | 2026-02-14 |  |
+| [Where Would I Be \- Live](https://open.spotify.com/track/6Rmgg4Wu66Sjt0VpscGM52) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/7cbj9Vgx8sgEczqzF9Z1Eg) | 3:45 | 2026-02-14 | 2026-02-21 |
 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 | 2023-10-06 | 2024-06-08 |
 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 | 2025-09-14 |  |
 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 | 2023-10-06 | 2024-06-08 |

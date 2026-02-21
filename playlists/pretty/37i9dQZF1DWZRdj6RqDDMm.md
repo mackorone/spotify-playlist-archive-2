@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,424 likes - 109 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,471 likes - 109 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 102 | [Who Am I](https://open.spotify.com/track/5edoZF7ljhPV7BE9HNJwXm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Who Am I](https://open.spotify.com/album/4l2LkYv2QarzGQouHoRkqe) | 1:39 |
 | 103 | [Overwhelming](https://open.spotify.com/track/1xqM9tG1LpcWjBzEHHRWem) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [Overwhelming](https://open.spotify.com/album/4U3hUEES4W2G8RGMMmlvEQ) | 2:23 |
 | 104 | [Onumo](https://open.spotify.com/track/3yQwW4ZnnLoeUBqindWiAc) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Onumo](https://open.spotify.com/album/6GMKhzj32Ro13lHIcPCsdM) | 2:40 |
-| 105 | [Sparrow](https://open.spotify.com/track/2JMcODWr2bxsnum0G2Atre) | [YiMiKa](https://open.spotify.com/artist/0JWnHP4TZ0AvkSfDer9jJV), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Sparrow](https://open.spotify.com/album/5x3YLyNDrKn75OUd3ijTMX) | 2:01 |
+| 105 | [Sparrow](https://open.spotify.com/track/2JMcODWr2bxsnum0G2Atre) | [Yimika](https://open.spotify.com/artist/5YlBgQy703VoyidAjPDzzO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Sparrow](https://open.spotify.com/album/5x3YLyNDrKn75OUd3ijTMX) | 2:01 |
 | 106 | [Bigger](https://open.spotify.com/track/4LCwNO8WGdmwTqcpbZ9BCg) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [Bigger](https://open.spotify.com/album/6thGDniAyFPCkSop8Gqf7M) | 3:00 |
 | 107 | [Follow](https://open.spotify.com/track/38j3wn08OC9WYEBXf6qyDV) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Follow](https://open.spotify.com/album/0VV4aY8dxHjcnsPos1rZv8) | 3:06 |
 | 108 | [The Way of Heaven](https://open.spotify.com/track/2kGWtWpLtjQ1tYwu4Zbl3e) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [The Way of Heaven](https://open.spotify.com/album/7zGsJKqNIQw5xKltPqQwe1) | 3:55 |

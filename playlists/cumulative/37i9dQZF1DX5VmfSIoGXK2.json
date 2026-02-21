@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175609,
       "name": "Boat Party",
       "url": "https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1"
@@ -572,6 +572,28 @@
       "duration_ms": 213333,
       "name": "Captain Hosa",
       "url": "https://open.spotify.com/track/2L661S4CnKOauPvNms6uaC"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/66OPjOKbCjkH7j69mztCCN"
+      },
+      "artists": [
+        {
+          "name": "Leo Janeiro",
+          "url": "https://open.spotify.com/artist/0WmI1dw6gD0yBHeoqjjYQJ"
+        },
+        {
+          "name": "Nathan 'Flutebox' Lee",
+          "url": "https://open.spotify.com/artist/56Q3zYJbYdR5VKqDgVoVzs"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326768,
+      "name": "Carioca Flute",
+      "url": "https://open.spotify.com/track/2FPPCWyQAiEDz91BajDf0w"
     },
     {
       "album": {
@@ -1351,6 +1373,32 @@
     },
     {
       "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Jorge Bezerra",
+          "url": "https://open.spotify.com/artist/6ADTvdCjYsU2CR6GWG4PNh"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335523,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/26cbmyCNrPCDq1yICOXa4q"
+    },
+    {
+      "album": {
         "name": "Hotspot",
         "url": "https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh"
       },
@@ -1706,6 +1754,24 @@
       "duration_ms": 344432,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/6hnAC8BVOSAstUNeQxWHOP"
+    },
+    {
+      "album": {
+        "name": "Keep On Moving",
+        "url": "https://open.spotify.com/album/6xOPpPSzbkPYbg457Sxozs"
+      },
+      "artists": [
+        {
+          "name": "Luke Gambini",
+          "url": "https://open.spotify.com/artist/7GJL9SCd2uTBYRzWcRLLsN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Keep On Moving",
+      "url": "https://open.spotify.com/track/1EYzTf0hiFV1HU9nUAdOu8"
     },
     {
       "album": {
@@ -2234,7 +2300,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 180000,
       "name": "mostly poetry",
       "url": "https://open.spotify.com/track/6o4UiH0LuFQIvLklnHSj1W"
@@ -3536,7 +3602,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 255822,
       "name": "Unity Jazz",
       "url": "https://open.spotify.com/track/3ucM5eRZYNIzJTlUPI9i4T"

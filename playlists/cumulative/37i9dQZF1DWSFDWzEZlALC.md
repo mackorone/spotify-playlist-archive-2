@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: herbst
 
-1,628 songs - 3 day 4 hr 59 min
+1,628 songs - 3 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,7 +1153,7 @@
 | [Riese](https://open.spotify.com/track/1Ges9QPgQEEltdeRgFXXh2) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Riese](https://open.spotify.com/album/3l0E1oS8fB506V3y6q2LW0) | 3:09 | 2024-03-21 | 2024-04-12 |
 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 | 2023-04-13 | 2026-02-15 |
 | [RIP](https://open.spotify.com/track/3vqML7qAPUXH7AbtESolBY) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Goldie](https://open.spotify.com/album/24QB7vyHwRrU1irXktaWMM) | 3:13 | 2023-11-09 | 2024-01-26 |
-| [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [](https://open.spotify.com/album/null) | 2:18 | 2026-02-19 |  |
+| [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 | 2026-02-19 |  |
 | [Ritalin](https://open.spotify.com/track/4LWIAz3HVqCaqmHnMV62el) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm), [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T) | [Ritalin](https://open.spotify.com/album/0pvZwnFhVmFkpAXwikxiEg) | 2:43 | 2025-08-28 | 2025-09-26 |
 | [ritter](https://open.spotify.com/track/679zQ5HfMFbZHY3sbc4iaF) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [ritter](https://open.spotify.com/album/3xxwcLQAj5GxbNkSlWFhlB) | 2:51 | 2023-05-25 | 2023-06-16 |
 | [rohbeton](https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [rohbeton](https://open.spotify.com/album/609CS2jCvMY64FiiqiAGgd) | 2:18 | 2024-08-15 | 2024-09-20 |
@@ -1289,6 +1289,7 @@
 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 | 2024-07-25 | 2024-11-22 |
 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 | 2023-02-13 | 2023-02-15 |
 | [Sommersprossenzeit](https://open.spotify.com/track/3oMztnovVLeOS9NArSklLi) | [Strob](https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [Sommersprossenzeit](https://open.spotify.com/album/3XWpVEUSWlrMYtTb5MoYxx) | 2:25 | 2025-07-03 | 2025-10-10 |
+| [Song 11 ft Provinz](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [listen carefully](https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD) | 2:46 | 2026-02-19 |  |
 | [Songs for a lonely night](https://open.spotify.com/track/2ZXmuWfXTdSQYBdco2DkbK) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Songs for a lonely night](https://open.spotify.com/album/3b2nRMB3mYChP32i5lApzo) | 2:55 | 2023-02-09 | 2023-03-03 |
 | [Sonne](https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Sonne](https://open.spotify.com/album/5w9aiyzX6MSTDwkZV0rJAL) | 3:03 | 2025-07-17 | 2025-08-01 |
 | [Sonne](https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [Sonne](https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs) | 2:04 | 2023-02-09 | 2023-03-10 |
@@ -1383,7 +1384,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 11](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

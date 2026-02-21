@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 50 | [Papa Was a Rodeo](https://open.spotify.com/track/17XuaEj192gVfNsXDwV1rS) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 5:01 |
 | 51 | [Brighter Than the Sun](https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3) | [Brick + Mortar](https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr) | [Dropped](https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ) | 3:16 |
 
-Snapshot ID: `AAAAQ6at8sVk8+Pko4TImIIBLahQkW2l`
+Snapshot ID: `AAAARWfk0iKnXK66sqzkFbWqYY4Nudko`

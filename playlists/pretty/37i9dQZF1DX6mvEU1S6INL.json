@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142291,
+  "num_followers": 1142289,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 239212,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 255403,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 239212,
-      "name": "twin flame",
-      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 184999,
       "name": "Adore",
       "url": "https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
     },
     {
       "added_at": "2026-02-18 18:45:42",

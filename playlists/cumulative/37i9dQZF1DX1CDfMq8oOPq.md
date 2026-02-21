@@ -4,7 +4,7 @@
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-351 songs - 16 hr 31 min
+352 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Carne Preta](https://open.spotify.com/track/3kfsx9AdfRxcAlQJijGCoU) | [Uni\-Ka](https://open.spotify.com/artist/05xZZ8fnfUsUFBod0qYurw), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Carne Preta](https://open.spotify.com/album/0dsLTQo9sGk6pxwCDS0w0b) | 3:54 | 2022-11-18 | 2022-12-13 |
 | [Cartas a uma Garota Negra](https://open.spotify.com/track/2DkfARxo3B9gzoFRzB1OFf) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:58 | 2024-10-11 | 2025-04-29 |
 | [Chama](https://open.spotify.com/track/6NadLF4QyijMRzRdwrfeOR) | [Sarah Guedes](https://open.spotify.com/artist/3ybwxfy04ny7tphw3AXobG), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Cizco](https://open.spotify.com/artist/1oV3vsb8OqejiWBzfpdhUe), [Abu](https://open.spotify.com/artist/4Pxmy4yuGcDal5Zf26D8d5) | [Feita de Amor](https://open.spotify.com/album/6wFKU8aU0wWXlaKwVvZ0db) | 2:26 | 2025-06-13 | 2025-09-20 |
+| [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 | 2026-02-20 |  |
 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 | 2023-04-21 | 2023-04-29 |
 | [Chevette](https://open.spotify.com/track/1cIkjFkvZisLYsY0axSkac) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Meu Karma](https://open.spotify.com/album/0Ju3ufvgYk3ONV4qzoE5a9) | 2:37 | 2024-03-22 | 2024-05-03 |
 | [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 | 2023-10-13 | 2023-12-30 |
@@ -138,7 +139,7 @@
 | [Fôlego](https://open.spotify.com/track/1MV7BgHnQh2ENGiwGkXrXO) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:46 | 2025-03-24 | 2025-05-13 |
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2023-10-14 |
 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 | 2023-09-15 | 2023-10-21 |
-| [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 | 2025-06-20 |  |
+| [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 | 2025-06-20 | 2026-02-21 |
 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 | 2022-03-11 | 2023-06-24 |
 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 | 2022-08-12 | 2022-10-27 |
 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 | 2022-03-11 | 2024-10-08 |

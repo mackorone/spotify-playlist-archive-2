@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,710 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,725 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 15 | [Reaching For My Soul](https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p) | [Prodigy](https://open.spotify.com/album/0U4M1Hmk9Jtkw7TOKSNn2Y) | 2:39 |
 | 16 | [Igbo](https://open.spotify.com/track/5yz4hoAl0eaOG2N7hK16OY) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Igbo](https://open.spotify.com/album/3goOtAKuLnu6m5qIMcv31L) | 3:03 |
 | 17 | [BORN TO BE GREAT](https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BORN TO BE GREAT](https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx) | 2:53 |
-| 18 | [Track 5](https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV) | [Harteez](https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Ayinke](https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV) | [Harteez](https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn), [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [Menace](https://open.spotify.com/album/3etpDVT1amvU3KRVXjF82E) | 2:18 |
 | 19 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 |
 | 20 | [Body and soul](https://open.spotify.com/track/3LUtF47QFyvSeUvOgt1BJs) | [Kavan](https://open.spotify.com/artist/6VmlDp06IyfK7aCiHm4HlM) | [Body and soul](https://open.spotify.com/album/44u8joI7d7YYgnIgUCw21G) | 2:42 |
 | 21 | [Ozugbo](https://open.spotify.com/track/23cr5nh5qIJT1XBbpDDArv) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ozugbo](https://open.spotify.com/album/0b7WNNJBGgqXY0ZFPFksqY) | 2:17 |

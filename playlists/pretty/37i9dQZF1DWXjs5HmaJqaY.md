@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,089 likes - 61 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,138 likes - 61 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bayé](https://open.spotify.com/track/0sTvjAjroTUWSuFynmkuxV) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Bayé](https://open.spotify.com/album/0hDDfMPbzIApTHUlt5iGVO) | 4:52 |
-| 2 | [Chezana \- Extended Mix](https://open.spotify.com/track/2mZQeDBnroSHx2QIUB2Cv1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Chezana](https://open.spotify.com/album/3eupXugfZMOCkZmaR2vgI9) | 4:48 |
+| 2 | [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 |
 | 3 | [Apple Of My Eye](https://open.spotify.com/track/5sCqIIOt4sfiPdi0tScrER) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Apple Of My Eye](https://open.spotify.com/album/4jiXyJjieMfHNfOv3EZr4d) | 3:31 |
 | 4 | [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 |
 | 5 | [The Road To Myself \- Prevision Remix](https://open.spotify.com/track/0QyAKZ7pcIHmDFlC386NDX) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2), [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [The Road To Myself \(Prevision Remix\)](https://open.spotify.com/album/4CaE1vYJLD0Nrs53vM933y) | 6:51 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 60 | [Flockentanz \- 2024 Remake](https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Flockentanz Remixes](https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3) | 8:00 |
 | 61 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 
-Snapshot ID: `AAAAAM0Jmt1VtQAElBQwRLGIIlNrsJEm`
+Snapshot ID: `AAAAAKplwTXvwEiTB/DOIMsxIBimgsnF`

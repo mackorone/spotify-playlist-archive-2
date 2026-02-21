@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,733 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,711 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 12 | [GDDA](https://open.spotify.com/track/78V6soa6kS2Idpp9tU1Heo) | [Kist](https://open.spotify.com/artist/5bgbFOkPCLOAelQdiQiPcR) | [GDDA](https://open.spotify.com/album/3MDLWhGJcs4k3iqm31rCbD) | 3:50 |
 | 13 | [Aman Avcı Vurma Beni](https://open.spotify.com/track/6iH2yiPy3RFbj6fcN8nlIc) | [ENGIN](https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg) | [Aman Avcı Vurma Beni](https://open.spotify.com/album/3QH8yxZ8j6VlSXWdRSWCzB) | 2:19 |
 | 14 | [Güzel Şeyler Var Hayatta \- Alternatif Performans](https://open.spotify.com/track/2BvV0veIxUkxYUfqvQHySK) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Güzel Şeyler Var Hayatta \(Alternatif Performans\)](https://open.spotify.com/album/4fFWEd6u1rLViUJymWK8JM) | 3:15 |
-| 15 | [Track 2](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [İstanbul \- Live](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [Akustikhane Live Sessions](https://open.spotify.com/album/6HxwRg3YarLiodU1RFJ94u) | 5:36 |
 | 16 | [Dikişli Kalbim](https://open.spotify.com/track/5v5RufFx9OmmSHCA2zK8Dc) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC) | [Dikişli Kalbim](https://open.spotify.com/album/19KMdmfNoseMimhfrq0WLl) | 3:20 |
 | 17 | [Radyoda Sevdiğin Şarkı](https://open.spotify.com/track/152LZ4vXweZvuav4LtMTdy) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Radyoda Sevdiğin Şarkı](https://open.spotify.com/album/1nMho7olSlxnFwglkDRZXN) | 3:36 |
 | 18 | [Mizantrop](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Mizantrop](https://open.spotify.com/album/7C0Jr61asVHUd9lZVGlTGj) | 3:42 |

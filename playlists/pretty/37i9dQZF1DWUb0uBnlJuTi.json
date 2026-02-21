@@ -1,13 +1,33 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 408943,
+  "num_followers": 409019,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAAJfZqZsgouRGEJV5Oi2zAJ2o+n/4",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:31",
+      "album": {
+        "name": "Deface The Currency",
+        "url": "https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE"
+      },
+      "artists": [
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "duration_ms": 249070,
+      "name": "Rules Of The Game",
+      "url": "https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ"
+    },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
@@ -2915,22 +2935,6 @@
       "duration_ms": 371080,
       "name": "The Hump",
       "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-03-07 20:58:06",

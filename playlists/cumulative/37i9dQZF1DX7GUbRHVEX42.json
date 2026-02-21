@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of current & contemporary Reggae.  Cover: Protoje, Damian Marley",
+  "description": "The best of current & contemporary Reggae.  Cover: Tessellated",
   "name": "Irie",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 253167,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt"
@@ -2787,6 +2787,46 @@
     },
     {
       "album": {
+        "name": "Long Way",
+        "url": "https://open.spotify.com/album/3piQF9NVrTMKZtht7or25Y"
+      },
+      "artists": [
+        {
+          "name": "Akina Eman",
+          "url": "https://open.spotify.com/artist/3D7ASE3XdxMcDku4h2XLIV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/2i6JorkVOB5j2jomwn3gdK"
+    },
+    {
+      "album": {
+        "name": "Highs + Lows",
+        "url": "https://open.spotify.com/album/5npoDB704U42Vvepcogk7c"
+      },
+      "artists": [
+        {
+          "name": "KADEEM.",
+          "url": "https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj"
+        },
+        {
+          "name": "Lila Ik\u00e8",
+          "url": "https://open.spotify.com/artist/4hGprQ5XEyvu5J8yqzj5ef"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Lost in Time",
+      "url": "https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC"
+    },
+    {
+      "album": {
         "name": "Hybrid",
         "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
       },
@@ -3244,7 +3284,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 198362,
       "name": "My World",
       "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
@@ -3628,6 +3668,24 @@
       "duration_ms": 180900,
       "name": "One Gift",
       "url": "https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/2VB2aBJC76SGHgAruEvmtD"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167801,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/1KGEykOy8nZcuJYPuzUGQj"
     },
     {
       "album": {
@@ -5612,7 +5670,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 240488,
       "name": "Undeniable (feat. Kaylan Arnold)",
       "url": "https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u"
@@ -5896,6 +5954,28 @@
       "duration_ms": 243049,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+    },
+    {
+      "album": {
+        "name": "where we end (with Surfer Girl)",
+        "url": "https://open.spotify.com/album/5Gxcl6cIwQQfvdg74vQU22"
+      },
+      "artists": [
+        {
+          "name": "Tessellated",
+          "url": "https://open.spotify.com/artist/3XXMDj1Yn4RJ7REbXK2u32"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "where we end (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/4u5dgfw1o8UUjYU2f6IN3j"
     },
     {
       "album": {

@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 160643,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/1Btgfga2Sh4ApTTzFaZ5P5"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 155306,
       "name": "BOOST",
       "url": "https://open.spotify.com/track/2CP4hqiRmgqz4T7s4RgMQj"
@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156135,
       "name": "dis moi o\u00f9, dis moi quand (feat. Hubert Lenoir)",
       "url": "https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK"
@@ -5255,6 +5255,28 @@
     },
     {
       "album": {
+        "name": "Guffside Vol. 1",
+        "url": "https://open.spotify.com/album/0rcWMc3tdR6ecPwA7NFBF1"
+      },
+      "artists": [
+        {
+          "name": "Dayside",
+          "url": "https://open.spotify.com/artist/1yzJ27db2mGyeQeOGJ2cbl"
+        },
+        {
+          "name": "Guffchild",
+          "url": "https://open.spotify.com/artist/4MBIiX7dMqa1xDwDNZDhMR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0k6dM6CLpI5GRDG1q72Igr"
+    },
+    {
+      "album": {
         "name": "Google",
         "url": "https://open.spotify.com/album/1hVc65TfDsysUezxkpLYUa"
       },
@@ -5288,7 +5310,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/0mMFKOFRWNvcLRBaY7Nn4d"
@@ -5784,7 +5806,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 220010,
       "name": "Hoodie du Che",
       "url": "https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8"
@@ -5904,7 +5926,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 191537,
       "name": "I Can't Say No",
       "url": "https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ"
@@ -7060,7 +7082,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 204444,
       "name": "L'avalanche",
       "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
@@ -7488,6 +7510,28 @@
       "duration_ms": 228506,
       "name": "La V\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/6N9rx3jdWOURqR0ojCVfaF"
+    },
+    {
+      "album": {
+        "name": "Labyrinthite (acoustique)",
+        "url": "https://open.spotify.com/album/4yIAY0gWwSvjbz3oAmOqev"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Labyrinthite - acoustique",
+      "url": "https://open.spotify.com/track/3RXtW0CgFlu2urJwgkWTv9"
     },
     {
       "album": {
@@ -9141,6 +9185,24 @@
     },
     {
       "album": {
+        "name": "Mourir ensemble",
+        "url": "https://open.spotify.com/album/0nH1KOHq6HogQGhIlNn3Lz"
+      },
+      "artists": [
+        {
+          "name": "Mantisse",
+          "url": "https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98402,
+      "name": "Mourir ensemble",
+      "url": "https://open.spotify.com/track/5cnFw5edGRri2cmWysHkuG"
+    },
+    {
+      "album": {
         "name": "moving song",
         "url": "https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh"
       },
@@ -10088,6 +10150,24 @@
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
+    },
+    {
+      "album": {
+        "name": "over/over",
+        "url": "https://open.spotify.com/album/1PJCDRAh0xcCDoKtwUjvWP"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "over/over",
+      "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
     },
     {
       "album": {
@@ -11231,6 +11311,24 @@
     },
     {
       "album": {
+        "name": "cuticules",
+        "url": "https://open.spotify.com/album/5m0hfQ0pN9HDTZ7Ai1uu09"
+      },
+      "artists": [
+        {
+          "name": "Vermeil",
+          "url": "https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153505,
+      "name": "qu'est-ce que \u00e7a dit de moi",
+      "url": "https://open.spotify.com/track/2ws8FgSZaeWwJXBL0lT07z"
+    },
+    {
+      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -11720,7 +11818,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 199574,
       "name": "Rouge Blanc",
       "url": "https://open.spotify.com/track/4tYVss0uEh28hQ3pctrTmd"

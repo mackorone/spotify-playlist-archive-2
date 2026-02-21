@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Roberta Campos
 
-1,135 songs - 2 day 18 hr 9 min
+1,136 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Encantaria](https://open.spotify.com/track/3NqdlQsT49DK5vSHkqzqqu) | [João Bernardo](https://open.spotify.com/artist/29g5s8mPByIGhpfpGN7VfN), [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE), [Mateus Aleluia Filho](https://open.spotify.com/artist/0gK7zBaket7TReMSRJBf83) | [Encantaria](https://open.spotify.com/album/7AUlD5j4WkKQkxt6kU3kdj) | 3:51 | 2025-06-13 | 2025-07-12 |
 | [Endereço](https://open.spotify.com/track/3qmrgc40e81Uxk3XU8iE9Y) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Endereço](https://open.spotify.com/album/52fVTZ8HfUbklMOmr21gyK) | 3:25 | 2021-12-24 | 2022-01-22 |
 | [Ensacado](https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Ensacado](https://open.spotify.com/album/2KQLD2oGnUJhwKiDep6SIE) | 2:59 | 2025-02-07 | 2025-03-15 |
+| [Entre Amores e Danos](https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH) | [Carol Fincatti](https://open.spotify.com/artist/2OmRqySlAUtEFwsFYgf2ll), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Entre Amores e Danos](https://open.spotify.com/album/4ruqOYj0aotFUurQDz00qz) | 3:41 | 2026-02-20 |  |
 | [Erasmo Esteves \(Tijuca Maluca\)](https://open.spotify.com/track/4w4Jqi1hrVol86IBNw4Yql) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Erasmo Esteves](https://open.spotify.com/album/3EvSDMqnLN44cwevqgC23e) | 4:34 | 2024-05-03 | 2024-05-18 |
 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 | 2023-10-06 | 2024-07-13 |
 | [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 | 2023-11-03 | 2024-03-09 |
@@ -671,7 +672,7 @@
 | [O Amor e o Tempo](https://open.spotify.com/track/2RR9ZHld40TTa053GtPASL) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [O Amor e o Tempo](https://open.spotify.com/album/6UldHF44udMxpiq0HoJDTe) | 5:05 | 2026-01-30 |  |
 | [O Amor Em Tempos de Cólera](https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE), [Virginie Boutaud](https://open.spotify.com/artist/3lWgqQkjOSmD4T0btnkzQj) | [Será Que Você Vai Acreditar?](https://open.spotify.com/album/3CS4E5hgs9Rd1EViJ3yYy5) | 3:48 | 2021-12-24 | 2022-08-12 |
 | [O Amor Mata Sim](https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Kenji Mattos](https://open.spotify.com/artist/2BVj4vW7MZ5FbOcvazRuJv) | [O Amor Mata Sim](https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih) | 2:59 | 2024-03-08 | 2024-05-04 |
-| [O amor me fala de você](https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [O amor me fala de você](https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz) | 3:19 | 2024-10-25 |  |
+| [O amor me fala de você](https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [O amor me fala de você](https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz) | 3:19 | 2024-10-25 | 2026-02-21 |
 | [O amor me fala de você \- Ao Vivo](https://open.spotify.com/track/5t2h1PNm5M6rb1mDcLjHzN) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Caike Souza no Showlivre \(Ao Vivo\)](https://open.spotify.com/album/2WYFSz15CqcaUnlGAwtTfU) | 3:34 | 2025-03-28 | 2025-06-21 |
 | [O Amor Por Um Triz](https://open.spotify.com/track/31lyvlcSQaKx7AnEpNNyDP) | [Romulo Fróes](https://open.spotify.com/artist/30kRBDfEZayOrfaYBQIYsO), [Tiago Rosas](https://open.spotify.com/artist/2H8r7Yk56t1rNRzIs3d5ox) | [Na Goela](https://open.spotify.com/album/6NsVTDYhuZjkb6p5RGtmeD) | 2:53 | 2023-03-11 | 2023-03-25 |
 | [O Amor Vem da Paz](https://open.spotify.com/track/0FP12lJBF9o14Au0iK2uOG) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [Coração Bifurcado](https://open.spotify.com/album/1b90LEp99Gw10FHzgdDWEC) | 4:01 | 2023-04-28 | 2023-06-03 |

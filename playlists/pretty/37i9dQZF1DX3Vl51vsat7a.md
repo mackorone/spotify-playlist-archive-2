@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Eileen Alister
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,569 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,578 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 2 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
 | 3 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
 | 4 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 |

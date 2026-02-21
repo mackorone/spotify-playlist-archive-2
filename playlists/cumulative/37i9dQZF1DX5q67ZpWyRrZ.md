@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Chaar Diwaari
+> Best of the Indian Indie scene\. Cover \- Navjot Ahuja
 
 281 songs - 16 hr 1 min
 

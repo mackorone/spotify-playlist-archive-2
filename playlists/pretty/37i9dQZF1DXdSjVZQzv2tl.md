@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Panda, Gusttavo Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,079,937 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,080,364 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [12 Horas / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Cê Tá Doido \(São José Do Rio Preto\) \[Ao Vivo\]](https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu) | 4:10 |
 | 50 | [Não, Mas Quase \- Ao Vivo](https://open.spotify.com/track/0lTCXzpd3WL5FsPsrO2W4W) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Memórias \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1VpjNIveluI9560oRm8oYA) | 2:49 |
 
-Snapshot ID: `AAAAAHJR75kSW9UclersTRJMtMr9aW82`
+Snapshot ID: `AAAAAOexik77JclfP078fIGOdiPnoWGZ`

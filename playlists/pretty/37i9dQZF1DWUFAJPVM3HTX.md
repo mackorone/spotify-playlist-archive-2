@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW?si=w\-fNzqCCSpWSvolvGB5PXQ">rjtheweirdo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,614 likes - 177 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,635 likes - 177 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 172 | [Touch \- feat\. GoldLink](https://open.spotify.com/track/2fQFJOWin78fvUkSktiiz5) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lotus Ave](https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D) | 3:36 |
 | 173 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
 | 174 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 |
-| 175 | [Late at Night](https://open.spotify.com/track/37AAYWy7fZ78wlSctFbSGj) | [xyluhfone](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN), [808toofly](https://open.spotify.com/artist/4HroGmV8VVAxMLcZJtLnLw) | [Late at Night](https://open.spotify.com/album/1fW0gWUcgmvnkyYxYhfqip) | 3:33 |
+| 175 | [Late at Night](https://open.spotify.com/track/37AAYWy7fZ78wlSctFbSGj) | [Ezra](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN), [808toofly](https://open.spotify.com/artist/4HroGmV8VVAxMLcZJtLnLw) | [Late at Night](https://open.spotify.com/album/1fW0gWUcgmvnkyYxYhfqip) | 3:33 |
 | 176 | [Keeper](https://open.spotify.com/track/2gb8nz0dk0pYSEoR1NMeSm) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Keeper](https://open.spotify.com/album/16R8fQHebbHRtKAUWpEWp7) | 2:22 |
 | 177 | [Take It Slow](https://open.spotify.com/track/1E0C0qP1ZgIxboC6KnRShJ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Are You Bored Yet?](https://open.spotify.com/album/5cQnXNogeOsQhyYMesRS4O) | 3:00 |
 

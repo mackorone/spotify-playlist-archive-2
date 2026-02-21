@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19306,
+  "num_followers": 19307,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Lata",
         "url": "https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Pierwsza P\u0142yta",
         "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202069,
       "name": "mleko i mood",
       "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",

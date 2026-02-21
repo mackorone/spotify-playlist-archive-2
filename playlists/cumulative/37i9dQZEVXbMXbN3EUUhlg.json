@@ -7144,7 +7144,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 314880,
       "name": "Chat\u00e3o",
       "url": "https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP"
@@ -11596,7 +11596,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 115955,
       "name": "Era Sol Que Me Faltava",
       "url": "https://open.spotify.com/track/2M6M1f5SVQqamxeyItWZxo"
@@ -12764,7 +12764,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 135250,
       "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
@@ -13424,7 +13424,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 142824,
       "name": "Fanatismo",
       "url": "https://open.spotify.com/track/1bWYjhtGuje05MGLOAQvpj"
@@ -14940,6 +14940,52 @@
       "duration_ms": 178691,
       "name": "Gameboy",
       "url": "https://open.spotify.com/track/5UFaor7Wu8nn07wz2v9XPh"
+    },
+    {
+      "album": {
+        "name": "Gangstar",
+        "url": "https://open.spotify.com/album/1QPK1wuEIgZH363cYwa9ia"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "Kabeh",
+          "url": "https://open.spotify.com/artist/4erceoOpkoxOHXYZinmrX8"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        },
+        {
+          "name": "NovaChance",
+          "url": "https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Gangstar",
+      "url": "https://open.spotify.com/track/4tgLMOHoZlWRmEMclryt6T"
     },
     {
       "album": {
@@ -25376,7 +25422,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -26922,7 +26968,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 135692,
       "name": "Pique Anos 80",
       "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
@@ -33252,7 +33298,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"

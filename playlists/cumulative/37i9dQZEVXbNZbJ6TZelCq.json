@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 147038,
       "name": "Ale ale",
       "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 161684,
       "name": "BACCARAT",
       "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
@@ -5866,7 +5866,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 124500,
       "name": "Boca",
       "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
@@ -13381,6 +13381,24 @@
     },
     {
       "album": {
+        "name": "E TA LA VIA",
+        "url": "https://open.spotify.com/album/4wiPAyu3wnMWsTvQAwhKs0"
+      },
+      "artists": [
+        {
+          "name": "Bote",
+          "url": "https://open.spotify.com/artist/5ZysteEOAE4NFn6sbeD49c"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "E TA LA VIA",
+      "url": "https://open.spotify.com/track/1QjEQL1vUyI4FSOpjyYy5S"
+    },
+    {
+      "album": {
         "name": "E Wow",
         "url": "https://open.spotify.com/album/67eXAShAWEv7IX5LTvBhlp"
       },
@@ -18336,7 +18354,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -25018,7 +25036,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -32189,6 +32207,28 @@
     },
     {
       "album": {
+        "name": "Peter Parker (Balkanic Version)",
+        "url": "https://open.spotify.com/album/70OOUD7Xp7OiWHDBI1UhHJ"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        },
+        {
+          "name": "Manele VTM",
+          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198837,
+      "name": "Peter Parker - Balkanic Version",
+      "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -38928,7 +38968,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 197961,
       "name": "Sparge case",
       "url": "https://open.spotify.com/track/1tNJcix1I4XyIaywTduDVk"
@@ -39590,7 +39630,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -40002,6 +40042,24 @@
       "duration_ms": 190356,
       "name": "Stop The Rain (TABLO X RM)",
       "url": "https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN"
+    },
+    {
+      "album": {
+        "name": "Strada Sperantei",
+        "url": "https://open.spotify.com/album/1Eyu5ekiJNcMjJn0rXFepu"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Strada Sperantei",
+      "url": "https://open.spotify.com/track/1nEiypq1UkdEaVvcGUQLcb"
     },
     {
       "album": {

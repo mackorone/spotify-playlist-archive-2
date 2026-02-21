@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-494 songs - 23 hr 49 min
+495 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [COMPLICADO](https://open.spotify.com/track/4lu4tVLVkmo85xt060ArxH) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [COMPLICADO](https://open.spotify.com/album/3oe8HHqY1SpLeHuh4gpsXJ) | 1:34 | 2026-01-25 |  |
 | [confession](https://open.spotify.com/track/5djCXxJkPh9kQglP1AybZ0) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [confession](https://open.spotify.com/album/6R7EPOzMfXa0hbRtBZCMr4) | 2:26 | 2025-06-10 |  |
 | [Consciente](https://open.spotify.com/track/2jYPMZYfyQW6JDFRvAZ6bj) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Consciente](https://open.spotify.com/album/0SspSM2x2p8KuSVgsfJ1vR) | 3:05 | 2024-06-26 |  |
+| [Control](https://open.spotify.com/track/5nFzYj3ZjY0BcdhsjRVmVc) | [Raptor](https://open.spotify.com/artist/2Lh18EDnkLyFCq2HlOU5z5) | [Control](https://open.spotify.com/album/7GUJ5vxHDZfUFLEwMpu75l) | 3:28 | 2026-02-20 |  |
 | [Coping Method](https://open.spotify.com/track/1ZCC8zhSau26UetbqPq6RR) | [Street Da ' Villan](https://open.spotify.com/artist/1lrsVkhRGZJrjrigLMfewg), [Traumabeats](https://open.spotify.com/artist/3Zb8cqffpFIy8LLDo5YBA4) | [Coping Method](https://open.spotify.com/album/2jwzIgkaMQoVgkqaLuoAIz) | 3:36 | 2024-11-20 |  |
 | [Coração das Cartas](https://open.spotify.com/track/51s8xs6E12LWGspINjtf2Z) | [RoDan AFK](https://open.spotify.com/artist/7Ay8RwKTlSxLAxry2rrcSQ) | [Coração das Cartas](https://open.spotify.com/album/6szhCj1LlamdaTH6i5jORX) | 2:18 | 2024-06-02 |  |
 | [Corpse Bride](https://open.spotify.com/track/5ij2sbmLClFGnWBrtr6Cwv) | [Highrise](https://open.spotify.com/artist/0K37X9yuGZbV6PVwjuDxtj) | [Corpse Bride](https://open.spotify.com/album/4FCMyEPnnWsmNjkrtW4NgT) | 1:52 | 2024-08-06 |  |

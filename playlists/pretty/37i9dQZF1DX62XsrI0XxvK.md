@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: TADI, Isyana Sarasvati, MAKO., REDROSE
+> Irama R&B tanah air yang merasuk jiwa\. Cover: TADI, Isyana Sarasvati, MAKO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,895 likes - 98 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,900 likes - 98 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 97 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 |
 | 98 | [Sini](https://open.spotify.com/track/6hc5Ryshu6sdcJSShDQc8F) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Sini](https://open.spotify.com/album/312vsgcSCjvlPvKVriVXQg) | 3:58 |
 
-Snapshot ID: `AAAAADwQKbod8RM/tXgrt3Hfjg5PT9nU`
+Snapshot ID: `AAAAAK6rTxDHVB+mb087O6ePi5Pyochd`

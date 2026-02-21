@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: 42 Dugg",
+  "description": "The Midwest is always on time. Cover: MAF Teeski",
   "name": "CST",
   "tracks": [
     {
@@ -396,6 +396,24 @@
       "duration_ms": 235636,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/0UvAkhN1u8hCMWIp46NQt9"
+    },
+    {
+      "album": {
+        "name": "2 The Hard Way (First Day Out)",
+        "url": "https://open.spotify.com/album/475zyPXmMLtDYyiPGlPorL"
+      },
+      "artists": [
+        {
+          "name": "FWC Big Key",
+          "url": "https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157917,
+      "name": "2 The Hard Way (First Day Out)",
+      "url": "https://open.spotify.com/track/3Lvh395dcDoIKcc85zKT0B"
     },
     {
       "album": {
@@ -888,6 +906,28 @@
       "duration_ms": 179049,
       "name": "4x4 (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5eCfOuVSUDnkyDOIA2jiWx"
+    },
+    {
+      "album": {
+        "name": "I Want Blood",
+        "url": "https://open.spotify.com/album/4kJFfOgwJS9iiMdH3YztWM"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "5AM in KC (with Babyfxce E)",
+      "url": "https://open.spotify.com/track/4d82NTP7jSejMdm2TZt87r"
     },
     {
       "album": {
@@ -3692,7 +3732,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 122640,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/5njGut7DuNTnsMRwaKlIrt"
@@ -6702,7 +6742,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144612,
       "name": "Dice Roll",
       "url": "https://open.spotify.com/track/2wlXdyptZvW2kNOIYre49L"
@@ -6746,6 +6786,28 @@
       "duration_ms": 109136,
       "name": "Die 4 Anything",
       "url": "https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL"
+    },
+    {
+      "album": {
+        "name": "Da Realest",
+        "url": "https://open.spotify.com/album/6jyZkzQ8t7JBAkGo1XVsOP"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Die Bout It (feat. Rio Da Yung Og)",
+      "url": "https://open.spotify.com/track/5PS8HIkRIdt9hpNWexgdlk"
     },
     {
       "album": {
@@ -7284,7 +7346,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 127399,
       "name": "Drug Abuse",
       "url": "https://open.spotify.com/track/5mezmbMqFV411f0TJScf0t"
@@ -9942,10 +10004,32 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 165576,
       "name": "Golden Gooses",
       "url": "https://open.spotify.com/track/2flLsWTnsEKy0mCBSpBUp4"
+    },
+    {
+      "album": {
+        "name": "Golden Gooses A.T. MIX",
+        "url": "https://open.spotify.com/album/5zSVBVPIEHydyYu6kfYdcq"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173270,
+      "name": "Golden Gooses A.T. MIX",
+      "url": "https://open.spotify.com/track/1GXO1FmpTEz9JGCm0vEEoD"
     },
     {
       "album": {
@@ -10862,7 +10946,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184172,
       "name": "Hard Body",
       "url": "https://open.spotify.com/track/2eg8sfkVl6VlzFydaVFFmt"
@@ -11114,6 +11198,28 @@
       "duration_ms": 126314,
       "name": "Heat",
       "url": "https://open.spotify.com/track/4DQgYo1trx8Pjb8PHymzdH"
+    },
+    {
+      "album": {
+        "name": "SLAE SEASON IV",
+        "url": "https://open.spotify.com/album/3UmfinQGtqF2VDrK2cROPM"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139572,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/1Io0BSSv3rNJqkXHhXwAo1"
     },
     {
       "album": {
@@ -13662,7 +13768,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 127442,
       "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK"
@@ -14288,6 +14394,28 @@
       "duration_ms": 157987,
       "name": "KooKoo Language",
       "url": "https://open.spotify.com/track/2M3zadN1j2aEOsFtALR40L"
+    },
+    {
+      "album": {
+        "name": "Slick SZN 2",
+        "url": "https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165501,
+      "name": "Kriss Vecc",
+      "url": "https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf"
     },
     {
       "album": {
@@ -17012,7 +17140,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 149148,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/5AVgIQpvfeA5XXWSslut9V"
@@ -20427,6 +20555,24 @@
     },
     {
       "album": {
+        "name": "Da Realest",
+        "url": "https://open.spotify.com/album/6jyZkzQ8t7JBAkGo1XVsOP"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139439,
+      "name": "ProdbyFxce",
+      "url": "https://open.spotify.com/track/08xaNKeBvk68l44WLXI74b"
+    },
+    {
+      "album": {
         "name": "PROUD OF YOU",
         "url": "https://open.spotify.com/album/1Xtnt4yn49QQZMAWwk64vX"
       },
@@ -23456,7 +23602,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186818,
       "name": "Skittle Head",
       "url": "https://open.spotify.com/track/5MgTt3qjGUhQYS1OPWhnas"
@@ -24604,7 +24750,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156069,
       "name": "Stella",
       "url": "https://open.spotify.com/track/5HiQxR3uI6K5BILSZ4pwrb"
@@ -24758,6 +24904,28 @@
       "duration_ms": 225546,
       "name": "Still (feat. 6LACK and Smino)",
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
+    },
+    {
+      "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "STILL AIN'T PUT MY PISTOL DOWN",
+      "url": "https://open.spotify.com/track/09KefauMAYSo6uwJq4ezTx"
     },
     {
       "album": {
@@ -25632,6 +25800,28 @@
       "duration_ms": 114285,
       "name": "Tell It All",
       "url": "https://open.spotify.com/track/2422xGJLZQNWLxQYB01kYn"
+    },
+    {
+      "album": {
+        "name": "Tell Me Now",
+        "url": "https://open.spotify.com/album/1i2bKNS6BYBvp8JCDUwKWB"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190728,
+      "name": "Tell Me Now",
+      "url": "https://open.spotify.com/track/61YxvXZkU0JbQYwVcGTlCd"
     },
     {
       "album": {
@@ -27290,7 +27480,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 119808,
       "name": "Trackhawk",
       "url": "https://open.spotify.com/track/1q8rWcQ8xXd6Q9NKdXNgDL"

@@ -1,13 +1,85 @@
 {
-  "description": "New jazz for open minds. Cover: Terrace Martin",
-  "num_followers": 950880,
+  "description": "New jazz for open minds. Cover: aja monet",
+  "num_followers": 950893,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIimark1qAoH9c1qOm+U1ti4y47t",
+  "snapshot_id": "AAAAAKGyOUgYbD8k0cqI6IeBLw3tElFr",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:38",
+      "album": {
+        "name": "hollyweird",
+        "url": "https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "duration_ms": 320679,
+      "name": "hollyweird",
+      "url": "https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y"
+    },
+    {
+      "added_at": "2026-02-20 05:00:38",
+      "album": {
+        "name": "Lawns",
+        "url": "https://open.spotify.com/album/32aTGZfiVQIGZkOva4qTaz"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "Lawns",
+      "url": "https://open.spotify.com/track/7fqoP4zNxRxJGOnWMMSsbv"
+    },
+    {
+      "added_at": "2026-02-20 05:00:38",
+      "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 130532,
+      "name": "play (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq"
+    },
+    {
+      "added_at": "2026-02-20 05:00:38",
+      "album": {
+        "name": "Body Flows",
+        "url": "https://open.spotify.com/album/1IPUqYUEmBsnKABRdjpAzk"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Body Flows",
+      "url": "https://open.spotify.com/track/7upfL0aBLyS0Et87s2dhP0"
+    },
     {
       "added_at": "2026-02-13 05:34:15",
       "album": {
@@ -104,12 +176,12 @@
           "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
         },
         {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        },
-        {
           "name": "Terri Lyne Carrington",
           "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
         }
       ],
       "duration_ms": 352986,
@@ -1005,22 +1077,6 @@
       "url": "https://open.spotify.com/track/0QqUHWMLAdlWg7Znj7Il5n"
     },
     {
-      "added_at": "2025-06-13 04:00:47",
-      "album": {
-        "name": "Gadabout Season",
-        "url": "https://open.spotify.com/album/372tUB50Rip4brrZdUELBQ"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        }
-      ],
-      "duration_ms": 295821,
-      "name": "BBL",
-      "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
-    },
-    {
       "added_at": "2025-07-14 00:04:48",
       "album": {
         "name": "Other Worlds And Habitats",
@@ -1469,34 +1525,6 @@
       "url": "https://open.spotify.com/track/7wS7nAElI8Ju0MKrphRI9W"
     },
     {
-      "added_at": "2025-07-14 00:04:48",
-      "album": {
-        "name": "Life Lessons",
-        "url": "https://open.spotify.com/album/5umlnOLijmNTnpUpmwFV8b"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        },
-        {
-          "name": "Dale Bruning",
-          "url": "https://open.spotify.com/artist/5P4yuRXGXvpmkDzcIikF9u"
-        },
-        {
-          "name": "Nick Forster",
-          "url": "https://open.spotify.com/artist/1dzljRFpEm5yZvL0EIKsY8"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Bonita's Place",
-      "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
-    },
-    {
       "added_at": "2025-08-01 04:00:35",
       "album": {
         "name": "Getting Along",
@@ -1515,22 +1543,6 @@
       "duration_ms": 215964,
       "name": "Getting Along",
       "url": "https://open.spotify.com/track/64UwHxn7CUVj0mBqnirbxy"
-    },
-    {
-      "added_at": "2025-07-14 00:04:48",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/17iTtXH2NvxgYUj2VV6PDV"
-      },
-      "artists": [
-        {
-          "name": "Sam Levine",
-          "url": "https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M"
-        }
-      ],
-      "duration_ms": 255480,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0maP9hHUwdSArRsD3EI76E"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -1811,38 +1823,6 @@
       "duration_ms": 330149,
       "name": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
       "url": "https://open.spotify.com/track/4D8MhjN6X8cHwSZGtLIXw8"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Words Fall Short",
-        "url": "https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Skylar Tang",
-          "url": "https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl"
-        },
-        {
-          "name": "Paul Cornish",
-          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
-        },
-        {
-          "name": "Philip Norris",
-          "url": "https://open.spotify.com/artist/2im20up8riHLPljFBfanoV"
-        },
-        {
-          "name": "Nazir Ebo",
-          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
-        }
-      ],
-      "duration_ms": 384243,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
       "added_at": "2025-11-07 16:37:26",

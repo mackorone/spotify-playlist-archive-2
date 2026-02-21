@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Madeon \\m/
+> Rock with a Drop\. Cover: Rezz \\m/
 
-536 songs - 1 day 6 hr 8 min
+537 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Chosen Ones](https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [Chosen Ones](https://open.spotify.com/album/14XpCCBsBoPu2heUgB5EQs) | 3:22 | 2021-12-10 | 2022-03-15 |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-09 | 2024-12-04 |
 | [Circlepit](https://open.spotify.com/track/3faxKIi1bRhjiQ5HzYK7bH) | [Waxteeth](https://open.spotify.com/artist/5O8JcrrpH0m0bKVquLKJAM) | [Circlepit](https://open.spotify.com/album/2UyXCdcO8vH2B7tWC0zbcJ) | 2:48 | 2025-02-28 | 2025-07-19 |
+| [Circuit](https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Limbo Slice](https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d) | [Circuit](https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE) | 3:25 | 2026-02-20 |  |
 | [City of Angels](https://open.spotify.com/track/7puNbyB05EeQtuECaar90v) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [City of Angels](https://open.spotify.com/album/32BE5k6jCYrxWE5ht9Rscb) | 2:50 | 2025-12-19 |  |
 | [Clone](https://open.spotify.com/track/3x7WKt5WBa0oOPaPB93Zwv) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Clone](https://open.spotify.com/album/2JxpatA9qcbA6d2znDuk2s) | 4:14 | 2022-02-25 | 2022-06-25 |
 | [Close to Closure](https://open.spotify.com/track/4qqIyZy6MEvZB3pmPQlcCH) | [CADMIUM](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Shawn O'Donnell](https://open.spotify.com/artist/5SSyuK39LCZxykzimAXYQU) | [Close to Closure](https://open.spotify.com/album/4cXQkpuZkLsztngL32AQg7) | 3:36 | 2025-08-01 |  |
@@ -160,7 +161,7 @@
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-06-24 | 2024-04-19 |
 | [Emotion Sickness](https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Emotion Sickness](https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe) | 3:22 | 2022-02-18 | 2022-08-03 |
 | [Encore](https://open.spotify.com/track/7ejjJcMFi1drs5Iy6xiAn2) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Encore](https://open.spotify.com/album/7DHtNFKiPvXOIAt7wkTzdb) | 2:54 | 2025-07-18 |  |
-| [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 | 2023-02-17 |  |
+| [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 | 2023-02-17 | 2026-02-21 |
 | [Enemy Brain](https://open.spotify.com/track/225lMWq2wtUmUeETswWKu8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain](https://open.spotify.com/album/2Gi7K1ROVbpnF4kP19TWMT) | 4:11 | 2022-07-08 | 2023-02-21 |
 | [Enemy VIP \(with Shane Told of Silverstein\)](https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Enemy VIP \(with Shane Told of Silverstein\)](https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G) | 3:18 | 2021-12-10 | 2023-01-22 |
 | [Energy](https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Energy](https://open.spotify.com/album/3LnyoZtjl0R0Xiwqgn61za) | 4:04 | 2024-12-20 | 2025-05-31 |

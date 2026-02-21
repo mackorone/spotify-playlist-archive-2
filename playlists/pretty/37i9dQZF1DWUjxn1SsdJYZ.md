@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Miss Kaninna
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,468 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,487 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 14 | [HIYA](https://open.spotify.com/track/3gS8kc8bloDNOfHY0m9bHL) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [HIYA](https://open.spotify.com/album/6E5uQyjOoX1MMZZACNoGBu) | 2:08 |
 | 15 | [UNSTOPPABLE](https://open.spotify.com/track/5ROYSS4Y1nt3Ey8Y5WnmVS) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [UNSTOPPABLE](https://open.spotify.com/album/0rM7IHPsdrnn5V3QcGDcBS) | 2:11 |
 | 16 | [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 |
-| 17 | [Good for Nothing \- Single Version](https://open.spotify.com/track/7dHhOqDWXb4AWi9a3TXxOn) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Good for Nothing](https://open.spotify.com/album/3rqF3UZr31VlrG6J5uywM9) | 3:30 |
+| 17 | [Good for Nothing](https://open.spotify.com/track/7dHhOqDWXb4AWi9a3TXxOn) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Good for Nothing](https://open.spotify.com/album/3rqF3UZr31VlrG6J5uywM9) | 3:30 |
 | 18 | [GHETTO KID](https://open.spotify.com/track/3KBv8LwIbRX8sRdQSl9gPB) | [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [GHETTO KID](https://open.spotify.com/album/16VlabAWWevKo1cWfxjSNI) | 2:23 |
 | 19 | [purr](https://open.spotify.com/track/5WKEBmDB1Fxgfrodra8MkI) | [leecerti](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [purr](https://open.spotify.com/album/6BoSFktsADncIRfBD7vrAz) | 1:57 |
 | 20 | [Dream](https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo) | [Dem Mob](https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM) | [Dream](https://open.spotify.com/album/5fQz8UwxTyfui4vH6ymIqo) | 3:02 |

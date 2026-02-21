@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Dalex en portada",
+  "description": "Shawty lo que necesitas es darle flow. Tainy, Rauw Alejandro, y JHAYCO en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 143236,
       "name": "Baila Para Mi",
       "url": "https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 158474,
       "name": "BLANQUITA PERLA",
       "url": "https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct"
@@ -4811,7 +4811,7 @@
     },
     {
       "album": {
-        "name": "Dios los Bendiga (feat. Tito El Bambino)",
+        "name": "Dios los Bendiga",
         "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
       },
       "artists": [
@@ -4828,7 +4828,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136956,
-      "name": "Dios los Bendiga (feat. Tito El Bambino)",
+      "name": "Dios los Bendiga",
       "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
     },
     {
@@ -6706,6 +6706,28 @@
       "duration_ms": 233099,
       "name": "FLOWHOT (feat. Arc\u00e1ngel, De La Ghetto, Randy)",
       "url": "https://open.spotify.com/track/2YIHqGG1ZFkOf63EFfDlPV"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
       "album": {
@@ -16320,6 +16342,32 @@
       "duration_ms": 393103,
       "name": "Romperte (feat. Brray, Juanka & Nio Garcia) - Remix",
       "url": "https://open.spotify.com/track/2zAjYhUMZ833CvbDeE6aSf"
+    },
+    {
+      "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-71 songs - 3 hr 21 min
+72 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 | 2025-10-17 |  |
 | [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-10-17 | 2025-11-12 |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2025-10-17 |  |
+| [Ishq](https://open.spotify.com/track/3ps4IwLgRYDcqxbH2KjBk1) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Ishq](https://open.spotify.com/album/1uqcoGMKtezQLVCWFUn2aG) | 2:00 | 2026-02-20 |  |
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 |  |
 | [Jinniyan](https://open.spotify.com/track/46TlSsFIAtUmaNKpPUQaIE) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Jinniyan](https://open.spotify.com/album/7pJ7siqSx1vj04RZqv9gaz) | 3:18 | 2025-10-17 | 2025-11-04 |
 | [Kaatilana](https://open.spotify.com/track/4gAYB5yzeYrQ0jz13FmFOV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Kaatilana](https://open.spotify.com/album/0nBHaOa8XXkIB0e3YAYnxf) | 3:12 | 2025-11-24 |  |
@@ -48,7 +49,7 @@
 | [Kina Chir](https://open.spotify.com/track/2jrKt7TeBeDtmLBZ3grQQj) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/5NItYzWWEkAU380h80suCw) | 3:36 | 2025-10-17 |  |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2025-10-17 |  |
 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 | 2025-10-17 |  |
-| [Lagda Na Dil](https://open.spotify.com/track/7Fjl2QuvHWjNofOZGpHNMe) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [Lagda Na Dil](https://open.spotify.com/album/1lFY6bcXn6qTK7e7BBJF4N) | 3:06 | 2025-11-25 |  |
+| [Lagda Na Dil](https://open.spotify.com/track/7Fjl2QuvHWjNofOZGpHNMe) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [Lagda Na Dil](https://open.spotify.com/album/1lFY6bcXn6qTK7e7BBJF4N) | 3:06 | 2025-11-25 | 2026-02-21 |
 | [Lor Lor](https://open.spotify.com/track/0UVcAOt6NMxYQ24zD66XKk) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Lor Lor](https://open.spotify.com/album/4zqRJG3ls1lWXULHc712bw) | 2:59 | 2025-10-17 |  |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2025-10-17 |  |
 | [Miss Me with That](https://open.spotify.com/track/6tzJGrQ9MeRs5IPZo9WwZd) | [Push Kahlon](https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Miss Me with That](https://open.spotify.com/album/5b9dzTABt4vF16mNM8ZHQR) | 2:58 | 2026-01-14 |  |

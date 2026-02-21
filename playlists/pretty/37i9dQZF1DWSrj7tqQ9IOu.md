@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Heroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,730 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,714 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [Hors du temps \(Feat\. Bomel & Jade Mansion\)](https://open.spotify.com/track/3vOTwE2WWQWmsPMSmqDNSL) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Blue Jeans \(Deluxe\)](https://open.spotify.com/album/45aRY29EwSt5YwXIvUcblX) | 3:08 |
 | 12 | [HÂTE DE VIVRE](https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v) | [Dajak](https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh) | [SOLAR STEREO](https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed) | 5:25 |
 | 13 | [surfeur](https://open.spotify.com/track/3tnZeBwja2XTIcNqryAVFK) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [on s'en rappellera pas](https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5) | 2:48 |
-| 14 | [Track 7](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 |
 | 15 | [Appel de détresse](https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs), [poissonchat](https://open.spotify.com/artist/064Ut5t9PvMeuGfKiprmZA) | [Appel de détresse](https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT) | 2:36 |
 | 16 | [No Dawn To Wake](https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [No Dawn To Wake](https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR) | 3:00 |
 | 17 | [Est\-ce que ça vaut la peine ?](https://open.spotify.com/track/0o3M448avTpOtZk8Hp2xEY) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Est\-ce que ça vaut la peine ?](https://open.spotify.com/album/3wBGjgh4JyfwDFkcYBCONY) | 3:18 |

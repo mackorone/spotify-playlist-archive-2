@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Weekly update for Indie releases. Cover: \u00c3o",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Lum\u00ef",
   "name": "Indie Update",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 315000,
       "name": "Anna Karenina",
       "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
@@ -1267,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "album": {
         "name": "Bark",
         "url": "https://open.spotify.com/album/5x3TAHhEQoDNsNu2onC5mn"
       },
@@ -1303,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "BB II",
+        "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
+      },
+      "artists": [
+        {
+          "name": "The Feather",
+          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
+        },
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203374,
+      "name": "BB II",
+      "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
+    },
+    {
+      "album": {
         "name": "patching",
         "url": "https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR"
       },
@@ -1336,6 +1380,24 @@
       "duration_ms": 263960,
       "name": "Beekeeping",
       "url": "https://open.spotify.com/track/2AxK0NAXg7kJPdHr5We5cW"
+    },
+    {
+      "album": {
+        "name": "BEHIND",
+        "url": "https://open.spotify.com/album/2vcVTZjLzl9D3NgPZBgY3G"
+      },
+      "artists": [
+        {
+          "name": "stardog",
+          "url": "https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "BEHIND",
+      "url": "https://open.spotify.com/track/0Mb92E96bTUQlXkN05sR8W"
     },
     {
       "album": {
@@ -3600,7 +3662,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 162266,
       "name": "Etna",
       "url": "https://open.spotify.com/track/5uiHSIXQr88vlfPPditJMJ"
@@ -4552,7 +4614,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 222750,
       "name": "Goodbye Utopia",
       "url": "https://open.spotify.com/track/4ShHg8ydhhK2d3xcsnvDLf"
@@ -4672,6 +4734,24 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222324,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
     },
     {
       "album": {
@@ -5502,6 +5582,28 @@
       "duration_ms": 161926,
       "name": "I've known you for way too long",
       "url": "https://open.spotify.com/track/0TXYT75cFLwLAq9DCpSa6W"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Icarus (with Gigi Perez)",
+      "url": "https://open.spotify.com/track/5JHbJWAt56lUXP70gEeBRv"
     },
     {
       "album": {
@@ -7172,7 +7274,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 221000,
       "name": "Maybe When I'm Ready",
       "url": "https://open.spotify.com/track/7obdksarukkPPOZWnKpkUs"
@@ -9217,6 +9319,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4Cx63F8wnPWtYuWCckeXal"
+      },
+      "artists": [
+        {
+          "name": "Honey I'm Home",
+          "url": "https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF"
+    },
+    {
+      "album": {
         "name": "TASTE",
         "url": "https://open.spotify.com/album/5y1uvx7D6w53va4miNpuNy"
       },
@@ -9412,6 +9532,28 @@
       "duration_ms": 182485,
       "name": "Real Love - soft version",
       "url": "https://open.spotify.com/track/64ozqpB6L2aB7tqWXxTtu5"
+    },
+    {
+      "album": {
+        "name": "Real Person",
+        "url": "https://open.spotify.com/album/4KNlDF7AddgqmUo9GgQJME"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143507,
+      "name": "Real Person",
+      "url": "https://open.spotify.com/track/7Hz8l2gEtTDvvNksN2gIHb"
     },
     {
       "album": {
@@ -9798,7 +9940,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
@@ -10354,6 +10496,24 @@
       "duration_ms": 244591,
       "name": "Sisters With Me",
       "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+    },
+    {
+      "album": {
+        "name": "Speak Softly",
+        "url": "https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Six Missed Calls",
+      "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
     },
     {
       "album": {
@@ -11064,7 +11224,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 268886,
       "name": "Sympathy Magic",
       "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
@@ -11754,7 +11914,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 207900,
       "name": "The Future Is Cancelled",
       "url": "https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0"
@@ -13098,7 +13258,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 189853,
       "name": "Where's My Phone?",
       "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"

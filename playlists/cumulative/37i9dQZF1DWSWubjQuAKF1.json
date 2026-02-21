@@ -7583,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Nie ma czasu",
+        "url": "https://open.spotify.com/album/6tIqyEeQrXzZTvAeR7eDH0"
+      },
+      "artists": [
+        {
+          "name": "Stach Bukowski",
+          "url": "https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185685,
+      "name": "Nie ma czasu",
+      "url": "https://open.spotify.com/track/5jg0d2Vi5B9wMqRD6ELLIm"
+    },
+    {
+      "album": {
         "name": "nie ma sprawy",
         "url": "https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0"
       },
@@ -10872,7 +10890,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 199149,
       "name": "Spok\u00f3j",
       "url": "https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq"

@@ -4827,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "Sweet Heart Sugar Love",
+        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237859,
+      "name": "In Numbers",
+      "url": "https://open.spotify.com/track/5o7D67sy3DZHqT2lNkuOmh"
+    },
+    {
+      "album": {
         "name": "In the Morning",
         "url": "https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu"
       },
@@ -10416,6 +10434,24 @@
       "duration_ms": 188589,
       "name": "This World Can Wait",
       "url": "https://open.spotify.com/track/0yFCbNI02sCBbSSr5O7mer"
+    },
+    {
+      "album": {
+        "name": "Sweet Heart Sugar Love",
+        "url": "https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173361,
+      "name": "Three Four",
+      "url": "https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm"
     },
     {
       "album": {

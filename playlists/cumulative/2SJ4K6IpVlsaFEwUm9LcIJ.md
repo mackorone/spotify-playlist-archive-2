@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-920 songs - 2 day 7 hr 22 min
+921 songs - 2 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [I Saw the Light in Your Eyes](https://open.spotify.com/track/4LFiuN0XUpFRl238WIMpBS) | [Stan Barber](https://open.spotify.com/artist/54ov3BfcQksEDXcICQE37R) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 2:25 | 2025-09-25 | 2025-11-15 |
 | [I Say You Hello](https://open.spotify.com/track/7aSpW1knXzGUlN1UZO4JLS) | [Autumn](https://open.spotify.com/artist/7mdh9mziYyoyx5akHNGFte) | [Not Afraid to Die](https://open.spotify.com/album/71la4b5wxQnCc59LSyYOJ8) | 5:31 | 2025-03-01 | 2025-05-09 |
 | [I Wanna Be On Your Mind](https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Scheduled Explosions](https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf) | 2:28 | 2024-12-09 | 2025-01-12 |
+| [I Wish That We Were Married](https://open.spotify.com/track/2G3QuwTpQOe4i0JyMu47N3) | [Ronnie And The Hi\-Lites](https://open.spotify.com/artist/64NBWzoBYRleutVJjDfpkT) | [I Wish That We Were Married](https://open.spotify.com/album/3RbuK4PlaTUDNjWHhD1X3u) | 2:52 | 2026-02-20 |  |
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 | 2024-11-14 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
 | [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 | 2025-05-19 | 2025-07-04 |

@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: VARLEY
 
-2,495 songs - 5 day 23 hr 26 min
+2,497 songs - 5 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,6 +987,7 @@
 | [Hundred Or More](https://open.spotify.com/track/6dDVDdhK0cxYrhUykOIGuV) | [Leyya](https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl) | [Half Asleep](https://open.spotify.com/album/3gKCvi3wtUyenIZ6pJY4QU) | 2:51 | 2024-08-29 | 2024-09-13 |
 | [Hung The Moon](https://open.spotify.com/track/21MvPaoP3lEZ8JlULq50Cv) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Hung The Moon](https://open.spotify.com/album/2mZhNcre8K3m9oOke3Kzpt) | 5:28 | 2024-07-11 | 2024-08-09 |
 | [HURRICANE](https://open.spotify.com/track/4GXHx58QSO2kvDe1T73Wbv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [HURRICANE](https://open.spotify.com/album/3n7tr6aXcnufwhVg7vNDMu) | 3:52 | 2025-03-20 | 2025-04-04 |
+| [Hurts Like You](https://open.spotify.com/track/2XijepXvzLeDijry83w0AV) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK), [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Hurts Like You \(feat\. GOODWIN\)](https://open.spotify.com/album/32T3xjLmZmQAxIR3RXwHKc) | 2:56 | 2026-02-20 |  |
 | [Hurts, Don't It?](https://open.spotify.com/track/2XsRy94e34Nc5WBqfvx3rv) | [Super Cassette](https://open.spotify.com/artist/192f9MIvyAOXrAXV4k4pXL) | [Hurts, Don't It?](https://open.spotify.com/album/0u63i2luFVHESBxKS364OZ) | 3:54 | 2025-06-05 | 2025-06-27 |
 | [Hush](https://open.spotify.com/track/5d367xvZxdp7wNbnXnIoEs) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Hush](https://open.spotify.com/album/4G3cUO5CtIPq8JibFvVkgp) | 2:59 | 2026-01-15 | 2026-01-24 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 | 2024-09-27 |
@@ -2118,7 +2119,7 @@
 | [The Daylight](https://open.spotify.com/track/1SEyzOqT4QUpzi8QnFafV5) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Daylight](https://open.spotify.com/album/3a5WGvtwbuNhGnUCrP3Ln6) | 3:47 | 2025-07-17 | 2025-08-15 |
 | [The Diary of a Recovering Cynic](https://open.spotify.com/track/4jiLqrDad9itEFphC30MI1) | [The Romantidote](https://open.spotify.com/artist/2t3sRKKQY5IOo3EVrkPrsI) | [The Diary Of A Recovering Cynic](https://open.spotify.com/album/5anD0wMYv4O2hrdSOt4G0m) | 3:07 | 2024-11-28 | 2025-01-10 |
 | [The Dove](https://open.spotify.com/track/3nw8CKkiJiJ7KOPyVBxMnP) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [The Dove](https://open.spotify.com/album/5NtAuhLEJap9r2qcGYR9R2) | 4:11 | 2025-02-27 | 2025-03-14 |
-| [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [](https://open.spotify.com/album/null) | 6:27 | 2026-02-19 |  |
+| [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 | 2026-02-19 |  |
 | [The Edge](https://open.spotify.com/track/4VUTrfsv4CPP9AwVLpyJEg) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [The Edge](https://open.spotify.com/album/1tXZYS2ULrdoOVFq98q36m) | 3:34 | 2024-07-18 | 2024-08-16 |
 | [The End](https://open.spotify.com/track/6FQkdsq9WhJfvZ1a9q9L1V) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The End](https://open.spotify.com/album/0vt1zp6iD9ygle6lY9TvQF) | 8:08 | 2024-11-07 | 2024-12-06 |
 | [The End Can Be As Good As The Start](https://open.spotify.com/track/2kfKjjShtQY5tzF1ZNrbXh) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [The End Can Be As Good As The Start](https://open.spotify.com/album/2wQsDRsgB5wfvQZxleDvPm) | 3:28 | 2024-07-11 | 2024-08-09 |
@@ -2156,7 +2157,7 @@
 | [THE MOUNTAIN](https://open.spotify.com/track/6yP85KHQeUPz7X8fuk1rjT) | [POULISH KID](https://open.spotify.com/artist/0QmhnPd2X1uWNbshpC5PHH) | [THE MOUNTAIN](https://open.spotify.com/album/6mLBkgVzkCIYlP9b8WCLSh) | 2:27 | 2025-06-05 | 2025-06-13 |
 | [The News](https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [The News](https://open.spotify.com/album/7oRiVvp56YY3YrWn1gWFOp) | 3:45 | 2025-11-20 | 2026-01-15 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-02-28 |
-| [The Observer](https://open.spotify.com/track/4r7ogSSIUtgYTUUqgSh3qi) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Sirens](https://open.spotify.com/album/0awPQsQ61cRzIPK39HoMgY) | 3:27 | 2026-02-05 |  |
+| [The Observer](https://open.spotify.com/track/4r7ogSSIUtgYTUUqgSh3qi) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Sirens](https://open.spotify.com/album/0awPQsQ61cRzIPK39HoMgY) | 3:27 | 2026-02-05 | 2026-02-21 |
 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 | 2026-01-08 | 2026-01-23 |
 | [The Other](https://open.spotify.com/track/5TzYHoerPmKCHgYj8k2lb6) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [The Other](https://open.spotify.com/album/7uPReUvMLrnRPxtGnvANSu) | 3:42 | 2025-11-20 | 2026-01-15 |
 | [The Other Side](https://open.spotify.com/track/4XQ3KhcNJ1FYTVMb4honlK) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Other Side](https://open.spotify.com/album/1HuOAu4VK1usRAUcip0WhY) | 3:18 | 2024-09-26 | 2024-10-11 |
@@ -2253,6 +2254,7 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
+| [Track 8](https://open.spotify.com/track/2tV5OHJ87RiiROZwFGRpmh) | [Lone Assembly](https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-20 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
@@ -2293,7 +2295,7 @@
 | [Unsolicited Advice](https://open.spotify.com/track/0RS53BgvT2LgYaSJf0ZDt7) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Unsolicited Advice](https://open.spotify.com/album/4frfXlW2dyUxrtCPyBXGIh) | 2:49 | 2025-03-06 | 2025-03-28 |
 | [Unsterblich](https://open.spotify.com/track/3ZmI6XBf3Yg0wowTHMhuHL) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Unsterblich](https://open.spotify.com/album/7bdHOPt3l05S79rj1Yrie5) | 3:26 | 2025-07-24 | 2025-08-09 |
 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 | 2024-06-28 | 2024-07-19 |
-| [UNTITLED 1981](https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [UNTITLED 1981](https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0) | 3:07 | 2026-02-05 |  |
+| [UNTITLED 1981](https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [UNTITLED 1981](https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0) | 3:07 | 2026-02-05 | 2026-02-21 |
 | [Uppercut](https://open.spotify.com/track/33DPox49mCFuR0FcJa0gPD) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Uppercut](https://open.spotify.com/album/3AddseOdhkVmWhe4aGf4C4) | 3:09 | 2025-05-15 | 2025-06-13 |
 | [Upstairs](https://open.spotify.com/track/2NOqmL7HRSm4FwpwKMuRZL) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Upstairs](https://open.spotify.com/album/21GM9mt6zL9t2qcCkTIBk3) | 3:39 | 2025-11-27 | 2026-01-16 |
 | [V.I.S.](https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [V.I.S.](https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd) | 3:45 | 2025-04-24 | 2025-05-23 |

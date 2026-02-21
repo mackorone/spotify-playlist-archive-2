@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover:  TAVE & Tia Gordon",
-  "num_followers": 611822,
+  "description": "Stripped back vibes. Cover:  Ana\u00efs Cardot",
+  "num_followers": 611824,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRyaducbJQYdwLv75kbb716BQRy",
+  "snapshot_id": "AAAAAIqJZksx4qEZzESLa2qKDzKCVlm2",
   "tracks": [
+    {
+      "added_at": "2026-02-20 06:11:11",
+      "album": {
+        "name": "3am in Paris",
+        "url": "https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "3am in Paris",
+      "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
+    },
     {
       "added_at": "2025-12-12 05:00:42",
       "album": {

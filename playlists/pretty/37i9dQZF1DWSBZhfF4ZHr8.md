@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Zaho & MC Solaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,960 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,004 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 20 | [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 |
 | 21 | [Escroc](https://open.spotify.com/track/01PwAE2RXGcVbYLLqs8HEA) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/0b3I8sj5GBMx1ZxMxInnyv) | 2:56 |
 | 22 | [Au\-dessus des vagues](https://open.spotify.com/track/5X2AiGjrRx5Sv4NglUWJN8) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Au\-dessus des vagues](https://open.spotify.com/album/4CNYmZLtzyd73T3qPv8BE2) | 2:34 |
-| 23 | [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [](https://open.spotify.com/album/null) | 2:42 |
+| 23 | [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 |
 | 24 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 |
 | 25 | [Le chemin](https://open.spotify.com/track/685rfL8VFhymNoVs94AcMY) | [Naumaur](https://open.spotify.com/artist/37p0K11WckJ4GBwSX0lDis) | [Le chemin](https://open.spotify.com/album/0CGsSouLKOJJLxYben8qqY) | 2:45 |
 | 26 | [Dopamine](https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Dopamine](https://open.spotify.com/album/1RL7YvvMwqUDqw0UNTZ37H) | 2:40 |

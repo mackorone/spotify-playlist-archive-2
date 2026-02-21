@@ -33778,7 +33778,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132157,
       "name": "Regning",
       "url": "https://open.spotify.com/track/62Sn5c9h69mJHhLUB4UdqB"
@@ -43724,6 +43724,28 @@
       "duration_ms": 189386,
       "name": "Vi Vokser",
       "url": "https://open.spotify.com/track/5xG3e5C5DOFWQlYFqJanWB"
+    },
+    {
+      "album": {
+        "name": "MGP 2026",
+        "url": "https://open.spotify.com/album/2ajOrEOnrz1jJS1KvVK55S"
+      },
+      "artists": [
+        {
+          "name": "MGP Allstars 2026",
+          "url": "https://open.spotify.com/artist/2GD9ubFxtyAUyCEi8v0WZe"
+        },
+        {
+          "name": "MGP",
+          "url": "https://open.spotify.com/artist/7Gl5Kp9xBBFAH0wNUTAP38"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Vi' F\u00f8rst Lige Begyndt",
+      "url": "https://open.spotify.com/track/4LpncgVy7snsYdEAAvj6QH"
     },
     {
       "album": {

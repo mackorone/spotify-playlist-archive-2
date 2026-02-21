@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: JAS, LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,587 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,551 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 11 | [Herz über Kopf](https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew) | 2:38 |
 | 12 | [Odyssee](https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Odyssee](https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx) | 3:06 |
 | 13 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
-| 14 | [Track 10](https://open.spotify.com/track/3OYZsuAx0PgQSOdgu3neaS) | [Florian Bunke](https://open.spotify.com/artist/1n8bYG9pLuKU9SpAS4F3D4) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Das Leben ruft](https://open.spotify.com/track/3OYZsuAx0PgQSOdgu3neaS) | [Florian Bunke](https://open.spotify.com/artist/1n8bYG9pLuKU9SpAS4F3D4) | [A24](https://open.spotify.com/album/3WLrTHsegftGBd0CpoFWTv) | 2:36 |
 | 15 | [Peter Pan](https://open.spotify.com/track/0FgKVO56B6jXqZ1qCQEcTy) | [NIEMALS](https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y) | [Peter Pan](https://open.spotify.com/album/5w7zO3LXptH8ZzEGY2MLpS) | 2:27 |
 | 16 | [nie wieder so jung](https://open.spotify.com/track/0tsXOM0LALgBgtO1whk7DD) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [nie wieder so jung](https://open.spotify.com/album/4yujL9P445VnK9FqQn6N8W) | 2:21 |
 | 17 | [Wie Du Bist](https://open.spotify.com/track/28ajZtAbEf8OyWzMd4gEfZ) | [CIVAN](https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g) | [Wie Du Bist](https://open.spotify.com/album/7tA88HjuaeEq5pRf8cvo4w) | 2:49 |
-| 18 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [](https://open.spotify.com/album/null) | 2:18 |
+| 18 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 |
 | 19 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
 | 20 | [GEISTERBAHN](https://open.spotify.com/track/5aLJT1xVShap3dPZSMVutG) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [GEISTERBAHN](https://open.spotify.com/album/62zX9f0xNnTHewpq2BjIyf) | 2:18 |
 | 21 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 |

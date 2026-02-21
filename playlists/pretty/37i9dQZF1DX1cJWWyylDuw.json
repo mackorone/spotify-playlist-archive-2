@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Face Yourself",
-  "num_followers": 285372,
+  "num_followers": 285471,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/5qmU7eJyoveXFgvE4xyy27"
-      },
-      "artists": [
-        {
-          "name": "Nasty",
-          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
-        },
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/41Xb3pnU2AiIcWKwdsDOIt"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Lifeblood",
         "url": "https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 257000,
       "name": "Lifeblood",
       "url": "https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/5qmU7eJyoveXFgvE4xyy27"
+      },
+      "artists": [
+        {
+          "name": "Nasty",
+          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
+        },
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/41Xb3pnU2AiIcWKwdsDOIt"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 206857,
-      "name": "NO REVIVES",
-      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Imperium Delirium",
         "url": "https://open.spotify.com/album/73dNfnRABJZt3zIhEifUgv"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 454548,
       "name": "Imperium Delirium",
       "url": "https://open.spotify.com/track/0ykvLQPvtbiiAU3o1XQRYA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP"
+      },
+      "artists": [
+        {
+          "name": "Distinguisher",
+          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Feeding The Meatgrinder",
         "url": "https://open.spotify.com/album/2pgLyZfepSCQjfLcO8D2Y2"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 243099,
       "name": "Feeding The Meatgrinder",
       "url": "https://open.spotify.com/track/74U3CoDKEDulnzpHfvKS8L"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "Without End",
-        "url": "https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP"
-      },
-      "artists": [
-        {
-          "name": "Distinguisher",
-          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Without End",
-      "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Instill",
+        "url": "https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt"
+      },
+      "artists": [
+        {
+          "name": "Humanity's Last Breath",
+          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
+        }
+      ],
+      "duration_ms": 281932,
+      "name": "Instill",
+      "url": "https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Moments of Misery",
         "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
       },
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Instill",
-        "url": "https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt"
-      },
-      "artists": [
-        {
-          "name": "Humanity's Last Breath",
-          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
-        }
-      ],
-      "duration_ms": 281932,
-      "name": "Instill",
-      "url": "https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Keres",
         "url": "https://open.spotify.com/album/1luPoswLxtIRfoZAI4m513"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 216106,
       "name": "Keres",
       "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "A Bloodsoaked Symphony",
         "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
       },
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/1AJs61yQ7CoBqYrReDYSLs"
+      },
+      "artists": [
+        {
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/7rbRaL7XDidZ5E2y93xEl0"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Crossing Nails",
         "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
       },
@@ -1871,26 +1887,6 @@
       "duration_ms": 222928,
       "name": "Crossing Nails",
       "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "snuff.tape",
-        "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
-      },
-      "artists": [
-        {
-          "name": "VCTMS",
-          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
-        },
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "snuff.tape",
-      "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1911,18 +1907,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/1AJs61yQ7CoBqYrReDYSLs"
+        "name": "snuff.tape",
+        "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
       "artists": [
         {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        },
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/7rbRaL7XDidZ5E2y93xEl0"
+      "duration_ms": 219360,
+      "name": "snuff.tape",
+      "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "DEPTHS",
-        "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
-      },
-      "artists": [
-        {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
-        },
-        {
-          "name": "ENEMY 906",
-          "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        }
-      ],
-      "duration_ms": 196431,
-      "name": "DEPTHS",
-      "url": "https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },
@@ -2043,6 +2019,30 @@
       "duration_ms": 174214,
       "name": "kill.me_please",
       "url": "https://open.spotify.com/track/0jfGdeggNXcgvLIv1nHp8j"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "DEPTHS",
+        "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
+      },
+      "artists": [
+        {
+          "name": "SUICIDE MESSIAH",
+          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+        },
+        {
+          "name": "ENEMY 906",
+          "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "duration_ms": 196431,
+      "name": "DEPTHS",
+      "url": "https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Undead Masquerade",
-        "url": "https://open.spotify.com/album/1LYlJF6AFsTIBdKVAkBfm7"
-      },
-      "artists": [
-        {
-          "name": "Enemies Everywhere",
-          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
-        }
-      ],
-      "duration_ms": 257342,
-      "name": "Undead Masquerade",
-      "url": "https://open.spotify.com/track/4BgjjwqCyNlc05n5rpjsfY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Undead Masquerade",
+        "url": "https://open.spotify.com/album/1LYlJF6AFsTIBdKVAkBfm7"
+      },
+      "artists": [
+        {
+          "name": "Enemies Everywhere",
+          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
+        }
+      ],
+      "duration_ms": 257342,
+      "name": "Undead Masquerade",
+      "url": "https://open.spotify.com/track/4BgjjwqCyNlc05n5rpjsfY"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Betrayer",
+        "url": "https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4"
+      },
+      "artists": [
+        {
+          "name": "Obey The Kraken",
+          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Confounder",
         "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
       },
@@ -2263,22 +2279,18 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Befouler (feat. Alex Terrible)",
-        "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
+        "name": "Fractured Will",
+        "url": "https://open.spotify.com/album/5beAtnW30xf56o0OrPiRuC"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Alex Terrible",
-          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
         }
       ],
-      "duration_ms": 223190,
-      "name": "Befouler (feat. Alex Terrible)",
-      "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
+      "duration_ms": 253741,
+      "name": "Dead Rose",
+      "url": "https://open.spotify.com/track/2rJO63oX3KWb8AxlB8CYw8"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2315,18 +2327,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+        "name": "Befouler (feat. Alex Terrible)",
+        "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
       "artists": [
         {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Alex Terrible",
+          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
         }
       ],
-      "duration_ms": 191909,
-      "name": "Dead Pacifist",
-      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+      "duration_ms": 223190,
+      "name": "Befouler (feat. Alex Terrible)",
+      "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2347,18 +2363,34 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Betrayer",
-        "url": "https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4"
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
       },
       "artists": [
         {
-          "name": "Obey The Kraken",
-          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Betrayer",
-      "url": "https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn"
+      "duration_ms": 191909,
+      "name": "Dead Pacifist",
+      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Bullets in My Teeth",
+        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
+      },
+      "artists": [
+        {
+          "name": "Drag Me Out",
+          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bullets in My Teeth",
+      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2375,6 +2407,22 @@
       "duration_ms": 186358,
       "name": "Code of Honor",
       "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Scars Upon Scars",
+        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Scars Upon Scars",
+      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2399,34 +2447,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Bullets in My Teeth",
-        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
       },
       "artists": [
         {
-          "name": "Drag Me Out",
-          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bullets in My Teeth",
-      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "Scars Upon Scars",
-        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
-      },
-      "artists": [
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Scars Upon Scars",
-      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2467,26 +2503,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
-        }
-      ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Revenge In Carnage",
         "url": "https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 147293,
       "name": "Revenge In Carnage",
       "url": "https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "Fractured Will",
-        "url": "https://open.spotify.com/album/5beAtnW30xf56o0OrPiRuC"
-      },
-      "artists": [
-        {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        }
-      ],
-      "duration_ms": 253741,
-      "name": "Dead Rose",
-      "url": "https://open.spotify.com/track/2rJO63oX3KWb8AxlB8CYw8"
     },
     {
       "added_at": "2026-02-13 05:00:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet! Enjoy the \[Tune Up Meets Fresh Finds\] LIVE SET including the voices of them on stage! 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! \[Tune Up Meets Fresh Finds\] 공연의 라이브셋을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 34 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377 likes - 34 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 | 33 | [Ember](https://open.spotify.com/track/0e3royWpDVFXLzJyI8kcz7) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [polarity](https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07) | 3:56 |
 | 34 | [Even though your life makes you suffer](https://open.spotify.com/track/5u6cQKl9RqckL6xGntXsOU) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [TEENS](https://open.spotify.com/album/2fIBmFkOU6Tt1Xs6JHuTGU) | 4:33 |
 
-Snapshot ID: `AAAAAM4efJ8wnvrUDlNMSRAWq1nsxc4K`
+Snapshot ID: `AAAAADFi7olH43gkjsLwU6tP1cmM/sEm`

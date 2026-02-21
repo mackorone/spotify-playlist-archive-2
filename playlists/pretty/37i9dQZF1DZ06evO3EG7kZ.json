@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50808,
+  "num_followers": 50809,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAB54ns0AYxtY/fQsWQQvJxO",
+  "snapshot_id": "aZZSgAAAAAC+wfK08e3XGtxF+FoBfAhz",
   "tracks": [
     {
       "added_at": null,
@@ -60,17 +60,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,
@@ -144,13 +140,17 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "David Barber",
-          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
         }
       ],
-      "duration_ms": 157687,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns"
+      "duration_ms": 96398,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe"
     },
     {
       "added_at": null,

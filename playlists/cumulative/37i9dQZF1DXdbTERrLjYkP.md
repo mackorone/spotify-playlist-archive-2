@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Anna Graves
 
-1,006 songs - 2 day 6 hr 9 min
+1,009 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 | 2025-11-26 |
+| [Basements & Bedrooms](https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP) | [Addie Costain](https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p) | [Basements & Bedrooms](https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK) | 3:38 | 2026-02-20 |  |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
 | [Beach Zombies](https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Beach Zombies](https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym) | 2:37 | 2023-03-03 | 2023-07-01 |
@@ -139,6 +140,7 @@
 | [buffalo](https://open.spotify.com/track/4ujsDQYYnvt4rWSVsQsy7C) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [buffalo](https://open.spotify.com/album/5I01Y9oTVDnSKFSg8T81F4) | 3:18 | 2023-09-18 | 2023-12-14 |
 | [Build a House](https://open.spotify.com/track/3fYFSYL49mkevGDQkjkoFw) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Underbelly](https://open.spotify.com/album/3NyVPWtGDoTM70RDKqjIjF) | 4:45 | 2025-11-07 |  |
 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 | 2024-03-01 | 2024-08-31 |
+| [Bully](https://open.spotify.com/track/6lQKmT1GV7B7cI7ad7gVJF) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Bully](https://open.spotify.com/album/2MKV3r6d67TjABnzNwzNCX) | 3:05 | 2026-02-20 |  |
 | [Bumble Bee](https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Bumble Bee](https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl) | 4:09 | 2022-12-23 | 2023-02-11 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 | 2022-12-24 |
 | [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 | 2023-05-13 |
@@ -211,7 +213,7 @@
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-18 | 2025-01-18 |
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-08-27 |
 | [cycles](https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [cycles](https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz) | 2:28 | 2026-02-06 |  |
-| [Cynthia](https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Cynthia](https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI) | 3:46 | 2025-11-14 |  |
+| [Cynthia](https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Cynthia](https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI) | 3:46 | 2025-11-14 | 2026-02-21 |
 | [Damsel, Damsel](https://open.spotify.com/track/6WOqh8mXdFRGrlSnvRAfHi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Damsel, Damsel](https://open.spotify.com/album/4hLyyEEq15GsBO8yMMLvwJ) | 3:53 | 2025-05-23 | 2025-08-09 |
 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 | 2023-09-29 | 2024-01-20 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-10 | 2023-11-11 |
@@ -617,7 +619,7 @@
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-09 | 2024-08-17 |
 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 | 2023-05-05 | 2023-11-11 |
 | [Minor Inconveniences](https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Minor Inconveniences](https://open.spotify.com/album/0hy2RxRbnzbs9eTgqIEhd0) | 2:32 | 2025-01-24 | 2025-02-01 |
-| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 |  |
+| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 | 2026-02-21 |
 | [Molly, I'm Coming Around](https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Molly, I’m Coming Around](https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI) | 2:41 | 2024-09-06 | 2025-01-18 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
@@ -786,6 +788,7 @@
 | [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 | 2024-01-19 | 2024-07-06 |
 | [Sky Up](https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Sky Up](https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9) | 3:36 | 2024-01-19 | 2024-08-17 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
+| [Sleep Tonight](https://open.spotify.com/track/3KUZ67LJ8PBbffnGaDrKt4) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Sleep Tonight](https://open.spotify.com/album/7c5FhkKBJQvskeVGa1d5vY) | 3:28 | 2026-02-20 |  |
 | [Sleeping with the Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 | 2025-09-26 |  |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 | 2022-12-24 |
@@ -832,7 +835,7 @@
 | [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 | 2023-10-06 | 2024-01-27 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2022-01-14 | 2022-02-19 |
-| [Struggle Bus](https://open.spotify.com/track/7rliwqjbmK8JOFZOHYcQvv) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Struggle Bus](https://open.spotify.com/album/5o1IL5QWTnJ1oOAVBsy9av) | 3:20 | 2026-01-16 |  |
+| [Struggle Bus](https://open.spotify.com/track/7rliwqjbmK8JOFZOHYcQvv) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Struggle Bus](https://open.spotify.com/album/5o1IL5QWTnJ1oOAVBsy9av) | 3:20 | 2026-01-16 | 2026-02-21 |
 | [Stuck Up](https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Stuck Up](https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI) | 2:35 | 2024-05-24 | 2024-10-26 |
 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 | 2025-05-09 | 2025-09-27 |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-12 | 2022-11-12 |

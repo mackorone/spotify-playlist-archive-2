@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Comin Round The Mountain",
+        "url": "https://open.spotify.com/album/6e8Mw61xVpsQsxDcxNByC8"
+      },
+      "artists": [
+        {
+          "name": "Martin and Rose Music",
+          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Comin Round The Mountain",
+      "url": "https://open.spotify.com/track/5QHIN7pxBpg0U83IacY0Nv"
+    },
+    {
+      "album": {
         "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
         "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR"

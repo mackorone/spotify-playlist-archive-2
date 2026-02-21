@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-435 songs - 1 day 0 hr 40 min
+437 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cha Cha Cha](https://open.spotify.com/track/17oWRjloW6mAX2O4cGqZO1) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Cha Cha Cha](https://open.spotify.com/album/550Yk0OnVOn7idgi0KC11Z) | 2:53 | 2023-08-18 | 2023-10-07 |
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2021-12-24 | 2023-04-20 |
 | [Cicactrices](https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [La Casa De La Cumbia vol.1](https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi) | 3:24 | 2025-09-19 |  |
-| [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2021-12-24 |  |
+| [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2021-12-24 | 2026-02-21 |
 | [Como Duele](https://open.spotify.com/track/6TVDxCfu42HRyqg8l7zb83) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Como Duele](https://open.spotify.com/album/1bcW10YPngWiOyatIHUOg1) | 4:07 | 2021-12-24 | 2022-01-29 |
 | [Como Hacer](https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Amarte](https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k) | 4:53 | 2021-12-24 | 2024-01-20 |
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
@@ -329,7 +329,7 @@
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 | 2023-09-09 |
 | [Roto](https://open.spotify.com/track/5SInsDoEw0bovpyJnVWfF8) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Roto](https://open.spotify.com/album/7nWdrfnpgCMWK4PoJdFvHn) | 3:40 | 2022-10-28 | 2023-07-29 |
 | [Sabrosón](https://open.spotify.com/track/5qcW5UQBIsVdudxjWILt8s) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:54 | 2022-10-28 | 2022-11-13 |
-| [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2021-12-24 |  |
+| [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2021-12-24 | 2026-02-21 |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 | 2024-04-19 |
 | [Saca La Casa Pal Mambo](https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Saca La Casa Pal Mambo](https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG) | 2:42 | 2022-09-09 | 2022-11-19 |
 | [Se hace difícil](https://open.spotify.com/track/28GLgS7PihoETCXc2eIRvv) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Se hace difícil](https://open.spotify.com/album/3mvSICdoiy9DU6tfE3B9l0) | 3:28 | 2025-11-21 |  |
@@ -358,6 +358,7 @@
 | [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2024-11-12 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2021-12-24 | 2025-01-18 |
 | [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 | 2022-01-07 | 2023-02-11 |
+| [Tan Difícil](https://open.spotify.com/track/1H53Jd1J6SVUyuQFN5qhx2) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Tan Difícil](https://open.spotify.com/album/5rr85OTSE3DoFpqhVpF9Tu) | 3:19 | 2026-02-20 |  |
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-10 |  |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2025-07-11 |  |
 | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/track/5fPwHCqTQMOZmu25WrfRFD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/album/2t64H3SSk5ruWYOzJJap1j) | 3:23 | 2022-02-11 | 2022-06-11 |
@@ -430,6 +431,7 @@
 | [Ya Sera Tarde](https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ya Sera Tarde](https://open.spotify.com/album/6jiWZxtBjLgknEKGJAeVCR) | 3:40 | 2024-05-24 | 2024-10-05 |
 | [Ya Verás](https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Ya Verás](https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E) | 3:27 | 2023-03-31 | 2023-05-13 |
 | [Yo Me Lo Busqué](https://open.spotify.com/track/1pDQSuzM9i7dgi5GKD5qJI) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/4Mca9dy70yjLL1p79ItASf) | 2:40 | 2025-01-17 | 2025-05-06 |
+| [Yo No Te Pido](https://open.spotify.com/track/4KLnX1RkeUQubEPzkjojqn) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Yo No Te Pido](https://open.spotify.com/album/1DMtGm75109X7iGZePbqwF) | 3:22 | 2026-02-20 |  |
 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 | 2022-07-15 | 2022-08-27 |
 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 | 2021-12-24 | 2025-12-11 |
 | [Yo Te Quiero](https://open.spotify.com/track/3ogRdwXNsRj7yYp6pQHIon) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Yo Te Quiero](https://open.spotify.com/album/7FsltKZuJw6Lbd1t8eRcwp) | 3:35 | 2024-11-01 | 2025-02-07 |

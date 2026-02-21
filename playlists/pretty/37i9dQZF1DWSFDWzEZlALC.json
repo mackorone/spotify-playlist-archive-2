@@ -1,6 +1,6 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: herbst",
-  "num_followers": 462318,
+  "num_followers": 462500,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
@@ -27,17 +27,25 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "listen carefully",
+        "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
       },
       "artists": [
         {
           "name": "$OHO BANI",
           "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 166666,
+      "name": "Song 11 ft Provinz",
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
     },
     {
@@ -243,8 +251,8 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SILHOUETTEN",
+        "url": "https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj"
       },
       "artists": [
         {

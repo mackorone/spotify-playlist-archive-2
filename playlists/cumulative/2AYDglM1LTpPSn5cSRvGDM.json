@@ -2867,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/10gXJZRP7DFbfRBKuPJ390"
+      },
+      "artists": [
+        {
+          "name": "Leon Lour",
+          "url": "https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247441,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/1fRYcCJPvF4mAIEZ310WM3"
+    },
+    {
+      "album": {
         "name": "No Place To Be (Edit)",
         "url": "https://open.spotify.com/album/2FmVSofBeMv5draBj0cG2J"
       },
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 196000,
       "name": "With You",
       "url": "https://open.spotify.com/track/4T32wWxm8QDE2GB34CJmUB"

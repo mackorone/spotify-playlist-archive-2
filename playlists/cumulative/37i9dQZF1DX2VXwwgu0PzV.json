@@ -23619,6 +23619,24 @@
     },
     {
       "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/3jhcjfORi7cqNf3E6izq2x"
+      },
+      "artists": [
+        {
+          "name": "Tdooooo",
+          "url": "https://open.spotify.com/artist/0JePZ1mbYZS6koCzQGphiI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178534,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/1wo5KXVinDwmiYjNbnR9Zz"
+    },
+    {
+      "album": {
         "name": "New Chapter",
         "url": "https://open.spotify.com/album/0JwKLvvyqmdYRaKbk7zOe1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 632 songs - 1 day 7 hr 58 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 643 songs - 1 day 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -640,5 +640,16 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 630 | [Right Now](https://open.spotify.com/track/6HgJoRC5XmWIe3hfnevnGA) | [Twaang](https://open.spotify.com/artist/5gzMtn1JiE1dsBjaIr734I) | [Velvet Thunder](https://open.spotify.com/album/48x8POUlN0WaQfNYsSv8HW) | 3:53 |
 | 631 | [EURO](https://open.spotify.com/track/7Md4A37i8QFniECzDrnMW3) | [Zenyo](https://open.spotify.com/artist/07SrHYWONJjsqEPIZtPenC), [RealDusty](https://open.spotify.com/artist/6kzU06WwpaQn4gPIf7IxML) | [EURO](https://open.spotify.com/album/3hwmjBH6064VCPpKwaj0GG) | 2:49 |
 | 632 | [Impares](https://open.spotify.com/track/1IGIRtWcfGRX018V1cWEcz) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Impares](https://open.spotify.com/album/6doLuKHm8W49LFkrnVB9pA) | 3:25 |
+| 633 | [BAD FRIEND](https://open.spotify.com/track/1Kfurs9AgQD9OdpqperWSN) | [Beraud](https://open.spotify.com/artist/2TmqIzdCfu9CGqzbHDiWe0), [Ramencoke](https://open.spotify.com/artist/3cnZbOMBQvutcnPnQIt2Qk) | [BAD FRIEND](https://open.spotify.com/album/7LuvX8WixKK3uIRoU7WMba) | 2:03 |
+| 634 | [Give Me Just a Little Bit](https://open.spotify.com/track/023VWs77Xaoap2iQ5tYZB4) | [Tony Z](https://open.spotify.com/artist/44OiXiN2wAuOyUcC4pKJv3), [Ricky Z](https://open.spotify.com/artist/3K8T8sJ3eoxK2WPVMq3WiR) | [Give Me Just a Little Bit](https://open.spotify.com/album/5NRT0PKsGVLs6oeiSvuNwM) | 4:07 |
+| 635 | [Cosas Por Contar](https://open.spotify.com/track/1v39MmmRbIV7dJ6U5YaXT1) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz), [GELAN RUYDO](https://open.spotify.com/artist/2wgu2IRg2SokxOZQVoJ87J) | [Cosas Por Contar](https://open.spotify.com/album/4tNd4Z2zqDsWbuKKU9t7FU) | 4:15 |
+| 636 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 |
+| 637 | [Greensleeves](https://open.spotify.com/track/0Qm8iZhEMy2BcEB30IFls7) | [VIRTO](https://open.spotify.com/artist/3Ggij62rRtYg1FUEF6DKjz), [Caroline Joy](https://open.spotify.com/artist/0Ix05CCHAG2SnThEr0zaDx) | [Greensleeves](https://open.spotify.com/album/0RFnsnt5xZV967Ren22nMy) | 3:17 |
+| 638 | [PAPER BOY](https://open.spotify.com/track/1jfwghMrkEgBHQJbOavKKk) | [Coberzz](https://open.spotify.com/artist/54tt7fmWEsOOyeZWYc4QXi), [SlimYungMan](https://open.spotify.com/artist/3QaQq3u2X0mPYRitrYYaZ1), [Hardknocks ENT](https://open.spotify.com/artist/2JN33dKvtqTIYXeFxTSIjC) | [PAPER BOY](https://open.spotify.com/album/52GoFPSSFb6HvfUi64zZnz) | 2:40 |
+| 639 | [International Power](https://open.spotify.com/track/1v33ub3y11jhLvy30vKNeI) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [International Power](https://open.spotify.com/album/6tAngFOCxUhqy1aWjK32BP) | 4:38 |
+| 640 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 |
+| 641 | [ALL NIGHT](https://open.spotify.com/track/4Fsj30TJ3n223JHwj8TnPN) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W) | [SHAPESHIFTER: RIM NEBULA](https://open.spotify.com/album/47gqLOJ63J9Cf3kRmp1vXg) | 2:34 |
+| 642 | [Same Room Far Away](https://open.spotify.com/track/3KacxoOcjer5QjDS18TzNK) | [Laika](https://open.spotify.com/artist/4WtczNoRuPSMFAp8F5pYpP) | [Same Room Far Away](https://open.spotify.com/album/5U4XmKLT86l7e1nXgZtTNK) | 2:50 |
+| 643 | [Ready 2 Fight](https://open.spotify.com/track/4dR3qPBdCFOaL93T21mcOl) | [Skilteck](https://open.spotify.com/artist/0kA7YYrQJET0k0b3VHVZ2c), [Mass Mason](https://open.spotify.com/artist/5TjvulS2dmMVJqjCCrXcpB) | [Ready 2 Fight](https://open.spotify.com/album/7DoJY7iZQwAs6ruMpsgOF7) | 3:34 |
 
-Snapshot ID: `AAAa4hpnIl+xSu5XzV2m7WoUYK6V99uV`
+Snapshot ID: `AAAa7VX0cNNd7bjwIePa3YvKIrQlNxsJ`

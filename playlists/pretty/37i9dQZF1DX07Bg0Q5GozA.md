@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: KUOKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,005 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,969 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [Of Joy](https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Of Joy](https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7) | 3:19 |
 | 4 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 5 | [Som time](https://open.spotify.com/track/5hkSZ5nlbq56TGnxrXHyrm) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Som time](https://open.spotify.com/album/1a98e8P2BCVnfG0HUyUiV4) | 2:22 |
-| 6 | [Sound & Friends](https://open.spotify.com/track/4bNuizZ9ggDPHbsa1eMdK9) | [Propellar](https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T) | [](https://open.spotify.com/album/null) | 5:26 |
+| 6 | [Sound & Friends](https://open.spotify.com/track/4bNuizZ9ggDPHbsa1eMdK9) | [Propellar](https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T) | [Sound & Friends](https://open.spotify.com/album/0oyHPTB1siTieIfxShdEgL) | 5:26 |
 | 7 | [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 |
 | 8 | [Orbit](https://open.spotify.com/track/5mkvS4pcwZ9z4PmBhPY77l) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Orbit](https://open.spotify.com/album/22ndlEBAiIq2WuF7kEVdRP) | 3:04 |
 | 9 | [Beatback](https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Beatback](https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU) | 2:19 |

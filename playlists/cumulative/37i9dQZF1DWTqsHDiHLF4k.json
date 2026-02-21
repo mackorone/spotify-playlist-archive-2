@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Death in the Business of Whaling",
+        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309080,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/1oJ2KxSAW1T9UwLJ1I6M7Q"
+    },
+    {
+      "album": {
         "name": "Water's Here In You",
         "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },

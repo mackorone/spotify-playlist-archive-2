@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190437,
       "name": "5 on 8",
       "url": "https://open.spotify.com/track/5sosWkRvWpR4NCbXKuuEPm"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 193893,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/2ZJ1UdxjI9wyfwoJXrePGd"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 314080,
       "name": "Damn",
       "url": "https://open.spotify.com/track/2HPQ7sROFMf0GoXkULuNGB"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 139333,
       "name": "EASY ON ME",
       "url": "https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36"
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
@@ -3068,6 +3068,24 @@
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg"
     },
     {
       "album": {
@@ -3436,6 +3454,28 @@
       "duration_ms": 214692,
       "name": "Float",
       "url": "https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG"
+    },
+    {
+      "album": {
+        "name": "Flowers on the Dash (feat. Tami Neilson)",
+        "url": "https://open.spotify.com/album/7mUj6E7cH1MrznjfHoauMx"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        },
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176940,
+      "name": "Flowers on the Dash (feat. Tami Neilson)",
+      "url": "https://open.spotify.com/track/2zHzf6R7aCNsRH6sJlrYs3"
     },
     {
       "album": {
@@ -3972,7 +4012,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 214273,
       "name": "Goodnight Music City",
       "url": "https://open.spotify.com/track/1alyHUtas5GkJOACZCZOda"
@@ -4590,7 +4630,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 316173,
       "name": "High in Your Apartment",
       "url": "https://open.spotify.com/track/6Hk2dKWzxhTofF98LABmSp"
@@ -5020,7 +5060,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 145587,
       "name": "I Hate To Go Searchin\u2019 Them Bars Again",
       "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
@@ -5594,7 +5634,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 294640,
       "name": "Left Me Behind",
       "url": "https://open.spotify.com/track/2KOm0xOCgBoneUM9WJpZen"
@@ -6012,7 +6052,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197613,
       "name": "MAN",
       "url": "https://open.spotify.com/track/7Gc4KezXjfwriRVp3tPoWz"
@@ -6167,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191970,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
+    },
+    {
+      "album": {
         "name": "Meet You By The River",
         "url": "https://open.spotify.com/album/0r53KvT5NickufXPXgx89O"
       },
@@ -6232,7 +6290,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217422,
       "name": "Message to You",
       "url": "https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE"
@@ -6387,6 +6445,28 @@
     },
     {
       "album": {
+        "name": "My Kinda Woman",
+        "url": "https://open.spotify.com/album/6PEPXsQuUnSLnRZQivMB2k"
+      },
+      "artists": [
+        {
+          "name": "Elijah Scott",
+          "url": "https://open.spotify.com/artist/1KpQ1cGIyjXvRWmxb5MXnE"
+        },
+        {
+          "name": "501Bryze",
+          "url": "https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169833,
+      "name": "My Kinda Woman",
+      "url": "https://open.spotify.com/track/3RYecfP64wvSMpnQfZNTuG"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/38ZC9zLGxyFNQR96ABazS5"
       },
@@ -6518,7 +6598,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168417,
       "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
@@ -7162,7 +7242,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 248521,
       "name": "People Hatin'",
       "url": "https://open.spotify.com/track/5Q5CeW3FeTzrqYiYZxir8l"
@@ -7274,7 +7354,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 176974,
       "name": "Pretty In Pink",
       "url": "https://open.spotify.com/track/7tbNHZI8MRf6BlksTrFAlM"
@@ -8080,7 +8160,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 215412,
       "name": "slow dance in the diner",
       "url": "https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK"
@@ -8402,7 +8482,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 225640,
       "name": "Southern Lover (Miss Kentucky)",
       "url": "https://open.spotify.com/track/1SJjE5AsnmqIkQ3qXDoKzE"
@@ -8460,7 +8540,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 166207,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz"
@@ -9138,7 +9218,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 223582,
       "name": "The Tracks",
       "url": "https://open.spotify.com/track/37pBe50r2tPBWTy5w3ck6O"
@@ -9358,7 +9438,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 239783,
       "name": "This Side Of Heaven",
       "url": "https://open.spotify.com/track/3SB1FTzSnx97oh4kYvdwQJ"
@@ -10180,7 +10260,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174794,
       "name": "Whiskey Told Ya",
       "url": "https://open.spotify.com/track/7oopGuUyXzrAnoRzo9m4G6"
@@ -10328,7 +10408,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 266760,
       "name": "Wish I Didn't Know Now",
       "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"

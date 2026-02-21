@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & Agus Bernasconi",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Agapornis",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 162005,
       "name": "A PRUEBA DE BALAS",
       "url": "https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 187087,
       "name": "Amor",
       "url": "https://open.spotify.com/track/1GkkY2VlNqWfADvmcyd4e4"
@@ -1850,6 +1850,24 @@
     {
       "album": {
         "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0F4fXNYXhJgC6jLIQMoINX"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149155,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/0G4XRrTl6etz8zGK2yfW2T"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
         "url": "https://open.spotify.com/album/0WWyafyFWxUhv3RYpiNKyc"
       },
       "artists": [
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216000,
       "name": "De Ahora En M\u00e1s",
       "url": "https://open.spotify.com/track/0Uf1l3jEA8Cpudla9wTnDj"
@@ -10233,6 +10251,28 @@
     },
     {
       "album": {
+        "name": "Que Guapa Que Estabas Ayer",
+        "url": "https://open.spotify.com/album/3mcKMUF5WS3BtFSH4dAvNV"
+      },
+      "artists": [
+        {
+          "name": "Juanlu de la Rosa",
+          "url": "https://open.spotify.com/artist/5nLHoKR1ceMxtopTEDrZNT"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Que Guapa Que Estabas Ayer",
+      "url": "https://open.spotify.com/track/19Jv4IR7bvARnby917j5Q2"
+    },
+    {
+      "album": {
         "name": "Que Ironia",
         "url": "https://open.spotify.com/album/4U1fGuwPIF0jeebgA0I0Tq"
       },
@@ -13177,6 +13217,32 @@
     },
     {
       "album": {
+        "name": "Tu Sacaganas (Remix)",
+        "url": "https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201483,
+      "name": "Tu Sacaganas (Remix)",
+      "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
+    },
+    {
+      "album": {
         "name": "Tu Sacaganas / Linda / Lado Triste",
         "url": "https://open.spotify.com/album/4NJCCWVcSIv9tY1todTQMc"
       },
@@ -14504,7 +14570,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
@@ -14672,6 +14738,36 @@
       "duration_ms": 185578,
       "name": "YO SE QUE TU",
       "url": "https://open.spotify.com/track/0K6k5tauD4UgwE0knS8aYb"
+    },
+    {
+      "album": {
+        "name": "Yo Tengo Tu Amor",
+        "url": "https://open.spotify.com/album/5kfI2QOVQLdCGQHJDxtt0T"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Santi Sc",
+          "url": "https://open.spotify.com/artist/2wdZMvSgQUrBKt5sTMwhr2"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157269,
+      "name": "Yo Tengo Tu Amor",
+      "url": "https://open.spotify.com/track/0ey0YZ9ccNR2CsnNntiILw"
     },
     {
       "album": {

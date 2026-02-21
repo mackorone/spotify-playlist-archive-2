@@ -1836,6 +1836,28 @@
     {
       "album": {
         "name": "Tu Foto Del DNI",
+        "url": "https://open.spotify.com/album/4k9xzNF92Jb8hOMleVqRiJ"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "Tu Foto Del DNI",
+      "url": "https://open.spotify.com/track/31rmWWAR4m0pIUDNMWTEWe"
+    },
+    {
+      "album": {
+        "name": "Tu Foto Del DNI",
         "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
       },
       "artists": [

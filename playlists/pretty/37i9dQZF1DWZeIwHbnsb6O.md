@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,093 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,213 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 47 | [Los nenes con los nenes](https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Los Nenes con Los Nenes](https://open.spotify.com/album/1VFwdg4Yzw62omxQ7ose4t) | 2:41 |
 | 48 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
 | 49 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 |
-| 50 | [El Amar y el Querer](https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Brillantes \- Jose Jose](https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI) | 3:56 |
-| 51 | [Al Final](https://open.spotify.com/track/6J3qAoV9V326KU29uHLr2B) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Personalidad](https://open.spotify.com/album/01ZWyUUyY8keELL1LdSjwf) | 3:38 |
-| 52 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
-| 53 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
-| 54 | [Falso Amor](https://open.spotify.com/track/29gcpcXiLczD2NJS34YdLg) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [e5](https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr) | 2:57 |
-| 55 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |
+| 50 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |
+| 51 | [El Amar y el Querer](https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Brillantes \- Jose Jose](https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI) | 3:56 |
+| 52 | [Al Final](https://open.spotify.com/track/6J3qAoV9V326KU29uHLr2B) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Personalidad](https://open.spotify.com/album/01ZWyUUyY8keELL1LdSjwf) | 3:38 |
+| 53 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
+| 54 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
+| 55 | [Falso Amor](https://open.spotify.com/track/29gcpcXiLczD2NJS34YdLg) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [e5](https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr) | 2:57 |
 | 56 | [Mi Forma De Sentir](https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Amor](https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf) | 3:51 |
 | 57 | [Quedate](https://open.spotify.com/track/6eyWgog31WtU2IG1irXU9l) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [Los Joao \- Quedate](https://open.spotify.com/album/2ZcSYMy0gzMQjSnT3PVNJL) | 3:34 |
 | 58 | [Puente de Piedra](https://open.spotify.com/track/1IXYAbCJ860RFdYgnse2FD) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 3:38 |

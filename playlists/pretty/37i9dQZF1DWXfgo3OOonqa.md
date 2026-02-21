@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,636 likes - 121 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,618 likes - 121 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 5 | [Bandit \(Hassela\)](https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Bandit \(Hassela\)](https://open.spotify.com/album/25Z9WxiUChb5juAzX7SyLu) | 3:06 |
 | 6 | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH) | 2:38 |
 | 7 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 |
-| 8 | [Kan Bli Vad Du Vill](https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [](https://open.spotify.com/album/null) | 3:24 |
+| 8 | [Kan Bli Vad Du Vill](https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Claylist Deleted Scenes](https://open.spotify.com/album/6DEDj6iElmeGnaeQQlthfi) | 3:24 |
 | 9 | [Dangerous](https://open.spotify.com/track/63v6J4OkLmDiY1aHVNxMsC) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Dangerous](https://open.spotify.com/album/3YYfdiJu4aNIi39LZdCm1Z) | 2:15 |
 | 10 | [En Chans](https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [En Chans](https://open.spotify.com/album/0wPvF7pc4bZc3BK6I93h84) | 2:01 |
 | 11 | [100 gånger](https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [100 gånger](https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j) | 2:37 |

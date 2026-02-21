@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-329 songs - 9 hr 57 min
+330 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bingo Dog Song Nursery Rhyme](https://open.spotify.com/track/0Tt9r7jWnURy3CrJ5fzsxY) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Toddler Songs & Nursery Rhymes for Babies, Vol\. 1 \(US Version\)](https://open.spotify.com/album/2ZKTW5UsFiU4Y9Z38SbY4a) | 2:43 | 2022-02-25 |  |
 | [Boom Chicka Boom](https://open.spotify.com/track/2AqOMwusPmBbi11l8Uq4Oz) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Songs From Caitie's Classroom Vol\. 1](https://open.spotify.com/album/1QzT5b6dybiknccv1tFNy2) | 3:30 | 2023-02-10 |  |
 | [Clap Your Hands](https://open.spotify.com/track/0QAN2I3VggUp43foMTzKOn) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:30 | 2022-02-25 |  |
+| [Comin Round The Mountain](https://open.spotify.com/track/5QHIN7pxBpg0U83IacY0Nv) | [Martin and Rose Music](https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU) | [Comin Round The Mountain](https://open.spotify.com/album/6e8Mw61xVpsQsxDcxNByC8) | 2:32 | 2026-02-20 |  |
 | [Curly Locks](https://open.spotify.com/track/0hFVYqoH1SWPlR6YFOmYgT) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:41 | 2022-02-25 |  |
 | [Daisy Bell \(Bicycle Built for Two\)](https://open.spotify.com/track/0MMwvews31GnUzRiGPxnS7) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:20 | 2022-02-25 | 2024-04-19 |
 | [Daisy Bell \(Bicycle Built for Two\)](https://open.spotify.com/track/3ybcg3XIwEG54lIg2LvEPt) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 9](https://open.spotify.com/album/4041E7r5X0Zq2JNSiR7z8A) | 2:20 | 2022-02-25 |  |
@@ -250,7 +251,7 @@
 | [Shake My Sillies Out](https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 0:45 | 2022-02-25 |  |
 | [Shake My Sillies Out](https://open.spotify.com/track/0tJ43FGFzNR809XgezZAPz) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Big Ted, Prince of Bears](https://open.spotify.com/album/7iYotMvxhHrbk9v9e6KyLk) | 0:45 | 2022-02-25 | 2022-11-13 |
 | [She'll Be Coming Round the Mountain](https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f) | 2:01 | 2022-02-25 | 2024-04-19 |
-| [She'll Be Coming Round the Mountain](https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/0hJm6TTGeW1tqileJj39ZA) | 2:01 | 2022-02-25 |  |
+| [She'll Be Coming Round the Mountain](https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [100 Nursery Rhymes](https://open.spotify.com/album/0hJm6TTGeW1tqileJj39ZA) | 2:01 | 2022-02-25 | 2026-02-21 |
 | [She’ll Be Coming Round the Mountain](https://open.spotify.com/track/4wdYY7uEyWFhyUGHEwNE3l) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 7: Kids Sing & Learn](https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI) | 2:41 | 2022-02-25 | 2024-01-05 |
 | [Shoo Fly](https://open.spotify.com/track/41fWg0m9Z3GVxbrmQR17yJ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:19 | 2022-02-25 | 2025-05-17 |
 | [Shoo Fly, Don't Bother Me](https://open.spotify.com/track/6fTNBTJGcIjGiq8tU7PxiE) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Shoo Fly, Don't Bother Me](https://open.spotify.com/album/7ylz9WYmjdaRaDUFSW5oTl) | 1:23 | 2025-05-16 |  |

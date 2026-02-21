@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Casual Friday",
+        "url": "https://open.spotify.com/album/2X55ibmu2wvdRMUmVi4g5z"
+      },
+      "artists": [
+        {
+          "name": "Slim Gambill",
+          "url": "https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214458,
+      "name": "Casual Friday",
+      "url": "https://open.spotify.com/track/0WtOVDhUZQ80DwQEXvXjMv"
+    },
+    {
+      "album": {
         "name": "Catalina",
         "url": "https://open.spotify.com/album/49MBE4YM7T1q4FmxJQstQk"
       },
@@ -6400,7 +6418,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"

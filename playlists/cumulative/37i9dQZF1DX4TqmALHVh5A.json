@@ -2133,8 +2133,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "DRACHE!",
+        "url": "https://open.spotify.com/album/0xjX9SNPi6ZkHwv55EA64e"
       },
       "artists": [
         {
@@ -2870,6 +2870,24 @@
       "duration_ms": 203920,
       "name": "J'ai plus peur",
       "url": "https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775"
+    },
+    {
+      "album": {
+        "name": "MY NAME IS LEGACY",
+        "url": "https://open.spotify.com/album/4u8rdbMdeqSopRhY92X2Lb"
+      },
+      "artists": [
+        {
+          "name": "Samy",
+          "url": "https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128706,
+      "name": "J'aime",
+      "url": "https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc"
     },
     {
       "album": {
@@ -5687,8 +5705,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Crier Vomir Pleurer",
+        "url": "https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg"
       },
       "artists": [
         {
@@ -7306,24 +7324,6 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Samy",
-          "url": "https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc"
     },
     {
       "album": {

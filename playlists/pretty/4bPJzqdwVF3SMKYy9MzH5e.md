@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,332 songs - 5 day 5 hr 10 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,348 songs - 5 day 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2340,5 +2340,21 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2330 | [YA NO SIENTO NADA](https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5) | [La Vendicion](https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh), [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [La Hermandad](https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK) | 3:29 |
 | 2331 | [nos keremos tanto](https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nos keremos tanto](https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1) | 3:33 |
 | 2332 | [iknowuknow](https://open.spotify.com/track/1PCmnI86Wcb9g0eQowekRq) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Cactus Jack](https://open.spotify.com/album/6VV67YKfn79hg6qcH9BKat) | 4:03 |
+| 2333 | [1\-800\-GHETTOLICIOUS](https://open.spotify.com/track/1xD29FMhqkCJ2KaTgKHoln) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/5NdAnAc0OLoeTahpHzFXNt) | 4:22 |
+| 2334 | [!?](https://open.spotify.com/track/4wjebQ0gujBU7Ki5ucg5z8) | [scarmaid](https://open.spotify.com/artist/16PJcsqAJ0B1xRyLy4y2VS) | [Life is Beautiful](https://open.spotify.com/album/5l0k75OckQLi4nlyCqqrpp) | 2:09 |
+| 2335 | [Pressure](https://open.spotify.com/track/7MEIdBztYMdWfhuOwQKkEp) | [Yungster Jack](https://open.spotify.com/artist/3u8gw2fsGkXsQywU99i3S0), [David Shawty](https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk) | [Pressure](https://open.spotify.com/album/2ghxLhQz83KX7Fj3XS3XmY) | 2:15 |
+| 2336 | [No Drama](https://open.spotify.com/track/5SVfd6OmaQJFbFQZhVStWR) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 2:58 |
+| 2337 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
+| 2338 | [CLUBHOUSE](https://open.spotify.com/track/0As94NkKSIPvN6JwZWIniU) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [CLUBHOUSE](https://open.spotify.com/album/1JPsaob70izIBC9iDwNWZU) | 3:40 |
+| 2339 | [Takyon \(Death Yon\)](https://open.spotify.com/track/1AwzoiUgqLlJTX4OiYhQBD) | [michael](https://open.spotify.com/artist/7raRb71zop5Mi8i7WF0KK4) | [Exmilitary](https://open.spotify.com/album/1Cj5J88KWTVm5ksfoS4N0n) | 2:48 |
+| 2340 | [Something To Hold Onto \- Harder](https://open.spotify.com/track/0GsHB38VzK64XRiP9bCFr2) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Something To Hold Onto](https://open.spotify.com/album/1xIcn5benhh4NSknB6gxXL) | 2:49 |
+| 2341 | [Welcome To My Crib](https://open.spotify.com/track/7IQVh6ZGRenHZpZsiSQpSG) | [Andriu](https://open.spotify.com/artist/1L3mEOjWpoxoiiNBBbEJhK) | [Welcome To My Crib](https://open.spotify.com/album/089FnhGo7U2GJA1JVJ0nef) | 1:25 |
+| 2342 | [TONINI](https://open.spotify.com/track/0kQMsB9VZ0eZI0SjQS0SxC) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [BUENOS VALORES MALOS MODALES](https://open.spotify.com/album/6tUILrPjOM4zx0TCK8xwwY) | 2:12 |
+| 2343 | [Cuento \- Versión de Ximena](https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amarte Duele \(Versiones de Ximena\)](https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0) | 4:23 |
+| 2344 | [I Don't Give A Fuck](https://open.spotify.com/track/28oZsTW7GQZ47qtmuS0mjl) | [Boss](https://open.spotify.com/artist/3258KhQNJcLwGxmBlP2FM6) | [Born Gangstaz](https://open.spotify.com/album/0g8tDKyvH9BwvRE0SnaMTU) | 3:53 |
+| 2345 | [Robbery '95](https://open.spotify.com/track/4sisv5YE8tWpi24sCzqDiC) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [Rare Demos & Freestyles, Vol\. 1](https://open.spotify.com/album/6mee8fRrRnYp9hbgTQopZq) | 2:43 |
+| 2346 | [Load My Clip](https://open.spotify.com/track/33bGIgpuAMCgjGx2ZLOssJ) | [Lil Noid](https://open.spotify.com/artist/7gl9WTEz70flJtHlSSnR0S) | [Paranoid Funk](https://open.spotify.com/album/0WVAc1j3jKZzCuz3DEuCYP) | 3:24 |
+| 2347 | [Hell On Earth \(Remix\)](https://open.spotify.com/track/4CTVQ11sCUiooGfHQ2NbqJ) | [Tommy Wright III](https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw) | [Feel Me Before They Kill Me](https://open.spotify.com/album/36zwTsdxJPXWlm93OXbAAm) | 4:06 |
+| 2348 | [Bone Collector](https://open.spotify.com/track/7fHqVBM914EJjzujOnUBFz) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Bone Collector](https://open.spotify.com/album/1nZ6KcrNVpW85ajKHF1xoY) | 2:54 |
 
-Snapshot ID: `AAAFH7p+zIIS0KkevsyiTkzzhWU+99fU`
+Snapshot ID: `AAAFMFMETZ2ZKgnPnakywiIVBUzVFE+c`

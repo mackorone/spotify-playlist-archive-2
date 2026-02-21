@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,904 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 18 | [Abandonado](https://open.spotify.com/track/4CylgVA9Bc2IBguAB86S8Z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:28 |
 | 19 | [Pierdo la Razón](https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:15 |
 | 20 | [Mi Partido Lo Hará \(Los Políticos\)](https://open.spotify.com/track/3zdQwqFZsh6QMONfCjxAoC) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:09 |
-| 21 | [Amores Que Acaban](https://open.spotify.com/track/3kt4Z68Z4IJzGRFh4h8C9z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E), [Leslie Shaw](https://open.spotify.com/artist/4sv48LPlHQFdxfvwfxwcaq) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:43 |
+| 21 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
 | 22 | [Lejos de Ti](https://open.spotify.com/track/1bdFcIjah87msquSrk7nvl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:29 |
 | 23 | [Tu Amor Fue Una Mentira](https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk) | [Lucho Paz](https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0), [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Nuestra Cumbia](https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK) | 3:48 |
 | 24 | [Profesora de Inglés](https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 3:32 |
-| 25 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
+| 25 | [Amores Que Acaban](https://open.spotify.com/track/3kt4Z68Z4IJzGRFh4h8C9z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E), [Leslie Shaw](https://open.spotify.com/artist/4sv48LPlHQFdxfvwfxwcaq) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:43 |
 | 26 | [Agüita Pa'l Calor](https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 2:49 |
 | 27 | [Relax](https://open.spotify.com/track/3okhB8UP3eNHRz3ezGnRHa) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:30 |
 | 28 | [Tu y Yo](https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Tu y Yo](https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [Esa Luz Se Va](https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:34 |
 | 50 | [Niños](https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:32 |
 
-Snapshot ID: `aZUBAAAAAABp1Q1HqRk+3B4AyuBD9V3D`
+Snapshot ID: `aZZSgAAAAACdkhp6W9BVBxuvNYob+2gC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > R.I.P\. Malcolm\-Jamal Warner
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,707 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,600 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 5 | [The Sweetest Thing \(feat\. Lauryn Hill\) \- From the New Line Cinema film "Love Jones"](https://open.spotify.com/track/5My5YI9oqE9MZcHIrm38BJ) | [Refugee Camp All\-Stars](https://open.spotify.com/artist/7Jkv0oBbEmxtNnLsxT7NMt), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Love Jones The Music](https://open.spotify.com/album/7dt0RR2Kbvu3ZuWloudfjI) | 4:52 |
 | 6 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
 | 7 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
-| 8 | [Can I Get A..\. \- From The Rush Hour Soundtrack](https://open.spotify.com/track/45HLgh98kxPEMP1gPAEe8X) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Rush Hour](https://open.spotify.com/album/5spFW9SO63yEuvE1IxtayA) | 5:11 |
+| 8 | [Can I Get A..\. \- From The Rush Hour Soundtrack](https://open.spotify.com/track/45HLgh98kxPEMP1gPAEe8X) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Rush Hour](https://open.spotify.com/album/5spFW9SO63yEuvE1IxtayA) | 5:11 |
 | 9 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 | 10 | [Touch Me Tease Me](https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 3:52 |
 | 11 | [Sittin' Up In My Room \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/4330XmgVWlx98Y3Naswycg) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:52 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 56 | [ABC](https://open.spotify.com/track/5IbM2uYb3G0c0MUq8eUozu) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 2:56 |
 | 57 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 58 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/3ELFMOauCVyfEQF6ec3fI3) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Where I'm Coming From](https://open.spotify.com/album/2oV8OJKtyGR7MwXH45rOoE) | 2:52 |
-| 59 | [Ain't No N\-G\-A](https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 4:27 |
+| 59 | [Ain't No N\-G\-A](https://open.spotify.com/track/6t3Wg8rDoupH8mgEY4AIa0) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 4:27 |
 | 60 | [Top Shotter](https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Z4BjsVx8KRQwegUl2zJ2R) | 3:22 |
 
 Snapshot ID: `AAAAADjfr7imgYPABfBXfXW33dBwKItA`

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60660,
+  "num_followers": 60677,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "04:30",
-        "url": "https://open.spotify.com/album/4NOwey7G9dr7qc5RNyJ0lQ"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 164212,
-      "name": "04:30",
-      "url": "https://open.spotify.com/track/3x1juGfcekjpWbid4jkG3v"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Who's That Calling?",
         "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "04:30",
+        "url": "https://open.spotify.com/album/4NOwey7G9dr7qc5RNyJ0lQ"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 164212,
+      "name": "04:30",
+      "url": "https://open.spotify.com/track/3x1juGfcekjpWbid4jkG3v"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "duration_ms": 140597,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "N\u00e5n annan tar sm\u00e4llen",
         "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
       },
@@ -651,18 +667,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
+        "name": "Hall\u00e5",
+        "url": "https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3"
       },
       "artists": [
         {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+          "name": "Emma Winther",
+          "url": "https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv"
+        },
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 140597,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+      "duration_ms": 195671,
+      "name": "Hall\u00e5",
+      "url": "https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -703,26 +723,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Hall\u00e5",
-        "url": "https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3"
-      },
-      "artists": [
-        {
-          "name": "Emma Winther",
-          "url": "https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv"
-        },
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 195671,
-      "name": "Hall\u00e5",
-      "url": "https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Two Years",
         "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Ain\u2019t The Feeling",
         "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 165951,
       "name": "Ain\u2019t The Feeling",
       "url": "https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Fartblind",
-        "url": "https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc"
-      },
-      "artists": [
-        {
-          "name": "Deso",
-          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
-        }
-      ],
-      "duration_ms": 160384,
-      "name": "Fartblind",
-      "url": "https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Where's My Mind",
         "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 236747,
       "name": "Where's My Mind",
       "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Fartblind",
+        "url": "https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc"
+      },
+      "artists": [
+        {
+          "name": "Deso",
+          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
+        }
+      ],
+      "duration_ms": 160384,
+      "name": "Fartblind",
+      "url": "https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "WHAT\u2019S CUTE ABOUT HELL?",
-        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
-      },
-      "artists": [
-        {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "om vi f\u00f6rsvann",
         "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 163269,
       "name": "om vi f\u00f6rsvann",
       "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "WHAT\u2019S CUTE ABOUT HELL?",
+        "url": "https://open.spotify.com/album/4i9YeeGQ3AGaXrL2cUPksR"
+      },
+      "artists": [
+        {
+          "name": "Wilma Vidal",
+          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/7IV4rd1NMpRdp2KEYF4bpR"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Katedral Syndrom",
-        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Katedral Syndrom",
-      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Katedral Syndrom",
+        "url": "https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Katedral Syndrom",
+      "url": "https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "Cutting Ties",
         "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
       },
@@ -1047,38 +1063,6 @@
       "duration_ms": 261854,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Mjukt ljus",
-        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 160817,
-      "name": "Mjukt ljus",
-      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1111,6 +1095,22 @@
       "duration_ms": 153750,
       "name": "Bromsa",
       "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Mjukt ljus",
+        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 160817,
+      "name": "Mjukt ljus",
+      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "lotion",
-        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+        "name": "Dubbel-CD:n",
+        "url": "https://open.spotify.com/album/7tI9qVfdtA4vHbTFeuqKHW"
       },
       "artists": [
         {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+          "name": "Isak Friberg",
+          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
         }
       ],
-      "duration_ms": 267559,
-      "name": "lotion",
-      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
+      "duration_ms": 194250,
+      "name": "Tunnelbanejesus",
+      "url": "https://open.spotify.com/track/1amRC28M4vDzQXhzRQ2Uta"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Dubbel-CD:n",
-        "url": "https://open.spotify.com/album/7tI9qVfdtA4vHbTFeuqKHW"
-      },
-      "artists": [
-        {
-          "name": "Isak Friberg",
-          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Tunnelbanejesus",
-      "url": "https://open.spotify.com/track/1amRC28M4vDzQXhzRQ2Uta"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Acoustics & Hood Psychedelia",
         "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 168947,
       "name": "Lover's Rock",
       "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "lotion",
+        "url": "https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "duration_ms": 267559,
+      "name": "lotion",
+      "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
-      },
-      "artists": [
-        {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
-        }
-      ],
-      "duration_ms": 180632,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "cherry flip",
         "url": "https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 209767,
       "name": "cherry flip",
       "url": "https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Where It Hurts",
+        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "duration_ms": 180632,
+      "name": "Where It Hurts",
+      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1"
-      },
-      "artists": [
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        }
-      ],
-      "duration_ms": 123886,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Stanna lite till",
         "url": "https://open.spotify.com/album/03lZozSOhCG4pv2UXHUSj5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 207174,
       "name": "Stanna lite till",
       "url": "https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "duration_ms": 123886,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA"
     },
     {
       "added_at": "2026-02-19 23:01:01",

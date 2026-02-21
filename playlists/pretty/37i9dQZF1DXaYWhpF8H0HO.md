@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Noni
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,988 likes - 104 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,006 likes - 104 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 103 | [ALIVE](https://open.spotify.com/track/7qL1ImIs0qrXds1ldjicPx) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [ALIVE](https://open.spotify.com/album/5WJaZSqKMBeyO4nqGzbgpQ) | 3:13 |
 | 104 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 
-Snapshot ID: `AAAAAEItSGg1e5XcB+zok69H3bbkYwmk`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

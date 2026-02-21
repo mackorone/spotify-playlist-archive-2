@@ -17011,6 +17011,24 @@
     },
     {
       "album": {
+        "name": "Papin tyt\u00e4r",
+        "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
+      },
+      "artists": [
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Terveisii kotii",
+      "url": "https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH"
+    },
+    {
+      "album": {
         "name": "Terveisin, G\u00f6sta",
         "url": "https://open.spotify.com/album/0EjFesemwrRBcTVD8b8OMj"
       },
@@ -17650,24 +17668,6 @@
       "duration_ms": 121379,
       "name": "toxic",
       "url": "https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH"
     },
     {
       "album": {

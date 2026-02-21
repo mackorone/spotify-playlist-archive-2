@@ -1,12 +1,12 @@
 {
   "description": "New Music from Ayo Maff, Mavo, Moses Bliss, Verbb, Brent Faiyaz, Nasty C, and more ",
-  "num_followers": 176065,
+  "num_followers": 176683,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHN35gJTDF/fK/oPYymcCztNcXVE",
+  "snapshot_id": "AAAAAPmc4fTTGJftzR0HB3nCjSGnwTdJ",
   "tracks": [
     {
       "added_at": "2026-02-20 00:01:29",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "miss u 2 (with Leon Thomas)",
+        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "miss u 2 (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Pompous",
         "url": "https://open.spotify.com/album/11ICxLbYsJT0eZ4mIJ0upJ"
       },
@@ -335,6 +355,22 @@
       "duration_ms": 121021,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2"
+    },
+    {
+      "added_at": "2026-02-20 10:22:12",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -577,6 +613,22 @@
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
+      "added_at": "2026-02-20 10:30:59",
+      "album": {
+        "name": "Tolotolo",
+        "url": "https://open.spotify.com/album/5QaDucTY5mtu9ibsMQJAcY"
+      },
+      "artists": [
+        {
+          "name": "Nyin\u00e9e",
+          "url": "https://open.spotify.com/artist/6Z2nDqpkGxvethBqjEPEbg"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Tolotolo",
+      "url": "https://open.spotify.com/track/0r3Ih6qH8xMDzqJmErLSAN"
+    },
+    {
       "added_at": "2026-02-20 00:01:29",
       "album": {
         "name": "She Knows Too Much",
@@ -735,17 +787,21 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Menace",
+        "url": "https://open.spotify.com/album/3etpDVT1amvU3KRVXjF82E"
       },
       "artists": [
         {
           "name": "Harteez",
           "url": "https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn"
+        },
+        {
+          "name": "Dopestiks",
+          "url": "https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 138028,
+      "name": "Ayinke",
       "url": "https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV"
     },
     {
@@ -1011,8 +1067,8 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
       },
       "artists": [
         {

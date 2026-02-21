@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
@@ -592,7 +592,7 @@
       },
       "artists": [
         {
-          "name": "emmanuellcortess_",
+          "name": "Emmanuel Cortes",
           "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
         }
       ],
@@ -6254,6 +6254,24 @@
       "duration_ms": 177631,
       "name": "Me Equivoqu\u00e9 en Amarte",
       "url": "https://open.spotify.com/track/46i0h9eAuaj4cMCDKUYF2P"
+    },
+    {
+      "album": {
+        "name": "Me Esta Doliendo",
+        "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/24IEOjuJikT5ccLFuw1jjQ"
     },
     {
       "album": {

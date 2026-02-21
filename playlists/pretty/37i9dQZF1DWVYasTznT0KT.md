@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 
 > The very best original and synced tracks from film and television in 2024! Cover: Wicked
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,416 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,419 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 | 30 | [Everybody Wants To Rule the World](https://open.spotify.com/track/70CYroXLBCsndZ1LySt6dr) | [Despicable Me 4 Cast](https://open.spotify.com/artist/3q4eQCCkDNTWT1wkhOjO54) | [Despicable Me 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fxJNsszrPN4iubjPabVvy) | 2:34 |
 | 31 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 |
 | 32 | [The Chain](https://open.spotify.com/track/3hsnd22DpzD26kaYMC0ck5) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [My Lady Jane \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/6GOHoxVyDCG44xQK0jqVbw) | 3:45 |
-| 33 | [No Church In The Wild](https://open.spotify.com/track/7Ct3wqpGLbNrrG617S00B3) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Watch The Throne](https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs) | 4:32 |
+| 33 | [No Church In The Wild](https://open.spotify.com/track/7Ct3wqpGLbNrrG617S00B3) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Watch The Throne](https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs) | 4:32 |
 | 34 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 |
 | 35 | [Release \- Original Music From The Motion Picture TRAP](https://open.spotify.com/track/6c2EpAuvFIbBIWQHt4Pf8z) | [Saleka](https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7) | [Release \(Original Music From The Motion Picture TRAP\)](https://open.spotify.com/album/45VZ6dWVygQVlYqonfopAf) | 3:18 |
 | 36 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 |

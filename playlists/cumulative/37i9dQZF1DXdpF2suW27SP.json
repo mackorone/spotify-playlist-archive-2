@@ -1415,8 +1415,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Opressionismo",
+        "url": "https://open.spotify.com/album/0fERphbYeqR6hYAeTzyfuo"
       },
       "artists": [
         {
@@ -5655,8 +5655,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Em sonhos, \u00e9 sabido, n\u00e3o se morre",
+        "url": "https://open.spotify.com/album/2NZU0zaTEGiGwogFqXHhaN"
       },
       "artists": [
         {
@@ -8789,8 +8789,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6kFSyIhrIMYBOCPV2jy0ij"
       },
       "artists": [
         {
@@ -9554,6 +9554,24 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
+    },
+    {
+      "album": {
+        "name": "\u00c9TER",
+        "url": "https://open.spotify.com/album/7r5XtTi9dHLGCZko5QnadH"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142747,
+      "name": "LIBERTO",
+      "url": "https://open.spotify.com/track/3fDfSkqoPsKcnWEt3gUZ0Q"
     },
     {
       "album": {
@@ -18056,24 +18074,6 @@
       "duration_ms": 164307,
       "name": "Tou Off",
       "url": "https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "BUH BUH",
-          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
-        }
-      ],
-      "date_added": "2026-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3fDfSkqoPsKcnWEt3gUZ0Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Escucha DEPR💔$$ED MFKZ de Junior H y Gael Valenzuela 😭💔❤️‍🩹
 
-585 songs - 1 day 8 hr 18 min
+586 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-06-28 | 2024-08-10 |
 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 | 2023-12-22 | 2024-02-17 |
 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 | 2025-03-28 |  |
+| [Pa Que Me Enamoraste \- Remix](https://open.spotify.com/track/2S2zGH6GD0MRn0sgnk2hTu) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 2:59 | 2026-02-20 |  |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-21 | 2022-06-11 |
 | [Pa' Un Cabrón](https://open.spotify.com/track/5byxnDjFcoC37Fu6PIcKqP) | [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Pa' Un Cabrón](https://open.spotify.com/album/0IfD2gf83roRVbZfTSPUb3) | 2:12 | 2024-07-19 | 2024-08-31 |
 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 | 2023-07-14 | 2023-09-30 |
@@ -573,7 +574,7 @@
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-04-29 | 2023-01-14 |
 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 | 2023-03-03 | 2023-10-07 |
 | [Ya Le Dijiste](https://open.spotify.com/track/1AGVkZeo2M4Svtcruwy2oN) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [Ya Le Dijiste](https://open.spotify.com/album/2LiqsNx82tEQXsIAehBzY0) | 2:16 | 2024-11-08 | 2025-01-25 |
-| [Ya Me Enteré](https://open.spotify.com/track/17uVb8dtXHJ4S9P46qAdl5) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [Ya Me Enteré](https://open.spotify.com/album/5cSLwLgo5dqSfzKVOrmqrR) | 2:58 | 2026-01-23 |  |
+| [Ya Me Enteré](https://open.spotify.com/track/17uVb8dtXHJ4S9P46qAdl5) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [Ya Me Enteré](https://open.spotify.com/album/5cSLwLgo5dqSfzKVOrmqrR) | 2:58 | 2026-01-23 | 2026-02-21 |
 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 | 2024-01-15 | 2024-05-18 |
 | [Ya No Estás](https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Ya No Estás](https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6) | 4:22 | 2025-02-14 | 2025-04-12 |
 | [YA NO ME HABLES BB](https://open.spotify.com/track/4iK2IJiT6Nsi59RZYWiKAV) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [YA NO ME HABLES BB](https://open.spotify.com/album/2rcT4b8TurR1HYtq2Y4MQG) | 3:00 | 2024-09-13 | 2024-11-09 |

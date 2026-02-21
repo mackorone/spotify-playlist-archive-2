@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste pop songs. Cover: Bella Kay",
-  "num_followers": 99859,
+  "num_followers": 99888,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-02-19 23:00:56",
       "album": {
+        "name": "\u00c7ike \u00c7ike",
+        "url": "https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 139379,
+      "name": "\u00c7ike \u00c7ike",
+      "url": "https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8"
+    },
+    {
+      "added_at": "2026-02-19 23:00:56",
+      "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/281zKhMF6X69jaELmnZyzN"
       },
@@ -191,8 +207,8 @@
     {
       "added_at": "2026-02-19 23:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Confessions: An Unexpected Turn of Events",
+        "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
       },
       "artists": [
         {
@@ -287,8 +303,8 @@
     {
       "added_at": "2026-02-19 23:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
       },
       "artists": [
         {
@@ -303,8 +319,8 @@
     {
       "added_at": "2026-02-19 23:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Dreams To Keep",
+        "url": "https://open.spotify.com/album/0d3KGNBNAaloccr0GedG4r"
       },
       "artists": [
         {

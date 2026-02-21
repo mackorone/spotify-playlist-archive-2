@@ -4863,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "Le temps qui passe",
+        "url": "https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj"
+      },
+      "artists": [
+        {
+          "name": "Hubert Proulx",
+          "url": "https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Le temps qui passe",
+      "url": "https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq"
+    },
+    {
+      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
       },
@@ -8682,7 +8700,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"

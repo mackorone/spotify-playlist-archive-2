@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/5mEr2w7V1vKz91bzxKaRah"
+      },
+      "artists": [
+        {
+          "name": "Patches",
+          "url": "https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/4NJsPTYtwisTUUvf8jb4R0"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/3y01EIiIHvN4pTYsUX1L7s"
       },
@@ -1030,6 +1048,24 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "album": {
+        "name": "Favorite Person",
+        "url": "https://open.spotify.com/album/4Z6g0egtF1nHzHAGrfizXh"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159729,
+      "name": "Favorite Person",
+      "url": "https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf"
     },
     {
       "album": {
@@ -2439,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "Real Person (feat. Elijah Fox)",
+        "url": "https://open.spotify.com/album/3xU0GgpEdJFJ7GuPlksGDP"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143507,
+      "name": "Real Person (feat. Elijah Fox)",
+      "url": "https://open.spotify.com/track/4HTLVKjX5dQnK7IqJe3lBb"
+    },
+    {
+      "album": {
         "name": "Declaration Of Dependence",
         "url": "https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER"
       },
@@ -2544,6 +2602,24 @@
       "duration_ms": 182266,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN"
+    },
+    {
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/7lPEwMyECa59UAbky7plMi"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/2GQoBWigNKFN0F9l5wkMlX"
     },
     {
       "album": {
@@ -2692,6 +2768,24 @@
       "duration_ms": 172146,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y"
+    },
+    {
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "album": {

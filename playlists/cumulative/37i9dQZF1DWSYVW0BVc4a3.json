@@ -8281,6 +8281,32 @@
     },
     {
       "album": {
+        "name": "For Several Eternals Before There Were Years",
+        "url": "https://open.spotify.com/album/6QgF3L8v9e8Mwwd1vhLUBJ"
+      },
+      "artists": [
+        {
+          "name": "1-800 Techno",
+          "url": "https://open.spotify.com/artist/2X2lZoNNwgxRD7kZpBn0sS"
+        },
+        {
+          "name": "DJ CITY",
+          "url": "https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj"
+        },
+        {
+          "name": "Karl Lihagen",
+          "url": "https://open.spotify.com/artist/39xx7uSO1RiFK5YyJwgAa3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Fluorescent Horizons",
+      "url": "https://open.spotify.com/track/0bXDTZbnngKlGmrnSmlYTk"
+    },
+    {
+      "album": {
         "name": "Out of My Head EP",
         "url": "https://open.spotify.com/album/6M01XBy3SciLGIuih1nXmL"
       },

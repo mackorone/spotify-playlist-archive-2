@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 174 songs - 10 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 181 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,12 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 172 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
 | 173 | [Get It Up](https://open.spotify.com/track/2bPZ7cEBa5SKliThdwdiK7) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P) | 2:35 |
 | 174 | [I Can't Decide](https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:46 |
+| 175 | [Drunk](https://open.spotify.com/track/6WI2GsakMUzGf9EGT0Ln5t) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [zero\_one](https://open.spotify.com/album/54wAlSP6p1gVxZmlzAfpiJ) | 3:25 |
+| 176 | [Crazy = Genius](https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:18 |
+| 177 | [Charlie's Inferno](https://open.spotify.com/track/2tmei4gBweN2TsRcTgIh0t) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/0R3w6vjfaZlWHK28Z0RsfK) | 3:44 |
+| 178 | [Death By Glamour](https://open.spotify.com/track/7BGZ27yeaKR5OZOIxyegZi) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:14 |
+| 179 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
+| 180 | [Murders](https://open.spotify.com/track/0AFydkgl5Creero3gNjqvF) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 3:42 |
+| 181 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 |
 
-Snapshot ID: `AAAA8Y0r2y7DCoTF1t3mBi3I+UlvDwSH`
+Snapshot ID: `AAAA+JXK8/l7hz/6yMWwzq+db+mjXK7V`

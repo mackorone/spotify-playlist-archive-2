@@ -1,13 +1,129 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Brent Faiyaz",
-  "num_followers": 1328033,
+  "description": "Genre-less. Quality first always. Cover: Baby Keem",
+  "num_followers": 1328021,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxfV2OVWzsEmzC/DsKRD+JMSKWk",
+  "snapshot_id": "AAAAAPw8PyJpV/0drTtw4m40V8sfloF6",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "CARE 4 U",
+        "url": "https://open.spotify.com/album/3Cmkd5zkmoQSxnxSgetpFg"
+      },
+      "artists": [
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "CARE 4 U",
+      "url": "https://open.spotify.com/track/39zv1ChIsgFhzk0h5j1Dvc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 136542,
+      "name": "Birds & the Bees",
+      "url": "https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Manmade Manmaid",
+        "url": "https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Manmade Manmaid",
+      "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Vestibule EP",
+        "url": "https://open.spotify.com/album/7LAjXI3VHD0kH9EL73Wen9"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 234720,
+      "name": "Shorty Out",
+      "url": "https://open.spotify.com/track/7yURwIYzgtmVWK3LDoBja5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 245384,
+      "name": "world is yours.",
+      "url": "https://open.spotify.com/track/61LIrROTdBzB2wOsgFNODa"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Weekend Rockstar",
+        "url": "https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "duration_ms": 141514,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3GMxnSwJvaI0M42O65Czqv"
+    },
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
@@ -27,6 +143,38 @@
       "duration_ms": 200192,
       "name": "mangetout - The Dare remix",
       "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Right Hand to God",
+        "url": "https://open.spotify.com/album/7iVlDKsdWH0hwblWES6qAP"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 133360,
+      "name": "Right Hand to God",
+      "url": "https://open.spotify.com/track/1nmR9nOziOaVohX2qCkIpU"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "Jump Shot",
+        "url": "https://open.spotify.com/album/4C0Eo4wzTSL8PJwo3mLFnS"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Jump Shot",
+      "url": "https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -49,20 +197,20 @@
       "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
     },
     {
-      "added_at": "2026-02-13 05:00:40",
+      "added_at": "2026-02-20 05:00:52",
       "album": {
-        "name": "I Wanna Be Your Dog Again",
-        "url": "https://open.spotify.com/album/2qDdMz4B1rDeXdhKj5txOd"
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Wanna Be Your Dog Again",
-      "url": "https://open.spotify.com/track/3sFMNnMiceLkl3wKIGuD54"
+      "duration_ms": 166469,
+      "name": "No Blame",
+      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -83,18 +231,18 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+        "name": "I Wanna Be Your Dog Again",
+        "url": "https://open.spotify.com/album/2qDdMz4B1rDeXdhKj5txOd"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 245384,
-      "name": "world is yours.",
-      "url": "https://open.spotify.com/track/61LIrROTdBzB2wOsgFNODa"
+      "duration_ms": 157146,
+      "name": "I Wanna Be Your Dog Again",
+      "url": "https://open.spotify.com/track/3sFMNnMiceLkl3wKIGuD54"
     },
     {
       "added_at": "2026-02-06 05:00:41",
@@ -829,26 +977,6 @@
       "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
     },
     {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Wallfacer",
-          "url": "https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam"
-        }
-      ],
-      "duration_ms": 197999,
-      "name": "I Luv U",
-      "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
-    },
-    {
       "added_at": "2025-12-05 05:00:23",
       "album": {
         "name": "The Pilot",
@@ -903,22 +1031,6 @@
       "duration_ms": 128770,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 185174,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"
     },
     {
       "added_at": "2025-12-05 05:00:23",
@@ -1221,22 +1333,6 @@
       "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
     },
     {
-      "added_at": "2025-11-14 00:00:24",
-      "album": {
-        "name": "Club Burn",
-        "url": "https://open.spotify.com/album/6m3iYS0C8mrVMMRaNybdGz"
-      },
-      "artists": [
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Club Burn",
-      "url": "https://open.spotify.com/track/6XWy5BIUB0ikfVwwrO5aO8"
-    },
-    {
       "added_at": "2025-10-31 00:00:20",
       "album": {
         "name": "vitamins n minerals",
@@ -1355,22 +1451,6 @@
       "duration_ms": 245826,
       "name": "Wild And Alone (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
-    },
-    {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "Orchards",
-        "url": "https://open.spotify.com/album/3RvzPG8lFExQBwkNBD20xK"
-      },
-      "artists": [
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
-        }
-      ],
-      "duration_ms": 158512,
-      "name": "Orchards",
-      "url": "https://open.spotify.com/track/1dmoGY1oIcXIckpycDXz0c"
     },
     {
       "added_at": "2025-11-07 05:00:53",
@@ -1513,22 +1593,6 @@
       "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
     },
     {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
-    },
-    {
       "added_at": "2025-10-24 04:00:24",
       "album": {
         "name": "b 2 b",
@@ -1547,22 +1611,6 @@
       "duration_ms": 163469,
       "name": "b 2 b",
       "url": "https://open.spotify.com/track/4p2rGMlMTHCDn3lTNGcsbc"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "mini me",
-        "url": "https://open.spotify.com/album/2sruJVYKJZdIY4c08Zm4OP"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "mini me",
-      "url": "https://open.spotify.com/track/4RivZNKcpqoVuZy7o5U2p5"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1693,26 +1741,6 @@
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     },
     {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Moon (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
       "added_at": "2025-10-17 04:00:51",
       "album": {
         "name": "It Starts Again",
@@ -1743,46 +1771,6 @@
       "duration_ms": 277275,
       "name": "Kindalove",
       "url": "https://open.spotify.com/track/6TbSdRNQejxvrXX3M9VBXh"
-    },
-    {
-      "added_at": "2025-10-10 04:00:40",
-      "album": {
-        "name": "Rest Here",
-        "url": "https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL"
-      },
-      "artists": [
-        {
-          "name": "Car Culture",
-          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
-        },
-        {
-          "name": "Physical Therapy",
-          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
-        },
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 269614,
-      "name": "Doesn't Really Matter",
-      "url": "https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl"
-    },
-    {
-      "added_at": "2025-10-03 00:00:34",
-      "album": {
-        "name": "The Coward Forgets His Nightmare",
-        "url": "https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "The Coward Forgets His Nightmare",
-      "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
     }
   ],
   "unique_name": "POLLEN",

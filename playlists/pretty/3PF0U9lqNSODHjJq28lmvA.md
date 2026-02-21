@@ -4,27 +4,23 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,580 likes - 18 songs - 1 hr 5 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,578 likes - 14 songs - 47 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It Don't Make No Sense](https://open.spotify.com/track/4fk7IfKo9Lvohj6WgdQDs1) | [Nathan Maher](https://open.spotify.com/artist/0RvGEHynJ4tWEawxxEJMDa) | [It Don't Make No Sense](https://open.spotify.com/album/4F6dWxk0Z47mFmExrUMdZU) | 3:07 |
-| 2 | [Ungdomstid](https://open.spotify.com/track/0WBhJyeKoWv5q16upHjwt7) | [Martin Engelsen](https://open.spotify.com/artist/0QSv32WoIkGvjPf0ARrJrm) | [Ungdomstid](https://open.spotify.com/album/0s5ULlwKLmLdmAYD30Rm7G) | 3:25 |
-| 3 | [o\-scope](https://open.spotify.com/track/1pHp2CbeP1gseHID9qVOz3) | [nayl](https://open.spotify.com/artist/7GbWeqkZ1HSS68Tijnp4s7) | [o\-scope](https://open.spotify.com/album/31SGD4ZpWiavVsApziQBDF) | 3:08 |
-| 4 | [Scent of Blood](https://open.spotify.com/track/6EQne30Z6J3qIT7NG9469k) | [Electric Hydra](https://open.spotify.com/artist/5iF37V1AGqA6aLAo1pC7Fn) | [From The Fallen](https://open.spotify.com/album/2ee3qtuqEpfUcmRPszn7o6) | 4:01 |
-| 5 | [The Wedding Singer](https://open.spotify.com/track/7JRoCfVjceZwT9DRPbfNUy) | [PreHistoric animals](https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78) | [The Wedding Singer](https://open.spotify.com/album/3jzicpCt6Lv28TqaFn4zyb) | 6:21 |
-| 6 | [New World](https://open.spotify.com/track/0mZcA2u4eI4a3suzWySbXT) | [Owl Girl](https://open.spotify.com/artist/4U7WI1dimY6dMxBjlrGyNw) | [New World](https://open.spotify.com/album/2vMzOUBuFkoyrvd9HW4bL3) | 3:40 |
-| 7 | [Valoa kohti](https://open.spotify.com/track/7njMPjQAgAco81MPZ5dX0I) | [Taskut](https://open.spotify.com/artist/7iAyuEU9GJWLrAod8TZ8ol) | [Valoa kohti](https://open.spotify.com/album/7F9DKsNT70oN5jm5KHGnEB) | 4:18 |
-| 8 | [Never Enough For You](https://open.spotify.com/track/1S0FGf2AGraglnGt01BuNL) | [JURY N8](https://open.spotify.com/artist/6b36Wc4tBV5vYVytrvj1JL) | [Never Enough For You](https://open.spotify.com/album/3cHxtws0FHWPGog6i7TAJl) | 3:19 |
-| 9 | [Hit 'em with that Swenglish](https://open.spotify.com/track/68zAxM7JLnzdDxbb50oQkS) | [Dee Bugg](https://open.spotify.com/artist/5cLS5TsCUczYFOneT2U2ig) | [Hit 'em with that Swenglish](https://open.spotify.com/album/51wOph6yrmTBoaS1wSnHAt) | 2:44 |
-| 10 | [СРЛ Ритм](https://open.spotify.com/track/45phtNfln4axs2uvxzj5SN) | [loveoleglove](https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7) | [СРЛ Ритм](https://open.spotify.com/album/7vcxQ73Q2qav5ixiPAgXxB) | 3:59 |
-| 11 | [Getting Hot](https://open.spotify.com/track/6sPtGD9IbNq1egMqgnpY9A) | [LESLIE](https://open.spotify.com/artist/4PKLYeu6kt2bvphWY9cPuc) | [Getting Hot](https://open.spotify.com/album/2dcf1Svrc6BNOvJkpVUUaE) | 3:26 |
-| 12 | [Gates of the World](https://open.spotify.com/track/5owonIg6h8Ye70w9bDkfWu) | [LESTOPIAT](https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY) | [Gates of the World](https://open.spotify.com/album/0dMWYhuRitLPWSfJE3nG2j) | 6:03 |
-| 13 | [Echoes of You](https://open.spotify.com/track/0PdS0CnX36n8zbkaa5w8gQ) | [Eternal Daze](https://open.spotify.com/artist/2y7MMZzwy8y47Zloxtlbds) | [Spectral Gravity Part 1](https://open.spotify.com/album/2P57PzAFNEJeMWGkyY5pDN) | 3:39 |
-| 14 | [Fuori Piove](https://open.spotify.com/track/1CSv5dtyaRKp3dgiRCYfeG) | [SATURI](https://open.spotify.com/artist/0CJ6TamJ7gq0RX0316S4mt) | [Fuori Piove](https://open.spotify.com/album/2pkiVWIc8JZ7bdWh2T2yWd) | 2:29 |
-| 15 | [Mango sunset](https://open.spotify.com/track/54tlJIf8NBsRUzwtlwyEsx) | [Mango Wille](https://open.spotify.com/artist/61BRh1VldCflNmwlws6HFZ) | [Mango sunset](https://open.spotify.com/album/3iJ2oEWhMYovqMZNmSWsaX) | 2:19 |
-| 16 | [Limelight Heaven](https://open.spotify.com/track/1nLShvajgMje1CUtUmnBCH) | [AriDB](https://open.spotify.com/artist/5VPI9MaDiH4CsFqeiISY94) | [Limelight Heaven](https://open.spotify.com/album/019TB4FSxUvv8kjubQfKlL) | 3:34 |
-| 17 | [Dancing Through The Night](https://open.spotify.com/track/2tys4VQHlKhIAsGxZDTniG) | [Nela Abib](https://open.spotify.com/artist/6b8jlklPiHiC0dbJCRqBjx) | [Dancing Through The Night](https://open.spotify.com/album/6dDN0au8i7RN9acEuANLrT) | 2:29 |
-| 18 | [At Night \(war dance\)](https://open.spotify.com/track/057sRQpxdr5Aa0TZGUwQrk) | [DeadCityMonkeys](https://open.spotify.com/artist/7xmHTajSoookwtf2x0NOoQ) | [At Night \(war dance\)](https://open.spotify.com/album/0wSAAdBgLfcqZu19XtcTXu) | 3:06 |
+| 1 | [نقصاك القعدة](https://open.spotify.com/track/0g3kXFE6BeecFnqwObtNSu) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [نقصاك القعدة](https://open.spotify.com/album/0DhHQ4ZldUZVV47kdQwKp2) | 2:51 |
+| 2 | [TEQUILA](https://open.spotify.com/track/2gLXCKuUIx8j8oZl8AeclL) | [Mejeristerna](https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha) | [TEQUILA](https://open.spotify.com/album/7vmqgMmfodaUUpUEEKMP0T) | 2:35 |
+| 3 | [أكتر وأكتر](https://open.spotify.com/track/6nuAvMaKaV4R6HUG7U9RPb) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Hyde Park Developments](https://open.spotify.com/artist/71yQNM3eww246JZ1ftK5cj) | [أكتر وأكتر](https://open.spotify.com/album/4juWyHFICtnC25xKpO8jQm) | 1:51 |
+| 4 | [You're My Star](https://open.spotify.com/track/2vt7YxIaSfb8QfxqCE37lQ) | [Cliff Wedge](https://open.spotify.com/artist/2qguL07OSiwQUFvJFA3NBt) | [You're My Star](https://open.spotify.com/album/30hZUx7vO0WZAgVsNKpMjd) | 3:30 |
+| 5 | [the peaks](https://open.spotify.com/track/1vfQ0AOZfmVbiQ81zgqRMZ) | [D\. Inver](https://open.spotify.com/artist/1tXn1rBYhxJNuMFUw5Aq61) | [the peaks](https://open.spotify.com/album/7i302C3SIJRKInM9GFMdtv) | 3:12 |
+| 6 | [Descension](https://open.spotify.com/track/3Q13wj1HLLwz7RNXHjIkDW) | [Norrsköld](https://open.spotify.com/artist/4w7TqVzqXTgJoVSzhFZdf9) | [Regentia](https://open.spotify.com/album/4xs7SiXF7N2BJ1O6lzHBrg) | 4:00 |
+| 7 | [Orientation](https://open.spotify.com/track/5mxKbS24wiByNnOZRwUm3l) | [BERGET](https://open.spotify.com/artist/5UUGn25tV0AesjkUV8wET4) | [Orientation](https://open.spotify.com/album/2kkPKpvGNxaQbJFrWXtSPv) | 4:02 |
+| 8 | [Ser du månen där du är ikväll \(Tillsammans igen\)](https://open.spotify.com/track/1SxK3l061KMTHg2ba1HGZU) | [Systrarna Dahlman](https://open.spotify.com/artist/0I5tKqiflffreJaodv7QLv) | [Ser du månen där du är ikväll \(Tillsammans igen\)](https://open.spotify.com/album/3F9sCBsjgfBMehCywMBxGm) | 2:41 |
+| 9 | [omi:i](https://open.spotify.com/track/4s9LC9gcMwFC40qMKrdB5w) | [Anton Svanberg](https://open.spotify.com/artist/6jl3SUVzaKZA2Opn9IvuaQ), [Eva Lindal](https://open.spotify.com/artist/2NQOct6c3ZvAGVucEOzt2U), [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Charlie Malmberg](https://open.spotify.com/artist/6Wmpbs1DzT7UmlC3P4FqgD), [Emil Skogh](https://open.spotify.com/artist/6olqr6BHUke9WnrrkiYZ5D) | [omi/omii](https://open.spotify.com/album/2ZKNnQ8sK5zzureagrzKE4) | 3:56 |
+| 10 | [End of the world](https://open.spotify.com/track/2p3aWAzDFqvigmEneLNXH9) | [H!ED](https://open.spotify.com/artist/5nc1MOaQ8yuiFZ1xjGP60U) | [End of the world](https://open.spotify.com/album/2fJw4N3DqHcKOxTKbe7ruE) | 2:49 |
+| 11 | [Almost there](https://open.spotify.com/track/6gvoWYIJDCZ7JFKalsmybc) | [Anders Beckius](https://open.spotify.com/artist/4bP8d20lrEQrjzD4JLf8ND), [Neto Amado](https://open.spotify.com/artist/7pNQOBpBpxwv32amj9JSxM) | [Whatever happens](https://open.spotify.com/album/2vtZwUeyLiIgVWgZX0N4XN) | 4:39 |
+| 12 | [Fear \(and no foretelling\)](https://open.spotify.com/track/3YJsL4TELTUIDqeHfMrdzT) | [WORLD\-ENDING FIRE](https://open.spotify.com/artist/2nyybht4KpYy6NxClUA3vO) | [WORLD\-ENDING FIRE](https://open.spotify.com/album/49lG7apCMYaGa5xjaevrR0) | 4:27 |
+| 13 | [Freeze Frame](https://open.spotify.com/track/3r1TBod6wcZH5DrIFqn73J) | [Mark Aynsley Hay](https://open.spotify.com/artist/3z9aBgrDcqRWxUFzOivKzp), [C.C\. Morris](https://open.spotify.com/artist/2PFIcVh7FKA2A3Q8xSj5A7) | [Freeze Frame](https://open.spotify.com/album/01M1bzoVAhagII8ZaED299) | 3:32 |
+| 14 | [Mr Know It All](https://open.spotify.com/track/2gnJweaj7JJoHQ8y9FNHTu) | [Alexander Scheele](https://open.spotify.com/artist/2gOHOymY97X73WcqFSoL29) | [Mr Know It All](https://open.spotify.com/album/3tppBrIQOY9hdiPSImoOPQ) | 3:21 |
 
-Snapshot ID: `AAAEyoe5QbfA4KDWXy16H0of0muxUW3l`
+Snapshot ID: `AAAE6cVrwGmLCzf63EM4rJB8k4tpg17w`

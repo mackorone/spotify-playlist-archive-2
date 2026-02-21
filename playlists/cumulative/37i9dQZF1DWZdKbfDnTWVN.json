@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Bad Everyday",
+        "url": "https://open.spotify.com/album/5kPrLWslg79OTdErJO5wfe"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Bad Everyday",
+      "url": "https://open.spotify.com/track/3WL6zAHhNf0vfdIhRv8O61"
+    },
+    {
+      "album": {
         "name": "Bad Gyal",
         "url": "https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 189155,
       "name": "Chanua Ma Namble",
       "url": "https://open.spotify.com/track/0E4EivoDa0Yc1VIBNOjips"

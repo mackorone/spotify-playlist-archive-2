@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,385 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,388 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 22 | [間奏曲 ～歌劇「カヴァレリア・ルスティカーナ」より](https://open.spotify.com/track/2T1sSlz5AUu1V8ZL0RSWmn) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [わたしを泣かせてください](https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE) | 3:36 |
 | 23 | [Song from Lalibela](https://open.spotify.com/track/0zmncFomD1Fds640ZItLB2) | [Yoshihiro Koseki](https://open.spotify.com/artist/5q9eSLEXZjJAqPLolQgvTA) | [STORY HOUSE](https://open.spotify.com/album/5sYhGF891DW9OGU87rhlhE) | 2:38 |
 | 24 | [G線上のアリア\(組曲 第3番より アリア\)](https://open.spotify.com/track/0ulU4IIPUUGIZx6222zph3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [トロイメライ](https://open.spotify.com/album/21LSAqiXBOIzgp490IZgrk) | 5:08 |
-| 25 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 |
+| 25 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 |
 | 26 | [Aghaidh Jhanuis](https://open.spotify.com/track/3X4wGHvdveW38zGEe0bXeR) | [Hirofumi Nakamura](https://open.spotify.com/artist/5YXHeL6ydbKGS0MTASHC40) | [guitarscape](https://open.spotify.com/album/2Z4LkcX5WC6N2UmgZWziBu) | 3:47 |
 | 27 | [サクラ咲ク](https://open.spotify.com/track/21GQC2eOKkTeMEfHQQpvsJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/4FUro6ufhJwjVaCX4jvo2X) | 5:49 |
 | 28 | [リート FWV 83](https://open.spotify.com/track/3lSbpqRK8zOeLId9w6axYy) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [髙木竜馬](https://open.spotify.com/artist/1c3rTelFX9qnwLrnIJAYWD) | [SOUVENIR～ドビュッシー＆フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 1:38 |

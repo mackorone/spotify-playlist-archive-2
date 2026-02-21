@@ -22245,8 +22245,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "FONDAZIONE STRADA",
+        "url": "https://open.spotify.com/album/5BJ1RaQg0t5LAvGWXMirvw"
       },
       "artists": [
         {
@@ -133051,6 +133051,24 @@
     },
     {
       "album": {
+        "name": "TOP QUALITA'",
+        "url": "https://open.spotify.com/album/12WwsEKJJmvyjHw8vyEkqA"
+      },
+      "artists": [
+        {
+          "name": "Ceejay",
+          "url": "https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "TOP QUALITA'",
+      "url": "https://open.spotify.com/track/14iQ81034vQXcEFewMGoVV"
+    },
+    {
+      "album": {
         "name": "THE BIGGEST SBLAO",
         "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
       },
@@ -145292,7 +145310,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 128674,
       "name": "ZACK & CODY",
       "url": "https://open.spotify.com/track/6JO9XKYlcaSJsag6mWpk4q"

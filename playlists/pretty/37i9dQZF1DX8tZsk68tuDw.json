@@ -1,13 +1,33 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with GRiZ & Levity",
-  "num_followers": 1842390,
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Odd Mob",
+  "num_followers": 1842294,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2anhpCqXKFq+1VQzi/L2QbppRE",
+  "snapshot_id": "AAAAAFFQD0VA7XwK9QnTHrCBLoqH7wPz",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Never Alone (feat. Lizzy Land)",
+        "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Never Alone (feat. Lizzy Land)",
+      "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
+    },
     {
       "added_at": "2026-02-13 05:00:32",
       "album": {
@@ -47,6 +67,38 @@
       "duration_ms": 185859,
       "name": "One More (feat. Ad-Apt)",
       "url": "https://open.spotify.com/track/0uWeiBRbGr6tWnWcZcksqs"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Share The House",
+        "url": "https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Share The House",
+      "url": "https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS"
+    },
+    {
+      "added_at": "2026-02-13 05:00:32",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -89,6 +141,22 @@
       "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
     },
     {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
       "added_at": "2026-02-06 05:00:35",
       "album": {
         "name": "Just The Way You Are",
@@ -109,20 +177,28 @@
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
-      "added_at": "2026-02-13 05:00:32",
+      "added_at": "2026-02-20 05:00:44",
       "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+        "name": "You",
+        "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
         }
       ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+      "duration_ms": 148571,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -165,6 +241,22 @@
       "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
+        "name": "find a reason",
+        "url": "https://open.spotify.com/album/2lLvOt2D410sXGO7qAJcXh"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "find a reason",
+      "url": "https://open.spotify.com/track/69Pi3PmvFx9jJFy07vf4KU"
+    },
+    {
       "added_at": "2026-01-12 16:32:13",
       "album": {
         "name": "The Way I Are (Max Dean Remix)",
@@ -191,6 +283,26 @@
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
+    },
+    {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -253,6 +365,22 @@
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
+      "added_at": "2026-02-20 05:00:44",
+      "album": {
+        "name": "only the best",
+        "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 202525,
+      "name": "only the best",
+      "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
+    },
+    {
       "added_at": "2026-01-30 05:00:39",
       "album": {
         "name": "Speakers Blowing",
@@ -285,22 +413,6 @@
       "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
     },
     {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
-        "name": "find a reason",
-        "url": "https://open.spotify.com/album/2lLvOt2D410sXGO7qAJcXh"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "find a reason",
-      "url": "https://open.spotify.com/track/69Pi3PmvFx9jJFy07vf4KU"
-    },
-    {
       "added_at": "2026-01-23 05:00:15",
       "album": {
         "name": "Do It For The Girls (feat. Jalja)",
@@ -319,22 +431,6 @@
       "duration_ms": 159545,
       "name": "Do It For The Girls (feat. Jalja)",
       "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
     },
     {
       "added_at": "2026-02-13 05:00:32",
@@ -437,6 +533,22 @@
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
     },
     {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
+    },
+    {
       "added_at": "2026-02-13 05:00:32",
       "album": {
         "name": "Vandal EP",
@@ -467,26 +579,6 @@
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
-    },
-    {
-      "added_at": "2026-01-09 05:00:30",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 187279,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -817,22 +909,6 @@
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
     },
     {
-      "added_at": "2026-01-09 05:00:30",
-      "album": {
-        "name": "Plush",
-        "url": "https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
-    },
-    {
       "added_at": "2026-01-30 05:00:39",
       "album": {
         "name": "Close To Me",
@@ -961,42 +1037,6 @@
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
     },
     {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "it's time to go home",
-        "url": "https://open.spotify.com/album/4nC28YyUh1VwVHsyUy7DYH"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "it's time to go home",
-      "url": "https://open.spotify.com/track/4ZAy0LodwsNIYPsXoffhGk"
-    },
-    {
-      "added_at": "2026-01-09 05:00:30",
-      "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
-    },
-    {
       "added_at": "2025-12-19 05:00:35",
       "album": {
         "name": "Morals",
@@ -1051,22 +1091,6 @@
       "duration_ms": 191250,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
-    },
-    {
-      "added_at": "2026-01-02 05:00:16",
-      "album": {
-        "name": "2025 Archive",
-        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Going To London",
-      "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1353,6 +1377,26 @@
       "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
     },
     {
+      "added_at": "2026-01-09 05:00:30",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+    },
+    {
       "added_at": "2025-11-14 05:00:24",
       "album": {
         "name": "Too Slow (All Night)",
@@ -1373,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"
     },
     {
-      "added_at": "2025-11-07 05:00:36",
-      "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
-    },
-    {
       "added_at": "2025-10-17 04:00:39",
       "album": {
         "name": "No Hesitating",
@@ -1403,22 +1431,6 @@
       "duration_ms": 163890,
       "name": "No Hesitating",
       "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:41",
-      "album": {
-        "name": "King Konglish EP",
-        "url": "https://open.spotify.com/album/66oMw0xrzuS7K5sw9VOiQ7"
-      },
-      "artists": [
-        {
-          "name": "J. Park",
-          "url": "https://open.spotify.com/artist/6tJF1JwgKXKldyr82s6Jjd"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "King-Ka - Radio Mix",
-      "url": "https://open.spotify.com/track/5ytMXX85Be1uP3NF5T2tx8"
     }
   ],
   "unique_name": "Dance Rising",

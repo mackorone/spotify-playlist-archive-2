@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your favorite Disney tunes, including \"Zoo\" from Zootopia 2!",
-  "num_followers": 2070175,
+  "num_followers": 2070238,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvw9ne1zGQWgDeylw0YIbZFsHUU",
+  "snapshot_id": "AAAAAJrJWOhMKobNwTLVfcaQfI68dcx4",
   "tracks": [
     {
       "added_at": "2026-02-06 14:00:23",
@@ -43,22 +43,6 @@
       "duration_ms": 234004,
       "name": "When You Wish Upon a Star - From \"Disney 100\"",
       "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
-    },
-    {
-      "added_at": "2026-02-06 14:00:23",
-      "album": {
-        "name": "Part of Your World (From \"The Little Mermaid\")",
-        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
-      },
-      "artists": [
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
     },
     {
       "added_at": "2026-02-06 14:00:23",
@@ -1041,6 +1025,22 @@
       "url": "https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l"
     },
     {
+      "added_at": "2026-02-20 22:41:14",
+      "album": {
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+    },
+    {
       "added_at": "2026-02-06 14:00:23",
       "album": {
         "name": "Beauty And The Beast (Special Edition)",
@@ -1155,22 +1155,6 @@
       "duration_ms": 180520,
       "name": "Strangers Like Me",
       "url": "https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl"
-    },
-    {
-      "added_at": "2026-02-06 14:00:23",
-      "album": {
-        "name": "Hawaiian Roller Coaster Ride",
-        "url": "https://open.spotify.com/album/3Yk55uGnU2uSURBOOpJ3YV"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Hawaiian Roller Coaster Ride",
-      "url": "https://open.spotify.com/track/3pv3kFVXQYZVrXAChG7na3"
     },
     {
       "added_at": "2026-02-06 14:00:23",
@@ -1351,7 +1335,7 @@
     {
       "added_at": "2026-02-06 14:00:23",
       "album": {
-        "name": "Brave",
+        "name": "Brave (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },
       "artists": [
@@ -1361,7 +1345,7 @@
         }
       ],
       "duration_ms": 151400,
-      "name": "Touch The Sky - From \"Brave\"/Soundtrack",
+      "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz"
     },
     {
@@ -1603,22 +1587,6 @@
       "duration_ms": 177533,
       "name": "Man Or Muppet",
       "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
-    },
-    {
-      "added_at": "2026-02-06 14:00:23",
-      "album": {
-        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 104113,
-      "name": "Derezzed",
-      "url": "https://open.spotify.com/track/7hqlHZIXhwAzpWQxm9KzBd"
     },
     {
       "added_at": "2026-02-06 14:00:23",

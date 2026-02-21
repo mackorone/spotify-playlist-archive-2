@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184930,
+      "name": "$ex Appeal (feat. Too $hort)",
+      "url": "https://open.spotify.com/track/2N1D5t5zkvlNElbH9q0vBv"
+    },
+    {
+      "album": {
         "name": "'02 Lakers",
         "url": "https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9"
       },
@@ -616,6 +638,24 @@
       "duration_ms": 172995,
       "name": "556 (Green Tip) (Spotem G-Mix)",
       "url": "https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR"
+    },
+    {
+      "album": {
+        "name": "6-7",
+        "url": "https://open.spotify.com/album/6A6ecn2V1HauLX2Z57Mcud"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88582,
+      "name": "6-7",
+      "url": "https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg"
     },
     {
       "album": {
@@ -3951,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -4324,7 +4382,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 121546,
       "name": "Check Please",
       "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
@@ -6998,6 +7056,24 @@
       "duration_ms": 150401,
       "name": "Fighting My Demons",
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
+    },
+    {
+      "album": {
+        "name": "Fine Shit",
+        "url": "https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113700,
+      "name": "Fine Shit",
+      "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
     },
     {
       "album": {
@@ -17334,12 +17410,12 @@
           "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
           "name": "Chief Keef",
           "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
       "date_added": "2026-02-13",
@@ -18636,7 +18712,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 154883,
       "name": "SLUT ME OUT 4",
       "url": "https://open.spotify.com/track/3PsiWFS27gmJAO997H9Py7"
@@ -21570,7 +21646,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168259,
       "name": "TWITCH (feat. 2 Chainz & Tyga)",
       "url": "https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2"

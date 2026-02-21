@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0Eftsfm2dbT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0Eftsfm2dbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Eftsfm2dbT)
 
-### [+81 Connect: J\-HipHopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
+### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Campanella \*毎週更新
+> J\-Hip Hopの最新注目曲をまとめてチェック　cover: Campanella \*毎週更新
 
 2,280 songs - 4 day 18 hr 57 min
 

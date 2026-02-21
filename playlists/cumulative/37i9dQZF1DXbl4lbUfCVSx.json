@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-12",
-  "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
+  "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
   "name": "Kompas Dir\u00e8k",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 332910,
       "name": "Habitude",
       "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
@@ -700,6 +700,24 @@
       "duration_ms": 165224,
       "name": "Kimb\u00e9 sa nan rinw",
       "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
+    },
+    {
+      "album": {
+        "name": "Goumin",
+        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232586,
+      "name": "Kitem Ale",
+      "url": "https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ"
     },
     {
       "album": {
@@ -805,6 +823,24 @@
     },
     {
       "album": {
+        "name": "LanmoU Pa PoU MweN",
+        "url": "https://open.spotify.com/album/7iKnNCA9m3CIA4uB2OaGbs"
+      },
+      "artists": [
+        {
+          "name": "Kenny Haiti",
+          "url": "https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264285,
+      "name": "LanmoU Pa PoU MweN",
+      "url": "https://open.spotify.com/track/5ojRfwelVOjdphr7Tp6jUo"
+    },
+    {
+      "album": {
         "name": "L\u00f2d Nan Dez\u00f2d",
         "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
       },
@@ -834,7 +870,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 308000,
       "name": "L\u00e8 Nap F\u00e8 Lanmou",
       "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
@@ -910,7 +946,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
@@ -1043,6 +1079,46 @@
     },
     {
       "album": {
+        "name": "On Ti Bagay",
+        "url": "https://open.spotify.com/album/6yNeWmjmMrfyvawGafDx9Y"
+      },
+      "artists": [
+        {
+          "name": "MGCK",
+          "url": "https://open.spotify.com/artist/62PiFjHFoS4diKaSiu8K08"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190879,
+      "name": "On Ti Bagay",
+      "url": "https://open.spotify.com/track/2WLwk1pnmQsKh3Uouui6ul"
+    },
+    {
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/1TskesOI4LMVMQAxzEvdpu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Hashtag",
+          "url": "https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh"
+        },
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247431,
+      "name": "Ou Banm Lanmou",
+      "url": "https://open.spotify.com/track/2M5C5JTgevNU408qBVhjqv"
+    },
+    {
+      "album": {
         "name": "Ou Gou",
         "url": "https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF"
       },
@@ -1054,7 +1130,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 279885,
       "name": "Ou Gou",
       "url": "https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu"
@@ -1116,6 +1192,28 @@
       "duration_ms": 323268,
       "name": "Pa Leve Main Ou Sou Li",
       "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
+    },
+    {
+      "album": {
+        "name": "Pa Pale",
+        "url": "https://open.spotify.com/album/6Na7VpDH9ICIOlfYBRByHH"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Pa Pale",
+      "url": "https://open.spotify.com/track/14Q49d7zbzJsbC7wqRU7D4"
     },
     {
       "album": {
@@ -1268,10 +1366,32 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 289537,
       "name": "San Limit",
       "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+    },
+    {
+      "album": {
+        "name": "I'M OK",
+        "url": "https://open.spotify.com/album/6TA3ulRMkO8UuBXKyBZgaO"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Teddy Hashtag",
+          "url": "https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245546,
+      "name": "Se ou'l ye",
+      "url": "https://open.spotify.com/track/4ep65mItDTJ5f1O5CdW5V6"
     },
     {
       "album": {
@@ -1362,7 +1482,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 229491,
       "name": "SIWO",
       "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
@@ -1423,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/5V1uYLqtA3oVcAyRg58WaD"
+      },
+      "artists": [
+        {
+          "name": "L Won",
+          "url": "https://open.spotify.com/artist/1kRfVuceSK92E3iO5uT4dT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152508,
+      "name": "Ti manmi",
+      "url": "https://open.spotify.com/track/74PII6iDa5Rn7dY5eS2mx2"
+    },
+    {
+      "album": {
         "name": "Tous Ces D\u00e9tails",
         "url": "https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD"
       },
@@ -1438,6 +1576,24 @@
       "duration_ms": 170121,
       "name": "Tous Ces D\u00e9tails",
       "url": "https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH"
+    },
+    {
+      "album": {
+        "name": "Tout Sa K Pral Manke W",
+        "url": "https://open.spotify.com/album/5PoSRRATlKVrSbdzSifixz"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240187,
+      "name": "Tout Sa K Pral Manke W",
+      "url": "https://open.spotify.com/track/2nKiK90Dgcqi0HzAeZkya3"
     },
     {
       "album": {
@@ -1506,7 +1662,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 293035,
       "name": "Wet the hell map vini - Zouk",
       "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"

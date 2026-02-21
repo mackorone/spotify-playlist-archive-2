@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Erwan",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Le Belladone",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -828,6 +828,24 @@
       "duration_ms": 253000,
       "name": "Big Bus",
       "url": "https://open.spotify.com/track/2OHJu3CEvMFuSC2epoPFVQ"
+    },
+    {
+      "album": {
+        "name": "Bingo",
+        "url": "https://open.spotify.com/album/3KJdGZlx71PwUAIDYcvaSi"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
     },
     {
       "album": {
@@ -2695,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Hedgesitting",
+        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286771,
+      "name": "Hedgesitting",
+      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
+    },
+    {
+      "album": {
         "name": "Here for you",
         "url": "https://open.spotify.com/album/5N8b9bW8ypuJ7RIPPYcuwc"
       },
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 207207,
       "name": "Je ne danse pas",
       "url": "https://open.spotify.com/track/5NiAlSYYpodpeijlHn5i4B"
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 140500,
       "name": "Milquetoast",
       "url": "https://open.spotify.com/track/4dDV4PY0AMF9e9oRBsHla3"
@@ -4777,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/7Aw9A0BigsX2OYGCHNZDRQ"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141680,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/4nTwtkAMW0CVRAcA1uLKCR"
+    },
+    {
+      "album": {
         "name": "Nouvel \u00c9tablissement",
         "url": "https://open.spotify.com/album/5CNRGwtozaS8qq40716MNH"
       },
@@ -4846,6 +4900,24 @@
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
+    },
+    {
+      "album": {
+        "name": "NYMPHE",
+        "url": "https://open.spotify.com/album/5E5t7syiUM4PYEeb4SJXgO"
+      },
+      "artists": [
+        {
+          "name": "Le Belladone",
+          "url": "https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242528,
+      "name": "NYMPHE",
+      "url": "https://open.spotify.com/track/2iuKnXbOy7qIYzeevDi5nC"
     },
     {
       "album": {
@@ -4972,6 +5044,24 @@
       "duration_ms": 142080,
       "name": "oui non I know",
       "url": "https://open.spotify.com/track/2cQyLwCqV0QJmdkKW96zLw"
+    },
+    {
+      "album": {
+        "name": "over/over",
+        "url": "https://open.spotify.com/album/1PJCDRAh0xcCDoKtwUjvWP"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "over/over",
+      "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
     },
     {
       "album": {
@@ -5428,7 +5518,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186000,
       "name": "Politicking",
       "url": "https://open.spotify.com/track/6blUBF2tclP0IoPB07anXH"
@@ -5450,6 +5540,24 @@
       "duration_ms": 157812,
       "name": "Pommes",
       "url": "https://open.spotify.com/track/2P4cHNLsRoI8s1gJSlpI7B"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/1boU0i1PTLHYmATRv453kc"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198327,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/4CaiChiTaeg9gZzqtmTYC4"
     },
     {
       "album": {
@@ -5836,7 +5944,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 297395,
       "name": "Sang du Christ",
       "url": "https://open.spotify.com/track/0OpabAf12M4gpW1EJ5rsrh"
@@ -6034,7 +6142,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 238374,
       "name": "Sides Of Me I've Never Met",
       "url": "https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA"
@@ -6164,7 +6272,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 256600,
       "name": "Squelette",
       "url": "https://open.spotify.com/track/5T4o6yqeF1GV6Q8rcX7Rvp"
@@ -7216,7 +7324,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 242086,
       "name": "\u00c7a part avec toi",
       "url": "https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI"

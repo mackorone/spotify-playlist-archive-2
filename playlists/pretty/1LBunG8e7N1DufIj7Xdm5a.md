@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,145 songs - 9 day 4 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,149 songs - 9 day 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4153,5 +4153,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4143 | [The World](https://open.spotify.com/track/7dVGcsc7buzvVCZxmjRKdc) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [The World](https://open.spotify.com/album/53Hv0nA1qvf38XMykM8877) | 3:26 |
 | 4144 | [Life is Changing](https://open.spotify.com/track/036ai7QE1pMDVLolRDCbPg) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [Life is Changing](https://open.spotify.com/album/6YvFPtcvMzHltBQyiOBpnf) | 3:00 |
 | 4145 | [Red, White & Disrespect](https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV) | [Dulyfixed Music](https://open.spotify.com/artist/71L2ZJ5fTCiJ4K9CC9BmUF) | [Red, White & Disrespect](https://open.spotify.com/album/4C8S0fmijazAvuxE4YORnY) | 2:31 |
+| 4146 | [Lost in Time \(chill mix\)](https://open.spotify.com/track/7tBGS2XjzE4cOxJCxkCwvD) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Lost in Time \(chill mix\)](https://open.spotify.com/album/4qTsPXuKGezL0Jlk9nqssJ) | 4:10 |
+| 4147 | [Wounded](https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Wounded](https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv) | 2:16 |
+| 4148 | [Lost in Time](https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time](https://open.spotify.com/album/3hzgNZ6zaLgx7YTL6Pxzjv) | 3:52 |
+| 4149 | [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 |
 
-Snapshot ID: `AAAHjqOh6MGDrElbHALkKKtWvIBhm9k9`
+Snapshot ID: `AAAHkjdx4E11HqyUo6ylmfZzBkEn13AQ`

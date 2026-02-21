@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,477 likes - 77 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,605 likes - 77 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

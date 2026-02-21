@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-449 songs - 1 day 10 hr 2 min
+450 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Revival](https://open.spotify.com/track/5hg5J0FMtHsk2KpOvRWWuG) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Revival](https://open.spotify.com/album/6cAPKsxDX0FrdK3doIhJ8F) | 2:57 | 2022-04-01 | 2022-07-25 |
 | [Rock and Clap \- Instrumental](https://open.spotify.com/track/3oEgsFby908LnVyx0rbvgc) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Darian Gray](https://open.spotify.com/artist/3PPmXLzzOi8bqxo4Mqs4ec) | [Rock and Clap \(Instrumental\)](https://open.spotify.com/album/0Xvzr8Et5NfflTsYLGF7q8) | 5:18 | 2023-01-20 | 2023-02-11 |
 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 | 2020-10-09 | 2022-04-21 |
+| [Rules Of The Game](https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Deface The Currency](https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE) | 4:09 | 2026-02-20 |  |
 | [Rumble in the Jungle](https://open.spotify.com/track/3o5ybQryQMrAG4NcT9UYth) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 5:59 | 2020-10-09 |  |
 | [Running Away](https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/4eY9301DYHcUr96oOXuLlL) | 6:55 | 2020-10-09 |  |
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 | 2020-10-09 | 2024-04-19 |
@@ -354,7 +355,7 @@
 | [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 | 2021-04-09 | 2024-03-19 |
 | [Sure Shot](https://open.spotify.com/track/27OyoqgbafX6MlGTz8qDTi) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/3NVSRJdGwzePsmWEWdKFIv) | 4:01 | 2021-04-09 | 2024-04-19 |
 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 | 2024-02-16 |  |
-| [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
+| [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 | 2026-02-21 |
 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 | 2022-07-29 | 2024-04-19 |
 | [Sweet Solitude](https://open.spotify.com/track/2fRSLLLPjoyONVoheNMnnL) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Sweet Solitude](https://open.spotify.com/album/4uD6Ufj8bY5nmxpzh4ujHH) | 4:01 | 2022-07-29 |  |
 | [Swimming in the Sky](https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Swimming in the Sky](https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ) | 4:54 | 2024-01-12 |  |

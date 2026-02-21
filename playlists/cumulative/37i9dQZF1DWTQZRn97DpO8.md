@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯<br/>Photo : Anaïs Cardot
 
-534 songs - 1 day 2 hr 20 min
+534 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [P.U.O.](https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:30 | 2023-09-28 | 2023-11-17 |
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-09-28 | 2023-12-01 |
 | [Pansement](https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [East\-Blue \(Gold edition\)](https://open.spotify.com/album/7CCmqM36JQ4WS33ZDfm3zk) | 2:33 | 2024-01-18 | 2024-02-02 |
+| [Paradis](https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [J'ai besoin de toi](https://open.spotify.com/album/0e6V5jsvTkKXchEAt4VZlT) | 2:34 | 2026-02-19 |  |
 | [Paradis](https://open.spotify.com/track/6Cn7A6RM08DMz7B4P9bPXP) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Paradis](https://open.spotify.com/album/4J5707YP5jtVhB8uhNqb3m) | 2:15 | 2025-03-13 | 2025-05-30 |
 | [Pardon](https://open.spotify.com/track/21inZyPyh8Sf57BgGFPpoV) | [Lukazam](https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD) | [Pardon](https://open.spotify.com/album/6cOR6vKPzMEXdCi1NYdytp) | 2:36 | 2026-01-29 | 2026-02-20 |
 | [Pardonne\-moi](https://open.spotify.com/track/75GGrGs3OnJwlQvzAlAcnF) | [C2AM](https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG) | [Baby Boyz](https://open.spotify.com/album/72n24q33jNUw0vu9aM6i8Z) | 3:16 | 2025-11-13 | 2025-12-19 |
@@ -502,7 +503,6 @@
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 | 2025-12-19 |
 | [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 | 2026-02-06 |
 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 | 2025-10-02 |  |
-| [Track 9](https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trigger](https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Trigger](https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu) | 2:16 | 2025-11-20 | 2025-12-19 |
 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 | 2024-04-25 | 2024-06-28 |

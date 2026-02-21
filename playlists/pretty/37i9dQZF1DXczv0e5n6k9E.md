@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: FANN
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,753 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,793 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 5 | [ALITHINO](https://open.spotify.com/track/4AT728QCnektzxr2fsgNa9) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Livar](https://open.spotify.com/artist/4TBL1lQeOwRq0UMvwo7d65), [City Center](https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr) | [Respect The Classics](https://open.spotify.com/album/5MBis4OdmskDVFptnf7zPZ) | 4:23 |
 | 6 | [50 CENT](https://open.spotify.com/track/27f62QDRVencjisrZxarp9) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [50 CENT](https://open.spotify.com/album/0urfxc46odu6zD7UvZlHyI) | 2:21 |
 | 7 | [TAKAMURI](https://open.spotify.com/track/3jOGLfy5CVaqmsGRJViS2x) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TAKAMURI](https://open.spotify.com/album/31YAbb1ZJUudMDrH7Aizb9) | 2:48 |
-| 8 | [KENZO](https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [](https://open.spotify.com/album/null) | 2:44 |
+| 8 | [KENZO](https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [INE HERMES](https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug) | 2:44 |
 | 9 | [EURO](https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [BTK 187](https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz) | [Dope Sport \(Vol.3\)](https://open.spotify.com/album/38mlNJEqWEVsA26F9EtBMN) | 3:32 |
 | 10 | [MONO ESY](https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [MONO ESY](https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM) | 2:30 |
 | 11 | [BOYKA](https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Xjay](https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN) | [BOYKA](https://open.spotify.com/album/28tc22zEAO5QTsieSJ5HJd) | 2:59 |

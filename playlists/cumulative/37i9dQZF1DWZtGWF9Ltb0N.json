@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 133714,
       "name": "B.A.S.S.",
       "url": "https://open.spotify.com/track/1qQ5m3SMkUngMQIoK9fd4N"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 233058,
       "name": "Enlighten",
       "url": "https://open.spotify.com/track/5Ij9jpdHL1cqhHC3XndZHz"
@@ -5225,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Flying Guillotine",
+        "url": "https://open.spotify.com/album/3pbbSQUJcf2IFnNXIXY7j2"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "Chief Kaya",
+          "url": "https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Flying Guillotine",
+      "url": "https://open.spotify.com/track/1dLM34xbOSvhRfmlXTuakN"
+    },
+    {
+      "album": {
         "name": "Infidel",
         "url": "https://open.spotify.com/album/6tmH5VTDaBkCzhYN6GAEz9"
       },
@@ -5676,7 +5698,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 260571,
       "name": "Get Splashed",
       "url": "https://open.spotify.com/track/4QYG1jhCleikOw6NbBrr9t"
@@ -8764,7 +8786,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 183161,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3hGIwndVIeBS6wonjYYiWH"
@@ -8782,7 +8804,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 246976,
       "name": "Lilt",
       "url": "https://open.spotify.com/track/6lMCGsmrKgTFvzhfTtCNcM"
@@ -8901,6 +8923,24 @@
     },
     {
       "album": {
+        "name": "LITTLE BITTER",
+        "url": "https://open.spotify.com/album/4kI31zyoimrclnDnJmlw65"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "LITTLE BITTER",
+      "url": "https://open.spotify.com/track/3WmQoU7VAo1u0LlorYYnft"
+    },
+    {
+      "album": {
         "name": "Best of LW: Bass",
         "url": "https://open.spotify.com/album/2EipzG2vDMFLzBblQNzsYP"
       },
@@ -8952,7 +8992,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 213000,
       "name": "Locked In",
       "url": "https://open.spotify.com/track/2Sk9IWoxmGwvI6eeXEUCNz"
@@ -9032,6 +9072,24 @@
       "duration_ms": 112241,
       "name": "lone idol",
       "url": "https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK"
+    },
+    {
+      "album": {
+        "name": "Lotis Eater",
+        "url": "https://open.spotify.com/album/07okM9wWAQXXUGO0qsBUMf"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256285,
+      "name": "Lotis Eater",
+      "url": "https://open.spotify.com/track/4RV0l2NdRR6cZ6SWqneFvx"
     },
     {
       "album": {
@@ -13603,6 +13661,24 @@
     },
     {
       "album": {
+        "name": "Skull Cracker",
+        "url": "https://open.spotify.com/album/7uucyGczWhJk5biXk6OARP"
+      },
+      "artists": [
+        {
+          "name": "Slang Dogs",
+          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Skull Cracker",
+      "url": "https://open.spotify.com/track/4n7bwgS7aBTzc4eGXf87my"
+    },
+    {
+      "album": {
         "name": "The Veil",
         "url": "https://open.spotify.com/album/4v1WEd25JZjbJb19b0F9zP"
       },
@@ -15983,6 +16059,28 @@
     },
     {
       "album": {
+        "name": "Triple Threat",
+        "url": "https://open.spotify.com/album/5qdvmo829ORMmbvRvHpPN8"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        },
+        {
+          "name": "Fake Two Piece",
+          "url": "https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Triple Threat",
+      "url": "https://open.spotify.com/track/3iBn6LD2StVvA9eMpaab2d"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1weftXORtDW783sNWPbXwN"
       },
@@ -16762,6 +16860,24 @@
       "duration_ms": 454400,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/02sVsBVipXWONilEMGe8IE"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/4ZxXCHzIXofTQ0WlX9ERE9"
+      },
+      "artists": [
+        {
+          "name": "YUTO",
+          "url": "https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1YKj3JAaVsKsAD2w6yO8rA"
     },
     {
       "album": {

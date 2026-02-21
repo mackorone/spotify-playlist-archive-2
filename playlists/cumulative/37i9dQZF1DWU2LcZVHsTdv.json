@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "My Country",
+        "url": "https://open.spotify.com/album/3NvJJj5UaCYMj9Aua3DLeg"
+      },
+      "artists": [
+        {
+          "name": "Band Reeves",
+          "url": "https://open.spotify.com/artist/2KuImPwSXezVrIEtpeRVmk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "My Country",
+      "url": "https://open.spotify.com/track/0NOIhvYEBUKcR6lBW2eD0w"
+    },
+    {
+      "album": {
         "name": "My Foundation (Acoustic)",
         "url": "https://open.spotify.com/album/6gLpyUkE7xMRAxe5tW8nle"
       },

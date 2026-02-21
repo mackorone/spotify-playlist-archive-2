@@ -1,13 +1,29 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: MEEK",
-  "num_followers": 560064,
+  "description": "Feeling dramatic? All eyes on you. Cover: Chloe Qisha",
+  "num_followers": 560077,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIxebQAzojI4fAVhm5yTp8JJQhX",
+  "snapshot_id": "AAAAAP06K6/vOEqd9Y28SB5TVGTTOaoF",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "YDH",
+        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
+    },
     {
       "added_at": "2026-01-30 05:00:43",
       "album": {
@@ -41,20 +57,68 @@
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
-      "added_at": "2026-02-02 19:17:29",
+      "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+        "name": "I Lit The Fire",
+        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Sara Beth",
+          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
         }
       ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+      "duration_ms": 154244,
+      "name": "I Lit The Fire",
+      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2025-12-05 05:00:09",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 104427,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
+    },
+    {
+      "added_at": "2025-06-20 04:00:48",
+      "album": {
+        "name": "piano in the sky",
+        "url": "https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 130203,
+      "name": "piano in the sky",
+      "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
+    },
+    {
+      "added_at": "2026-02-20 05:29:14",
+      "album": {
+        "name": "I\u2019m Going To Die",
+        "url": "https://open.spotify.com/album/17clQoJXEn7XKT522d0WBY"
+      },
+      "artists": [
+        {
+          "name": "Leroy Clampitt",
+          "url": "https://open.spotify.com/artist/1RKdNxma7zLA5FAyt5ghJ7"
+        }
+      ],
+      "duration_ms": 180017,
+      "name": "I\u2019m Going To Die",
+      "url": "https://open.spotify.com/track/1GGqXiVW58oZV5DckGpAae"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -71,6 +135,54 @@
       "duration_ms": 219986,
       "name": "Dance The Pain Away",
       "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
+    },
+    {
+      "added_at": "2026-02-02 19:17:29",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2026-02-13 06:20:36",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 119046,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Helen's Door",
+        "url": "https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30"
+      },
+      "artists": [
+        {
+          "name": "Melina KB",
+          "url": "https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Helen's Door",
+      "url": "https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu"
     },
     {
       "added_at": "2026-01-30 05:00:43",
@@ -91,38 +203,6 @@
       "duration_ms": 149507,
       "name": "welcome to the circus",
       "url": "https://open.spotify.com/track/5P0qbInlE4sGJHJC9BWnJ2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "piano in the sky",
-        "url": "https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 130203,
-      "name": "piano in the sky",
-      "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
-    },
-    {
-      "added_at": "2025-12-05 05:00:09",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6"
-      },
-      "artists": [
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 104427,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
     },
     {
       "added_at": "2024-08-23 04:11:51",
@@ -187,22 +267,6 @@
       "duration_ms": 344302,
       "name": "Numbers 31:17-18",
       "url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
-    },
-    {
-      "added_at": "2026-02-13 06:20:36",
-      "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt"
-      },
-      "artists": [
-        {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
-        }
-      ],
-      "duration_ms": 119046,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -467,38 +531,6 @@
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
-    },
-    {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "the simlish song",
-        "url": "https://open.spotify.com/album/3bNCCGuJGEtCFZ5H7htePd"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 199048,
-      "name": "the simlish song",
-      "url": "https://open.spotify.com/track/70moTZaHJ0CHtG2YbQPXST"
-    },
-    {
-      "added_at": "2025-09-12 04:00:22",
-      "album": {
-        "name": "A Thousand Songs About It All: Act 1",
-        "url": "https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ"
-      },
-      "artists": [
-        {
-          "name": "Elio Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
-        }
-      ],
-      "duration_ms": 113186,
-      "name": "Velcro",
-      "url": "https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -1085,22 +1117,6 @@
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
     },
     {
-      "added_at": "2025-05-23 00:00:24",
-      "album": {
-        "name": "Cole's Response",
-        "url": "https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP"
-      },
-      "artists": [
-        {
-          "name": "Yaelokre",
-          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
-        }
-      ],
-      "duration_ms": 128985,
-      "name": "Cole's Response",
-      "url": "https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5"
-    },
-    {
       "added_at": "2025-01-10 05:00:43",
       "album": {
         "name": "Speak for Yourself (Deluxe Version)",
@@ -1195,22 +1211,6 @@
       "duration_ms": 175000,
       "name": "Stalker's Tango",
       "url": "https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl"
-    },
-    {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "added_at": "2024-08-23 04:11:51",

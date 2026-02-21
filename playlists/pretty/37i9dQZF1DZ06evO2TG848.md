@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,693 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,696 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Daybreak](https://open.spotify.com/track/3DZYJqpvikOhbDilr351TU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 2:15 |
 | 50 | [Ando Rodando \- Remasterizado](https://open.spotify.com/track/2y8NuNGsLyq0txHdSuXSMU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Santaolalla \(Remasterizado\)](https://open.spotify.com/album/3iD1XcjP0Wqyz7tRwBhEFR) | 3:25 |
 
-Snapshot ID: `aZUBAAAAAAB106TJzC2bd+Gkk977aR5I`
+Snapshot ID: `aZZSgAAAAACtoyVWiXEA59j0hbcF/+aG`

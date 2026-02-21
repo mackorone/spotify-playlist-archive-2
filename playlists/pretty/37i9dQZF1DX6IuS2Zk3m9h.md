@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Auntie Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,420 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,443 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain]
 | 16 | [Get It On The Floor](https://open.spotify.com/track/094MWdspdy9amhOi8TFlIN) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:22 |
 | 17 | [They Know \(Dey Know\)](https://open.spotify.com/track/6TQANhh0iV17xMeExcH6qj) | [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [They Know \(Dey Know\)](https://open.spotify.com/album/59ufCjp6Z4A84OcOvA4VTt) | 3:18 |
 | 18 | [Good Thang](https://open.spotify.com/track/59HQ2XX0JygR0nRCZRa6HD) | [Pretty Willie](https://open.spotify.com/artist/5r1sjcu5J3kVkuz9oIRxy2) | [Good Thang](https://open.spotify.com/album/0rW9cCiVBuno5SoOhfQiQs) | 4:02 |
-| 19 | [I Do](https://open.spotify.com/track/7kbgzSYR7X9FkzIeUFkviQ) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 5:11 |
+| 19 | [I Do](https://open.spotify.com/track/7kbgzSYR7X9FkzIeUFkviQ) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 5:11 |
 | 20 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 |
 | 21 | [Put It on Ya \(feat\. Chris J\)](https://open.spotify.com/track/2m0dyKic2V40cSkuO9CNm7) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Chris J](https://open.spotify.com/artist/6AU5hm7RJo0j9pmsNOeJKB) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:17 |
 | 22 | [Signs](https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 3:56 |

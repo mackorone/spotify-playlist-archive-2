@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
+> Latin Afrobeats heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,624 likes - 105 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,635 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 104 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
 | 105 | [Otra Nota](https://open.spotify.com/track/1K6KOksALqazcc6ziZeQji) | [Golden](https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d), [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Otra Nota](https://open.spotify.com/album/4zLLzmJXHnV3bD8mUTw6sn) | 3:19 |
 
-Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`
+Snapshot ID: `AAAAAFpdDYtA4DuXw6+zbJGVy7mdNFjK`

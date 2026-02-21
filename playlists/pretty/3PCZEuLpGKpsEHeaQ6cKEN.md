@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Layton Giordani &amp; Camden Cox
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,670 likes - 359 songs - 18 hr 50 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,649 likes - 359 songs - 18 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -368,4 +368,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 358 | [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 |
 | 359 | [Flashdance \- Deep Dish Does The Chug Remix](https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Flashdance](https://open.spotify.com/album/2KUAEIvek1mWKGSyyKoWG2) | 3:15 |
 
-Snapshot ID: `AADVeU4UEt8ufCCHehgwWszwSfJO2+xm`
+Snapshot ID: `AADVeos0qdCjj36Swy1ieeN1VlIyhBqL`

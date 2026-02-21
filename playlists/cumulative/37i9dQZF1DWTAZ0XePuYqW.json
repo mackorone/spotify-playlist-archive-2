@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "KABEAUSH\u00c9's got that big energy. ",
+  "description": "Shermanology's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174538,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/4iE2KfYQE5Wn6bhkb1XgWi"
@@ -6993,6 +6993,28 @@
     },
     {
       "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/6P9ZOQhTWV1IPlWjCKMcGZ"
+      },
+      "artists": [
+        {
+          "name": "Errol Bangz",
+          "url": "https://open.spotify.com/artist/4PImuHocsE9Dw18JzVmAgs"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/3toVjdlPnJzbBhh6qUnyoK"
+    },
+    {
+      "album": {
         "name": "Crying Crystals",
         "url": "https://open.spotify.com/album/31B1N5WugxOJyVkDlRXT5j"
       },
@@ -10680,7 +10702,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 198214,
       "name": "Staaaaaaaaaay",
       "url": "https://open.spotify.com/track/54HE9SBZW1lDoKhf0cZ73D"
@@ -11292,6 +11314,24 @@
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
+        "name": "That's My Ish",
+        "url": "https://open.spotify.com/album/3sz3C74fnAZPn2ZosZ9l7q"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "That's My Ish",
+      "url": "https://open.spotify.com/track/59Ytlj1b0GhpWGsWvZKavV"
     },
     {
       "album": {
@@ -12614,7 +12654,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228750,
       "name": "White Peach",
       "url": "https://open.spotify.com/track/5tBitfdRGhtOGIOITsh3Jt"

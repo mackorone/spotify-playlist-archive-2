@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-218 songs - 10 hr 15 min
+219 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 | 2024-12-20 | 2025-10-25 |
 | [Olówó Orími](https://open.spotify.com/track/0jnY0KM7DPfzQHuv6wheFd) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [Olówó Orími](https://open.spotify.com/album/6RAiSXqmTSMMcJlVDl7jLk) | 3:35 | 2026-02-13 |  |
 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 | 2025-01-17 | 2025-03-29 |
-| [Omo To Sexy \(Remix\)](https://open.spotify.com/track/5OagKmQtxCE2CQXZBg0Mi3) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Omo To Sexy \(Remix\)](https://open.spotify.com/album/3QA24Xmdshql1Thj9gODGp) | 2:46 | 2025-12-19 |  |
+| [Omo To Sexy \(Remix\)](https://open.spotify.com/track/5OagKmQtxCE2CQXZBg0Mi3) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Omo To Sexy \(Remix\)](https://open.spotify.com/album/3QA24Xmdshql1Thj9gODGp) | 2:46 | 2025-12-19 | 2026-02-21 |
 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 | 2025-12-05 |  |
 | [On God](https://open.spotify.com/track/6386NbJ2i8CAf5iaTJgwV5) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [On God](https://open.spotify.com/album/2yDADWBzguJS46NDxVrhK7) | 2:47 | 2024-11-29 | 2025-08-01 |
 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2025-02-28 | 2025-03-15 |
@@ -204,6 +204,7 @@
 | [Temperature \(E Dey Hot\)](https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Temperature \(E Dey Hot\)](https://open.spotify.com/album/1rsNVVWjJEUf6CPEggHgDv) | 2:37 | 2025-10-24 | 2025-11-07 |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2024-12-17 |
 | [Toffee](https://open.spotify.com/track/526ajsmmCi9QKfOQCJiZn3) | [Veola](https://open.spotify.com/artist/5fLNzZuVFMdNKfNOvWA39i) | [Toffee](https://open.spotify.com/album/3gtf09EytYdN4bfuTXsvCW) | 3:05 | 2025-11-14 |  |
+| [Tolotolo](https://open.spotify.com/track/0r3Ih6qH8xMDzqJmErLSAN) | [Nyinée](https://open.spotify.com/artist/6Z2nDqpkGxvethBqjEPEbg) | [Tolotolo](https://open.spotify.com/album/5QaDucTY5mtu9ibsMQJAcY) | 2:00 | 2026-02-20 |  |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-11-29 | 2025-01-18 |
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-11-29 | 2025-05-30 |
 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 | 2025-09-05 |  |

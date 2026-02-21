@@ -4,7 +4,7 @@
 
 > Innately spellbinding & meditative, absent of endings & beginnings\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-67 songs - 5 hr 49 min
+68 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cash Under Your Bed](https://open.spotify.com/track/4lUfqswEnCgJJ7YzOBZoai) | [Punko](https://open.spotify.com/artist/4yzuY0P7bNgPKnhgtPzMMt) | [Plants Singing](https://open.spotify.com/album/74HCkCdqWIyJHwCIag0pYm) | 3:30 | 2025-04-10 |  |
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2025-04-10 |  |
 | [Comforting Sounds](https://open.spotify.com/track/4ZXa883a23f8Ei1Cg0zt5K) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy \(Deluxe Version\)](https://open.spotify.com/album/3sGzkurA1fvEFqh73sWCVA) | 8:57 | 2025-04-10 |  |
+| [Dirt](https://open.spotify.com/track/1oJ2KxSAW1T9UwLJ1I6M7Q) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 5:09 | 2026-02-20 |  |
 | [Dizzy Spin](https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 4:45 | 2025-04-10 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 | 2025-04-10 |  |

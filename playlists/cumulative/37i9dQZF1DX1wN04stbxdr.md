@@ -4,7 +4,7 @@
 
 > Hør årets tolkninger her!
 
-147 songs - 7 hr 17 min
+147 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Null Kjærlighet \(feat\. Ina Wroldsen\)](https://open.spotify.com/track/2QzYSpruQQXyO7lEf0bVhy) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Null Kjærlighet](https://open.spotify.com/album/2a0kPgdKYR4pFT3aWQaF0B) | 2:12 | 2025-02-13 |  |
 | [När flingor smälter \(Home Is Where The Heart Is\)](https://open.spotify.com/track/0R8WTdlOw6nj5uOfWbUPzs) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [När flingor smälter \(Home Is Where The Heart Is\)](https://open.spotify.com/album/1CsVZnEF93b6paVlXaJYlu) | 2:46 | 2025-01-16 |  |
 | [Nåde](https://open.spotify.com/track/4B0evgCHWmFmtRkC0T5dmk) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nåde](https://open.spotify.com/album/1SyAaDEjU3XsYGsvh3GH00) | 3:05 | 2025-01-09 |  |
+| [Når dagen gryr](https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2026](https://open.spotify.com/album/4JfR24AueUvkcKtMA9rj4w) | 3:00 | 2026-02-19 |  |
 | [ok jeg lover](https://open.spotify.com/track/63toIh9OgvWV32FAUMYiTO) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [ok jeg lover](https://open.spotify.com/album/5dvJFEvL2HVipJpcOlZj9k) | 3:58 | 2024-06-18 | 2025-01-03 |
 | [Ok rosa blomst](https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ok rosa blomst](https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH) | 2:47 | 2026-02-05 |  |
 | [Om det brenn](https://open.spotify.com/track/0BIHeQUSZxPAax9tW7RYOt) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Om det brenn](https://open.spotify.com/album/1bnCMiI7ItAop5zr8IsYPa) | 3:10 | 2025-01-16 |  |
@@ -138,7 +139,6 @@
 | [Til ungdommen](https://open.spotify.com/track/3mh1oYBAQy657NrVLONKlg) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Til ungdommen](https://open.spotify.com/album/1J1JmjaTOxnrlVfHj7J5zO) | 2:56 | 2026-01-22 |  |
 | [tir n’a noir](https://open.spotify.com/track/5RafTbs5fZsq0OBlkGhOkY) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [tir n’a noir](https://open.spotify.com/album/3OgMVRRvWfR9juLQ0X6JeG) | 3:28 | 2024-06-18 | 2025-01-03 |
 | [Tivoli](https://open.spotify.com/track/5g5i4nbTBIGCB0jaRY0Jc8) | [Odin](https://open.spotify.com/artist/2mahtxdlhgnZfENR1k7l6Z), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tivoli](https://open.spotify.com/album/749nrxVL0u9FJ5CxsPt4Ik) | 2:59 | 2024-06-18 | 2025-01-03 |
-| [Track 8](https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Tre sekunder](https://open.spotify.com/track/0fTxxdkg78QdFn0jkJBt7x) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tre sekunder](https://open.spotify.com/album/2g0g5FYPXxR7JyaiMLnLNd) | 2:56 | 2025-01-30 |  |
 | [Trenger deg nå](https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Trenger deg nå](https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp) | 2:46 | 2025-01-23 |  |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-01-31 |

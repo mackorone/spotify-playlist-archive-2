@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Clipse and Pharrell",
+  "description": "Up and down I-95. Cover: A Boogie",
   "name": "State of Mind",
   "tracks": [
     {
@@ -17442,7 +17442,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 241650,
       "name": "I O U",
       "url": "https://open.spotify.com/track/1BtGKxdvvRPy1MdR2X3QDR"
@@ -20297,6 +20297,24 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Be Clear",
+        "url": "https://open.spotify.com/album/0wqkA5ESTsfVLgtguQpWGd"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Let\u2019s Be Clear",
+      "url": "https://open.spotify.com/track/3FGHVcwFT7SNJUqN4IvYMs"
+    },
+    {
+      "album": {
         "name": "O to the G",
         "url": "https://open.spotify.com/album/5Smx2e6FJ2P4j6QSyM426X"
       },
@@ -21219,6 +21237,24 @@
     },
     {
       "album": {
+        "name": "LTS",
+        "url": "https://open.spotify.com/album/1BCdultFrjTOTthBMZlHHh"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144048,
+      "name": "LTS",
+      "url": "https://open.spotify.com/track/15QCRY4QkdNU8ypHsjF51g"
+    },
+    {
+      "album": {
         "name": "Lucky (feat. Bay Swag)",
         "url": "https://open.spotify.com/album/0ocwA2O6QfLP9AgADTlYdt"
       },
@@ -21784,6 +21820,28 @@
       "duration_ms": 178472,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/1t7C4tmbmFXRu6bPsiWMqS"
+    },
+    {
+      "album": {
+        "name": "make it work",
+        "url": "https://open.spotify.com/album/7nXTLpxKPihUC2t8LDt2Oh"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "make it work",
+      "url": "https://open.spotify.com/track/5nYj71vAfXh5TahjEbT1le"
     },
     {
       "album": {
@@ -23004,7 +23062,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192700,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/5CaEp6RzYjqM6u45aG4Xa5"
@@ -25488,7 +25546,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173345,
       "name": "Off Me",
       "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
@@ -27203,7 +27261,7 @@
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217013,
+      "duration_ms": 217002,
       "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
       "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
     },
@@ -29330,7 +29388,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 206222,
       "name": "Red Light (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z"
@@ -31326,7 +31384,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 171940,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/1GM8xRGBedLMwKZOQkZQxW"
@@ -31408,6 +31466,28 @@
       "duration_ms": 212424,
       "name": "Senzu Bean",
       "url": "https://open.spotify.com/track/3sSbKX3KsusLucDAcRsdRJ"
+    },
+    {
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/4CogYzObDWO957s9LGUDR8"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lihtz",
+          "url": "https://open.spotify.com/artist/5qCTwicUCTguc1ijgLOv9z"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/69ZYrc186to9PEKTQxfyTF"
     },
     {
       "album": {
@@ -32638,7 +32718,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 202066,
       "name": "So Far Ahead",
       "url": "https://open.spotify.com/track/6kIwGkZQksciLIjIbM0NFo"
@@ -34101,6 +34181,28 @@
     },
     {
       "album": {
+        "name": "Superstars (feat. Hurricane Wisdom)",
+        "url": "https://open.spotify.com/album/1xPzS9Gd2D9p3uFNTHmEO4"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Superstars (feat. Hurricane Wisdom)",
+      "url": "https://open.spotify.com/track/6MILsIR3xgTqThqFTDOG8m"
+    },
+    {
+      "album": {
         "name": "Survivors Guilt",
         "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
@@ -35407,6 +35509,28 @@
     },
     {
       "album": {
+        "name": "The World is Yours",
+        "url": "https://open.spotify.com/album/4gwJGNFuubQOYyYPYpPTyV"
+      },
+      "artists": [
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        },
+        {
+          "name": "Supah Mario",
+          "url": "https://open.spotify.com/artist/2wYv5uuLtIZFgP0nbptsMz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185240,
+      "name": "The World is Yours",
+      "url": "https://open.spotify.com/track/79vxsQgnIhbXeCMbDk3BcU"
+    },
+    {
+      "album": {
         "name": "Therapy Music",
         "url": "https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9"
       },
@@ -36222,7 +36346,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 240107,
       "name": "TRAFFIC",
       "url": "https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4"
@@ -36422,6 +36546,24 @@
       "duration_ms": 163636,
       "name": "TRIP (feat. Jaasu)",
       "url": "https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii"
+    },
+    {
+      "album": {
+        "name": "Triple Profit",
+        "url": "https://open.spotify.com/album/0VieIYvCypPlq9E6kE76QO"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "Triple Profit",
+      "url": "https://open.spotify.com/track/4hvDsR0GFiDg8cbD2nmJ6F"
     },
     {
       "album": {

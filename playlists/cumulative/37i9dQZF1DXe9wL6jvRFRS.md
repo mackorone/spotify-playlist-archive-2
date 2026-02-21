@@ -2,9 +2,9 @@
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Any Young Mechanic on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. My New Band Believe on the cover.
 
-79 songs - 5 hr 46 min
+84 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dashboard Mary](https://open.spotify.com/track/2HzzUsnvXCwuPoA9KcR4nm) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Dashboard Mary](https://open.spotify.com/album/1PeEa3YrC7aD17XAASuBZz) | 4:53 | 2026-02-06 |  |
 | [Daylight Song](https://open.spotify.com/track/45DLA7sPqqGHG9NN3UPbRI) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Daylight Song](https://open.spotify.com/album/4gG8abNIluKFuWdWSKhSZb) | 3:07 | 2025-07-10 |  |
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-07 |  |
+| [Distortions](https://open.spotify.com/track/7q4PoGVq65CSWGf5F03iqm) | [EVELYN GRAY](https://open.spotify.com/artist/3ROjDWkV3PwlHpHKrSv1T8) | [Distortions](https://open.spotify.com/album/3s5wWrD3icmSP41dAJ1K6r) | 4:52 | 2026-02-20 |  |
 | [Do You Think I'm Pretty](https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Grip Your Fist, I'm Heaven Bound](https://open.spotify.com/album/6kb777ggEqdZEN2J80USnD) | 5:42 | 2025-07-10 |  |
 | [Don't](https://open.spotify.com/track/4DjMJy8edIKQsIbExacgnG) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 2:45 | 2025-07-10 |  |
 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 | 2025-07-10 |  |
@@ -51,6 +52,7 @@
 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-11-07 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 |  |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
+| [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 | 2026-02-20 |  |
 | [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 | 2025-11-21 |  |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2025-07-10 |  |
@@ -73,6 +75,7 @@
 | [Still](https://open.spotify.com/track/1WTYHbDGKGNE7ujGhXj5sD) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Hellfire](https://open.spotify.com/album/68z6MWYYNmvTcru1QMcYId) | 5:46 | 2025-07-10 |  |
 | [Taflu Dŵr](https://open.spotify.com/track/4OgRIII5BvnFvS4HzLmi4S) | [Peiriant](https://open.spotify.com/artist/2PMWedg2LEETdzWHOB60KI) | [Dychwelyd](https://open.spotify.com/album/1andxDOpfZj8Jzk1uXLosq) | 4:39 | 2025-07-10 |  |
 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-10 |  |
+| [Tears Are](https://open.spotify.com/track/7stcnuYJENeGeElIewTiSM) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [Tears Are](https://open.spotify.com/album/55qNiuxAaaC6YHvFQMmz6M) | 5:32 | 2026-02-20 |  |
 | [Tell the Bees](https://open.spotify.com/track/707ulKkQ97JLUzIkPpNOAm) | [Otala](https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE) | [Tell the Bees](https://open.spotify.com/album/51LbqwNsQknvhicP2SgI11) | 2:21 | 2025-07-10 |  |
 | [The Ants](https://open.spotify.com/track/0HK3HtEmnidY5r13CyZf1x) | [Coldwave](https://open.spotify.com/artist/3hg7JeEykcBkSUlZHaFT6L) | [The Ants / Italia '06](https://open.spotify.com/album/51dv7dIEla9QDBP9Bx7nsy) | 2:51 | 2025-07-10 |  |
 | [The New Sound](https://open.spotify.com/track/2gGHan1D8nlvv27lQU2GjL) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [The New Sound](https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5) | 4:47 | 2025-07-10 |  |
@@ -85,7 +88,9 @@
 | [Tormentor](https://open.spotify.com/track/61K6XZE3e4Myl89Xgd57YS) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [The Flowers I See You In](https://open.spotify.com/album/0Xe00l36xtM6l0gRUcGuXu) | 2:40 | 2026-02-06 |  |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-10-08 |  |
 | [twothousandandtwo](https://open.spotify.com/track/7BLNcnh1NwIct2oIQuYwV2) | [War Room](https://open.spotify.com/artist/07capJSDwiqRZPkID32RpX) | [Please Don't Fight In Here](https://open.spotify.com/album/1Hd4A3gIU5ZiNnuQ3w3k8N) | 6:00 | 2025-07-10 |  |
+| [Virgin Soil](https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Virgin Soil](https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix) | 3:30 | 2026-02-20 |  |
 | [We're Home Now](https://open.spotify.com/track/0wuOtAHsrFs7SW0PnS6Ikx) | [Cagefly](https://open.spotify.com/artist/0fIkgtLZMpqeF1OhjIQp0q) | [Cagefly](https://open.spotify.com/album/2dxfj5YVAPAVhbfkoMUprk) | 7:27 | 2025-07-10 |  |
 | [Where The Barrel Meets The Badger](https://open.spotify.com/track/4xCxX6gOcz2pEuvNcdJZWZ) | [Dog Race](https://open.spotify.com/artist/36Ar4uCS5iNCgQLMFrWKyA) | [Return The Day](https://open.spotify.com/album/5um2imkoEj1KJCcn0rmN8x) | 4:48 | 2025-07-10 |  |
+| [Wound Nurse \- 2026 remastered](https://open.spotify.com/track/0OULYgsVb0PUzmgDJjv9Nu) | [MPTL Microplastics](https://open.spotify.com/artist/2BH6uV89RUqArZA5l8hfQd) | [Sod In Heaven](https://open.spotify.com/album/04Ixr0DaUUWMkoib1b4LfQ) | 6:05 | 2026-02-20 |  |
 
 \*This playlist was first scraped on 2025-07-11. Prior content cannot be recovered.

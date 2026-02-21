@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 579248,
+  "num_followers": 579352,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAABpTLJtSd41wXlQ9QEsdOQl",
+  "snapshot_id": "aZZSgAAAAADujqdIWoQWNomjVLkcTatk",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Girl With One Eye",
-      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
+      "duration_ms": 214053,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
+      "duration_ms": 218613,
+      "name": "Girl With One Eye",
+      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
     },
     {
       "added_at": null,
@@ -527,26 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got The Love (Jamie xx Rework)",
-        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 342990,
-      "name": "You've Got The Love - Jamie xx Rework",
-      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,
@@ -567,18 +559,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+        "name": "You've Got The Love (Jamie xx Rework)",
+        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
+      "duration_ms": 342990,
+      "name": "You've Got The Love - Jamie xx Rework",
+      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
     },
     {
       "added_at": null,

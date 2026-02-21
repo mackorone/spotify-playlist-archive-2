@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-242 songs - 14 hr 3 min
+242 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 | 2026-01-16 |  |
 | [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 | 2025-11-01 |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 | 2026-02-07 |
+| [Someone](https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [All Worlds \(Deluxe\)](https://open.spotify.com/album/5TyvNMA5Nrc3GNMwjGnLo5) | 2:37 | 2026-02-19 |  |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
 | [Sometimes](https://open.spotify.com/track/297G6WwahvL2zaRj4BGZio) | [Jennifer Walton](https://open.spotify.com/artist/1tsCntTj7gHy67liJL1uhg) | [Sometimes](https://open.spotify.com/album/4odwwTmIfvxdm7ACw9767y) | 4:15 | 2025-09-16 |  |
 | [Sozzy](https://open.spotify.com/track/423XjSWHcBexA8wa7Ih8k2) | [Stone](https://open.spotify.com/artist/4s3jGYoeYr7sX3fB1hLVAn) | [Dream Curtain Eternally Gentle](https://open.spotify.com/album/5YgOgdzglwxc0r3RritcFx) | 4:02 | 2025-09-26 |  |
@@ -223,7 +224,6 @@
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
-| [Track 11](https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 |  |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 |  |
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 | 2026-01-24 |

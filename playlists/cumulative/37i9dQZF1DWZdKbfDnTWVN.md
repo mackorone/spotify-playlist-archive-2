@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=E8krK0emQUe67utr5J7XmQ"> Buruklyn Boyz</a>
 
-473 songs - 1 day 1 hr 32 min
+474 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Au Revoir](https://open.spotify.com/track/4FvQmCYubtpfKo5Dhbmf0f) | [Sheaffèr Hez](https://open.spotify.com/artist/0qULQvjFwJoYTjwAMQQFc7) | [SUPREME](https://open.spotify.com/album/3fXiFOgUIgjXK7XndFWN3I) | 2:26 | 2022-06-02 | 2022-10-22 |
 | [Audio Ngori](https://open.spotify.com/track/3JP47gebAg19MBjI1c2nU5) | [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX), [The Swamiii](https://open.spotify.com/artist/41s5UgViwfxoeKBxuJjtVh) | [Audio Ngori](https://open.spotify.com/album/2StZdKps7oakxQ01yofgfp) | 2:42 | 2024-06-13 | 2024-08-09 |
 | [Backbencher](https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Backbencher](https://open.spotify.com/album/7lydZgu9oglnh5EDYEbG6z) | 2:53 | 2025-06-19 |  |
+| [Bad Everyday](https://open.spotify.com/track/3WL6zAHhNf0vfdIhRv8O61) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Bad Everyday](https://open.spotify.com/album/5kPrLWslg79OTdErJO5wfe) | 2:49 | 2026-02-20 |  |
 | [Bad Gyal](https://open.spotify.com/track/7CTNLehVKLNLXLthemIe1J) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Bad Gyal](https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF) | 3:41 | 2025-08-07 | 2025-08-15 |
 | [Baddest Ever](https://open.spotify.com/track/3CqNl6iaUVpsAzXsl6mj7N) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Baddest Ever](https://open.spotify.com/album/4BhPEacIUL3ct2wMvGteaS) | 3:14 | 2024-05-23 | 2025-03-14 |
 | [Balaclava Lover](https://open.spotify.com/track/3QuHQFfzxrtMMRrmL2BXxH) | [Favour Mutuma](https://open.spotify.com/artist/7I9PKJFM19h0G1CY2FA3mf) | [Balaclava Lover](https://open.spotify.com/album/7e5RSVHDI5xnEwhYy0I4RR) | 3:42 | 2024-03-28 | 2024-10-26 |
@@ -69,7 +70,7 @@
 | [Catch 22](https://open.spotify.com/track/5eX5ijChtp6M9e5VZ6cZkR) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Catch 22](https://open.spotify.com/album/77bI1OU7pJRRdS828EgGVh) | 1:52 | 2025-12-18 | 2026-02-19 |
 | [Chachisha](https://open.spotify.com/track/3HSoCY72QqYJrbWqde9LJC) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 2:58 | 2024-01-26 | 2024-03-08 |
 | [Chachisha](https://open.spotify.com/track/7qqhMOYy8FU1SnwLpGLMhv) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/19omrLfZdSm48xHpEgWG06) | 2:58 | 2023-09-14 | 2024-01-29 |
-| [Chanua Ma Namble](https://open.spotify.com/track/0E4EivoDa0Yc1VIBNOjips) | [MASTAR VK](https://open.spotify.com/artist/6MfFpPlImcpGNkoIIA1rDj), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chanua Ma Namble](https://open.spotify.com/album/4osdLyRo3PUmij2NFMN1fN) | 3:09 | 2025-07-03 |  |
+| [Chanua Ma Namble](https://open.spotify.com/track/0E4EivoDa0Yc1VIBNOjips) | [MASTAR VK](https://open.spotify.com/artist/6MfFpPlImcpGNkoIIA1rDj), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chanua Ma Namble](https://open.spotify.com/album/4osdLyRo3PUmij2NFMN1fN) | 3:09 | 2025-07-03 | 2026-02-21 |
 | [Chase](https://open.spotify.com/track/0mZBoHCXAX8ff0W1N1fN0R) | [8th Street Gang](https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO) | [Chase](https://open.spotify.com/album/6CBCDbvWG5yQpVYQpNJGBj) | 3:29 | 2025-06-05 | 2025-10-24 |
 | [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 | 2023-08-05 |
 | [CheckMate](https://open.spotify.com/track/2OUQRk5XWWFVyYMJC5ish3) | [Yogen](https://open.spotify.com/artist/4ZsMHZuxPsMR0eS8dmyK7F), [Mluhyaflani](https://open.spotify.com/artist/4B0hzYTjXATjN6D2sOdNnS), [Adogo](https://open.spotify.com/artist/5tlx3L2WROpYDCtAVQOtgq) | [CheckMate](https://open.spotify.com/album/0D8eNXzrKvDNOyYakFkGiX) | 3:38 | 2026-01-29 |  |

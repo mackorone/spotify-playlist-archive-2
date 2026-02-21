@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,101 songs - 2 day 6 hr 53 min
+1,102 songs - 2 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-26 | 2024-08-08 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 | 2025-01-17 |
 | [Ok](https://open.spotify.com/track/72vi3juBT0iaK0fwePm3ky) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Ok](https://open.spotify.com/album/1l3exYRBannWFRLP2D3CM9) | 2:31 | 2025-08-21 | 2025-09-19 |
+| [OK \(feat\. ANI\)](https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [OK \(feat\. ANI\)](https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73) | 2:29 | 2026-02-19 |  |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-30 |
 | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/track/6Qt8lAqvwTsfTdVzxJxGBv) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/album/4JlM4Fe25dcpi2cZdeu629) | 3:26 | 2025-09-25 | 2026-01-15 |
 | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/track/57pzlmYbXGWawWwNkFKavK) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Olla ku mä \(feat\. Sara Bee\)](https://open.spotify.com/album/7DS822E6LEyHdPIeyj2Ens) | 2:42 | 2025-07-03 | 2025-08-29 |
@@ -915,7 +916,7 @@
 | [Säätänää](https://open.spotify.com/track/0oaKMTjVA3KQR5xBn4NeTe) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Säätänää](https://open.spotify.com/album/1E5ySghfEKXG4kkgzqvL5J) | 2:30 | 2025-07-03 | 2025-08-22 |
 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 | 2025-01-23 | 2025-02-14 |
 | [Taaksepäin](https://open.spotify.com/track/2ogjktR7okwyXT8muIGFfa) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Taaksepäin](https://open.spotify.com/album/3S0uY1lN3m1mwY0uDOGm2D) | 3:02 | 2024-12-12 | 2025-01-03 |
-| [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 | 2025-10-23 |  |
+| [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 | 2025-10-23 | 2026-02-21 |
 | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/track/2P4WCxlGWpJiHacsAUBxZj) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/album/2Vd1PcIQvuM04BCeKPKdZs) | 2:33 | 2025-09-25 | 2025-10-03 |
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 | 2025-01-24 |
 | [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-14 | 2024-11-08 |

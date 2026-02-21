@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Best Pony",
+        "url": "https://open.spotify.com/album/1T5NMb5Oq7ilxod1IZvQoA"
+      },
+      "artists": [
+        {
+          "name": "Sophiaaaahjkl;8901",
+          "url": "https://open.spotify.com/artist/7otvnD5KZH9KfeMk62VqSj"
+        },
+        {
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328351,
+      "name": "Best Pony",
+      "url": "https://open.spotify.com/track/7ohh6tH0STpX1A5rzzjQfL"
+    },
+    {
+      "album": {
         "name": "better start",
         "url": "https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg"
       },
@@ -3282,6 +3304,24 @@
       "duration_ms": 183750,
       "name": "GOTH BITCH DUB - 5p4M Remix",
       "url": "https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z"
+    },
+    {
+      "album": {
+        "name": "Great Fairy Fountain (From \"The Legend of Zelda: Ocarina of Time\")",
+        "url": "https://open.spotify.com/album/30f9j2ZuaOY0GTtyhdQ5kk"
+      },
+      "artists": [
+        {
+          "name": "Duzzled",
+          "url": "https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Great Fairy Fountain (From \"The Legend of Zelda: Ocarina of Time\")",
+      "url": "https://open.spotify.com/track/6yTpWXx5VvVfL8acHx8jYi"
     },
     {
       "album": {
@@ -7959,6 +7999,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5ghEdRGCMpU5zBMjDsG2k9"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1olQDDyFl2VoptI4PO7s6f"
+    },
+    {
+      "album": {
         "name": "STEREO",
         "url": "https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR"
       },
@@ -9494,6 +9552,24 @@
       "duration_ms": 281221,
       "name": "YOUR TOUCH",
       "url": "https://open.spotify.com/track/0FuB5N3msY4vAbyA4cngiI"
+    },
+    {
+      "album": {
+        "name": "zip",
+        "url": "https://open.spotify.com/album/2AUBPZdJMfdcOnU7MeozSV"
+      },
+      "artists": [
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108015,
+      "name": "zip",
+      "url": "https://open.spotify.com/track/628T47wvIfjsBko9Lwkkpb"
     }
   ],
   "url": "https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ"

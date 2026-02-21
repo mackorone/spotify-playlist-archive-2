@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Reblah, FIDEL E\. William Churemi
 
-1,546 songs - 3 day 10 hr 15 min
+1,547 songs - 3 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Only \- Remix](https://open.spotify.com/track/1mswnt0cUx07QSiuEb0etC) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY) | [The ONLY \(Ep\)](https://open.spotify.com/album/5shWxKWUY5ezc2na9YKVF0) | 2:39 | 2025-11-14 | 2025-11-18 |
 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 | 2023-11-03 | 2024-07-27 |
 | [Only God Did That For Me](https://open.spotify.com/track/0TapW9tVJX74jp6nnx1oF6) | [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Only God Did That For Me](https://open.spotify.com/album/0azCVzaP8SkTTPwaVIbh8D) | 3:04 | 2025-11-14 | 2025-12-05 |
+| [Only Human](https://open.spotify.com/track/1wo5KXVinDwmiYjNbnR9Zz) | [Tdooooo](https://open.spotify.com/artist/0JePZ1mbYZS6koCzQGphiI) | [Only Human](https://open.spotify.com/album/3jhcjfORi7cqNf3E6izq2x) | 2:58 | 2026-02-20 |  |
 | [Only Jesus](https://open.spotify.com/track/28vbVRmZCU0kKVTctUX6XI) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [New Chapter](https://open.spotify.com/album/0JwKLvvyqmdYRaKbk7zOe1) | 2:31 | 2025-10-03 | 2025-10-24 |
 | [Only Me Know](https://open.spotify.com/track/3CrcobHZigbngj00xaXWcO) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Only Me Know](https://open.spotify.com/album/1EaNdICx9xrQQsQsoJ408a) | 3:16 | 2025-06-06 | 2025-07-04 |
 | [Only You](https://open.spotify.com/track/7aV505QqvikC9q8oFEihV0) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Only You](https://open.spotify.com/album/1asaOf1MnDnA1m8yqo2Tsu) | 2:41 | 2024-10-25 | 2024-12-27 |

@@ -1,6 +1,6 @@
 {
   "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: miaw",
-  "num_followers": 64902,
+  "num_followers": 64997,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
@@ -215,17 +215,25 @@
     {
       "added_at": "2026-02-19 23:00:58",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "All Worlds (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyvNMA5Nrc3GNMwjGnLo5"
       },
       "artists": [
         {
           "name": "Lust For Youth",
           "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        },
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 157631,
+      "name": "Someone",
       "url": "https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo"
     },
     {

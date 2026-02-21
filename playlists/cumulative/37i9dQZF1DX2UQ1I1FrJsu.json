@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217240,
       "name": "Bonita Applebum",
       "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 219785,
       "name": "Don't Play The Fool",
       "url": "https://open.spotify.com/track/4vEumGHAzM47dHpIsUUTmt"
@@ -1436,6 +1436,24 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "album": {
+        "name": "See What Happens",
+        "url": "https://open.spotify.com/album/1W26VVmX3AxUTNzDvDKsBf"
+      },
+      "artists": [
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71282,
+      "name": "Going Good",
+      "url": "https://open.spotify.com/track/3OkCBX6SixDGJDfhQeKlEV"
     },
     {
       "album": {
@@ -2936,6 +2954,28 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+    },
+    {
+      "album": {
+        "name": "Celestial Suite Flips",
+        "url": "https://open.spotify.com/album/1r26u9T12UZW85xojuX1ae"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142986,
+      "name": "Shameful Game, Pt. 2",
+      "url": "https://open.spotify.com/track/24FJDx0bkt4VLYYDB1cBDe"
     },
     {
       "album": {

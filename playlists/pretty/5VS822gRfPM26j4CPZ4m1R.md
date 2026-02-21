@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,944 likes - 631 songs - 1 day 13 hr 30 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,944 likes - 633 songs - 1 day 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -639,5 +639,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 629 | [Flowers in the Garden](https://open.spotify.com/track/59QMzFQooFuIhGyrHqQZMH) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 4:05 |
 | 630 | [Presente](https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Presente](https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7) | 3:58 |
 | 631 | [Window](https://open.spotify.com/track/6aEkKd66Ik1zyVEBSMomK2) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1q1GEYLNeJzXBXzINilLhh) | 2:59 |
+| 632 | [In Numbers](https://open.spotify.com/track/5o7D67sy3DZHqT2lNkuOmh) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Sweet Heart Sugar Love](https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR) | 3:57 |
+| 633 | [Three Four](https://open.spotify.com/track/0qKGdje9mi0K1RH2qOK4Vm) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Sweet Heart Sugar Love](https://open.spotify.com/album/29xXHSOnoCwEFbu5K6oaUR) | 2:53 |
 
-Snapshot ID: `AAAMSUmKYX1XdiXBZT73oYcqb5kvoaOs`
+Snapshot ID: `AAAMS21Zpyy07XDlr4wFgmMO11wytD+o`

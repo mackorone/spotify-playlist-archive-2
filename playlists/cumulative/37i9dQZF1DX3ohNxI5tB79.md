@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-357 songs - 22 hr 53 min
+358 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [I Feel the Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel the Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 | 2024-11-14 | 2025-10-09 |
 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2025-05-19 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-11-27 |  |
+| [I Wish](https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Wish](https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq) | 2:36 | 2026-02-20 |  |
 | [Iconoclasts](https://open.spotify.com/track/0favNaT6zVgr7CAxepoKL0) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Iconoclasts](https://open.spotify.com/album/0HCtHecb8UJYmlHER6fmwg) | 3:38 | 2022-09-30 | 2022-11-03 |
 | [Iconoclasts](https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:38 | 2022-10-30 | 2024-02-24 |
 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 | 2021-12-13 | 2024-07-27 |
@@ -282,7 +283,7 @@
 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 | 2021-12-13 | 2022-12-02 |
 | [Strength](https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19) | 4:38 | 2021-12-13 | 2022-07-29 |
 | [Strength](https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/3iObboZ4jyfu1RWLzeCAqx) | 4:38 | 2022-07-05 | 2024-02-24 |
-| [Summer Rain](https://open.spotify.com/track/5DNBQFAFA45nQ9csxnTm2o) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Summer Rain](https://open.spotify.com/album/7BshfS2Wmmf5yKmkbIF6j4) | 3:27 | 2025-02-10 |  |
+| [Summer Rain](https://open.spotify.com/track/5DNBQFAFA45nQ9csxnTm2o) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Summer Rain](https://open.spotify.com/album/7BshfS2Wmmf5yKmkbIF6j4) | 3:27 | 2025-02-10 | 2026-02-21 |
 | [SUNLIGHT](https://open.spotify.com/track/5YsdarH0He9NVsoATnLxII) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SUNLIGHT](https://open.spotify.com/album/1ndKXr9Z4VPa6Ji7lwxfIe) | 3:14 | 2023-05-18 | 2024-06-29 |
 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 | 2022-09-30 | 2025-02-11 |
 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 | 2025-05-19 |  |

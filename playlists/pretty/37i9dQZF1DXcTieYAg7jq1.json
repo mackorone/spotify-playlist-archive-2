@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Olivia Dean",
-  "num_followers": 432089,
+  "num_followers": 432209,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKopT6x0itBfk7BlZNN/iJLRks2C",
+  "snapshot_id": "AAAAAMA1hsO5OWtdB/kaC4Uj6Zr+/obG",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:33",
@@ -55,6 +55,22 @@
       "duration_ms": 206511,
       "name": "Get In Girl",
       "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1487,22 +1503,6 @@
       "duration_ms": 229289,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 263297,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp"
     },
     {
       "added_at": "2024-03-08 05:01:00",

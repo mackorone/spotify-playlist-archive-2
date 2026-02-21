@@ -1,13 +1,149 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Garrett Kato",
+  "description": "A laid-back trip in the folk scene. Cover: Jonah Kagen",
   "num_followers": 167170,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGH4StAhSgtUTdSkfQIGjDlfE7zB",
+  "snapshot_id": "AAAAACAWNH2ixekMGfFCi36azdQxs++S",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Talkin' About Jesus",
+        "url": "https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Talkin' About Jesus",
+      "url": "https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "I Can Dream",
+        "url": "https://open.spotify.com/album/79T68idWo8fapNq659HB0a"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "duration_ms": 265179,
+      "name": "Maywell",
+      "url": "https://open.spotify.com/track/5YAK7c9Azk9DUfoDBfjNNc"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Lake Effect",
+        "url": "https://open.spotify.com/album/5M2Qm6miL0fBOSlaYQE3y6"
+      },
+      "artists": [
+        {
+          "name": "Darryl Rahn",
+          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
+        }
+      ],
+      "duration_ms": 196917,
+      "name": "Lake Effect",
+      "url": "https://open.spotify.com/track/1V57OlQHsUEePM47rxYjxQ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:30",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0Hg77PUb3vybnbsbuct5Hz"
+      },
+      "artists": [
+        {
+          "name": "We Lepers",
+          "url": "https://open.spotify.com/artist/3NUxNOAEGlJsIeormnXtnr"
+        },
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2HOlrg63jArzoBkAPbQxTC"
+    },
     {
       "added_at": "2026-02-13 05:01:21",
       "album": {
@@ -2315,138 +2451,6 @@
       "duration_ms": 190348,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/4HAEvT4ylhnLybDfl8hmDm"
-    },
-    {
-      "added_at": "2025-10-03 00:01:12",
-      "album": {
-        "name": "Black Water (Cinematic Version)",
-        "url": "https://open.spotify.com/album/3JLqLjiwfQfK2rUehzH5Dj"
-      },
-      "artists": [
-        {
-          "name": "Reuben And The Dark",
-          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
-        }
-      ],
-      "duration_ms": 217165,
-      "name": "Black Water - Cinematic Version",
-      "url": "https://open.spotify.com/track/3pMKzFAcMUDb74NbHitSFr"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Raindrop River",
-        "url": "https://open.spotify.com/album/39fxV8ZTvChfhFxlgnEwYa"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Every Minute",
-      "url": "https://open.spotify.com/track/3NE77NaFVEXQ8tlASEs2L8"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Pancho",
-        "url": "https://open.spotify.com/album/6XzwC3drvhCqH2MumYmhFC"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 205599,
-      "name": "Jeopardy - Up Late with Lefty",
-      "url": "https://open.spotify.com/track/5LzQvqJdJm1yRneSU4bfJj"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Hardcore Band",
-        "url": "https://open.spotify.com/album/3T1yBRYubBOR2qLxjBJzQO"
-      },
-      "artists": [
-        {
-          "name": "His His",
-          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
-        }
-      ],
-      "duration_ms": 108261,
-      "name": "Hardcore Band",
-      "url": "https://open.spotify.com/track/4EAuRsejUfadrIvsNR0Me0"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/4G7yVSLs4kpHia3Sa8HoJB"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 235394,
-      "name": "Heavy Metal",
-      "url": "https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Kids Table",
-        "url": "https://open.spotify.com/album/7IH426dtS8J6gAzKVJ1TSB"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Victory City",
-      "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "#44 (Live From The Woodshed)",
-        "url": "https://open.spotify.com/album/3XebHZmQyeSRolXLauZT50"
-      },
-      "artists": [
-        {
-          "name": "Amanda Rheaume",
-          "url": "https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ"
-        }
-      ],
-      "duration_ms": 277917,
-      "name": "#44 - Live From The Woodshed",
-      "url": "https://open.spotify.com/track/5veNNxR1BUk75heaV2pMEY"
     },
     {
       "added_at": "2025-09-19 00:01:10",

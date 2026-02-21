@@ -4137,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "A veces sue\u00f1o cuando me quedo despierto",
+        "url": "https://open.spotify.com/album/25fxj4NUOxhi5dwCsoGpOo"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Lastimame",
+      "url": "https://open.spotify.com/track/5PXxjDvG6r8n0d7FxZjWly"
+    },
+    {
+      "album": {
         "name": "Lives, Vol.1",
         "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
       },
@@ -5890,7 +5908,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 142500,
       "name": "Prom",
       "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"

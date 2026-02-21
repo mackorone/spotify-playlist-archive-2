@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Jengi & Eloise Keeble
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,603 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,606 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 8 | [SHADOWS](https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [SHADOWS](https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp) | 3:22 |
 | 9 | [Dance Of The Soul](https://open.spotify.com/track/77Vmd3Awqd8PNUVt5SlUx6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Dance Of The Soul](https://open.spotify.com/album/0lmUGM7RlVcHVqg4ORbuFa) | 2:58 |
 | 10 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
-| 11 | [NEVER KNEWU](https://open.spotify.com/track/6Z8cwmnjjzH65lTBYDqENg) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [](https://open.spotify.com/album/null) | 4:28 |
+| 11 | [NEVER KNEWU](https://open.spotify.com/track/6Z8cwmnjjzH65lTBYDqENg) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [YA..\. NOT A PERFECT ALBUM](https://open.spotify.com/album/2BnxTp6wFOl16swkxI1jqT) | 4:28 |
 | 12 | [Techno Rocker](https://open.spotify.com/track/1qEdy4SngOIHrZIwt0vgKQ) | [LYNSY](https://open.spotify.com/artist/5BMrgT9eEWEWWambA5iFjn) | [Techno Rocker](https://open.spotify.com/album/6epLEDtolN7ai7YYceHdXS) | 2:54 |
 | 13 | [Share The House](https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Share The House](https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl) | 3:12 |
 | 14 | [I Run \- James Hype Remix](https://open.spotify.com/track/74ulWk192IiJDpj3SYKoLU) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [I Run \(James Hype Remix\)](https://open.spotify.com/album/46hJPkWegweBPNmqGMgQrT) | 2:17 |

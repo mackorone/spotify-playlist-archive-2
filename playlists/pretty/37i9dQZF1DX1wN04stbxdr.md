@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør årets tolkninger her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,602 likes - 98 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,720 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 | 2 | [I'll be the light](https://open.spotify.com/track/1k2ac6IiUS3OoisZ92KIEX) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Oslo Hit Ensemble](https://open.spotify.com/artist/55jhiY7T5lMkZ35BubRql8), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I'll be the light](https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE) | 2:43 |
 | 3 | [Nonchalant](https://open.spotify.com/track/0nnI5UO2EtFvSFHwVlV2xu) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nonchalant](https://open.spotify.com/album/4u3lOfOswoiWbpKqSGKJLk) | 2:35 |
 | 4 | [I natt](https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I natt](https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj) | 2:30 |
-| 5 | [Track 8](https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Når dagen gryr](https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2026](https://open.spotify.com/album/4JfR24AueUvkcKtMA9rj4w) | 3:00 |
 | 6 | [Tar det i morgen](https://open.spotify.com/track/297ywb5a5vHvB4lwZ49wsq) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tar det i morgen](https://open.spotify.com/album/724SXFpV5iMBPJrELtzabG) | 2:40 |
 | 7 | [En annens problem](https://open.spotify.com/track/1aPMGxwkJ7x6XwzlQfeQ8q) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [En annens problem](https://open.spotify.com/album/0JpEfG23qncxNpVXLKEKK6) | 2:31 |
 | 8 | [Jente i fra by'n](https://open.spotify.com/track/5SJF9OUyNYVNB8Vv50BAnU) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jente i fra by'n](https://open.spotify.com/album/1qto5H2JRUfbt3dLjSXaqW) | 2:12 |

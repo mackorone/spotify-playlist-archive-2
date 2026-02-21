@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Thelma & James
+> Fearless sounds at the crossroads of country and folk\. Cover: Mumford & Sons, Chris Stapleton
 
-669 songs - 1 day 16 hr 31 min
+671 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 | 2022-09-23 | 2023-07-12 |
 | [Bad Feelings](https://open.spotify.com/track/5qd1dQIQx64UBRrz9R2rv2) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Bad Feelings](https://open.spotify.com/album/5KxjbKMXpb297j01OIGuzd) | 3:28 | 2023-12-15 | 2024-02-17 |
 | [Bad Omen](https://open.spotify.com/track/3F0e0A7yNrwneqaLHUpY2I) | [Steve Dawson](https://open.spotify.com/artist/1aXW72EBb24vfYA2FnhDf2) | [Bad Omen](https://open.spotify.com/album/02wMdNPvlHyDhTe6CIQUXX) | 4:38 | 2022-05-13 | 2022-06-04 |
+| [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-20 |  |
 | [Be My Witness \(feat\. Madison Cunningham\)](https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:22 | 2022-05-13 | 2023-02-04 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-05-13 | 2022-07-30 |
 | [Bending Over Backwards](https://open.spotify.com/track/4HyPn4ut2n0c4w8IrUc3Ix) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Bending Over Backwards](https://open.spotify.com/album/5wwzWtVWGhtKrI4mWwxu67) | 3:55 | 2024-07-26 | 2024-08-10 |
@@ -228,7 +229,7 @@
 | [Fix on the Tailwind](https://open.spotify.com/track/3bRwWeg1iB4hrStJqlDBKg) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Fix on the Tailwind](https://open.spotify.com/album/0uFKlO7rBufrhgW5pomf1V) | 2:27 | 2024-06-21 | 2024-07-06 |
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |
-| [Fool In The Woods](https://open.spotify.com/track/39LPmlSn19QgsorctBZRy0) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Fool In The Woods](https://open.spotify.com/album/7GZdlw8JHWg69d9LCMEYwX) | 3:29 | 2025-11-07 |  |
+| [Fool In The Woods](https://open.spotify.com/track/39LPmlSn19QgsorctBZRy0) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Fool In The Woods](https://open.spotify.com/album/7GZdlw8JHWg69d9LCMEYwX) | 3:29 | 2025-11-07 | 2026-02-21 |
 | [Foolish Heart](https://open.spotify.com/track/7xWGG4VbEoB9VKZDLpS95u) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Foolish Heart](https://open.spotify.com/album/41g4DflJGEF9uXagNffK0d) | 3:46 | 2025-06-27 | 2025-07-15 |
 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 | 2025-09-05 | 2026-01-31 |
 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 | 2025-07-25 |  |
@@ -272,6 +273,7 @@
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 | 2025-10-09 |  |
 | [Hell of a Daydream](https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc) | [Richard Inman](https://open.spotify.com/artist/0eha96FtThymbm5svvfopg) | [Hell of a Daydream](https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV) | 3:18 | 2025-10-17 |  |
+| [Here \(with Chris Stapleton\)](https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 3:11 | 2026-02-20 |  |
 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 | 2023-07-22 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-04-12 | 2024-08-16 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-28 | 2024-04-19 |
@@ -665,7 +667,7 @@
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 | 2022-09-24 |
 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 | 2023-08-19 |
 | [Write To Me](https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Write To Me](https://open.spotify.com/album/3ZTCe3Lselo4gQXETOs0wX) | 4:51 | 2025-08-22 | 2025-12-07 |
-| [Wrong Guy](https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Wrong Guy](https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY) | 3:10 | 2026-01-30 |  |
+| [Wrong Guy](https://open.spotify.com/track/0nR7z3S16X1m7FZ0nblX3t) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Wrong Guy](https://open.spotify.com/album/4QdPgscraOJxMYySFeOIoY) | 3:10 | 2026-01-30 | 2026-02-21 |
 | [You Are Left Behind](https://open.spotify.com/track/1rm9Ti93HxFv4bmuAExfgx) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Precious Diamonds](https://open.spotify.com/album/1F3IzwSLXSSRyPqu9r99rM) | 3:54 | 2024-03-15 | 2024-04-06 |
 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 | 2023-06-24 |
 | [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 | 2022-08-06 |

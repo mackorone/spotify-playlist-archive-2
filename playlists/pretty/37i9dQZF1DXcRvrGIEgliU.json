@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 14281,
+  "num_followers": 14314,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "(i would have followed you)",
         "url": "https://open.spotify.com/album/7oODsnDx7Pccntmf78OzQM"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 289040,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/3uxdBOY4eCts8eOS03J9Qf"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
         }
       ],
-      "duration_ms": 212093,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1767,18 +1767,34 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
       },
       "artists": [
         {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+      "duration_ms": 212093,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1803,22 +1819,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Songs4u",
-        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Songs4u",
+        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Midnight Snack",
-        "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        }
-      ],
-      "duration_ms": 227231,
-      "name": "Midnight Snack",
-      "url": "https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Midnight Snack",
+        "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 227231,
+      "name": "Midnight Snack",
+      "url": "https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 196352,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Sunday (1994) [Deluxe]",
+        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Tuning In",
         "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
       },
@@ -2331,18 +2347,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sunday (1994) [Deluxe]",
-        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
       "artists": [
         {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+      "duration_ms": 97826,
+      "name": "EXCITED!",
+      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2363,18 +2379,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "Can't Hide",
+        "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 97826,
-      "name": "EXCITED!",
-      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
+      "duration_ms": 184000,
+      "name": "Can't Hide",
+      "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2395,26 +2415,6 @@
       "duration_ms": 162206,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Can't Hide",
-        "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Can't Hide",
-      "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
     },
     {
       "added_at": "2025-05-19 03:00:14",

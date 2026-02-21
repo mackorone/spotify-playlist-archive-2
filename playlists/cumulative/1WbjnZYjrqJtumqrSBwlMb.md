@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,274 songs - 3 day 6 hr 7 min
+1,275 songs - 3 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [In A Lonely Place](https://open.spotify.com/track/0SCQFv3crsaMLNtW8QGk6Q) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 1:39 | 2025-12-10 |  |
 | [In My Room](https://open.spotify.com/track/0fV4iqDDRSt0a4mnLdCGKa) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:31 | 2024-06-17 |  |
 | [In Real Life](https://open.spotify.com/track/2yaW1iqYFifHngEac49I3T) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [A Repeat Wouldn't Go A Miss](https://open.spotify.com/album/238FIHtAWEN2fpgGu5YLFS) | 3:49 | 2021-08-23 |  |
+| [In the dark](https://open.spotify.com/track/2LXrbR5g8YtHOwsUajVA3n) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [In the dark](https://open.spotify.com/album/4f79OSrDn7wmCau5h8u1t9) | 4:01 | 2026-02-20 |  |
 | [In The Heat Of The Morning](https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/1Rsm7e7fnLx87MDgV7w7ZM) | 2:41 | 2022-06-08 |  |
 | [Instant Destiny](https://open.spotify.com/track/6WCXBUFa0z3l9DoOY3k5Xe) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:14 | 2022-04-15 |  |
 | [intellectual greed](https://open.spotify.com/track/1o0hKMX2d4wIViz31dR7sG) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2025-06-21 |  |
@@ -696,7 +697,7 @@
 | [MONDAY](https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY](https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB) | 4:03 | 2025-04-22 |  |
 | [MONDAY](https://open.spotify.com/track/3a9Qmzy2dqZsa8QAggkioN) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:03 | 2025-07-25 |  |
 | [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 | 2025-12-05 |  |
-| [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 | 2022-03-22 |  |
+| [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 | 2022-03-22 |  |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2021-10-01 |  |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 5:17 | 2025-12-02 |  |
 | [More Than Mine](https://open.spotify.com/track/6PwPnq7VSdC5ZTzaDzoOes) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 2:27 | 2021-11-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,480 likes - 82 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,484 likes - 82 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 18 | [Parka Thonaatha](https://open.spotify.com/track/09j8NwScdnWZgqsTX2giwK) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Mudhal Murai](https://open.spotify.com/album/7ikAlqIH9VPsYdwwRyPglQ) | 2:55 |
 | 19 | [Vaanengum Megam](https://open.spotify.com/track/7FIZNReipsi7iVmq7gOSWT) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM) | [Vaanengum Megam](https://open.spotify.com/album/5kdQFJn3UbQA0HP4YSKcUO) | 3:35 |
 | 20 | [Vagalaadi \- Tamil](https://open.spotify.com/track/5eOOrz9evmVfB8gdlxeQDA) | [Nitish John](https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF), [Shreya Krish](https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0) | [Vagalaadi \- Tamil](https://open.spotify.com/album/5HkCjTzsacKfRGTrbuiNcV) | 4:52 |
-| 21 | [Bujjima](https://open.spotify.com/track/4NKIP7uy8ktgK5mHC2g0o9) | [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Bujjima](https://open.spotify.com/album/0W6drGspLDcvOvOapzBkRJ) | 2:59 |
-| 22 | [Maruguriye](https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9) | [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Aneesh](https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj), [Samanwitha Prashanth](https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP) | [Maruguriye](https://open.spotify.com/album/4isPDjqpqszETdbRUc4NdD) | 3:48 |
+| 21 | [Bujjima](https://open.spotify.com/track/4NKIP7uy8ktgK5mHC2g0o9) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Bujjima](https://open.spotify.com/album/0W6drGspLDcvOvOapzBkRJ) | 2:59 |
+| 22 | [Maruguriye](https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9) | [Aneesh](https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj), [Samanwitha Prashanth](https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Maruguriye](https://open.spotify.com/album/4isPDjqpqszETdbRUc4NdD) | 3:48 |
 | 23 | [Hold On](https://open.spotify.com/track/0u4DbQWKsYJqoONjK7Afke) | [Stowe Francis](https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ), [Venkat GV](https://open.spotify.com/artist/050EyWCU4eCdFZMWjuxZyV) | [Hold On](https://open.spotify.com/album/7L8z3xcoFtS5gXmSh5u7qM) | 2:57 |
 | 24 | [Veerathuku Madurai Thaan Da](https://open.spotify.com/track/4r2SJ2pPYDvbN5jFenqkwk) | [Vishal \- Aditya](https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Tom Karthi](https://open.spotify.com/artist/5rf6qdyKd6WeUUmnO2YU32) | [Veerathuku Madurai Thaan Da](https://open.spotify.com/album/5tgiJnukVXaRNII4KfvLZl) | 3:24 |
 | 25 | [Pesa Koodadho](https://open.spotify.com/track/4NR1O8WvE23KUB0tCFhp4r) | [Francis Fernando](https://open.spotify.com/artist/4Umw66ScWxd2aGrw9Atga6), [Rishabh Vyas](https://open.spotify.com/artist/2JBAeUQRHgjeptbRE2lIVX) | [Confession](https://open.spotify.com/album/7LiYfkQkphkFXRIKWGC41x) | 2:52 |

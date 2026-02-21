@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Kuremino in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,549 likes - 74 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,590 likes - 74 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 22 | [BlitzTank](https://open.spotify.com/track/7vHQrUcJQRwBBpof3gLHVM) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [BlitzTank](https://open.spotify.com/album/7lRJtFqyPOgyVNfTMzoYGT) | 2:32 |
 | 23 | [DieciDieciDieci](https://open.spotify.com/track/5QEgm5vc1bgu4oYl0O3CRi) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [A Loren2za](https://open.spotify.com/album/3UliJpORKM5bI6SHiaEqyG) | 1:36 |
 | 24 | [Zito \(feat\. Emis Killa\)](https://open.spotify.com/track/6ma8HWG078Nvkkic4GduNq) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Zito \(feat\. Emis Killa\)](https://open.spotify.com/album/39zSm1mMMQVifQYKua4A0P) | 2:08 |
-| 25 | [UCCIDEREMI/DROGARMI](https://open.spotify.com/track/0Etfd7TbF5fxwN6wH32E8H) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [PENSIERI CATTIVI](https://open.spotify.com/album/1Nq8vyBbFpKsi7WRQOIAyk) | 2:31 |
+| 25 | [UCCIDERMI/DROGARMI](https://open.spotify.com/track/0Etfd7TbF5fxwN6wH32E8H) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [PENSIERI CATTIVI](https://open.spotify.com/album/1Nq8vyBbFpKsi7WRQOIAyk) | 2:31 |
 | 26 | [DARMI PACE](https://open.spotify.com/track/4mgK6He9J9GYwzDEsJ0sRg) | [Jeko](https://open.spotify.com/artist/3aHY5YJ8YSoez2FYLK83CM), [Fallen](https://open.spotify.com/artist/1QmF4Y2XK7p63RMJKjmgB4) | [DARMI PACE](https://open.spotify.com/album/0PjuhkfMgzjHw3owobXYsY) | 2:26 |
 | 27 | [FOLLIA](https://open.spotify.com/track/1Es5ce2ol45NvQbl4tgeW4) | [Copes](https://open.spotify.com/artist/56DfnywiR8WU4fU9tyafH8) | [FOLLIA](https://open.spotify.com/album/2qGI5nvC1iygVxnu7qHxw8) | 2:15 |
 | 28 | [Tic](https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tic](https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD) | 2:17 |

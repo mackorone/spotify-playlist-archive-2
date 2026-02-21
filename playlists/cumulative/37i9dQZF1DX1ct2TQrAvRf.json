@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Rawme Hooda",
+  "description": "India's Rap Scene. Cover - Gur Sidhu",
   "name": "RAP 91",
   "tracks": [
     {
@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "5-7",
+        "url": "https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "5-7",
+      "url": "https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -458,6 +480,24 @@
       "duration_ms": 200076,
       "name": "ALAG BT",
       "url": "https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/2drIyNd5kl5ypgSWGdtRYu"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/31KxXEIfbCaKRAm4MG0k1l"
     },
     {
       "album": {
@@ -986,7 +1026,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168000,
       "name": "Banna",
       "url": "https://open.spotify.com/track/5dQXa74bKFqX1F6Ys9SlFu"
@@ -5195,6 +5235,32 @@
     },
     {
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Nazare",
+      "url": "https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i"
+    },
+    {
+      "album": {
         "name": "Neon Ride (From \"Officer on Duty\")",
         "url": "https://open.spotify.com/album/0TpJSuQn6BZQZxgKNFVy4o"
       },
@@ -5590,7 +5656,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178923,
       "name": "Pacha Parishkari",
       "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
@@ -5794,7 +5860,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 203647,
       "name": "Phone Na Hello",
       "url": "https://open.spotify.com/track/7kqNJswXZELtnqz0cszKnn"

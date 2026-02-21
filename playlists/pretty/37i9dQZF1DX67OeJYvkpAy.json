@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 110201,
+  "num_followers": 110205,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -199,8 +199,8 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/38isnV6iiKFJIk1xInwqCT"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 129600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
+      "duration_ms": 155200,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/6UkNTvKOC08q57jausd6aO"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -283,8 +283,8 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Zidane",
-        "url": "https://open.spotify.com/album/38isnV6iiKFJIk1xInwqCT"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Zidane",
-      "url": "https://open.spotify.com/track/6UkNTvKOC08q57jausd6aO"
+      "duration_ms": 129600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "In The Function",
         "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 154285,
       "name": "In The Function",
       "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "REGULAR",
-        "url": "https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "REGULAR",
-      "url": "https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "REGULAR",
+        "url": "https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "REGULAR",
+      "url": "https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Nothing's Changed",
-        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Nothing's Changed",
-      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Nothing's Changed",
+        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
+      },
+      "artists": [
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Nothing's Changed",
+      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Bait",
         "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 133293,
       "name": "Bait",
       "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -923,6 +907,22 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "WAIT N SEE",
-        "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
-      },
-      "artists": [
-        {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
-        }
-      ],
-      "duration_ms": 164553,
-      "name": "WAIT N SEE",
-      "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Lost in Lofi",
         "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 206166,
       "name": "Couple Little Things",
       "url": "https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "WAIT N SEE",
+        "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
+      },
+      "artists": [
+        {
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+        }
+      ],
+      "duration_ms": 164553,
+      "name": "WAIT N SEE",
+      "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
     },
     {
       "added_at": "2025-10-10 12:01:08",

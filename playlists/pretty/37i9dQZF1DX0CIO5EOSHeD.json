@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 864,
+  "num_followers": 909,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "so be it in my dreams",
-        "url": "https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L"
-      },
-      "artists": [
-        {
-          "name": "dad sports",
-          "url": "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "so be it in my dreams",
-      "url": "https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Loveseat",
         "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 209290,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "so be it in my dreams",
+        "url": "https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L"
+      },
+      "artists": [
+        {
+          "name": "dad sports",
+          "url": "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "so be it in my dreams",
+      "url": "https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Silence Kid",
-      "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Face Down In The Garden",
         "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 252593,
       "name": "12 Blown Tires",
       "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Silence Kid",
+      "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Mammalian Sighing Reflex",
         "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 159141,
       "name": "Around the Pomegranate",
       "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "i wanna",
+        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "i wanna",
+      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "i wanna",
-        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
-      },
-      "artists": [
-        {
-          "name": "sweet93",
-          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "i wanna",
-      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+        "name": "marble arch",
+        "url": "https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a"
       },
       "artists": [
         {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+      "duration_ms": 296636,
+      "name": "marble arch",
+      "url": "https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "marble arch",
-        "url": "https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a"
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
         }
       ],
-      "duration_ms": 296636,
-      "name": "marble arch",
-      "url": "https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0"
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "ALLTHETIME",
         "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
       "artists": [
         {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1535,6 +1519,22 @@
       "duration_ms": 231925,
       "name": "Solid Door",
       "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "i wish things were different",
-        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
-      },
-      "artists": [
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 122925,
-      "name": "upside down",
-      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Bet You Know",
         "url": "https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 198902,
       "name": "Bet You Know",
       "url": "https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "i wish things were different",
+        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 122925,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
       },
       "artists": [
         {
-          "name": "Mind Shrine",
-          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
         }
       ],
-      "duration_ms": 162099,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
     }
   ],
   "unique_name": "Lofi Indie",

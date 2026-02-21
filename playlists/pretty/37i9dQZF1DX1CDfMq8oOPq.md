@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,018 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,042 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 44 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
 | 45 | [Uma Palavra](https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [Uma Palavra](https://open.spotify.com/album/3JHviWUiHa0KjaenAiVZqK) | 2:11 |
 | 46 | [Fulô](https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ) | [CRYSTAYLE](https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [gptonosbeats](https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [Fulô](https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq) | 2:28 |
-| 47 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
-| 48 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 |
+| 47 | [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 |
+| 48 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 49 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 
-Snapshot ID: `AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv`
+Snapshot ID: `AAAAABibYXBnNY/jkFrf/t3AHF/OA3WU`

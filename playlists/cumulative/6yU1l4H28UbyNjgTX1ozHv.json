@@ -5667,6 +5667,24 @@
     },
     {
       "album": {
+        "name": "You Make My Dreams (Come True)",
+        "url": "https://open.spotify.com/album/3Ot2DtvXftRZm6MzpaVBCY"
+      },
+      "artists": [
+        {
+          "name": "Natalie Johnson",
+          "url": "https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154318,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/6KXMkR8qN90Jc8Wx3nMXmH"
+    },
+    {
+      "album": {
         "name": "You Make My Dreams (Come True) [Acoustic]",
         "url": "https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI"
       },

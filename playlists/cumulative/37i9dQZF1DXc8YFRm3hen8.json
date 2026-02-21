@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Ajo y agua",
+        "url": "https://open.spotify.com/album/55WQj7sQdOtGseWEeTdy7o"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        },
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158811,
+      "name": "Ajo y agua",
+      "url": "https://open.spotify.com/track/56n6vTGk13eRUimIfcN8Ue"
+    },
+    {
+      "album": {
         "name": "Aunque Cueste Ver El Sol",
         "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
       },
@@ -1755,6 +1777,28 @@
     },
     {
       "album": {
+        "name": "Dispuesto A Morir",
+        "url": "https://open.spotify.com/album/7wqfqlI6yxRQrjVo7GIG8P"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+        },
+        {
+          "name": "Los Asuntos Pendientes",
+          "url": "https://open.spotify.com/artist/1IwFwWTYrADJ1S25hJGVrZ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204822,
+      "name": "Dispuesto A Morir",
+      "url": "https://open.spotify.com/track/67SlD9Piai5B0tHaFaUbbY"
+    },
+    {
+      "album": {
         "name": "Caminos Br\u00edos",
         "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
       },
@@ -1860,6 +1904,24 @@
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "album": {
+        "name": "El Atrevido",
+        "url": "https://open.spotify.com/album/1z4vFa5vtQMzGzfS4yPkoJ"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216743,
+      "name": "El Atrevido",
+      "url": "https://open.spotify.com/track/7fNsCJ8w3WJZQNBud2Cw4D"
     },
     {
       "album": {
@@ -4144,7 +4206,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
@@ -4972,7 +5034,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -5761,6 +5823,28 @@
     },
     {
       "album": {
+        "name": "Pretensi\u00f3n",
+        "url": "https://open.spotify.com/album/5bQwMXvaPokI7ZJqEnDLKF"
+      },
+      "artists": [
+        {
+          "name": "Jero Jones",
+          "url": "https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ"
+        },
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212776,
+      "name": "Pretensi\u00f3n",
+      "url": "https://open.spotify.com/track/4Scgil3syVN084WClpTBhO"
+    },
+    {
+      "album": {
         "name": "Rocanroles Sin Destino",
         "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
@@ -5880,7 +5964,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 228252,
       "name": "Puertas",
       "url": "https://open.spotify.com/track/7EHAJN4VEN8TWpXuYzNYNE"
@@ -7502,7 +7586,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"

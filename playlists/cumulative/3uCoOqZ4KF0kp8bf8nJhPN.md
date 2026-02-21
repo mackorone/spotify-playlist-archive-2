@@ -4,7 +4,7 @@
 
 > 
 
-308 songs - 12 hr 2 min
+308 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\#Zombie!](https://open.spotify.com/track/1OB66nbcYyblILcAaUM2Ke) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [\#Zombie!](https://open.spotify.com/album/7Ed9j7HWEEX4NVDukLly6s) | 1:14 | 2025-04-11 |  |
 | [04:00](https://open.spotify.com/track/41Mmsc8xrT6MX30lEBwm0A) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:00](https://open.spotify.com/album/26IKkSYC1DYrS0wJ8krXHX) | 1:17 | 2025-04-17 | 2025-04-22 |
 | [04:03](https://open.spotify.com/track/7Cf1svuoRdJeBE31TGnQdg) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:03](https://open.spotify.com/album/5excPWx4CCg5XvOiqmEK6w) | 2:19 | 2025-04-17 | 2025-04-22 |
-| [1000000₽](https://open.spotify.com/track/2iqXJeFj27ZuRrJvieUpP2) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [VERi RERi](https://open.spotify.com/artist/3bVvrbMo8AcqPG7lrJfopQ) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:34 | 2025-08-11 |  |
+| [1000000₽](https://open.spotify.com/track/2iqXJeFj27ZuRrJvieUpP2) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [VERi RERi](https://open.spotify.com/artist/3bVvrbMo8AcqPG7lrJfopQ) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:40 | 2025-08-11 |  |
 | [2007](https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [2007](https://open.spotify.com/album/18IiJChC01Sa8fwXvTnsKC) | 2:37 | 2025-12-07 |  |
 | [24\-7!](https://open.spotify.com/track/7MceGNdwAbMbpqibENFlwB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [24\-7!](https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn) | 1:57 | 2024-12-08 |  |
 | [2RAD!](https://open.spotify.com/track/0ISfL8bvPAlioAsmmQOxQ2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:29 | 2024-12-08 |  |
@@ -305,8 +305,8 @@
 | [Понимаешь](https://open.spotify.com/track/0ZSl6Ui1lpDkW8QWl1EjKm) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:45 | 2025-08-12 |  |
 | [Попробуй](https://open.spotify.com/track/7mWCWMDMDRygoPhgSt92cf) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 | 2025-08-12 |  |
 | [Поус](https://open.spotify.com/track/59NQ6V9eSxa0tG2kuujigJ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:00 | 2025-08-12 |  |
-| [Правда](https://open.spotify.com/track/0BnL9eUbwpI0lA6WRMgXf0) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:19 | 2025-08-12 |  |
-| [Разница](https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:20 | 2025-08-09 |  |
+| [Правда](https://open.spotify.com/track/0BnL9eUbwpI0lA6WRMgXf0) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:21 | 2025-08-12 |  |
+| [Разница](https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:19 | 2025-08-09 |  |
 | [Рано](https://open.spotify.com/track/1QrlgLlaQV1Z3YJowIPkdv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:12 | 2025-08-12 |  |
 | [Репортаж](https://open.spotify.com/track/1dfgw0bZl6iWcfUXLDVQTv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:08 | 2025-08-12 |  |
 | [Сакура](https://open.spotify.com/track/1vqFh4jRA1tFNdlhuAn5nE) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 2:29 | 2025-08-12 |  |

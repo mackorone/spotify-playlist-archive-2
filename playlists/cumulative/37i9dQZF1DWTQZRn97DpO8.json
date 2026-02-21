@@ -6733,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "J'ai besoin de toi",
+        "url": "https://open.spotify.com/album/0e6V5jsvTkKXchEAt4VZlT"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq"
+    },
+    {
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/4J5707YP5jtVhB8uhNqb3m"
       },
@@ -9294,24 +9312,6 @@
       "duration_ms": 164783,
       "name": "Toxique",
       "url": "https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ariane Bonzini",
-          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq"
     },
     {
       "album": {

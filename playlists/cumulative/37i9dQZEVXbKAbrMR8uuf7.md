@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-2,097 songs - 4 day 13 hr 24 min
+2,098 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [AURORA](https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:12 | 2025-05-20 | 2025-11-06 |
 | [Ausente](https://open.spotify.com/track/3GXplF1vscAbNcmv1mR65R) | [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Ausente](https://open.spotify.com/album/23G5DUbLk1DAKmnykuVvgm) | 3:35 | 2022-03-20 | 2022-03-22 |
 | [Aventuras](https://open.spotify.com/track/5G8EYfWS5N5HIxRpTtn4Eq) | [Nicky Folino](https://open.spotify.com/artist/534By8AoKNMgKYKs2dRc5h) | [Aventuras](https://open.spotify.com/album/1dbajzHPlE5N1djLbQgaWu) | 2:09 | 2024-11-24 | 2024-11-26 |
+| [Aww Tu Ve](https://open.spotify.com/track/6p4aqCg8uquAPyyVTYSa5P) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY) | [Aww Tu Ve](https://open.spotify.com/album/2qr2TtOh5qjObxnfmZza1X) | 2:02 | 2026-02-20 |  |
 | [AY LILY](https://open.spotify.com/track/3vLPWvF0EYZoAr3P8oLwEQ) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [AY LILY](https://open.spotify.com/album/0uf6fuyww69gHzOQYMXiar) | 1:21 | 2024-04-04 | 2024-05-01 |
 | [AY LILY](https://open.spotify.com/track/0n0JzQMRHIRyzzQa1NNcsh) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [AY LILY](https://open.spotify.com/album/2wOzDb7LoRztDK25KmPbqH) | 1:22 | 2024-03-23 | 2024-05-04 |
 | [AY LILY](https://open.spotify.com/track/2Uy02BhDtNxdHZy24vZiiJ) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [AY LILY](https://open.spotify.com/album/19V2ne9bwJ3RrFbXICDqT8) | 1:22 | 2024-05-03 | 2024-06-09 |
@@ -1415,7 +1416,7 @@
 | [Perco Freestyle](https://open.spotify.com/track/6yU4IKONFqXy10VT4k3Apf) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [Huracan](https://open.spotify.com/album/5NVEOZ9m86QvE7Kub643vM) | 2:33 | 2025-09-16 | 2025-09-18 |
 | [Perco Freestyle](https://open.spotify.com/track/5VbC8dy8EiTBKAbsytNmjZ) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [Huracan](https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv) | 2:34 | 2025-09-11 | 2025-09-17 |
 | [Perdóname](https://open.spotify.com/track/4PBdIae0zykvqRJtrTQa8f) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Perdóname](https://open.spotify.com/album/3LSk2Get6M94s45qxRA39W) | 3:30 | 2024-01-02 | 2024-04-02 |
-| [Perfect](https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Perfect](https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz) | 2:12 | 2025-05-14 |  |
+| [Perfect](https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [Perfect](https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz) | 2:12 | 2025-05-14 | 2026-02-21 |
 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 | 2025-01-06 | 2026-02-15 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-19 |
 | [Pero Dime](https://open.spotify.com/track/4L2LYBPs8jkXrcIxfRMhJm) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/4fA3kV7anxoTyggHcR3HPM) | 4:05 | 2024-12-25 | 2025-01-04 |

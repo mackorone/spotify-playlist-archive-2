@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 241733,
       "name": "For myself",
       "url": "https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP"
@@ -5884,6 +5884,24 @@
       "duration_ms": 276057,
       "name": "Girls",
       "url": "https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC"
+    },
+    {
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
+      },
+      "artists": [
+        {
+          "name": "Hayoung Song",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Give U the Universe",
+      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
     },
     {
       "album": {
@@ -7698,7 +7716,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212000,
       "name": "I want to know",
       "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212000,
       "name": "In The End",
       "url": "https://open.spotify.com/track/6Zixw6jkoQCXDz3EeuGU4F"
@@ -13981,6 +13999,28 @@
     },
     {
       "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
+    },
+    {
+      "album": {
         "name": "Oh! Youngsim Pt. 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4eYOkUOqfaGODR2kp62u9n"
       },
@@ -16226,6 +16266,24 @@
       "duration_ms": 209240,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4W1b3MxwZL87B1BNYLCtvW"
+    },
+    {
+      "album": {
+        "name": "To My Beloved Thief, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1qb14Kseoe9EPAj8mSccUk"
+      },
+      "artists": [
+        {
+          "name": "Choi Eunbin",
+          "url": "https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Stealing Love",
+      "url": "https://open.spotify.com/track/7uzfqQEMFHGWS4IwUrI230"
     },
     {
       "album": {

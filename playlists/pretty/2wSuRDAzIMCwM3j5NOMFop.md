@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 56 songs - 2 hr 54 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 54 | [Emerging](https://open.spotify.com/track/34Lc6CQKHdtzfS9YRwA23t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:59 |
 | 55 | [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 |
 | 56 | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/track/6pG2R3eEUtFeH0sHkIcdg5) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Independent Girls & Nasty Evil Gays](https://open.spotify.com/album/4ywC4BFKBC90intbtIV715) | 3:14 |
+| 57 | [I Can't Decide](https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:46 |
 
-Snapshot ID: `AAAAPp3jz6jENjA6YSWWpEvTT/Acyd0b`
+Snapshot ID: `AAAAP+tilR2ubxrzIhv70XZGHFwN+INa`

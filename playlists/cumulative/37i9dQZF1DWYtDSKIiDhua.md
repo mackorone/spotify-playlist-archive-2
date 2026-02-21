@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Naika
 
-1,539 songs - 3 day 10 hr 13 min
+1,540 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-08 | 2022-08-26 |
 | [All I Need](https://open.spotify.com/track/1DB9ONNU2hzpnIRy6gnO64) | [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [All I Need](https://open.spotify.com/album/1SIVcD8aIhOJ1oprj5tKzb) | 3:26 | 2024-05-24 | 2024-06-01 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-14 | 2022-07-22 |
-| [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [](https://open.spotify.com/album/null) | 2:32 | 2026-02-19 |  |
+| [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 | 2026-02-19 |  |
 | [ALL NIGHT LONG](https://open.spotify.com/track/2nRL6TyECRS4enVo2npLYb) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [ALL NIGHT LONG](https://open.spotify.com/album/6P3gsC1nBoCo0wkaGG9UYL) | 2:21 | 2026-01-15 |  |
 | [All Out Of Love](https://open.spotify.com/track/7vhoaLa8KJJTIQJYfDhdV3) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA) | [All Out Of Love](https://open.spotify.com/album/1nbO2blQ2f2McVpyPmgcUS) | 2:58 | 2023-01-05 | 2023-01-14 |
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-08 | 2022-10-14 |
@@ -1101,6 +1101,7 @@
 | [room 6: THATS ON ME](https://open.spotify.com/track/08iVPCDvHIKlO5DjEfMaMb) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 6: THATS ON ME](https://open.spotify.com/album/1MoTsJ97BqN1ZigfLCxayG) | 2:35 | 2025-11-20 |  |
 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 |  |
 | [Rose](https://open.spotify.com/track/2OOMy8bcLiVOquyAM8ONeb) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Rose](https://open.spotify.com/album/1RTmX2eJgfdBSEErVW0Jfm) | 2:37 | 2023-05-11 | 2023-06-09 |
+| [ROSE PERFUME](https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh) | [blam](https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4) | [ROSE PERFUME](https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh) | 3:00 | 2026-02-19 |  |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-15 | 2024-11-08 |
 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 | 2023-03-09 | 2024-02-02 |
 | [Round & Round](https://open.spotify.com/track/1s94GKnDD9n26SBZLU6Tpr) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Honest Opinions](https://open.spotify.com/album/1cSFQc6e8l2gnxfojHxs8s) | 3:16 | 2023-11-29 | 2024-01-05 |

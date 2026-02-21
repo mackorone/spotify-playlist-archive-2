@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,166 songs - 2 day 14 hr 54 min
+1,167 songs - 2 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 | 2023-12-15 | 2025-02-21 |
 | [Apna Viah](https://open.spotify.com/track/0znBJ5J84AD5ykoOkauSdR) | [Advik](https://open.spotify.com/artist/4RnHjFdLJEfBqL9B4nQcLg), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Apna Viah](https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm) | 3:24 | 2022-02-22 | 2022-03-11 |
 | [Apsara](https://open.spotify.com/track/5B2TdZXgmNRfSNTi4v9Zrr) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Unscripted](https://open.spotify.com/album/1EwM33OQDwUmpdTQYYEL0u) | 2:48 | 2025-02-25 | 2025-04-15 |
-| [Apsraa 2](https://open.spotify.com/track/6apKBuRQS4gBiWbmtXir6X) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Apsraa 2](https://open.spotify.com/album/5zrxuSi46sZpMynX2HsVrf) | 9:05 | 2025-11-07 |  |
+| [Apsraa 2](https://open.spotify.com/track/6apKBuRQS4gBiWbmtXir6X) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Apsraa 2](https://open.spotify.com/album/5zrxuSi46sZpMynX2HsVrf) | 9:05 | 2025-11-07 | 2026-02-21 |
 | [Ashiq Bande](https://open.spotify.com/track/1fVxXYswAOEGSD6Wp35qWW) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [PRIME](https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY) | 2:57 | 2025-04-14 | 2025-04-30 |
 | [Athroo](https://open.spotify.com/track/1N2Zv3CeSFygwFWdpAMV1m) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Athroo](https://open.spotify.com/album/4se8I5DaOxmaiBPVfwbyXR) | 2:49 | 2022-12-20 | 2023-02-04 |
 | [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 | 2022-09-30 | 2022-10-02 |
@@ -1013,6 +1013,7 @@
 | [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 | 2022-07-12 |
 | [Tareefan](https://open.spotify.com/track/38fyfLQMYfsrspaWvqE4Js) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Tareefan](https://open.spotify.com/album/3fhpaWdEVfpp2q5eOHwY0d) | 3:22 | 2022-12-15 | 2024-10-17 |
 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 | 2024-02-05 |  |
+| [Tareefan](https://open.spotify.com/track/6aGlfyjkoSg2EhOryH1ho4) | [Sonu Thukral](https://open.spotify.com/artist/5Q4Af84pG81cjHE4wrW0Pw), [Fukra Insaan](https://open.spotify.com/artist/5lnhW14tZrH3kUMI4kvVy5), [Kanika Mann](https://open.spotify.com/artist/3l3H1qGX9kqVNpUibDAiUG) | [Tareefan](https://open.spotify.com/album/74oS2paom8uC3L2f52QkXE) | 2:41 | 2026-02-20 |  |
 | [Tareyaan Di Jodi](https://open.spotify.com/track/2ZBeF74dtWlfXPRf0UhtPI) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Tareyaan Di Jodi](https://open.spotify.com/album/6njW2aP7Ug9AVVPIggx7tx) | 3:09 | 2023-05-30 | 2023-12-19 |
 | [Tasali](https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:33 | 2022-02-01 | 2022-02-12 |
 | [Tasbih](https://open.spotify.com/track/4hFoqtvjxZK65wCO7s7hvT) | [Rooh Khan](https://open.spotify.com/artist/25N4st00HpawRFG3hgGGr3) | [Tasbih](https://open.spotify.com/album/07CvcVXvJAmnfuSPwzJh1O) | 3:13 | 2023-08-19 | 2023-09-13 |

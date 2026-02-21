@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59727,
+  "num_followers": 59732,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAvXKf8yA6Hc3KIkgbj/94P9RiL0AjC",
+  "snapshot_id": "AAAva5y91T2ck9CIn1KLfVt2HkqIwmio",
   "tracks": [
     {
       "added_at": "2026-02-14 09:57:45",
@@ -643,6 +643,22 @@
       "duration_ms": 142057,
       "name": "The Springtime Reminds Me Of...",
       "url": "https://open.spotify.com/track/6AXD2MxDxGRwgmNFTPx7Wa"
+    },
+    {
+      "added_at": "2026-02-20 20:51:51",
+      "album": {
+        "name": "I'll Fall Again",
+        "url": "https://open.spotify.com/album/4cX9qYZwKDAQJTOqtMTrAC"
+      },
+      "artists": [
+        {
+          "name": "Beau Lucas",
+          "url": "https://open.spotify.com/artist/38m8gWaObFETioYwkwfg07"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "I'll Fall Again",
+      "url": "https://open.spotify.com/track/00BkLKA5wGUtGiFxaLF0ro"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "New Thing",
-        "url": "https://open.spotify.com/album/7s0JL3zSGMkKcUBj7F8NAl"
-      },
-      "artists": [
-        {
-          "name": "Avery Friedman",
-          "url": "https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "New Thing",
-      "url": "https://open.spotify.com/track/2WmmyvbTkePnoUejoibJEM"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/0733Ib9JyMgkIMzxRe2g7b"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 216000,
       "name": "93",
       "url": "https://open.spotify.com/track/5Jms4YoHTT8mfTe8jQUWto"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "New Thing",
+        "url": "https://open.spotify.com/album/7s0JL3zSGMkKcUBj7F8NAl"
+      },
+      "artists": [
+        {
+          "name": "Avery Friedman",
+          "url": "https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/2WmmyvbTkePnoUejoibJEM"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -2611,22 +2627,6 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "IDK Your Dog",
-        "url": "https://open.spotify.com/album/5INPvwXYTTDUrfgmDzTbKs"
-      },
-      "artists": [
-        {
-          "name": "Ginkgo Balboa",
-          "url": "https://open.spotify.com/artist/65QWDM2mdiq2poSBa7cVGT"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "IDK Your Dog",
-      "url": "https://open.spotify.com/track/2xq7MNBHEWDYVMVcrO2TTB"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
         "name": "Song for the Boy Locked in His Room",
         "url": "https://open.spotify.com/album/7iJNalM1nXm3hVAbqNXil9"
       },
@@ -3483,18 +3483,34 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "qt pi",
-        "url": "https://open.spotify.com/album/6dA9wW548EWXITv7GGqlkq"
+        "name": "The Olympics",
+        "url": "https://open.spotify.com/album/4s7WwIo5LaShH6h5BtNLUA"
       },
       "artists": [
         {
-          "name": "Scotch Mist",
-          "url": "https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu"
+          "name": "Max Winter",
+          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
         }
       ],
-      "duration_ms": 140134,
-      "name": "qt pi",
-      "url": "https://open.spotify.com/track/2LersnwvVOyUbuxWgeM2JK"
+      "duration_ms": 182557,
+      "name": "The Olympics",
+      "url": "https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "Sensitive Devil",
+        "url": "https://open.spotify.com/album/0hF3vg1hOA3WXpsePqKV3S"
+      },
+      "artists": [
+        {
+          "name": "Crash Richard",
+          "url": "https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF"
+        }
+      ],
+      "duration_ms": 249681,
+      "name": "Swan AAA +1",
+      "url": "https://open.spotify.com/track/6pRC9bbhgMJC7BuivYRRRr"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -3531,34 +3547,18 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "The Olympics",
-        "url": "https://open.spotify.com/album/4s7WwIo5LaShH6h5BtNLUA"
+        "name": "qt pi",
+        "url": "https://open.spotify.com/album/6dA9wW548EWXITv7GGqlkq"
       },
       "artists": [
         {
-          "name": "Max Winter",
-          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
+          "name": "Scotch Mist",
+          "url": "https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu"
         }
       ],
-      "duration_ms": 182557,
-      "name": "The Olympics",
-      "url": "https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
-        "name": "Sensitive Devil",
-        "url": "https://open.spotify.com/album/0hF3vg1hOA3WXpsePqKV3S"
-      },
-      "artists": [
-        {
-          "name": "Crash Richard",
-          "url": "https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF"
-        }
-      ],
-      "duration_ms": 249681,
-      "name": "Swan AAA +1",
-      "url": "https://open.spotify.com/track/6pRC9bbhgMJC7BuivYRRRr"
+      "duration_ms": 140134,
+      "name": "qt pi",
+      "url": "https://open.spotify.com/track/2LersnwvVOyUbuxWgeM2JK"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -4935,22 +4935,6 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "Natural Pleasure",
-        "url": "https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK"
-      },
-      "artists": [
-        {
-          "name": "BRONCHO",
-          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
-        }
-      ],
-      "duration_ms": 248261,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/6rQoQSGhuySs5otnmML19s"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
         "name": "Stay on Your Mind",
         "url": "https://open.spotify.com/album/0CUCuLTY0x8Rl5zH1h5NYf"
       },
@@ -4963,6 +4947,22 @@
       "duration_ms": 219022,
       "name": "The Idiot",
       "url": "https://open.spotify.com/track/4SPfL7nNrVdmcagRhxO176"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "Natural Pleasure",
+        "url": "https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "duration_ms": 248261,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/6rQoQSGhuySs5otnmML19s"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -6727,6 +6727,22 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
+        "name": "On the Other End of the Line...",
+        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
         "name": "All Rights Remixed",
         "url": "https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv"
       },
@@ -6763,22 +6779,6 @@
       "duration_ms": 240000,
       "name": "gg - NEW YORK Remix",
       "url": "https://open.spotify.com/track/1IAjc3fZWXZwKGn5MNmnYi"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
-        "name": "On the Other End of the Line...",
-        "url": "https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT"
-      },
-      "artists": [
-        {
-          "name": "Joyer",
-          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -6911,22 +6911,6 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "Free Energy",
-        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Nine Clean Nails",
-      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
         "name": "Hopeful on the Couch",
         "url": "https://open.spotify.com/album/1YibCUOd8NsAq4SsyypWsP"
       },
@@ -6939,22 +6923,6 @@
       "duration_ms": 265647,
       "name": "Hopeful on the Couch",
       "url": "https://open.spotify.com/track/0bqLnFuDcMwXlEtfjNY7g5"
-    },
-    {
-      "added_at": "2026-02-14 09:57:45",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI"
-      },
-      "artists": [
-        {
-          "name": "Jo Passed",
-          "url": "https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns"
-        }
-      ],
-      "duration_ms": 198702,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -6975,18 +6943,34 @@
     {
       "added_at": "2026-02-14 09:57:45",
       "album": {
-        "name": "Dead Star City Tours",
-        "url": "https://open.spotify.com/album/06U3JxdsPtOR4o6fu7ioEJ"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI"
       },
       "artists": [
         {
-          "name": "Petite League",
-          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+          "name": "Jo Passed",
+          "url": "https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns"
         }
       ],
-      "duration_ms": 186335,
-      "name": "N.Y.C.Bs",
-      "url": "https://open.spotify.com/track/5ePHRRQttmPHsQsnIm3res"
+      "duration_ms": 198702,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3BV7JiYHQAcWgQA1G5JNH6"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "Free Energy",
+        "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Nine Clean Nails",
+      "url": "https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz"
     },
     {
       "added_at": "2026-02-14 09:57:45",
@@ -7003,6 +6987,22 @@
       "duration_ms": 233200,
       "name": "Thin Circle",
       "url": "https://open.spotify.com/track/3qaYp431qLh8NvKUQlWd5v"
+    },
+    {
+      "added_at": "2026-02-14 09:57:45",
+      "album": {
+        "name": "Dead Star City Tours",
+        "url": "https://open.spotify.com/album/06U3JxdsPtOR4o6fu7ioEJ"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "duration_ms": 186335,
+      "name": "N.Y.C.Bs",
+      "url": "https://open.spotify.com/track/5ePHRRQttmPHsQsnIm3res"
     },
     {
       "added_at": "2026-02-14 09:57:45",

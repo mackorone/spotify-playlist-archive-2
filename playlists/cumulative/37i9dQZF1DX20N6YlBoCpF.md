@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Skemer, Arno Jordaan, Ryno Velvet, Schwabie en meer!
 
-2,411 songs - 5 day 14 hr 9 min
+2,413 songs - 5 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Aardbewing](https://open.spotify.com/track/3nO5Wi4RaodhSyAxs3UraR) | [Egmond](https://open.spotify.com/artist/1RmtGwzpTsP4jlI2WhSgDd) | [Aardbewing](https://open.spotify.com/album/62MweyKfxsbelDM9HKsguD) | 2:54 | 2025-10-03 | 2025-10-24 |
 | [Aarde Onbekend](https://open.spotify.com/track/2uTBYX6QXTGVnRTzB4g4U2) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK), [Geoff Leite](https://open.spotify.com/artist/2ZevV9juD2NLqhkUTNecAA) | [Aarde Onbekend](https://open.spotify.com/album/6TW0WYguDq3jdjeaQMoN8B) | 3:23 | 2024-01-18 | 2024-02-09 |
 | [ABCDEFG \(vir 1P Hailey\)](https://open.spotify.com/track/4xaxPY80dMf6XwUlNcGt51) | [Coenie](https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0) | [ABCDEFG \(vir 1P Hailey\)](https://open.spotify.com/album/2G00n1P50Wz5dp7upBXIuL) | 4:32 | 2024-10-17 | 2024-11-08 |
+| [Abnormaal](https://open.spotify.com/track/2SRyneC9IgWIfSO0JiYg8W) | [Karien](https://open.spotify.com/artist/24a8lcOBbDpVeyNIp1COvB) | [Abnormaal](https://open.spotify.com/album/0JeoWKhhdUFlugycaF0sZh) | 3:21 | 2026-02-20 |  |
 | [Ada](https://open.spotify.com/track/2Ky6LL3eNPBlS0zTnBM4hA) | [Floris Voges](https://open.spotify.com/artist/16wQ8IMeqALLTWoghP6oKS) | [Paradysstof](https://open.spotify.com/album/1Z98ohtBG06qd1Ugfp1naR) | 4:05 | 2025-01-09 | 2025-01-24 |
 | [Adrenalien](https://open.spotify.com/track/7b1N3zae0g66aCpa8NDRWb) | [Tiffany Steyn](https://open.spotify.com/artist/59MpUgNuceaiVthUiMW9Uu) | [Adrenalien](https://open.spotify.com/album/0MSwZqiJonv1kDp9YR5bcQ) | 3:16 | 2024-09-12 | 2024-10-04 |
 | [Adrenalien](https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W) | [veervol](https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE) | [Adrenalien](https://open.spotify.com/album/2q1PhrnKgBP10Rvx2CdPjh) | 4:12 | 2024-08-29 | 2024-09-06 |
@@ -264,7 +265,7 @@
 | [Bo aan my lys](https://open.spotify.com/track/0nQSsjh19aBF2LTIYxMZCz) | [Deidré Barnard](https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL) | [Genoeg Gewees](https://open.spotify.com/album/2nMP4yFKfCskjxSDbP0AoF) | 2:49 | 2023-10-12 | 2023-11-10 |
 | [Bo Alles](https://open.spotify.com/track/19rDUGB6xm79D0lJI7j65U) | [Petronel Baard](https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG) | [Bo Alles](https://open.spotify.com/album/4EyAQIu3hvKHPwd5z1Nc32) | 3:05 | 2024-08-08 | 2024-08-16 |
 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 | 2025-07-24 | 2025-10-31 |
-| [Boer En Rumoer](https://open.spotify.com/track/2z5BdMXMngfSLKq5D7wW66) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Boer En Rumoer](https://open.spotify.com/album/1FujhD2Jvghl5Rh0LOkcG4) | 3:16 | 2025-11-27 |  |
+| [Boer En Rumoer](https://open.spotify.com/track/2z5BdMXMngfSLKq5D7wW66) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Boer En Rumoer](https://open.spotify.com/album/1FujhD2Jvghl5Rh0LOkcG4) | 3:16 | 2025-11-27 | 2026-02-21 |
 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-03 | 2023-12-01 |
 | [Boer Se Dogter](https://open.spotify.com/track/0w2I7bJeqV4KqMOQuBgbsP) | [Juan\-Pierre Murphy](https://open.spotify.com/artist/35kRE8SXV7Zd7pjXOCidk0) | [Boer Se Dogter](https://open.spotify.com/album/7opcpH6veIgL6ulFxeqgNS) | 3:07 | 2025-11-06 | 2025-12-05 |
 | [Boere Plakkies](https://open.spotify.com/track/7i6LFd5BlXHgH1jg5akq1k) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Boere Plakkies](https://open.spotify.com/album/6isvpPlJenr1F40aHa9Ukw) | 2:59 | 2025-06-19 | 2025-07-04 |
@@ -1043,7 +1044,7 @@
 | [Kalahari Reën](https://open.spotify.com/track/3OGa20LcNVYc11V3cQUnLc) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Kalahari Reën](https://open.spotify.com/album/2NXYN90nkAC3QKU7Tno4Xr) | 3:59 | 2024-01-25 | 2024-03-29 |
 | [Kalahari Sonsak](https://open.spotify.com/track/7DPqLsfqPmrGdXjZIWncnm) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Kalahari Sonsak](https://open.spotify.com/album/04VFcZwwKYvxI3spXVCU7r) | 3:02 | 2025-08-14 | 2025-10-10 |
 | [Kalahari Sonsak](https://open.spotify.com/track/5jHcD1AYSfOfQTxZZ62WLt) | [Willem de Jager](https://open.spotify.com/artist/6McdTAeoaIivsyE8NNaKhp) | [Kalahari Sonsak](https://open.spotify.com/album/5QQJ2Hdz4LQNQsHlFfHNcA) | 4:04 | 2025-11-06 | 2025-11-21 |
-| [Kallers in Die Kraal](https://open.spotify.com/track/44K0H0pESr2iegJ6gDvvUh) | [Pj Du Toit](https://open.spotify.com/artist/4bPNdvog4sd51CAiak6mlC) | [Kallers in Die Kraal](https://open.spotify.com/album/60rItKojebWW2Cp7Rg9dXs) | 2:38 | 2025-12-11 |  |
+| [Kallers in Die Kraal](https://open.spotify.com/track/44K0H0pESr2iegJ6gDvvUh) | [Pj Du Toit](https://open.spotify.com/artist/4bPNdvog4sd51CAiak6mlC) | [Kallers in Die Kraal](https://open.spotify.com/album/60rItKojebWW2Cp7Rg9dXs) | 2:38 | 2025-12-11 | 2026-02-21 |
 | [KALM!](https://open.spotify.com/track/2rs0I9mD7VaTKdYL66FrVL) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [KALM!](https://open.spotify.com/album/2jHen0JrmILvykvm7qMsbF) | 2:50 | 2025-04-24 | 2025-05-02 |
 | [Kambro se Karoo](https://open.spotify.com/track/1eaBjvtVzJa8OcGY1DAxbq) | [Rohan Britz](https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo) | [Kambro se Karoo](https://open.spotify.com/album/3zuS9YEaGfEf9F5rulCsQu) | 3:35 | 2025-07-24 | 2025-08-15 |
 | [Kamp Saam Vriende](https://open.spotify.com/track/2ggnTaThwTyzOqWGiAQKzo) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Beeskraal](https://open.spotify.com/artist/2lU5noHHSMS5cpKisJvmwM) | [Kamp Saam Vriende](https://open.spotify.com/album/54Iej57LYuUoLHHDcAONlj) | 3:00 | 2023-08-31 | 2023-10-20 |
@@ -1547,6 +1548,7 @@
 | [Nuwe Maan](https://open.spotify.com/track/19zRGRU3CNuzTfsvSAErBU) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Nuwe Maan](https://open.spotify.com/album/7pLG6unGnqASOVjzEcpETg) | 3:55 | 2024-11-14 | 2024-11-22 |
 | [Nuwe Reise](https://open.spotify.com/track/6irJs3wXpfMJBwPsx6BZUP) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Nuwe Reise](https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4) | 2:42 | 2023-01-19 | 2023-03-18 |
 | [Nykie](https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0) | [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Nykie](https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw) | 3:19 | 2025-06-19 | 2025-09-19 |
+| [Nytjie](https://open.spotify.com/track/7yv5BayVQ5pwFnvi5a1l1O) | [VAN STRATEN](https://open.spotify.com/artist/5DcFd7lQEbXVARzNZ4q2Qu), [Jaakie](https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz), [Fred Den Hartog](https://open.spotify.com/artist/5abXs4hcb60KWxunzW0Fi5) | [Nytjie](https://open.spotify.com/album/7bMIRq5aRdumBLjc0rlKlI) | 2:57 | 2026-02-20 |  |
 | [O Boereplaas](https://open.spotify.com/track/4xWWsN7cRlnivkwxkJnMhE) | [Kate Rok](https://open.spotify.com/artist/4GWbV30kcBztbrcuxyiKmz) | [Weef](https://open.spotify.com/album/2MSS8umZ979k7bAt8TnJxr) | 2:43 | 2025-11-13 | 2025-11-21 |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 | 2023-02-24 |
 | [O'Lyfie](https://open.spotify.com/track/1ByvWVaTeAHDRp5qkaF1j6) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [O'Lyfie](https://open.spotify.com/album/38b4NVSYWY50nz5VChOqmq) | 3:04 | 2023-12-14 | 2023-12-30 |

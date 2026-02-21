@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,003 likes - 100 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,092 likes - 100 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 7 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 |
 | 8 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 9 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 |
-| 10 | [Track 2](https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [WEMBHTHE](https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [BANDLA LAKITHI](https://open.spotify.com/album/7esumreMtD9vadIsdRF7bf) | 5:44 |
 | 11 | [Uyena \- Live](https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi \(Live\)](https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY) | 5:47 |
 | 12 | [All My Days \- LIVE AT STATE THEATRE PRETORIA](https://open.spotify.com/track/0x8MglZZoD6sdb6jeonMOf) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [All My Days \(LIVE AT STATE THEATRE PRETORIA\)](https://open.spotify.com/album/2gkKRsQybdC1fqPesG8XHq) | 7:31 |
 | 13 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |

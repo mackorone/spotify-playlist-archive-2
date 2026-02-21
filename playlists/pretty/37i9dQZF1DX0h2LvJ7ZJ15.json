@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1608992,
+  "num_followers": 1609276,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCdRkxZG9ROxGqDzX5b59YCzYBu",
+  "snapshot_id": "AAAAAGpDgckGU2TwS/3Klq5/G8Odd84u",
   "tracks": [
     {
       "added_at": "2026-02-12 16:00:44",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-12 16:00:44",
       "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "KXLLSWXTCH",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
+    },
+    {
+      "added_at": "2026-02-12 16:00:44",
+      "album": {
         "name": "coldshade",
         "url": "https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 204887,
       "name": "coldshade - Slowed",
       "url": "https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV"
-    },
-    {
-      "added_at": "2026-02-12 16:00:44",
-      "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
-      },
-      "artists": [
-        {
-          "name": "KXLLSWXTCH",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "WASTE - Slowed Version",
-      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     },
     {
       "added_at": "2026-02-12 16:00:44",

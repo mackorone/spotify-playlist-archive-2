@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "6-7",
+        "url": "https://open.spotify.com/album/6A6ecn2V1HauLX2Z57Mcud"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88582,
+      "name": "6-7",
+      "url": "https://open.spotify.com/track/4yeaLItxF75bCI5KraoQcg"
+    },
+    {
+      "album": {
         "name": "600 Degrees",
         "url": "https://open.spotify.com/album/7Cc4BJMsdA7CcyjC2oGZpS"
       },
@@ -4158,7 +4176,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 194629,
       "name": "Bad Terms",
       "url": "https://open.spotify.com/track/5FI6krtk9iWKvhdjv6xzuQ"
@@ -6582,7 +6600,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
@@ -11756,7 +11774,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 112207,
       "name": "Did My Best",
       "url": "https://open.spotify.com/track/6usrUIoDcoDyRFrTCq3kQe"
@@ -12340,6 +12358,24 @@
       "duration_ms": 162461,
       "name": "DO NOT DISTURB",
       "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/2ZSeR68JPLLkVudKFXVCM5"
+      },
+      "artists": [
+        {
+          "name": "Tre Loaded",
+          "url": "https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181774,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/7Mr9vYdF7jYbjl0DbpIfNZ"
     },
     {
       "album": {
@@ -13153,6 +13189,32 @@
     },
     {
       "album": {
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Drive Alone",
+      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
+    },
+    {
+      "album": {
         "name": "Drive Da Boat (feat. BabyChiefDoit)",
         "url": "https://open.spotify.com/album/5jiqJPoIRQ4BXmeEsdgRBV"
       },
@@ -13458,6 +13520,28 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg"
+    },
+    {
+      "album": {
+        "name": "Dumb wit it (get in dea) [Remix]",
+        "url": "https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE"
+      },
+      "artists": [
+        {
+          "name": "Geaux Teezy",
+          "url": "https://open.spotify.com/artist/5D54Rqnqk6veVQv3rNoUAz"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "Dumb wit it (get in dea) - Remix",
+      "url": "https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi"
     },
     {
       "album": {
@@ -15024,6 +15108,24 @@
       "duration_ms": 177387,
       "name": "Fine Shit",
       "url": "https://open.spotify.com/track/126eIyxh6xAn6TBifXFGwh"
+    },
+    {
+      "album": {
+        "name": "Fine Shit",
+        "url": "https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113700,
+      "name": "Fine Shit",
+      "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
     },
     {
       "album": {
@@ -17407,6 +17509,24 @@
     },
     {
       "album": {
+        "name": "Get Me Dea",
+        "url": "https://open.spotify.com/album/1LgiJsHkIJZQdc4aQdorwX"
+      },
+      "artists": [
+        {
+          "name": "OBN Jay",
+          "url": "https://open.spotify.com/artist/1IIDXzVCV16qAYAICsL763"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Get Me Dea",
+      "url": "https://open.spotify.com/track/5bgvIs6ged5kSPPQq1J83O"
+    },
+    {
+      "album": {
         "name": "Get Right",
         "url": "https://open.spotify.com/album/5zCLvl2nq5TYhZkf8S1Tfo"
       },
@@ -19171,6 +19291,24 @@
     },
     {
       "album": {
+        "name": "Handsome, Young & Paid",
+        "url": "https://open.spotify.com/album/4o2LIPQQLxIW1hu6H2gFYJ"
+      },
+      "artists": [
+        {
+          "name": "RNB.FOEMOB",
+          "url": "https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144265,
+      "name": "Handsome, Young & Paid",
+      "url": "https://open.spotify.com/track/1UF1zg8o6ECx6ZGPFe0oh3"
+    },
+    {
+      "album": {
         "name": "HANDSOMER",
         "url": "https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI"
       },
@@ -20791,6 +20929,28 @@
     },
     {
       "album": {
+        "name": "Hood",
+        "url": "https://open.spotify.com/album/434l20QuKUafaGWAPsJRhT"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139206,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2"
+    },
+    {
+      "album": {
         "name": "HOODRAT",
         "url": "https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm"
       },
@@ -21962,7 +22122,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 202440,
       "name": "I WANNA WIN",
       "url": "https://open.spotify.com/track/1j4DEyma0XvRqsgtARNzlL"
@@ -23630,7 +23790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 129503,
       "name": "JR SMITH",
       "url": "https://open.spotify.com/track/2ggkCuuS2ANSZ8Oe1nUUbh"
@@ -23892,7 +24052,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 161985,
       "name": "justfallinlovewithme.",
       "url": "https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD"
@@ -25484,7 +25644,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 215564,
       "name": "Let Go of My Cup (feat. That Mexican OT)",
       "url": "https://open.spotify.com/track/0QJ7MUdSemxAvC1nLXxCaW"
@@ -27628,6 +27788,28 @@
       "duration_ms": 144000,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/6VHs0ZdGu2MdyNItJWoUmT"
+    },
+    {
+      "album": {
+        "name": "MAKETHEWORLDSTOP",
+        "url": "https://open.spotify.com/album/3D2QP4GTQ2ML3TiemDomvu"
+      },
+      "artists": [
+        {
+          "name": "Lil Kliff",
+          "url": "https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd"
+        },
+        {
+          "name": "Big Yba",
+          "url": "https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206354,
+      "name": "MAKETHEWORLDSTOP",
+      "url": "https://open.spotify.com/track/4ggV52zphh9fwFm7EGtNOG"
     },
     {
       "album": {
@@ -32744,7 +32926,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 114519,
       "name": "Old Trappin Niggaz",
       "url": "https://open.spotify.com/track/20tZxi4la7Z9AV8vynWyLL"
@@ -33564,7 +33746,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 205263,
       "name": "Out Of Town Bae",
       "url": "https://open.spotify.com/track/6gJmebyVMUPwJECDmpf6zl"
@@ -33784,6 +33966,24 @@
       "duration_ms": 128194,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP"
+    },
+    {
+      "album": {
+        "name": "The Gainer Way",
+        "url": "https://open.spotify.com/album/7aif6ofzWS1FkhABjsuF1J"
+      },
+      "artists": [
+        {
+          "name": "51 June",
+          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160518,
+      "name": "Overly Sure",
+      "url": "https://open.spotify.com/track/4cYPJYqTrNHrzzQXoCRtJa"
     },
     {
       "album": {
@@ -37520,7 +37720,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144065,
       "name": "Reap 2",
       "url": "https://open.spotify.com/track/2fB9OOliFF005Vux4Em4FE"
@@ -38450,12 +38650,12 @@
           "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
           "name": "Chief Keef",
           "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
       "date_added": "2026-02-13",
@@ -43178,7 +43378,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 115680,
       "name": "Successful",
       "url": "https://open.spotify.com/track/4a4TQY1JEu1TLRCIM2cpsh"
@@ -44249,6 +44449,24 @@
     },
     {
       "album": {
+        "name": "Tea Time",
+        "url": "https://open.spotify.com/album/6pjLYI9oQeOwieJreNKEvR"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/5Ot37i0Oaep5tpoUi6TnM9"
+    },
+    {
+      "album": {
         "name": "Team Player (feat. Lil Poppa & Morray)",
         "url": "https://open.spotify.com/album/3E1E6Qlhvo9uS3hwx3J0Hz"
       },
@@ -45071,6 +45289,32 @@
     },
     {
       "album": {
+        "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
+        "url": "https://open.spotify.com/album/0YmJPpKQdsskngFVgZy8Ss"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176867,
+      "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
+      "url": "https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO"
+    },
+    {
+      "album": {
         "name": "The Secret Recipe",
         "url": "https://open.spotify.com/album/53Iy26weUBJoSBssWcfP3q"
       },
@@ -45652,6 +45896,24 @@
       "duration_ms": 173949,
       "name": "Thug Diary",
       "url": "https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq"
+    },
+    {
+      "album": {
+        "name": "BETTER AND BETTER",
+        "url": "https://open.spotify.com/album/6jPWHQC5xBMg2esGZTbp4V"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162959,
+      "name": "THUG ME LIKE DAT",
+      "url": "https://open.spotify.com/track/5acobHPtkLe2oVrfDZuWBw"
     },
     {
       "album": {
@@ -49156,7 +49418,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 157200,
       "name": "What Do You Like",
       "url": "https://open.spotify.com/track/3kQfwrH3xDoC8G24CvcFMm"
@@ -49868,7 +50130,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE",
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
@@ -50916,7 +51178,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 137666,
       "name": "WTHELLY",
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"

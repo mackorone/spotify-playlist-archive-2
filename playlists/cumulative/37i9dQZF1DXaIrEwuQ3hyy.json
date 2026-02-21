@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW"
       },
@@ -4224,7 +4242,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 219999,
       "name": "spain",
       "url": "https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01"

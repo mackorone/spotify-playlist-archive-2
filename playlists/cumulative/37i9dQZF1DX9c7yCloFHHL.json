@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Elori Saxl, Henry Solomon",
+  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Moby",
   "name": "New Ambient",
   "tracks": [
     {
@@ -158,6 +158,28 @@
       "duration_ms": 348748,
       "name": ". . . on reflection (three)",
       "url": "https://open.spotify.com/track/6TNURtKVhxrnzuZZnqRDF9"
+    },
+    {
+      "album": {
+        "name": "Fleeting Moments",
+        "url": "https://open.spotify.com/album/5Vlxy8mPhwGrN3YdYmGaba"
+      },
+      "artists": [
+        {
+          "name": "Aliia Sagitova",
+          "url": "https://open.spotify.com/artist/3RbOhVbARP5rYTYhsnd5MY"
+        },
+        {
+          "name": "Aliya Lark",
+          "url": "https://open.spotify.com/artist/18EN9b3WNNScIQdNnyHuTY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "09:26",
+      "url": "https://open.spotify.com/track/1LSwdZTx7nXBKEI4YVzJtG"
     },
     {
       "album": {
@@ -898,7 +920,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 474895,
       "name": "a little death",
       "url": "https://open.spotify.com/track/6KbmP0pZHqnER0KWT2E9lF"
@@ -3543,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "BEAMS",
+        "url": "https://open.spotify.com/album/4KVRLz2Vwc2bQNhoKudhTt"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104893,
+      "name": "BEAMS",
+      "url": "https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG"
+    },
+    {
+      "album": {
         "name": "Beautification Technologies",
         "url": "https://open.spotify.com/album/0S5QUYkSQT04CpmG1uPmNu"
       },
@@ -4776,6 +4816,24 @@
       "duration_ms": 206286,
       "name": "Burnt",
       "url": "https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n"
+    },
+    {
+      "album": {
+        "name": "Butch's Guns",
+        "url": "https://open.spotify.com/album/6ql09iwJrMJ3uzd199nol7"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 852266,
+      "name": "Butch's Guns",
+      "url": "https://open.spotify.com/track/36Rp5CYymEQI879FAKxCb0"
     },
     {
       "album": {
@@ -6254,7 +6312,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156631,
       "name": "cold rainy nights.",
       "url": "https://open.spotify.com/track/4XxXJ6PmFJJtsNA8qlbTzf"
@@ -7692,7 +7750,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 247000,
       "name": "Developments 2: Motion",
       "url": "https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87"
@@ -7794,6 +7852,28 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "album": {
+        "name": "Disque",
+        "url": "https://open.spotify.com/album/2nGu7fJJjdqso0JFZeqSES"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200327,
+      "name": "Disque",
+      "url": "https://open.spotify.com/track/0bF68n7iG7JYOgAeCIUBei"
     },
     {
       "album": {
@@ -8248,7 +8328,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 263998,
       "name": "Dreaming with a Shadow",
       "url": "https://open.spotify.com/track/6Dez68dAVMp4YZPoBKaTCa"
@@ -10304,6 +10384,28 @@
       "duration_ms": 241447,
       "name": "Fervedouro Dois",
       "url": "https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4"
+    },
+    {
+      "album": {
+        "name": "Wade",
+        "url": "https://open.spotify.com/album/55KBwxmDhVvAdyEh1pMYic"
+      },
+      "artists": [
+        {
+          "name": "Niko Demus",
+          "url": "https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250619,
+      "name": "Few And Far Between",
+      "url": "https://open.spotify.com/track/2NXnBy4nrWocvjMCH8rHlV"
     },
     {
       "album": {
@@ -14592,7 +14694,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 578291,
       "name": "Infinity Gradient: Section 3",
       "url": "https://open.spotify.com/track/1LxA3AUqbLwmpRSeB9HrC0"
@@ -18464,6 +18566,24 @@
       "duration_ms": 185777,
       "name": "Moth",
       "url": "https://open.spotify.com/track/3chU6ZCIe8IB7TKGAiEI4y"
+    },
+    {
+      "album": {
+        "name": "Future Quiet",
+        "url": "https://open.spotify.com/album/4383uHOn6d0N0zyV0mZ1uQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348437,
+      "name": "Mott St 1992",
+      "url": "https://open.spotify.com/track/1mVd372eD1BYzf8NvJd9jr"
     },
     {
       "album": {
@@ -23284,7 +23404,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 97026,
       "name": "Rain",
       "url": "https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA"
@@ -23660,6 +23780,24 @@
       "duration_ms": 136145,
       "name": "regrets - Slowed",
       "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "album": {
+        "name": "Rekviem f\u00f6r en dr\u00f6m",
+        "url": "https://open.spotify.com/album/5mKaZxL6AMwHKpJcL6fxTv"
+      },
+      "artists": [
+        {
+          "name": "Sm\u00e5land",
+          "url": "https://open.spotify.com/artist/3BO4JkxShK8cpvXoVLZUAs"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "Rekviem f\u00f6r en dr\u00f6m",
+      "url": "https://open.spotify.com/track/57YQE8ovVTzVYA8oXBvU8Q"
     },
     {
       "album": {
@@ -26625,6 +26763,24 @@
     },
     {
       "album": {
+        "name": "Something Heavy",
+        "url": "https://open.spotify.com/album/3WcT5HUlzqoXcDIx2J4hVX"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 784015,
+      "name": "Something Heavy (Sleep Version)",
+      "url": "https://open.spotify.com/track/5sOmzfjXWt9NuAkGRlISBt"
+    },
+    {
+      "album": {
         "name": "sometimes it's scary but it's still just you and me (Leaving Laurel Revisit)",
         "url": "https://open.spotify.com/album/7GSjuvfO5zE5BOLn8uRPYz"
       },
@@ -27442,7 +27598,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 158822,
       "name": "Stellar Parallax",
       "url": "https://open.spotify.com/track/0rDPpovB9tNfxHVeULoAUU"
@@ -27926,7 +28082,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 322497,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/2n89zJUQJflu1IjBEUDz3U"
@@ -32177,6 +32333,24 @@
     },
     {
       "album": {
+        "name": "Walrus",
+        "url": "https://open.spotify.com/album/39jSm6UmNYxMarmbxvtuMm"
+      },
+      "artists": [
+        {
+          "name": "Rosenau & Sanborn",
+          "url": "https://open.spotify.com/artist/6fSXaI61QwhurdSbBWty65"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272514,
+      "name": "Walrus",
+      "url": "https://open.spotify.com/track/2BRUjifFHb7ghFSo84F79V"
+    },
+    {
+      "album": {
         "name": "Wanderstop",
         "url": "https://open.spotify.com/album/051vvnKIC9VaY8vw4R2s0y"
       },
@@ -33858,6 +34032,24 @@
       "duration_ms": 225612,
       "name": "You\u2019re My Everything",
       "url": "https://open.spotify.com/track/5RuQkvYwAUoEeUeIGUslCi"
+    },
+    {
+      "album": {
+        "name": "Evaporator",
+        "url": "https://open.spotify.com/album/0uB9jp5XGssp3jbEpWdSId"
+      },
+      "artists": [
+        {
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169350,
+      "name": "Yucon",
+      "url": "https://open.spotify.com/track/58QASUiIYdw8JzCduRhhEF"
     },
     {
       "album": {

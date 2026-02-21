@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123 likes - 181 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124 likes - 181 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 154 | [Champagne](https://open.spotify.com/track/76mejIXXyEr7Q19iE8YvJS) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:10 |
 | 155 | [Gafas Pal Sol](https://open.spotify.com/track/2dLQ0PibSHyOrXnOtH7cO4) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 2:42 |
 | 156 | [Ta Ta Ta](https://open.spotify.com/track/4tgJye7sAve1FmRjXxVC8k) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [Ta Ta Ta](https://open.spotify.com/album/5zDoI7D8InPrG9iUBnZic1) | 3:24 |
-| 157 | [Sin Igual](https://open.spotify.com/track/4D20alJpwRnEN4XO6h3nDo) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Sin Igual](https://open.spotify.com/album/5lti3yIMpjuJimGhi777sg) | 3:23 |
-| 158 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
+| 157 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
+| 158 | [Sin Igual](https://open.spotify.com/track/4D20alJpwRnEN4XO6h3nDo) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Sin Igual](https://open.spotify.com/album/5lti3yIMpjuJimGhi777sg) | 3:23 |
 | 159 | [Sad Gang](https://open.spotify.com/track/10rgs8up5nzr1eX50o8lpQ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Bloke Hills](https://open.spotify.com/album/6FUiQAvxP4vICRPNGBS9HG) | 3:46 |
 | 160 | [Caracol](https://open.spotify.com/track/1QDXGLJaZKFYLSCk6MM1rn) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 3:02 |
 | 161 | [Haciéndolo](https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Haciéndolo](https://open.spotify.com/album/7ESIsApWZrcBu8ZWF1bYIy) | 3:27 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 180 | [Definitivamente](https://open.spotify.com/track/2Dms2O1sG4cAzEMHbBp5ST) | [Tomy DJ](https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z) | [Definitivamente](https://open.spotify.com/album/2CjZWrOpdiFhSR6eZlFbUO) | 3:23 |
 | 181 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AcKHtAAAAAAy8Oc4mkvAikY2EeiEMGMm`
+Snapshot ID: `AcKNVAAAAADgXrztmbxoJxP1B65CZN6m`

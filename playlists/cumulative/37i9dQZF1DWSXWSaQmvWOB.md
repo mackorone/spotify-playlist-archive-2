@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Baby Rose & Leon Thomas
 
-1,238 songs - 3 day 3 hr 3 min
+1,239 songs - 3 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 | 2024-09-13 | 2025-05-20 |
 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2023-07-10 | 2023-12-13 |
 | [Bad News](https://open.spotify.com/track/4z2Nybp5SG6spJoe3yC5k3) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bad News](https://open.spotify.com/album/0GfY8iuj7H2hjwiAnunK8F) | 3:48 | 2021-01-16 | 2022-02-23 |
-| [Be Better](https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Be Better](https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1) | 3:59 | 2026-02-03 |  |
+| [Be Better](https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Be Better](https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1) | 3:59 | 2026-02-03 | 2026-02-21 |
 | [Be Here In The Morning](https://open.spotify.com/track/3ljqOjnJN5G9VcVz2p2WPW) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Let Yourself Be Loved](https://open.spotify.com/album/506h46ORfhACjYmXpUtV9U) | 4:04 | 2020-09-15 | 2020-11-13 |
 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4oRIfj0yHdccOGOGRdOJDT) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Be My Muse \(Gold Edit\)](https://open.spotify.com/album/4drJMukvHfrlCgxgdFr7y9) | 3:18 | 2021-09-04 | 2021-10-29 |
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2024-10-04 | 2025-05-20 |
@@ -918,6 +918,7 @@
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-02-09 | 2024-04-11 |
 | [She Is Alive](https://open.spotify.com/track/4EwKdfy5qVZF5aAgDfEfNH) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy) | [Ways Of Speaking](https://open.spotify.com/album/1QEsaqZaJ7wwjjIddlE8Pa) | 4:38 | 2025-04-17 | 2025-12-20 |
 | [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 | 2024-09-11 | 2025-04-18 |
+| [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 | 2026-02-20 |  |
 | [She Said](https://open.spotify.com/track/3CR4lqVVx9F96vkd7QAEmJ) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [She Said](https://open.spotify.com/album/7qHEPbWESg5qj663XED0BY) | 3:35 | 2023-06-07 | 2024-02-10 |
 | [She Whispers](https://open.spotify.com/track/5AhQoZro3SFErHL12dapQh) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Whispers](https://open.spotify.com/album/4nzj5FWkSP4u5UDTKp3gqk) | 4:08 | 2025-07-04 | 2025-11-12 |
 | [SHE'S A BORE](https://open.spotify.com/track/4fz4wPACzcn8DH44oAJbmo) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [SHE’S A BORE](https://open.spotify.com/album/7lNmtL5DyMuLTA3TBD1UOh) | 2:37 | 2024-06-14 | 2024-07-30 |

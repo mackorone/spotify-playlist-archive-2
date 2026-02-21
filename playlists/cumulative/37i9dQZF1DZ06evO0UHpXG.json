@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184493,
       "name": "Dead Men Tell No Tales",
       "url": "https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY"
@@ -1048,6 +1048,24 @@
       "duration_ms": 183640,
       "name": "In the Name of Tragedy",
       "url": "https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "In the Year of the Wolf",
+      "url": "https://open.spotify.com/track/71B1ZFIn5l0WIMPpSfO57y"
     },
     {
       "album": {

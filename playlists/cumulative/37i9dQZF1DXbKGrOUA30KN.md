@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: JAS, LUNA
 
-312 songs - 14 hr 8 min
+312 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [darüber schlafen](https://open.spotify.com/track/4ukYKO5e1mMKoSUCr7nEO5) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [darüber schlafen](https://open.spotify.com/album/0BtFFhypiYIyaEUMspgQKe) | 2:18 | 2025-11-13 | 2026-02-06 |
 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 | 2025-10-24 | 2025-11-21 |
 | [Das Leben ist schön \(aus "Paddington in Peru"\)](https://open.spotify.com/track/0QCgDvbQ9iOH3M1NOyq3oA) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Das Leben ist schön \(aus "Paddington in Peru"\)](https://open.spotify.com/album/0W4aY14ZD4qKOxkyqNqPMD) | 2:46 | 2025-10-24 | 2026-01-30 |
+| [Das Leben ruft](https://open.spotify.com/track/3OYZsuAx0PgQSOdgu3neaS) | [Florian Bunke](https://open.spotify.com/artist/1n8bYG9pLuKU9SpAS4F3D4) | [A24](https://open.spotify.com/album/3WLrTHsegftGBd0CpoFWTv) | 2:36 | 2026-02-19 |  |
 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 | 2025-10-30 | 2026-01-30 |
 | [das universum macht das schon.](https://open.spotify.com/track/2yAxv0W1clE4efCGld3LjV) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [das universum macht das schon.](https://open.spotify.com/album/2Baba5En9ZHm5P261qxtWB) | 2:52 | 2025-10-24 | 2025-11-07 |
 | [DAS WICHTIGSTE](https://open.spotify.com/track/0tNIvDvRbXvj0upmLAJyB4) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [DAS WICHTIGSTE](https://open.spotify.com/album/3fyoEjmBa9Dofc4sDh5bPi) | 2:15 | 2025-10-30 | 2025-12-05 |
@@ -237,7 +238,7 @@
 | [PRIVILEG](https://open.spotify.com/track/4QywMEVuLLe7VWtJrxpquX) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [PRIVILEG](https://open.spotify.com/album/0Jyoc5G3CJkYG44mGZa7CO) | 2:38 | 2025-10-24 | 2025-12-05 |
 | [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 | 2026-01-29 |  |
 | [Rettest Du Mich](https://open.spotify.com/track/6fDw6jks6vPMhFFXjjtS91) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Rettest Du Mich](https://open.spotify.com/album/3JZuvq2jJfg2p212Rvfwtp) | 2:25 | 2025-10-24 | 2025-11-14 |
-| [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [](https://open.spotify.com/album/null) | 2:18 | 2026-02-19 |  |
+| [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 | 2026-02-19 |  |
 | [RON WEASLEY](https://open.spotify.com/track/1rYxxzFReauwApjU8byOKw) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [RON WEASLEY](https://open.spotify.com/album/025u3cE67Md9ANQAzEejuI) | 2:46 | 2025-10-24 | 2025-11-21 |
 | [ROTER KNOPF](https://open.spotify.com/track/3X3EJVWi2XSTRwxpMn374S) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ROTER KNOPF](https://open.spotify.com/album/50VsggAMhFPZgYsg3Za3G0) | 2:00 | 2025-10-24 | 2025-11-14 |
 | [Russisch Roulette](https://open.spotify.com/track/4dl2chQiBfJdYqRtSYtQjj) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Russisch Roulette](https://open.spotify.com/album/7f5CCT665VoRN0cqagPqJs) | 2:50 | 2025-11-20 | 2026-01-15 |
@@ -262,7 +263,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 |  |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 |  |
-| [Track 10](https://open.spotify.com/track/3OYZsuAx0PgQSOdgu3neaS) | [Florian Bunke](https://open.spotify.com/artist/1n8bYG9pLuKU9SpAS4F3D4) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 | 2025-11-28 |

@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-572 songs - 1 day 8 hr 10 min
+573 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Corazon Destrozado](https://open.spotify.com/track/68h0m0tEi2xhR4fBFN7vtH) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Corazon Destrozado](https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr) | 3:16 | 2022-01-21 | 2022-07-05 |
 | [Corazón](https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL) | [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Corazón](https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG) | 2:53 | 2025-11-21 |  |
 | [Corazón Blindado](https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Corazón Blindado](https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli) | 2:51 | 2024-01-26 | 2024-02-17 |
-| [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-27 |  |
+| [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-27 | 2026-02-21 |
 | [Corazón Mágico](https://open.spotify.com/track/3D7rbDpHX6xbvYxKs3vzBw) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Corazón Mágico](https://open.spotify.com/album/15Kdx8AF6fkQp6o94Vsbvv) | 2:51 | 2024-10-11 | 2024-12-21 |
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 | 2024-09-30 |
 | [Corazón, Corazoncito](https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Corazón, Corazoncito](https://open.spotify.com/album/6geC8KMyHnCuv277i4uait) | 3:55 | 2022-01-21 | 2022-07-14 |
@@ -573,6 +573,7 @@
 | [Yo Tomo](https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/4hI5fnZyarU43UUWQUxi0o) | 3:24 | 2022-01-21 | 2022-07-27 |
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-03-10 | 2024-04-19 |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-01-14 | 2023-03-12 |
+| [You Are Re Hermosa](https://open.spotify.com/track/4GFJrhmEz2sz8V8cDfds6S) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [You Are Re Hermosa](https://open.spotify.com/album/0x6IpBHOE72xntkNRGy2cU) | 1:55 | 2026-02-20 |  |
 | [¿Que Cambió?](https://open.spotify.com/track/0aok5y5x0UaWukaODVACWy) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Que Cambió?](https://open.spotify.com/album/6pysRGftB6wL724toX1epM) | 2:13 | 2022-04-01 | 2022-04-16 |
 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/3j8KqAjYT9nA993cJbcbQi) | [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [¿Quieres Ser Mi Amante?](https://open.spotify.com/album/4PnXX6JkqXoS1LrqGr8KBV) | 3:28 | 2022-01-21 | 2022-05-11 |
 | [¿Y Ahora Qué Hago?](https://open.spotify.com/track/1BD0M6eizzUKfqG4gGdl7E) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [¿Y Ahora Qué Hago?](https://open.spotify.com/album/7C9bon0DhMCftarfVtC9ut) | 4:52 | 2023-04-21 | 2023-05-20 |

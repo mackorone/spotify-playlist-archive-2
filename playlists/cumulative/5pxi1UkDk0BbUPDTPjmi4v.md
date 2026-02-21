@@ -46,7 +46,7 @@
 | [When I Was Young](https://open.spotify.com/track/0a2GDq8IJALkj6RLPGieaq) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Stars Are Indifferent To Astronomy](https://open.spotify.com/album/6V8jRx96VyVtrGmoovIghx) | 5:18 | 2014-06-13 |  |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2014-06-13 |  |
 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2014-06-13 |  |
-| [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 | 2014-06-13 |  |
+| [Young Forever \[Jay\-Z + Mr Hudson\]](https://open.spotify.com/track/7nmArpOotJ431XYlJXI1vy) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:13 | 2014-06-13 |  |
 | [Youth \(Adventure Club Remix\)](https://open.spotify.com/track/4n0isQrD9b9lOoSs7zKogy) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Youth \(Adventure Club Remix\)](https://open.spotify.com/album/1gL6nx5KkeXNXJxaIvKVk7) | 3:58 | 2014-06-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

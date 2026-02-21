@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > now and next level pop 🧪 cover: horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,131 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,116 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 8 | [Holding On](https://open.spotify.com/track/1phzOXrX7HAmvarQTpc6qk) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Holding On](https://open.spotify.com/album/3mWrSIKxxUzfTeIRWmcL4B) | 3:16 |
 | 9 | [It's You \- underscores' "It’s U" Remix](https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [It's You \(underscores' "It’s U" Remix\)](https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX) | 3:31 |
 | 10 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
-| 11 | [Prototype](https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [](https://open.spotify.com/album/null) | 2:26 |
+| 11 | [Prototype](https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 2:26 |
 | 12 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 13 | [BEEP BEEP](https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [BEEP BEEP](https://open.spotify.com/album/7HLxofu5KDBHTZNNrJCnZR) | 2:33 |
 | 14 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 22 | [BACKWARDS, INTO U](https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [The Elephant](https://open.spotify.com/album/1fML3Ns0a3fXw8A4Y7CPiK) | 3:28 |
 | 23 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
 | 24 | [Bruises on the Peach](https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Bruises on the Peach](https://open.spotify.com/album/5pj3C1wq8xvBMygTiOgHx1) | 2:58 |
-| 25 | [Track 1](https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [](https://open.spotify.com/album/null) | 0:00 |
+| 25 | [LLORONiTA](https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [LLORONiTA](https://open.spotify.com/album/7zbvllEi5vpQVIhlt9jJAu) | 4:00 |
 | 26 | [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 |
 | 27 | [Glitter In My Tears](https://open.spotify.com/track/6ggeF2miuarRU6VjfaWsZK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Glitter In My Tears](https://open.spotify.com/album/3hhiuxwHKEtIQJRtCKJcaZ) | 3:07 |
 | 28 | [fall in love with the dj](https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj](https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ) | 3:00 |

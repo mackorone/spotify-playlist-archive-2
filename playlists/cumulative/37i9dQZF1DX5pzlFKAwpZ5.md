@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-368 songs - 1 day 2 hr 59 min
+369 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 | 2026-01-06 |
 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 | 2025-01-14 |
+| [MYTH](https://open.spotify.com/track/3l28Bwzdujv0CbhHoqDHe5) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MYTH](https://open.spotify.com/album/1ZQSNmIoHHBDqU5Nb9I0sN) | 1:27 | 2026-02-10 |  |
 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 | 2025-07-03 |  |
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2025-12-02 |  |
 | [Nature Morte](https://open.spotify.com/track/1BJh0hlduwUNWwsRqCDoRY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Nature Morte](https://open.spotify.com/album/3jLoX9HzMViUkvhvBDCvNN) | 3:32 | 2025-11-11 | 2025-12-08 |
@@ -356,7 +357,7 @@
 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 | 2022-01-07 | 2023-04-22 |
 | [Yowa](https://open.spotify.com/track/7LcoSuCny0cee4PPF7ehVC) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yowa](https://open.spotify.com/album/6xF5BAMSXRNud3nF4ms1s0) | 3:28 | 2022-08-11 | 2023-04-22 |
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
-| [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 |  |
+| [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 | 2026-02-21 |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
 | [ソファで夢を見る](https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0) | [STILLZ](https://open.spotify.com/artist/5U2OgD5Qd1SgfCP7swmDnI), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [separated at birth](https://open.spotify.com/album/5N1rxL68D9q48lPfiseq0Q) | 4:36 | 2025-06-27 |  |
 | [ホタル](https://open.spotify.com/track/02JgKm14vFP4VZHnCmybm3) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [フィルハーモニー](https://open.spotify.com/album/3WFwWemOagEeB7XdtveFLe) | 4:26 | 2025-03-21 | 2025-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24886,
+  "num_followers": 24891,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAACHCQEkQoj354eMM7CZpZkX",
+  "snapshot_id": "aZZSgAAAAABNkxwiq8LVBCnmIOfZkIFc",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 166810,
-      "name": "Last Trip Around the Sun",
-      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
+      "duration_ms": 197473,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 197473,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
+      "duration_ms": 166810,
+      "name": "Last Trip Around the Sun",
+      "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
     },
     {
       "added_at": null,

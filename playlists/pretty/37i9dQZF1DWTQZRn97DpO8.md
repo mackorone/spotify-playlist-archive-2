@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,718 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,742 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 13 | [Godknows](https://open.spotify.com/track/3Mp6ZA3g59q6yhHv0MzLaI) | [Erwann](https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1) | [Godknows](https://open.spotify.com/album/5dudXduIZPhX1mrqcwTeQB) | 3:39 |
 | 14 | [Trop tôt](https://open.spotify.com/track/1lFEMxkxm1qkDeqyWp6Psv) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Trop tôt](https://open.spotify.com/album/0o1VrST1UiJVUH54hzhQt1) | 3:58 |
 | 15 | [lâche le contrôle](https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [lâche le contrôle](https://open.spotify.com/album/1LeceXsoPcFUVHLIZmaGYc) | 3:03 |
-| 16 | [Track 9](https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [Paradis](https://open.spotify.com/track/3XhLKzxOpL28hhl8We8kzq) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [J'ai besoin de toi](https://open.spotify.com/album/0e6V5jsvTkKXchEAt4VZlT) | 2:34 |
 | 17 | [Guérir](https://open.spotify.com/track/1RWDZg4e4klXW9kQrt3ngP) | [PH Trigano](https://open.spotify.com/artist/5xsm7uVwFL9luO2cFcVWrM) | [Guérir](https://open.spotify.com/album/5HFK09QVCSY58DdMUBurS0) | 4:01 |
 | 18 | [Comme je l'aime \- Live](https://open.spotify.com/track/3PdIE96LOrbIdcEEDsVwux) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Lettre à l'Univers \(Live\)](https://open.spotify.com/album/5WJ81Ls7XQbhvC0RoZV1AJ) | 3:54 |
 | 19 | [J’essaye](https://open.spotify.com/track/1GNCc6nPSL7w07UcMhnPkI) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [J’essaye](https://open.spotify.com/album/0SKJ5hPXtj4l7dqYR05MPE) | 2:46 |

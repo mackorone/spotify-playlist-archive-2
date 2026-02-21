@@ -6295,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L"
+      },
+      "artists": [
+        {
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Dazzle Flash",
+      "url": "https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0"
+    },
+    {
+      "album": {
         "name": "DDARA",
         "url": "https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX"
       },
@@ -13534,6 +13552,36 @@
       "duration_ms": 225861,
       "name": "IYAH",
       "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
+    },
+    {
+      "album": {
+        "name": "IYWO",
+        "url": "https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "YOONSEOK",
+          "url": "https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN"
+        },
+        {
+          "name": "WOOKI",
+          "url": "https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN"
+        },
+        {
+          "name": "OF'F",
+          "url": "https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "IYWO",
+      "url": "https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt"
     },
     {
       "album": {
@@ -21631,6 +21679,24 @@
     },
     {
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "album": {
         "name": "EXchange4, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
       },
@@ -25412,7 +25478,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 165000,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD"
@@ -25590,7 +25656,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 296000,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
@@ -25702,7 +25768,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"

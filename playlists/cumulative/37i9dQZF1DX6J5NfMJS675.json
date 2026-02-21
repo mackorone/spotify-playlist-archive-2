@@ -11437,6 +11437,32 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        },
+        {
+          "name": "HYBRD",
+          "url": "https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191230,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p"
+    },
+    {
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4s0QkKVemLLai5UgrKvSa5"
       },
@@ -20590,24 +20616,6 @@
       "duration_ms": 413376,
       "name": "Toxic People",
       "url": "https://open.spotify.com/track/75p7aD6YTSBpR3hN6R59E6"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p"
     },
     {
       "album": {

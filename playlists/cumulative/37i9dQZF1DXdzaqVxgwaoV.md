@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-377 songs - 22 hr 53 min
+378 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,12 +265,13 @@
 | [Mundo Cruel](https://open.spotify.com/track/176BofrETpnUXaVDFYv8hl) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Colección Éxitos Joe Arroyo \(Vol\. 4\)](https://open.spotify.com/album/5DlqvlzDC14xoGHo9OLq4s) | 4:29 | 2024-09-01 | 2025-11-21 |
 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 | 2023-02-03 | 2024-09-02 |
 | [Navidad](https://open.spotify.com/track/7JIHN2bhJhHe9YlFueQoEk) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:23 | 2023-12-05 | 2025-10-04 |
+| [Navidad Negra](https://open.spotify.com/track/0iNxOYzs1DzUL2SUnWD4wr) | [José Barros](https://open.spotify.com/artist/1t23U1IZzKrHHUrHpyUOIL) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 2](https://open.spotify.com/album/7e2UmdoDrz2wZghz9qdjKF) | 3:29 | 2025-12-17 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2023-11-09 | 2023-12-14 |
 | [Ni Parientes Somos](https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:38 | 2023-02-03 | 2024-09-02 |
 | [No Consigo Olvidarte](https://open.spotify.com/track/7w8oNWiZhH4Kzzgp4iSGza) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [La Sabrosura Salsa](https://open.spotify.com/album/0JOCXB95RSqFyKENbych2Y) | 4:30 | 2024-09-01 |  |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 | 2023-02-03 |  |
 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Mis Nuevos Cantares](https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9) | 3:55 | 2024-09-01 |  |
-| [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 | 2023-12-20 |  |
+| [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 | 2023-12-20 | 2026-02-21 |
 | [Nuestra Pobreza](https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [Pídeme](https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU) | 3:21 | 2024-09-01 |  |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/1rOQocblOsHSzOCZHbNVrQ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/6VqGJHlqk61fpfrCNQvKdV) | 5:23 | 2025-09-09 | 2025-10-04 |
 | [Ojitos Hechiceros](https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 | 2023-12-20 |  |

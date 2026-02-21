@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Cade Cunningham
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Cade Cunningham
 
-883 songs - 1 day 20 hr 58 min
+885 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Bussin \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0eJKjbdEwnWbWyJI9z1gMg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:57 | 2023-02-17 | 2023-02-22 |
 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BUSSIN \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 | 2024-03-29 | 2025-03-29 |
 | [By Design](https://open.spotify.com/track/5FxVTEpoBress37MmlMhbZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [André Benjamin](https://open.spotify.com/artist/5lTANVMk0mGnsErXBAutfM) | [Passion, Pain & Demon Slayin'](https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII) | 4:17 | 2024-10-25 | 2024-11-02 |
+| [Ca$ino](https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:20 | 2026-02-20 |  |
 | [CALCULATE](https://open.spotify.com/track/5nR92vgcuXgLW0IFa9THUL) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [CALCULATE](https://open.spotify.com/album/1SdTLhDms64iH36OrSXW1e) | 2:04 | 2025-11-21 | 2026-01-17 |
 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 | 2025-03-07 | 2025-06-28 |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-07-29 | 2023-06-10 |
@@ -166,6 +167,7 @@
 | [Chanel Boy](https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Chanel Boy](https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND) | 2:37 | 2025-11-28 | 2025-12-06 |
 | [Check Please](https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:01 | 2025-10-17 | 2025-11-29 |
 | [Checkmate \(Smooth\)](https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:12 | 2025-08-22 |  |
+| [Circus Circus Free$tyle](https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:52 | 2026-02-20 |  |
 | [City Boys](https://open.spotify.com/track/1Ad8oEhaNWDe5shUeZYlYH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 2:33 | 2024-07-12 | 2024-07-19 |
 | [CLOUD 9](https://open.spotify.com/track/2UqjSm4u2Mpb5E4Y265LQJ) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WARNING SHOT](https://open.spotify.com/album/0b71YRhkucJcuODZV0ykOj) | 2:15 | 2025-10-24 |  |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2021-09-02 | 2023-06-10 |
@@ -436,7 +438,7 @@
 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 | 2023-01-13 | 2023-03-03 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-06-24 | 2024-01-13 |
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2021-09-02 | 2023-03-03 |
-| [KOBE & SHAQ \(feat\. Co Cash\)](https://open.spotify.com/track/71sbRkNNACDmzdl4G3dfuZ) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [T.B.C \(Reloaded\)](https://open.spotify.com/album/1JTuVcbEH3gnHMDWcalZAr) | 2:44 | 2026-02-06 |  |
+| [KOBE & SHAQ \(feat\. Co Cash\)](https://open.spotify.com/track/71sbRkNNACDmzdl4G3dfuZ) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [T.B.C \(Reloaded\)](https://open.spotify.com/album/1JTuVcbEH3gnHMDWcalZAr) | 2:44 | 2026-02-06 | 2026-02-21 |
 | [Kody Blu 31](https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:44 | 2024-07-12 | 2024-07-19 |
 | [KU LO SA](https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA](https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO) | 2:28 | 2024-10-25 | 2024-11-02 |
 | [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 | 2025-09-05 | 2025-10-18 |

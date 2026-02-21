@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: María Arnal.
 
-727 songs - 1 day 13 hr 33 min
+727 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Creí que era eterno](https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [Creí que era eterno](https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH) | 3:12 | 2024-06-27 | 2025-03-28 |
 | [Crisis](https://open.spotify.com/track/7AXbYamdqfw14MQZGeYlDM) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Crisis](https://open.spotify.com/album/0fb9EJam0LRXtnKfxGndYL) | 3:22 | 2024-11-07 | 2024-12-06 |
 | [Créeme te estoy mintiendo](https://open.spotify.com/track/6iHAnBECqbI0xjoBdqUk0M) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Créeme te estoy mintiendo](https://open.spotify.com/album/31Noc1vaBwbyiRMTdtlZUk) | 1:35 | 2025-09-04 | 2025-09-26 |
-| [Crítico](https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [](https://open.spotify.com/album/null) | 2:48 | 2026-02-19 |  |
+| [Crítico](https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Si tú supieras](https://open.spotify.com/album/40RaU3ao1rpS4oSRomfxXQ) | 2:48 | 2026-02-19 |  |
 | [CUANDO HABLES DE AMOR](https://open.spotify.com/track/11KZnk4XbaeYZrRZTGJcHM) | [Nico](https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [PERDEDOR](https://open.spotify.com/album/4f72KB6uVmDWxpjEHwNZL7) | 2:11 | 2026-01-22 |  |
 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 | 2025-05-22 | 2025-06-20 |
 | [cuando vienes tú](https://open.spotify.com/track/4uny88WtOLY5cQPT7lVQmr) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [curtice](https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq) | [cuando vienes tú](https://open.spotify.com/album/0w3uVaDDwl9m52UdIvGkB6) | 2:23 | 2025-04-24 | 2025-05-02 |
@@ -635,6 +635,7 @@
 | [that pretty girl](https://open.spotify.com/track/2lOOuLJB5AmHH3ALxG9gKZ) | [diego vega](https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [that pretty girl](https://open.spotify.com/album/02vxJ097UwadqlRBwRSpne) | 3:14 | 2026-02-12 |  |
 | [The KKK Took My Baby Away](https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Los Telepáticos](https://open.spotify.com/album/0v5ANQwTATWQSM4E5yCAze) | 2:32 | 2025-12-11 |  |
 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 | 2024-06-27 | 2024-08-16 |
+| [TICTAC](https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [AMA](https://open.spotify.com/album/30eB7uLarIDNsfNH2q8p0q) | 2:05 | 2026-02-19 |  |
 | [Tiemblo](https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [LOS CUBATAS](https://open.spotify.com/artist/7eoNELRjjconqEphiOWOo6) | [Tiemblo](https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb) | 2:44 | 2024-06-27 | 2024-11-08 |
 | [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-06-27 | 2024-07-20 |
 | [Tiempo](https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tiempo](https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0) | 3:16 | 2024-07-25 | 2024-09-14 |
@@ -653,7 +654,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 9](https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |

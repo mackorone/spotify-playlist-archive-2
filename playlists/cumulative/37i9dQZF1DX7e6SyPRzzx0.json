@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115002,
+      "name": "BIG FEELING",
+      "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
+    },
+    {
+      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
       },
@@ -776,6 +794,28 @@
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/4pXChuim76A52lXVvFSozF"
+    },
+    {
+      "album": {
+        "name": "wonderful",
+        "url": "https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Tezzus",
+          "url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143689,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1yhtdbnsHy0bB4XpXAI28X"
     },
     {
       "album": {
@@ -2980,7 +3020,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156910,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0"
@@ -3222,7 +3262,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 105098,
       "name": "stressed",
       "url": "https://open.spotify.com/track/4jAf0mRh0eUvgZzAEb5Xmp"

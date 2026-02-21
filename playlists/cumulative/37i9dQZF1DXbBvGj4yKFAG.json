@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "can i come over?",
+        "url": "https://open.spotify.com/album/4wtMHzT5SBHLWjY24r3Qxu"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142988,
+      "name": "can i come over?",
+      "url": "https://open.spotify.com/track/24Byz4LBZbKcnOLsAu4E5i"
+    },
+    {
+      "album": {
         "name": "canine teeth",
         "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
       },
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "everyone hates me",
+        "url": "https://open.spotify.com/album/25Vx7kGJZu2mpXaiNtBr3V"
+      },
+      "artists": [
+        {
+          "name": "doing well",
+          "url": "https://open.spotify.com/artist/27cvunkVl2LeT5WXxBKVXn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102424,
+      "name": "everyone hates me",
+      "url": "https://open.spotify.com/track/27LpiE6Yuy5eN2ycDe4yGO"
+    },
+    {
+      "album": {
         "name": "New Ways To Die",
         "url": "https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA"
       },
@@ -1528,6 +1564,28 @@
       "duration_ms": 130742,
       "name": "How To Never Stop Being Sad",
       "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
+    },
+    {
+      "album": {
+        "name": "i am still not over you",
+        "url": "https://open.spotify.com/album/2gW5MYLZVhdyrCOytl3M7y"
+      },
+      "artists": [
+        {
+          "name": "waveren",
+          "url": "https://open.spotify.com/artist/0Fjc3Ymh73wj4wIxhd4PCW"
+        },
+        {
+          "name": "ghoulgirl",
+          "url": "https://open.spotify.com/artist/7H2OUfnBrrJk52pNyDHN9l"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125511,
+      "name": "i am still not over you",
+      "url": "https://open.spotify.com/track/6KdB117KbiZRbIHTDtFoL2"
     },
     {
       "album": {

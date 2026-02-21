@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173500,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4N1DZkklrXZmS9imiqijMn"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173357,
       "name": "Burdeu",
       "url": "https://open.spotify.com/track/7dIC7YVoS3mkavmdQgcjKV"
@@ -1102,6 +1102,24 @@
       "duration_ms": 164307,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/7Kge5ne3CCvYe7YIissa6Y"
+      },
+      "artists": [
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/3D9dbWBYk7rjnEk6Kuy5mf"
     },
     {
       "album": {
@@ -2136,6 +2154,24 @@
       "duration_ms": 159374,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/7AWXvMSofb0jPBfdUZQw0s"
+    },
+    {
+      "album": {
+        "name": "Lease Of Life",
+        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166073,
+      "name": "Lease Of Life",
+      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
     },
     {
       "album": {
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 202176,
       "name": "Sweet Nothing - 2025 Edit",
       "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
@@ -3998,6 +4034,32 @@
       "duration_ms": 182947,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5jDbwD0TERrZkdzzIPNfz7"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"
     },
     {
       "album": {

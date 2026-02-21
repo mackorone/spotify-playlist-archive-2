@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-252 songs - 13 hr 11 min
+255 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Boyhood](https://open.spotify.com/track/490lRD7SCOhDbPcmcgQF9s) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:38 | 2023-06-13 | 2023-07-01 |
 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 | 2023-04-11 | 2023-06-03 |
 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 | 2023-04-11 | 2023-06-03 |
+| [can i come over?](https://open.spotify.com/track/24Byz4LBZbKcnOLsAu4E5i) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [can i come over?](https://open.spotify.com/album/4wtMHzT5SBHLWjY24r3Qxu) | 2:22 | 2026-02-20 |  |
 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-06-30 |  |
 | [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 | 2023-05-12 |  |
 | [Catharsis](https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Catharsis](https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1) | 2:38 | 2023-07-07 | 2023-12-06 |
@@ -66,6 +67,7 @@
 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 | 2023-04-14 | 2023-07-15 |
 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 | 2023-02-09 |  |
 | [epitaph](https://open.spotify.com/track/4DQZidEAwjPT8MswCITWTX) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [a/b\_\_2](https://open.spotify.com/album/78KsEzasQQFF9QktDTaa35) | 2:34 | 2023-04-11 | 2023-06-03 |
+| [everyone hates me](https://open.spotify.com/track/27LpiE6Yuy5eN2ycDe4yGO) | [doing well](https://open.spotify.com/artist/27cvunkVl2LeT5WXxBKVXn) | [everyone hates me](https://open.spotify.com/album/25Vx7kGJZu2mpXaiNtBr3V) | 1:42 | 2026-02-20 |  |
 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 | 2023-02-09 | 2023-06-14 |
 | [fallin in luv](https://open.spotify.com/track/4GjMBqEczBmREhkaF3CA4f) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [fallin in luv](https://open.spotify.com/album/1UrQfyrmg58B5mWirxdvCX) | 1:24 | 2024-04-16 |  |
 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-16 |  |
@@ -91,6 +93,7 @@
 | [hospital](https://open.spotify.com/track/4UzvLVnjwss4kBEMljLSNn) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [hospital](https://open.spotify.com/album/6RTOmRu8hQDjJI5AbEtawL) | 2:35 | 2023-04-11 | 2023-05-17 |
 | [House Pool](https://open.spotify.com/track/6QFI20wP9keC7LVLaxEKtC) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [How Do You Let the Love Into the Heart That Isn't Split Wide Open](https://open.spotify.com/album/5yM0zyGfTHxcBxSUdO1z5H) | 3:26 | 2023-07-21 |  |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-09 |  |
+| [i am still not over you](https://open.spotify.com/track/6KdB117KbiZRbIHTDtFoL2) | [waveren](https://open.spotify.com/artist/0Fjc3Ymh73wj4wIxhd4PCW), [ghoulgirl](https://open.spotify.com/artist/7H2OUfnBrrJk52pNyDHN9l) | [i am still not over you](https://open.spotify.com/album/2gW5MYLZVhdyrCOytl3M7y) | 2:05 | 2026-02-20 |  |
 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-05-17 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 |  |
 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |

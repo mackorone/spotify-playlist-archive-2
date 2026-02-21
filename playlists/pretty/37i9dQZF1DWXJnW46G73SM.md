@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: عمرو جابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,128 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,131 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [احلي قرار](https://open.spotify.com/track/4ugxlKTD5lRMYNyip1QlLo) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [احلي قرار](https://open.spotify.com/album/61Ahm3ihljIMN2MojfuJON) | 2:17 |
 | 2 | [Seneen](https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Seneen](https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ) | 3:34 |
 | 3 | [راجع عشمان](https://open.spotify.com/track/2XyWSProqoCifG1uuqK4h5) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [راجع عشمان](https://open.spotify.com/album/45TDC6NgHFPRYy7LgYJdjN) | 3:50 |
-| 4 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
+| 4 | [Zai Zaman](https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Zai Zaman](https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L) | 5:16 |
 | 5 | [يا اصفر يا اصفر](https://open.spotify.com/track/5aluoMb85l883RbhRChDdI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [AMEENAH](https://open.spotify.com/artist/4CvhaDfMtFJGsnBcqZIrCA) | [يا اصفر يا اصفر](https://open.spotify.com/album/4JjXi7Dk582ZeG9b2Txj32) | 2:40 |
 | 6 | [خيبت توقعاتك](https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [خيبت توقعاتك](https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p) | 3:46 |
 | 7 | [Sahran Belel](https://open.spotify.com/track/3FtABfvxUrz5f8TuVep8fd) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Sahran Belel](https://open.spotify.com/album/4iamoKuuOpYI6PJuBD5eO1) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: Tr33",
+  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: Billy Choi",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 149943,
       "name": "168.5 (feat. Billy Choi)",
       "url": "https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3"
@@ -3530,6 +3530,24 @@
       "duration_ms": 192209,
       "name": "\u5206\u624b - Remix",
       "url": "https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN"
+    },
+    {
+      "album": {
+        "name": "\u5206\u64d4",
+        "url": "https://open.spotify.com/album/1k5QjHdPwlk3zEe3uhgC3O"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "\u5206\u64d4",
+      "url": "https://open.spotify.com/track/38D1oJmQCOttwPWF1Olh8J"
     },
     {
       "album": {

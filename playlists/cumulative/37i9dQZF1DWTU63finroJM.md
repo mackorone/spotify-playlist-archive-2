@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: wane
 
-2,307 songs - 5 day 4 hr 34 min
+2,308 songs - 5 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-11-11 | 2023-05-31 |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-03-24 | 2022-04-12 |
 | [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 | 2024-09-06 | 2024-10-28 |
-| [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 | 2026-01-20 |  |
+| [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 | 2026-01-20 | 2026-02-21 |
 | [CATENE](https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [CATENE](https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju) | 3:23 | 2024-03-15 | 2024-06-15 |
 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 | 2025-04-25 | 2025-09-10 |
 | [Catucada de Leve](https://open.spotify.com/track/4V71ohtmEi04KsughuPnMm) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Catucada de Leve](https://open.spotify.com/album/0CHbJaQv9wbYKsWtPFAa9x) | 2:35 | 2022-03-24 | 2022-04-20 |
@@ -1038,6 +1038,7 @@
 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 | 2025-02-21 | 2025-03-15 |
 | [Last Dance](https://open.spotify.com/track/41EmZlAskos9FpUlBzxtLT) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Last Dance](https://open.spotify.com/album/0xqSp3eqq1ZoNyLjCkQdTx) | 2:38 | 2022-02-03 | 2022-12-15 |
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-15 | 2023-05-31 |
+| [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-02-20 |  |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-03-24 | 2022-07-29 |
 | [Last Time](https://open.spotify.com/track/2v4E4fxabmitiM6qLMd8UE) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:57 | 2022-06-29 | 2022-08-02 |
 | [Late For The Reservation](https://open.spotify.com/track/4VfilmF1juqisJ1VvwNXis) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Late For The Reservation](https://open.spotify.com/album/1yfRBGO4QI6pVLbEuXv3p9) | 2:34 | 2025-01-17 | 2025-02-15 |

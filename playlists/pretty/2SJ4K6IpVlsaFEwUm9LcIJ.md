@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,117 likes - 56 songs - 3 hr 38 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,135 likes - 57 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [Comunhão](https://open.spotify.com/track/2lStGDJa1Z2hA7NskFdKJE) | [Nelson Angelo](https://open.spotify.com/artist/6tXJsM9aKkrxuPox1ziD79), [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Nelson Angelo E Joyce](https://open.spotify.com/album/0YGaT2B4czmv6YDsz4bgPT) | 3:07 |
 | 55 | [STILLWELL THEME](https://open.spotify.com/track/0NkQFp82glRfuu9YKbO8MT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [1000 Variations on the Same Song](https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4) | 3:02 |
 | 56 | [Smokin' Room](https://open.spotify.com/track/0b5mG38TIGgU0T7T1IYfiJ) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rags To Rufus](https://open.spotify.com/album/127CLXCibn1ARC1CGExGav) | 4:22 |
+| 57 | [I Wish That We Were Married](https://open.spotify.com/track/2G3QuwTpQOe4i0JyMu47N3) | [Ronnie And The Hi\-Lites](https://open.spotify.com/artist/64NBWzoBYRleutVJjDfpkT) | [I Wish That We Were Married](https://open.spotify.com/album/3RbuK4PlaTUDNjWHhD1X3u) | 2:52 |
 
-Snapshot ID: `AAAN5t2c3SoK71IQFe12kjHL2awxHI1Z`
+Snapshot ID: `AAAN5zdcheiIHqazfOpq3FeEajp8WNC5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: maks.tachasiuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,717 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,739 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 29 | [Ćma](https://open.spotify.com/track/6RLLf19sS5M3DUCBLzV1BK) | [Meg Mell](https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k) | [Ćma](https://open.spotify.com/album/4omkGdQ9dEw8ujpal6Lwx0) | 4:00 |
 | 30 | [Ania](https://open.spotify.com/track/0VCF9pfUVC5dsP8MkVkaQx) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ania](https://open.spotify.com/album/2f8jxVtiBGmS8oAFsMwLNG) | 5:27 |
 | 31 | [Satelita](https://open.spotify.com/track/2hM6x0FnAA0lLONNf4JmQA) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [To nie było ciepłe lato :\(](https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y) | 3:01 |
-| 32 | [Kowalski Własnego Losu](https://open.spotify.com/track/0G5DmQrq2pRjWwYIRFGQ9z) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [](https://open.spotify.com/album/null) | 4:23 |
+| 32 | [Kowalski Własnego Losu](https://open.spotify.com/track/0G5DmQrq2pRjWwYIRFGQ9z) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [Full H\. D.](https://open.spotify.com/album/4n21DMFbIJWKpwjLC0Lyw5) | 4:23 |
 | 33 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 34 | [Ramen](https://open.spotify.com/track/4j3IflMj9fQ9fKaoB9Davk) | [Szefner](https://open.spotify.com/artist/3M9n9VCc39QFqVzU9guLjf) | [Ramen](https://open.spotify.com/album/5H4fuQB125gKHnhlCQTzCO) | 3:41 |
 | 35 | [nad ranem \(krótki metraż\)](https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [KRÓTKI METRAŻ](https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha) | 5:06 |

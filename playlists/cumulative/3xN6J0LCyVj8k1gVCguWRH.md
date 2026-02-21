@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,739 songs - 13 day 8 hr 50 min
+5,741 songs - 13 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1820,6 +1820,7 @@
 | [Fresh](https://open.spotify.com/track/7k8ytWJ8uUP80keepIq4Kx) | [Common Jack](https://open.spotify.com/artist/6yZHZrHjYanoG5FZYfxOn2) | [Fresh](https://open.spotify.com/album/2IMuEuipFpsWBFbeerSQPu) | 3:45 | 2025-02-19 | 2025-03-03 |
 | [Fresh](https://open.spotify.com/track/3gGGpWjG5TPA73BeRp7asf) | [Hatewine](https://open.spotify.com/artist/6b7ytNpGmrGPdvYnzFrxqB) | [Fresh](https://open.spotify.com/album/5bkVz2AjrqFDmYCXmHC5Al) | 3:22 | 2021-05-21 | 2021-06-06 |
 | [Fresh with the Force](https://open.spotify.com/track/2isTEbyvlEPORQsGw1kDVp) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Fresh with the Force](https://open.spotify.com/album/7CUo4srvaYTKx4lSaNnXvf) | 2:18 | 2023-09-15 | 2023-12-14 |
+| [Fresona](https://open.spotify.com/track/7ELXdoe8TPnc1rTJ8J2B9T) | [Diego Mena](https://open.spotify.com/artist/7JFlYuJR5m95XZ1dw4tgZh) | [Fresona](https://open.spotify.com/album/3n2d0psgSXqhTh3H19ydwy) | 2:37 | 2026-02-20 |  |
 | [Freud's Disciples](https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I) | [Ryan Stotland](https://open.spotify.com/artist/42lIaJIQPnHbCmspLZFpY5) | [The Ryan Stotland Experiment](https://open.spotify.com/album/1G82eqC1DNHGGoJTQMTqaN) | 3:14 | 2022-06-08 | 2022-06-29 |
 | [FRFS](https://open.spotify.com/track/2MOIfm6dznK772rXegA1yp) | [Toni Jones](https://open.spotify.com/artist/6PXEwzEXJYzH2DcpU3WVOa) | [FRFS](https://open.spotify.com/album/171rOTZubRAFl1FzdXHUBW) | 3:42 | 2024-11-28 | 2024-12-11 |
 | [Friend Like Me](https://open.spotify.com/track/1BntgQxVpCVyNI2VdaGd94) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 4:00 | 2025-10-31 | 2025-12-09 |
@@ -3039,6 +3040,7 @@
 | [Loving You](https://open.spotify.com/track/6uutleDCByPGUqZB03Sj4Q) | [Tory Raymer](https://open.spotify.com/artist/1pA1gXf7jOgDbovhE1FtR0) | [Loving You](https://open.spotify.com/album/0zttpGSQSSPwRedEfz063U) | 2:36 | 2025-07-13 | 2025-07-29 |
 | [Loving You Is Wild](https://open.spotify.com/track/712OyohxFMjVF2BAa48rLh) | [Sharlette](https://open.spotify.com/artist/5KHPJepzNZtQCNXnansIVZ) | [Loving You Is Wild](https://open.spotify.com/album/25f3ytaOei1xNZuWVjygLn) | 3:26 | 2025-08-26 | 2025-09-27 |
 | [Lovu \- Whim Therapy Remix](https://open.spotify.com/track/2MUYD8IWgXd1I1CDpY8zGk) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN), [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h) | [Lovu \(Whim Therapy Remix\)](https://open.spotify.com/album/4m290meGLCj5e0WErWGK68) | 3:51 | 2020-12-18 | 2021-01-03 |
+| [Low Battery Life](https://open.spotify.com/track/3t8cVfVHxFutlSJcCkEk6W) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [Scared Of Growing Old Alone](https://open.spotify.com/album/7JVfxJqbr3nhVTN3LoIoQP) | 3:07 | 2026-02-20 |  |
 | [LTWYLM](https://open.spotify.com/track/4TWJvu5iSNYhUgVBnqWvBY) | [Abi Ocia](https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb) | [LTWYLM](https://open.spotify.com/album/1FyweOrZCXoEc8xQMHjW1h) | 4:30 | 2021-11-13 | 2021-11-28 |
 | [Lucid](https://open.spotify.com/track/5X9MCQkOzaDtvL5coFMdLs) | [McKenna Mix](https://open.spotify.com/artist/6mPTxtgVTryDZe5QF2y53G) | [Lucid](https://open.spotify.com/album/37809nVEgEhjfONXyfYc6l) | 3:11 | 2023-07-04 | 2023-07-18 |
 | [Lucifer](https://open.spotify.com/track/5LrrFh7zmV4cEqavmdqReZ) | [Kintsugi](https://open.spotify.com/artist/6Vqa74iOflfEDp9SkEaVn3) | [Lucifer](https://open.spotify.com/album/6HqOcoBNNtttI1Pj0r6p3d) | 3:02 | 2025-03-28 | 2025-04-21 |
@@ -3279,7 +3281,7 @@
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
 | [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 | 2023-03-04 | 2023-03-29 |
 | [More Than Need U](https://open.spotify.com/track/0z0uDE2PV0DqdZE13lHSdE) | [BABO BABY](https://open.spotify.com/artist/2WfFqtgm0c6mrP1hy1V4F2) | [More Than Need U](https://open.spotify.com/album/2h3MGbK8xtLuSI75e7bfHN) | 3:06 | 2025-01-31 | 2025-02-12 |
-| [More Than This](https://open.spotify.com/track/7y0VrLXQfd0Tu6LscZYN5u) | [KiDD Crash](https://open.spotify.com/artist/2aicUzJsUiDKbFVg3I3soB) | [Tiger 2](https://open.spotify.com/album/72zSCo6X5PLBqUss7Wf1Du) | 3:46 | 2026-01-15 |  |
+| [More Than This](https://open.spotify.com/track/7y0VrLXQfd0Tu6LscZYN5u) | [KiDD Crash](https://open.spotify.com/artist/2aicUzJsUiDKbFVg3I3soB) | [Tiger 2](https://open.spotify.com/album/72zSCo6X5PLBqUss7Wf1Du) | 3:46 | 2026-01-15 | 2026-02-21 |
 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 | 2024-04-03 | 2024-04-22 |
 | [More Than Words](https://open.spotify.com/track/5NITwEcAQXREfP2pzSWJrU) | [Dr\. Stuff](https://open.spotify.com/artist/54T03kwQRj3I5cAqcqjAIA) | [Music Is Medicine](https://open.spotify.com/album/5xmjbpNQy8q3mK71YSAvEF) | 5:34 | 2024-01-16 | 2024-01-25 |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 | 2024-04-30 |
@@ -3642,7 +3644,7 @@
 | [One More Night](https://open.spotify.com/track/6P1JCV5JYg75u7YLq79BZc) | [Tessa Dalton](https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA) | [One More Night](https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j) | 2:59 | 2024-05-25 | 2024-06-06 |
 | [One More Show](https://open.spotify.com/track/0d590dl0m0wDgOp9JpcsWV) | [Zach Bellas](https://open.spotify.com/artist/7H7cCi7OFGIehFeEdUufnt) | [One More Show](https://open.spotify.com/album/6a2xNdUkPXQrCmWF4OooZh) | 5:47 | 2024-09-26 | 2024-10-08 |
 | [One More Szn](https://open.spotify.com/track/1VT2y4ffCimUcjzfi7vjPS) | [WhitMo](https://open.spotify.com/artist/1pacBSmBxfwndRD8ulFjy3), [Mark Anthony](https://open.spotify.com/artist/5YjFotPhzSEnq1TaukuCQM) | [One More Szn](https://open.spotify.com/album/4C2PHcs4ASj9IJq6YdnvY3) | 3:17 | 2022-07-08 | 2022-07-27 |
-| [One Night](https://open.spotify.com/track/7GGdTY1HZMyQ5pyJ2Q7uyW) | [Musiek Mambu](https://open.spotify.com/artist/6xGUwcG3glCHabEjtPipQD) | [One Night](https://open.spotify.com/album/0gCIHmRRxJvOUyxKq9ftdF) | 3:50 | 2026-01-16 |  |
+| [One Night](https://open.spotify.com/track/7GGdTY1HZMyQ5pyJ2Q7uyW) | [Musiek Mambu](https://open.spotify.com/artist/6xGUwcG3glCHabEjtPipQD) | [One Night](https://open.spotify.com/album/0gCIHmRRxJvOUyxKq9ftdF) | 3:50 | 2026-01-16 | 2026-02-21 |
 | [One of These Days](https://open.spotify.com/track/3IhbULMroBoxwryTBFh6qD) | [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp), [Dillgin](https://open.spotify.com/artist/2x8XlusUgX2EJ0b428FMsI) | [One of These Days](https://open.spotify.com/album/50uaLs4YAnD5Nn0VjToYDJ) | 3:22 | 2025-12-28 | 2026-01-15 |
 | [One Of These Things First](https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 4:49 | 2024-08-12 |  |
 | [One Reason](https://open.spotify.com/track/4jEQqIX1Q3q3QNcSiwfJ71) | [DJ G.O.D.](https://open.spotify.com/artist/2w4ByDPjBHudb6tlcwEegy), [Penny](https://open.spotify.com/artist/0Q6yewUwFmKdYrIuLVFYRO) | [One Reason](https://open.spotify.com/album/4IqPjGk6S9L4sMWVLC7c7a) | 1:46 | 2022-11-25 | 2022-12-17 |

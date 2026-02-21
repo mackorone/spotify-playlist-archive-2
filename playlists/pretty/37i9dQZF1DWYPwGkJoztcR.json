@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396199,
+  "num_followers": 396221,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+        "name": "Cruisin\u2019",
+        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "TOINE",
+          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+      "duration_ms": 204082,
+      "name": "Cruisin\u2019",
+      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Cruisin\u2019",
-        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
       },
       "artists": [
         {
-          "name": "TOINE",
-          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 204082,
-      "name": "Cruisin\u2019",
-      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 219968,
       "name": "Old Summers (feat. philine)",
       "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Be My Own",
         "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 219746,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "In The Middle",
-        "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
-      },
-      "artists": [
-        {
-          "name": "Mad3 for M3",
-          "url": "https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV"
-        },
-        {
-          "name": "Cris Cab",
-          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
-        }
-      ],
-      "duration_ms": 221271,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
+      },
+      "artists": [
+        {
+          "name": "Mad3 for M3",
+          "url": "https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV"
+        },
+        {
+          "name": "Cris Cab",
+          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
+        }
+      ],
+      "duration_ms": 221271,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Someone To Lose",
-        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "Someone To Lose",
-      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Grow Up",
         "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+        "name": "Someone To Lose",
+        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
       },
       "artists": [
         {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
         }
       ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+      "duration_ms": 160659,
+      "name": "Someone To Lose",
+      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1315,6 +1299,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
         "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 236801,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "seasons",
         "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
       "artists": [
         {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
         }
       ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+      "duration_ms": 236801,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Kind Of Love",
         "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 169585,
       "name": "I Will",
       "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2026-02-06 08:55:44",

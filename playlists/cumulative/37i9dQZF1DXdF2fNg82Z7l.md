@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdF2fNg82Z7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdF2fNg82Z7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdF2fNg82Z7l)
 
-### [Raw Silk ](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
+### [Raw Silk](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
 
-> a strictly smooth mood...cover: Kehlani
+> a strictly smooth mood...cover: PANIA
 
 276 songs - 14 hr 33 min
 
@@ -186,7 +186,7 @@
 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 | 2025-03-19 | 2025-11-03 |
 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 | 2025-10-02 |  |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2024-10-04 |  |
-| [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2024-10-04 |  |
+| [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2024-10-04 | 2026-02-21 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-01-30 |  |
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-07-29 | 2024-10-05 |
 | [RAIN](https://open.spotify.com/track/3pKvQ3Z4o0P5uLwzA4fW7f) | [JKTS](https://open.spotify.com/artist/5xA0T46YPl40JIaxBjQJFW) | [DOES IT RAIN IN TEXAS?](https://open.spotify.com/album/5694oP6dIck114HNJb8pBP) | 1:57 | 2024-03-14 | 2024-10-05 |
@@ -265,7 +265,7 @@
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-12-19 | 2025-01-27 |
 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 | 2024-10-04 |  |
 | [Way Back in HS in NY in June](https://open.spotify.com/track/4raEEc2KgXla14KdUlYhUY) | [Prod DR3o](https://open.spotify.com/artist/3yEVDDU45XzlumJuupm1Ul), [nikomanjiro](https://open.spotify.com/artist/40IrCW03DHKkwbAX7tTrfV) | [Way Back in HS in NY in June](https://open.spotify.com/album/00yYlDLwC4OKWuwotpoCw4) | 3:02 | 2024-03-14 | 2024-10-05 |
-| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-23 | 2025-12-21 |
+| [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-23 |  |
 | [Weh She Wan](https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Weh She Wan](https://open.spotify.com/album/27IuYlhsQN5HSvtGTyvjKi) | 1:54 | 2024-07-29 | 2024-10-05 |
 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 | 2025-06-20 | 2025-07-29 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-07-29 |  |

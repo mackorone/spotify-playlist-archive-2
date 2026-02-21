@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-319 songs - 15 hr 16 min
+320 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 | 2025-02-06 | 2025-07-12 |
 | [HOMONYM](https://open.spotify.com/track/1jN6WPnJmcfuwP3MuST5v9) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [HOMONYM](https://open.spotify.com/album/6bVN0VRIntuVOmNsSg4abG) | 2:26 | 2025-03-13 | 2025-03-22 |
 | [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 | 2025-09-12 | 2025-10-07 |
+| [Housefull](https://open.spotify.com/track/7rvpmqxwjY7shpobV0b8zV) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Hattrick](https://open.spotify.com/album/3qjy2ASixumOpuSeU1JPLX) | 3:16 | 2026-02-20 |  |
 | [Hu Jattiye](https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hu Jattiye](https://open.spotify.com/album/73R0sf5hUv3faSxgGBvIJ8) | 2:50 | 2025-02-03 | 2025-03-18 |
 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 | 2025-03-10 | 2025-05-07 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-12-04 |
@@ -231,7 +232,7 @@
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 | 2025-04-05 |
 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 | 2025-05-25 |
 | [On Point](https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [On Point](https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT) | 2:42 | 2025-07-08 | 2025-07-17 |
-| [Once in a Lifetime](https://open.spotify.com/track/4lkP1cosJXQylSwi7U4D8A) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K) | [Once in a Lifetime](https://open.spotify.com/album/1uu2Kslt8472t7nSWyiq5q) | 2:57 | 2026-01-30 |  |
+| [Once in a Lifetime](https://open.spotify.com/track/4lkP1cosJXQylSwi7U4D8A) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K) | [Once in a Lifetime](https://open.spotify.com/album/1uu2Kslt8472t7nSWyiq5q) | 2:57 | 2026-01-30 | 2026-02-21 |
 | [Own Spotlight](https://open.spotify.com/track/1Lx4BBTcNp3623BVFVk5CM) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Guri Sangali](https://open.spotify.com/artist/7AKEzSlOIPy2fVTTYAr0EB) | [Corsa](https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4) | 2:34 | 2025-11-03 | 2025-11-15 |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
 | [PANJAB](https://open.spotify.com/track/7whjXmPLiNJJkzblCU9d4B) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [PANJAB](https://open.spotify.com/album/584j4Wpkz7gxuwsXpchI79) | 2:50 | 2025-09-26 | 2025-10-08 |

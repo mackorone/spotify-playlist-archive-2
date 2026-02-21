@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 458917,
+  "num_followers": 458941,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 158593,
-      "name": "Come 2 Me",
-      "url": "https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 89796,
       "name": "Gjuha",
       "url": "https://open.spotify.com/track/1w5GIyPp7oXKchE3JJ9uiN"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 158593,
+      "name": "Come 2 Me",
+      "url": "https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "All That Is Over",
-        "url": "https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 160204,
-      "name": "Abandon",
-      "url": "https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "The Fork",
         "url": "https://open.spotify.com/album/5t7bzjEslFvywuwqsRlPgU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 275156,
       "name": "The Fork",
       "url": "https://open.spotify.com/track/1FxHFQ30GjkrAPiUo6b4Do"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "All That Is Over",
+        "url": "https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 160204,
+      "name": "Abandon",
+      "url": "https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Tears In The Typing Pool [Demo]",
-        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
+        "name": "Peaky Blinders: Season 5 (Original Score)",
+        "url": "https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
         }
       ],
-      "duration_ms": 127832,
-      "name": "Tears In The Typing Pool [Demo]",
-      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
+      "duration_ms": 92233,
+      "name": "Black Tuesday",
+      "url": "https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF"
     },
     {
       "added_at": "2026-02-19 15:33:55",

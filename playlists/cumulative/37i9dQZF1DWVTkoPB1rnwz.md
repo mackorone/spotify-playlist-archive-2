@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-496 songs - 1 day 6 hr 30 min
+497 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-10-16 | 2025-05-24 |
 | [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2025-05-15 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
+| [From Trondheim](https://open.spotify.com/track/399Il28NZCRR2ZNfM7Yi68) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1) | [Pieces from Places](https://open.spotify.com/album/3kfkDXldnVFM3TWguv8q5E) | 3:14 | 2026-02-17 |  |
 | [für Meesha](https://open.spotify.com/track/2QZwhaG5da1frWBQZsallH) | [Htennek Niwhsa](https://open.spotify.com/artist/3sbQ2jo75b32GImdv6ZE04) | [für Meesha](https://open.spotify.com/album/2wkpYviuhaeDLBeU60XP9p) | 2:29 | 2025-05-23 |  |
 | [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 | 2024-10-24 |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-24 | 2024-09-05 |
@@ -318,7 +319,7 @@
 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 | 2021-10-16 | 2025-07-04 |
 | [Passages](https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/2RIolYrKkkc3ZEGHSwUSCV) | 2:26 | 2021-10-16 | 2022-09-26 |
 | [Passages](https://open.spotify.com/track/1GrJr1EYlUcB0dP8NTSbtT) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/5hUHOgvbMrKcfaNs9pNRPL) | 2:26 | 2021-10-16 | 2022-07-13 |
-| [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 | 2025-07-17 |  |
+| [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 | 2025-07-17 | 2026-02-21 |
 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2021-10-16 | 2024-04-19 |
 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 | 2021-10-16 | 2024-09-05 |
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-10-16 | 2024-04-19 |

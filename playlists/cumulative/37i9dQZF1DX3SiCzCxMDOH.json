@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 200019,
       "name": "Continues to play...",
       "url": "https://open.spotify.com/track/6WYEm8VzlFt5O1DHOBMNv1"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 166000,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy"
@@ -10588,7 +10588,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 295627,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3"
@@ -11708,6 +11708,24 @@
       "duration_ms": 245000,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v"
+    },
+    {
+      "album": {
+        "name": "Paper Moon Reprise",
+        "url": "https://open.spotify.com/album/6lC4GQ649NJ4lewXFupuYZ"
+      },
+      "artists": [
+        {
+          "name": "Night Current",
+          "url": "https://open.spotify.com/artist/2UZE6F0C8uKiUUm6cz2pu5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Paper Moon Reprise",
+      "url": "https://open.spotify.com/track/5qz1yor1qnIuSCG21KQgTS"
     },
     {
       "album": {
@@ -13432,7 +13450,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 150597,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj"

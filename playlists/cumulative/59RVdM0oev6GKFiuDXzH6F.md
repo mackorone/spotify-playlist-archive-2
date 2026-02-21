@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,088 songs - 2 day 7 hr 57 min
+1,091 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Be Thankful For What You've Got](https://open.spotify.com/track/79dx9sRFop6tbZ35Tn8HqP) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Be Thankful For What You've Got](https://open.spotify.com/album/3osxx2sZifNYFkINjwlfMg) | 3:29 | 2024-12-05 | 2025-03-28 |
 | [Be You](https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Cruisin' Down Crenshaw EP](https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8) | 6:36 | 2024-05-24 | 2024-09-26 |
 | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/track/2YnYiZH6D3iXRmMmmiOE6a) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Alva Grape](https://open.spotify.com/artist/0OjqFU8D3AQXS83rOcN0le) | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/album/2ir98xhvZrbBCsfT0xP8Ss) | 2:43 | 2024-12-05 | 2025-03-14 |
+| [Beautiful Places](https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Beautiful Places](https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi) | 2:59 | 2026-02-20 |  |
 | [Beggin'](https://open.spotify.com/track/1odVbXqC4RIuT7YRJWmSzA) | [DJ Blighty](https://open.spotify.com/artist/3qAjjqNnd5dxyHl8sRJGeg) | [Beggin'](https://open.spotify.com/album/3iWfVWXxMjZph4eJTJCHaw) | 2:24 | 2023-09-22 | 2023-12-14 |
 | [Believin'](https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Believin'](https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c) | 2:22 | 2024-06-07 | 2025-01-09 |
 | [Belong](https://open.spotify.com/track/0CXFf0z31erRYLuIeH5n0C) | [Jeancy](https://open.spotify.com/artist/0kpzYqz5RW4Cl9HpYrxhEX) | [Belong](https://open.spotify.com/album/3flVwgi4XMribalzMjRPMn) | 3:08 | 2024-12-05 | 2025-01-17 |
@@ -114,6 +115,7 @@
 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 | 2023-10-26 | 2024-09-26 |
 | [Blessed \(Lost & Found\)](https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Blessed \(Lost & Found\)](https://open.spotify.com/album/5fhv3zHmYuIPO7S8zFarFq) | 3:28 | 2023-12-22 | 2024-09-26 |
 | [Bliss](https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Bliss](https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS) | 3:40 | 2023-07-28 | 2023-08-04 |
+| [Body & Soul](https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Body & Soul / Winning Prize](https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp) | 2:41 | 2026-02-20 |  |
 | [Body Moving \- Skream Remix](https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Body Moving \(Skream Remix\)](https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ) | 4:49 | 2024-01-12 | 2024-09-26 |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2023-02-12 | 2023-04-13 |
 | [Bodyrock](https://open.spotify.com/track/7F3ADDV1t4HgbBE25hTThD) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Bodyrock](https://open.spotify.com/album/18XIDILNhAOLrt04Oz9Sn9) | 3:14 | 2025-11-14 |  |
@@ -1017,6 +1019,7 @@
 | [Voodoo](https://open.spotify.com/track/7oJQgko4T7fOpu07ogRQH5) | [Ibrahin Cuevas](https://open.spotify.com/artist/26yogyTGYEqR0wbVACTzoQ), [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol) | [Voodoo](https://open.spotify.com/album/6qnEnv7henF3Card4F7FTa) | 2:53 | 2023-02-12 | 2023-03-25 |
 | [Voodoo Ass](https://open.spotify.com/track/1MMrT4bXrtdpfUJfsRIZU7) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Voodoo Ass](https://open.spotify.com/album/7A5dRgOqwvqE4iBrKPUgv0) | 3:00 | 2024-05-17 | 2025-01-09 |
 | [Vortex](https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vortex](https://open.spotify.com/album/3UwllTB2OERiCikVZmb4Hv) | 3:17 | 2025-01-16 |  |
+| [Waist Move](https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Waist Move](https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd) | 3:21 | 2026-02-20 |  |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-12 | 2023-03-25 |
 | [Waiting \(feat\. Chiara Galiazzo\)](https://open.spotify.com/track/6vuaoMRz138UAdftJkTApY) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Waiting \(feat\. Chiara Galiazzo\)](https://open.spotify.com/album/4vk9dyWSWWwLgk6EKWYSMD) | 3:10 | 2024-12-05 | 2025-03-14 |
 | [Waiting For You](https://open.spotify.com/track/6VtbMBWi4sVVlTeZK5gOvD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [MAGNUS \(B\-Side\)](https://open.spotify.com/artist/5Y9lg0qkPvXCH8903RFC4J) | [Waiting For You](https://open.spotify.com/album/0MaWoxutAivbJbvMELQ7LJ) | 2:29 | 2023-05-05 | 2023-12-23 |

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "american idol",
+        "url": "https://open.spotify.com/album/1eik4h2RQfqF5hlK37qEui"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "american idol",
+      "url": "https://open.spotify.com/track/62TpAHZBiZCGcV4VG1lGLO"
+    },
+    {
+      "album": {
         "name": "and then there's me",
         "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
       },
@@ -491,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
+    },
+    {
+      "album": {
         "name": "Baker",
         "url": "https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ"
       },
@@ -736,7 +776,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 156076,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/15uiTmTGlSn6GmJeQg2j4u"
@@ -3982,7 +4022,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184529,
       "name": "LOSE",
       "url": "https://open.spotify.com/track/5Pa7SJ7aMDV8UCBp8ILzbb"
@@ -5210,7 +5250,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/60jK1IQ31TzqtL1e0sHHda"
@@ -6499,6 +6539,24 @@
     },
     {
       "album": {
+        "name": "til august",
+        "url": "https://open.spotify.com/album/3EMZG4Y5HKssmMazBmNlXt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "til august",
+      "url": "https://open.spotify.com/track/6WUkPB4F1l26DfDqRIsbTH"
+    },
+    {
+      "album": {
         "name": "Til I'm Gone",
         "url": "https://open.spotify.com/album/3HiKGUFU2VxKqInhYLHL23"
       },
@@ -7256,6 +7314,24 @@
       "duration_ms": 195617,
       "name": "What If",
       "url": "https://open.spotify.com/track/3ymjm6EZfPBLDSiCMSFh2y"
+    },
+    {
+      "album": {
+        "name": "when to step away",
+        "url": "https://open.spotify.com/album/2kjam7xRtNyWtdWf7pjwXP"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178054,
+      "name": "when to step away",
+      "url": "https://open.spotify.com/track/0e0H9R70OprSGBG768DblU"
     },
     {
       "album": {

@@ -6677,6 +6677,28 @@
     },
     {
       "album": {
+        "name": "Estilo Bropza (Deluxe)",
+        "url": "https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Pa Que Me Enamoraste - Remix",
+      "url": "https://open.spotify.com/track/2S2zGH6GD0MRn0sgnk2hTu"
+    },
+    {
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -10946,7 +10968,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178000,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/17uVb8dtXHJ4S9P46qAdl5"

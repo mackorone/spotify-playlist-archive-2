@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Dios No Me Deja",
+        "url": "https://open.spotify.com/album/36F3pG39ApiLimW06f9ssR"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Dios No Me Deja",
+      "url": "https://open.spotify.com/track/6jvPlU4XWAAFukpJwDKMr9"
+    },
+    {
+      "album": {
         "name": "Dos Horas",
         "url": "https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212133,
       "name": "La Ex de mi Amigo",
       "url": "https://open.spotify.com/track/5KrKP9vkwaOyqcHvNC0wZv"
@@ -2747,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "No Te Quejes",
+        "url": "https://open.spotify.com/album/6JVb7gvhl64GX0dV8VUYqw"
+      },
+      "artists": [
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Chemita Ramos Jr",
+          "url": "https://open.spotify.com/artist/1GpUeoQmISxk6tvlvwzWbK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205170,
+      "name": "No Te Quejes",
+      "url": "https://open.spotify.com/track/3q5TxKaXVQu3YC8lAk66wA"
+    },
+    {
+      "album": {
         "name": "Version Original",
         "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
       },
@@ -3012,7 +3052,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 303850,
       "name": "Ponte Ch\u00e9vere",
       "url": "https://open.spotify.com/track/7oUANxOHx7P8cpTinpbtQx"

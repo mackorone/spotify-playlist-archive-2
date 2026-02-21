@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Linze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,152 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,186 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 2 | [Hasta que el mundo estalle](https://open.spotify.com/track/7adXGhhyZ2yBI7FxKqxJlM) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Hasta que el mundo estalle](https://open.spotify.com/album/4jlrQqzBEo29GuVpGyFSH6) | 3:29 |
 | 3 | [ARDE LA RIVIERA](https://open.spotify.com/track/05Ck5EFVbCdSpvSCCongUr) | [MARTIZ](https://open.spotify.com/artist/3EhQ0MJjbGPIHsolimNXh6) | [ARDE LA RIVIERA](https://open.spotify.com/album/0KiHOxyxBrkhLGQMWldydx) | 3:03 |
 | 4 | [Me Acostumbré](https://open.spotify.com/track/16rKe7kcB103azq4tuvPjF) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Me Acostumbré](https://open.spotify.com/album/5lt8llvT3c5gBSC3Qn2WxP) | 4:08 |
-| 5 | [Qué pena](https://open.spotify.com/track/0QMZpdGfspLMWiOA8UDjFL) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [](https://open.spotify.com/album/null) | 3:18 |
+| 5 | [Qué pena](https://open.spotify.com/track/0QMZpdGfspLMWiOA8UDjFL) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Mil Pequeños Cortes](https://open.spotify.com/album/3klXIBIyfHZiVNHQ5gKZby) | 3:18 |
 | 6 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 |
 | 7 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 8 | [Tonto](https://open.spotify.com/track/5vXJemrliIRxcRw6iKfMEs) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tonto](https://open.spotify.com/album/639kL76DOwt3RFTK4nFAss) | 3:16 |

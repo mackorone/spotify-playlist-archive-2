@@ -4407,6 +4407,28 @@
     },
     {
       "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/1EXpoSpKElvsvgaRR6J9rV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203125,
+      "name": "Apo To Tipota",
+      "url": "https://open.spotify.com/track/2lRkJ2gl374O5Gzdejq7KA"
+    },
+    {
+      "album": {
         "name": "Green Goblin",
         "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
       },
@@ -4974,6 +4996,32 @@
       "duration_ms": 180000,
       "name": "ASTEIO",
       "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
+    },
+    {
+      "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237125,
+      "name": "Asteria",
+      "url": "https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id"
     },
     {
       "album": {
@@ -5834,7 +5882,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -11528,7 +11576,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 179880,
       "name": "Dark Side Of The Moon",
       "url": "https://open.spotify.com/track/5XpEAg0ZT8OiJL2TDDDHlr"
@@ -15144,7 +15192,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 187500,
       "name": "EMMONI IDEA",
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
@@ -16886,6 +16934,28 @@
       "duration_ms": 215000,
       "name": "FANELES",
       "url": "https://open.spotify.com/track/1H1vNeUfFADNnI1se4Gij3"
+    },
+    {
+      "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Fann Is Back",
+      "url": "https://open.spotify.com/track/1MLEaguxFpEkgTKVBDO6gE"
     },
     {
       "album": {
@@ -23520,6 +23590,28 @@
       "duration_ms": 251666,
       "name": "Iremia",
       "url": "https://open.spotify.com/track/5jxI0woFRftgAAtPSMOi5n"
+    },
+    {
+      "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Irtha Bam",
+      "url": "https://open.spotify.com/track/6ciIGuGzfCmziTpQMwa659"
     },
     {
       "album": {
@@ -37796,7 +37888,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
@@ -37986,7 +38078,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -38363,6 +38455,28 @@
     },
     {
       "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0VurYEUB7a7TztCiwZ6DaF"
+    },
+    {
+      "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
@@ -38682,7 +38796,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178403,
       "name": "PAR\u00c9A",
       "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
@@ -39829,6 +39943,28 @@
     },
     {
       "album": {
+        "name": "PISTEPSE ME",
+        "url": "https://open.spotify.com/album/1WqJYOxpOfSy8jvK0hso31"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "PISTEPSE ME",
+      "url": "https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG"
+    },
+    {
+      "album": {
         "name": "PISTOLERO",
         "url": "https://open.spotify.com/album/7dipSRTVdkPA6myKjYOmPy"
       },
@@ -40042,6 +40178,32 @@
       "duration_ms": 169583,
       "name": "Point Blank",
       "url": "https://open.spotify.com/track/5809RxXNGAC3D3Pmiayf22"
+    },
+    {
+      "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/1EXpoSpKElvsvgaRR6J9rV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Poioi",
+      "url": "https://open.spotify.com/track/63ALrygVRFgwLyqykmWPkA"
     },
     {
       "album": {
@@ -48308,7 +48470,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 248672,
       "name": "Teleia - Unplugged",
       "url": "https://open.spotify.com/track/6fktt8XwBNjhoCU2V5aP7l"
@@ -48590,7 +48752,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
@@ -50061,6 +50223,28 @@
     },
     {
       "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/1EXpoSpKElvsvgaRR6J9rV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203875,
+      "name": "To Ftoxiko Mou",
+      "url": "https://open.spotify.com/track/0YCoY6sH5u5glgLxEphtLU"
+    },
+    {
+      "album": {
         "name": "Unplugged 2",
         "url": "https://open.spotify.com/album/3T2qowmSsKM33FKvwFGVf1"
       },
@@ -50292,6 +50476,32 @@
       "duration_ms": 237592,
       "name": "TO SINITHIZO",
       "url": "https://open.spotify.com/track/3fGP1nAgAxHFGyDaWhAi2S"
+    },
+    {
+      "album": {
+        "name": "Lilith Tape 2",
+        "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/1EXpoSpKElvsvgaRR6J9rV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "To Teleutaio",
+      "url": "https://open.spotify.com/track/6EueAIpZeUSoMpiQEIZ1yz"
     },
     {
       "album": {
@@ -52996,7 +53206,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"

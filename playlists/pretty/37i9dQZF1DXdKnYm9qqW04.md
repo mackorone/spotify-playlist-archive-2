@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,603 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,659 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 60 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 |
 | 61 | [Boom](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 62 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
-| 63 | [Book Of Love \(feat\. Polina\)](https://open.spotify.com/track/2erg7Xduc8OHhkLepV4eER) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:18 |
+| 63 | [Rivers](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Rivers](https://open.spotify.com/album/0lpByNVVfNDqTes37JjvoA) | 3:27 |
 | 64 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/06Hdbxh6NCy6TIhjdXTchB) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/album/2ryym6yEc6r3ZuigHBDr1A) | 3:29 |
-| 65 | [Rivers](https://open.spotify.com/track/3NBDgwEAGMj0aKRsU8zoO9) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Rivers](https://open.spotify.com/album/0lpByNVVfNDqTes37JjvoA) | 3:27 |
+| 65 | [Book Of Love \(feat\. Polina\)](https://open.spotify.com/track/2erg7Xduc8OHhkLepV4eER) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:18 |
 | 66 | [Halcyon Birds](https://open.spotify.com/track/1WC2ctyzNjpgkhF0dplias) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Dear Misfortune, Mother of Joy \- EP](https://open.spotify.com/album/6OL68J5ZRlWyOpO7lEbn7s) | 4:33 |
 | 67 | [Hurricane \- Arty Remix](https://open.spotify.com/track/65n4DkUhKUO4tECIabKwy1) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Room 93: The Remixes](https://open.spotify.com/album/6XMQpJUwiG6KAniW9nziXt) | 3:44 |
 | 68 | [Lean On](https://open.spotify.com/track/4WxU1gDVmoH6gstgR0MT78) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/50Q4ewXTrb8txE3mOAnUn1) | 2:56 |

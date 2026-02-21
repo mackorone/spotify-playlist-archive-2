@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 143076,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192000,
       "name": "Gong like wind",
       "url": "https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro"
@@ -4549,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Out of Eden",
+        "url": "https://open.spotify.com/album/65R8o5g2PzwEzUsXPnb46O"
+      },
+      "artists": [
+        {
+          "name": "Lierre",
+          "url": "https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Out of Eden",
+      "url": "https://open.spotify.com/track/5RsNR1zgJQuIL8SNlGTVi5"
+    },
+    {
+      "album": {
         "name": "Panacea",
         "url": "https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f"
       },
@@ -5536,6 +5554,24 @@
       "duration_ms": 149884,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
+    },
+    {
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/2GJaENPy9CPAfPJwXV83km"
+      },
+      "artists": [
+        {
+          "name": "D'Verti",
+          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Safe Haven",
+      "url": "https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK"
     },
     {
       "album": {

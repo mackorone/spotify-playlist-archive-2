@@ -1917,6 +1917,42 @@
     },
     {
       "album": {
+        "name": "Embodiment",
+        "url": "https://open.spotify.com/album/6EFYYY9KyfL1mT2B4FLUH9"
+      },
+      "artists": [
+        {
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Embodiment",
+      "url": "https://open.spotify.com/track/0T3CD9tENqVWOHAIkgC1eC"
+    },
+    {
+      "album": {
+        "name": "Emerald tone 639 Hz",
+        "url": "https://open.spotify.com/album/0gukReMbiQoRfedSffACih"
+      },
+      "artists": [
+        {
+          "name": "The Relief Experience",
+          "url": "https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Emerald tone 639 Hz",
+      "url": "https://open.spotify.com/track/2s0lOSJmphC323dTB7ALBB"
+    },
+    {
+      "album": {
         "name": "Emotional Healing",
         "url": "https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8"
       },
@@ -3041,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Interconnectedness",
+        "url": "https://open.spotify.com/album/1NaSRWhXzZU1rL9O0CPlQd"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Interconnectedness",
+      "url": "https://open.spotify.com/track/5d7M78Bl9ni80Ig44x38w5"
+    },
+    {
+      "album": {
         "name": "Interlock",
         "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
       },
@@ -3124,7 +3178,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174425,
       "name": "Iris",
       "url": "https://open.spotify.com/track/0Stglwb32v0xOdAC1crESv"
@@ -3286,7 +3340,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 343861,
       "name": "Labyrinths",
       "url": "https://open.spotify.com/track/0butErkBxNHFY0YLqpLHto"
@@ -3862,7 +3916,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144000,
       "name": "Nature And Dreams",
       "url": "https://open.spotify.com/track/6NK2xeSHN7nZwJnv8XjrVQ"
@@ -4402,7 +4456,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 159807,
       "name": "Petal",
       "url": "https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe"
@@ -4950,7 +5004,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 193061,
       "name": "Reverie Harp",
       "url": "https://open.spotify.com/track/4oPOb70QTYN7aG8h8ndYOr"
@@ -5544,7 +5598,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 151203,
       "name": "Silhouettes of Life",
       "url": "https://open.spotify.com/track/7DzPB5vFhzxbFeN2VXg1jt"
@@ -5728,6 +5782,24 @@
       "duration_ms": 186237,
       "name": "Solitude By Numbers",
       "url": "https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz"
+    },
+    {
+      "album": {
+        "name": "Solstice Dream",
+        "url": "https://open.spotify.com/album/1WbCocCFyKtZxuvIoDQ0Eb"
+      },
+      "artists": [
+        {
+          "name": "Floating Portal",
+          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141849,
+      "name": "Solstice Dream",
+      "url": "https://open.spotify.com/track/7bguEqG2PkCMUPT6fiIQaG"
     },
     {
       "album": {
@@ -6106,6 +6178,24 @@
       "duration_ms": 140829,
       "name": "Stills",
       "url": "https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz"
+    },
+    {
+      "album": {
+        "name": "Strainless",
+        "url": "https://open.spotify.com/album/1Cm4JQyp1hBQ0i2P4qgx2e"
+      },
+      "artists": [
+        {
+          "name": "Labyrinthines",
+          "url": "https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Strainless",
+      "url": "https://open.spotify.com/track/2ldUfpDoDbpOXsVwWcyWjQ"
     },
     {
       "album": {
@@ -7024,6 +7114,24 @@
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"
+    },
+    {
+      "album": {
+        "name": "Waves of Light",
+        "url": "https://open.spotify.com/album/2cYycKs91345HOMjRt0xUu"
+      },
+      "artists": [
+        {
+          "name": "Eves Haven",
+          "url": "https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153393,
+      "name": "Waves of Light",
+      "url": "https://open.spotify.com/track/0COh0Y3fcyoYlDt4vX2wcm"
     },
     {
       "album": {

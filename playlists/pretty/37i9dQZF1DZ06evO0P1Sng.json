@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8227,
+  "num_followers": 8228,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAA96WbC7tLm8X1XB9ku7w5O",
+  "snapshot_id": "aZZSgAAAAADOwo3QPKwr5mLy3GSbjNco",
   "tracks": [
     {
       "added_at": null,
@@ -1439,26 +1439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
       },
       "artists": [
         {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 141923,
-      "name": "Azzy On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140666,
+  "num_followers": 140670,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "De Ene Hand Wast De Ander",
-        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "Waterkant",
-      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Nu Meteen (Slide)",
         "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 153621,
       "name": "Nu Meteen (Slide)",
       "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "De Ene Hand Wast De Ander",
+        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waterkant",
+      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "February Stories",
+        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "February Stories",
+      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "Trop parler",
         "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 154000,
       "name": "COMO TU",
       "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "February Stories",
-        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 143346,
-      "name": "February Stories",
-      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "GIOVANNI II",
+        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
+      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "Broski\u2019s",
         "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "GIOVANNI II",
-        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
-      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1531,6 +1531,30 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
+      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "PAPARAZZI",
         "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
       },
@@ -1567,30 +1591,6 @@
       "duration_ms": 152000,
       "name": "Your Season",
       "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Niet Verstandig",
-        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 142875,
-      "name": "Niet Verstandig",
-      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Niet Verstandig",
+        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 142875,
+      "name": "Niet Verstandig",
+      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Zonder Mij",
-        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 203338,
-      "name": "Zonder Mij",
-      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Bon Mij",
         "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
@@ -1843,6 +1819,30 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Zonder Mij",
+        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Zonder Mij",
+      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
     }
   ],
   "unique_name": "Pull Up Hits",

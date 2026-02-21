@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Wiktor Waligóra
 
-738 songs - 1 day 12 hr 2 min
+739 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 | 2025-02-13 | 2025-04-25 |
 | [Nie było źle](https://open.spotify.com/track/3gHIy7PGUXr6WJ4gld5kc8) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [Nie było źle](https://open.spotify.com/album/27pwhbLxg3mslINMEudf6W) | 2:37 | 2024-06-28 | 2024-08-02 |
 | [Nie chcę być jak Barbie](https://open.spotify.com/track/0H1FFFuvz73x0tm35qpWNf) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Nie chcę być jak Barbie](https://open.spotify.com/album/0EeRLhRycspWqUmk271S8x) | 2:18 | 2024-06-28 | 2024-09-14 |
+| [Nie ma czasu](https://open.spotify.com/track/5jg0d2Vi5B9wMqRD6ELLIm) | [Stach Bukowski](https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3) | [Nie ma czasu](https://open.spotify.com/album/6tIqyEeQrXzZTvAeR7eDH0) | 3:05 | 2026-02-19 |  |
 | [nie ma sprawy](https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [nie ma sprawy](https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0) | 2:42 | 2025-01-23 | 2025-02-23 |
 | [Nie ma takich miast](https://open.spotify.com/track/4BMr5WZHUm7HjuqilsPfk1) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Nie ma takich miast](https://open.spotify.com/album/6qKYgcue6wD2FJUc2Cou2U) | 2:55 | 2025-04-24 | 2025-05-02 |
 | [Nie możesz teraz odejść](https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [Nie możesz teraz odejść](https://open.spotify.com/album/6A5gCbv9wOQ3cvsvBdRUBY) | 3:20 | 2026-02-12 | 2026-02-20 |
@@ -572,7 +573,7 @@
 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 | 2025-05-15 | 2025-09-17 |
 | [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 | 2025-10-21 |  |
 | [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
-| [Spokój](https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Spokój](https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt) | 3:19 | 2026-01-22 |  |
+| [Spokój](https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Spokój](https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt) | 3:19 | 2026-01-22 | 2026-02-21 |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |
 | [spotkam](https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [spotkam](https://open.spotify.com/album/5BfZSp6kyBhkPS4cnX6D7c) | 3:50 | 2025-04-24 | 2025-05-07 |
 | [sprzedałam się?](https://open.spotify.com/track/5L1lLGaluYqVyWLH3uuBB3) | [microdawka](https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y) | [sprzedałam się?](https://open.spotify.com/album/7sXiUfbzjqc5NMSxv7H8TE) | 2:52 | 2025-10-21 | 2025-11-05 |

@@ -21315,6 +21315,24 @@
     },
     {
       "album": {
+        "name": "LLORONiTA",
+        "url": "https://open.spotify.com/album/7zbvllEi5vpQVIhlt9jJAu"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240442,
+      "name": "LLORONiTA",
+      "url": "https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7"
+    },
+    {
+      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -28437,8 +28455,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
       "artists": [
         {
@@ -36700,24 +36718,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "date_added": "2026-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7"
     },
     {
       "album": {

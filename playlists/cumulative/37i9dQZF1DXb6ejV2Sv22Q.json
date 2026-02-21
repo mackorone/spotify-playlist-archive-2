@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  008RACCA en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  RIAen cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -1455,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "Cae La Lluvia",
+        "url": "https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3"
+      },
+      "artists": [
+        {
+          "name": "Luis D\u00edazz",
+          "url": "https://open.spotify.com/artist/1YrcerJAHip85arXssuLvm"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179829,
+      "name": "Cae La Lluvia",
+      "url": "https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY"
+    },
+    {
+      "album": {
         "name": "tragaperras",
         "url": "https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6"
       },
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 170200,
       "name": "Cazando Vampiros",
       "url": "https://open.spotify.com/track/5dbK8JM2mf7bYltCgOjKHd"
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 181782,
       "name": "CUANDO LLUEVA",
       "url": "https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE"
@@ -2604,7 +2626,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 206107,
       "name": "duelo",
       "url": "https://open.spotify.com/track/0dj5z0dppmjRQZn23htRe5"
@@ -2826,6 +2848,28 @@
       "duration_ms": 154087,
       "name": "ERAPEOR",
       "url": "https://open.spotify.com/track/2ug3cliRTThVGf1W4gnbpP"
+    },
+    {
+      "album": {
+        "name": "ERES INCREIBLE",
+        "url": "https://open.spotify.com/album/4FHLVoiKluh25qWHjEFMsf"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        },
+        {
+          "name": "Tito Fuentes",
+          "url": "https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "ERES INCREIBLE",
+      "url": "https://open.spotify.com/track/1dH3R9AxxIk1AG9HS5sVDs"
     },
     {
       "album": {
@@ -3060,6 +3104,24 @@
       "duration_ms": 155265,
       "name": "Fiend",
       "url": "https://open.spotify.com/track/6KaKUoSbxeHYGTpdBruCJJ"
+    },
+    {
+      "album": {
+        "name": "Fit Check",
+        "url": "https://open.spotify.com/album/5lya4wlMo9OXargerQwyBS"
+      },
+      "artists": [
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Fit Check",
+      "url": "https://open.spotify.com/track/6ZtyF6CvqHwOzinl9DtwCb"
     },
     {
       "album": {
@@ -3600,6 +3662,24 @@
       "duration_ms": 174000,
       "name": "hits!",
       "url": "https://open.spotify.com/track/7xVFMrKbLhX9nQZdaqkQq1"
+    },
+    {
+      "album": {
+        "name": "hola...",
+        "url": "https://open.spotify.com/album/71QxBAwmP2xF4tWVg0viDf"
+      },
+      "artists": [
+        {
+          "name": "MXXLVN",
+          "url": "https://open.spotify.com/artist/0MENdaOp9F4KpC6IcqRouS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "hola...",
+      "url": "https://open.spotify.com/track/60MzMIi9j7CqISXqcM5oVS"
     },
     {
       "album": {
@@ -4426,7 +4506,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 188279,
       "name": "la mala racha",
       "url": "https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw"
@@ -5500,7 +5580,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 146419,
       "name": "mil horas",
       "url": "https://open.spotify.com/track/07mRYkyxa2RYystkrpbrAl"
@@ -5792,7 +5872,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 178285,
       "name": "MY SLUT",
       "url": "https://open.spotify.com/track/14HY2bRQEdfYicnwbhRX94"
@@ -6220,7 +6300,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216338,
       "name": "No Voy a Volver",
       "url": "https://open.spotify.com/track/6cCSX3RwefIwLAUj12UawF"
@@ -6344,7 +6424,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212000,
       "name": "nueveonceamarillo",
       "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
@@ -6788,6 +6868,24 @@
       "duration_ms": 206000,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/0TOSyQhMxdnqjZljStXfW1"
+    },
+    {
+      "album": {
+        "name": "Personalidad Similar",
+        "url": "https://open.spotify.com/album/3fx1gB8IfqSjaZlmD6n2of"
+      },
+      "artists": [
+        {
+          "name": "El desierto detr\u00e1s de la ventana",
+          "url": "https://open.spotify.com/artist/55kAMTb9z4tlFw5LqUndca"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229181,
+      "name": "Personalidad Similar",
+      "url": "https://open.spotify.com/track/4wvJD0wOzVt46KFaewIlFY"
     },
     {
       "album": {
@@ -9003,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "tquiero",
+        "url": "https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "tquiero",
+      "url": "https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW"
+    },
+    {
+      "album": {
         "name": "tra$h star",
         "url": "https://open.spotify.com/album/6BPrOVHsKzjAXQSDOkNCIL"
       },
@@ -9207,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
+    },
+    {
+      "album": {
         "name": "ESTO ES PA FIXUREAR",
         "url": "https://open.spotify.com/album/1fvAUnJtlHyuPHXL394UzP"
       },
@@ -9302,7 +9436,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 242857,
       "name": "VETIVER Y AMARETTO",
       "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"

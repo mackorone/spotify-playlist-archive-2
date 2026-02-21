@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Burak Bulut
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,758 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,858 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 2 | [Oyuncak Gibi](https://open.spotify.com/track/3Gztrg1zwgCP68j7QC3n4l) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Oyuncak Gibi](https://open.spotify.com/album/00bUeXgfSpvvzZxSuWuYGK) | 3:03 |
-| 3 | [Umarım Unutmuştur](https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [](https://open.spotify.com/album/null) | 2:38 |
+| 3 | [Umarım Unutmuştur](https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Mona Lisa](https://open.spotify.com/album/5mWtdUlQ5hM51PFSrYuQtT) | 2:38 |
 | 4 | [Zor](https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zor](https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4) | 2:48 |
 | 5 | [Ayay](https://open.spotify.com/track/06EsIRH0uVkxvyITqcK5Ok) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Ayay](https://open.spotify.com/album/3GrQZDphUsU1PyEBdICyDR) | 2:28 |
 | 6 | [GÜVENMEDİN](https://open.spotify.com/track/293ecPMCcL0O3lhBrCLWLU) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [GÜVENMEDİN](https://open.spotify.com/album/2NvWubyqbMW5XbQvYAioGN) | 3:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 12356,
+  "num_followers": 12371,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d"
+      },
+      "artists": [
+        {
+          "name": "Yans\u0131malar",
+          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
+        }
+      ],
+      "duration_ms": 415658,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Neva",
         "url": "https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 279146,
       "name": "M\u00fc\u015fterek Taksim 1",
       "url": "https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d"
-      },
-      "artists": [
-        {
-          "name": "Yans\u0131malar",
-          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
-        }
-      ],
-      "duration_ms": 415658,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
         }
       ],
-      "duration_ms": 445040,
-      "name": "Makam Ferahfeza: Pesrev",
-      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
+      "duration_ms": 339666,
+      "name": "Makam Ferahfeza: Taksim",
+      "url": "https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
         }
       ],
-      "duration_ms": 339666,
-      "name": "Makam Ferahfeza: Taksim",
-      "url": "https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY"
+      "duration_ms": 445040,
+      "name": "Makam Ferahfeza: Pesrev",
+      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
     },
     {
       "added_at": "2024-03-05 11:27:00",

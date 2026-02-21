@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,302 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,472 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 49 | [Happy Working Song \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 2:09 |
 | 50 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
 | 51 | [For the First Time](https://open.spotify.com/track/55dk5wKH4izQ95SfjDnxEB) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 4:08 |
-| 52 | [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 |
+| 52 | [Touch The Sky](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave \(Original Soundtrack\)](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 |
 | 53 | [Honor To Us All \- From "Mulan"/Soundtrack](https://open.spotify.com/track/0zFkfMlTT13NMtK9FAscYp) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Beth Fowler](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV), [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ), [Chorus \- Mulan](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Songs and Story: Mulan](https://open.spotify.com/album/1VAL3EDyf93TIh7DvHsUZJ) | 3:01 |
 | 54 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
 | 55 | [Live Your Story](https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Live Your Story](https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx) | 3:26 |
-| 56 | [Into The Open Air \- From "Brave"/Soundtrack](https://open.spotify.com/track/3jR1HXX7vhjlrLrdhLr3NJ) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:41 |
+| 56 | [Into The Open Air](https://open.spotify.com/track/3jR1HXX7vhjlrLrdhLr3NJ) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave \(Original Soundtrack\)](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:41 |
 | 57 | [We're Back](https://open.spotify.com/track/1t0BoWU7oLtfrOX5XsBXAG) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:11 |
 | 58 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 |
 | 59 | [Volerai](https://open.spotify.com/track/6kSoM99mGeF9nqwoSbJzAB) | [Amalia Gre'](https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv) | [Principesse \- Le Più Belle Canzoni](https://open.spotify.com/album/0450iDXoR3nasF3bZrgNrg) | 3:11 |

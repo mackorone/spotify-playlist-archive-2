@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring HOL!",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Steller",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 134000,
       "name": "4321",
       "url": "https://open.spotify.com/track/473zITg7BGjBMja6Wasa0U"
@@ -7829,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "AXIS 01",
+        "url": "https://open.spotify.com/album/3q5w08k1blrTTJljabOh9B"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "DUBST3P",
+      "url": "https://open.spotify.com/track/17IIGh6GnHhmgoq7yEnzT5"
+    },
+    {
+      "album": {
         "name": "The Prophecy: Volume 9",
         "url": "https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42"
       },
@@ -11273,6 +11291,24 @@
     },
     {
       "album": {
+        "name": "HALO SCAR",
+        "url": "https://open.spotify.com/album/4M7rl9a9VRHVXyqfnxnvzq"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "HALO SCAR",
+      "url": "https://open.spotify.com/track/1Jvw38lw0TXwAG0LZHoxfq"
+    },
+    {
+      "album": {
         "name": "Hammer Of Light",
         "url": "https://open.spotify.com/album/2LprIC2tGBVE386b7ZvMoF"
       },
@@ -11518,7 +11554,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 170339,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
@@ -12968,6 +13004,28 @@
       "duration_ms": 180000,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+    },
+    {
+      "album": {
+        "name": "IN PEACE YOU SHALL LIVE",
+        "url": "https://open.spotify.com/album/6B8aeZ7JahrWEvvpWKiOqY"
+      },
+      "artists": [
+        {
+          "name": "SLUGZ",
+          "url": "https://open.spotify.com/artist/0yJq6jTRvp3btZyePfvuX9"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143203,
+      "name": "IN PEACE YOU SHALL LIVE",
+      "url": "https://open.spotify.com/track/1JaKUdytgpJzu1ZmeQYwN8"
     },
     {
       "album": {
@@ -14797,6 +14855,24 @@
     },
     {
       "album": {
+        "name": "LITTLE BITTER",
+        "url": "https://open.spotify.com/album/4kI31zyoimrclnDnJmlw65"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "LITTLE BITTER",
+      "url": "https://open.spotify.com/track/3WmQoU7VAo1u0LlorYYnft"
+    },
+    {
+      "album": {
         "name": "LOADED",
         "url": "https://open.spotify.com/album/32C8hb5LmXYLay6nTAjoO6"
       },
@@ -15034,6 +15110,24 @@
       "duration_ms": 234267,
       "name": "LOST MY MIND",
       "url": "https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j"
+    },
+    {
+      "album": {
+        "name": "Lotis Eater",
+        "url": "https://open.spotify.com/album/07okM9wWAQXXUGO0qsBUMf"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256285,
+      "name": "Lotis Eater",
+      "url": "https://open.spotify.com/track/4RV0l2NdRR6cZ6SWqneFvx"
     },
     {
       "album": {
@@ -17786,7 +17880,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 240017,
       "name": "Orchid",
       "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
@@ -18272,7 +18366,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 160551,
       "name": "Play It Twice",
       "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
@@ -21731,6 +21825,24 @@
     },
     {
       "album": {
+        "name": "Shifting The Lens",
+        "url": "https://open.spotify.com/album/4RDo0sRIZWlmsaAnKhOgXf"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Shifting The Lens",
+      "url": "https://open.spotify.com/track/1aE9wKZJWrmXPzhzCjxgd6"
+    },
+    {
+      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom"
       },
@@ -23796,7 +23908,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 137142,
       "name": "SYFM",
       "url": "https://open.spotify.com/track/3vcOVPoiUN3wVaK3lNWFhC"
@@ -24306,7 +24418,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 274758,
       "name": "THE BEEHIVE INSIDE HER SKULL",
       "url": "https://open.spotify.com/track/4yvCYJcQhluOdiDPFpglZR"

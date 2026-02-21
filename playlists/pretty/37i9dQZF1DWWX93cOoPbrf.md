@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Hermanos Espinoza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,127 likes - 83 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,553 likes - 83 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

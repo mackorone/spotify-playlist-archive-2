@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 450758,
+  "num_followers": 450828,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAAyO+jP80+7RUkeUfj4XcWC",
+  "snapshot_id": "aZZSgAAAAAC3NmJR45llSfJQUKu5tMht",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "My Immortal - Live From Le Z\u00e9nith,France/2004",
-      "url": "https://open.spotify.com/track/0umOKmb2xrgD9yutQHbCXz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Whispers",
         "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 228809,
       "name": "Breathe No More - B-Side Version",
       "url": "https://open.spotify.com/track/2lH8hMXxuIcjpbIok9KbUj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "My Immortal - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/0umOKmb2xrgD9yutQHbCXz"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 277106,
-      "name": "Thoughtless - Live From Le Z\u00e9nith,France/2004",
-      "url": "https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Whispers",
         "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 261537,
       "name": "Even In Death - 2016 Version",
       "url": "https://open.spotify.com/track/4VO8CRItRuli3cnQLBDpvv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "Thoughtless - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synthesis",
-        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 263035,
-      "name": "Imperfection",
-      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Whispers",
         "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Synthesis",
+        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 263035,
+      "name": "Imperfection",
+      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 262062,
       "name": "The Game Is Over",
       "url": "https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Whispers",
+        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 198611,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 256347,
       "name": "Hi-Lo - feat. Lindsey Stirling",
       "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Whispers",
-        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 198611,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Across The Universe",
-        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 222274,
-      "name": "Across The Universe",
-      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Whispers",
         "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 247060,
       "name": "The Last Song I'm Wasting on You",
       "url": "https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 222274,
+      "name": "Across The Universe",
+      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
     },
     {
       "added_at": null,

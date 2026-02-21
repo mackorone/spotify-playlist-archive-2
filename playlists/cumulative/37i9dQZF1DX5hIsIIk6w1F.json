@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: FloyyMenor & Boy Wonder CF",
+  "description": "Este Flow tiene otro Flow. Foto: Jairo Vera & Jere Klein",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -939,7 +939,7 @@
     },
     {
       "album": {
-        "name": "Adi\u00f3s (feat. Lleflight, Sacra Mr Melody, AlexFer, Javiielo, Best, Agdaddy)",
+        "name": "Adi\u00f3s (feat. Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best, Ag Daddy)",
         "url": "https://open.spotify.com/album/0ZYyDScWwVmnP464hHp1GF"
       },
       "artists": [
@@ -3607,6 +3607,28 @@
     },
     {
       "album": {
+        "name": "Can Am",
+        "url": "https://open.spotify.com/album/6TJVtNKIdc2DDvWqb47NUq"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193234,
+      "name": "Can Am",
+      "url": "https://open.spotify.com/track/2iqEFENoUWJh9q1qs84n1o"
+    },
+    {
+      "album": {
         "name": "CAPTION",
         "url": "https://open.spotify.com/album/1A3qHJITW2BW936Ret9RN8"
       },
@@ -3810,7 +3832,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 139850,
       "name": "Chandal Prada",
       "url": "https://open.spotify.com/track/70Ff5osUyDJbG6SaErDtI6"
@@ -9484,7 +9506,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132974,
       "name": "IM\u00c0N",
       "url": "https://open.spotify.com/track/30SrNtQuG3TPgbRbLZwZ0V"
@@ -11716,6 +11738,32 @@
       "duration_ms": 167074,
       "name": "LUNA DILE",
       "url": "https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz"
+    },
+    {
+      "album": {
+        "name": "LUNA LLENA",
+        "url": "https://open.spotify.com/album/6g4FFAZhXTluEV2SrAC5xD"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "LUNA LLENA",
+      "url": "https://open.spotify.com/track/0AtTKV18YKraZeKeVZRnkx"
     },
     {
       "album": {
@@ -17926,7 +17974,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174106,
       "name": "Ponte Perra",
       "url": "https://open.spotify.com/track/1DbT2COwAovcubwNvYIAg6"
@@ -23008,6 +23056,36 @@
       "duration_ms": 185284,
       "name": "Tu Favorito",
       "url": "https://open.spotify.com/track/7qonOa9EFJ2SVu7aj3W2dn"
+    },
+    {
+      "album": {
+        "name": "La Nueva Estrella",
+        "url": "https://open.spotify.com/album/7dPjZXypCqrr7I8JO2R0tE"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Matt Barrios",
+          "url": "https://open.spotify.com/artist/2T4pFNTrU5Jt0MFmEp6pBV"
+        },
+        {
+          "name": "Angel Flow",
+          "url": "https://open.spotify.com/artist/2HsAB7YO5SvcprZ2tgVnaK"
+        },
+        {
+          "name": "MCLOVIN",
+          "url": "https://open.spotify.com/artist/1cQWeOdfgkzYrQMWsPlT0M"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "Tu Juego",
+      "url": "https://open.spotify.com/track/354oYvQxjG2eOAfyDwi9CM"
     },
     {
       "album": {

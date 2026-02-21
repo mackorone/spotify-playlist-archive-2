@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-192 songs - 9 hr 27 min
+193 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2024-02-23 |  |
 | [Dead Roses](https://open.spotify.com/track/0T3bi3vnjpTQmLuz8Y9vOm) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Dead Roses](https://open.spotify.com/album/74wfvw11T1A2HNDQTi2nxL) | 2:02 | 2025-02-14 | 2025-05-31 |
 | [demon in disguise](https://open.spotify.com/track/2WTUmcQ0WKIIALr3ZtLjoT) | [Dead RoseZzz](https://open.spotify.com/artist/0PiOMEDCzza0Wx28spFAre), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [sundwn](https://open.spotify.com/artist/7Bkr0jXyQGFIiNEyD7MYRH) | [demon in disguise](https://open.spotify.com/album/2zFin6A36rULP0y6WGiu1J) | 1:48 | 2025-08-01 | 2025-08-16 |
-| [Demons and Angels \(feat\. Juice WRLD\)](https://open.spotify.com/track/3L19besdNQzd342qL78xqm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:34 | 2024-02-23 |  |
+| [Demons and Angels \(feat\. Juice WRLD\)](https://open.spotify.com/track/3L19besdNQzd342qL78xqm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:34 | 2024-02-23 | 2026-02-21 |
 | [Depression & Obsession](https://open.spotify.com/track/2H3wWrnO758y0fPH7Ilerg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:24 | 2024-02-23 |  |
 | [desire](https://open.spotify.com/track/0Se6mgNePguteLSjreJow8) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [desire](https://open.spotify.com/album/6lBYYKvELmx73HC9ml43z4) | 2:29 | 2025-01-31 | 2026-01-15 |
 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 | 2023-08-07 |  |
@@ -114,6 +114,7 @@
 | [Legends](https://open.spotify.com/track/6BjtaWm1T4kDWAqHrf8vEi) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:12 | 2024-02-23 | 2026-01-15 |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2023-08-07 | 2025-11-08 |
 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 | 2023-08-07 |  |
+| [letting me down](https://open.spotify.com/track/1FN3PxvUw7oDLgEQf6uvp6) | [chazalone](https://open.spotify.com/artist/5TxDGofR2o49uLB7ZSZB61), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH) | [letting me down](https://open.spotify.com/album/2ogOQhZcvKuYjypd6YnujL) | 2:40 | 2026-02-20 |  |
 | [Life's Just No Fun](https://open.spotify.com/track/6PWv8gheLLdddGa2PsaYUS) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [All Back to Mine](https://open.spotify.com/album/1eUDWwJSPm3g240y4VKDkx) | 3:12 | 2024-07-08 |  |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2024-02-23 |  |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2024-02-23 |  |

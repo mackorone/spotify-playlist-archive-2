@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-385 songs - 1 day 0 hr 53 min
+386 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Crazy](https://open.spotify.com/track/0jh3Rey2X3m5DOHiRGGGCM) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Crazy](https://open.spotify.com/album/31VU7DWHqZ3kqutbuZD6ZW) | 4:38 | 2022-03-25 | 2022-11-26 |
 | [Creep](https://open.spotify.com/track/7qhX4rQE1Z7YndaF6SBwPs) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Episode I](https://open.spotify.com/album/3RrQW08C8THSayARHysvOU) | 3:21 | 2020-12-16 | 2022-04-20 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2024-01-20 | 2025-01-18 |
-| [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 | 2024-05-17 |  |
+| [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 | 2024-05-17 | 2026-02-21 |
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2022-03-25 | 2022-04-20 |
 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 | 2023-03-24 |  |
 | [Dancing With Myself](https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7opMW41JT9bEA2cqXTnjTb) | 2:56 | 2020-12-16 | 2022-07-29 |
@@ -333,6 +333,7 @@
 | [The Chain \- Cover](https://open.spotify.com/track/24Z6f7iN56nFDY4VYylcMm) | [New Dialogue](https://open.spotify.com/artist/1LrZbHRZ3WMonnXy9NU3Vj) | [The Chain \(Cover\)](https://open.spotify.com/album/5PsbxRJmAQVLQfcRRd0PLg) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [The Day I Tried To Live](https://open.spotify.com/track/0f2WUZ0v6N4kcxwhapZC4r) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 4:55 | 2024-02-02 | 2024-04-19 |
 | [The Day I Tried To Live](https://open.spotify.com/track/0xvvmc0Akzpd1C8CAI21f9) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [The Day I Tried To Live](https://open.spotify.com/album/3oXmosWd6LEHUbek4WvKl2) | 4:55 | 2020-12-16 | 2022-07-29 |
+| [The Fate of Ophelia](https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Fate of Ophelia](https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF) | 3:37 | 2026-02-20 |  |
 | [The Hand That Feeds](https://open.spotify.com/track/4BgPztdHQ15vB5Ri8ANfRq) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [The Hand That Feeds](https://open.spotify.com/album/1bgHW8a8OZS0PPn3ENnXkh) | 3:25 | 2022-03-25 | 2022-05-28 |
 | [The Keeper \(feat\. Alain Johannes\)](https://open.spotify.com/track/1k9Qcmv02DaWr947FRWtv5) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C) | [Other Worlds](https://open.spotify.com/album/4RzdRTzBSgtK2y9BF397Qf) | 4:02 | 2024-02-12 | 2024-04-20 |
 | [The Killing Moon](https://open.spotify.com/track/60MLWw4RJ9wawP5Ml6SFLv) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2B..\. or Not 2B](https://open.spotify.com/album/3nt0yioggbZPw3S4lCo5KD) | 4:21 | 2024-05-17 | 2025-03-29 |

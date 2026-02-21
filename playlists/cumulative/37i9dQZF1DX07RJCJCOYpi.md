@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: RØZ
+> The wave of Latin Electronic music\. Cover: Gordo & Reinier Zonneveld
 
-430 songs - 22 hr 21 min
+432 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Llámame loco](https://open.spotify.com/track/2LthiNe3VkZg3NpWNcHeHl) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Llámame loco](https://open.spotify.com/album/0n0YzbdI7kNBvD805ToK0Z) | 2:34 | 2023-03-17 | 2023-05-27 |
 | [Lo Que Siento](https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Lo Que Siento](https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS) | 2:49 | 2023-03-17 | 2023-05-27 |
 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 | 2023-07-14 | 2024-04-19 |
+| [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-02-20 |  |
 | [Loco Mio](https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Loco Mio](https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a) | 3:04 | 2023-07-14 | 2023-12-16 |
 | [Loco Toditos](https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL) | 4:19 | 2022-04-20 | 2022-10-13 |
 | [Loco Toditos](https://open.spotify.com/track/523MYItBrJ5NCxJMrSZTFI) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3Oo25Wcclg5ivALG00Dkpb) | 4:19 | 2022-09-16 | 2023-03-04 |
@@ -292,6 +293,7 @@
 | [Nómada \(Viic Remix\)](https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Nómada \(Viic Remix\)](https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP) | 2:25 | 2022-04-20 | 2023-03-04 |
 | [O Sea, Sí te Quiero](https://open.spotify.com/track/6K2lcxfSvBzig47QhRi6JC) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [O Sea, Sí te Quiero](https://open.spotify.com/album/38skAP01EKMWYGldAMYJdC) | 3:28 | 2022-03-22 | 2022-04-29 |
 | [OH WOW](https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [OH WOW](https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg) | 3:46 | 2025-05-09 |  |
+| [Ojos Así](https://open.spotify.com/track/4GikHV9p2ZpDtJH3eJ8IgB) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1) | [Ojos Así](https://open.spotify.com/album/4v1rXgpS7rp3OkAtu5LSaT) | 5:09 | 2026-02-20 |  |
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-04-20 | 2023-03-04 |
 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2024-12-13 |  |
 | [ONTAS BB](https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax) | 3:27 | 2023-11-29 | 2024-04-19 |

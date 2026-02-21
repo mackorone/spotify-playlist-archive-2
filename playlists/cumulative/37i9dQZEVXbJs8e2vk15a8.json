@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -10720,6 +10720,28 @@
       "duration_ms": 189640,
       "name": "Bugambilia",
       "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+    },
+    {
+      "album": {
+        "name": "Los Gatos Favoritos de Tu Gata",
+        "url": "https://open.spotify.com/album/5VZ8xWWoZ2Mq7RWLUcjYuX"
+      },
+      "artists": [
+        {
+          "name": "Fuka",
+          "url": "https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ"
+        },
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199805,
+      "name": "bUMPER",
+      "url": "https://open.spotify.com/track/3OeZ0eE7U3boxa2HLj3PGP"
     },
     {
       "album": {
@@ -56618,7 +56640,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192145,
       "name": "Que Lindos Ojos",
       "url": "https://open.spotify.com/track/7qiOFRVtJvOVRFaWh2nrrf"
@@ -69262,7 +69284,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"

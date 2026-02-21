@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Brent Faiyaz",
+  "description": "Genre-less. Quality first always. Cover: Baby Keem",
   "name": "POLLEN",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 334584,
       "name": "132 TECHNO",
       "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
@@ -6361,6 +6361,24 @@
     },
     {
       "album": {
+        "name": "Weekend Rockstar",
+        "url": "https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141514,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3GMxnSwJvaI0M42O65Czqv"
+    },
+    {
+      "album": {
         "name": "BEST INTEREST",
         "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
       },
@@ -6782,6 +6800,24 @@
       "duration_ms": 312447,
       "name": "Bioluminescence",
       "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
+    },
+    {
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136542,
+      "name": "Birds & the Bees",
+      "url": "https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V"
     },
     {
       "album": {
@@ -10125,6 +10161,24 @@
     },
     {
       "album": {
+        "name": "CARE 4 U",
+        "url": "https://open.spotify.com/album/3Cmkd5zkmoQSxnxSgetpFg"
+      },
+      "artists": [
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268080,
+      "name": "CARE 4 U",
+      "url": "https://open.spotify.com/track/39zv1ChIsgFhzk0h5j1Dvc"
+    },
+    {
+      "album": {
         "name": "Care For You",
         "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
       },
@@ -11752,7 +11806,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197073,
       "name": "Club Burn",
       "url": "https://open.spotify.com/track/6XWy5BIUB0ikfVwwrO5aO8"
@@ -15846,7 +15900,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 269614,
       "name": "Doesn't Really Matter",
       "url": "https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl"
@@ -28370,7 +28424,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197999,
       "name": "I Luv U",
       "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
@@ -31394,6 +31448,24 @@
       "duration_ms": 187160,
       "name": "JUMO (feat. Valee)",
       "url": "https://open.spotify.com/track/5tdZSNA5oYHNsaz68wf67K"
+    },
+    {
+      "album": {
+        "name": "Jump Shot",
+        "url": "https://open.spotify.com/album/4C0Eo4wzTSL8PJwo3mLFnS"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Jump Shot",
+      "url": "https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX"
     },
     {
       "album": {
@@ -36379,6 +36451,24 @@
     },
     {
       "album": {
+        "name": "Manmade Manmaid",
+        "url": "https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "Manmade Manmaid",
+      "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
+    },
+    {
+      "album": {
         "name": "MANTO",
         "url": "https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL"
       },
@@ -37698,7 +37788,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 209198,
       "name": "mini me",
       "url": "https://open.spotify.com/track/4RivZNKcpqoVuZy7o5U2p5"
@@ -38540,7 +38630,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
@@ -40322,6 +40412,24 @@
       "duration_ms": 133000,
       "name": "NITEVISION",
       "url": "https://open.spotify.com/track/5Djuqh9OIH7JLd174ZPsRP"
+    },
+    {
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166469,
+      "name": "No Blame",
+      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
     },
     {
       "album": {
@@ -42680,7 +42788,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 158512,
       "name": "Orchards",
       "url": "https://open.spotify.com/track/1dmoGY1oIcXIckpycDXz0c"
@@ -47731,6 +47839,24 @@
     },
     {
       "album": {
+        "name": "Right Hand to God",
+        "url": "https://open.spotify.com/album/7iVlDKsdWH0hwblWES6qAP"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133360,
+      "name": "Right Hand to God",
+      "url": "https://open.spotify.com/track/1nmR9nOziOaVohX2qCkIpU"
+    },
+    {
+      "album": {
         "name": "Small World (Special Edition)",
         "url": "https://open.spotify.com/album/6uA27brKsNOywUHo3dUwpM"
       },
@@ -50395,6 +50521,28 @@
     },
     {
       "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0zXkNrPiubPQ6xuBBN0ssu"
       },
@@ -50678,6 +50826,24 @@
       "duration_ms": 170653,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/78GTy82c0Bd9Jp1n5NY6FE"
+    },
+    {
+      "album": {
+        "name": "Vestibule EP",
+        "url": "https://open.spotify.com/album/7LAjXI3VHD0kH9EL73Wen9"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "Shorty Out",
+      "url": "https://open.spotify.com/track/7yURwIYzgtmVWK3LDoBja5"
     },
     {
       "album": {
@@ -57036,7 +57202,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212957,
       "name": "The Coward Forgets His Nightmare",
       "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
@@ -63234,7 +63400,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 185174,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"

@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-541 songs - 1 day 12 hr 18 min
+542 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,10 +117,11 @@
 | [Didn't I Keep Runnin'](https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Didn't I Keep Runnin'](https://open.spotify.com/album/0G1CMLfaqiXJ39DpUHWHL2) | 4:19 | 2026-01-16 | 2026-01-31 |
 | [Didn’t We Have a Time](https://open.spotify.com/track/5Lz6UnJghksQvUAz54yBv9) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Didn’t We Have a Time](https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL) | 6:04 | 2021-12-24 | 2022-01-15 |
 | [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 | 2023-11-11 |
-| [Do What You Gotta](https://open.spotify.com/track/3e9tHefKwzfYQIOtDltTBa) | [Blood Brothers](https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP), [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Help Yourself](https://open.spotify.com/album/3bmRO4Gva95UwZ3eWqrPMu) | 5:30 | 2025-09-19 |  |
+| [Do What You Gotta](https://open.spotify.com/track/3e9tHefKwzfYQIOtDltTBa) | [Blood Brothers](https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP), [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Help Yourself](https://open.spotify.com/album/3bmRO4Gva95UwZ3eWqrPMu) | 5:30 | 2025-09-19 | 2026-02-21 |
 | [Don't Get Me Started \(with Steve Winwood\)](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 | 2023-06-16 | 2025-06-07 |
 | [Don't Know Where She Went](https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK) | 3:15 | 2023-01-20 | 2025-02-01 |
 | [Don't Know Where She Went](https://open.spotify.com/track/1dmre6TvgmPmX6lsdjhCZa) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/2wfAj194FscSXx1LjJLiwh) | 3:15 | 2023-01-20 | 2024-04-19 |
+| [Don't Take Advantage Of Me](https://open.spotify.com/track/4gUBKPFYxnIxf1v49CX0vf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don’t Take Advantage Of Me](https://open.spotify.com/album/5IQTaJtWRL77KVm1xuc0gj) | 4:32 | 2026-02-20 |  |
 | [Don't Tell Me I Can't](https://open.spotify.com/track/2Uf6fJtrU9hwVaNhEIaOMf) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Don't Tell Me I Can't](https://open.spotify.com/album/7eilnGBoBFrLcuOkUieO88) | 3:44 | 2024-01-19 | 2024-02-17 |
 | [Don't Walk Out That Door](https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Don't Walk Out That Door](https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO) | 4:09 | 2023-01-13 | 2023-02-18 |
 | [Don't Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dont Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB) | 5:23 | 2025-08-01 | 2025-08-30 |

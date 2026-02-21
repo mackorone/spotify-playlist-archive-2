@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-317 songs - 16 hr 13 min
+318 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 | 2025-02-10 |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 | 2024-04-26 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 | 2025-05-31 |  |
+| [You Make My Dreams \(Come True\)](https://open.spotify.com/track/6KXMkR8qN90Jc8Wx3nMXmH) | [Natalie Johnson](https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/3Ot2DtvXftRZm6MzpaVBCY) | 2:34 | 2026-02-20 |  |
 | [You Make My Dreams \(Come True\) \- Acoustic](https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Make My Dreams \(Come True\) \[Acoustic\]](https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI) | 2:30 | 2024-04-12 | 2024-11-10 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 | 2024-03-04 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |

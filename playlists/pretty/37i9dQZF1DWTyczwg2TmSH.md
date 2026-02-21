@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > When America needed hope, they delivered\. Listen to the music co\-curated by the cast of The Six Triple Eight, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,031 likes - 28 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,046 likes - 28 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 2 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 3 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 |
-| 4 | [Clique](https://open.spotify.com/track/65rRB2mspD309xE6YimZTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:53 |
+| 4 | [Clique](https://open.spotify.com/track/65rRB2mspD309xE6YimZTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:53 |
 | 5 | [Forever In Faith](https://open.spotify.com/track/2Ds3FYhMmqqieQFR1H0KXj) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Forever In Faith](https://open.spotify.com/album/1V11feInWKQMQpEHFlxGNf) | 2:10 |
 | 6 | [Yesterday Is Gone](https://open.spotify.com/track/42SsV7gqcLOiCjYphyaOj2) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Yesterday Is Gone](https://open.spotify.com/album/7a8KVIWKBpu7f8wTG28h2z) | 2:18 |
 | 7 | [New Things](https://open.spotify.com/track/69QvT6vcihl6hnyyAVg5ra) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [New Things](https://open.spotify.com/album/4Em6fTFvjI1TvS0Wb3g53I) | 2:01 |

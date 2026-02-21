@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 577118,
+  "num_followers": 577273,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Galdr",
-        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
-      },
-      "artists": [
-        {
-          "name": "Asynje",
-          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
-        },
-        {
-          "name": "Nanna Barslev",
-          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "Vindr",
-      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Matriarch",
         "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
       },
@@ -619,6 +599,22 @@
       "duration_ms": 378986,
       "name": "Umai",
       "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Lunar Falls",
+        "url": "https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3"
+      },
+      "artists": [
+        {
+          "name": "Suldusk",
+          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+        }
+      ],
+      "duration_ms": 210834,
+      "name": "The Elm",
+      "url": "https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -639,18 +635,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Lunar Falls",
-        "url": "https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3"
+        "name": "Galdr",
+        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
       },
       "artists": [
         {
-          "name": "Suldusk",
-          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+          "name": "Asynje",
+          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
+        },
+        {
+          "name": "Nanna Barslev",
+          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
         }
       ],
-      "duration_ms": 210834,
-      "name": "The Elm",
-      "url": "https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G"
+      "duration_ms": 318213,
+      "name": "Vindr",
+      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
     },
     {
       "added_at": "2025-11-14 04:00:17",

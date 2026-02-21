@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-3,262 songs - 6 day 8 hr 6 min
+3,262 songs - 6 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2574,6 +2574,7 @@
 | [Sommervibe](https://open.spotify.com/track/6jmodExDPh67eDiu4yceEp) | [Mateo](https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi) | [Sommervibe](https://open.spotify.com/album/0l9GfVrKmqSwsTteF4E9i0) | 1:53 | 2022-08-04 | 2022-08-18 |
 | [Sommerzeit Traurigkeit](https://open.spotify.com/track/4reOlSQFxX0IjgTu9EnhZe) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Sommerzeit Traurigkeit](https://open.spotify.com/album/6tWG7TDUjFEd5JLA9efSTN) | 2:25 | 2025-07-31 | 2025-08-15 |
 | [Song 10](https://open.spotify.com/track/7gdPSJXiyGm5iSjiP2fcWJ) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Song 10](https://open.spotify.com/album/5QJUqabzotJBmqa7wpI6aw) | 2:52 | 2025-12-18 | 2026-02-13 |
+| [Song 11 ft Provinz](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [listen carefully](https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD) | 2:46 | 2026-02-19 |  |
 | [Song 4 ft Ansu](https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Song 4 ft Ansu](https://open.spotify.com/album/7fu1RpJ4xkrAaKQs3BX0mI) | 2:55 | 2025-10-09 | 2026-01-28 |
 | [Song 7 ft Baran Kok](https://open.spotify.com/track/5c8SGvs38f2yI22elAmvrF) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Baran Kok](https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Song 7 ft Baran Kok](https://open.spotify.com/album/5itkxRewXGWLns8WZIv1DS) | 2:14 | 2025-11-20 | 2026-01-17 |
 | [Song 8](https://open.spotify.com/track/0IslrxKrEfWeQXWKv5UOKJ) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Song 8](https://open.spotify.com/album/4l5rr6AbDrbUcOoGdfPWF0) | 2:27 | 2026-01-29 |  |
@@ -2812,7 +2813,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 11](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

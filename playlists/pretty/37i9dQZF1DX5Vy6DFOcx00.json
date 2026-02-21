@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4133318,
+  "num_followers": 4132902,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABG18wf0BdszLb6QL9reIByte48T",
+  "snapshot_id": "AAAAAD82XQQsORdUwntMLz6EYXMmvSqV",
   "tracks": [
     {
       "added_at": "2026-02-19 17:46:14",
@@ -139,6 +139,26 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-20 06:12:41",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-02-16 22:03:32",
@@ -447,22 +467,6 @@
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-02-13 15:30:21",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        }
-      ],
-      "duration_ms": 210070,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
     },
     {
       "added_at": "2025-12-31 19:08:26",

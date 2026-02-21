@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: RAYE",
-  "num_followers": 37946,
+  "num_followers": 37983,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHHPUUVmEzE1fi+2tQScyqFeI3xv",
+  "snapshot_id": "AAAAAHeEZzgN67NHr9nXynGmMP4jP+kh",
   "tracks": [
     {
       "added_at": "2026-02-10 05:00:51",
@@ -43,6 +43,22 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-02-20 05:07:10",
+      "album": {
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
     },
     {
       "added_at": "2026-02-10 05:00:51",
@@ -831,26 +847,6 @@
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
-    },
-    {
-      "added_at": "2026-02-10 05:00:51",
-      "album": {
-        "name": "spark",
-        "url": "https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO"
-      },
-      "artists": [
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        },
-        {
-          "name": "Cydnee with a C",
-          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
-        }
-      ],
-      "duration_ms": 188657,
-      "name": "spark",
-      "url": "https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb"
     }
   ],
   "unique_name": "Pop Frequency",

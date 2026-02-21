@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,632 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,849 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 99 | [forest of sun \(Alpha 110 \- 122 Hz\)](https://open.spotify.com/track/3DjXbleUnCkwtrHMxA21D6) | [golden voyager](https://open.spotify.com/artist/6noA1Q3BQPV4KMIB10iTQe) | [forest of sun & lost lakes \(binaural alpha\)](https://open.spotify.com/album/3pkxq2RxWJ1fiAybfm6uu8) | 3:09 |
 | 100 | [Living 150\-158 Hz](https://open.spotify.com/track/7m5O6jynOzKwfTH861B5ZG) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Living 150\-158 Hz](https://open.spotify.com/album/0IU6Vk70mbgfiRxm296mDc) | 2:02 |
 
-Snapshot ID: `AAAAAEtxc99MC94TaXVVzJ/RNGSG76ik`
+Snapshot ID: `AAAAAARLwvnikg7Vb9RgJM8A0bMcOK3T`

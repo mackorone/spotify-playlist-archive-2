@@ -3263,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "COSMO",
+        "url": "https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf"
+      },
+      "artists": [
+        {
+          "name": "nashi",
+          "url": "https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125846,
+      "name": "COSMO",
+      "url": "https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud"
+    },
+    {
+      "album": {
         "name": "Cossack Phonk",
         "url": "https://open.spotify.com/album/2LKzOwep5So3dUTY2Jr2w6"
       },
@@ -14214,7 +14232,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"

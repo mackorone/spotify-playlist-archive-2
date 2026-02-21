@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1580769,
+  "num_followers": 1580643,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Only Friends",
+        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Only Friends",
+      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Home (feat. Tom Walker)",
         "url": "https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 196985,
       "name": "Home (feat. Tom Walker)",
       "url": "https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Only Friends",
-        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Only Friends",
-      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
     },
     {
       "added_at": "2025-08-29 06:03:40",

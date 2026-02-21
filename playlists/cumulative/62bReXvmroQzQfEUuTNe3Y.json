@@ -2249,6 +2249,28 @@
     },
     {
       "album": {
+        "name": "Dreamin' About You",
+        "url": "https://open.spotify.com/album/0HfkWy9EKBs4KtYjbQNMs0"
+      },
+      "artists": [
+        {
+          "name": "Josh Hunter",
+          "url": "https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147480,
+      "name": "Dreamin' About You",
+      "url": "https://open.spotify.com/track/6naA2kx3P4uRTjWbNuSdDX"
+    },
+    {
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/5bjn5UoB5fAEY5n1bMhO2T"
       },

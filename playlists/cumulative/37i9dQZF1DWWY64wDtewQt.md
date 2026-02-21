@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-864 songs - 1 day 7 hr 13 min
+865 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Comecar](https://open.spotify.com/track/3WrHkFPgZ4zHa7eyeLe6Gg) | [DJ Ritmo55](https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E) | [Comecar](https://open.spotify.com/album/4FhzVm575n4IcseqrFRPok) | 1:17 | 2023-05-26 | 2023-09-23 |
 | [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 | 2023-06-09 | 2023-07-08 |
 | [coqueta](https://open.spotify.com/track/6zX9Jhq8lB6DRiMIzNTxet) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [coqueta](https://open.spotify.com/album/6azCKU1xPZG3ELddYmSgqM) | 2:34 | 2023-04-26 | 2023-05-20 |
+| [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 | 2026-02-20 |  |
 | [Cossack Phonk](https://open.spotify.com/track/5iV0ADJYMGN9EBk9evZiA5) | [your flame](https://open.spotify.com/artist/0BfdOl3Sl7OSaxY2xb5KED) | [Cossack Phonk](https://open.spotify.com/album/2LKzOwep5So3dUTY2Jr2w6) | 2:14 | 2023-06-16 | 2023-07-01 |
 | [COURAGE](https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [COURAGE](https://open.spotify.com/album/07Q4VYf7jvAftXoj2jcYHj) | 1:56 | 2022-10-21 | 2022-11-26 |
 | [COURAGE](https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [COURAGE](https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz) | 2:09 | 2022-07-01 | 2022-10-22 |
@@ -689,7 +690,7 @@
 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2021-05-12 | 2024-04-20 |
 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 | 2022-11-11 | 2025-07-15 |
 | [Scrapyard](https://open.spotify.com/track/4uvPRByRYtH1AjhhqG6emD) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Scrapyard](https://open.spotify.com/album/2rR3ic7R3y7rNfqlkeFHkg) | 2:07 | 2022-11-11 | 2023-01-06 |
-| [Se Paciente Funk](https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [Se Paciente Funk](https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff) | 1:09 | 2024-08-16 |  |
+| [Se Paciente Funk](https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [Se Paciente Funk](https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff) | 1:09 | 2024-08-16 | 2026-02-21 |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-04-26 | 2024-12-06 |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-08-12 | 2022-10-01 |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-09-16 | 2022-11-19 |

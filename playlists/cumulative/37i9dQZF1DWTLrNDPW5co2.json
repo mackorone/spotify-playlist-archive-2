@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Honey Dijon. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Peaches. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 150666,
       "name": "DL",
       "url": "https://open.spotify.com/track/5PFXDrF5fv3fyK93H5D48c"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3iYbR4Pk129oLJoOwlNxFZ"
@@ -3330,6 +3330,24 @@
       "duration_ms": 241406,
       "name": "Hands - Edit",
       "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
+    },
+    {
+      "album": {
+        "name": "No Lube So Rude",
+        "url": "https://open.spotify.com/album/6gCIqW8uTdkgNNnXmDj5rD"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139148,
+      "name": "Hanging Titties",
+      "url": "https://open.spotify.com/track/4YZo3EOSLPaa8HcAuQdOPN"
     },
     {
       "album": {
@@ -8114,6 +8132,32 @@
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
+    },
+    {
+      "album": {
+        "name": "The Lobby",
+        "url": "https://open.spotify.com/album/2gWytF2ZcOP1JRxwQ8xPWE"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182118,
+      "name": "The Lobby",
+      "url": "https://open.spotify.com/track/3S9fUHrEJ7NSOswsEtcwMs"
     },
     {
       "album": {

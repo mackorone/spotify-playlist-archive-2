@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
-  "num_followers": 166743,
+  "num_followers": 166949,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDNo4zJhPrHv+pFAap18NpPdkDD",
+  "snapshot_id": "AAAAAP6sEVl0/akciEa+LgoMOTA4fxMc",
   "tracks": [
     {
       "added_at": "2026-02-16 10:27:02",
@@ -161,6 +161,34 @@
       "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
     },
     {
+      "added_at": "2026-02-20 09:35:48",
+      "album": {
+        "name": "Madhuram (From \"Sathi Leelavathi\")",
+        "url": "https://open.spotify.com/album/7Ak1ZsUJwWXdrj40NVkocy"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        },
+        {
+          "name": "Vanamali",
+          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+        }
+      ],
+      "duration_ms": 249947,
+      "name": "Madhuram - From \"Sathi Leelavathi\"",
+      "url": "https://open.spotify.com/track/7fqU95VNxjSV1J8kSkmIOE"
+    },
+    {
       "added_at": "2025-12-10 11:48:35",
       "album": {
         "name": "Addham Mundhu (From \"Bhartha Mahasayulaku Wignyapthi\")",
@@ -215,6 +243,30 @@
       "duration_ms": 174146,
       "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
       "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
+    },
+    {
+      "added_at": "2026-02-20 09:35:48",
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Priya Pidaparthy",
+          "url": "https://open.spotify.com/artist/0o4ea7mTqe8mZmY9PfE0x0"
+        },
+        {
+          "name": "Bharadwaj Gali",
+          "url": "https://open.spotify.com/artist/3p5E50NaPL1YFcK4njAswK"
+        }
+      ],
+      "duration_ms": 177984,
+      "name": "Maguva - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/0mH6kOFB0alNKsB6B44HR5"
     },
     {
       "added_at": "2026-02-16 10:27:02",
@@ -939,54 +991,6 @@
       "duration_ms": 186133,
       "name": "Pilla",
       "url": "https://open.spotify.com/track/5UvisOGEf4Qsq808jcMMXD"
-    },
-    {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Gadhi",
-        "url": "https://open.spotify.com/album/4O9sjGRSsnNsKk58v8g7V6"
-      },
-      "artists": [
-        {
-          "name": "Tarun Rana Pratap",
-          "url": "https://open.spotify.com/artist/5t6AoOfo5QPxp555JSTxoK"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        },
-        {
-          "name": "Lipsika Bhashyam",
-          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
-        },
-        {
-          "name": "Suresh Banisetti",
-          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
-        }
-      ],
-      "duration_ms": 238942,
-      "name": "Vayari Vagalamari",
-      "url": "https://open.spotify.com/track/4zYt6mJMsSNVf4e9Vey81H"
-    },
-    {
-      "added_at": "2025-06-03 05:36:27",
-      "album": {
-        "name": "Manasu",
-        "url": "https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy"
-      },
-      "artists": [
-        {
-          "name": "Keethan",
-          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
-        },
-        {
-          "name": "Pavitra Krishnan",
-          "url": "https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Manasu",
-      "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
     },
     {
       "added_at": "2025-12-09 07:35:19",

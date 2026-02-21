@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Bien Argento 📸 Oney1
+> Bien Argento 📸 Cerounno
 
-429 songs - 21 hr 19 min
+431 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Avengers en el Juego](https://open.spotify.com/track/0Yqd1lDCZnLCNfZxztoCUg) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/6FkR745h9h0Nf0AebzSqUC) | 4:33 | 2023-06-16 | 2023-09-02 |
 | [Avengers en el Juego](https://open.spotify.com/track/5Igbr0gEDnBxALPNCAL2ZE) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/4YPlAH4YDCHwiYfIzRFxvX) | 4:33 | 2022-11-18 | 2023-07-05 |
 | [BAJO PRESIÓN](https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [BAJO PRESIÓN](https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v) | 2:10 | 2023-11-24 |  |
-| [BANDIDO](https://open.spotify.com/track/3BPHTXnhA3J171UnkbgWrw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7w4h2cIqzQF44SqnIS0Jzf) | 3:18 | 2021-11-26 |  |
+| [BANDIDO](https://open.spotify.com/track/3BPHTXnhA3J171UnkbgWrw) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7w4h2cIqzQF44SqnIS0Jzf) | 3:18 | 2021-11-26 | 2026-02-21 |
 | [BANDIDO](https://open.spotify.com/track/4ajS3CFOSAY9zdSZkrCWAK) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7BGAwJQpGkpLD9AXSYFGSn) | 3:18 | 2022-06-10 | 2024-04-19 |
 | [BARS 01](https://open.spotify.com/track/3ZK1EIRQ7zJFOCmB2xTNmn) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [BARS 01](https://open.spotify.com/album/0MCwtV8RWlOSHQlwLC11DJ) | 2:10 | 2025-03-14 |  |
 | [Basura](https://open.spotify.com/track/09OoZ39K2iLBlEsuawWOPR) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/6kwxc1F1cA0zxjm3ETNi7p) | 2:20 | 2022-06-10 | 2024-04-19 |
@@ -156,6 +156,7 @@
 | [Es Una Trampa](https://open.spotify.com/track/5ObEhvixPr295RLAEbcFEm) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Jaloner](https://open.spotify.com/artist/6mxuwUdhUgLS5QcCA08Rlz) | [Es Una Trampa](https://open.spotify.com/album/3F2xH5WDopRoGNRuzltHl5) | 3:33 | 2024-06-21 | 2025-03-15 |
 | [Escape \#2 "Pandora" \- En Vivo](https://open.spotify.com/track/6vvm3Mbo83lJUlnYUzi26O) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Escape \#2 "Pandora" \(En Vivo\)](https://open.spotify.com/album/2X3GyQsnDVH97DIOGQJJti) | 3:25 | 2025-09-12 |  |
 | [ESTAMO EN ESA](https://open.spotify.com/track/0yxiCVYBW0eFxQGlOdAGuN) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [YAMAEL, LA AMBICIÓN](https://open.spotify.com/album/7p3d3jMhJr7BHjDHs0dMyN) | 2:59 | 2025-06-13 |  |
+| [Estelar](https://open.spotify.com/track/1Ccx2VM7NS3xcvNHURwu3s) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Estelar](https://open.spotify.com/album/6eEgsYg1waSowUMQG0ABTv) | 2:21 | 2026-02-20 |  |
 | [Estoy fuera \- Freestyle](https://open.spotify.com/track/5JYlNZMxphxneDI8DU8kTX) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Estoy fuera \- Freestyle](https://open.spotify.com/album/6V2frckzXN5aURiPlcWljL) | 2:35 | 2024-08-16 | 2025-05-24 |
 | [Estrellas de Rock](https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Estrellas de Rock](https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu) | 2:35 | 2024-07-19 | 2025-05-07 |
 | [Extraño](https://open.spotify.com/track/6BIiZtA4MMyUx2YrQ6xOYi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Extraño](https://open.spotify.com/album/1mRJ6tAbjiDpNh1SWwajr7) | 3:44 | 2025-12-12 |  |
@@ -334,7 +335,7 @@
 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 | 2024-05-24 | 2024-11-09 |
 | [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 | 2023-02-04 |
 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 | 2025-08-22 |  |
-| [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 |  |
+| [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 | 2026-02-21 |
 | [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 | 2023-10-08 |
 | [R.A.P](https://open.spotify.com/track/5ueFyFfJ6mDmN9LfWMONn2) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/3OXVCPPJKjQVsFqoY8Zamc) | 2:27 | 2023-10-06 | 2024-04-19 |
 | [RAP & B](https://open.spotify.com/track/2aBX6qVoFTZR0zWdy9mxBM) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [CONCEPTO ZER0](https://open.spotify.com/album/6aISTCdvz9L9lSXu1X0zJd) | 2:21 | 2024-11-08 | 2025-11-01 |
@@ -382,6 +383,7 @@
 | [Sin Drama](https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:51 | 2022-10-27 |  |
 | [Sin Escala](https://open.spotify.com/track/02igFjQK1uPmtOaZfLfLPD) | [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI), [Ayrton tuzain](https://open.spotify.com/artist/5JDbGkJ2C7xXUc2e4aksfb) | [Sin Escala](https://open.spotify.com/album/7f0YTmGkID35kFfb9gWkN3) | 3:03 | 2025-03-14 | 2025-05-07 |
 | [SIN PAPELES](https://open.spotify.com/track/3UeeOBf9eKfJsy6EDY0VU8) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Doly Flackko](https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH) | [YAMAEL, LA AMBICIÓN](https://open.spotify.com/album/7p3d3jMhJr7BHjDHs0dMyN) | 3:06 | 2025-06-13 |  |
+| [SIN PSV](https://open.spotify.com/track/62Zj9Q2FUVLelEx7J0RnV6) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [H de Perra](https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU) | [SIN PSV](https://open.spotify.com/album/15fF8cZGTkHA1r7xkAMs5A) | 4:35 | 2026-02-20 |  |
 | [Sintiendo](https://open.spotify.com/track/5PyiAKeNgUzlpV5080FJJv) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Plata Sufrida](https://open.spotify.com/album/0Glnb7gStwWKEvNtx3Egf4) | 3:06 | 2025-09-26 |  |
 | [Sobreviviente](https://open.spotify.com/track/6Vexfm0u1aiWDvyRxllGEg) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Sobreviviente](https://open.spotify.com/album/6VtNNW6TcBHzhEWnp7IDDV) | 3:00 | 2023-08-18 | 2024-02-24 |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Solo por Vos](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2021-11-26 | 2022-05-13 |

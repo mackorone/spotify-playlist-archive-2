@@ -4,7 +4,7 @@
 
 > All energy\. Cover: Anna\-My & Adrian Lux
 
-1,409 songs - 4 day 8 hr 1 min
+1,410 songs - 4 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [flight mode \- Âme Remix](https://open.spotify.com/track/3obxk1RGNTxTZWbxcnHYWx) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [BERNT](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv), [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [flight mode \(Âme Remix\)](https://open.spotify.com/album/0h0lc2h9IHk77fxS41cpui) | 5:51 | 2025-10-23 |  |
 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 | 2024-10-21 | 2025-08-16 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-15 | 2023-08-04 |
+| [Fluorescent Horizons](https://open.spotify.com/track/0bXDTZbnngKlGmrnSmlYTk) | [1\-800 Techno](https://open.spotify.com/artist/2X2lZoNNwgxRD7kZpBn0sS), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj), [Karl Lihagen](https://open.spotify.com/artist/39xx7uSO1RiFK5YyJwgAa3) | [For Several Eternals Before There Were Years](https://open.spotify.com/album/6QgF3L8v9e8Mwwd1vhLUBJ) | 4:26 | 2026-02-20 |  |
 | [Fly Away](https://open.spotify.com/track/1niYvR84CZQiNE3pWFZiLS) | [New Spectrum](https://open.spotify.com/artist/2pf5q0TzKjDmsr8iwU5N5B) | [Out of My Head EP](https://open.spotify.com/album/6M01XBy3SciLGIuih1nXmL) | 5:56 | 2023-02-16 | 2023-03-10 |
 | [Focus](https://open.spotify.com/track/35y1KbmN2m5APfII0SyAtg) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Focus](https://open.spotify.com/album/3gxnJihanNHv2uct0XM3uZ) | 4:00 | 2023-11-09 | 2023-12-08 |
 | [Focus](https://open.spotify.com/track/6kc3lzTqxxdogRmx7zuP24) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:22 | 2024-03-21 | 2024-04-05 |

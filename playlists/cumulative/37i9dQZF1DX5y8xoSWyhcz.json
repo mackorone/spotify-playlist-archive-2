@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
+    },
+    {
+      "album": {
         "name": "I've Got Some Living To Do",
         "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
       },
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 214319,
       "name": "ALL I WANNA DO IS SCREAM I LOVE YOU",
       "url": "https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE"
@@ -1394,6 +1412,24 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "album": {
+        "name": "american idol",
+        "url": "https://open.spotify.com/album/1eik4h2RQfqF5hlK37qEui"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "american idol",
+      "url": "https://open.spotify.com/track/62TpAHZBiZCGcV4VG1lGLO"
     },
     {
       "album": {
@@ -2336,6 +2372,24 @@
       "duration_ms": 181249,
       "name": "Be Around Me (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/1sAJUJmcOsNInG1ieWfke5"
+    },
+    {
+      "album": {
+        "name": "Be True",
+        "url": "https://open.spotify.com/album/15qq3uWojrFYlz3RodxtWe"
+      },
+      "artists": [
+        {
+          "name": "Can't Believe",
+          "url": "https://open.spotify.com/artist/03xyetxV8txzRQTFtba2RP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152176,
+      "name": "Be True",
+      "url": "https://open.spotify.com/track/2ekkGkgmARQ7HfN9ZZlPKS"
     },
     {
       "album": {
@@ -3660,6 +3714,24 @@
       "duration_ms": 162575,
       "name": "Bugs",
       "url": "https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j"
+    },
+    {
+      "album": {
+        "name": "Bullet Train",
+        "url": "https://open.spotify.com/album/7umIYcyuYv5UWhgRbiZrAu"
+      },
+      "artists": [
+        {
+          "name": "Serena Sun",
+          "url": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Bullet Train",
+      "url": "https://open.spotify.com/track/02SSkOjwdt9ofPmA12SQX4"
     },
     {
       "album": {
@@ -5134,7 +5206,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 256146,
       "name": "Comment se perdre",
       "url": "https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi"
@@ -5339,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Coupe Deville",
+        "url": "https://open.spotify.com/album/5qJPfDfdQRdZddSQmTdMPD"
+      },
+      "artists": [
+        {
+          "name": "Ben Key",
+          "url": "https://open.spotify.com/artist/6ahbzis67kc7w27o9K0lia"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Coupe Deville",
+      "url": "https://open.spotify.com/track/5z6U78oEM7vyyCjX2zk2pX"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1"
       },
@@ -5494,7 +5584,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147328,
       "name": "Cruel Lover",
       "url": "https://open.spotify.com/track/3Mh7mMOetadl22rdUBVbMQ"
@@ -7275,6 +7365,24 @@
     },
     {
       "album": {
+        "name": "Ego Collecting",
+        "url": "https://open.spotify.com/album/2K9VTCnvq8t2yuOhahw9JB"
+      },
+      "artists": [
+        {
+          "name": "Bianca Espino",
+          "url": "https://open.spotify.com/artist/0GzVS90Z6euyKrgeupAFZb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184020,
+      "name": "Ego Collecting",
+      "url": "https://open.spotify.com/track/2NAXrQEV8Ri1E15CPX9lup"
+    },
+    {
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd"
       },
@@ -7492,7 +7600,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 173374,
       "name": "Endors toi",
       "url": "https://open.spotify.com/track/6WrJ29z9yQF99ojbiEK527"
@@ -10174,6 +10282,24 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222324,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
     },
     {
       "album": {
@@ -14724,7 +14850,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 172653,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/60GNdWni2cVGAoNf5XhguE"
@@ -19306,7 +19432,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 238053,
       "name": "Potential",
       "url": "https://open.spotify.com/track/32EXAI9Gsc7SmB8KWDhFCB"
@@ -20219,6 +20345,24 @@
     },
     {
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "album": {
         "name": "ROCKET",
         "url": "https://open.spotify.com/album/5YQN5EAhACAQGIqw1qoFvQ"
       },
@@ -20966,6 +21110,28 @@
       "duration_ms": 251269,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/7pJAND8bggxN2rEVYGpPfA"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
     },
     {
       "album": {
@@ -24090,7 +24256,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 209986,
       "name": "Sympathy Is A Knife",
       "url": "https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE"
@@ -25476,7 +25642,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 130000,
       "name": "tight sweater",
       "url": "https://open.spotify.com/track/4MaTA4mmya5RlN9jVqhjWW"
@@ -25498,7 +25664,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 179812,
       "name": "Time (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3"
@@ -27458,7 +27624,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175500,
       "name": "WHERE R U NOW",
       "url": "https://open.spotify.com/track/5KxREN7BG3J4CZs5rQ7zSe"
@@ -27878,6 +28044,24 @@
       "duration_ms": 138586,
       "name": "Year From Now",
       "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
+    },
+    {
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "album": {

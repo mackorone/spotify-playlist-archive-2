@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Honey Dijon",
+  "description": "Electronic + Dance making waves, every month. Cover: Francis Mercier",
   "name": "Electronic + Dance Frequency",
   "tracks": [
     {
@@ -246,6 +246,24 @@
       "duration_ms": 268866,
       "name": "Acid in My Blood",
       "url": "https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX"
+    },
+    {
+      "album": {
+        "name": "Aerobics",
+        "url": "https://open.spotify.com/album/657COGSrYFw3gs3IULfQN7"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "Aerobics",
+      "url": "https://open.spotify.com/track/2EFlMGvleP3hvFjmHIGtPv"
     },
     {
       "album": {
@@ -560,7 +578,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 166618,
       "name": "Arc de Triomphe",
       "url": "https://open.spotify.com/track/5THdCNXFd7JK1ayDYYvzwB"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 207227,
       "name": "Baby, Hold Me",
       "url": "https://open.spotify.com/track/0ZlMTuJc2jA9zRtdwag6L7"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 189579,
       "name": "ce soir",
       "url": "https://open.spotify.com/track/4Rr8hUoYiWkxfZFjFsJGOG"
@@ -1888,6 +1906,24 @@
       "duration_ms": 196880,
       "name": "Clumsy Dancer",
       "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
+    },
+    {
+      "album": {
+        "name": "Cobra Seed",
+        "url": "https://open.spotify.com/album/5uJQlTDrWINU16WDYsYA8V"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299565,
+      "name": "Cobra Seed",
+      "url": "https://open.spotify.com/track/6qdBn76GRBRODFuj4wJNDc"
     },
     {
       "album": {
@@ -2916,6 +2952,28 @@
       "duration_ms": 226287,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2PDL2Spw1sTNICL9I5kM8W"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
     },
     {
       "album": {
@@ -4654,7 +4712,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 306147,
       "name": "Insurrection",
       "url": "https://open.spotify.com/track/4yTfcBSlx5rGVnTaH7yqL7"
@@ -5250,7 +5308,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 407016,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/1FJT6LRet6JyWbTEBVaBxC"
@@ -6495,6 +6553,28 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181476,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j"
+    },
+    {
+      "album": {
         "name": "New Balance (Remix)",
         "url": "https://open.spotify.com/album/5PZ6LzdCYLNG1xJjqrPN6W"
       },
@@ -7042,6 +7122,24 @@
       "duration_ms": 146250,
       "name": "NRG",
       "url": "https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8"
+    },
+    {
+      "album": {
+        "name": "Nu Classic",
+        "url": "https://open.spotify.com/album/7o42gpCfoabWWQPLzCbfi7"
+      },
+      "artists": [
+        {
+          "name": "Mason Maynard",
+          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Nu Classic",
+      "url": "https://open.spotify.com/track/2xivbBFMePJO6aDZUVH7U7"
     },
     {
       "album": {
@@ -10517,6 +10615,32 @@
     },
     {
       "album": {
+        "name": "Unjust",
+        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Madmix",
+          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Unjust",
+      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
+    },
+    {
+      "album": {
         "name": "Unknown Party (UnknownVibes)",
         "url": "https://open.spotify.com/album/1msgtXkVkBmp54hJTXmQ4c"
       },
@@ -11292,7 +11416,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 249230,
       "name": "WHY2K!",
       "url": "https://open.spotify.com/track/6sDkXocfHCttx18PVQmOVV"

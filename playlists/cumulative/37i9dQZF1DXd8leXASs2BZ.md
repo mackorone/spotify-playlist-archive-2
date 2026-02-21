@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
-1,316 songs - 2 day 12 hr 39 min
+1,317 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [LAVISH](https://open.spotify.com/track/3YIv2ViUmpYMcX69PcDjnf) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [LAVISH](https://open.spotify.com/album/6JuUurrzliIN0lmwV5jTDP) | 2:25 | 2026-01-27 |  |
 | [LEAD](https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/12eiDX769GffsCljewZy7i) | 3:52 | 2023-12-19 | 2024-02-09 |
 | [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2023-12-19 | 2023-12-21 |
+| [LET GO ALL SHORE LINES](https://open.spotify.com/track/1kDQ74FsMp4mlw00SNV9r3) | [冬を待つ人](https://open.spotify.com/artist/5XMmkiEQYE1dzJMDUlLaTq) | [LET GO ALL SHORE LINES](https://open.spotify.com/album/0qK2IVvtruBe5SGAIIxbcr) | 3:56 | 2026-02-17 |  |
 | [Let Me Know](https://open.spotify.com/track/6R4rXF5OqEF2K8XvWspWvN) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [64DX](https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F) | [Let Me Know](https://open.spotify.com/album/1GNnIwrXrZGzwwkTK0ZKJW) | 2:55 | 2025-07-08 | 2025-08-20 |
 | [Let Me Know](https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Windiw](https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN) | 3:57 | 2024-12-03 | 2025-04-02 |
 | [LET ME SEE](https://open.spotify.com/track/0jXfA51fa8JfcMDuC2Jv5Z) | [Hanemii](https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [LET ME SEE](https://open.spotify.com/album/2f2bkEmhshdYEdB0ZD4Dg9) | 2:24 | 2025-07-15 | 2025-10-15 |

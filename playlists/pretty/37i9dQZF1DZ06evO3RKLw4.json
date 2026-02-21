@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50134,
+  "num_followers": 50136,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAACPqO8s45KE90yqQuvrJuCS",
+  "snapshot_id": "aZZSgAAAAACfBCd/MnSWqC53Lca43htz",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 173103,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
+      "duration_ms": 121029,
+      "name": "Side Kick",
+      "url": "https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 121029,
-      "name": "Side Kick",
-      "url": "https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh"
+      "duration_ms": 173103,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
     },
     {
       "added_at": null,

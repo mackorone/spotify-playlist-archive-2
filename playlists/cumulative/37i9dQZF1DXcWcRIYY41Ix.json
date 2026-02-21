@@ -1383,8 +1383,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Anfibia Por Veces",
+        "url": "https://open.spotify.com/album/66W6vjIToX8YxcoGVjghH1"
       },
       "artists": [
         {
@@ -12761,13 +12761,17 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Zulviem",
+        "url": "https://open.spotify.com/album/5za4ffJn56PYbS0gkpKi9t"
       },
       "artists": [
         {
           "name": "Andr\u00e9s Iwasaki",
           "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
+        },
+        {
+          "name": "Nia Zal\u00e9n",
+          "url": "https://open.spotify.com/artist/5FrRFYsPkw2FeQBKt0QLRd"
         }
       ],
       "date_added": "2026-02-19",

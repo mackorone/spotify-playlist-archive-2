@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lucid Express
 
-1,621 songs - 3 day 19 hr 44 min
+1,623 songs - 3 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 | 2023-05-25 | 2023-07-14 |
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 | 2024-11-08 | 2025-02-14 |
+| [I’m Telling You](https://open.spotify.com/track/3p62W5L3VVaPQ1zr2mbV5i) | [TELLER](https://open.spotify.com/artist/23mpKE76RtF9bmcz18m88D) | [I’m Telling You](https://open.spotify.com/album/42MWTShhyXvCf2IGNZKml2) | 3:04 | 2026-02-20 |  |
 | [Jaja](https://open.spotify.com/track/6HNkF6IVPPJXWmABsJxFyN) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Jaja](https://open.spotify.com/album/5vzMIA3cZTuPRiGd4w2rBs) | 4:13 | 2024-02-01 | 2024-05-10 |
 | [Jenny Rotten](https://open.spotify.com/track/00AGeVYIlkmDlxCDmumKRd) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Jenny Rotten](https://open.spotify.com/album/3fW5VvLESyPQzM9zSpAIPJ) | 6:46 | 2025-11-20 |  |
 | [Jingle Bop](https://open.spotify.com/track/1gGmwi5ZgsPEBJHTjiFBoL) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Jingle Bop](https://open.spotify.com/album/5UgYyVKZ040MXyUjLgQRVi) | 2:57 | 2025-12-11 |  |
@@ -788,6 +789,7 @@
 | [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 |  |
 | [room 6: THATS ON ME](https://open.spotify.com/track/08iVPCDvHIKlO5DjEfMaMb) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 6: THATS ON ME](https://open.spotify.com/album/1MoTsJ97BqN1ZigfLCxayG) | 2:35 | 2025-11-20 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2023-12-28 | 2024-05-10 |
+| [ROSE PERFUME](https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh) | [blam](https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4) | [ROSE PERFUME](https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh) | 3:00 | 2026-02-19 |  |
 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 | 2022-12-29 | 2023-05-26 |
 | [Rules](https://open.spotify.com/track/2emPIwDnKVX0WSKfwacbnM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Gemini Moon](https://open.spotify.com/album/4MmfPccObteJ4bAhnMtcA6) | 2:46 | 2023-05-25 | 2023-09-01 |
 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 | 2023-04-13 | 2023-07-14 |

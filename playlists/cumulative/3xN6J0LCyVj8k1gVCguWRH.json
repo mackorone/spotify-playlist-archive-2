@@ -34485,6 +34485,24 @@
     },
     {
       "album": {
+        "name": "Fresona",
+        "url": "https://open.spotify.com/album/3n2d0psgSXqhTh3H19ydwy"
+      },
+      "artists": [
+        {
+          "name": "Diego Mena",
+          "url": "https://open.spotify.com/artist/7JFlYuJR5m95XZ1dw4tgZh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "Fresona",
+      "url": "https://open.spotify.com/track/7ELXdoe8TPnc1rTJ8J2B9T"
+    },
+    {
+      "album": {
         "name": "The Ryan Stotland Experiment",
         "url": "https://open.spotify.com/album/1G82eqC1DNHGGoJTQMTqaN"
       },
@@ -57703,6 +57721,24 @@
     },
     {
       "album": {
+        "name": "Scared Of Growing Old Alone",
+        "url": "https://open.spotify.com/album/7JVfxJqbr3nhVTN3LoIoQP"
+      },
+      "artists": [
+        {
+          "name": "Selah Stone",
+          "url": "https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187078,
+      "name": "Low Battery Life",
+      "url": "https://open.spotify.com/track/3t8cVfVHxFutlSJcCkEk6W"
+    },
+    {
+      "album": {
         "name": "LTWYLM",
         "url": "https://open.spotify.com/album/1FyweOrZCXoEc8xQMHjW1h"
       },
@@ -62246,7 +62282,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 226811,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/7y0VrLXQfd0Tu6LscZYN5u"
@@ -69164,7 +69200,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 230400,
       "name": "One Night",
       "url": "https://open.spotify.com/track/7GGdTY1HZMyQ5pyJ2Q7uyW"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2903,
+  "num_followers": 2904,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAABp1Q1HqRk+3B4AyuBD9V3D",
+  "snapshot_id": "aZZSgAAAAACdkhp6W9BVBxuvNYob+2gC",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Rio",
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        },
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/4sv48LPlHQFdxfvwfxwcaq"
         }
       ],
-      "duration_ms": 223371,
-      "name": "Amores Que Acaban",
-      "url": "https://open.spotify.com/track/3kt4Z68Z4IJzGRFh4h8C9z"
+      "duration_ms": 256721,
+      "name": "Historias",
+      "url": "https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i"
     },
     {
       "added_at": null,
@@ -410,11 +406,15 @@
         {
           "name": "Rio",
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        },
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/4sv48LPlHQFdxfvwfxwcaq"
         }
       ],
-      "duration_ms": 256721,
-      "name": "Historias",
-      "url": "https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i"
+      "duration_ms": 223371,
+      "name": "Amores Que Acaban",
+      "url": "https://open.spotify.com/track/3kt4Z68Z4IJzGRFh4h8C9z"
     },
     {
       "added_at": null,

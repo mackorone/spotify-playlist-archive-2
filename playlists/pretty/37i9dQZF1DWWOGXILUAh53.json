@@ -1,13 +1,241 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Dua Lipa x Danny L Harle",
-  "num_followers": 381537,
+  "description": "The hottest new pop with all the drops. Cover: Bebe Rexha",
+  "num_followers": 382438,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwgVgBJbEXhs7h+PnI3U4JxqNEM",
+  "snapshot_id": "AAAAAKQoJUqUUbXCUny5vyJQlls5ICR6",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "\u00c7ike \u00c7ike",
+        "url": "https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 139379,
+      "name": "\u00c7ike \u00c7ike",
+      "url": "https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Opalite (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "Opalite - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "only the best",
+        "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 202525,
+      "name": "only the best",
+      "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "i (still), sabotage",
+        "url": "https://open.spotify.com/album/24RxT2DdykG1JMCMmg3O7i"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "duration_ms": 243517,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/0NXwndCm4AUpMyvgr5LRzT"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/6eE9z8gsSfs1GGRVU18hH4"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/6FuZnxyt5eEzGdVQEeLtAC"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "you want my time",
+        "url": "https://open.spotify.com/album/5BCOt8OVLp5Q1qV4hOuMLw"
+      },
+      "artists": [
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 149944,
+      "name": "you want my time",
+      "url": "https://open.spotify.com/track/4iSylvTAU1xHhT7fhLa6Lf"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/3mHDu2a1vXj5MxenG0rL0O"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/7u8NZWQCATJSAKLMAPyEEw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Yellow Butterflies",
+        "url": "https://open.spotify.com/album/3oh0SSD3nkmuZDGX1BbBpn"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 200068,
+      "name": "Now The Love Is Gone",
+      "url": "https://open.spotify.com/track/1GGIctdSZVQ8fPSMZRFSGr"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Flames (feat. Bandit)",
+        "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        }
+      ],
+      "duration_ms": 179746,
+      "name": "Flames (feat. Bandit)",
+      "url": "https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo"
+    },
+    {
+      "added_at": "2026-02-20 05:00:40",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/4GyU76vqFDKIp0W5NLxLCD"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/271ULNv5UWxmOMOVgyHNZy"
+    },
     {
       "added_at": "2026-02-13 05:00:47",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/amberruffin/">Amber Ruffin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,622 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,627 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain]
 | 27 | [UP!](https://open.spotify.com/track/48zmVAYyyhoWfTDe5pGynC) | [LoveRance](https://open.spotify.com/artist/1rBxtaN521NYi8Z35G7fUn), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [UP!](https://open.spotify.com/album/4I8VoaNOYQn92D8ejMPGlw) | 3:51 |
 | 28 | [Nice For What](https://open.spotify.com/track/38hSjSZecuHFsOHaffA2Pm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:30 |
 | 29 | [Lemon](https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:39 |
-| 30 | [Clique](https://open.spotify.com/track/65rRB2mspD309xE6YimZTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:53 |
+| 30 | [Clique](https://open.spotify.com/track/65rRB2mspD309xE6YimZTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:53 |
 | 31 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 |
 | 32 | [Ms\. New Booty \- Radio Edit](https://open.spotify.com/track/3d6Nhq3rkdZUbgPQ7ekrCp) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Mr\. Collipark](https://open.spotify.com/artist/3EtuDyQhDQYISGg1DU5qZj), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [The Charm](https://open.spotify.com/album/6iXAna8XVJGvPsNKccMyDb) | 4:40 |
 | 33 | [Blow the Whistle](https://open.spotify.com/track/2RPl2HMZE0ycVf1UdlpUkA) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/59Q7SeraLIx3HjlAjMUIuj) | 2:43 |

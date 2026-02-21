@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,655,786 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,655,884 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 4 | [Energized](https://open.spotify.com/track/1m7Gk4hC61hp5KKSC8XsId) | [Roger Lavelle](https://open.spotify.com/artist/3ZHqvLocrTfSbtm9DDJnqT) | [Energized](https://open.spotify.com/album/03SDaT7IUHroMsCoPA7m9Y) | 3:48 |
 | 5 | [Nox](https://open.spotify.com/track/5PZ7J6gQ45Qwe5yI6RlP7l) | [Paula van Klar](https://open.spotify.com/artist/6v3Yy6vkCyGfwk0teqsymt), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Nox](https://open.spotify.com/album/5pDDmI55p4KaSxt1zkFWNp) | 2:58 |
 | 6 | [Your Mind \- HNTR Remix](https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Your Mind \(HNTR Remix\)](https://open.spotify.com/album/02YQrPMD5VcaisSzijQyuD) | 3:41 |
-| 7 | [Track 1](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Lose Control](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3), [HYBRD](https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC) | [Lose Control](https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW) | 3:11 |
 | 8 | [People Are Strange](https://open.spotify.com/track/1JZTOdIWnFFeAcJf0k7nYL) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [People Are Strange](https://open.spotify.com/album/3FGoyELhn8ohJIfcviVxXe) | 3:38 |
 | 9 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
 | 10 | [Cathedral](https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA) | [Bouras](https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2), [ATLANTE \(FR\)](https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ) | [Cathedral](https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H) | 4:11 |

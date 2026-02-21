@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 176184,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH"
@@ -7533,6 +7533,32 @@
     },
     {
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Nazare",
+      "url": "https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i"
+    },
+    {
+      "album": {
         "name": "Moose Print",
         "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
       },
@@ -8880,7 +8906,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 177286,
       "name": "Punjaban",
       "url": "https://open.spotify.com/track/1IP2G9KlWwT9xw1OlGf6Pd"
@@ -10734,6 +10760,32 @@
       "duration_ms": 192000,
       "name": "Tareefan",
       "url": "https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp"
+    },
+    {
+      "album": {
+        "name": "Tareefan",
+        "url": "https://open.spotify.com/album/74oS2paom8uC3L2f52QkXE"
+      },
+      "artists": [
+        {
+          "name": "Sonu Thukral",
+          "url": "https://open.spotify.com/artist/5Q4Af84pG81cjHE4wrW0Pw"
+        },
+        {
+          "name": "Fukra Insaan",
+          "url": "https://open.spotify.com/artist/5lnhW14tZrH3kUMI4kvVy5"
+        },
+        {
+          "name": "Kanika Mann",
+          "url": "https://open.spotify.com/artist/3l3H1qGX9kqVNpUibDAiUG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Tareefan",
+      "url": "https://open.spotify.com/track/6aGlfyjkoSg2EhOryH1ho4"
     },
     {
       "album": {

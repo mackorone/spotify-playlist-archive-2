@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/7plXjLT8cUTfVOb9RowaKn"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/4vNPEUTDUuHx35aiLl2dEP"
+    },
+    {
+      "album": {
         "name": "Dance Tapes",
         "url": "https://open.spotify.com/album/5eihDqjS3Cslmx4pqy4c41"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 121301,
       "name": "Can you feel it?",
       "url": "https://open.spotify.com/track/7bCN7bgCd8opEmNvg7ILxi"
@@ -1592,6 +1610,28 @@
       "duration_ms": 181116,
       "name": "Cheddar",
       "url": "https://open.spotify.com/track/0McVW4rubFvfBLzRWhXpBH"
+    },
+    {
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/4s6vd6pnbvnrqv8080N76U"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Disaster Music",
+          "url": "https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3TDytTZlC10HuaIRxRT2OR"
     },
     {
       "album": {
@@ -3343,8 +3383,34 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "album": {
+        "name": "My Ego Told Me To",
+        "url": "https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2"
       },
       "artists": [
         {
@@ -4990,7 +5056,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184560,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"

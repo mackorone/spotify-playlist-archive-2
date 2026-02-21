@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,284 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,299 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 | 25 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 | 26 | [Ten Crack Commandments \- 2005 Remaster](https://open.spotify.com/track/1PASEh9KeFxfYQ5kg8x9TD) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/6gW08XWRBd2Wnszyo5ZI6l) | 3:24 |
 | 27 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
-| 28 | [Public Service Announcement \(Interlude\)](https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 2:53 |
-| 29 | [Renegade](https://open.spotify.com/track/1eAZcqDmiUE57YdeElYbMd) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:37 |
-| 30 | [Where I'm From](https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:26 |
+| 28 | [Public Service Announcement \(Interlude\)](https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 2:53 |
+| 29 | [Renegade](https://open.spotify.com/track/1eAZcqDmiUE57YdeElYbMd) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:37 |
+| 30 | [Where I'm From](https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:26 |
 | 31 | [My Philosophy \- Extended Version](https://open.spotify.com/track/22K3d7Uw1FyKNr93cRhIzU) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 6:40 |
 | 32 | [Lyrics to Go](https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 4:09 |
 | 33 | [Scenario \(feat\. Busta Rhymes, Dinco D & Charlie Brown\) \- Remix](https://open.spotify.com/track/571cey0PK2l5yhvkkEETxr) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dinco D](https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa), [Charlie Brown](https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk) | [Scenario \(Remixes\)](https://open.spotify.com/album/1h8IWrGNp0dntBvnG6rV9Z) | 5:17 |

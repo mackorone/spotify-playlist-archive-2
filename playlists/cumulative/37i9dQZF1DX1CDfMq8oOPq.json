@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "CHAPA QUENTE",
+        "url": "https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128932,
+      "name": "CHAPA QUENTE",
+      "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
+    },
+    {
+      "album": {
         "name": "Chapolin",
         "url": "https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA"
       },
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 148000,
       "name": "Gin de Bandida \u00e9 Pink",
       "url": "https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b"

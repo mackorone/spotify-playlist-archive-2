@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Jalen Brunson and Cade Cunningham\n",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Cade Cunningham",
   "name": "Locked In",
   "tracks": [
     {
@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
+      "album": {
         "name": "CALCULATE",
         "url": "https://open.spotify.com/album/1SdTLhDms64iH36OrSXW1e"
       },
@@ -3282,6 +3300,24 @@
       "duration_ms": 192184,
       "name": "Checkmate (Smooth)",
       "url": "https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi"
+    },
+    {
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292359,
+      "name": "Circus Circus Free$tyle",
+      "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
     },
     {
       "album": {
@@ -9028,7 +9064,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 164746,
       "name": "KOBE & SHAQ (feat. Co Cash)",
       "url": "https://open.spotify.com/track/71sbRkNNACDmzdl4G3dfuZ"

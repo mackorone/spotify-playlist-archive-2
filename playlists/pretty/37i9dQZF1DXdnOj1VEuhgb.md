@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,407 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,653 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yeraltı](https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeraltı](https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD) | 2:49 |
-| 2 | [Halef Selef](https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [](https://open.spotify.com/album/null) | 1:56 |
+| 2 | [Halef Selef](https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:56 |
 | 3 | [NABER](https://open.spotify.com/track/5ZkbGBYumNp0NL77RMzgBj) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [THE SNOW](https://open.spotify.com/album/45EhpTa3NAQIUdeHnEhhye) | 1:58 |
 | 4 | [RaP bUDuR bEyLeR](https://open.spotify.com/track/5Z1dTR1rSkqHMB6aHT9BRJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [RaP bUDuR bEyLeR](https://open.spotify.com/album/7FKesbpSrkQy3rgQ5u8GnQ) | 2:24 |
 | 5 | [BEN ÜNLÜYÜM](https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BEN ÜNLÜYÜM](https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF) | 1:51 |
 | 6 | [Gözbebeğim](https://open.spotify.com/track/0vAZSi1UqK6rdMYIItH9iv) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Gözbebeğim](https://open.spotify.com/album/0bBtT4UPEF2cLtwo8TRCnk) | 2:22 |
 | 7 | [Sana Rağmen](https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Sana Rağmen](https://open.spotify.com/album/1SG3xUjCDn7gndNJsIvIbv) | 3:30 |
-| 8 | [AKTIV II](https://open.spotify.com/track/0wtiwUuHTOonphD15w39an) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Reder](https://open.spotify.com/artist/1FgZxH6ZBRxrWjd0SriKY3) | [AKTIV II](https://open.spotify.com/album/3CGt2iYFmQlIGGiK5DGbmS) | 3:01 |
+| 8 | [AKTIV II](https://open.spotify.com/track/0wtiwUuHTOonphD15w39an) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Reder](https://open.spotify.com/artist/4rdvHU6ccREPfA1aS66pdg) | [AKTIV II](https://open.spotify.com/album/3CGt2iYFmQlIGGiK5DGbmS) | 3:01 |
 | 9 | [Bırak İnadını](https://open.spotify.com/track/5g9FoTmNCpdXOM82o4T90h) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [Bırak İnadını](https://open.spotify.com/album/5BECP4vLdzDAj6r7rjoPuX) | 2:24 |
 | 10 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 |
 | 11 | [hay Allah](https://open.spotify.com/track/5N5xKiCLYvurSkuH7tPrZA) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [hay Allah](https://open.spotify.com/album/0Sgw3n63yrsGNb0Wa0T7hc) | 2:08 |

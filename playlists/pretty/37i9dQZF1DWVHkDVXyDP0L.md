@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Romanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,503 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,512 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Am I There](https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [](https://open.spotify.com/album/null) | 3:05 |
+| 1 | [Am I There](https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:05 |
 | 2 | [Falling](https://open.spotify.com/track/48PJkpxmhL9VDki7rnMpgt) | [Romanie](https://open.spotify.com/artist/3hHGY5nAdKoijU3IYpW5y5) | [It's Not That Funny](https://open.spotify.com/album/38VF6NzR61Vnwai9ShInMr) | 2:45 |
 | 3 | [Eat Me Alive](https://open.spotify.com/track/5wiBlYSPdv5QR10IeKSPYp) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Eat Me Alive](https://open.spotify.com/album/3bA5CDhzT8XJQtyWM9CMoM) | 4:00 |
 | 4 | [Foxtrap](https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Foxtrap](https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2) | 3:04 |

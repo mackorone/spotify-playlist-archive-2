@@ -8541,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "Fine Shit",
+        "url": "https://open.spotify.com/album/23Pi9YY0Sp9SKS3ACJmzQw"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113700,
+      "name": "Fine Shit",
+      "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
+    },
+    {
+      "album": {
         "name": "2 Slippery",
         "url": "https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk"
       },

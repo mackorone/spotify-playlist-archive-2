@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: herbst
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,318 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,500 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tut mir nicht leid](https://open.spotify.com/track/09xobCb1XP0zy52Gwifir9) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Tut mir nicht leid](https://open.spotify.com/album/0zyn6kUMgSoKCVIKreIsw0) | 4:02 |
-| 2 | [Track 11](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Song 11 ft Provinz](https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [listen carefully](https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD) | 2:46 |
 | 3 | [Liebeslied](https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Liebeslied](https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL) | 3:07 |
 | 4 | [ich geh heut nicht unter leute](https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [ich geh heut nicht unter leute](https://open.spotify.com/album/5rL4J0Nep5EObOA3DipZRQ) | 2:23 |
 | 5 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 12 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 13 | [Klapprad](https://open.spotify.com/track/7JVnFtZma0otI1aXPLxXiD) | [Udo West](https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q) | [Klapprad](https://open.spotify.com/album/6ffyP01Ey3HPsiAtdoUOMR) | 2:21 |
 | 14 | [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 |
-| 15 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [](https://open.spotify.com/album/null) | 2:18 |
+| 15 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 |
 | 16 | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/album/2GjplfLq8EecTxuHL1Gdid) | 3:18 |
 | 17 | [Unterkühlt](https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Unterkühlt](https://open.spotify.com/album/2SRMlV78U0VlABSr4mGv7n) | 2:22 |
 | 18 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |

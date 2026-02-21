@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-562 songs - 1 day 9 hr 33 min
+563 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Le simple](https://open.spotify.com/track/2Oj0aR9EomWBKMHSXBux77) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Perceptions](https://open.spotify.com/album/5pAGp5FtQCEqqC8uLXoo56) | 2:34 | 2021-03-15 | 2021-05-07 |
 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 | 2021-05-08 | 2021-09-25 |
 | [Le temps que tu reviennes](https://open.spotify.com/track/3k13v4PvFzIy1EyEYNycUr) | [Louis Delort](https://open.spotify.com/artist/7fcA3cM0NEyWAoXYzyYKW7) | [Stockholm](https://open.spotify.com/album/0fdOiB5OX9vamq8PeI79zf) | 3:06 | 2021-02-22 | 2021-05-04 |
+| [Le temps qui passe](https://open.spotify.com/track/03n6p8Wac7MUi7tlHEPNyq) | [Hubert Proulx](https://open.spotify.com/artist/36hH4nqtR9vm6m0HgyeZ2O) | [Le temps qui passe](https://open.spotify.com/album/56ulJfotRuqXCnXm9MXoNj) | 4:00 | 2026-02-20 |  |
 | [Le Tour](https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 3:20 | 2022-10-14 | 2024-04-19 |
 | [Le Tour](https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 3:20 | 2021-09-20 | 2022-10-13 |
 | [Le triomphe d'une perruche](https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Travelling](https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA) | 3:47 | 2021-01-03\* | 2023-11-11 |
@@ -473,7 +474,7 @@
 | [Stains](https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Stains](https://open.spotify.com/album/5g7kYBupmobmzu8J7ExUjR) | 3:56 | 2022-03-25 | 2023-01-17 |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2025-02-17 |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-01-21 |  |
-| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 |  |
+| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 | 2026-02-21 |
 | [Sycomore](https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Bras solaires](https://open.spotify.com/album/1TXUlko1ECf7npkQfsgZCo) | 2:37 | 2025-11-14 | 2025-12-20 |
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |

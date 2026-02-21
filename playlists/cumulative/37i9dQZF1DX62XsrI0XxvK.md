@@ -2,7 +2,7 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: TADI, Isyana Sarasvati, MAKO., REDROSE
+> Irama R&B tanah air yang merasuk jiwa\. Cover: TADI, Isyana Sarasvati, MAKO.
 
 216 songs - 12 hr 51 min
 

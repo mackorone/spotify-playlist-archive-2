@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: Tiana Major9
 
-583 songs - 1 day 7 hr 5 min
+584 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [All In](https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [All In](https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK) | 2:46 | 2025-07-24 | 2026-02-20 |
 | [All In Again](https://open.spotify.com/track/3onrZuNE1XLM7YnTPL5BtW) | [Duchess](https://open.spotify.com/artist/6s0EQIA8heD6JVi8jNW207) | [All In Again](https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6) | 3:51 | 2023-05-14 | 2023-09-23 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-24 | 2024-06-01 |
-| [All That and More \(with Maverick Sabre\)](https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [All That and More \(with Maverick Sabre\)](https://open.spotify.com/album/32xmrLOID1vBsLNtcmIaOB) | 3:16 | 2025-08-21 |  |
+| [All That and More \(with Maverick Sabre\)](https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [All That and More \(with Maverick Sabre\)](https://open.spotify.com/album/32xmrLOID1vBsLNtcmIaOB) | 3:16 | 2025-08-21 | 2026-02-21 |
 | [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 | 2024-11-15 | 2025-06-20 |
 | [Already Yours](https://open.spotify.com/track/6CNzC5wJNXDPumzQp13BYa) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Already Yours](https://open.spotify.com/album/3c1dHRVoVtPBAPIv2h282h) | 3:11 | 2023-02-23 | 2023-10-28 |
 | [Alright](https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Alright](https://open.spotify.com/album/42sV9yX0hOAGickkrH77WS) | 2:24 | 2025-10-16 | 2025-12-12 |
@@ -305,6 +305,7 @@
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2024-06-14 | 2024-10-04 |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-02 | 2023-07-22 |
 | [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-05-14 | 2023-07-22 |
+| [Lost in Time](https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC) | [KADEEM.](https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj), [Lila Ikè](https://open.spotify.com/artist/4hGprQ5XEyvu5J8yqzj5ef) | [Highs + Lows](https://open.spotify.com/album/5npoDB704U42Vvepcogk7c) | 3:41 | 2026-02-20 |  |
 | [Lost In You](https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [DB](https://open.spotify.com/album/1qDR2PRt1HHWWHDrLW4r1j) | 4:00 | 2025-08-28 |  |
 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 | 2024-09-26 | 2025-05-02 |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2023-02-23 | 2023-05-15 |

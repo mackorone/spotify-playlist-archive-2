@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 243854,
+  "num_followers": 243897,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1027,6 +1027,38 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Carnival Contract",
+        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Carnival Contract",
+      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
       },
@@ -1051,38 +1083,6 @@
       "duration_ms": 164409,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Carnival Contract",
-        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Carnival Contract",
-      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
@@ -1239,26 +1223,18 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Kool Under Fire",
-        "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
       },
       "artists": [
         {
-          "name": "Krosfyah",
-          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
-        },
-        {
-          "name": "Edwin Yearwood",
-          "url": "https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe"
-        },
-        {
-          "name": "Khiomal Nurse",
-          "url": "https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Sak Pas\u00e9",
-      "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1279,6 +1255,30 @@
       "duration_ms": 180272,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Kool Under Fire",
+        "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
+      },
+      "artists": [
+        {
+          "name": "Krosfyah",
+          "url": "https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA"
+        },
+        {
+          "name": "Edwin Yearwood",
+          "url": "https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe"
+        },
+        {
+          "name": "Khiomal Nurse",
+          "url": "https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Sak Pas\u00e9",
+      "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Spoil You",
-        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
-      },
-      "artists": [
-        {
-          "name": "Shemmy J",
-          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
-        }
-      ],
-      "duration_ms": 188842,
-      "name": "Spoil You",
-      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
       },
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Spoil You",
+        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
+      },
+      "artists": [
+        {
+          "name": "Shemmy J",
+          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "Spoil You",
+      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -1719,22 +1719,6 @@
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Position",
-        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1755,18 +1739,46 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
+        "name": "Position",
+        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
+      "duration_ms": 166588,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Down Dey (Refix)",
+        "url": "https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        },
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Parry Jack",
+          "url": "https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA"
+        },
+        {
+          "name": "All Star Brass",
+          "url": "https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Down Dey - Refix",
+      "url": "https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1"
     }
   ],
   "unique_name": "Massive Soca Hits",

@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "MYTH",
+        "url": "https://open.spotify.com/album/1ZQSNmIoHHBDqU5Nb9I0sN"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87893,
+      "name": "MYTH",
+      "url": "https://open.spotify.com/track/3l28Bwzdujv0CbhHoqDHe5"
+    },
+    {
+      "album": {
         "name": "Nagi / \u51ea",
         "url": "https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN"
       },
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 692300,
       "name": "\u30af\u30e9\u30e0\u30dc\u30f3\u306e\u7791\u60f3- Meditation of Clammbon",
       "url": "https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8"

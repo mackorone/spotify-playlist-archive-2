@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Carnaval por siempre",
+        "url": "https://open.spotify.com/album/5wH7ACkSAF8ter9eZ1Pqfu"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "Carnaval por siempre",
+      "url": "https://open.spotify.com/track/5Fv4ApX7YwNu6Z2tFf2MB4"
+    },
+    {
+      "album": {
         "name": "Mi Camino",
         "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
       },
@@ -2414,7 +2436,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 211285,
       "name": "Nada - REMIX",
       "url": "https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c"
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 224791,
       "name": "Qui\u00e9reme (Capaz de Tudo)",
       "url": "https://open.spotify.com/track/5iePevAtESGQehKoPgauq8"
@@ -3782,6 +3804,28 @@
       "duration_ms": 119484,
       "name": "Vuelve La Llama",
       "url": "https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX"
+    },
+    {
+      "album": {
+        "name": "Waca Waca",
+        "url": "https://open.spotify.com/album/1udzxWnpoeWN7mYHLnd6EE"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Juana",
+          "url": "https://open.spotify.com/artist/3rdPIEXGRnnlMvnZtzoQyp"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154923,
+      "name": "Waca Waca",
+      "url": "https://open.spotify.com/track/39jaSfAwgYFh33HXPAZNyn"
     },
     {
       "album": {

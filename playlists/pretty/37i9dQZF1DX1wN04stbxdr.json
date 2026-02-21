@@ -1,6 +1,6 @@
 {
   "description": "H\u00f8r \u00e5rets tolkninger her!",
-  "num_followers": 100602,
+  "num_followers": 100720,
   "original_name": "Hver gang vi m\u00f8tes 2026",
   "owner": {
     "name": "Spotify",
@@ -115,17 +115,25 @@
     {
       "added_at": "2026-02-19 23:00:45",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Hver gang vi m\u00f8tes 2026",
+        "url": "https://open.spotify.com/album/4JfR24AueUvkcKtMA9rj4w"
       },
       "artists": [
         {
           "name": "Espen Lind",
           "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 180855,
+      "name": "N\u00e5r dagen gryr",
       "url": "https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e"
     },
     {

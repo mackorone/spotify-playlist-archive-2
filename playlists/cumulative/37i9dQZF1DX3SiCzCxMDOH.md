@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,012 songs - 2 day 11 hr 15 min
+1,013 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Come Rain or Come Shine](https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Come Rain or Come Shine](https://open.spotify.com/album/1tFgyR4GBYlizU5mbU9hSN) | 3:45 | 2022-04-11 | 2023-01-06 |
 | [Con Alba](https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Moon Time](https://open.spotify.com/album/5us4c8ltJbJGlyhpHzXIG3) | 3:17 | 2022-04-11 | 2024-09-04 |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 | 2022-12-24 |
-| [Continues to play...](https://open.spotify.com/track/6WYEm8VzlFt5O1DHOBMNv1) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Continues to play...](https://open.spotify.com/album/5cCVkabyOb7X7QKgPy7Li8) | 3:20 | 2026-01-08 |  |
+| [Continues to play...](https://open.spotify.com/track/6WYEm8VzlFt5O1DHOBMNv1) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Continues to play...](https://open.spotify.com/album/5cCVkabyOb7X7QKgPy7Li8) | 3:20 | 2026-01-08 | 2026-02-21 |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 | 2024-11-26 |
 | [Corners of the Parlor](https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Corners of the Parlor](https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx) | 2:10 | 2022-11-24 | 2025-06-06 |
 | [Count Me In](https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [Count Me In](https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4) | 3:37 | 2024-06-17 | 2025-02-11 |
@@ -205,7 +205,7 @@
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 | 2024-07-16 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2022-04-11 | 2024-04-11 |
 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-04-11 | 2023-02-24 |
-| [Daydreaming](https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Daydreaming](https://open.spotify.com/album/5oN2Epvtk0HNsWlEqunZFD) | 2:46 | 2024-04-10 |  |
+| [Daydreaming](https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Daydreaming](https://open.spotify.com/album/5oN2Epvtk0HNsWlEqunZFD) | 2:46 | 2024-04-10 | 2026-02-21 |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 | 2024-02-09 |
 | [Days and Routes](https://open.spotify.com/track/53gKR7VesC3P6x0ggY6QGO) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Days and Routes](https://open.spotify.com/album/7xrpAUON5vsFWHisBdWT9U) | 2:35 | 2023-08-17 | 2023-08-25 |
 | [Dazzle my eyes](https://open.spotify.com/track/2X1KnKmWQKyf3Q8HwjnahW) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Dazzle my eyes](https://open.spotify.com/album/1fOSHz1VrhlPyk6IW5UVnn) | 3:25 | 2024-05-10 | 2025-06-06 |
@@ -592,7 +592,7 @@
 | [My Home](https://open.spotify.com/track/3KdDCxjdjKcGPkzWvRK6O4) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [My Home](https://open.spotify.com/album/0LOEMiRv333HtclEArNGjC) | 2:41 | 2023-05-25 | 2024-07-16 |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-04-11 | 2025-06-06 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-22 | 2023-10-06 |
-| [My Love](https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [My Love](https://open.spotify.com/album/6eEL5AuHX7UYB7594wNaVD) | 4:55 | 2025-07-23 |  |
+| [My Love](https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [My Love](https://open.spotify.com/album/6eEL5AuHX7UYB7594wNaVD) | 4:55 | 2025-07-23 | 2026-02-21 |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-04-11 | 2024-07-13 |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 | 2025-11-15 |
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 | 2024-11-26 |
@@ -655,6 +655,7 @@
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-02 | 2025-12-10 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 | 2025-11-15 |
 | [P.S\. I Love You](https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 4:05 | 2023-08-17 | 2024-04-03 |
+| [Paper Moon Reprise](https://open.spotify.com/track/5qz1yor1qnIuSCG21KQgTS) | [Night Current](https://open.spotify.com/artist/2UZE6F0C8uKiUUm6cz2pu5) | [Paper Moon Reprise](https://open.spotify.com/album/6lC4GQ649NJ4lewXFupuYZ) | 4:40 | 2026-02-20 |  |
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-10 |  |
 | [Passing Strangers](https://open.spotify.com/track/2cefd1nuqltLshwT1eVyWX) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [Passing Strangers](https://open.spotify.com/album/3K9hh07aun7cj8le4GSCXZ) | 3:28 | 2024-11-18 |  |
 | [Passing Time](https://open.spotify.com/track/0LbpnwkwjrMUWS2umxG4UB) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Passing Time](https://open.spotify.com/album/0kTe5gq2d4niVHPl5zOAjc) | 4:07 | 2024-11-25 | 2025-06-06 |
@@ -750,7 +751,7 @@
 | [Solemnly Promising](https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Solemnly Promising](https://open.spotify.com/album/208MoAQUMS1dIncuScpudd) | 3:35 | 2025-08-19 |  |
 | [Soliloquy](https://open.spotify.com/track/4ntvfWNUEZgH5jM4Ryd2q9) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Soliloquy](https://open.spotify.com/album/1lEZ02mZ6K8WOgqBifduRS) | 3:18 | 2025-03-18 |  |
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-04-27 | 2025-07-24 |
-| [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2022-04-11 |  |
+| [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2022-04-11 | 2026-02-21 |
 | [Solitude Symphony](https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Solitude Symphony](https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw) | 4:08 | 2024-10-01 | 2025-07-24 |
 | [Some Other Time](https://open.spotify.com/track/284ow3724GLZLY9g2ITnDn) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Some Other Time](https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu) | 4:23 | 2022-06-28 | 2025-02-04 |
 | [Someone](https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Someone](https://open.spotify.com/album/7EA2dwsFpmf7ly4y6HJPuh) | 3:56 | 2024-04-17 | 2026-01-17 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
   "description": "Romance a la antig\u00fcita con Daniel, Me Est\u00e1s Matando en portada.",
-  "name": "Boleros Pop",
+  "name": "nuevo bolero mexicano",
   "tracks": [
     {
       "album": {
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Boleros en Jap\u00f3n",
+        "url": "https://open.spotify.com/album/1nRRhAIkIYwJnKkYvidXZt"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185791,
+      "name": "Boleros en Jap\u00f3n",
+      "url": "https://open.spotify.com/track/7gD5wIAvbngekKZqvR3syb"
+    },
+    {
+      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1596,6 +1614,24 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "album": {
@@ -3066,7 +3102,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
@@ -3700,7 +3736,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 218192,
       "name": "Locos",
       "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
@@ -4685,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "No Te Vayas Todav\u00eda",
+        "url": "https://open.spotify.com/album/31kLnIQf2XWmZwZbFAQw1m"
+      },
+      "artists": [
+        {
+          "name": "Chesdana",
+          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189276,
+      "name": "No Te Vayas Todav\u00eda",
+      "url": "https://open.spotify.com/track/5YsFJQophOwbEIae7i1gtg"
+    },
+    {
+      "album": {
         "name": "L\u00edneas De Tiempo (Lado A)",
         "url": "https://open.spotify.com/album/73InhuRWkHcPkQKmlb2Ofz"
       },
@@ -4696,7 +4750,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175156,
       "name": "Noche de Agosto",
       "url": "https://open.spotify.com/track/6dbrBnMyAOSYrtsTox6dho"
@@ -4972,7 +5026,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
@@ -7724,6 +7778,32 @@
       "duration_ms": 162093,
       "name": "Y - En vivo",
       "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "album": {
+        "name": "ya llovi\u00f3",
+        "url": "https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT"
+      },
+      "artists": [
+        {
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        },
+        {
+          "name": "Frank Maza",
+          "url": "https://open.spotify.com/artist/5PSHGxg1VQAESRSvZBCbYD"
+        },
+        {
+          "name": "\u00c1ngel C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/49GDWEcr7vN0dPliciaA0c"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234570,
+      "name": "ya llovi\u00f3",
+      "url": "https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE"
     },
     {
       "album": {

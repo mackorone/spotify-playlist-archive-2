@@ -5891,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "CHAIN REACT",
+        "url": "https://open.spotify.com/album/26ZuHA8xJGt9vCjh6mBXL7"
+      },
+      "artists": [
+        {
+          "name": "DJ DISK",
+          "url": "https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270039,
+      "name": "CHAIN REACT",
+      "url": "https://open.spotify.com/track/1lzTpOHsqXpINYD7aJxnRW"
+    },
+    {
+      "album": {
         "name": "Chala (My Soul Is On A Loop)",
         "url": "https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2"
       },
@@ -6396,7 +6414,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 207584,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/2iOJRyb1WwNPNdiEwrM2bv"
@@ -12904,7 +12922,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 405636,
       "name": "Fly - Liquid Earth Remix",
       "url": "https://open.spotify.com/track/5hexCtRZZmjPrCN5ZpyUEW"
@@ -13302,7 +13320,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 176847,
       "name": "Fountain",
       "url": "https://open.spotify.com/track/7jCwHd3ooTVE05xlCwyXGS"
@@ -15984,7 +16002,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 180869,
       "name": "HIGH RAVE",
       "url": "https://open.spotify.com/track/7dffIDvVmKzRTaixapQ8oz"
@@ -16329,6 +16347,28 @@
     },
     {
       "album": {
+        "name": "hold tight",
+        "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "hold tight",
+      "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
+    },
+    {
+      "album": {
         "name": "Rhubarbe - EP",
         "url": "https://open.spotify.com/album/7KRKmVEumMZRjZgjlTHa9g"
       },
@@ -16482,7 +16522,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 349439,
       "name": "Hope In a Smoke Filled Room",
       "url": "https://open.spotify.com/track/19w7Cqkui9L2Up8IDQcCmN"
@@ -16504,6 +16544,32 @@
       "duration_ms": 180219,
       "name": "Hopecore",
       "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+    },
+    {
+      "album": {
+        "name": "Hot Rod To Hell And Back",
+        "url": "https://open.spotify.com/album/1Hx8tHNh1UnSRoxnreeMPM"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        },
+        {
+          "name": "Man Parrish",
+          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+        },
+        {
+          "name": "Roy Garrett",
+          "url": "https://open.spotify.com/artist/4MNadv2yW8Td3DSWhQwkup"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198956,
+      "name": "Hot Rod To Hell And Back",
+      "url": "https://open.spotify.com/track/2wl0JVnSNJ8zXsrjF10D0P"
     },
     {
       "album": {
@@ -19066,6 +19132,24 @@
       "duration_ms": 272342,
       "name": "Just House - Crackazat Radio Edit",
       "url": "https://open.spotify.com/track/2jMaEY7c9CBcy3g6uZqUJG"
+    },
+    {
+      "album": {
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
     },
     {
       "album": {
@@ -21985,6 +22069,24 @@
     },
     {
       "album": {
+        "name": "Midnight / Luv Me",
+        "url": "https://open.spotify.com/album/30odblkXM8rH1Yb21Xlf4u"
+      },
+      "artists": [
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299500,
+      "name": "Luv Me",
+      "url": "https://open.spotify.com/track/0jmA1PH0rs03gi1v9Sznr9"
+    },
+    {
+      "album": {
         "name": "M1, M3 / GETOUTOFMYHEAD",
         "url": "https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK"
       },
@@ -24472,7 +24574,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216239,
       "name": "Never Give Up On Loving You",
       "url": "https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7"
@@ -24542,6 +24644,28 @@
       "duration_ms": 204255,
       "name": "New World Expression",
       "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
+    },
+    {
+      "album": {
+        "name": "Night Blooming",
+        "url": "https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "pbeatgirl",
+          "url": "https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Night Blooming",
+      "url": "https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi"
     },
     {
       "album": {
@@ -24862,7 +24986,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 244391,
       "name": "No One",
       "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
@@ -28469,6 +28593,24 @@
     },
     {
       "album": {
+        "name": "Re:connection",
+        "url": "https://open.spotify.com/album/0Z6XYZezT9d0lFm6XrTvrn"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263354,
+      "name": "Re:connection",
+      "url": "https://open.spotify.com/track/6PsFGnGFl0fTmSUWw4h4XF"
+    },
+    {
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/3FBnpEGj2fAJ5nr7fjwONx"
       },
@@ -28972,6 +29114,32 @@
       "duration_ms": 215735,
       "name": "Restart (ft. KLP)",
       "url": "https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd"
+    },
+    {
+      "album": {
+        "name": "Revenge (feat. Yohji Igarashi)",
+        "url": "https://open.spotify.com/album/0NCte27KoyExV8ykMgK1NH"
+      },
+      "artists": [
+        {
+          "name": "Xansei",
+          "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102608,
+      "name": "Revenge (feat. Yohji Igarashi)",
+      "url": "https://open.spotify.com/track/0bez09aMCwWRcfwSVlrrjW"
     },
     {
       "album": {
@@ -33158,7 +33326,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 294545,
       "name": "Strike",
       "url": "https://open.spotify.com/track/309yYJktQuHXtlL7UuIiDe"
@@ -34528,6 +34696,24 @@
       "duration_ms": 186818,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "album": {
+        "name": "That's My Ish",
+        "url": "https://open.spotify.com/album/3sz3C74fnAZPn2ZosZ9l7q"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "That's My Ish",
+      "url": "https://open.spotify.com/track/59Ytlj1b0GhpWGsWvZKavV"
     },
     {
       "album": {
@@ -37574,7 +37760,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175048,
       "name": "Uup! (Sentimento Remix)",
       "url": "https://open.spotify.com/track/7x7Xj2kBV7AUhQUXJRp3g1"
@@ -39213,6 +39399,24 @@
     },
     {
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/4ZxXCHzIXofTQ0WlX9ERE9"
+      },
+      "artists": [
+        {
+          "name": "YUTO",
+          "url": "https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1YKj3JAaVsKsAD2w6yO8rA"
+    },
+    {
+      "album": {
         "name": "Whispers into the Void",
         "url": "https://open.spotify.com/album/4bSxth2Rb9Vm452Cs62vUj"
       },
@@ -40466,7 +40670,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 265099,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"

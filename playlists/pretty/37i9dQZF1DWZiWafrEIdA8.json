@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13965,
+  "num_followers": 13972,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,22 @@
     {
       "added_at": "2026-02-05 09:18:12",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 165700,
-      "name": "Goodbye (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-02-05 09:18:12",
@@ -503,22 +503,22 @@
     {
       "added_at": "2026-02-05 09:18:12",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
           "name": "ASH ISLAND",
           "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+      "duration_ms": 165700,
+      "name": "Goodbye (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
     },
     {
       "added_at": "2026-02-05 09:18:12",
@@ -539,6 +539,26 @@
       "duration_ms": 172350,
       "name": "He's next to you, instead of me",
       "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
+    },
+    {
+      "added_at": "2026-02-05 09:18:12",
+      "album": {
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
     },
     {
       "added_at": "2026-02-05 09:18:12",
@@ -575,26 +595,6 @@
       "duration_ms": 175716,
       "name": "Dare to Love (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
-    },
-    {
-      "added_at": "2026-02-05 09:18:12",
-      "album": {
-        "name": "AURA (feat. pH-1)",
-        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "AURA (feat. pH-1) (Prod. GXXD)",
-      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
     },
     {
       "added_at": "2026-02-05 09:18:12",

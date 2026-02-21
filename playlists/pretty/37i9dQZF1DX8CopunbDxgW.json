@@ -1,13 +1,49 @@
 {
-  "description": "joyful dance bliss from joy anonymous  \ud83d\ude0a metropolis is your home for the best indie dance",
-  "num_followers": 875159,
+  "description": "the dare & wet leg? say less \ud83d\udd25 metropolis is your home for the best indie dance",
+  "num_followers": 875113,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABy5qNqr7knRlPXC5iNvlpgvy6sO",
+  "snapshot_id": "AAAAAKbD0d7yKXUPfzYLGll0wDadiaPd",
   "tracks": [
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/22ndlEBAiIq2WuF7kEVdRP"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 184207,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/5mkvS4pcwZ9z4PmBhPY77l"
+    },
     {
       "added_at": "2026-02-06 05:00:47",
       "album": {
@@ -29,20 +65,60 @@
       "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
     },
     {
-      "added_at": "2026-02-13 05:00:40",
+      "added_at": "2026-02-20 07:35:50",
       "album": {
-        "name": "Numbers",
-        "url": "https://open.spotify.com/album/2SPV9M0uRhma01viQ7LAff"
+        "name": "lately in the void",
+        "url": "https://open.spotify.com/album/4XvEJfv4s9F0j3aD5zibjS"
       },
       "artists": [
         {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 135724,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/4Qg6Wlatq1ZWzBFoiAribR"
+      "duration_ms": 221052,
+      "name": "lately in the void",
+      "url": "https://open.spotify.com/track/6vMRtaCVRTsGC90Zy6KW5D"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/1HOKLWsqE0Oq5oACgRCk3T"
+      },
+      "artists": [
+        {
+          "name": "Togetherness",
+          "url": "https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 190296,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/24ywd2iYsIrfEaHIOCEhm1"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Easy Flirt",
+        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Easy Flirt",
+      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -61,6 +137,22 @@
       "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
     },
     {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+      },
+      "artists": [
+        {
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+        }
+      ],
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
+    {
       "added_at": "2026-01-23 05:00:29",
       "album": {
         "name": "U Ain't Lyin'",
@@ -77,20 +169,20 @@
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
-      "added_at": "2026-01-23 05:00:29",
+      "added_at": "2026-02-20 07:35:50",
       "album": {
-        "name": "Easy Flirt",
-        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
+        "name": "Same As I Do",
+        "url": "https://open.spotify.com/album/6BpnahDKFXSnW5BCQFEL1i"
       },
       "artists": [
         {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Easy Flirt",
-      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
+      "duration_ms": 228000,
+      "name": "Same As I Do",
+      "url": "https://open.spotify.com/track/4CMcKFSCIAjeJJ3t70BvJC"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -123,26 +215,6 @@
       "duration_ms": 232373,
       "name": "Electronicity",
       "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Soulseek",
-        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Soltera",
-          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Soulseek",
-      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -179,6 +251,90 @@
       "duration_ms": 235149,
       "name": "Found a Love",
       "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Can't Go On",
+        "url": "https://open.spotify.com/album/4kQNsCZdGG0931c23KY3zz"
+      },
+      "artists": [
+        {
+          "name": "Arial Ten",
+          "url": "https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Can't Go On",
+      "url": "https://open.spotify.com/track/0nNNVoqcAeo7uC86FAxi07"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/2SPV9M0uRhma01viQ7LAff"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/4Qg6Wlatq1ZWzBFoiAribR"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Soulseek",
+        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Soltera",
+          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "Soulseek",
+      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Straf (Soundtrack)",
+        "url": "https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 254620,
+      "name": "Melchior\u2019s Dance",
+      "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -225,22 +381,6 @@
       "url": "https://open.spotify.com/track/3JD0rRSzWRitWVnmHTHB5P"
     },
     {
-      "added_at": "2026-01-16 05:00:40",
-      "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
       "added_at": "2026-02-06 05:00:47",
       "album": {
         "name": "Undone",
@@ -257,26 +397,6 @@
       "url": "https://open.spotify.com/track/5YUeDOmrCNZ9XuVhuA6YRz"
     },
     {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
       "added_at": "2025-11-28 21:07:36",
       "album": {
         "name": "You Gimme Something",
@@ -291,22 +411,6 @@
       "duration_ms": 169453,
       "name": "You Gimme Something",
       "url": "https://open.spotify.com/track/00s7KZVtYZN0f4Q7xk7jUB"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "Straf (Soundtrack)",
-        "url": "https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 254620,
-      "name": "Melchior\u2019s Dance",
-      "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -327,6 +431,26 @@
       "duration_ms": 186132,
       "name": "eye contact (feat. Council)",
       "url": "https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Solid (Mild Minds Remix)",
+        "url": "https://open.spotify.com/album/756GqMkJmh6wcjeckF9DdA"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 214659,
+      "name": "Solid - Mild Minds Remix",
+      "url": "https://open.spotify.com/track/3g77FAV7yZHjHZbVj5Daqt"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -415,6 +539,22 @@
       "duration_ms": 217513,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Soft Focus",
+        "url": "https://open.spotify.com/album/2F6fGbBy2eyrq1sLj2EZkm"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Soft Focus",
+      "url": "https://open.spotify.com/track/3Mt1lCEvVenbds2U8LNLhI"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -1129,26 +1269,6 @@
       "url": "https://open.spotify.com/track/0BnlKkuszP6iIQBtMXeV48"
     },
     {
-      "added_at": "2025-11-28 21:07:36",
-      "album": {
-        "name": "All My Doors Are Open",
-        "url": "https://open.spotify.com/album/3rduXaxz7hYZZCZJw6OTxH"
-      },
-      "artists": [
-        {
-          "name": "goodlife",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "All My Doors Are Open",
-      "url": "https://open.spotify.com/track/6JCpZLJN0fzvmyWMbuRm0h"
-    },
-    {
       "added_at": "2025-11-07 05:00:48",
       "album": {
         "name": "ANYWHERE HERE IS PERFECT",
@@ -1221,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
-      "added_at": "2025-11-11 01:40:37",
-      "album": {
-        "name": "fake it",
-        "url": "https://open.spotify.com/album/3bozuqCf6u8SNLFwes2UQr"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 193241,
-      "name": "fake it",
-      "url": "https://open.spotify.com/track/78yPzqR2Gyg9IcjRcdVLkz"
-    },
-    {
       "added_at": "2025-08-11 18:49:11",
       "album": {
         "name": "The Bay (Purple Disco Machine Remix)",
@@ -1293,38 +1397,6 @@
       "url": "https://open.spotify.com/track/54HE9SBZW1lDoKhf0cZ73D"
     },
     {
-      "added_at": "2025-10-24 04:00:19",
-      "album": {
-        "name": "Vanished 2025",
-        "url": "https://open.spotify.com/album/2kEAvV7L4gGLlX8HpvNPH6"
-      },
-      "artists": [
-        {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Vanished 2025",
-      "url": "https://open.spotify.com/track/60sc8YUppgK7Gn1kT1FzYX"
-    },
-    {
-      "added_at": "2025-11-14 05:00:40",
-      "album": {
-        "name": "SLB",
-        "url": "https://open.spotify.com/album/3SZXUQhTsmoW3oc0kNC1cK"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "SLB",
-      "url": "https://open.spotify.com/track/0hAA7IhjmUcni3dPgTMNnZ"
-    },
-    {
       "added_at": "2025-11-14 05:00:40",
       "album": {
         "name": "Club Burn",
@@ -1339,42 +1411,6 @@
       "duration_ms": 197073,
       "name": "Club Burn",
       "url": "https://open.spotify.com/track/6XWy5BIUB0ikfVwwrO5aO8"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/3t4OfWaZxVoVB2cDUhNJ0U"
-      },
-      "artists": [
-        {
-          "name": "Jaime Rosso",
-          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
-        }
-      ],
-      "duration_ms": 274532,
-      "name": "Narrow View",
-      "url": "https://open.spotify.com/track/46yDCfLxon683Ln6W44UXo"
-    },
-    {
-      "added_at": "2025-11-14 05:00:40",
-      "album": {
-        "name": "Secular Music Vol. 1",
-        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Melodies",
-      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
     },
     {
       "added_at": "2025-11-07 05:17:23",
@@ -1517,22 +1553,6 @@
       "url": "https://open.spotify.com/track/3299nKuGdmWKJrcytb5NkH"
     },
     {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "I told ya",
-        "url": "https://open.spotify.com/album/12RkrZxeDy1usKwyEYhna8"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I told ya",
-      "url": "https://open.spotify.com/track/2p62Qdz5g4rW0lEmF6QEM7"
-    },
-    {
       "added_at": "2025-09-26 04:00:18",
       "album": {
         "name": "The Moment I Dance",
@@ -1587,22 +1607,6 @@
       "duration_ms": 257124,
       "name": "Romantica",
       "url": "https://open.spotify.com/track/3PeuFE2pbe9xELrlt2iitD"
-    },
-    {
-      "added_at": "2025-10-24 04:00:19",
-      "album": {
-        "name": "start a fire",
-        "url": "https://open.spotify.com/album/7pGT5wajD5OgRxHZjyj2Nf"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 164216,
-      "name": "start a fire",
-      "url": "https://open.spotify.com/track/7b5PeWkobrlZki3JxmtQ4L"
     },
     {
       "added_at": "2025-09-12 04:00:16",

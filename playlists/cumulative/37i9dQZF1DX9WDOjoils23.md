@@ -4,11 +4,12 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-105 songs - 12 hr 38 min
+106 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19 ton 21](https://open.spotify.com/track/4ehvrW0P9iy8CmdB1AsT9W) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Liberation](https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz) | 3:42 | 2026-01-23 | 2026-02-12 |
+| [Aa Sajan](https://open.spotify.com/track/0D8xqVj8ook7WsMpwhtPmB) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [Aa Sajan](https://open.spotify.com/album/17ilitlw2MR4dTEN10lLHs) | 6:52 | 2026-02-17 |  |
 | [Aakhe Akhiyan De](https://open.spotify.com/track/7JHA8zlgLq173HGaIPeVqy) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Aakhe Akhiyan De](https://open.spotify.com/album/3SyHfVS6UUqMOe7yOq4WdT) | 3:25 | 2025-02-28 | 2025-05-06 |
 | [Ae Athra Ishq Naeen Saun Denda](https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ishq, Vol\. 60](https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM) | 15:25 | 2023-02-15 | 2024-04-19 |
 | [Akhiyan Nu Rehne De](https://open.spotify.com/track/5WFR8zr6YCecovxEsbghOB) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Showcase Southasia, Vol\. 5](https://open.spotify.com/album/6iu9DRY8Jx66oRxfQsMgWa) | 5:51 | 2025-02-01 | 2025-05-14 |
@@ -38,7 +39,7 @@
 | [Guddi Wangoo Aj Menoon](https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 3:07 | 2023-02-15 |  |
 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 | 2025-05-13 |  |
 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 | 2025-05-13 |  |
-| [Imtehan \(From "Shayar"\)](https://open.spotify.com/track/3yAGKvxeSklXAkfvm9ArdJ) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Gag Studioz](https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3) | [Imtehan \(From "Shayar"\)](https://open.spotify.com/album/4MpMjGViVxxeHpqjVHP4bo) | 6:05 | 2025-05-13 |  |
+| [Imtehan \(From "Shayar"\)](https://open.spotify.com/track/3yAGKvxeSklXAkfvm9ArdJ) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Gag Studioz](https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3) | [Imtehan \(From "Shayar"\)](https://open.spotify.com/album/4MpMjGViVxxeHpqjVHP4bo) | 6:05 | 2025-05-13 | 2026-02-21 |
 | [Ishq](https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 3:40 | 2023-02-15 | 2024-04-19 |
 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 | 2023-12-18 |  |
 | [Ja Ve Pardesia](https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 5:45 | 2023-02-15 |  |

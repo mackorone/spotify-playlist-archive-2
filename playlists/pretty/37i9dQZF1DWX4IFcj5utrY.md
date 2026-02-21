@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: UNLIMITED SOUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,321 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,457 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [For This Life \(feat\. Captain Lulaz & Thesiix\)](https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [Jimmy Curtis](https://open.spotify.com/artist/6c8JUB3zWpF3PjIN9ohZSE), [Captain Lulaz](https://open.spotify.com/artist/2QkB7giGM3tR1JMWOd1Cja), [Thesiix](https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD) | [Collision Of 2 Worlds](https://open.spotify.com/album/5dlzVmL8h1MtdGDDbslWYg) | 5:10 |
 | 2 | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Da Lee LS](https://open.spotify.com/artist/0ZQmMzhIBnlt5OVEZ1Vdhj), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/album/2wcwX6B4KH6gotP7mrvs3a) | 5:33 |
 | 3 | [Awe Mah](https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Awe Mah](https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU) | 3:33 |
 | 4 | [I’ll Be There \(For You\)](https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Under The Sun](https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq) | 4:43 |

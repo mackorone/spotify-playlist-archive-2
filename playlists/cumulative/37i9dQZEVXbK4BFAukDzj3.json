@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "Als Blikken Konden Doden",
+        "url": "https://open.spotify.com/album/229FKtAV6ltXMbD9Q7ye2U"
+      },
+      "artists": [
+        {
+          "name": "Veul G\u00e8re",
+          "url": "https://open.spotify.com/artist/0KpEX9Hb9jJaxSEgDRMLbM"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187071,
+      "name": "Als Blikken Konden Doden",
+      "url": "https://open.spotify.com/track/1tlJ07kgmeSDJc4HurwVDM"
+    },
+    {
+      "album": {
         "name": "AMG Met Matje",
         "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
       },
@@ -707,6 +725,28 @@
     },
     {
       "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/1BBeHxKMTWkSOb8Qc6FTuY"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/58UAQKAuiIYgixJ01BVBZc"
+    },
+    {
+      "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -1081,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "De Tent Moet Op Z'n Kop",
+        "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "De Tent Moet Op Z'n Kop",
+      "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
+    },
+    {
+      "album": {
         "name": "Deed 2 (D2)",
         "url": "https://open.spotify.com/album/6yPoIF95idX6uAOM4gQgQ0"
       },
@@ -1336,7 +1394,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 152659,
       "name": "Echte Liefde Is Te Koop",
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
@@ -1516,7 +1574,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -1990,7 +2048,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
@@ -2210,7 +2268,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 211234,
       "name": "Hoog/Laag",
       "url": "https://open.spotify.com/track/2kSoKnSw1KILArPWHO82P0"
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 215568,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
@@ -3704,7 +3762,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 236249,
       "name": "Nigga Als Ik",
       "url": "https://open.spotify.com/track/0nDIH5XLmDQrZkUvor3KUz"
@@ -5902,7 +5960,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 208272,
       "name": "Zeg Dat Niet",
       "url": "https://open.spotify.com/track/1Tb7SUdzJTWdd8HEsjt0MY"

@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-142 songs - 4 hr 58 min
+143 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2024-03-15 |  |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-02-01 |  |
 | [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2022-02-01 |  |
-| [The Jellyfish](https://open.spotify.com/track/08221iLHyVM0hykn8E0ibQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Down In the Deep Blue Sea](https://open.spotify.com/album/2EwkJCo5ob9YTnvD16WUGC) | 1:46 | 2022-02-01 |  |
+| [The Jellyfish](https://open.spotify.com/track/08221iLHyVM0hykn8E0ibQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Down In the Deep Blue Sea](https://open.spotify.com/album/2EwkJCo5ob9YTnvD16WUGC) | 1:46 | 2022-02-01 | 2026-02-21 |
 | [The Lion](https://open.spotify.com/track/0KvAJNPeOcM4vZWpE8kxNR) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 0:59 | 2022-02-01 |  |
 | [The Lion, King of the Jungle](https://open.spotify.com/track/649v9vfqhP2jVL1QL0NVsA) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Carnival of the Animals](https://open.spotify.com/album/4Y9Jp8cifOCilKlph1JVoc) | 1:32 | 2022-07-25 | 2024-04-19 |
 | [The Lion, King Of The Jungle](https://open.spotify.com/track/6dgLHP9sceDeTET9g6StW5) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Carnival Of The Animals](https://open.spotify.com/album/14tIANf79XEg4L9y6ELote) | 1:32 | 2022-02-01 |  |
@@ -142,6 +142,7 @@
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 |  |
 | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 | 2024-03-15 |  |
 | [Watching the Ponies](https://open.spotify.com/track/4x6TgA12lMOzcMK9klfQze) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP) | 1:02 | 2025-03-07 |  |
+| [What Do You Hear?](https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Do You Hear?](https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8) | 3:01 | 2026-02-20 |  |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 |  |
 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 | 2022-07-25 | 2024-04-19 |
 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |

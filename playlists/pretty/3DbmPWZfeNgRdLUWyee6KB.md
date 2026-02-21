@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,276 likes - 149 songs - 8 hr 22 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,276 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [Ritorno dove sei](https://open.spotify.com/track/6OMcPolvYS6yR3PldGmJV9) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [Ritorno dove sei](https://open.spotify.com/album/5kLBuU4Hf2x0TYRBFem4TD) | 2:32 |
 | 148 | [Que la luna me desarme](https://open.spotify.com/track/2Frm899zUZksGp5fRfialm) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 2:53 |
 | 149 | [Misfits Rejoice](https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [Misfits Rejoice](https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe) | 2:34 |
+| 150 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 |
 
-Snapshot ID: `AAAQu66r/Q7NTxWPVJv21ndnXHyMELwa`
+Snapshot ID: `AAAQvMEJjeubM1+1bJOc68d52DVsSMu/`

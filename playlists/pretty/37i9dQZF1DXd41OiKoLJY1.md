@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Eugene Racaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,544 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,595 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Pretty Girls on the Run](https://open.spotify.com/track/7a1dEhhi7qQTCLtffaQrwx) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Pretty Girls on the Run](https://open.spotify.com/album/2pGP0eL5owjxyrvHmb3u0Y) | 3:01 |
 | 100 | [Moshpit](https://open.spotify.com/track/7aWuvAJoPMIuA6ibWCQgKN) | [Novocrane](https://open.spotify.com/artist/3G4EbmaEUiibM9xzQ0XmgZ) | [Moshpit](https://open.spotify.com/album/3yQWMSURP9psoQdSBqIQPO) | 2:10 |
 
-Snapshot ID: `AAAAAKRbeVpoTTPGlsBvk+f98bWIEqZ/`
+Snapshot ID: `AAAAAHcaxQkBWZ0pr2tzYipef9Pp1dpy`

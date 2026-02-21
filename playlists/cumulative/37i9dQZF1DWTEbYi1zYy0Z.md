@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-531 songs - 1 day 13 hr 35 min
+532 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Captivate Me](https://open.spotify.com/track/3nHdUHhCUlO1zUPT0lqhFV) | [Riley Richard](https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4) | [Captivate Me](https://open.spotify.com/album/4kJBD2qAK1Z9HGjo5QuYmS) | 4:48 | 2020-10-30 | 2022-03-16 |
 | [Carry On!](https://open.spotify.com/track/41t4WwZkSQnaiFPUdW4RXl) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5) | [Carry On!](https://open.spotify.com/album/55Y7VmUMtAmiPsJnbrqLba) | 3:52 | 2025-03-14 |  |
 | [Cash in](https://open.spotify.com/track/4LNNEPTtizak8Yknrg1wA1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Cash in](https://open.spotify.com/album/7LnmMrvUf3PO6fP6og1rpp) | 4:25 | 2024-03-08 | 2025-02-15 |
+| [Casual Friday](https://open.spotify.com/track/0WtOVDhUZQ80DwQEXvXjMv) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx) | [Casual Friday](https://open.spotify.com/album/2X55ibmu2wvdRMUmVi4g5z) | 3:34 | 2026-02-20 |  |
 | [Catalina](https://open.spotify.com/track/5IbGa32pL7TZ1Li1zuQZ54) | [Janice Lacy Project](https://open.spotify.com/artist/679zUkqiBcLkRjhP7LS554), [Eden Perez](https://open.spotify.com/artist/4JIqntGdsQ6BkhBZaASc3b) | [Catalina](https://open.spotify.com/album/49MBE4YM7T1q4FmxJQstQk) | 4:43 | 2021-06-18 | 2022-09-17 |
 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 | 2022-04-08 | 2023-05-13 |
 | [Catalonia](https://open.spotify.com/track/3wy86KLR6VKyuBVHeyaM6b) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Light of Day](https://open.spotify.com/album/2xDalhs3jBlEjRwUnOLPTZ) | 4:42 | 2025-02-14 |  |
@@ -332,7 +333,7 @@
 | [Newfound Treasure](https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [Newfound Treasure](https://open.spotify.com/album/6W9eRTZ5LmNEOD9mW8LHc0) | 3:04 | 2022-06-17 | 2023-06-24 |
 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 | 2024-07-05 | 2025-01-18 |
 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 | 2025-09-27 |
-| [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 |  |
+| [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 | 2026-02-21 |
 | [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 | 2023-06-09 | 2024-04-19 |
 | [Night at The Roxy](https://open.spotify.com/track/38Q1oUU0e63Utf171NKImr) | [Alexander Zonjic](https://open.spotify.com/artist/23TIk45a0EumQgVir5CgS7), [James Lloyd](https://open.spotify.com/artist/33EdGAT6HNpc9dFzyMGYje), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Night at The Roxy](https://open.spotify.com/album/5QatqMQakA9HLKFI60FhK7) | 4:13 | 2024-03-22 |  |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 | 2023-04-29 |

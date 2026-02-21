@@ -1,6 +1,6 @@
 {
   "description": "soft and sweet",
-  "num_followers": 369475,
+  "num_followers": 369468,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
-        "name": "Platonic Romance",
-        "url": "https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 218522,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm"
-    },
-    {
-      "added_at": "2026-01-30 00:00:08",
-      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 219257,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
+    },
+    {
+      "added_at": "2026-01-30 00:00:08",
+      "album": {
+        "name": "Platonic Romance",
+        "url": "https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 218522,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm"
     },
     {
       "added_at": "2026-01-30 00:00:08",

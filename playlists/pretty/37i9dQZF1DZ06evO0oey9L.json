@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 98179,
+  "num_followers": 98236,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAAGw4UV+CY7ukBNOhP9HoKo",
+  "snapshot_id": "aZZSgAAAAADjboKj6D0jMGTyYdAnbTsl",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
+        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 241444,
+      "name": "Los de La Casa",
+      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Internacional",
         "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 159176,
       "name": "La Internacional",
       "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
-        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 241444,
-      "name": "Los de La Casa",
-      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gwag",
-        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 146590,
-      "name": "La Gwag",
-      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 183409,
       "name": "Botas Ariat",
       "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gwag",
+        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 146590,
+      "name": "La Gwag",
+      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 186301,
       "name": "Barrio Xolo",
       "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225226,
       "name": "Ya Lo Decid\u00ed",
       "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristian Rey",
-        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 146881,
-      "name": "Cristian Rey",
-      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sky Blue",
         "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 162358,
       "name": "Sky Blue",
       "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristian Rey",
+        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 146881,
+      "name": "Cristian Rey",
+      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
     },
     {
       "added_at": null,

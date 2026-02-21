@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : Heroe
 
-803 songs - 1 day 18 hr 51 min
+803 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Disco Dream](https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a) | [Toukan Toukän](https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH) | [Disco Dream](https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi) | 3:22 | 2021-12-16 | 2022-04-29 |
 | [Distant Calls](https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Distant Calls](https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN) | 2:44 | 2021-12-16 | 2022-06-24 |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-06-09 | 2022-11-11 |
+| [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 | 2026-02-19 |  |
 | [Don't Wait For Me](https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Don't Wait For Me](https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG) | 2:58 | 2022-05-12 | 2022-06-17 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-26 | 2023-12-01 |
 | [Donne\-moi](https://open.spotify.com/track/5RTRBsPBo2VLMVba7Ydxiz) | [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Donne\-moi](https://open.spotify.com/album/3htzbu2v9ARFprMFdLUW9Q) | 3:34 | 2025-12-11 |  |
@@ -727,7 +728,6 @@
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
 | [Toxic Sunny Delight](https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Toxic Sunny Delight](https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga) | 3:46 | 2025-10-16 | 2026-01-30 |
-| [Track 7](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [Tremble](https://open.spotify.com/track/0CtxWz2N4SWN3dUr40UV16) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Tremble](https://open.spotify.com/album/4IJQPPqyI0qvRjxjTUpeeq) | 3:04 | 2025-12-04 |  |

@@ -1,47 +1,15 @@
 {
-  "description": "Where your new favourite bands are discovered. Cover: Whitelands",
-  "num_followers": 85081,
+  "description": "Where your new favourite bands are discovered. Cover: EVELYN GRAY",
+  "num_followers": 85087,
   "original_name": "Hot New Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts",
+  "snapshot_id": "AAAAAO4M4kAsoCqVIkJZ0Vtwpcfanwpj",
   "tracks": [
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Sunlight Echoes",
-        "url": "https://open.spotify.com/album/6yVCF80M7T1NZtLIjkVVkU"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Golden Daze",
-      "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "It's a Hell of an Age",
-        "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
-      },
-      "artists": [
-        {
-          "name": "Madra Salach",
-          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
-        }
-      ],
-      "duration_ms": 444196,
-      "name": "I Was Just A Boy",
-      "url": "https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "5words",
         "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
@@ -57,71 +25,55 @@
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
-        "name": "Break the Girl",
-        "url": "https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl"
+        "name": "Numerology",
+        "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "My New Band Believe",
+          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
         }
       ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5"
+      "duration_ms": 258064,
+      "name": "Numerology",
+      "url": "https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
-        "name": "Watching Over Me",
-        "url": "https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp"
+        "name": "Clotheslines",
+        "url": "https://open.spotify.com/album/2JRL1KbfgQJqTH4iDWJe1W"
       },
       "artists": [
         {
-          "name": "Horse Vision",
-          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+          "name": "EVELYN GRAY",
+          "url": "https://open.spotify.com/artist/3ROjDWkV3PwlHpHKrSv1T8"
         }
       ],
-      "duration_ms": 136310,
-      "name": "Watching Over Me",
-      "url": "https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06"
+      "duration_ms": 213674,
+      "name": "Clotheslines",
+      "url": "https://open.spotify.com/track/6gFASiRhLKDvzPqW5T37Km"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
-        "name": "Picto",
-        "url": "https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN"
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
       },
       "artists": [
         {
-          "name": "Ulrika Spacek",
-          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
         }
       ],
-      "duration_ms": 309973,
-      "name": "Picto",
-      "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
+      "duration_ms": 235429,
+      "name": "I got god",
+      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Barbed Wire",
-        "url": "https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Face Off",
         "url": "https://open.spotify.com/album/40AfFZiTv9KuQQa9AgW5NQ"
@@ -137,39 +89,87 @@
       "url": "https://open.spotify.com/track/43jkw2oItyUiYcspEIZ5YZ"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
-        "name": "So Much Country \u2018Till We Get There",
-        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+        "name": "Virgin Soil",
+        "url": "https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "1000 Rabbits",
+          "url": "https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA"
         }
       ],
-      "duration_ms": 144286,
-      "name": "The Wahs",
-      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
+      "duration_ms": 210173,
+      "name": "Virgin Soil",
+      "url": "https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
-        "name": "Snug Barber",
-        "url": "https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw"
+        "name": "It's a Hell of an Age",
+        "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
       },
       "artists": [
         {
-          "name": "Any Young Mechanic",
-          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
         }
       ],
-      "duration_ms": 118000,
-      "name": "Snug Barber",
-      "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
+      "duration_ms": 444196,
+      "name": "I Was Just A Boy",
+      "url": "https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/1SfPJUA1h4nVXXg7djGJuP"
+      },
+      "artists": [
+        {
+          "name": "the north",
+          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/4sH3K3n7qYxp14WyWy3sQA"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Sunlight Echoes",
+        "url": "https://open.spotify.com/album/6yVCF80M7T1NZtLIjkVVkU"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Golden Daze",
+      "url": "https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Watching Over Me",
+        "url": "https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 136310,
+      "name": "Watching Over Me",
+      "url": "https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "The Age of Innocence",
         "url": "https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b"
@@ -185,7 +185,71 @@
       "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Picto",
+        "url": "https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Picto",
+      "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Barbed Wire",
+        "url": "https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "So Much Country \u2018Till We Get There",
+        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 144286,
+      "name": "The Wahs",
+      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Snug Barber",
+        "url": "https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Snug Barber",
+      "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/76MibAcuxC1HrFcvLYnxKm"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "London, Out There",
         "url": "https://open.spotify.com/album/6QKhhDf9Cp3l0SQZgoMDeH"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/0HJycSl4z0y8n4lHhB7USt"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "I.D.C.",
         "url": "https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w"
@@ -233,7 +297,7 @@
       "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Picture Of Health",
         "url": "https://open.spotify.com/album/0Kd7SIoX1ugnUaq1uDr03h"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/07OabSk5EM7GSgEeD39QTO"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Changeling",
         "url": "https://open.spotify.com/album/55fj3lv8GYftOEs5eLBfEo"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/0CxblZYOpspbcyamka1LLR"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Puzzle Pop",
         "url": "https://open.spotify.com/album/68tOTbLywiGu9VqMzeKNzS"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/065H6t0gyBgzDWqJAi2J8r"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/4QNynwcqgk6SAKYhtUi7UJ"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/4aHwXGVekQoKMPJXSYVoRH"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Only Girl",
         "url": "https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Heaven Sent",
         "url": "https://open.spotify.com/album/3F1BhsVsH3KKzNiLMG5M1j"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "It Comes Creeping",
         "url": "https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm"
@@ -345,7 +409,23 @@
       "url": "https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "Falling Posture",
+        "url": "https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY"
+      },
+      "artists": [
+        {
+          "name": "MOULD",
+          "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Falling Posture",
+      "url": "https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Rome (in progress)",
         "url": "https://open.spotify.com/album/1cJFBpWo5KZ2ZS5DX1PMkf"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/6zbFB1wkb0QQRSbfuuMpag"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "HAVE A HEART",
         "url": "https://open.spotify.com/album/1FfsXdnsxJcCYQ8xEKd1zX"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/4KPxFuzwcIBtkPsdQ54LDv"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Bumble Been",
         "url": "https://open.spotify.com/album/4ih1VJuP6QOoTizr5Vhbeh"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/7HMUW5O54l5hdzJR4pfdf0"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Marsh",
         "url": "https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1k76QxrouaepTbU0204IQX"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Sit Awake",
         "url": "https://open.spotify.com/album/1TkNN5PGB0SlU4ajSHWr0u"
@@ -441,7 +521,7 @@
       "url": "https://open.spotify.com/track/3yzxeoLhMMwXNe3xqy5Baw"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "someday, forever",
         "url": "https://open.spotify.com/album/4gh9R1hd96kiam5GwHsJ5I"
@@ -457,7 +537,23 @@
       "url": "https://open.spotify.com/track/66FelwsHEPIMj9KmPT3NaK"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
+      "album": {
+        "name": "fight or flight",
+        "url": "https://open.spotify.com/album/5fiU8z7vvmrGlLTHxQrlVz"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "duration_ms": 190402,
+      "name": "fight or flight",
+      "url": "https://open.spotify.com/track/092xcjqzw0MYKxDGffoIVV"
+    },
+    {
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Wait (Hatchet Gets a New Hide)",
         "url": "https://open.spotify.com/album/1Phb8HO8seOVKS3l3gHI8F"
@@ -473,7 +569,7 @@
       "url": "https://open.spotify.com/track/1x37Qa6shlgWvjQloaCcc0"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Won't Obey",
         "url": "https://open.spotify.com/album/5ap3JvurI9KBfQLYpapm20"
@@ -489,23 +585,7 @@
       "url": "https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Ain't Quite Right (unresolved)",
-        "url": "https://open.spotify.com/album/02s6UxvbPdQPCGzYfxJzrH"
-      },
-      "artists": [
-        {
-          "name": "Still Blank",
-          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
-        }
-      ],
-      "duration_ms": 292882,
-      "name": "Ain't Quite Right (unresolved)",
-      "url": "https://open.spotify.com/track/0GGzlOymjqX36JgsXMDXLm"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Queen Bee",
         "url": "https://open.spotify.com/album/6MgU0vlUrNZEEogKkGujcc"
@@ -521,7 +601,7 @@
       "url": "https://open.spotify.com/track/4rRoEb8tEiKBAnzUqgPEZK"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/7g0xA6Sf6yZDWDfZEC2P2z"
@@ -537,23 +617,7 @@
       "url": "https://open.spotify.com/track/6NnosBSfVn6Jn1sjQ6DF5w"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/608G4bFmSNFNJib0gHQqKl"
-      },
-      "artists": [
-        {
-          "name": "thredd",
-          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5zEgkeDQtPTKAC7sM5ocUp"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Red Brick / Whale Station",
         "url": "https://open.spotify.com/album/7EVzAURmuTIhI7oCyG4ODO"
@@ -569,39 +633,7 @@
       "url": "https://open.spotify.com/track/5JiEzvDyUom70fKv4gYEEr"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Cartography",
-        "url": "https://open.spotify.com/album/64JipGp2nASRjpEsgfyoHz"
-      },
-      "artists": [
-        {
-          "name": "Pebbledash",
-          "url": "https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL"
-        }
-      ],
-      "duration_ms": 247849,
-      "name": "Cartography",
-      "url": "https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/5JOZgnD5mvt03P9GRaS36H"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/3T48D9LzeS7XqiD888McVq"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Saltspreader",
         "url": "https://open.spotify.com/album/0Qf68KWWjg6dMdgoXcTsog"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/2QvJ5GzPTZg2PEiPdPMdMp"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Poke",
         "url": "https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1RUK9ZieNdt2C2NzQTmCPL"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/4EeeuPsL6LNDwhTPiKDLj5"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Excruciating Heights",
         "url": "https://open.spotify.com/album/3tb7hYhY92Z9kK4becvnEj"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/57133ll3L1wgpVmMTgbbdT"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "All The Good Men",
         "url": "https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Thistlesifting",
         "url": "https://open.spotify.com/album/1e4izHPTI9KauHqWfmyZOm"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/1ehrMT6pkSQ5gGZBm1Eo5V"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Angles Mortz",
         "url": "https://open.spotify.com/album/6UM5wrJbAOW1eHz62V8yIg"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/4CFGeqMhzAPy48XAh0ttAm"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/2ovFFMm3HNWjLwfusZOCrC"
@@ -745,23 +777,7 @@
       "url": "https://open.spotify.com/track/66mge0rOG9i1gUCnHOHKN5"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Chrysalis",
-      "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Tiles & Moss",
         "url": "https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X"
     },
     {
-      "added_at": "2026-01-30 00:00:09",
+      "added_at": "2026-02-20 10:21:25",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/12hBbCObC2UB756DKj6tca"
@@ -791,22 +807,6 @@
       "duration_ms": 192386,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1"
-    },
-    {
-      "added_at": "2026-01-30 00:00:09",
-      "album": {
-        "name": "I Heard, I Saw",
-        "url": "https://open.spotify.com/album/61RHatwLMZ5hKVMDvmOADK"
-      },
-      "artists": [
-        {
-          "name": "Cro\u00edthe",
-          "url": "https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl"
-        }
-      ],
-      "duration_ms": 181056,
-      "name": "I Heard, I Saw",
-      "url": "https://open.spotify.com/track/1uNhpnn7iZxSCzGfVIZPuo"
     }
   ],
   "unique_name": "Hot New Bands",

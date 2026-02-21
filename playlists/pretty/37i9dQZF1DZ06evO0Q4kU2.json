@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2388,
+  "num_followers": 2387,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAACroh2erXkS+81ZuR0c50sx",
+  "snapshot_id": "aZZSgAAAAAAMs5MFfevGL1Bpp7IhJUaP",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Absent Minded",
-      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Sessions",
         "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 166250,
       "name": "Memory - Harpa Sessions",
       "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Absent Minded",
+      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 134997,
+      "name": "Absent Minded Solo",
+      "url": "https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantas\u00eda for Cello and Orchestra",
         "url": "https://open.spotify.com/album/03AwBwflLN1q8y6DtuL0oz"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 241673,
       "name": "Fantas\u00eda for Cello and Orchestra",
       "url": "https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 134997,
-      "name": "Absent Minded Solo",
-      "url": "https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whale Overture",
-        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Whale Overture",
-      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 118347,
       "name": "Mosi",
       "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whale Overture",
+        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Whale Overture",
+      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143212,
-      "name": "Or\u00edensa",
-      "url": "https://open.spotify.com/track/3Jbzf2RqGzxmkKs1OVPIHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 147774,
       "name": "Cyclist Waltz Solo",
       "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143212,
+      "name": "Or\u00edensa",
+      "url": "https://open.spotify.com/track/3Jbzf2RqGzxmkKs1OVPIHS"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 110151,
-      "name": "Kyndir",
-      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 165514,
       "name": "Birta",
       "url": "https://open.spotify.com/track/70HOjaRDOxL86922aqzy12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 110151,
+      "name": "Kyndir",
+      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 120418,
-      "name": "Monolith at Dusk",
-      "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

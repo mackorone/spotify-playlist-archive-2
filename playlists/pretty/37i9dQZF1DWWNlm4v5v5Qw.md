@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Curated: <a href="spotify:artist:4Ge9GwmWnOQsohwPTrXyHc">Gordo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,715 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,731 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 9 | [Reaper](https://open.spotify.com/track/7B69MrgWj5tPKeS6oERRoW) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Life of a Savage 2](https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW) | 3:46 |
 | 10 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/7hLAQ8M13Xukfo32Ty5m21) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [OKANLAWON](https://open.spotify.com/album/77MRZ5gx5jmAoWoR8BOx6n) | 3:43 |
 | 11 | [No Days Off](https://open.spotify.com/track/213VjPtAVUrFJ6zoFvHuXW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ambition \(Deluxe Version\)](https://open.spotify.com/album/36QdZp3YRchiFzffEyu5YL) | 3:35 |
-| 12 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 |
+| 12 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:28 |
 | 13 | [POKE POKE](https://open.spotify.com/track/3Y0KEGJAd6y1i4aNPLvf2c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [THIRTY RACK](https://open.spotify.com/artist/0FDL37gY8GetvvoQhd8HYU) | [IDK & FRIENDS :\)](https://open.spotify.com/album/7MyUIiX7nkyazdl4JqfMJK) | 2:11 |
 | 14 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 | 15 | [Pablo](https://open.spotify.com/track/3iRPj3HF8ZR1Exo1q69LCI) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Captain Hook](https://open.spotify.com/album/1ScpeEwDjOM56tOz09z0Yg) | 3:02 |

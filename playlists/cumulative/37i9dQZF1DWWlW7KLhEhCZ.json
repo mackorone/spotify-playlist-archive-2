@@ -3509,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/26ZRnHDIpuA2UuWF9qq3wA"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113881,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/5v6rdzclNyCO6ZcoNwrFtx"
+    },
+    {
+      "album": {
         "name": "Aurora Vox",
         "url": "https://open.spotify.com/album/5WYOhznJ9YvcFfVtfFvDgO"
       },
@@ -7145,6 +7163,28 @@
     },
     {
       "album": {
+        "name": "Carnavalesca",
+        "url": "https://open.spotify.com/album/0bMFESoU2mzbZuyWZXmbSO"
+      },
+      "artists": [
+        {
+          "name": "okie",
+          "url": "https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ"
+        },
+        {
+          "name": "Bena",
+          "url": "https://open.spotify.com/artist/7ay8X74qIVNpiJMTwKprCR"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Carnavalesca",
+      "url": "https://open.spotify.com/track/75j0nsc6JU9D1a8oVJk57P"
+    },
+    {
+      "album": {
         "name": "Caro",
         "url": "https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG"
       },
@@ -8022,7 +8062,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132037,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/1mKsDKzhikHx8JZvPPj1bA"
@@ -8940,6 +8980,36 @@
       "duration_ms": 83180,
       "name": "Como que eu movimento essa grana ?",
       "url": "https://open.spotify.com/track/41C9wdvSMImTmML9REiDRE"
+    },
+    {
+      "album": {
+        "name": "COMUM",
+        "url": "https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Baby",
+          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
+        },
+        {
+          "name": "Murilo Barua Silva",
+          "url": "https://open.spotify.com/artist/66ovAZ6xL4UmyQ2zX22tXw"
+        },
+        {
+          "name": "Kyu",
+          "url": "https://open.spotify.com/artist/47x0E5z39Me6o8rJ1o4wc9"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184278,
+      "name": "COMUM",
+      "url": "https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd"
     },
     {
       "album": {
@@ -10224,7 +10294,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 124878,
       "name": "D&$",
       "url": "https://open.spotify.com/track/5z4ucjKGMV7ejotQhy4smu"
@@ -17874,6 +17944,10 @@
         {
           "name": "Mvt",
           "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
         }
       ],
       "date_added": "2026-02-13",
@@ -20666,6 +20740,32 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
+    },
+    {
+      "album": {
+        "name": "Lado Safada",
+        "url": "https://open.spotify.com/album/2zytKTD0jvuCLmPFJxHulE"
+      },
+      "artists": [
+        {
+          "name": "DT",
+          "url": "https://open.spotify.com/artist/5RQK5IiW5PBJJHg0VB7PU8"
+        },
+        {
+          "name": "thefatobrn",
+          "url": "https://open.spotify.com/artist/4D92uMwFhibOJacwevOohK"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145282,
+      "name": "Lado Safada",
+      "url": "https://open.spotify.com/track/1GNTDhxbfQ2e6K6LHcNNV8"
     },
     {
       "album": {
@@ -25528,7 +25628,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168935,
       "name": "M\u00e1rtir",
       "url": "https://open.spotify.com/track/3qH0hHHKUUrld0Wcd16NBC"
@@ -27930,7 +28030,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 134704,
       "name": "Olhos Vermelhos - Remix",
       "url": "https://open.spotify.com/track/6dOvYutd8jXTt5npxWiT3A"
@@ -33685,6 +33785,32 @@
     },
     {
       "album": {
+        "name": "RIP SAINT LOUIS",
+        "url": "https://open.spotify.com/album/0Oh3z7oQO3rkbeMJtFwF6a"
+      },
+      "artists": [
+        {
+          "name": "TheusOG",
+          "url": "https://open.spotify.com/artist/3IH9BSuHJnzSTpqFqK7JE7"
+        },
+        {
+          "name": "L. Abner",
+          "url": "https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL"
+        },
+        {
+          "name": "ProdPury",
+          "url": "https://open.spotify.com/artist/0ERHpqP5xlv0hkfb9YBQ4e"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179237,
+      "name": "RIP SAINT LOUIS",
+      "url": "https://open.spotify.com/track/0l0L3yxihzi0I3sk9kMbmT"
+    },
+    {
+      "album": {
         "name": "Risquinho na R\u00e9gua",
         "url": "https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC"
       },
@@ -35423,6 +35549,32 @@
     },
     {
       "album": {
+        "name": "Sete",
+        "url": "https://open.spotify.com/album/1DltE24SgZy7IZCtjNPWdk"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/7aIQvpghsvNZpGCSn9XAl6"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133691,
+      "name": "Sete",
+      "url": "https://open.spotify.com/track/1tmoqyxKzo7VvkjanAxadT"
+    },
+    {
+      "album": {
         "name": "SETE VIDAS",
         "url": "https://open.spotify.com/album/56LAsj9F2BdjZSJqUVuspJ"
       },
@@ -35936,7 +36088,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 132923,
       "name": "Sistema Lixo",
       "url": "https://open.spotify.com/track/38hG2UHGLjOAOGKZCE9X2E"
@@ -37403,6 +37555,28 @@
     },
     {
       "album": {
+        "name": "Noites em Claro Antes Dos Flash (Vol.1)",
+        "url": "https://open.spotify.com/album/7lGKWrKUxYyk8CQ97jCCPm"
+      },
+      "artists": [
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "TAROT",
+      "url": "https://open.spotify.com/track/2kwYuUjR1v4mACFb9fdVmn"
+    },
+    {
+      "album": {
         "name": "KayBlack & Burna Boy - Spotify Sessions",
         "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
       },
@@ -37588,7 +37762,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 137622,
       "name": "tchelo rodrigues On The Radar Freestyle",
       "url": "https://open.spotify.com/track/45XaKLZAemjhKkhXoUocfj"
@@ -38916,7 +39090,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144010,
       "name": "Traumas",
       "url": "https://open.spotify.com/track/67lsiNj4CJz327rVLaCYye"

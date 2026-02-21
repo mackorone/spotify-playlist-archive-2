@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > In the end, it's all love\. Listen to the official playlist inspired by the final season of Bel\-Air, streaming now exclusively on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,275 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,272 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 85 | [Millions](https://open.spotify.com/track/4GobDRbKnfjrA3KX5LhOwS) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:55 |
 | 86 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
 | 87 | [No Role Modelz](https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 4:52 |
-| 88 | [What We Do](https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:49 |
+| 88 | [What We Do](https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:49 |
 | 89 | [Ima Boss \(feat\. Rick Ross\)](https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 1](https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4) | 4:10 |
 | 90 | [Trapwoodz](https://open.spotify.com/track/06a9XsD4BYtrUkoaUrlY0P) | [SimxSantana](https://open.spotify.com/artist/1lyj6IjojSJrtxNZCATt3Z), [$loan](https://open.spotify.com/artist/192OxmQsC7DKAveaZtz2AE) | [Trapwoodz](https://open.spotify.com/album/4hI8VAFkqrdCHiWbetQQQE) | 2:33 |
 | 91 | [Teleport 2 Me, Jamie](https://open.spotify.com/track/5xKvxwXINUs2dsyvDJ8Gjs) | [WZRD](https://open.spotify.com/artist/415rtLOb1FDKZAxo1IJ1hW), [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [WZRD](https://open.spotify.com/album/16Tz5tlOTNzG5DnMT4M4Xs) | 3:58 |

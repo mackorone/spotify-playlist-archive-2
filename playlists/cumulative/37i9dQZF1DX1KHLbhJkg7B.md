@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-445 songs - 1 day 3 hr 49 min
+446 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2022-06-24 |  |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2022-02-25 | 2022-07-29 |
 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 | 2021-12-10 | 2023-06-30 |
-| [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 | 2021-12-10 |  |
+| [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 | 2021-12-10 | 2026-02-21 |
 | [Changes](https://open.spotify.com/track/7gwGD2p8hy7Rphsx6n9NTL) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Changes](https://open.spotify.com/album/4OMQzJZkwj82nPQ5FqZr0f) | 5:29 | 2025-11-07 |  |
 | [Chasing Cars](https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Chasing Cars](https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ) | 4:25 | 2023-09-15 |  |
 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 | 2023-03-10 |  |
@@ -161,6 +161,7 @@
 | [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 | 2025-11-07 |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [A Nashville Songbook](https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA) | 3:35 | 2021-12-10 | 2022-07-28 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/69iVsk096xmrKtcrU2mVnj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Highwaymen](https://open.spotify.com/album/3HoSFsrDuaxgwLUBpC2zUE) | 3:59 | 2021-12-10 | 2022-07-27 |
+| [Here Without You](https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Here Without You](https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2) | 4:06 | 2026-02-20 |  |
 | [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 | 2024-01-05 |  |
 | [Here You Come Again](https://open.spotify.com/track/2DaaWA2TxQV4heZwWrX5oY) | [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Here You Come Again](https://open.spotify.com/album/2Qcwg7sn0G09II6pjLXb8K) | 3:13 | 2022-03-25 | 2022-04-21 |
 | [Highwayman](https://open.spotify.com/track/177Nwcm2cHRyQCGmunqTA5) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Highwayman](https://open.spotify.com/album/5aXf2xKrN9AwLp905oxkSg) | 4:02 | 2022-01-07 | 2022-07-15 |

@@ -3383,24 +3383,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Umlazi Gospel Choir The Original",
-          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
-        }
-      ],
-      "date_added": "2026-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh"
-    },
-    {
-      "album": {
         "name": "In Season",
         "url": "https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ"
       },
@@ -4220,6 +4202,24 @@
       "duration_ms": 900820,
       "name": "We Need Revival (Medley) [Live]",
       "url": "https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV"
+    },
+    {
+      "album": {
+        "name": "BANDLA LAKITHI",
+        "url": "https://open.spotify.com/album/7esumreMtD9vadIsdRF7bf"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "WEMBHTHE",
+      "url": "https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh"
     },
     {
       "album": {

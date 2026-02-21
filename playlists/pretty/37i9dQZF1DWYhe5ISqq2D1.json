@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: jo0ji",
-  "num_followers": 64849,
+  "num_followers": 64892,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
-        "name": "BIG BUG BEAR",
-        "url": "https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51"
+        "name": "RUST",
+        "url": "https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP"
       },
       "artists": [
         {
-          "name": "Jeremy Quartus",
-          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+          "name": "KeNN",
+          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
         }
       ],
-      "duration_ms": 226530,
-      "name": "BIG BUG BEAR",
-      "url": "https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF"
+      "duration_ms": 197068,
+      "name": "RUST",
+      "url": "https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
-        "name": "RUST",
-        "url": "https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP"
+        "name": "BIG BUG BEAR",
+        "url": "https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51"
       },
       "artists": [
         {
-          "name": "KeNN",
-          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
         }
       ],
-      "duration_ms": 197068,
-      "name": "RUST",
-      "url": "https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc"
+      "duration_ms": 226530,
+      "name": "BIG BUG BEAR",
+      "url": "https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
+        "name": "\u3053\u3053\u3060\u3051\u306e\u8a71",
+        "url": "https://open.spotify.com/album/1A17WeqMVCchqHR8lokZex"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u751f",
+          "url": "https://open.spotify.com/artist/0d3y3ua0lOFOVfcXn11AmT"
+        }
+      ],
+      "duration_ms": 240915,
+      "name": "\u3053\u3053\u3060\u3051\u306e\u8a71",
+      "url": "https://open.spotify.com/track/6vM87oVO7TGVHQdJivfKgl"
+    },
+    {
+      "added_at": "2026-02-17 15:57:31",
+      "album": {
         "name": "\u9ebb\u75fa",
         "url": "https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 227632,
       "name": "I see you",
       "url": "https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR"
-    },
-    {
-      "added_at": "2026-02-17 15:57:31",
-      "album": {
-        "name": "\u3053\u3053\u3060\u3051\u306e\u8a71",
-        "url": "https://open.spotify.com/album/1A17WeqMVCchqHR8lokZex"
-      },
-      "artists": [
-        {
-          "name": "\u6211\u751f",
-          "url": "https://open.spotify.com/artist/0d3y3ua0lOFOVfcXn11AmT"
-        }
-      ],
-      "duration_ms": 240915,
-      "name": "\u3053\u3053\u3060\u3051\u306e\u8a71",
-      "url": "https://open.spotify.com/track/6vM87oVO7TGVHQdJivfKgl"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
+        "name": "SHADOW WORK",
+        "url": "https://open.spotify.com/album/2IdM3we2u6vwMQpeETtHPi"
+      },
+      "artists": [
+        {
+          "name": "Angela Aki",
+          "url": "https://open.spotify.com/artist/7if7UQ2RpiPgIvUkgomgR7"
+        }
+      ],
+      "duration_ms": 221907,
+      "name": "Dance with Darkness",
+      "url": "https://open.spotify.com/track/0MzTWsKVnAwr64qapJzEkA"
+    },
+    {
+      "added_at": "2026-02-17 15:57:31",
+      "album": {
         "name": "\u4eca\u306e\u30ad\u30df\u3092\u5fd8\u308c\u306a\u3044 (REBOOT ver.)",
         "url": "https://open.spotify.com/album/0aV6Gdzk2pMzC5rgT84FI1"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
-        "name": "SHADOW WORK",
-        "url": "https://open.spotify.com/album/2IdM3we2u6vwMQpeETtHPi"
+        "name": "\u84bc\u304d\u6625",
+        "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
       },
       "artists": [
         {
-          "name": "Angela Aki",
-          "url": "https://open.spotify.com/artist/7if7UQ2RpiPgIvUkgomgR7"
+          "name": "\u79d8\u3081\u3054\u3068",
+          "url": "https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT"
         }
       ],
-      "duration_ms": 221907,
-      "name": "Dance with Darkness",
-      "url": "https://open.spotify.com/track/0MzTWsKVnAwr64qapJzEkA"
+      "duration_ms": 240197,
+      "name": "\u84bc\u304d\u6625",
+      "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1423,22 +1439,6 @@
       "duration_ms": 272277,
       "name": "Spot Love",
       "url": "https://open.spotify.com/track/7t3lP5bSeVKbASkTrgveYg"
-    },
-    {
-      "added_at": "2026-02-17 15:57:31",
-      "album": {
-        "name": "\u84bc\u304d\u6625",
-        "url": "https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C"
-      },
-      "artists": [
-        {
-          "name": "\u79d8\u3081\u3054\u3068",
-          "url": "https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT"
-        }
-      ],
-      "duration_ms": 240197,
-      "name": "\u84bc\u304d\u6625",
-      "url": "https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
-        "name": "\u5f57\u661f\u305f\u3061\u306e\u30ab\u30f3\u30bf\u30fc\u30bf",
-        "url": "https://open.spotify.com/album/47HyqmOEQRPxigUrNm9x2h"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5185\u7dcf\u4e00\u90ce",
-          "url": "https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3"
-        }
-      ],
-      "duration_ms": 313080,
-      "name": "\u5f57\u661f\u305f\u3061\u306e\u30ab\u30f3\u30bf\u30fc\u30bf",
-      "url": "https://open.spotify.com/track/07jHx7aNXVuKBfVzLqBNcd"
-    },
-    {
-      "added_at": "2026-02-17 15:57:31",
-      "album": {
         "name": "Pulse Wave",
         "url": "https://open.spotify.com/album/1EYpDVwChhDtXMYF2OE4oU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 174173,
       "name": "Pulse Wave",
       "url": "https://open.spotify.com/track/5T0bIlgkd76Je8biQEqSpJ"
+    },
+    {
+      "added_at": "2026-02-17 15:57:31",
+      "album": {
+        "name": "\u5f57\u661f\u305f\u3061\u306e\u30ab\u30f3\u30bf\u30fc\u30bf",
+        "url": "https://open.spotify.com/album/47HyqmOEQRPxigUrNm9x2h"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5185\u7dcf\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3"
+        }
+      ],
+      "duration_ms": 313080,
+      "name": "\u5f57\u661f\u305f\u3061\u306e\u30ab\u30f3\u30bf\u30fc\u30bf",
+      "url": "https://open.spotify.com/track/07jHx7aNXVuKBfVzLqBNcd"
     },
     {
       "added_at": "2026-02-17 15:57:31",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-17 15:57:31",
       "album": {
-        "name": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/2R7Z5yBU7ss8aXXf4Lm9nP"
-      },
-      "artists": [
-        {
-          "name": "Anly",
-          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2",
-      "url": "https://open.spotify.com/track/6bP9k9CormAe0NO9c6Zqxk"
-    },
-    {
-      "added_at": "2026-02-17 15:57:31",
-      "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/5FlvoUR6kDRbjMmZigXWd3"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 187000,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/5nyA3uksWeJi212HIiMjuq"
+    },
+    {
+      "added_at": "2026-02-17 15:57:31",
+      "album": {
+        "name": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/2R7Z5yBU7ss8aXXf4Lm9nP"
+      },
+      "artists": [
+        {
+          "name": "Anly",
+          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
+        }
+      ],
+      "duration_ms": 241917,
+      "name": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/6bP9k9CormAe0NO9c6Zqxk"
     },
     {
       "added_at": "2026-02-17 15:57:31",

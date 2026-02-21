@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Elsa y Elmar.
 
-978 songs - 2 day 4 hr 45 min
+979 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2021-12-02 | 2022-03-22 |
 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 | 2023-09-29 | 2023-10-14 |
 | [Ritmo \- Sergio Gaytan Remix](https://open.spotify.com/track/1CXosMEcYuewtcjidkKHTf) | [Jeff Veliz](https://open.spotify.com/artist/3fazPObARcI13mwk9KGgqo), [Sergio Gaytan](https://open.spotify.com/artist/5YF6rHIrwWbvTX6zKXUNSB) | [Ritmo](https://open.spotify.com/album/70vsnpveGDcDfBXagB8tmr) | 6:19 | 2021-12-02 | 2022-07-29 |
+| [ROCCO](https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 3:06 | 2026-02-20 |  |
 | [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-06-30 | 2023-08-26 |
 | [ROMPERME EN DOS](https://open.spotify.com/track/4Oq22v8OiWfFiMKQBaOOeq) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [danito](https://open.spotify.com/album/2IyW4durxXaCvQFwC0CY6T) | 2:34 | 2025-03-21 | 2025-06-06 |
 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 | 2024-01-12 | 2024-02-24 |
@@ -870,7 +871,7 @@
 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 | 2022-03-28 | 2022-04-21 |
 | [Tengo Miedo](https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Tengo Miedo](https://open.spotify.com/album/63NmYmkeAvkVvSezKDKYxp) | 3:03 | 2024-02-23 | 2024-06-05 |
 | [Tengo Una Nota](https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:38 | 2024-09-13 | 2025-10-26 |
-| [TENTACION](https://open.spotify.com/track/5UV82oH62P9kSDDVuL4btL) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 2:34 | 2026-01-16 |  |
+| [TENTACION](https://open.spotify.com/track/5UV82oH62P9kSDDVuL4btL) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 2:34 | 2026-01-16 | 2026-02-21 |
 | [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-03-01 | 2024-04-13 |
 | [Terapia \- Remix](https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Terapia \(Remix\)](https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz) | 3:18 | 2024-04-12 | 2024-07-27 |
 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 | 2023-06-30 | 2023-09-30 |

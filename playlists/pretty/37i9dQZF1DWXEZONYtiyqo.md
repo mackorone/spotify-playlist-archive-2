@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Irina Rimes, Delia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,197 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,213 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 15 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 16 | [Când vine dragostea](https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai) | 3:00 |
 | 17 | [Fiecare Eu](https://open.spotify.com/track/6I5OGMbrKdvfvPAT0KjJDI) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Fiecare Eu](https://open.spotify.com/album/7cwrPQyFTJnPttFFCW0aBi) | 2:50 |
-| 18 | [Suflet digital](https://open.spotify.com/track/7aLUBCcJmY8cP2xCTNheiY) | [VUNK](https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf), [Sore](https://open.spotify.com/artist/3dmuXOSgI3EMfcKhufthu3) | [](https://open.spotify.com/album/null) | 2:30 |
+| 18 | [Suflet digital](https://open.spotify.com/track/7aLUBCcJmY8cP2xCTNheiY) | [VUNK](https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf), [Sore](https://open.spotify.com/artist/3dmuXOSgI3EMfcKhufthu3) | [Suflet digital](https://open.spotify.com/album/1xmvuCDEQHTQdnZZUIeA8F) | 2:30 |
 | 19 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 |
 | 20 | [Dansăm](https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Dansăm](https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX) | 3:16 |
 | 21 | [Vântul](https://open.spotify.com/track/4UUDnPKoeXrXQq4MMuD7WC) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Vântul](https://open.spotify.com/album/0QDUI9VKijTQw8ltXjfsLq) | 3:15 |

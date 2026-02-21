@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 728,
+  "num_followers": 742,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFE2129J5avofMVQ3wfXYocIsHc33A",
+  "snapshot_id": "AAAFHQUeExVYeDQhk8oLIzigfYqX1s0L",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI"
     },
     {
-      "added_at": "2026-01-29 01:31:47",
+      "added_at": "2026-02-20 01:54:14",
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ"
+        "name": "The Carousers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TwX70LuXPrxmA4smODxAR"
       },
       "artists": [
         {
-          "name": "Voodoo Zombie",
-          "url": "https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X"
+          "name": "The Carousers",
+          "url": "https://open.spotify.com/artist/2s4NR91XrdMwNDzp5aspSr"
         }
       ],
-      "duration_ms": 153503,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L"
+      "duration_ms": 125966,
+      "name": "She's the Devil",
+      "url": "https://open.spotify.com/track/6O55FZgVKWB06M14sfFEeT"
     },
     {
       "added_at": "2025-11-20 17:10:09",
@@ -55,6 +55,22 @@
       "duration_ms": 220535,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
+    },
+    {
+      "added_at": "2026-01-29 01:31:47",
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Zombie",
+          "url": "https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X"
+        }
+      ],
+      "duration_ms": 153503,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L"
     },
     {
       "added_at": "2026-02-04 02:42:58",
@@ -1371,6 +1387,118 @@
       "duration_ms": 186546,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2"
+    },
+    {
+      "added_at": "2026-02-20 01:24:41",
+      "album": {
+        "name": "Skuggorna p\u00e5 v\u00e4gen hem",
+        "url": "https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z"
+      },
+      "artists": [
+        {
+          "name": "KRAKEL",
+          "url": "https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Skuggorna p\u00e5 v\u00e4gen hem",
+      "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
+    },
+    {
+      "added_at": "2026-02-20 01:51:24",
+      "album": {
+        "name": "Dirty Soul",
+        "url": "https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd"
+      },
+      "artists": [
+        {
+          "name": "Wreckless Strangers",
+          "url": "https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5"
+        }
+      ],
+      "duration_ms": 304001,
+      "name": "Dirty Soul",
+      "url": "https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph"
+    },
+    {
+      "added_at": "2026-02-20 01:59:43",
+      "album": {
+        "name": "Full Sway",
+        "url": "https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX"
+      },
+      "artists": [
+        {
+          "name": "Blue Drip",
+          "url": "https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Full Sway",
+      "url": "https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0"
+    },
+    {
+      "added_at": "2026-02-20 02:26:47",
+      "album": {
+        "name": "Eighty-Six",
+        "url": "https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG"
+      },
+      "artists": [
+        {
+          "name": "Lake Point Drive",
+          "url": "https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn"
+        }
+      ],
+      "duration_ms": 223548,
+      "name": "Eighty-Six",
+      "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
+    },
+    {
+      "added_at": "2026-02-20 02:42:33",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/306Mst70kA0CJOSj0X8BBz"
+      },
+      "artists": [
+        {
+          "name": "FINAL STRAW",
+          "url": "https://open.spotify.com/artist/6D6wRuIYcm8oqBPRKSUC3N"
+        }
+      ],
+      "duration_ms": 345887,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/03EWzWAQDs0KMbbk05SSig"
+    },
+    {
+      "added_at": "2026-02-20 02:51:03",
+      "album": {
+        "name": "Volume 35",
+        "url": "https://open.spotify.com/album/0saPmuG7za9RzHACDlwaJR"
+      },
+      "artists": [
+        {
+          "name": "Fortium",
+          "url": "https://open.spotify.com/artist/3QMdvX2IxPYLNQJ83aQVxG"
+        }
+      ],
+      "duration_ms": 266997,
+      "name": "Bleed For Me",
+      "url": "https://open.spotify.com/track/2jDWGSL0HFnqpCJPgL0ySt"
+    },
+    {
+      "added_at": "2026-02-20 20:58:04",
+      "album": {
+        "name": "The Way We Roll",
+        "url": "https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw"
+      },
+      "artists": [
+        {
+          "name": "CHOCA BLUES",
+          "url": "https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W"
+        }
+      ],
+      "duration_ms": 168618,
+      "name": "Easy Rollin",
+      "url": "https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: RAYE
 
-607 songs - 1 day 6 hr 24 min
+608 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-02-04 | 2023-01-28 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2024-06-01 |
 | [Satellite](https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [WARM](https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A) | 3:19 | 2025-05-27 | 2025-07-19 |
+| [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 | 2026-02-20 |  |
 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 | 2024-01-26 | 2024-06-15 |
 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 | 2024-12-06 | 2025-04-12 |
 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 | 2022-02-04 | 2022-03-12 |
@@ -486,7 +487,7 @@
 | [space](https://open.spotify.com/track/24BkrXsHVZdmy7mcoRAqLk) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [space](https://open.spotify.com/album/5JexiEUuYNJlspNfNGy4Mt) | 2:42 | 2025-07-18 | 2026-02-17 |
 | [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 | 2024-02-16 | 2024-06-01 |
 | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/track/4mjV2VrBj1vAOV8dFlXs7i) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/album/4w5ziqDWymHVdTz2Hd3BRN) | 2:55 | 2022-02-04 | 2023-01-28 |
-| [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 | 2025-08-22 |  |
+| [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 | 2025-08-22 | 2026-02-21 |
 | [Special](https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Special](https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h) | 3:14 | 2025-06-20 | 2025-09-20 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-10 | 2023-08-19 |
 | [Spend It](https://open.spotify.com/track/7K9v9JgMHunEqaRM0WOt7P) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Spend It](https://open.spotify.com/album/2n6OxKUHTgxIfLP6Hz7urN) | 2:04 | 2024-06-14 | 2024-08-10 |

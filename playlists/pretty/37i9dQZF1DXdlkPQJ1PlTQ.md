@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 
 > The best podcast episodes released this month, curated by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,850 likes - 5 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,843 likes - 5 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

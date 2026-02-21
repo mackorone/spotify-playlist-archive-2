@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Anna Graves",
-  "num_followers": 219000,
+  "num_followers": 219003,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG4J57IlbIEWXZuRilI+88NDK8Wh",
+  "snapshot_id": "AAAAAA/pK2hcDQ1vR1fxB1+k0xYBzm/l",
   "tracks": [
     {
       "added_at": "2026-02-06 05:27:34",
@@ -23,6 +23,22 @@
       "duration_ms": 185629,
       "name": "Ashes & Smoke",
       "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
+    },
+    {
+      "added_at": "2026-02-20 04:54:06",
+      "album": {
+        "name": "Sleep Tonight",
+        "url": "https://open.spotify.com/album/7c5FhkKBJQvskeVGa1d5vY"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 208107,
+      "name": "Sleep Tonight",
+      "url": "https://open.spotify.com/track/3KUZ67LJ8PBbffnGaDrKt4"
     },
     {
       "added_at": "2026-02-06 05:27:34",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
+      "added_at": "2026-02-20 05:53:19",
+      "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/2MKV3r6d67TjABnzNwzNCX"
+      },
+      "artists": [
+        {
+          "name": "Iris Copperman",
+          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Bully",
+      "url": "https://open.spotify.com/track/6lQKmT1GV7B7cI7ad7gVJF"
+    },
+    {
       "added_at": "2026-02-16 15:04:10",
       "album": {
         "name": "Sunny in London (Acoustic)",
@@ -167,22 +199,6 @@
       "duration_ms": 288812,
       "name": "I Love Being Wrong",
       "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Struggle Bus",
-        "url": "https://open.spotify.com/album/5o1IL5QWTnJ1oOAVBsy9av"
-      },
-      "artists": [
-        {
-          "name": "Iris Copperman",
-          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
-        }
-      ],
-      "duration_ms": 200035,
-      "name": "Struggle Bus",
-      "url": "https://open.spotify.com/track/7rliwqjbmK8JOFZOHYcQvv"
     },
     {
       "added_at": "2026-02-06 05:27:34",
@@ -279,6 +295,22 @@
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+    },
+    {
+      "added_at": "2026-02-20 04:54:06",
+      "album": {
+        "name": "Basements & Bedrooms",
+        "url": "https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK"
+      },
+      "artists": [
+        {
+          "name": "Addie Costain",
+          "url": "https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p"
+        }
+      ],
+      "duration_ms": 218131,
+      "name": "Basements & Bedrooms",
+      "url": "https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP"
     },
     {
       "added_at": "2026-01-16 05:00:31",
@@ -619,22 +651,6 @@
     {
       "added_at": "2025-11-14 05:00:36",
       "album": {
-        "name": "Cynthia",
-        "url": "https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Cynthia",
-      "url": "https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E"
-    },
-    {
-      "added_at": "2025-11-14 05:00:36",
-      "album": {
         "name": "Triple Shooting Star",
         "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 214787,
       "name": "REVOLVER",
       "url": "https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145186,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

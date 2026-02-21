@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,314 songs - 4 day 23 hr 34 min
+2,315 songs - 4 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1695,7 +1695,7 @@
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-13 | 2024-02-12 |
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-05 | 2024-10-07 |
 | [Regnellerslud](https://open.spotify.com/track/2uQxfg2UTrWKX89oGTiKEh) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Supernova](https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg) | 2:04 | 2025-02-06 | 2025-02-11 |
-| [Regning](https://open.spotify.com/track/62Sn5c9h69mJHhLUB4UdqB) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:12 | 2026-02-14 |  |
+| [Regning](https://open.spotify.com/track/62Sn5c9h69mJHhLUB4UdqB) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:12 | 2026-02-14 | 2026-02-21 |
 | [Regntid \(feat\. Kabusa Oriental Choir\)](https://open.spotify.com/track/3qIvu40vMOHaTx7GLhthhn) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Regntid \(feat\. Kabusa Oriental Choir\)](https://open.spotify.com/album/1XyPY2lf8S8WJWxaoBA6us) | 3:26 | 2025-02-08 | 2025-05-10 |
 | [reincarnated](https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:35 | 2024-11-26 | 2024-11-29 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-04 |
@@ -2197,6 +2197,7 @@
 | [Vi Ved](https://open.spotify.com/track/4shvO4z7Fg0dieyvXZzBnG) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Vi Ved](https://open.spotify.com/album/7s3pqZXkUB1Vt5IDnewsqi) | 3:06 | 2025-09-20 | 2025-09-22 |
 | [Vi Vil Ha' Sejren I Land](https://open.spotify.com/track/4nSJYcU5Dev2oF9EFxvbf4) | [Dodo & Vm\-Landsholdet](https://open.spotify.com/artist/5y6hnAAutJCU9gCa7NTtsT) | [Danske Fodboldsange](https://open.spotify.com/album/5h6UgLuiatq2Tetg0Jw4rE) | 3:56 | 2021-06-14 | 2021-07-10 |
 | [Vi Vokser](https://open.spotify.com/track/5xG3e5C5DOFWQlYFqJanWB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:09 | 2022-01-08 | 2022-01-15 |
+| [Vi' Først Lige Begyndt](https://open.spotify.com/track/4LpncgVy7snsYdEAAvj6QH) | [MGP Allstars 2026](https://open.spotify.com/artist/2GD9ubFxtyAUyCEi8v0WZe), [MGP](https://open.spotify.com/artist/7Gl5Kp9xBBFAH0wNUTAP38) | [MGP 2026](https://open.spotify.com/album/2ajOrEOnrz1jJS1KvVK55S) | 2:38 | 2026-02-20 |  |
 | [Vibes](https://open.spotify.com/track/696pTNllVLM7EK9wMIuYdJ) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [3](https://open.spotify.com/album/5gEz4l7cWLFnnAKHaH1az4) | 2:51 | 2021-03-27\* | 2022-01-03 |
 | [Videre](https://open.spotify.com/track/16umEj2wKmmgYIzgsC1CBF) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Videre](https://open.spotify.com/album/3xN4dbl9XUvzXFkfNHVGy0) | 3:01 | 2023-06-17 | 2023-06-25 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-29 |

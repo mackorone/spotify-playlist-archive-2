@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "\ud83d\udcf8 La Joaqui",
+  "description": "\ud83d\udcf8 El Negro Tecla",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 215437,
       "name": "Antes Que Me Vaya",
       "url": "https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d"
@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "BPP",
+        "url": "https://open.spotify.com/album/5YJsgYmG8orUt1IzZFofMZ"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "ASTROLAVISION",
+          "url": "https://open.spotify.com/artist/6VSXgGuN9BFVuo2MiyCnpu"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "BPP",
+      "url": "https://open.spotify.com/track/3MbX2OnWHx4aCnu6s07DTp"
+    },
+    {
+      "album": {
         "name": "Brinca",
         "url": "https://open.spotify.com/album/5o1BOVmM0mmIpsuDvnwlnl"
       },
@@ -1020,6 +1042,24 @@
       "duration_ms": 139805,
       "name": "C PEG\u00d3",
       "url": "https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0"
+    },
+    {
+      "album": {
+        "name": "C-U-L-O",
+        "url": "https://open.spotify.com/album/0toZ9XuBmX7CLSDfbvhTIc"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "C-U-L-O",
+      "url": "https://open.spotify.com/track/51oYa09wnI9U86U3R4bVQd"
     },
     {
       "album": {
@@ -2556,6 +2596,28 @@
       "duration_ms": 159728,
       "name": "La Herramienta RKT",
       "url": "https://open.spotify.com/track/2lMeidnZtWrmvKr7wQufs4"
+    },
+    {
+      "album": {
+        "name": "La Hora",
+        "url": "https://open.spotify.com/album/0e1MnravPnh76YikaCODvc"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Yael YTBM",
+          "url": "https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197152,
+      "name": "La Hora",
+      "url": "https://open.spotify.com/track/6gWhUHq5QwspemhidUCwEP"
     },
     {
       "album": {
@@ -4408,7 +4470,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144923,
       "name": "PONTE PERRO | Mission 22",
       "url": "https://open.spotify.com/track/3IONa7nPD5WXVVfAYs08HK"
@@ -4516,7 +4578,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 141176,
       "name": "Pusieron RKT Punky - Remix",
       "url": "https://open.spotify.com/track/2SMOc3XFpuhUOAJReX4qKX"
@@ -6948,7 +7010,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 187598,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/3Yxp4VVbtVS9MBUw55jEFc"

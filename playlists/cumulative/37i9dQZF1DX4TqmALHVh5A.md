@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : THÉA
 
-436 songs - 22 hr 55 min
+436 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Encore](https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq) | 3:02 | 2024-05-16 | 2024-09-13 |
 | [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 | 2025-06-19 | 2025-11-07 |
-| [ENFANT DE MA VILLE!](https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [](https://open.spotify.com/album/null) | 2:21 | 2026-02-19 |  |
+| [ENFANT DE MA VILLE!](https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [DRACHE!](https://open.spotify.com/album/0xjX9SNPi6ZkHwv55EA64e) | 2:21 | 2026-02-19 |  |
 | [EREX](https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb) | [EREX](https://open.spotify.com/artist/0XnzHfOGCVgYHiIImA595j) | [EREX](https://open.spotify.com/album/3jcZdyIm8YTnqChzI213uU) | 3:28 | 2024-10-17 | 2024-11-08 |
 | [Faded](https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Faded](https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ) | 3:18 | 2025-02-20 | 2025-07-04 |
 | [Fakdap](https://open.spotify.com/track/6wDge0SaNwWR4FlLEfOxnM) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Fakdap](https://open.spotify.com/album/5UF9JJt7dcJ7VXcYuZWdg5) | 3:02 | 2025-10-10 | 2025-12-05 |
@@ -164,6 +164,7 @@
 | [J'adore le monde \- Short Version](https://open.spotify.com/track/5JWEx6AJ89LuupEXLIsdSC) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [J'adore le monde](https://open.spotify.com/album/666tXOtUDxk7LxvRSR3FTs) | 3:30 | 2024-11-28 | 2025-02-21 |
 | [J'ai plus peur](https://open.spotify.com/track/23A5YxiaHkz2pT7KOesZBN) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [J'ai plus peur](https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p) | 3:12 | 2024-03-28 | 2024-05-17 |
 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 | 2024-09-06 |
+| [J'aime](https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc) | [Samy](https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH) | [MY NAME IS LEGACY](https://open.spotify.com/album/4u8rdbMdeqSopRhY92X2Lb) | 2:08 | 2026-02-19 |  |
 | [j'aimerais que tout s'arrête](https://open.spotify.com/track/5waQwkBRFAzndEEf09b3Hx) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [j'aimerais que tout s'arrête](https://open.spotify.com/album/6bLSMoJsFHkaYw1NwwQ7Oh) | 3:40 | 2025-10-02 | 2025-12-12 |
 | [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 | 2023-12-14 | 2024-02-09 |
 | [j'avance](https://open.spotify.com/track/2Z7qNInldtbww87osjOnt2) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [j'avance](https://open.spotify.com/album/7D62OzP4uQdoOcp278gbKh) | 3:49 | 2024-11-28 | 2025-04-25 |
@@ -317,7 +318,7 @@
 | [PLAYSTATION](https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [PLAYSTATION](https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F) | 3:13 | 2025-02-06 | 2025-05-16 |
 | [Plus de place nulle part](https://open.spotify.com/track/2i0EbjEWZWNn4kwQEaBfYI) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Plus de place nulle part](https://open.spotify.com/album/16czJL68bIXNHBxvCdSQZP) | 2:13 | 2025-03-06 | 2025-08-29 |
 | [Plus fort que toi](https://open.spotify.com/track/3SbwOjvnZXWnSuadX52xc6) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Plus fort que toi](https://open.spotify.com/album/7fkxpUqnPNTSnNiUJvI2Hx) | 2:31 | 2025-12-11 | 2026-01-24 |
-| [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [](https://open.spotify.com/album/null) | 2:52 | 2026-02-19 |  |
+| [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [Crier Vomir Pleurer](https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg) | 2:52 | 2026-02-19 |  |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Pornstar](https://open.spotify.com/track/3R7fcy9r7uIj6dl6VL6eAT) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Pornstar](https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc) | 2:50 | 2025-11-06 | 2026-01-24 |
 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 | 2024-06-20 | 2024-11-29 |
@@ -404,7 +405,6 @@
 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 |  |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 |  |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
-| [Track 10](https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc) | [Samy](https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
 | [Tu le sais](https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Tu le sais](https://open.spotify.com/album/38sEcWTeJxsmx05A88Mf0v) | 3:05 | 2025-05-01 | 2025-09-26 |

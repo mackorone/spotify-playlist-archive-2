@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Jelly Roll
 
-294 songs - 17 hr 50 min
+295 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [More Like Jesus](https://open.spotify.com/track/2aZ1i4ngczUSujMpuTLKnn) | [Micah Fletcher](https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth) | [More Like Jesus](https://open.spotify.com/album/5WDh2LvUaeJJueZknrvADZ) | 3:02 | 2025-06-20 |  |
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2022-08-05 |  |
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-05-19 | 2024-04-19 |
+| [My Country](https://open.spotify.com/track/0NOIhvYEBUKcR6lBW2eD0w) | [Band Reeves](https://open.spotify.com/artist/2KuImPwSXezVrIEtpeRVmk) | [My Country](https://open.spotify.com/album/3NvJJj5UaCYMj9Aua3DLeg) | 3:10 | 2026-02-20 |  |
 | [My Foundation \- Acoustic](https://open.spotify.com/track/79z6TAwIBBFavJECflBOEN) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation \(Acoustic\)](https://open.spotify.com/album/6gLpyUkE7xMRAxe5tW8nle) | 3:25 | 2025-04-04 |  |
 | [My Inheritance \(feat\. Corey Kent\)](https://open.spotify.com/track/7HhAzrseYW1JI1Mqj5CWYq) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [My Inheritance](https://open.spotify.com/album/4d0tG6cGFGiNhRDWsjZR2P) | 3:34 | 2023-12-15 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |

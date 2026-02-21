@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 316205,
+  "num_followers": 316249,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAC1p0HDN1yLMu2SWV6WYfHZ",
+  "snapshot_id": "aZZSgAAAAAB/hCliABE/iJhQ0+rBiMG4",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 241312,
-      "name": "Made To Kill",
-      "url": "https://open.spotify.com/track/3Fe8aHkMgdG4fjoo1Oa3XF"
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/7ByfoLm7Z1KJAgDwbxocs5"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Addicted To Chaos - Remastered 2004",
-      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warchest",
         "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 224080,
       "name": "Kill The King",
       "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "Addicted To Chaos - Remastered 2004",
+      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
     },
     {
       "added_at": null,

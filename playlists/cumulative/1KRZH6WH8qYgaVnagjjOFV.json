@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Even Death On A Cross!",
+        "url": "https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249233,
+      "name": "Even Death On A Cross!",
+      "url": "https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ"
+    },
+    {
+      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/3a0ksuLUOLApL6mWogz7tF"
       },

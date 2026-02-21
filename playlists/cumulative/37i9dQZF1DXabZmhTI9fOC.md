@@ -2,7 +2,7 @@
 
 ### [Love Island USA Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXabZmhTI9fOC)
 
-> Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
+> Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock.
 
 916 songs - 2 day 1 hr 37 min
 

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [99 Problems](https://open.spotify.com/track/1vFVOr0psCHVWjjK2Jp298) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Hits Collection Volume One \(Deluxe\)](https://open.spotify.com/album/4EOivv4vgGvUpxzkC3HrL9) | 3:55 | 2014-03-20 |  |
+| [99 Problems](https://open.spotify.com/track/1vFVOr0psCHVWjjK2Jp298) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Hits Collection Volume One \(Deluxe\)](https://open.spotify.com/album/4EOivv4vgGvUpxzkC3HrL9) | 3:55 | 2014-03-20 |  |
 | [All My Life](https://open.spotify.com/track/5vMDvp6nUnTYhl5NMpgOnL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [ONE BY ONE](https://open.spotify.com/album/6mulYcpWRDAiv7KIouWvyP) | 4:22 | 2014-03-20 |  |
 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/1rrK53FJENK8B9sPXm9aqn) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [20 RAP GEMS](https://open.spotify.com/album/7kgXi2JtnSpL15OvYsJGae) | 4:09 | 2014-03-20 |  |
 | [As We Enter](https://open.spotify.com/track/05Fxjq5GKH5uXjZqRhGP88) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Distant Relatives](https://open.spotify.com/album/2Pd8vlnULF9gwrJqbLEvtH) | 2:27 | 2014-03-20 |  |

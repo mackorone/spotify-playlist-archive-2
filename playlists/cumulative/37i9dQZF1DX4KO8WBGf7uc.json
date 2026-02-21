@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197306,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/1N3rf6ZFzb8NPYeLCmgzj7"
@@ -3648,6 +3648,28 @@
       "duration_ms": 291453,
       "name": "Pa Tu Casa",
       "url": "https://open.spotify.com/track/3TULfiOzT3evheiAbTXOqR"
+    },
+    {
+      "album": {
+        "name": "Pa' No Llorar",
+        "url": "https://open.spotify.com/album/2IaFEtCmiVJRh9XqDfWwu0"
+      },
+      "artists": [
+        {
+          "name": "Tutu",
+          "url": "https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W"
+        },
+        {
+          "name": "Jlexis",
+          "url": "https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Pa' No Llorar",
+      "url": "https://open.spotify.com/track/2oYWQCDw7z9M26LEy25wiy"
     },
     {
       "album": {

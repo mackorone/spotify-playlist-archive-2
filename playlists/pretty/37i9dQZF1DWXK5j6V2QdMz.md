@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ronniefieg/">Ronnie Fieg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,359 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,366 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 | 43 | [Touch Me Tease Me](https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Case](https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID) | 3:47 |
 | 44 | [Renee](https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Legal Drug Money](https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF) | 4:53 |
 | 45 | [Queens Day \(feat\. Nas & Prodigy\)](https://open.spotify.com/track/03316ROJTkO9HPgSDNUQkq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs) | [Crown Royal](https://open.spotify.com/album/1s8DfGDgydp7XFCkSiMYZb) | 4:18 |
-| 46 | [Can't Knock The Hustle](https://open.spotify.com/track/05Iawel3maRW3mSHYmXxMZ) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 5:17 |
-| 47 | [Cheat on You \(feat\. Lil' Cease & Jay\-Z\)](https://open.spotify.com/track/26lJXK6AohQkgNrkV3MA2s) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:15 |
+| 46 | [Can't Knock The Hustle](https://open.spotify.com/track/05Iawel3maRW3mSHYmXxMZ) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 5:17 |
+| 47 | [Cheat on You \(feat\. Lil' Cease & Jay\-Z\)](https://open.spotify.com/track/26lJXK6AohQkgNrkV3MA2s) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:15 |
 | 48 | [Get Money \- Gettin' Money Remix](https://open.spotify.com/track/2FAlC5B7el9jIZ8v1ilBzX) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Gettin' Money \(The Get Money Remix\)](https://open.spotify.com/album/0z1VrNXwBVTvreSJjeX7AR) | 4:09 |
-| 49 | [The City Is Mine](https://open.spotify.com/track/3qA9K2uI9v3lxq9ZFFtOmN) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:02 |
-| 50 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
+| 49 | [The City Is Mine](https://open.spotify.com/track/3qA9K2uI9v3lxq9ZFFtOmN) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:02 |
+| 50 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 
 Snapshot ID: `AAAAAKXdQjZLDZsolm711YngGWeLvnoM`

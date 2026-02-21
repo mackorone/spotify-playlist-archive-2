@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,575 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,573 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 | 18 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 19 | [What We Need](https://open.spotify.com/track/1VehDmef8S5IPN87Kqjqz9) | [Georgina Birch](https://open.spotify.com/artist/5DyYEbN8Y2iTnhSoRkwajz) | [Bloom](https://open.spotify.com/album/7zEUXsDD0SGInIGKgImUwu) | 2:52 |
 | 20 | [Mo & EZ \- Mo's Theory](https://open.spotify.com/track/1PUca3XssinmhHRDZbag3Z) | [Sam Jay](https://open.spotify.com/artist/2Ysmf5JLNDRdhjOvoKnnNh), [Jonah Hill](https://open.spotify.com/artist/2pQ8voPNuiMTqIvAdk99sn) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 0:36 |
-| 21 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 |
+| 21 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 |
 | 22 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 23 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/28jyTDJQyz5IeDTkB1lOuu) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/album/2pRhflXkaP5ODCpmd2qeD7) | 3:50 |
 | 24 | [Let's Get Married \(feat\. Run\) \- ReMarqable Remix](https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie), [Lamarquis Jefferson](https://open.spotify.com/artist/6eZD2i7kAelKt5z1ytH0Me) | [The Hits](https://open.spotify.com/album/72phYQZz7SLAT9xwK6LMO6) | 4:09 |

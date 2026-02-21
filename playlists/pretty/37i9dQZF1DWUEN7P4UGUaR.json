@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16791,
+  "num_followers": 16806,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Nya Gyidi",
-        "url": "https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Nya Gyidi",
-      "url": "https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Okrokrohene",
         "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 366107,
       "name": "Okrokrohene",
       "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Nya Gyidi",
+        "url": "https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Nya Gyidi",
+      "url": "https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
-      },
-      "artists": [
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
-        }
-      ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Sometin",
-        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Sometin",
-      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
-    },
-    {
-      "added_at": "2026-02-20 00:01:29",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224089,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2"
+    },
+    {
+      "added_at": "2026-02-20 00:01:29",
+      "album": {
+        "name": "Sometin",
+        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Sometin",
+      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Medaase",
-        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4byNNuclvVz6DXh149owNm"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Neqta",
+          "url": "https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Medaase",
-      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+      "duration_ms": 209004,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
     },
     {
       "added_at": "2026-02-20 00:01:29",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-02-20 00:01:29",
       "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
     }
   ],
   "unique_name": "Aseda",

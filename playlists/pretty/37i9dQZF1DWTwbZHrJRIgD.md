@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,221 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,493 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 6 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:39 |
 | 7 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 |
 | 8 | [Sapphire \(feat\. Arijit Singh\) \- Remix](https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sapphire \(feat\. Arijit Singh\)](https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7) | 3:00 |
-| 9 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
+| 9 | [Yeh Dil Mujhko Tu Dede \(feat\. Sunidhi Chauhan\)](https://open.spotify.com/track/1MThYfTP8eNgUq7VgVvfKe) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Raja Hindustani](https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd) | 4:14 |
 | 10 | [Drama Queen](https://open.spotify.com/track/7xxxQG1BupSnOBo4qId9kl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:18 |
 | 11 | [Paan Ki Dukaan \(From "O' Romeo"\)](https://open.spotify.com/track/6sQXr0uTPDkf2QTXfIrH4K) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Paan Ki Dukaan \(From "O' Romeo"\)](https://open.spotify.com/album/6m4lwXygiCmc8PL2XWCZXq) | 5:00 |
 | 12 | [Kiya Kiya](https://open.spotify.com/track/0YCPCY9WhQFMFtoSpj6dhL) | [Anand Raj Anand](https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu) | [Welcome \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34SE86n8INwLrMts8z1SaT) | 5:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 74 | [Prem Ki Naiyya](https://open.spotify.com/track/2JDsi7S0UmtGoyVPTda0ao) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 4:11 |
 | 75 | [Ek Main Aur Ekk Tu](https://open.spotify.com/track/4UDFr3P1lRS6seQfmzCjz7) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:21 |
 
-Snapshot ID: `AAAAAFo67U27UwfGWgw0y49zN2PecqlJ`
+Snapshot ID: `AAAAAEGMzaG761GEIgV6GNWCUpUr6/Dz`

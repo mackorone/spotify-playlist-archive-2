@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-260 songs - 16 hr 48 min
+263 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2022-03-04 | 2023-10-07 |
 | [Corazon de Rubi](https://open.spotify.com/track/7FzuMjgbfNXdzpMvs3QkxL) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Café del Mar Vol\. 24](https://open.spotify.com/album/5ehYOGpVaP0NSBLYjHuw7b) | 4:08 | 2022-03-04 | 2023-02-23 |
 | [Corre, mi vida](https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9) | [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Corre, mi vida](https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG) | 3:35 | 2026-02-13 |  |
+| [Cuando Yo Fui Tu Clavel](https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Cuando Yo Fui Tu Clavel](https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd) | 1:52 | 2026-02-20 |  |
 | [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 | 2022-03-04 | 2024-08-24 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-04-20 | 2025-05-31 |
 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 | 2025-05-30 |  |
@@ -238,6 +239,7 @@
 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 | 2025-11-07 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2025-05-30 |  |
 | [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 | 2025-11-14 | 2026-02-07 |
+| [tquiero](https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [tquiero](https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk) | 2:33 | 2026-02-20 |  |
 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 | 2022-03-04 | 2025-05-31 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/3snlRAr38hQef8sz0hJbmy) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:45 | 2022-04-20 | 2024-04-19 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:45 | 2022-04-20 | 2025-05-31 |
@@ -265,6 +267,7 @@
 | [Voy al Mar](https://open.spotify.com/track/5orNDuggs6WF3xd7kVGuui) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Love Can't Stop](https://open.spotify.com/album/0r0mNDG2GxZfBGvSpHtsgk) | 4:18 | 2023-06-09 | 2024-04-19 |
 | [Voy al Mar](https://open.spotify.com/track/7hbTfsMaPKPZp3uzmDusRG) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN) | 4:18 | 2022-03-04 | 2025-05-31 |
 | [Vuelvo A Comenzar](https://open.spotify.com/track/5wUj9rEsOX8cqpkhBJCSCD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Cybertropic Chilango Power](https://open.spotify.com/album/5oZPMmTNAyvo2H0Yfav5en) | 4:37 | 2022-03-04 | 2025-01-11 |
+| [ya llovió](https://open.spotify.com/track/1wLVZ66SdIFV03cwXauOvE) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Frank Maza](https://open.spotify.com/artist/5PSHGxg1VQAESRSvZBCbYD), [Ángel Céspedes](https://open.spotify.com/artist/49GDWEcr7vN0dPliciaA0c) | [ya llovió](https://open.spotify.com/album/1psW6fIoAAYTuZrRJnGIHT) | 3:54 | 2026-02-20 |  |
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2025-05-30 |  |
 | [Zapata Se Queda](https://open.spotify.com/track/3JzRq89QAf4aLxpJWoDr8q) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Zapata Se Queda](https://open.spotify.com/album/4qH7TQH3z003P4yjM9P79I) | 4:09 | 2022-03-04 | 2025-05-31 |
 | [Árboles Bajo El Mar](https://open.spotify.com/track/5UaiWpx39E60GAsoAtICoV) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 4:21 | 2023-02-03 | 2025-05-31 |

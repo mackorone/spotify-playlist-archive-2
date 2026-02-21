@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159013,
+  "num_followers": 159004,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,18 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
       },
       "artists": [
         {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+      "duration_ms": 151000,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -459,6 +455,26 @@
       "duration_ms": 206549,
       "name": "De Longe. - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -511,22 +527,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 151360,
       "name": "replay",
       "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Minha Morena (Doce de Coco)",
-        "url": "https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF"
-      },
-      "artists": [
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Ferrero",
-          "url": "https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7"
-        }
-      ],
-      "duration_ms": 175201,
-      "name": "Minha Morena (Doce de Coco)",
-      "url": "https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Minha Morena (Doce de Coco)",
+        "url": "https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Ferrero",
+          "url": "https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7"
+        }
+      ],
+      "duration_ms": 175201,
+      "name": "Minha Morena (Doce de Coco)",
+      "url": "https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Desumanos",
-        "url": "https://open.spotify.com/album/7m8D1tFI46VTCMqLkE5ofm"
-      },
-      "artists": [
-        {
-          "name": "Mc PP da VS",
-          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Desumanos",
-      "url": "https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Desumanos",
+        "url": "https://open.spotify.com/album/7m8D1tFI46VTCMqLkE5ofm"
+      },
+      "artists": [
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Desumanos",
+      "url": "https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL"
     },
     {
       "added_at": "2026-02-13 15:20:30",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2026-02-13 15:20:30",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2026-02-13 15:20:30",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "added_at": "2026-02-13 15:20:30",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2026-02-13 15:20:30",

@@ -1171,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Don't Break Even",
+        "url": "https://open.spotify.com/album/19e7r6qDlXCf7LzXCc8Btc"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Hunter Jordan",
+          "url": "https://open.spotify.com/artist/1cMgXNTD6SvnawGIek7gIl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165779,
+      "name": "Don't Break Even",
+      "url": "https://open.spotify.com/track/4IHFpYuIMTkvrnVLRVyKpD"
+    },
+    {
+      "album": {
         "name": "Down by the Riverside",
         "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
       },

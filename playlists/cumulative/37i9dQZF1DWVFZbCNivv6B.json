@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Neto Pe\u00f1a y Foyone en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Dharius, C-Kan, Gera MX, y La Santa Grifa en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2294,6 +2294,28 @@
       "duration_ms": 216000,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/08fINYP5wSOu90PmVA3AtS"
+    },
+    {
+      "album": {
+        "name": "Bendita Calle",
+        "url": "https://open.spotify.com/album/7mlkBcu0MrdqozNBJZe4s9"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "QubaMV",
+          "url": "https://open.spotify.com/artist/7uPZLuL1w4s4uIo1nHQecy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252307,
+      "name": "Bendita Calle",
+      "url": "https://open.spotify.com/track/12teqUP6c6CeJDOqufvrXs"
     },
     {
       "album": {
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 177279,
       "name": "Desde el d\u00eda cero",
       "url": "https://open.spotify.com/track/7AXJ8eSsdu03gY56fetONF"
@@ -6466,7 +6488,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 207478,
       "name": "Escandaloso",
       "url": "https://open.spotify.com/track/4dwZ5JrFndns65MS2EcjmN"
@@ -13492,7 +13514,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 223638,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/4brGzrH7rgluGqvXLIoIIA"
@@ -15807,6 +15829,24 @@
     },
     {
       "album": {
+        "name": "Serpientes y Escaleras",
+        "url": "https://open.spotify.com/album/0flCe6BwfmaE5uUlbIpcc4"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276023,
+      "name": "Serpientes y Escaleras",
+      "url": "https://open.spotify.com/track/3ezcLP3TCSGkqrmNSWEfKA"
+    },
+    {
+      "album": {
         "name": "Sesi\u00f3n 25",
         "url": "https://open.spotify.com/album/5Wv5MGL98h2tDNnDZ10vy3"
       },
@@ -17386,6 +17426,40 @@
       "duration_ms": 125480,
       "name": "Top Rank",
       "url": "https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3"
+    },
+    {
+      "album": {
+        "name": "TOP TOP (feat. MC Davo)",
+        "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362063,
+      "name": "TOP TOP (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
     },
     {
       "album": {

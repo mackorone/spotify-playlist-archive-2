@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-397 songs - 18 hr 44 min
+399 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Choir of Clouds](https://open.spotify.com/track/74Kx7ng4EeQZC5tdh34z5F) | [The Peace Within](https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i) | [Choir of Clouds](https://open.spotify.com/album/2nsuKSa1NLfyaikTpmlpIy) | 2:53 | 2025-04-29 | 2025-07-02 |
 | [Circular](https://open.spotify.com/track/3Mt19LG4M02KsJGqNkqgnL) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Circular](https://open.spotify.com/album/3YAXcOJ0uBYgmYMb6ylpSp) | 3:26 | 2023-12-18 |  |
 | [Citrus](https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Sage & Citrus](https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1) | 2:50 | 2023-10-26 |  |
-| [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2026-01-21 |  |
+| [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2026-01-21 | 2026-02-21 |
 | [Clarity](https://open.spotify.com/track/06H8kGJm3IIGOUXacNVWLi) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Clarity](https://open.spotify.com/album/3Hfd3gaDa5zt0gqmZZzyqQ) | 2:57 | 2023-12-18 | 2025-04-30 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2023-12-18 | 2025-04-02 |
 | [Close To Nature](https://open.spotify.com/track/70EsGjutJDUTtPuERSHOlv) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Close To Nature](https://open.spotify.com/album/1mMXcypi1O7IqShfiy4oFC) | 2:52 | 2025-07-01 |  |
@@ -149,7 +149,7 @@
 | [Giolcach Hike](https://open.spotify.com/track/2Kbyyyu0TX1445GXPxjkIe) | [Hilduriam](https://open.spotify.com/artist/2sGWavPR2tKkwpw3a7jBSj) | [Giolcach Hike](https://open.spotify.com/album/1cF88NLnHIC2Uu87EXfEAu) | 3:09 | 2023-10-26 | 2025-10-02 |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-05-19 | 2023-07-29 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-01-24 | 2024-11-29 |
-| [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 | 2024-01-30 |  |
+| [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 | 2024-01-30 | 2026-02-21 |
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-04-01 |  |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-04-01 |  |
 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 | 2023-04-06 | 2024-06-04 |
@@ -260,6 +260,7 @@
 | [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 | 2026-02-12 |
 | [Organica](https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Organica](https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT) | 3:12 | 2024-06-03 |  |
+| [Out of Eden](https://open.spotify.com/track/5RsNR1zgJQuIL8SNlGTVi5) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [Out of Eden](https://open.spotify.com/album/65R8o5g2PzwEzUsXPnb46O) | 2:31 | 2026-02-18 |  |
 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 | 2025-07-02 |
 | [Panorama Sky](https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Panorama Sky](https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw) | 2:52 | 2025-04-01 |  |
 | [Park Day](https://open.spotify.com/track/517hlxj1RKb407deh99OEJ) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Park Day](https://open.spotify.com/album/4hbYcDY9wMmls0YeVUhgj0) | 2:43 | 2024-07-16 |  |
@@ -315,6 +316,7 @@
 | [River Tales](https://open.spotify.com/track/6HxUTe2fY3WiHJDh3ZjH7Y) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [River Tales](https://open.spotify.com/album/7wrZMqzlcdbZI6x0qvv9eM) | 2:35 | 2026-01-21 |  |
 | [Rivulet](https://open.spotify.com/track/5g3Yz3pnKESzTApUUhwV5U) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Rivulet](https://open.spotify.com/album/6VZUTEpAcrttetZxwcDrBa) | 2:41 | 2025-04-29 |  |
 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 | 2023-09-28 | 2025-04-30 |
+| [Safe Haven](https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Safe Haven](https://open.spotify.com/album/2GJaENPy9CPAfPJwXV83km) | 2:44 | 2026-02-18 |  |
 | [Sanare](https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Sanare](https://open.spotify.com/album/4LuiLAqAxCysmYYYEcr0SC) | 3:03 | 2025-10-24 |  |
 | [Sauntering Dream](https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Jonathan Warman](https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf) | [Wandering Mind](https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF) | 3:19 | 2023-03-13 | 2023-05-20 |
 | [Seasonal](https://open.spotify.com/track/4H4IsE65mrXvEq0C141s11) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Seasonal](https://open.spotify.com/album/6AOfXfTdIbeiFjmVZ1PaiY) | 2:43 | 2024-07-16 |  |

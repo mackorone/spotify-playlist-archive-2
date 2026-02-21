@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 
 > Get the party started with these classics\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,273 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,319 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 | 15 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
 | 16 | [Hey Ya!](https://open.spotify.com/track/2bzVHJVebLkKMmK3nMeF5t) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Hey Ya!](https://open.spotify.com/album/36mjEX95p0nuMIuY5mdzSl) | 5:03 |
 | 17 | [What's Up](https://open.spotify.com/track/4kAUlTDXREuJsqYFbCmNEw) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [What's Up](https://open.spotify.com/album/4E7qFaxyQlNSef5kMllQRg) | 4:52 |
-| 18 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 18 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 19 | [Hit 'Em Up](https://open.spotify.com/track/6FW3GBqeORldjoysfZOEF1) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Hit 'Em Up](https://open.spotify.com/album/4x9OyIiwrMIkrwKBQEydXD) | 4:29 |
 | 20 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
 | 21 | [Bye Bye Bye](https://open.spotify.com/track/2q1sFqQJVihZyyNLQKyXj2) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Bye Bye Bye](https://open.spotify.com/album/612wuxGsVz7KmqmSdwiSd6) | 3:58 |

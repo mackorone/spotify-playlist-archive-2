@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "CHAPA QUENTE",
+        "url": "https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128932,
+      "name": "CHAPA QUENTE",
+      "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
+    },
+    {
+      "album": {
         "name": "Cheguei e Sai fora",
         "url": "https://open.spotify.com/album/3PouDBbU8jp3SXBgcs1Ykh"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,902 likes - 161 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,997 likes - 161 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 10 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
 | 11 | [The Future \(Fig Tape Remix\)](https://open.spotify.com/track/1jA6V9HI58GarsaDX6k7Gj) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [The Future \(Fig Tape Remix\)](https://open.spotify.com/album/4lv9qQYlWxHto8vJhjpeye) | 4:14 |
 | 12 | [Let It Go](https://open.spotify.com/track/1awTFbIlHiDAviFFW3hJ7m) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:27 |
-| 13 | [Track 11](https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Someone](https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [All Worlds \(Deluxe\)](https://open.spotify.com/album/5TyvNMA5Nrc3GNMwjGnLo5) | 2:37 |
 | 14 | [Oscillate](https://open.spotify.com/track/7MvbfqjUGQAjlLRGVxxBFs) | [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l) | [Oscillate](https://open.spotify.com/album/4MBW1DczWB3jKb0pcdUosd) | 4:10 |
 | 15 | [You Could Have It](https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [You Could Have It](https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f) | 2:47 |
 | 16 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 |

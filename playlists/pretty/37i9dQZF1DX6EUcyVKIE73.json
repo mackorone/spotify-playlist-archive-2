@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 90525,
+  "num_followers": 90531,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-01-28 11:21:13",
       "album": {
-        "name": "Celebrating the Legend - Ghulam Mustafa Khan",
-        "url": "https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK"
-      },
-      "artists": [
-        {
-          "name": "Ustad Ghulam Mustafa Khan",
-          "url": "https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg"
-        },
-        {
-          "name": "Sultan Niyaz",
-          "url": "https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx"
-        }
-      ],
-      "duration_ms": 1287773,
-      "name": "Raga Megh - Tala Jhaptala and Teentala",
-      "url": "https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ"
-    },
-    {
-      "added_at": "2026-01-28 11:21:13",
-      "album": {
         "name": "Navyaa",
         "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 1486493,
       "name": "Raga Bibhasi: He Shyam, Shyami",
       "url": "https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn"
+    },
+    {
+      "added_at": "2026-01-28 11:21:13",
+      "album": {
+        "name": "Celebrating the Legend - Ghulam Mustafa Khan",
+        "url": "https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK"
+      },
+      "artists": [
+        {
+          "name": "Ustad Ghulam Mustafa Khan",
+          "url": "https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg"
+        },
+        {
+          "name": "Sultan Niyaz",
+          "url": "https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx"
+        }
+      ],
+      "duration_ms": 1287773,
+      "name": "Raga Megh - Tala Jhaptala and Teentala",
+      "url": "https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ"
     }
   ],
   "unique_name": "Hindustani Classical",

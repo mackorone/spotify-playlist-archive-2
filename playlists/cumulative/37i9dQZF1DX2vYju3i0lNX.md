@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,309 songs - 3 day 4 hr 54 min
+1,311 songs - 3 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Ain’t no sense](https://open.spotify.com/track/5xV4lHwkK0lqY6fClkzybn) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Ain’t no sense](https://open.spotify.com/album/1Y5EPjYebiHkD57VCBe2ia) | 2:34 | 2024-05-10 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-04-01 | 2025-05-20 |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2021-12-07 | 2023-05-05 |
-| [Alice Corner](https://open.spotify.com/track/5vNmKXDjOHMuLmwEzFzRCs) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [Alice Corner](https://open.spotify.com/album/27cypFRKmPqno5giELZOyT) | 3:49 | 2026-01-09 |  |
+| [Alice Corner](https://open.spotify.com/track/5vNmKXDjOHMuLmwEzFzRCs) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [Alice Corner](https://open.spotify.com/album/27cypFRKmPqno5giELZOyT) | 3:49 | 2026-01-09 | 2026-02-21 |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 | 2023-03-25 |
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 | 2024-06-12 |
 | [All For You](https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [All For You](https://open.spotify.com/album/0bxiT0CWQQIpZIHMDH2l61) | 2:42 | 2024-11-05 | 2025-05-20 |
@@ -359,6 +359,7 @@
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-04 | 2024-08-20 |
 | [Far Away](https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Far Away](https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV) | 4:24 | 2023-04-27 | 2025-11-19 |
 | [Far Away Friend](https://open.spotify.com/track/2WSlLxaMa7uiGjXnZEFtiH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Far Away Friend](https://open.spotify.com/album/3dqGuIzeIuVrFx3FwZ7ZNw) | 4:04 | 2025-12-02 | 2026-02-14 |
+| [Far From Over](https://open.spotify.com/track/72LPnQlPoJiXjeoneKzGjD) | [Gramhane Group](https://open.spotify.com/artist/3nNsFr9UCq4JQnJb1vkTrk) | [Far From Over](https://open.spotify.com/album/7ajWBcuRk6kNCP3WOEPskf) | 2:52 | 2026-02-20 |  |
 | [Featherlight](https://open.spotify.com/track/3nWm3nnIZio7LaEaXKzRGK) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Featherlight](https://open.spotify.com/album/1fsYJbaE0j3oqb5gu6r8GC) | 3:15 | 2024-04-16 | 2025-04-24 |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2021-12-07 | 2024-04-17 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-02 | 2024-04-17 |
@@ -1249,7 +1250,7 @@
 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-07 | 2022-08-31 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 | 2024-10-02 |
 | [When We Fall In To Blue](https://open.spotify.com/track/46o29rDFwnxjklHJ3oklgB) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [When We Fall In To Blue](https://open.spotify.com/album/6wo0eYdXoYs7cOkePxTKsY) | 3:28 | 2025-12-16 | 2026-02-14 |
-| [When We Meet Again](https://open.spotify.com/track/62zUCKGWHoXzoFYxnhOYoq) | [Hamilton Reed Quartet](https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu) | [When We Meet Again](https://open.spotify.com/album/2nb45llfMChiQ2ef1HRyL0) | 3:22 | 2025-01-14 |  |
+| [When We Meet Again](https://open.spotify.com/track/62zUCKGWHoXzoFYxnhOYoq) | [Hamilton Reed Quartet](https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu) | [When We Meet Again](https://open.spotify.com/album/2nb45llfMChiQ2ef1HRyL0) | 3:22 | 2025-01-14 | 2026-02-21 |
 | [When We Used to Dance](https://open.spotify.com/track/5Id5aycj6xfkbsFnPPkGpM) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [When We Used to Dance](https://open.spotify.com/album/5n7kAGhnRuq6125wXayPR4) | 3:09 | 2025-03-03 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 | 2025-03-19 |
 | [When We Were Young](https://open.spotify.com/track/30UZLHtCtfBOQy6TAnivr2) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [When We Were Young](https://open.spotify.com/album/33LjvM51YwNH5PgqXgSOxu) | 3:34 | 2021-12-07 | 2025-01-28 |
@@ -1316,6 +1317,7 @@
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 | 2025-02-21 |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-30 | 2023-06-23 |
 | [Your Hint](https://open.spotify.com/track/0AzKAP30y8ws2WCqzHeRRf) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Your Hint](https://open.spotify.com/album/0OCNIJeYCdQOhnLgdstBV4) | 2:40 | 2025-09-30 |  |
+| [Your lucky self](https://open.spotify.com/track/1NpOV6K1tm05HrIQyn9ekQ) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Your lucky self](https://open.spotify.com/album/6P1CFWlljGYhm4omUrc3pb) | 4:00 | 2026-02-20 |  |
 | [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 | 2025-03-04 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

@@ -3721,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5viICibskFftesQNvvyIOh"
+      },
+      "artists": [
+        {
+          "name": "LMNY",
+          "url": "https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S"
+        },
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136929,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ"
+    },
+    {
+      "album": {
         "name": "Clouds Over Twin Lakes",
         "url": "https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW"
       },
@@ -25122,6 +25144,28 @@
       "duration_ms": 163472,
       "name": "Wasting Colors",
       "url": "https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c"
+    },
+    {
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/6qxE6LmRLuEiC9HmVMcZFj"
+      },
+      "artists": [
+        {
+          "name": "Dalvay",
+          "url": "https://open.spotify.com/artist/5Gf6NzwAaQZ9iaQHqheOct"
+        },
+        {
+          "name": "RAENE",
+          "url": "https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/1SBzR8E9SRvUZH3WHT73B5"
     },
     {
       "album": {

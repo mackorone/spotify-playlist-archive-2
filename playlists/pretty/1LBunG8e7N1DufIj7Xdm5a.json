@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHjqOh6MGDrElbHALkKKtWvIBhm9k9",
+  "snapshot_id": "AAAHkjdx4E11HqyUo6ylmfZzBkEn13AQ",
   "tracks": [
     {
       "added_at": "2026-02-18 18:50:08",
@@ -67643,6 +67643,70 @@
       "duration_ms": 151599,
       "name": "Red, White & Disrespect",
       "url": "https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV"
+    },
+    {
+      "added_at": "2026-02-20 07:25:39",
+      "album": {
+        "name": "Lost in Time (chill mix)",
+        "url": "https://open.spotify.com/album/4qTsPXuKGezL0Jlk9nqssJ"
+      },
+      "artists": [
+        {
+          "name": "Routi",
+          "url": "https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX"
+        }
+      ],
+      "duration_ms": 250439,
+      "name": "Lost in Time (chill mix)",
+      "url": "https://open.spotify.com/track/7tBGS2XjzE4cOxJCxkCwvD"
+    },
+    {
+      "added_at": "2026-02-20 07:29:36",
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        }
+      ],
+      "duration_ms": 136107,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK"
+    },
+    {
+      "added_at": "2026-02-20 08:20:56",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/3hzgNZ6zaLgx7YTL6Pxzjv"
+      },
+      "artists": [
+        {
+          "name": "Riptide River",
+          "url": "https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX"
+        }
+      ],
+      "duration_ms": 232231,
+      "name": "Lost in Time",
+      "url": "https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN"
+    },
+    {
+      "added_at": "2026-02-20 08:34:22",
+      "album": {
+        "name": "Satu Nama Dalam Doa",
+        "url": "https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs"
+      },
+      "artists": [
+        {
+          "name": "Ian Nasution",
+          "url": "https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf"
+        }
+      ],
+      "duration_ms": 275406,
+      "name": "Satu Nama Dalam Doa",
+      "url": "https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk"
     }
   ],
   "unique_name": "playlist spotify free",

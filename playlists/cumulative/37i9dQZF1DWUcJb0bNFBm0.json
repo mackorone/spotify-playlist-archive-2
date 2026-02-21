@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: We Are Imaginary (Philippines)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: Lucid Express (Hong Kong)",
   "name": "Haze ",
   "tracks": [
     {
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/4an4LKstxGB56uV7CVAQWG"
+      },
+      "artists": [
+        {
+          "name": "Dist-Sphere",
+          "url": "https://open.spotify.com/artist/3rqeNoplAHrJWcew7zhn1D"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298571,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0WZGu7APoywcXa1cfyX9Qi"
+    },
+    {
+      "album": {
         "name": "disdain",
         "url": "https://open.spotify.com/album/6lt2Vwl0MYn9dBUAgk5b2f"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 179667,
       "name": "farewell handshake",
       "url": "https://open.spotify.com/track/7phUmq6hzPD6Rp17G4s30w"
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 143570,
       "name": "Geyser",
       "url": "https://open.spotify.com/track/2fCdOF4nBAeQaXW84WjoiU"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 370661,
       "name": "Nowhere Now Here",
       "url": "https://open.spotify.com/track/6umndbhQXeVvGlEbU8D20R"
@@ -3796,6 +3814,24 @@
       "duration_ms": 222416,
       "name": "Precious Me",
       "url": "https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9"
+    },
+    {
+      "album": {
+        "name": "Instant Comfort",
+        "url": "https://open.spotify.com/album/2EL8CUKGvqUGoFPMizI7fK"
+      },
+      "artists": [
+        {
+          "name": "Lucid Express",
+          "url": "https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334008,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/3eEKnCjk3cyFJ2mVIcCojp"
     },
     {
       "album": {
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 274238,
       "name": "stay away go!",
       "url": "https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71"
@@ -4574,6 +4610,24 @@
       "duration_ms": 267500,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz"
+    },
+    {
+      "album": {
+        "name": "Portable Audio Science",
+        "url": "https://open.spotify.com/album/4x7pCru8gVhlJ7etzTExVP"
+      },
+      "artists": [
+        {
+          "name": "honeydip",
+          "url": "https://open.spotify.com/artist/2UWMhQk46Coymimh2Hky4m"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475040,
+      "name": "Summer's Gone",
+      "url": "https://open.spotify.com/track/09kfpbEo1nhfL5IOiREhcA"
     },
     {
       "album": {
@@ -5246,7 +5300,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 254866,
       "name": "Woo",
       "url": "https://open.spotify.com/track/45s3GRYHMep53pIYXGxClF"
@@ -5264,7 +5318,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192618,
       "name": "YOU",
       "url": "https://open.spotify.com/track/0cTZIkgDheJ2UGmGnGUiJy"

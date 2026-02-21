@@ -1,13 +1,37 @@
 {
   "description": "Your shortcut to the best new Hip Hop. Cover: EsDeeKid",
-  "num_followers": 504199,
+  "num_followers": 504187,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPyuAKKZWvuNhv8rJ2pq14Yf1V1d",
+  "snapshot_id": "AAAAAMNCHqImTJvLkDwzVdrjiqZyB/Gq",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:00:50",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
     {
       "added_at": "2026-02-12 19:00:26",
       "album": {

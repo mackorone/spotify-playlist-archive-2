@@ -4,7 +4,7 @@
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-2,364 songs - 5 day 12 hr 22 min
+2,365 songs - 5 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [i will get my sleet](https://open.spotify.com/track/0v7A4RrUc1B61FxOeZzT0g) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i will get my sleet](https://open.spotify.com/album/5wbVtGSXEGRNBl1CbRXxov) | 3:10 | 2026-01-31 | 2026-02-15 |
 | [I Won't Bother](https://open.spotify.com/track/7uCZgfQQ4uq8UVxDKa52BJ) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Gremlin](https://open.spotify.com/album/1ZJV5IR4juZokGWBn1liyw) | 3:20 | 2026-01-11 | 2026-01-24 |
 | [I Would](https://open.spotify.com/track/7jfAJrVOhojsiWsr2fxpQ0) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/6pSCibqEHlM0iunF7PufNU) | 3:47 | 2026-01-03 | 2026-01-15 |
+| [I'll Fall Again](https://open.spotify.com/track/00BkLKA5wGUtGiFxaLF0ro) | [Beau Lucas](https://open.spotify.com/artist/38m8gWaObFETioYwkwfg07) | [I'll Fall Again](https://open.spotify.com/album/4cX9qYZwKDAQJTOqtMTrAC) | 3:39 | 2026-02-20 |  |
 | [I'm Not Alone \(I'm Lonely\)](https://open.spotify.com/track/32J4rcbTwIN6AXYY9gj1eg) | [Courtney Farren](https://open.spotify.com/artist/3nX6SFnMj80b4JUcc76GzT) | [Punchlines](https://open.spotify.com/album/5xOwFBWdayntQSyriQ0euW) | 3:40 | 2025-11-23 | 2026-01-03 |
 | [I'm Not Doing Anything](https://open.spotify.com/track/6JnK5MQDo5DMxi8WM0b4Gw) | [Magana](https://open.spotify.com/artist/4LFGqhxOjpIUqX1pJAHBeO) | [Bad News](https://open.spotify.com/album/6Awml9SaRFzP6N6tZy528h) | 3:22 | 2025-12-23 | 2026-01-03 |
 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 | 2026-01-11 | 2026-01-24 |
@@ -1077,7 +1078,7 @@
 | [Icicle](https://open.spotify.com/track/0vBKV7xYEbXxjqoNcbDPTl) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [DOGGOD](https://open.spotify.com/album/4XZacfGi0c4leVz9pGpEfr) | 3:09 | 2026-01-11 | 2026-01-24 |
 | [Ico](https://open.spotify.com/track/2Q94RRti7ZkSi4hWCboCMY) | [Jo Passed](https://open.spotify.com/artist/1ONiIDqrHLLeDjVan9RRns) | [Away](https://open.spotify.com/album/2qkKaD8PVtIu8RKmHVtwNI) | 3:54 | 2026-01-23 | 2026-01-26 |
 | [Id](https://open.spotify.com/track/2Ym2tNrpEHjYgHHTABP6Dd) | [Daddy's Beemer](https://open.spotify.com/artist/3XZqEvsJMEpFb9YzuW1v16) | [Id](https://open.spotify.com/album/1ClIc4nFNhXokGhaivTn0Z) | 2:53 | 2026-02-07 | 2026-02-15 |
-| [IDK Your Dog](https://open.spotify.com/track/2xq7MNBHEWDYVMVcrO2TTB) | [Ginkgo Balboa](https://open.spotify.com/artist/65QWDM2mdiq2poSBa7cVGT) | [IDK Your Dog](https://open.spotify.com/album/5INPvwXYTTDUrfgmDzTbKs) | 3:41 | 2026-02-14 |  |
+| [IDK Your Dog](https://open.spotify.com/track/2xq7MNBHEWDYVMVcrO2TTB) | [Ginkgo Balboa](https://open.spotify.com/artist/65QWDM2mdiq2poSBa7cVGT) | [IDK Your Dog](https://open.spotify.com/album/5INPvwXYTTDUrfgmDzTbKs) | 3:41 | 2026-02-14 | 2026-02-21 |
 | [If I Fall](https://open.spotify.com/track/1q4LM7T49yQkVkYvFTrCEJ) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL), [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Parallel Play \[Deluxe\]](https://open.spotify.com/album/1yJtm51kkljMC1wJVZsUwh) | 4:11 | 2026-01-23 | 2026-02-01 |
 | [If someone's gonna love you](https://open.spotify.com/track/7bfIjbeRDDOvIC5q1ULIPs) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Handwriting Practice No\. 1](https://open.spotify.com/album/4D3EjnEEuZrJfBidHIC3c2) | 3:37 | 2026-01-11 | 2026-02-15 |
 | [If you cannot make it stop](https://open.spotify.com/track/3Wrkvff6krl3WVkgKMya81) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Red sky at morning](https://open.spotify.com/album/6nQIseINe1U5G7iSOi83wB) | 2:46 | 2025-11-30 | 2025-12-24 |

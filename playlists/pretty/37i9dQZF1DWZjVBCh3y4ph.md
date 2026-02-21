@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : MARVIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,985 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,005 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 4 | [Bla bla bla](https://open.spotify.com/track/6n5AjgKF4mYF4LoPchfcNS) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Bla bla bla](https://open.spotify.com/album/7aK14RK2EXIBcuxYRg3BGx) | 2:27 |
 | 5 | [DOUDOU](https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [DOUDOU](https://open.spotify.com/album/1y3IUbnsAcjEYOBbGwCUpX) | 2:18 |
 | 6 | [Safe place](https://open.spotify.com/track/6M8l9eprbrVogC3V6MnO9d) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Safe place](https://open.spotify.com/album/5RvPwdxHGLNaxKvySH3cf2) | 2:59 |
-| 7 | [Bisous](https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [](https://open.spotify.com/album/null) | 2:40 |
+| 7 | [Bisous](https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Bisous](https://open.spotify.com/album/0wZqj5SPxXHjxQVd0fAQfk) | 2:40 |
 | 8 | [Fem Sonje](https://open.spotify.com/track/4LtHP9DSggO0j79FXFKrME) | [Jeeway](https://open.spotify.com/artist/4KUDWRZ375Ch99VCv5epNv), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Fem Sonje](https://open.spotify.com/album/5xnUi10nAiv6ikzIwZ88xx) | 3:14 |
 | 9 | [Sans compromis](https://open.spotify.com/track/1ZFWCpMHHijs163GvjphXN) | [Nickson](https://open.spotify.com/artist/09oRvxQZx60TJaLKEYwpcg), [Sha](https://open.spotify.com/artist/3cedr0F6nofFjXvMn7Arkn) | [Sans compromis](https://open.spotify.com/album/6DDS2aD67Sg9tGat0qXzZ7) | 4:15 |
 | 10 | [ELLE](https://open.spotify.com/track/7xcqynYznD97rxPIY02BOd) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [ELLE](https://open.spotify.com/album/7AVOnr53a9QZ3LLN4y4Mdj) | 3:18 |

@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 172000,
       "name": "Anchor in the storm",
       "url": "https://open.spotify.com/track/08XD8LtdRyX5jAVPVQBF3T"
@@ -1700,6 +1700,24 @@
       "duration_ms": 63789,
       "name": "Bonus track",
       "url": "https://open.spotify.com/track/3VaxAOlebOyD0eoA2Gh1D1"
+    },
+    {
+      "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/4bEFJ0CJwDkPHiuoykc3Wm"
     },
     {
       "album": {
@@ -2958,6 +2976,24 @@
       "duration_ms": 282000,
       "name": "Cutting Deep",
       "url": "https://open.spotify.com/track/6WRqeg3uyXh4QV5wYHZXnV"
+    },
+    {
+      "album": {
+        "name": "Cybertruckin' MFer + Reset",
+        "url": "https://open.spotify.com/album/5TkdY31Scp4o0RNCVwF5v5"
+      },
+      "artists": [
+        {
+          "name": "Worthington's Law",
+          "url": "https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89230,
+      "name": "Cybertruckin' MFer",
+      "url": "https://open.spotify.com/track/7LSUTKtOT7K7zFu2GqkuFl"
     },
     {
       "album": {
@@ -6051,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "HELLO DENIAL",
+        "url": "https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd"
+      },
+      "artists": [
+        {
+          "name": "Quentin",
+          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "HELLO DENIAL",
+      "url": "https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl"
+    },
+    {
+      "album": {
         "name": "Nothing To Say",
         "url": "https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF"
       },
@@ -6636,6 +6690,24 @@
       "duration_ms": 246479,
       "name": "I Wanna Leave",
       "url": "https://open.spotify.com/track/7bME0upKK5b32DwGNE7kP7"
+    },
+    {
+      "album": {
+        "name": "I Will Catch You If You Fall",
+        "url": "https://open.spotify.com/album/5D8riB6Fjv2TYoqprcmrr3"
+      },
+      "artists": [
+        {
+          "name": "ASKWHY",
+          "url": "https://open.spotify.com/artist/4pknwIEKoIbKKO2M33mNip"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204241,
+      "name": "I Will Catch You If You Fall",
+      "url": "https://open.spotify.com/track/6i7SI9xB7lQXpjR4SXUV8s"
     },
     {
       "album": {
@@ -8655,6 +8727,50 @@
     },
     {
       "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/22V2xw7uRDxV038ly81lgO"
+      },
+      "artists": [
+        {
+          "name": "Bury the Masses",
+          "url": "https://open.spotify.com/artist/3QX1VAvzBgU4ZAY0R1P40b"
+        },
+        {
+          "name": "Berran Lee",
+          "url": "https://open.spotify.com/artist/25wJIQQ5H1PgKHQbpN4o8U"
+        },
+        {
+          "name": "Don Trip",
+          "url": "https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177304,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/1NwQJjzzAChaci9TMhWtWw"
+    },
+    {
+      "album": {
+        "name": "Mechanical Bird Theory",
+        "url": "https://open.spotify.com/album/65tjd5gARLr6hIYAbD2MBU"
+      },
+      "artists": [
+        {
+          "name": "Deaf Romero",
+          "url": "https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240365,
+      "name": "Mechanical Bird Theory",
+      "url": "https://open.spotify.com/track/1BTXttiYzBCQ2TpUNYSrkW"
+    },
+    {
+      "album": {
         "name": "Megaloman\u00edacos",
         "url": "https://open.spotify.com/album/7lCVZ1ZfC0fC2nW5mp8lPf"
       },
@@ -9088,7 +9204,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217494,
       "name": "My Dog's A Liar",
       "url": "https://open.spotify.com/track/73WAYwjpYFFxm6VOo3MfUZ"
@@ -9975,6 +10091,24 @@
     },
     {
       "album": {
+        "name": "Organ Grinder",
+        "url": "https://open.spotify.com/album/5c2AWUY5b4gLLVP087ddKS"
+      },
+      "artists": [
+        {
+          "name": "DOOMSDAY! Punchline",
+          "url": "https://open.spotify.com/artist/1e7Xe4KslUZdsoYoOCOcb0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/08MTVi02wXaFBol1ShnQaL"
+    },
+    {
+      "album": {
         "name": "ostracized myself",
         "url": "https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm"
       },
@@ -10642,7 +10776,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 161948,
       "name": "Prairie - Bonus Track",
       "url": "https://open.spotify.com/track/5GrwAUOxAfE0LwclSnNXx6"
@@ -11341,6 +11475,24 @@
     },
     {
       "album": {
+        "name": "Stronger the Faith",
+        "url": "https://open.spotify.com/album/4ac8AjLbvxIk2HWrsRDVWj"
+      },
+      "artists": [
+        {
+          "name": "She's Got Claws",
+          "url": "https://open.spotify.com/artist/4zz5npLXbyTXmCpsF5R2cN"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "Rewind to Fade",
+      "url": "https://open.spotify.com/track/5rjzfPZ8jhERbENZlVjOLI"
+    },
+    {
+      "album": {
         "name": "Dancing Is Forbidden!",
         "url": "https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA"
       },
@@ -11778,6 +11930,24 @@
       "duration_ms": 336150,
       "name": "Secret Ive Kept",
       "url": "https://open.spotify.com/track/2wEDn3xrlM2sl8AYMomUEn"
+    },
+    {
+      "album": {
+        "name": "Secret Speech",
+        "url": "https://open.spotify.com/album/3h7tf7wDKblO61CMnLAzE2"
+      },
+      "artists": [
+        {
+          "name": "Sugar Horse",
+          "url": "https://open.spotify.com/artist/6WsGWiP2wXeG3nbMWADUim"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242646,
+      "name": "Secret Speech",
+      "url": "https://open.spotify.com/track/3sXhaB5xzmKLbqE8VcNt3P"
     },
     {
       "album": {
@@ -15774,6 +15944,24 @@
       "duration_ms": 178666,
       "name": "whatever happened to our love?",
       "url": "https://open.spotify.com/track/3Z7mI36blYHoiJympK3zxK"
+    },
+    {
+      "album": {
+        "name": "Where did all the fruit go?",
+        "url": "https://open.spotify.com/album/1K3q3kcCgM1F511tNF5PVO"
+      },
+      "artists": [
+        {
+          "name": "The Foot & Leg Clinic",
+          "url": "https://open.spotify.com/artist/7tmHIkTO6vut5ePMhWFYKZ"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120786,
+      "name": "Where did all the fruit go?",
+      "url": "https://open.spotify.com/track/6wPalzR6QknEM62HysAMm2"
     },
     {
       "album": {

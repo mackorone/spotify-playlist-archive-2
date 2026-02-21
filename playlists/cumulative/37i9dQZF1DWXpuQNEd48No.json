@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 182812,
       "name": "ADVICE",
       "url": "https://open.spotify.com/track/5nPbBpS7oaX1Y9P8vmIa8b"
@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Brahmin Boy",
+        "url": "https://open.spotify.com/album/1AUAAaztArAjkemrMFGLBr"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159807,
+      "name": "Brahmin Boy",
+      "url": "https://open.spotify.com/track/2zmfuXNEVhMjxweApzGcKH"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k"
       },
@@ -2382,8 +2400,8 @@
       },
       "artists": [
         {
-          "name": "ViruSs",
-          "url": "https://open.spotify.com/artist/5NwH9QhyGfMDV6agHtBeqI"
+          "name": "Viruss",
+          "url": "https://open.spotify.com/artist/6sfh0P8S3lNQ8saqj0bc7q"
         },
         {
           "name": "Aarav Kaler",
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 128450,
       "name": "Fortuner",
       "url": "https://open.spotify.com/track/0m8o9TQBNFaaJmwFDfgw2y"
@@ -4478,6 +4496,24 @@
       "duration_ms": 154285,
       "name": "Goli (feat. Khushi Verma)",
       "url": "https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK"
+    },
+    {
+      "album": {
+        "name": "GTA Haryana",
+        "url": "https://open.spotify.com/album/4ysmzIVLPcHhvvahu7711r"
+      },
+      "artists": [
+        {
+          "name": "Sainibloods",
+          "url": "https://open.spotify.com/artist/4mwrocjGf1S9J95lCfEpBV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "GTA Haryana",
+      "url": "https://open.spotify.com/track/6w77RaL9sZfWNDYw1KRBwS"
     },
     {
       "album": {
@@ -8687,6 +8723,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/4Yy0f3JBC1WAtJRXAqb6Tn"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187173,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/1VV95ihwv6YL69VvlP86jU"
+    },
+    {
+      "album": {
         "name": "Parichay",
         "url": "https://open.spotify.com/album/3MayFswsQdEJZtOzinl5Ld"
       },
@@ -9266,7 +9320,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 236065,
       "name": "RAW",
       "url": "https://open.spotify.com/track/3MVxAa6fIRXdUFqKA6NGmp"

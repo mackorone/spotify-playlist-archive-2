@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 253009,
+  "num_followers": 253236,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -1015,34 +1015,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Padmaavat",
-        "url": "https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf"
-      },
-      "artists": [
-        {
-          "name": "Shivam Pathak",
-          "url": "https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj"
-        },
-        {
-          "name": "Shail Hada",
-          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
-        },
-        {
-          "name": "A.M. Turaz",
-          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
-        },
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Khalibali",
-      "url": "https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Heer Aasmani (From \"Fighter\")",
         "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
       },
@@ -1067,6 +1039,34 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Padmaavat",
+        "url": "https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf"
+      },
+      "artists": [
+        {
+          "name": "Shivam Pathak",
+          "url": "https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj"
+        },
+        {
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Khalibali",
+      "url": "https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1295,26 +1295,30 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+        "name": "Aaya Re Toofan (From \"Chhaava\")",
+        "url": "https://open.spotify.com/album/03dESos0n5Qpc8GC4mIWDz"
       },
       "artists": [
         {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
         },
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Kshitij Patwardhan",
+          "url": "https://open.spotify.com/artist/44iWTlU3L5fbu5p4PfoW44"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+      "duration_ms": 279659,
+      "name": "Aaya Re Toofan (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/1E4eyxteUpXpwThyARHrVJ"
     }
   ],
   "unique_name": "Bollywood Workout",

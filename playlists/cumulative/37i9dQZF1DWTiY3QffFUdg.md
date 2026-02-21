@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-323 songs - 16 hr 43 min
+324 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4 Da Ravers](https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [4 Da Ravers](https://open.spotify.com/album/7rFjECStShUcE157PCp9z8) | 2:33 | 2026-02-13 |  |
 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-03-21 |  |
 | [90s Baby](https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis) | [AREA ØNE](https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK), [Niotech](https://open.spotify.com/artist/6a3jFv7dkvf9HWPD5wjkof) | [90s Baby](https://open.spotify.com/album/2l6173A8dMuQ7RyR16VMb3) | 5:15 | 2024-05-17 | 2024-05-19 |
+| [A Better Place](https://open.spotify.com/track/2Ro38MXamcXCwS6MCOOPoM) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [A Better Place](https://open.spotify.com/album/2qOVtYFIQ4RsvK3vopxcA2) | 2:45 | 2026-02-13 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-11 |  |
 | [Acid \(All Night Long\)](https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Acid \(All Night Long\)](https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x) | 2:33 | 2023-08-22 | 2023-10-07 |
 | [Acid Robot \- Original Mix](https://open.spotify.com/track/4FOx2og4wtYIvdq1clkNmK) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Acid Robot \(Original Mix\)](https://open.spotify.com/album/07rD4ZVsv1vBKfQFX2ClT2) | 5:13 | 2023-09-19 | 2023-10-27 |
@@ -113,7 +114,7 @@
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-08-11 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-11-03 | 2024-04-19 |
 | [Goes Like This](https://open.spotify.com/track/7t1rB0I5QZFhCtPAwOuqqc) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [Goes Like This](https://open.spotify.com/album/2V8yiW5TVx3u3tGwqlLwlX) | 4:08 | 2024-01-26 | 2024-02-06 |
-| [Gotta Go](https://open.spotify.com/track/0uRM3jr19grNMs6q77upWV) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Gotta Go](https://open.spotify.com/album/162KSExxTMGXfmoAfnd6Fn) | 3:03 | 2025-11-28 |  |
+| [Gotta Go](https://open.spotify.com/track/0uRM3jr19grNMs6q77upWV) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Gotta Go](https://open.spotify.com/album/162KSExxTMGXfmoAfnd6Fn) | 3:03 | 2025-11-28 | 2026-02-21 |
 | [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-08-15 |  |
 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 | 2025-02-28 | 2025-03-22 |
 | [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 | 2023-12-08 | 2024-02-18 |

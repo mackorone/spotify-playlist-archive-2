@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123483,
+  "num_followers": 123471,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
     },
     {
       "added_at": "2025-10-25 00:54:02",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
-        "name": "Acid Dreams",
-        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 183930,
-      "name": "Acid Dreams",
-      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -1011,18 +991,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
+        "name": "Acid Dreams",
+        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
         }
       ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+      "duration_ms": 183930,
+      "name": "Acid Dreams",
+      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
     },
     {
       "added_at": "2025-10-25 00:54:02",
@@ -1059,18 +1043,34 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
-        "name": "Late Night Boogie",
-        "url": "https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA"
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
       },
       "artists": [
         {
-          "name": "Hot Toddy",
-          "url": "https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 393666,
-      "name": "Down to Love",
-      "url": "https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP"
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
+        "name": "Gone Are the Days (Shimokita Import)",
+        "url": "https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 228406,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX"
     },
     {
       "added_at": "2025-10-25 00:54:02",

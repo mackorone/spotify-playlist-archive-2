@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Faheem Abdullah, Vishal Mishra,and more.",
+  "description": "Latest music from King, Kumar Sanu, Neeti Mohan, Sonu Nigam and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 216000,
       "name": "Chaal",
       "url": "https://open.spotify.com/track/2t67X9iFlgDAyZRrlgALnG"
@@ -6972,7 +6972,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 231204,
       "name": "Churayi",
       "url": "https://open.spotify.com/track/5zBQuGF5t1cd6hLQYkcOxc"
@@ -10188,7 +10188,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 160039,
       "name": "Ek Mulaqaat",
       "url": "https://open.spotify.com/track/69CIBgYgyhxRGzQK1ewVXv"
@@ -12322,6 +12322,32 @@
       "duration_ms": 287035,
       "name": "Har Justajoo",
       "url": "https://open.spotify.com/track/7tboJ9InTvLG87SqE6SavU"
+    },
+    {
+      "album": {
+        "name": "Har Lamha Tum Se",
+        "url": "https://open.spotify.com/album/1ZNxKoq9C5ATTignTiZrtH"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Abhiruchi Singh",
+          "url": "https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Har Lamha Tum Se",
+      "url": "https://open.spotify.com/track/1noTFqTeJQZK59WGJdSzc0"
     },
     {
       "album": {
@@ -14832,7 +14858,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190000,
       "name": "Jaa Tujhe Ishq Ho",
       "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
@@ -14938,7 +14964,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 192333,
       "name": "Jaadugariyan",
       "url": "https://open.spotify.com/track/19eM7y36j9jEQutk7AblnV"
@@ -16093,6 +16119,36 @@
     },
     {
       "album": {
+        "name": "Jeene De",
+        "url": "https://open.spotify.com/album/7GQkGTMqaOYmdUmI65wNMu"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        },
+        {
+          "name": "Shiv Tandan",
+          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
+        },
+        {
+          "name": "Vidyuth Gargi",
+          "url": "https://open.spotify.com/artist/3zJnV2WUWenbyTvTNWsm75"
+        },
+        {
+          "name": "Pallavi Paranjape",
+          "url": "https://open.spotify.com/artist/6jz8WVtGGqhYtUv28LW6ad"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "Jeene De",
+      "url": "https://open.spotify.com/track/5pPye0s2W7aVkHGDKeO1NM"
+    },
+    {
+      "album": {
         "name": "Good Vibes Only",
         "url": "https://open.spotify.com/album/1wt10rj05bH9YHiL8u46da"
       },
@@ -16790,7 +16846,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190124,
       "name": "Just You",
       "url": "https://open.spotify.com/track/17hdidwE5rpEEFzqLXmHTl"
@@ -18080,7 +18136,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212046,
       "name": "Kehna Chahun",
       "url": "https://open.spotify.com/track/362zHvEKn8Wd0u8JgsNiYS"
@@ -22323,6 +22379,32 @@
     },
     {
       "album": {
+        "name": "Raja Hindustani",
+        "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212713,
+      "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
+      "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
+    },
+    {
+      "album": {
         "name": "Mazaak",
         "url": "https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU"
       },
@@ -23891,6 +23973,36 @@
     },
     {
       "album": {
+        "name": "Na Ja Re",
+        "url": "https://open.spotify.com/album/0UJ21SOC6lcsTNlgyZeTWH"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Na Ja Re",
+      "url": "https://open.spotify.com/track/4yLCmbKDYY61XYHzrzdcnu"
+    },
+    {
+      "album": {
         "name": "Na Ja Tu Aise Door",
         "url": "https://open.spotify.com/album/72gqhpbk62rpfNJZrwuArn"
       },
@@ -24126,7 +24238,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 215384,
       "name": "Nachaya Dil",
       "url": "https://open.spotify.com/track/43s47OTvPlemU8aMQmqO0M"
@@ -25310,6 +25422,24 @@
       "duration_ms": 178000,
       "name": "O Beliya",
       "url": "https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC"
+    },
+    {
+      "album": {
+        "name": "O Jaaniya",
+        "url": "https://open.spotify.com/album/2FoR0hNHwbN5lUDfekw67j"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224686,
+      "name": "O Jaaniya",
+      "url": "https://open.spotify.com/track/0aOtVjhLi2xr3voFxzGOSB"
     },
     {
       "album": {
@@ -27823,6 +27953,36 @@
     },
     {
       "album": {
+        "name": "Rab Se",
+        "url": "https://open.spotify.com/album/1kpnTud9PiKecWYlvUBQo0"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Rab Se",
+      "url": "https://open.spotify.com/track/0MqOGFgCdGlFhCJwFyP4UY"
+    },
+    {
+      "album": {
         "name": "Rahat",
         "url": "https://open.spotify.com/album/2EEoOkG4m1FqOoxuifIC7r"
       },
@@ -30270,7 +30430,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 298000,
       "name": "Sanam Beraham",
       "url": "https://open.spotify.com/track/0BFtVfD4UCM17SZ2Uz41LL"
@@ -35635,6 +35795,28 @@
     },
     {
       "album": {
+        "name": "Tu Mila",
+        "url": "https://open.spotify.com/album/50Y2Kglod3hbx8kKRfOAMD"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        },
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143341,
+      "name": "Tu Mila",
+      "url": "https://open.spotify.com/track/2TheIuczIyxWtOgBGoqbPN"
+    },
+    {
+      "album": {
         "name": "Tu Mile Dil Khile - Single",
         "url": "https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm"
       },
@@ -37044,7 +37226,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 151874,
       "name": "umraan",
       "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"
@@ -37989,6 +38171,32 @@
     },
     {
       "album": {
+        "name": "Yahin Guzaar Doon",
+        "url": "https://open.spotify.com/album/0AZmTzuCSGByyQ9c8HtsQT"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273469,
+      "name": "Yahin Guzaar Doon",
+      "url": "https://open.spotify.com/track/581QL3x7Cfw1RNqZe0OPfC"
+    },
+    {
+      "album": {
         "name": "Yanta",
         "url": "https://open.spotify.com/album/5SztEUOannx7OKx7QdMh4c"
       },
@@ -38148,6 +38356,28 @@
       "duration_ms": 230975,
       "name": "Yeh Nazar (From \"I Love You\")",
       "url": "https://open.spotify.com/track/1t7CS5cOwUCufHKiVzPZgw"
+    },
+    {
+      "album": {
+        "name": "Raja Hindustani",
+        "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197021,
+      "name": "Yeh Safar (feat. Shaan)",
+      "url": "https://open.spotify.com/track/3umlydgMec3pNRQrWpKDHF"
     },
     {
       "album": {

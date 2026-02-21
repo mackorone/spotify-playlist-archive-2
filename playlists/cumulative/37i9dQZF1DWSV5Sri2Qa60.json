@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Whitelands",
+  "description": "Where your new favourite bands are discovered. Cover: EVELYN GRAY",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 292882,
       "name": "Ain't Quite Right (unresolved)",
       "url": "https://open.spotify.com/track/0GGzlOymjqX36JgsXMDXLm"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5"
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/1SfPJUA1h4nVXXg7djGJuP"
+      },
+      "artists": [
+        {
+          "name": "the north",
+          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161013,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/4sH3K3n7qYxp14WyWy3sQA"
+    },
+    {
+      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/6hoc9hWzAKyCzOL1TYkkgd"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 247849,
       "name": "Cartography",
       "url": "https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 208000,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
@@ -992,6 +1010,24 @@
       "duration_ms": 163826,
       "name": "Close Call",
       "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+    },
+    {
+      "album": {
+        "name": "Clotheslines",
+        "url": "https://open.spotify.com/album/2JRL1KbfgQJqTH4iDWJe1W"
+      },
+      "artists": [
+        {
+          "name": "EVELYN GRAY",
+          "url": "https://open.spotify.com/artist/3ROjDWkV3PwlHpHKrSv1T8"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Clotheslines",
+      "url": "https://open.spotify.com/track/6gFASiRhLKDvzPqW5T37Km"
     },
     {
       "album": {
@@ -1661,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Falling Posture",
+        "url": "https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY"
+      },
+      "artists": [
+        {
+          "name": "MOULD",
+          "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Falling Posture",
+      "url": "https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3"
+    },
+    {
+      "album": {
         "name": "Feed My Head",
         "url": "https://open.spotify.com/album/5LySqN6iv9j6LuFxsJnt5N"
       },
@@ -1730,6 +1784,24 @@
       "duration_ms": 208042,
       "name": "Fibbs",
       "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
+    },
+    {
+      "album": {
+        "name": "fight or flight",
+        "url": "https://open.spotify.com/album/5fiU8z7vvmrGlLTHxQrlVz"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190402,
+      "name": "fight or flight",
+      "url": "https://open.spotify.com/track/092xcjqzw0MYKxDGffoIVV"
     },
     {
       "album": {
@@ -2176,7 +2248,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 225426,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
@@ -2471,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235429,
+      "name": "I got god",
+      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
+    },
+    {
+      "album": {
         "name": "I Heard, I Saw",
         "url": "https://open.spotify.com/album/61RHatwLMZ5hKVMDvmOADK"
       },
@@ -2482,7 +2572,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 181056,
       "name": "I Heard, I Saw",
       "url": "https://open.spotify.com/track/1uNhpnn7iZxSCzGfVIZPuo"
@@ -3555,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Numerology",
+        "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
+      },
+      "artists": [
+        {
+          "name": "My New Band Believe",
+          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258064,
+      "name": "Numerology",
+      "url": "https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep"
+    },
+    {
+      "album": {
         "name": "Oar",
         "url": "https://open.spotify.com/album/30GQIVpFXmNtlb9JuzlRwn"
       },
@@ -3674,7 +3782,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 174280,
       "name": "Party",
       "url": "https://open.spotify.com/track/5zEgkeDQtPTKAC7sM5ocUp"
@@ -5216,6 +5324,24 @@
       "duration_ms": 183262,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh"
+    },
+    {
+      "album": {
+        "name": "Virgin Soil",
+        "url": "https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix"
+      },
+      "artists": [
+        {
+          "name": "1000 Rabbits",
+          "url": "https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Virgin Soil",
+      "url": "https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB"
     },
     {
       "album": {

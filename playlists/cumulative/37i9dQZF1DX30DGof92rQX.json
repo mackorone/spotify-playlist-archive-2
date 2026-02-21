@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Uzair Jaswal, Hasan Raheem",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 140000,
       "name": "24 Karat (Remix) [feat. MOH]",
       "url": "https://open.spotify.com/track/3Zku1jk17D8tBYYmhKNmrq"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147434,
       "name": "Aye Na",
       "url": "https://open.spotify.com/track/0jbhZLUAzyKGgt5xAebN7V"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 209318,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/1OL1xnG5bVYD46iapyeu6J"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 148252,
       "name": "DMT",
       "url": "https://open.spotify.com/track/17gDnBenrOWktdkErkvbNr"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 186874,
       "name": "Dont Care",
       "url": "https://open.spotify.com/track/1uIlrc9uqGwSBL85e4WUa0"
@@ -2058,6 +2058,32 @@
       "duration_ms": 125225,
       "name": "door",
       "url": "https://open.spotify.com/track/4qT0z1HCGppxOoQHRHpP2e"
+    },
+    {
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/16B8GbRKZreDp9NZLjDEVh"
+      },
+      "artists": [
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Mickey Singh",
+          "url": "https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173541,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/4OcA2iw5g8pt88DtkVu3x9"
     },
     {
       "album": {
@@ -2098,7 +2124,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 147840,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
@@ -2362,7 +2388,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 100800,
       "name": "Fill In The Blanks",
       "url": "https://open.spotify.com/track/0NrSln23iV4a0sVNjMsITn"
@@ -2625,6 +2651,28 @@
     },
     {
       "album": {
+        "name": "Geriyan",
+        "url": "https://open.spotify.com/album/3RgaefQoN3ENuZKwWwamoN"
+      },
+      "artists": [
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        },
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137755,
+      "name": "Geriyan",
+      "url": "https://open.spotify.com/track/6WyBjER04p9vzqFgkHdfiK"
+    },
+    {
+      "album": {
         "name": "Gila",
         "url": "https://open.spotify.com/album/5r73zmlgijtFCBpJOduTMX"
       },
@@ -2816,7 +2864,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 210647,
       "name": "Har Saal",
       "url": "https://open.spotify.com/track/6xeSLTd7PIUCAws3fey1hE"
@@ -4013,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Khamoshi",
+        "url": "https://open.spotify.com/album/5tkuwXTuxyiRGD478TKBDF"
+      },
+      "artists": [
+        {
+          "name": "SingingCrow",
+          "url": "https://open.spotify.com/artist/73WZ1kCWLsf8jeNvd6zJDz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284919,
+      "name": "Khamoshi",
+      "url": "https://open.spotify.com/track/2f5NuDyMHpf8w0qd1Oaasr"
+    },
+    {
+      "album": {
         "name": "Khamoshiyan",
         "url": "https://open.spotify.com/album/4u8s4kNAftLqvP6Kt5S5QU"
       },
@@ -4024,7 +4090,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 161159,
       "name": "Khamoshiyan",
       "url": "https://open.spotify.com/track/5gPFmi4oRZ5OUVw8Z2OZZU"
@@ -4455,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "Lapata",
+        "url": "https://open.spotify.com/album/2GNP3b6OY19xuLHNRnV79S"
+      },
+      "artists": [
+        {
+          "name": "Soid",
+          "url": "https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3"
+        },
+        {
+          "name": "Prod.S41F",
+          "url": "https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Lapata",
+      "url": "https://open.spotify.com/track/1314ZZ8gf9oWVWnU23urem"
+    },
+    {
+      "album": {
         "name": "Laut Aaye",
         "url": "https://open.spotify.com/album/3UYNsrnQGbzg3pD16AwlMk"
       },
@@ -4636,6 +4724,24 @@
       "duration_ms": 204155,
       "name": "Lovely Bukhaar",
       "url": "https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH"
+    },
+    {
+      "album": {
+        "name": "Lover Boy <3",
+        "url": "https://open.spotify.com/album/2s8ioFadoLI0PUpE3PbZ8T"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146301,
+      "name": "Lover Boy <3",
+      "url": "https://open.spotify.com/track/2Q5gyCUNYQz2EL9roBpTop"
     },
     {
       "album": {
@@ -6096,7 +6202,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 175813,
       "name": "Party Song",
       "url": "https://open.spotify.com/track/0F7QKYQWrTzTpRWOknXy46"
@@ -6268,7 +6374,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 165210,
       "name": "Poetic Love",
       "url": "https://open.spotify.com/track/5uYBuSoUTvX3FqQ5MpcZxl"
@@ -6418,7 +6524,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 203076,
       "name": "Pyaar Ki Patang",
       "url": "https://open.spotify.com/track/10jqaZuBUU9gFI6xYkYsIe"
@@ -6840,6 +6946,24 @@
       "duration_ms": 142411,
       "name": "ROOP",
       "url": "https://open.spotify.com/track/77vCk9lni7MVjwCGSW7MmO"
+    },
+    {
+      "album": {
+        "name": "Roothay",
+        "url": "https://open.spotify.com/album/1TRNxPSgUiPXk7hi7sYkEx"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khan",
+          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259746,
+      "name": "Roothay",
+      "url": "https://open.spotify.com/track/2aGgE6m1OlS7PTZs8fNLRC"
     },
     {
       "album": {
@@ -7820,6 +7944,24 @@
       "duration_ms": 274800,
       "name": "Taray",
       "url": "https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb"
+    },
+    {
+      "album": {
+        "name": "Tarpae",
+        "url": "https://open.spotify.com/album/142SdDNlHPWCS63Ouewlou"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Khan",
+          "url": "https://open.spotify.com/artist/1UGsSy3gdyrAnPSdhbh6EY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tarpae",
+      "url": "https://open.spotify.com/track/0ik3eFyP7Y8b1tycRCXPom"
     },
     {
       "album": {

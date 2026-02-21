@@ -1,300 +1,268 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2580,
+  "num_followers": 2578,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEyoe5QbfA4KDWXy16H0of0muxUW3l",
+  "snapshot_id": "AAAE6cVrwGmLCzf63EM4rJB8k4tpg17w",
   "tracks": [
     {
-      "added_at": "2026-02-13 14:34:20",
+      "added_at": "2026-02-20 14:11:11",
       "album": {
-        "name": "It Don't Make No Sense",
-        "url": "https://open.spotify.com/album/4F6dWxk0Z47mFmExrUMdZU"
+        "name": "\u0646\u0642\u0635\u0627\u0643 \u0627\u0644\u0642\u0639\u062f\u0629",
+        "url": "https://open.spotify.com/album/0DhHQ4ZldUZVV47kdQwKp2"
       },
       "artists": [
         {
-          "name": "Nathan Maher",
-          "url": "https://open.spotify.com/artist/0RvGEHynJ4tWEawxxEJMDa"
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W"
         }
       ],
-      "duration_ms": 187317,
-      "name": "It Don't Make No Sense",
-      "url": "https://open.spotify.com/track/4fk7IfKo9Lvohj6WgdQDs1"
+      "duration_ms": 171397,
+      "name": "\u0646\u0642\u0635\u0627\u0643 \u0627\u0644\u0642\u0639\u062f\u0629",
+      "url": "https://open.spotify.com/track/0g3kXFE6BeecFnqwObtNSu"
     },
     {
-      "added_at": "2026-02-13 14:33:23",
+      "added_at": "2026-02-20 14:04:14",
       "album": {
-        "name": "Ungdomstid",
-        "url": "https://open.spotify.com/album/0s5ULlwKLmLdmAYD30Rm7G"
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/7vmqgMmfodaUUpUEEKMP0T"
       },
       "artists": [
         {
-          "name": "Martin Engelsen",
-          "url": "https://open.spotify.com/artist/0QSv32WoIkGvjPf0ARrJrm"
+          "name": "Mejeristerna",
+          "url": "https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Ungdomstid",
-      "url": "https://open.spotify.com/track/0WBhJyeKoWv5q16upHjwt7"
+      "duration_ms": 155120,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/2gLXCKuUIx8j8oZl8AeclL"
     },
     {
-      "added_at": "2026-02-13 14:57:37",
+      "added_at": "2026-02-20 14:11:53",
       "album": {
-        "name": "o-scope",
-        "url": "https://open.spotify.com/album/31SGD4ZpWiavVsApziQBDF"
+        "name": "\u0623\u0643\u062a\u0631 \u0648\u0623\u0643\u062a\u0631",
+        "url": "https://open.spotify.com/album/4juWyHFICtnC25xKpO8jQm"
       },
       "artists": [
         {
-          "name": "nayl",
-          "url": "https://open.spotify.com/artist/7GbWeqkZ1HSS68Tijnp4s7"
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        },
+        {
+          "name": "Hyde Park Developments",
+          "url": "https://open.spotify.com/artist/71yQNM3eww246JZ1ftK5cj"
         }
       ],
-      "duration_ms": 188148,
-      "name": "o-scope",
-      "url": "https://open.spotify.com/track/1pHp2CbeP1gseHID9qVOz3"
+      "duration_ms": 111641,
+      "name": "\u0623\u0643\u062a\u0631 \u0648\u0623\u0643\u062a\u0631",
+      "url": "https://open.spotify.com/track/6nuAvMaKaV4R6HUG7U9RPb"
     },
     {
-      "added_at": "2026-02-13 14:31:51",
+      "added_at": "2026-02-20 14:09:07",
       "album": {
-        "name": "From The Fallen",
-        "url": "https://open.spotify.com/album/2ee3qtuqEpfUcmRPszn7o6"
+        "name": "You're My Star",
+        "url": "https://open.spotify.com/album/30hZUx7vO0WZAgVsNKpMjd"
       },
       "artists": [
         {
-          "name": "Electric Hydra",
-          "url": "https://open.spotify.com/artist/5iF37V1AGqA6aLAo1pC7Fn"
+          "name": "Cliff Wedge",
+          "url": "https://open.spotify.com/artist/2qguL07OSiwQUFvJFA3NBt"
         }
       ],
-      "duration_ms": 241663,
-      "name": "Scent of Blood",
-      "url": "https://open.spotify.com/track/6EQne30Z6J3qIT7NG9469k"
+      "duration_ms": 210132,
+      "name": "You're My Star",
+      "url": "https://open.spotify.com/track/2vt7YxIaSfb8QfxqCE37lQ"
     },
     {
-      "added_at": "2026-02-13 14:36:51",
+      "added_at": "2026-02-20 14:14:47",
       "album": {
-        "name": "The Wedding Singer",
-        "url": "https://open.spotify.com/album/3jzicpCt6Lv28TqaFn4zyb"
+        "name": "the peaks",
+        "url": "https://open.spotify.com/album/7i302C3SIJRKInM9GFMdtv"
       },
       "artists": [
         {
-          "name": "PreHistoric animals",
-          "url": "https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78"
+          "name": "D. Inver",
+          "url": "https://open.spotify.com/artist/1tXn1rBYhxJNuMFUw5Aq61"
         }
       ],
-      "duration_ms": 381826,
-      "name": "The Wedding Singer",
-      "url": "https://open.spotify.com/track/7JRoCfVjceZwT9DRPbfNUy"
+      "duration_ms": 192550,
+      "name": "the peaks",
+      "url": "https://open.spotify.com/track/1vfQ0AOZfmVbiQ81zgqRMZ"
     },
     {
-      "added_at": "2026-02-13 14:58:37",
+      "added_at": "2026-02-20 14:13:23",
       "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/2vMzOUBuFkoyrvd9HW4bL3"
+        "name": "Regentia",
+        "url": "https://open.spotify.com/album/4xs7SiXF7N2BJ1O6lzHBrg"
       },
       "artists": [
         {
-          "name": "Owl Girl",
-          "url": "https://open.spotify.com/artist/4U7WI1dimY6dMxBjlrGyNw"
+          "name": "Norrsk\u00f6ld",
+          "url": "https://open.spotify.com/artist/4w7TqVzqXTgJoVSzhFZdf9"
         }
       ],
-      "duration_ms": 220000,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0mZcA2u4eI4a3suzWySbXT"
+      "duration_ms": 240176,
+      "name": "Descension",
+      "url": "https://open.spotify.com/track/3Q13wj1HLLwz7RNXHjIkDW"
     },
     {
-      "added_at": "2026-02-13 14:32:12",
+      "added_at": "2026-02-20 14:07:24",
       "album": {
-        "name": "Valoa kohti",
-        "url": "https://open.spotify.com/album/7F9DKsNT70oN5jm5KHGnEB"
+        "name": "Orientation",
+        "url": "https://open.spotify.com/album/2kkPKpvGNxaQbJFrWXtSPv"
       },
       "artists": [
         {
-          "name": "Taskut",
-          "url": "https://open.spotify.com/artist/7iAyuEU9GJWLrAod8TZ8ol"
+          "name": "BERGET",
+          "url": "https://open.spotify.com/artist/5UUGn25tV0AesjkUV8wET4"
         }
       ],
-      "duration_ms": 258006,
-      "name": "Valoa kohti",
-      "url": "https://open.spotify.com/track/7njMPjQAgAco81MPZ5dX0I"
+      "duration_ms": 242432,
+      "name": "Orientation",
+      "url": "https://open.spotify.com/track/5mxKbS24wiByNnOZRwUm3l"
     },
     {
-      "added_at": "2026-02-13 14:32:33",
+      "added_at": "2026-02-20 14:33:37",
       "album": {
-        "name": "Never Enough For You",
-        "url": "https://open.spotify.com/album/3cHxtws0FHWPGog6i7TAJl"
+        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll (Tillsammans igen)",
+        "url": "https://open.spotify.com/album/3F9sCBsjgfBMehCywMBxGm"
       },
       "artists": [
         {
-          "name": "JURY N8",
-          "url": "https://open.spotify.com/artist/6b36Wc4tBV5vYVytrvj1JL"
+          "name": "Systrarna Dahlman",
+          "url": "https://open.spotify.com/artist/0I5tKqiflffreJaodv7QLv"
         }
       ],
-      "duration_ms": 199312,
-      "name": "Never Enough For You",
-      "url": "https://open.spotify.com/track/1S0FGf2AGraglnGt01BuNL"
+      "duration_ms": 161904,
+      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll (Tillsammans igen)",
+      "url": "https://open.spotify.com/track/1SxK3l061KMTHg2ba1HGZU"
     },
     {
-      "added_at": "2026-02-13 14:32:55",
+      "added_at": "2026-02-20 14:35:02",
       "album": {
-        "name": "Hit 'em with that Swenglish",
-        "url": "https://open.spotify.com/album/51wOph6yrmTBoaS1wSnHAt"
+        "name": "omi/omii",
+        "url": "https://open.spotify.com/album/2ZKNnQ8sK5zzureagrzKE4"
       },
       "artists": [
         {
-          "name": "Dee Bugg",
-          "url": "https://open.spotify.com/artist/5cLS5TsCUczYFOneT2U2ig"
+          "name": "Anton Svanberg",
+          "url": "https://open.spotify.com/artist/6jl3SUVzaKZA2Opn9IvuaQ"
+        },
+        {
+          "name": "Eva Lindal",
+          "url": "https://open.spotify.com/artist/2NQOct6c3ZvAGVucEOzt2U"
+        },
+        {
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Charlie Malmberg",
+          "url": "https://open.spotify.com/artist/6Wmpbs1DzT7UmlC3P4FqgD"
+        },
+        {
+          "name": "Emil Skogh",
+          "url": "https://open.spotify.com/artist/6olqr6BHUke9WnrrkiYZ5D"
         }
       ],
-      "duration_ms": 164119,
-      "name": "Hit 'em with that Swenglish",
-      "url": "https://open.spotify.com/track/68zAxM7JLnzdDxbb50oQkS"
+      "duration_ms": 236012,
+      "name": "omi:i",
+      "url": "https://open.spotify.com/track/4s9LC9gcMwFC40qMKrdB5w"
     },
     {
-      "added_at": "2026-02-13 14:33:58",
+      "added_at": "2026-02-20 14:14:22",
       "album": {
-        "name": "\u0421\u0420\u041b \u0420\u0438\u0442\u043c",
-        "url": "https://open.spotify.com/album/7vcxQ73Q2qav5ixiPAgXxB"
+        "name": "End of the world",
+        "url": "https://open.spotify.com/album/2fJw4N3DqHcKOxTKbe7ruE"
       },
       "artists": [
         {
-          "name": "loveoleglove",
-          "url": "https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7"
+          "name": "H!ED",
+          "url": "https://open.spotify.com/artist/5nc1MOaQ8yuiFZ1xjGP60U"
         }
       ],
-      "duration_ms": 239920,
-      "name": "\u0421\u0420\u041b \u0420\u0438\u0442\u043c",
-      "url": "https://open.spotify.com/track/45phtNfln4axs2uvxzj5SN"
+      "duration_ms": 169565,
+      "name": "End of the world",
+      "url": "https://open.spotify.com/track/2p3aWAzDFqvigmEneLNXH9"
     },
     {
-      "added_at": "2026-02-13 14:34:48",
+      "added_at": "2026-02-20 14:05:53",
       "album": {
-        "name": "Getting Hot",
-        "url": "https://open.spotify.com/album/2dcf1Svrc6BNOvJkpVUUaE"
+        "name": "Whatever happens",
+        "url": "https://open.spotify.com/album/2vtZwUeyLiIgVWgZX0N4XN"
       },
       "artists": [
         {
-          "name": "LESLIE",
-          "url": "https://open.spotify.com/artist/4PKLYeu6kt2bvphWY9cPuc"
+          "name": "Anders Beckius",
+          "url": "https://open.spotify.com/artist/4bP8d20lrEQrjzD4JLf8ND"
+        },
+        {
+          "name": "Neto Amado",
+          "url": "https://open.spotify.com/artist/7pNQOBpBpxwv32amj9JSxM"
         }
       ],
-      "duration_ms": 206759,
-      "name": "Getting Hot",
-      "url": "https://open.spotify.com/track/6sPtGD9IbNq1egMqgnpY9A"
+      "duration_ms": 279640,
+      "name": "Almost there",
+      "url": "https://open.spotify.com/track/6gvoWYIJDCZ7JFKalsmybc"
     },
     {
-      "added_at": "2026-02-13 14:35:08",
+      "added_at": "2026-02-20 14:06:55",
       "album": {
-        "name": "Gates of the World",
-        "url": "https://open.spotify.com/album/0dMWYhuRitLPWSfJE3nG2j"
+        "name": "WORLD-ENDING FIRE",
+        "url": "https://open.spotify.com/album/49lG7apCMYaGa5xjaevrR0"
       },
       "artists": [
         {
-          "name": "LESTOPIAT",
-          "url": "https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY"
+          "name": "WORLD-ENDING FIRE",
+          "url": "https://open.spotify.com/artist/2nyybht4KpYy6NxClUA3vO"
         }
       ],
-      "duration_ms": 363960,
-      "name": "Gates of the World",
-      "url": "https://open.spotify.com/track/5owonIg6h8Ye70w9bDkfWu"
+      "duration_ms": 267000,
+      "name": "Fear (and no foretelling)",
+      "url": "https://open.spotify.com/track/3YJsL4TELTUIDqeHfMrdzT"
     },
     {
-      "added_at": "2026-02-13 14:35:37",
+      "added_at": "2026-02-20 14:08:01",
       "album": {
-        "name": "Spectral Gravity Part 1",
-        "url": "https://open.spotify.com/album/2P57PzAFNEJeMWGkyY5pDN"
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/01M1bzoVAhagII8ZaED299"
       },
       "artists": [
         {
-          "name": "Eternal Daze",
-          "url": "https://open.spotify.com/artist/2y7MMZzwy8y47Zloxtlbds"
+          "name": "Mark Aynsley Hay",
+          "url": "https://open.spotify.com/artist/3z9aBgrDcqRWxUFzOivKzp"
+        },
+        {
+          "name": "C.C. Morris",
+          "url": "https://open.spotify.com/artist/2PFIcVh7FKA2A3Q8xSj5A7"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Echoes of You",
-      "url": "https://open.spotify.com/track/0PdS0CnX36n8zbkaa5w8gQ"
+      "duration_ms": 212991,
+      "name": "Freeze Frame",
+      "url": "https://open.spotify.com/track/3r1TBod6wcZH5DrIFqn73J"
     },
     {
-      "added_at": "2026-02-13 14:36:03",
+      "added_at": "2026-02-20 14:08:37",
       "album": {
-        "name": "Fuori Piove",
-        "url": "https://open.spotify.com/album/2pkiVWIc8JZ7bdWh2T2yWd"
+        "name": "Mr Know It All",
+        "url": "https://open.spotify.com/album/3tppBrIQOY9hdiPSImoOPQ"
       },
       "artists": [
         {
-          "name": "SATURI",
-          "url": "https://open.spotify.com/artist/0CJ6TamJ7gq0RX0316S4mt"
+          "name": "Alexander Scheele",
+          "url": "https://open.spotify.com/artist/2gOHOymY97X73WcqFSoL29"
         }
       ],
-      "duration_ms": 149960,
-      "name": "Fuori Piove",
-      "url": "https://open.spotify.com/track/1CSv5dtyaRKp3dgiRCYfeG"
-    },
-    {
-      "added_at": "2026-02-13 14:36:27",
-      "album": {
-        "name": "Mango sunset",
-        "url": "https://open.spotify.com/album/3iJ2oEWhMYovqMZNmSWsaX"
-      },
-      "artists": [
-        {
-          "name": "Mango Wille",
-          "url": "https://open.spotify.com/artist/61BRh1VldCflNmwlws6HFZ"
-        }
-      ],
-      "duration_ms": 139960,
-      "name": "Mango sunset",
-      "url": "https://open.spotify.com/track/54tlJIf8NBsRUzwtlwyEsx"
-    },
-    {
-      "added_at": "2026-02-13 14:37:15",
-      "album": {
-        "name": "Limelight Heaven",
-        "url": "https://open.spotify.com/album/019TB4FSxUvv8kjubQfKlL"
-      },
-      "artists": [
-        {
-          "name": "AriDB",
-          "url": "https://open.spotify.com/artist/5VPI9MaDiH4CsFqeiISY94"
-        }
-      ],
-      "duration_ms": 214483,
-      "name": "Limelight Heaven",
-      "url": "https://open.spotify.com/track/1nLShvajgMje1CUtUmnBCH"
-    },
-    {
-      "added_at": "2026-02-13 14:54:59",
-      "album": {
-        "name": "Dancing Through The Night",
-        "url": "https://open.spotify.com/album/6dDN0au8i7RN9acEuANLrT"
-      },
-      "artists": [
-        {
-          "name": "Nela Abib",
-          "url": "https://open.spotify.com/artist/6b8jlklPiHiC0dbJCRqBjx"
-        }
-      ],
-      "duration_ms": 149960,
-      "name": "Dancing Through The Night",
-      "url": "https://open.spotify.com/track/2tys4VQHlKhIAsGxZDTniG"
-    },
-    {
-      "added_at": "2026-02-13 14:58:01",
-      "album": {
-        "name": "At Night (war dance)",
-        "url": "https://open.spotify.com/album/0wSAAdBgLfcqZu19XtcTXu"
-      },
-      "artists": [
-        {
-          "name": "DeadCityMonkeys",
-          "url": "https://open.spotify.com/artist/7xmHTajSoookwtf2x0NOoQ"
-        }
-      ],
-      "duration_ms": 186832,
-      "name": "At Night (war dance)",
-      "url": "https://open.spotify.com/track/057sRQpxdr5Aa0TZGUwQrk"
+      "duration_ms": 201500,
+      "name": "Mr Know It All",
+      "url": "https://open.spotify.com/track/2gnJweaj7JJoHQ8y9FNHTu"
     }
   ],
   "unique_name": "Independent Music Friday",

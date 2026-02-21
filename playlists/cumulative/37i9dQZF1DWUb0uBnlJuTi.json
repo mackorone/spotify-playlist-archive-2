@@ -6329,6 +6329,28 @@
     },
     {
       "album": {
+        "name": "Deface The Currency",
+        "url": "https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE"
+      },
+      "artists": [
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249070,
+      "name": "Rules Of The Game",
+      "url": "https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ"
+    },
+    {
+      "album": {
         "name": "The Movement Revisited: A Musical Portrait of Four Icons",
         "url": "https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13"
       },
@@ -7632,7 +7654,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "description": "New jazz for open minds. Cover: aja monet",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 295821,
       "name": "BBL",
       "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
@@ -5303,6 +5303,28 @@
     },
     {
       "album": {
+        "name": "Body Flows",
+        "url": "https://open.spotify.com/album/1IPUqYUEmBsnKABRdjpAzk"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Body Flows",
+      "url": "https://open.spotify.com/track/7upfL0aBLyS0Et87s2dhP0"
+    },
+    {
+      "album": {
         "name": "Body Language (feat. Sasha Keable)",
         "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
       },
@@ -5418,7 +5440,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184906,
       "name": "Bonita's Place",
       "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
@@ -15427,6 +15449,24 @@
     },
     {
       "album": {
+        "name": "hollyweird",
+        "url": "https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320679,
+      "name": "hollyweird",
+      "url": "https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y"
+    },
+    {
+      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/4DawBN3WVhUPP7WlJyLXIU"
       },
@@ -16638,7 +16678,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 384243,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
@@ -19708,6 +19748,24 @@
       "duration_ms": 205720,
       "name": "Lawd Why",
       "url": "https://open.spotify.com/track/39VnaoDW2jT2QuWQ3gk9j2"
+    },
+    {
+      "album": {
+        "name": "Lawns",
+        "url": "https://open.spotify.com/album/32aTGZfiVQIGZkOva4qTaz"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Lawns",
+      "url": "https://open.spotify.com/track/7fqoP4zNxRxJGOnWMMSsbv"
     },
     {
       "album": {
@@ -27423,6 +27481,28 @@
     },
     {
       "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130532,
+      "name": "play (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Order",
         "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
       },
@@ -32122,7 +32202,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 255480,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0maP9hHUwdSArRsD3EI76E"
@@ -40708,12 +40788,12 @@
           "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
         },
         {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        },
-        {
           "name": "Terri Lyne Carrington",
           "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
         }
       ],
       "date_added": "2026-02-13",

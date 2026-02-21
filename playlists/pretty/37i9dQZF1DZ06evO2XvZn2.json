@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15781,
+  "num_followers": 15785,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAAr401yLmxYnT0UcEQRmiRY",
+  "snapshot_id": "aZZSgAAAAADpgBdrYiQJEw6KNRgzQ8T4",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
-        "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
       },
       "artists": [
         {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Santiago Achaga",
-          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
         }
       ],
-      "duration_ms": 150468,
-      "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
-      "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
+      "duration_ms": 206200,
+      "name": "Interludio: La Gloria de Dios",
+      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
     },
     {
       "added_at": null,
@@ -443,22 +439,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
+        "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
+        "url": "https://open.spotify.com/album/3MtGG65uCpF29ldqwMPzi4"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Santiago Achaga",
+          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Interludio: La Gloria de Dios",
-      "url": "https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx"
+      "duration_ms": 150468,
+      "name": "Podemos Ser Amigos (feat. Santiago Achaga)",
+      "url": "https://open.spotify.com/track/37BoR6RbzfdNvkcaPrAZqy"
     },
     {
       "added_at": null,
@@ -479,50 +479,6 @@
       "duration_ms": 236843,
       "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
     },
     {
       "added_at": null,
@@ -551,6 +507,50 @@
       "duration_ms": 166140,
       "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,

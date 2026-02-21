@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 92588,
+  "num_followers": 92622,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFFaNPqZ+cPChajQeYrXLZKGNJj",
+  "snapshot_id": "AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:23",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Round My Mind",
-        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
-      },
-      "artists": [
-        {
-          "name": "Revealer",
-          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Round My Mind",
-      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
-    },
-    {
-      "added_at": "2026-02-12 23:00:23",
-      "album": {
         "name": "Dynamite (2025 OST)",
         "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
       },
@@ -367,22 +351,34 @@
     {
       "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Kick Train",
-        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
+        "name": "Round My Mind",
+        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
       },
       "artists": [
         {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Kick Train",
-      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
+      "duration_ms": 216000,
+      "name": "Round My Mind",
+      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
     },
     {
       "added_at": "2026-02-12 23:00:23",
@@ -411,18 +407,22 @@
     {
       "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Midnight Rain",
-        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
+        "name": "Kick Train",
+        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
         }
       ],
-      "duration_ms": 224914,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
+      "duration_ms": 178666,
+      "name": "Kick Train",
+      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
     },
     {
       "added_at": "2026-02-12 23:00:23",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Trip to Italia",
-        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Trip to Italia",
-      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
-    },
-    {
-      "added_at": "2026-02-12 23:00:23",
-      "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
     },
     {
       "added_at": "2026-02-12 23:00:23",
@@ -579,30 +579,6 @@
     {
       "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Hard Gaan",
-        "url": "https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ"
-      },
-      "artists": [
-        {
-          "name": "Roosterz",
-          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
-        },
-        {
-          "name": "B\u00f6ssels",
-          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
-        },
-        {
-          "name": "Royalistiq",
-          "url": "https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK"
-        }
-      ],
-      "duration_ms": 151024,
-      "name": "Hard Gaan",
-      "url": "https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y"
-    },
-    {
-      "added_at": "2026-02-12 23:00:23",
-      "album": {
         "name": "Oh My (Dimitri K Remix)",
         "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 153142,
       "name": "Oh My (Dimitri K Remix)",
       "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Hard Gaan",
+        "url": "https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ"
+      },
+      "artists": [
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        },
+        {
+          "name": "B\u00f6ssels",
+          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
+        },
+        {
+          "name": "Royalistiq",
+          "url": "https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK"
+        }
+      ],
+      "duration_ms": 151024,
+      "name": "Hard Gaan",
+      "url": "https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y"
     },
     {
       "added_at": "2026-02-12 23:00:23",

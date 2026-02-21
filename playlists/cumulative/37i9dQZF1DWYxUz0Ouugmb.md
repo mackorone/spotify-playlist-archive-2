@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Difki Khalif
 
-315 songs - 20 hr 27 min
+316 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Love Me Like You Say You Do](https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Love Me Like You Say You Do](https://open.spotify.com/album/6eUwL9LXbgvh0zaNPjRZV8) | 3:40 | 2024-03-29 | 2025-04-16 |
 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 | 2025-09-09 | 2025-11-14 |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |
+| [Makna](https://open.spotify.com/track/2FPYnKqvSmYUBk1YE8q31E) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 3:44 | 2026-02-20 |  |
 | [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-22 | 2024-03-29 |
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2023-04-13 | 2024-03-29 |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2022-03-24 | 2023-04-14 |

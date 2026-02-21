@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,882 songs - 4 day 16 hr 49 min
+1,885 songs - 4 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1023,6 +1023,7 @@
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |
+| [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-02-20 |  |
 | [Meditation Version](https://open.spotify.com/track/4xz1AZQVP23FfxMomfYlz0) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:14 | 2024-07-06 |  |
 | [Meglio \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/0FWI6Glw2QagTUM8XI2d9U) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Bugatti Cristian](https://open.spotify.com/album/2JFwpVw1ZdevcYCWPrOZKF) | 3:28 | 2023-03-15 |  |
 | [Mejorar la Especie](https://open.spotify.com/track/2fHnu29xq4544B0aXdwAow) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Mejorar la Especie](https://open.spotify.com/album/27awH2vQ8fb0UH2e7rVA9Q) | 2:54 | 2025-08-05 |  |
@@ -1106,6 +1107,7 @@
 | [My Innocence \(Temporary Highs\)](https://open.spotify.com/track/0r9vrABe0duyPpGK5oGmlO) | [Stephanie Rhealyn](https://open.spotify.com/artist/6oq42km1vc5Fa4fSyHdsHt) | [My Innocence \(Temporary Highs\)](https://open.spotify.com/album/68lu52bjNHlEtddsEogP3J) | 3:36 | 2025-09-07 |  |
 | [My Lady](https://open.spotify.com/track/1bbd690eEyowAtPJNJifdm) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [My Lady](https://open.spotify.com/album/0WG84FnSMEPZz1bPkC8JHj) | 3:06 | 2023-03-15 |  |
 | [My Lady](https://open.spotify.com/track/0KHQElj1JILxKETVSGXwgN) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [My Lady](https://open.spotify.com/album/7Cc8L93z6dE4Jxe4LuJIyS) | 3:06 | 2024-09-24 |  |
+| [My last song for you](https://open.spotify.com/track/4bpODX6WMCmdohiQNUYxfd) | [RAWRITO](https://open.spotify.com/artist/69kJaVwMWBJF2ncss4pvqV) | [My last song for you](https://open.spotify.com/album/4ZoXUCQKkfr5jmC1MrDy4A) | 3:01 | 2026-02-20 |  |
 | [My Life](https://open.spotify.com/track/1kO0nC4VnEjMBeJZI7g2T2) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:35 | 2025-02-15 |  |
 | [my little star](https://open.spotify.com/track/0AaT0gUUPA9do3tVWlPKUi) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:42 | 2025-10-28 |  |
 | [My Lost Love](https://open.spotify.com/track/2oK4Y2MEBo9OL2k9bDf5ou) | [Dianna Keys](https://open.spotify.com/artist/2ukR4XZO8Gw4IyT0CNWh6x) | [My Lost Love](https://open.spotify.com/album/1f8HIiS7mtm1FoyD79U1uZ) | 3:52 | 2025-07-09 |  |
@@ -1286,6 +1288,7 @@
 | [PunkIo](https://open.spotify.com/track/4P4fI408KLV8giZylL7dlt) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [PunkIo](https://open.spotify.com/album/6n2hQmfgOzhUW33Ueu67kx) | 2:17 | 2024-06-07 |  |
 | [Punto di Rottura](https://open.spotify.com/track/0uQTzEoMf6v8kM20KPOfx6) | [\-\->FrAmE!](https://open.spotify.com/artist/0300JDaLzNwXHEnpBwkkgP) | [Punto di Rottura](https://open.spotify.com/album/1siUWLbNTo3RhxVN1NWGdm) | 2:32 | 2024-06-13 |  |
 | [Purple Sun](https://open.spotify.com/track/6ynwUzce6gRhmhySBff3Ts) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Purple Sun](https://open.spotify.com/album/7G3YoqjlW2FrTE29ZsK0pQ) | 2:22 | 2025-07-31 |  |
+| [Push On](https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO) | [12 Tribes Of Mars](https://open.spotify.com/artist/6DCPOFQmbWMu64jaWWEX87) | [Push On](https://open.spotify.com/album/1n0zoAysgW94AmxkNgm9FG) | 5:22 | 2026-02-20 |  |
 | [Push Up Shoulder Taps \(HIIT 30\-10\)](https://open.spotify.com/track/4Ub9dKmC6GSyTDzRyQi5Ez) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [PUSH UP](https://open.spotify.com/album/1ebdB3Tl6Q9et4RUnWxnxC) | 1:21 | 2024-12-25 |  |
 | [Put Your Hands Up \(HIIT 30\-10\)](https://open.spotify.com/track/06sRTlVipK8fJ5ddpEq8Fv) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:20 | 2024-03-08 |  |
 | [Putzparty](https://open.spotify.com/track/5EXP9sH0luhiPMFfVyr55l) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [Putzparty](https://open.spotify.com/album/2MZRhwLG2qfB6j9UINWYbv) | 4:47 | 2025-06-17 |  |

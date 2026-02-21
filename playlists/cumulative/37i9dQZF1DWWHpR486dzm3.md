@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,087 songs - 2 day 17 hr 28 min
+1,087 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [teenagestylez](https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK) | [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [teenagestylez](https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8) | 2:35 | 2025-01-02 | 2025-02-07 |
 | [Teknologia](https://open.spotify.com/track/7coOG4HNKUPvqh0ok6K6Ms) | [HELKA](https://open.spotify.com/artist/37M2Vpf9z3CeBBhxfSTZ2r) | [Teknologia](https://open.spotify.com/album/6Bwq30Thzn3GE0pgG0TmRm) | 3:10 | 2024-07-18 | 2024-09-06 |
 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 | 2025-08-21 | 2025-09-12 |
+| [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 | 2026-02-19 |  |
 | [Terveisin, Gösta](https://open.spotify.com/track/7qcFVfMBrmpytP5awe2MWD) | [SETIS I](https://open.spotify.com/artist/2EFY8hqyxJ7iU30dG1vmxq) | [Terveisin, Gösta](https://open.spotify.com/album/0EjFesemwrRBcTVD8b8OMj) | 4:35 | 2024-07-02 | 2024-08-02 |
 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 | 2025-02-27 | 2025-04-04 |
 | [The Beast In Me](https://open.spotify.com/track/2u5zlkN9ysoR0kMpxKXRkh) | [LEONHEART](https://open.spotify.com/artist/0tKEoknPTfTqKily01A8Zp) | [The Beast In Me](https://open.spotify.com/album/2eUWAJr2cMha8M1HeboLPh) | 2:57 | 2024-12-12 | 2025-01-31 |
@@ -964,7 +965,6 @@
 | [Tottunut veteen](https://open.spotify.com/track/34TFf7E4qTHKGaru5qrmlB) | [Valkea](https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw) | [Tottunut veteen](https://open.spotify.com/album/3LTSPBmn9dAs1hW5dWgAa0) | 3:26 | 2025-01-09 | 2025-02-21 |
 | [Touch Me](https://open.spotify.com/track/6QjHL2PQGYydnDvp07PnWt) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Touch Me](https://open.spotify.com/album/3b09iTgziOlkDjKXir4jzN) | 2:49 | 2025-03-20 | 2025-04-04 |
 | [toxic](https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i) | [hachiko](https://open.spotify.com/artist/4ol2mWmR50f4cjW5QkIbpk) | [toxic](https://open.spotify.com/album/6LIqO4wBWPgbTV3SbuPouX) | 2:01 | 2024-07-02 | 2024-08-16 |
-| [Track 8](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-19 |  |
 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 | 2024-09-12 | 2024-10-25 |
 | [Tuhkaa](https://open.spotify.com/track/4814VWnOYwmaI9bsQOniK2) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Tuhkaa](https://open.spotify.com/album/6emBmpZS24ZFZ9JdCmROmh) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Tuhma kuva](https://open.spotify.com/track/2B55MJg3Zc9cO7gabvInUe) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Tuhma kuva](https://open.spotify.com/album/0pQMxapTVJ21Jy31gJiJGP) | 4:49 | 2024-08-29 | 2024-09-20 |

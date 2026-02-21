@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235615,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
+    },
+    {
+      "album": {
         "name": "Acalma O Peito",
         "url": "https://open.spotify.com/album/3WeqVSazlxTMMmaoVNUDUo"
       },
@@ -2298,7 +2320,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 158085,
       "name": "Brakelights",
       "url": "https://open.spotify.com/track/0kblNgjAqU68fbOmVJWT5d"
@@ -3386,7 +3408,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 194000,
       "name": "Corocito (Manguelena) - Sunset Groove Remix",
       "url": "https://open.spotify.com/track/18joUMo8dJTRYpVpRgy1Uz"
@@ -3862,7 +3884,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 153230,
       "name": "Deeper Down",
       "url": "https://open.spotify.com/track/1dT9TNIjIEZxdFTcDoRrf6"
@@ -4094,6 +4116,28 @@
       "duration_ms": 172263,
       "name": "Disco Shit",
       "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
+    },
+    {
+      "album": {
+        "name": "Discoteka",
+        "url": "https://open.spotify.com/album/54fmNFU9dyORi1EsiEAlwP"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201562,
+      "name": "Discoteka",
+      "url": "https://open.spotify.com/track/3tUiMhJqIAdOkSGOpShMvM"
     },
     {
       "album": {
@@ -5260,7 +5304,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 150004,
       "name": "Evil",
       "url": "https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw"
@@ -7730,6 +7774,28 @@
       "duration_ms": 142386,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/3o7B0xq8v84PnuSmi54ixW"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To",
+        "url": "https://open.spotify.com/album/3EctQMphj2fWCEnkUeYTbD"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227209,
+      "name": "I Don't Want To",
+      "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
     },
     {
       "album": {
@@ -10895,6 +10961,36 @@
     },
     {
       "album": {
+        "name": "Million Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/24XZH3QLW9u3MzshDeOIXC"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        },
+        {
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Million Pieces - Malive Remix",
+      "url": "https://open.spotify.com/track/5dZQ9RGVDCKxl4FwzKWFqV"
+    },
+    {
+      "album": {
         "name": "Mimosa (Now And Forever) (feat. Nyasia)",
         "url": "https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm"
       },
@@ -12919,6 +13015,32 @@
     },
     {
       "album": {
+        "name": "PIECE OF ME",
+        "url": "https://open.spotify.com/album/7eeuSPN1i239ntcPygFj5A"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        },
+        {
+          "name": "MONTE",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222641,
+      "name": "PIECE OF ME",
+      "url": "https://open.spotify.com/track/5qfCSmBt5ZPjZiRqvgRrnr"
+    },
+    {
+      "album": {
         "name": "I Promise You - EP",
         "url": "https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA"
       },
@@ -13054,7 +13176,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 212005,
       "name": "Portal 1111",
       "url": "https://open.spotify.com/track/29nyLx7artdrrOaDyjFjqL"
@@ -14685,6 +14807,32 @@
     },
     {
       "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/679YWCrIxte1J1jS8sRDYL"
+      },
+      "artists": [
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        },
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/0TWQXZbG9dPz7xklS3EQtU"
+    },
+    {
+      "album": {
         "name": "SMACK MY BITCH UP",
         "url": "https://open.spotify.com/album/7qxB5oguYnStizAjwTB0Q8"
       },
@@ -15656,7 +15804,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 226829,
       "name": "take me (to the sunrise)",
       "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
@@ -17392,7 +17540,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168000,
       "name": "Verano en Nueva York",
       "url": "https://open.spotify.com/track/7iuMpLUKcT3V0IrKfBvM4k"

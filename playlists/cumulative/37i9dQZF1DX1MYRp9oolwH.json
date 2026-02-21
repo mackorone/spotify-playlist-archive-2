@@ -3953,6 +3953,36 @@
     },
     {
       "album": {
+        "name": "Madhuram (From \"Sathi Leelavathi\")",
+        "url": "https://open.spotify.com/album/7Ak1ZsUJwWXdrj40NVkocy"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        },
+        {
+          "name": "Vanamali",
+          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249947,
+      "name": "Madhuram - From \"Sathi Leelavathi\"",
+      "url": "https://open.spotify.com/track/7fqU95VNxjSV1J8kSkmIOE"
+    },
+    {
+      "album": {
         "name": "Madhuram Kadha (From \"Sri Sri Sri Rajavaru\")",
         "url": "https://open.spotify.com/album/6nwNhkj0FVFh4fn4S7AL5i"
       },
@@ -4016,6 +4046,32 @@
       "duration_ms": 249309,
       "name": "Madhuramu Kadha (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/1imOLzI7CR77fqs5sjKYBO"
+    },
+    {
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Priya Pidaparthy",
+          "url": "https://open.spotify.com/artist/0o4ea7mTqe8mZmY9PfE0x0"
+        },
+        {
+          "name": "Bharadwaj Gali",
+          "url": "https://open.spotify.com/artist/3p5E50NaPL1YFcK4njAswK"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177984,
+      "name": "Maguva - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/0mH6kOFB0alNKsB6B44HR5"
     },
     {
       "album": {
@@ -4204,7 +4260,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 262736,
       "name": "Manasu",
       "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
@@ -8588,7 +8644,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 238942,
       "name": "Vayari Vagalamari",
       "url": "https://open.spotify.com/track/4zYt6mJMsSNVf4e9Vey81H"

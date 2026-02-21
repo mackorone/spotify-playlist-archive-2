@@ -4,7 +4,7 @@
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-4,163 songs - 10 day 3 hr 21 min
+4,165 songs - 10 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [ALL I Need Freestyle](https://open.spotify.com/track/29JWEw5d30VZyhNno4yN46) | [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j), [俞天時](https://open.spotify.com/artist/2rY8KGJbGmvavicJrjGVVp), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [ALL I Need Freestyle](https://open.spotify.com/album/5JHLoOQOH2MQwEAfGZkW2t) | 3:46 | 2026-01-01 | 2026-01-30 |
 | [ALL IN](https://open.spotify.com/track/6MyMCcUFQbjnTm12Y0pWan) | [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS), [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo), [雞腿](https://open.spotify.com/artist/6MSjzj0Qm95rSe77zXt32G) | [ALL IN](https://open.spotify.com/album/4adm2UbACFMhPr4idpRd2Q) | 2:35 | 2024-10-24 | 2024-11-01 |
 | [All Money Back Me Home](https://open.spotify.com/track/4OPFTBgIfJZmB3sZRmJ3xw) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn), [O.Dkizzya](https://open.spotify.com/artist/4cHSZs664sR3WPBFAevIHN) | [All Money Back Me Home](https://open.spotify.com/album/5J1wZ4lELdfQB7J108e71d) | 1:57 | 2025-04-24 | 2025-05-09 |
+| [All Money Back My Home](https://open.spotify.com/track/6pUtZpZHfoGBIDaRpovHnV) | [Cloud Wang](https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY), [CLED](https://open.spotify.com/artist/3dsr9Bla243ZQVtpbGDtR4), [彭家禺](https://open.spotify.com/artist/4wGQgj7omh1n8MvbYTa9uq), [林皂鱼](https://open.spotify.com/artist/7rRzq7IpIJQOZVAPa4w7yz) | [All Money Back My Home](https://open.spotify.com/album/7tQnfRcHVcnvfB0NFEdXg2) | 3:52 | 2026-02-19 |  |
 | [All Money Back My Home](https://open.spotify.com/track/13JAgWw8UW97CA3rHNYVUY) | [固定客](https://open.spotify.com/artist/75gIu5RpeMPXybm4R51oIw) | [All Money Back My Home](https://open.spotify.com/album/418GC66DBbEzy1Z5copY3D) | 3:27 | 2025-10-31 | 2025-11-21 |
 | [All Night](https://open.spotify.com/track/5x3bp0a8kSlL3ixv9cecKI) | [Petter](https://open.spotify.com/artist/4qaBIrcKgAXyMEveS1Iyxy) | [All Night](https://open.spotify.com/album/5hA9xvayNSmSXsy1rjvcAe) | 2:21 | 2025-06-05 | 2025-06-27 |
 | [All Night](https://open.spotify.com/track/6D3yV3JEtmLJWZ6zu81cM5) | [夏和熙 SHX](https://open.spotify.com/artist/2dT3qMOeHmDYPeyjdIqOy7) | [All Night](https://open.spotify.com/album/5P8PkySPVAhiX3PjccKxJZ) | 2:54 | 2024-10-10 | 2024-10-18 |
@@ -2259,6 +2260,7 @@
 | [幻想](https://open.spotify.com/track/0xmuFYE5JP6Roo5HEvzfyV) | [周家光](https://open.spotify.com/artist/4LMRxv6DFNVshmAK2Vsd3J) | [幻想](https://open.spotify.com/album/4iezqnbsikLyEr9o2K8Wfx) | 3:11 | 2025-10-16 | 2025-10-24 |
 | [幻蝶 \(A Butterfly Dream\)](https://open.spotify.com/track/1PvLndmTGVOnyq0PH5FPvz) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [幻蝶 \(A Butterfly Dream\)](https://open.spotify.com/album/3QsFQtT8xxnVSypTMbEKBh) | 2:37 | 2025-05-01 | 2025-05-23 |
 | [幻覺 \(NRP\)](https://open.spotify.com/track/6lFMGi9Yo5h6maKTNaDO2N) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Levii](https://open.spotify.com/artist/7tbJBCI0iwZEvOfjp8q1zZ) | [幻覺 \(NRP\)](https://open.spotify.com/album/0WTKA98lJhIQ5W7AeqfLbT) | 3:50 | 2025-10-16 | 2025-11-07 |
+| [底氣金幣](https://open.spotify.com/track/1vsxUnzBLKJFJholVCHmKu) | [花生Pnut](https://open.spotify.com/artist/2FGzdqYoX6yGc0NLQWNcDA) | [底氣金幣](https://open.spotify.com/album/1HBdggdlDXo4OjM0eQlFAw) | 2:46 | 2026-02-19 |  |
 | [底片相機](https://open.spotify.com/track/0OqcqUHY4fGw6sGntH6yyI) | [Kouky](https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya) | [底片相機](https://open.spotify.com/album/3rD6w4ToU38QXrDLeG6iKc) | 2:49 | 2024-07-11 | 2024-07-19 |
 | [底牌](https://open.spotify.com/track/6sO7iEyAQoJrJxfjORG7Ps) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX), [Mar48](https://open.spotify.com/artist/2ToBckz0Xo6I4TRDYSUBIG) | [底牌](https://open.spotify.com/album/0xNv9FbAvBYwuI0NSU0fyy) | 1:57 | 2025-08-07 | 2025-08-22 |
 | [底線《角頭》原聲帶](https://open.spotify.com/track/7yycJLho15oIrgft4cQQOH) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [底線《角頭》原聲帶](https://open.spotify.com/album/0kdTum8Mu6aDP51KQmy1BJ) | 3:51 | 2024-07-11 | 2024-08-02 |

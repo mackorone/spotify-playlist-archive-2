@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41750,
+      "name": "New Monkey (Keys)",
+      "url": "https://open.spotify.com/track/5P44YuzqlGwIYI1L2JaH2t"
+    },
+    {
+      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN"
       },

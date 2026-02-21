@@ -2233,6 +2233,32 @@
     },
     {
       "album": {
+        "name": "Hver gang vi m\u00f8tes 2026",
+        "url": "https://open.spotify.com/album/4JfR24AueUvkcKtMA9rj4w"
+      },
+      "artists": [
+        {
+          "name": "Espen Lind",
+          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180855,
+      "name": "N\u00e5r dagen gryr",
+      "url": "https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e"
+    },
+    {
+      "album": {
         "name": "ok jeg lover",
         "url": "https://open.spotify.com/album/5dvJFEvL2HVipJpcOlZj9k"
       },
@@ -3038,24 +3064,6 @@
       "duration_ms": 179013,
       "name": "Tivoli",
       "url": "https://open.spotify.com/track/5g5i4nbTBIGCB0jaRY0Jc8"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Espen Lind",
-          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
-        }
-      ],
-      "date_added": "2026-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/1vZ1UdFFcqHSgweqMWHG9e"
     },
     {
       "album": {

@@ -293,6 +293,50 @@
     },
     {
       "album": {
+        "name": "Hawaii: Part II",
+        "url": "https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN"
+      },
+      "artists": [
+        {
+          "name": "Miracle Musical",
+          "url": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
+        },
+        {
+          "name": "Shane MauX",
+          "url": "https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA"
+        },
+        {
+          "name": "KAYE",
+          "url": "https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152745,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT"
+    },
+    {
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },

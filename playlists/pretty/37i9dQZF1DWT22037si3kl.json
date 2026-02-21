@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148435,
+  "num_followers": 148437,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-02-13 15:24:27",
       "album": {
+        "name": "DESCE",
+        "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "DESCE",
+      "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
+    },
+    {
+      "added_at": "2026-02-13 15:24:27",
+      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
-    },
-    {
-      "added_at": "2026-02-13 15:24:27",
-      "album": {
-        "name": "DESCE",
-        "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        },
-        {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "DESCE",
-      "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
     },
     {
       "added_at": "2026-02-13 15:24:27",
@@ -978,6 +978,10 @@
         {
           "name": "Mvt",
           "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
         }
       ],
       "duration_ms": 139281,

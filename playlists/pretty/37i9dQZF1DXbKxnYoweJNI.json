@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u98a8\u683c\u6c23\u5473\u5ee0\u724c\u51fa\u8eab\uff0c\u5275\u4f5c\u5c31\u662f\u97f3\u6a02\u81ea\u4e3b\uff0c\u5531\u4f5c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover: AuZTIN",
-  "num_followers": 62991,
+  "num_followers": 62993,
   "original_name": "\u5531\u4f5c\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-02-19 16:00:17",
       "album": {
+        "name": "\u5e95\u6c23\u91d1\u5e63",
+        "url": "https://open.spotify.com/album/1HBdggdlDXo4OjM0eQlFAw"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u751fPnut",
+          "url": "https://open.spotify.com/artist/2FGzdqYoX6yGc0NLQWNcDA"
+        }
+      ],
+      "duration_ms": 166878,
+      "name": "\u5e95\u6c23\u91d1\u5e63",
+      "url": "https://open.spotify.com/track/1vsxUnzBLKJFJholVCHmKu"
+    },
+    {
+      "added_at": "2026-02-19 16:00:17",
+      "album": {
         "name": "\u8d8a\u6765\u8d8a\u5bccFreestyle",
         "url": "https://open.spotify.com/album/5KADmxQ3W5wehDEtKWGyBx"
       },
@@ -263,6 +279,34 @@
       "duration_ms": 150899,
       "name": "Type R",
       "url": "https://open.spotify.com/track/2IgvnW1l30xG6PtxBdAgub"
+    },
+    {
+      "added_at": "2026-02-19 16:00:17",
+      "album": {
+        "name": "All Money Back My Home",
+        "url": "https://open.spotify.com/album/7tQnfRcHVcnvfB0NFEdXg2"
+      },
+      "artists": [
+        {
+          "name": "Cloud Wang",
+          "url": "https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY"
+        },
+        {
+          "name": "CLED",
+          "url": "https://open.spotify.com/artist/3dsr9Bla243ZQVtpbGDtR4"
+        },
+        {
+          "name": "\u5f6d\u5bb6\u79ba",
+          "url": "https://open.spotify.com/artist/4wGQgj7omh1n8MvbYTa9uq"
+        },
+        {
+          "name": "\u6797\u7682\u9c7c",
+          "url": "https://open.spotify.com/artist/7rRzq7IpIJQOZVAPa4w7yz"
+        }
+      ],
+      "duration_ms": 232768,
+      "name": "All Money Back My Home",
+      "url": "https://open.spotify.com/track/6pUtZpZHfoGBIDaRpovHnV"
     },
     {
       "added_at": "2026-02-19 16:00:17",

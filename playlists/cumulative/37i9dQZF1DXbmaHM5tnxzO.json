@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.",
+  "description": "All the best tracks from Pixar films, including new music from \"Hoppers,\" in theaters soon.",
   "name": "Pixar Hits",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 36786,
       "name": "Collard Greens and Cornbread Strut",
       "url": "https://open.spotify.com/track/42XwsjfA3PgkYpPHjtsUZD"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 155909,
       "name": "Lava",
       "url": "https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC"
@@ -1101,7 +1101,7 @@
     },
     {
       "album": {
-        "name": "Brave",
+        "name": "Brave (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },
       "artists": [
@@ -1118,7 +1118,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156040,
-      "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal) - From \"Brave\"/Soundtrack",
+      "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal)",
       "url": "https://open.spotify.com/track/47d2mzkc3bPUD93NB0gKLR"
     },
     {
@@ -1433,7 +1433,25 @@
     },
     {
       "album": {
-        "name": "Brave",
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+    },
+    {
+      "album": {
+        "name": "Brave (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },
       "artists": [
@@ -1466,7 +1484,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137853,
-      "name": "Song Of Mor'du - From \"Brave\"/Soundtrack",
+      "name": "Song Of Mor'du",
       "url": "https://open.spotify.com/track/3AVQq5hpwkuJxAzM3g34hz"
     },
     {
@@ -1673,7 +1691,7 @@
     },
     {
       "album": {
-        "name": "Brave",
+        "name": "Brave (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
       },
       "artists": [
@@ -1686,7 +1704,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151400,
-      "name": "Touch The Sky - From \"Brave\"/Soundtrack",
+      "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz"
     },
     {

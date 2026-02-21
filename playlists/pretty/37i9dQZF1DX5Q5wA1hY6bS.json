@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1346669,
+  "num_followers": 1346521,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "The Bird Song",
-        "url": "https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "The Bird Song",
-      "url": "https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 311068,
       "name": "Try and Love Again - 2013 Remaster",
       "url": "https://open.spotify.com/track/3ULgE72PnMaeV6lzA0G6Jv"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "The Bird Song",
+        "url": "https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "The Bird Song",
+      "url": "https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Crumbled",
-        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
-      },
-      "artists": [
-        {
-          "name": "Little Quirks",
-          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "Crumbled",
-      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Just This",
         "url": "https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 264150,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
+      },
+      "artists": [
+        {
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "One Is Always Heading Somewhere",
-        "url": "https://open.spotify.com/album/01aK4s2HVJ3Alji7lRF37U"
-      },
-      "artists": [
-        {
-          "name": "Womb",
-          "url": "https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "One Is Always Heading Somewhere",
-      "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 194026,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "One Is Always Heading Somewhere",
+        "url": "https://open.spotify.com/album/01aK4s2HVJ3Alji7lRF37U"
+      },
+      "artists": [
+        {
+          "name": "Womb",
+          "url": "https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "One Is Always Heading Somewhere",
+      "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Wishing Girl",
         "url": "https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 192613,
       "name": "Wishing Girl",
       "url": "https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 220205,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Getting It Right",
         "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 170280,
       "name": "Getting It Right",
       "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 220205,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm"
     },
     {
       "added_at": "2025-12-12 15:56:47",

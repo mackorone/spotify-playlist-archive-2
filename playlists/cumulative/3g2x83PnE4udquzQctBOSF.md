@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-494 songs - 1 day 5 hr 55 min
+496 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Stop The Grains](https://open.spotify.com/track/6AoSReioPk372vr9EDshOn) | [Federico Ambrosi](https://open.spotify.com/artist/5Q9fyaoh5FFG2EtEJtsHK1) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 2:31 | 2023-03-19 | 2023-04-10 |
 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 | 2023-07-30 | 2023-08-28 |
 | [Stronger](https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Stronger](https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI) | 2:32 | 2023-04-09 | 2023-05-01 |
+| [Stuck In This Groove \- Radio Mix](https://open.spotify.com/track/28LUlmUub0GfnP294ELZZ6) | [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Stuck In My Groove EP](https://open.spotify.com/album/6bLzCIiBkAnyRVjdlfZ5QS) | 2:57 | 2026-02-20 |  |
 | [STUPID](https://open.spotify.com/track/3yW4OUmhCGjgj7hb11hMMP) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [STUPID](https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg) | 5:27 | 2023-07-02 | 2023-07-31 |
 | [Stupid Love](https://open.spotify.com/track/3JIo2eOLK87AaZ8Y4sNOoF) | [Daniele Polge](https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ) | [Stupid Love](https://open.spotify.com/album/6c4haH9o8Rss7VdErplr7K) | 4:22 | 2026-02-02 |  |
 | [Sueltate](https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp) | [Dre Mendez](https://open.spotify.com/artist/7IgWNyKhkmxREElrD3XEvk), [Caleb Dent](https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE) | [Sueltate](https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF) | 3:09 | 2023-04-30 | 2023-05-30 |
@@ -430,6 +431,7 @@
 | [Swag Swag](https://open.spotify.com/track/2JfqV0LVtcOo831Lh0wsJl) | [Merk \(ITA\)](https://open.spotify.com/artist/7la4AhxS3u92K30Zjg9cDz) | [We Are Invaders, Vol\. 3](https://open.spotify.com/album/79HO4h7CwWukCtRMDijaQ7) | 2:51 | 2023-09-17 | 2023-12-14 |
 | [Swinged](https://open.spotify.com/track/7DRssGNUYjhpz1S8sCuReV) | [MI.BARRIO](https://open.spotify.com/artist/0EbzxaJq1KS6ALwcoSiMu1), [Simon Ray](https://open.spotify.com/artist/0Lv8Fe6PuOVjqAk7lUdlTU) | [MI.BARRIO VOL\. I \- Lucha Libre](https://open.spotify.com/album/5oC1pXVWVbRpgKqEjtnYbd) | 3:18 | 2024-03-24 | 2024-05-20 |
 | [symphonia.](https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:52 | 2023-03-12 | 2023-04-01 |
+| [Synthstorm](https://open.spotify.com/track/7fo8e9ax1XHoF4yP2wHcQ0) | [Tony Kay](https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ) | [Synthstorm](https://open.spotify.com/album/6h7CqVK5uUP7lQS0jwGZfw) | 5:12 | 2026-02-20 |  |
 | [Take A Flight](https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Take A Flight](https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37) | 3:50 | 2023-04-16 | 2023-05-01 |
 | [Take It Easy](https://open.spotify.com/track/1yFJGIc4AgYdFRkaLkBO3j) | [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Take It Easy](https://open.spotify.com/album/64q2E4RwaEu3PocVll20Z5) | 2:51 | 2023-02-12 | 2023-03-06 |
 | [Tell me](https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG) | [MøRì](https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL) | [Tell me](https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb) | 4:11 | 2026-02-11 |  |

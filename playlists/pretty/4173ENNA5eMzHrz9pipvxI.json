@@ -1,13 +1,117 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: TH;EN",
-  "num_followers": 118594,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Belters Only &amp; Seamus D",
+  "num_followers": 118583,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgsMZiZqP3jiLOG3ws6X0wSrfpm/nH",
+  "snapshot_id": "AAAgwXqEAo43uPT0r0+LWrKnM3aFCFFM",
   "tracks": [
+    {
+      "added_at": "2026-02-20 08:06:11",
+      "album": {
+        "name": "Eyes All Over Mine",
+        "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
+      },
+      "artists": [
+        {
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        },
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+        }
+      ],
+      "duration_ms": 152943,
+      "name": "Eyes All Over Mine",
+      "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
+    },
+    {
+      "added_at": "2026-02-20 08:06:44",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/4PitOUcttd8opg2uqS04oy"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "duration_ms": 158761,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0OrmKBp1T2dWsDQpku905r"
+    },
+    {
+      "added_at": "2026-02-20 08:06:22",
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/0WFglVHx0NvVTeyWl41Bsd"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0qKHpiXu8bjQ9TCW5XEBkl"
+    },
+    {
+      "added_at": "2026-02-20 08:06:33",
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
+    },
+    {
+      "added_at": "2026-02-20 08:06:56",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5LRgIJesYCJMxeopeVLPjK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/25PNm205FTgi0etwvYmuM8"
+    },
     {
       "added_at": "2026-02-13 10:08:23",
       "album": {
@@ -47,6 +151,62 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "added_at": "2026-02-20 08:07:17",
+      "album": {
+        "name": "Turn The Lights Off (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/3WcrzFkE6iWwvvAEQZbMBe"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 191534,
+      "name": "Turn The Lights Off (HEDEGAARD Remix)",
+      "url": "https://open.spotify.com/track/5IcvIRQx2zd9HcMjfgVLH4"
+    },
+    {
+      "added_at": "2026-02-20 08:07:29",
+      "album": {
+        "name": "On Faya",
+        "url": "https://open.spotify.com/album/6KscxD98lijiaIkm4V9VHn"
+      },
+      "artists": [
+        {
+          "name": "Peppe Salerno",
+          "url": "https://open.spotify.com/artist/3CWgeijzuwNXK6HSh43Obu"
+        },
+        {
+          "name": "Gianni Caiaffa",
+          "url": "https://open.spotify.com/artist/3NjXzuiWutUeh3idtGossX"
+        },
+        {
+          "name": "Luis Rodriguez",
+          "url": "https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn"
+        },
+        {
+          "name": "Marlie Chunes",
+          "url": "https://open.spotify.com/artist/48edcOxvFWbAAsX3pYh8HB"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "On Faya",
+      "url": "https://open.spotify.com/track/6wffTdjaEc3cr0nuNAQRe0"
     },
     {
       "added_at": "2026-02-13 10:08:23",

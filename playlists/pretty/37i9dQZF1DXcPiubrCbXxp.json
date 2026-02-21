@@ -1,12 +1,12 @@
 {
   "description": "that 50s kinda feeling, cover: Laufey",
-  "num_followers": 71975,
+  "num_followers": 71984,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxi7rBOgIah0Wn6miLkITBL/PtH",
+  "snapshot_id": "AAAAAOV7tgS69x+bv17Y7ohWUl+G70CL",
   "tracks": [
     {
       "added_at": "2025-09-05 04:00:20",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
     },
     {
+      "added_at": "2026-02-20 05:00:30",
+      "album": {
+        "name": "Another Life (Feat. Bryant Barnes)",
+        "url": "https://open.spotify.com/album/7hk8631rjWBCtXKvjl06sJ"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Another Life (Feat. Bryant Barnes)",
+      "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:19",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 160538,
+      "name": "Broke Bitch Boogie",
+      "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
+    },
+    {
       "added_at": "2026-02-13 05:00:22",
       "album": {
         "name": "Terminal Lovesick",
@@ -71,22 +107,6 @@
       "duration_ms": 145758,
       "name": "SWEET LOVE",
       "url": "https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn"
-    },
-    {
-      "added_at": "2026-01-16 05:00:19",
-      "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "Broke Bitch Boogie",
-      "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
     },
     {
       "added_at": "2025-10-10 04:00:16",
@@ -123,6 +143,22 @@
       "duration_ms": 205286,
       "name": "Cigarette Smoke In My Eyes",
       "url": "https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO"
+    },
+    {
+      "added_at": "2026-02-20 05:00:30",
+      "album": {
+        "name": "only you.",
+        "url": "https://open.spotify.com/album/1bLF4NklM6zzBntE7Ishpt"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "only you.",
+      "url": "https://open.spotify.com/track/0VdE1LW284iU0y2EWx8qKe"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -795,38 +831,6 @@
       "duration_ms": 218754,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 173286,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d"
     }
   ],
   "unique_name": "crushed velvet",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Gracias por las sugerencias, añadidos los temas más pedidos.<br/>Feat\. W Sound, Myke Towers, Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,813 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,747 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 15 | [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:44 |
 | 16 | [CONTRABANDO](https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 2:55 |
 | 17 | [ESTA VIDA](https://open.spotify.com/track/1FmJbkz8Sij2C0mIpw612c) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No vuelve a suceder \(calentamiento pre álbum\)](https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB) | 3:44 |
-| 18 | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
+| 18 | [Dios los Bendiga](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
 | 19 | [Enzaciao](https://open.spotify.com/track/0h0mWHM5SkpS9rcmGyBoox) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Enzaciao](https://open.spotify.com/album/4CanKyDA2vwG2SftsOUvb1) | 2:12 |
 | 20 | [Que culpa tiene el lunes de no ser un sabado](https://open.spotify.com/track/5bDRGw4njjPCO5ZYvSgRXr) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [Escrito en la M\-30](https://open.spotify.com/album/7q7uLuyeYwAXZkMtoTKwkV) | 2:06 |
 | 21 | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA) | 3:01 |

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-436 songs - 22 hr 29 min
+437 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-07-08 | 2023-08-11 |
 | [Do It All](https://open.spotify.com/track/0aP0fCi1CigVMWC9mIf89j) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 2:39 | 2025-07-25 |  |
 | [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 | 2023-08-11 |
+| [DON'T STOP NOW!](https://open.spotify.com/track/4ePliKQJLvcyDtlzqfnZF2) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx), [Jasq](https://open.spotify.com/artist/32Outb7Q3w7dRQUhUqpvpl) | [DON'T STOP NOW!](https://open.spotify.com/album/13GXMtWGDN7EJohfbuZNUl) | 2:44 | 2026-02-20 |  |
 | [Don't Surrender \- Abandoned Remix](https://open.spotify.com/track/30YkaFXxirvZO9JWGYVGkW) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:12 | 2022-02-03 | 2022-09-15 |
 | [Dracula](https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7) | [Duke Gray](https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y), [MANGASLAYERS](https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi), [diGi](https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL) | [Dracula](https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9) | 2:49 | 2023-08-10 |  |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-04-07 | 2023-07-15 |

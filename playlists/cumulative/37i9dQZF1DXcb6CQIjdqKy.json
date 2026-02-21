@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Lecrae",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Elevation Worship",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -4376,10 +4376,32 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 190126,
       "name": "demons",
       "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
+    },
+    {
+      "album": {
+        "name": "demons (with John Michael Howell)",
+        "url": "https://open.spotify.com/album/4rEpZTTzNYlEM58O0fvD7X"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189921,
+      "name": "demons (with John Michael Howell)",
+      "url": "https://open.spotify.com/track/3wuwugNIgO3hgNrRGgHzsL"
     },
     {
       "album": {
@@ -10419,6 +10441,28 @@
     },
     {
       "album": {
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313916,
+      "name": "I Got Saved (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
       },
@@ -15560,7 +15604,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 229658,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/1JSjQMTkSTQrZjXYKVEEFc"
@@ -15778,7 +15822,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 226265,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU"
@@ -16502,6 +16546,24 @@
       "duration_ms": 171213,
       "name": "One God",
       "url": "https://open.spotify.com/track/3CmlrmYr082BwJ80IovudG"
+    },
+    {
+      "album": {
+        "name": "One Good God",
+        "url": "https://open.spotify.com/album/0XwackFfzuOZ65r4RE7hIO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324314,
+      "name": "One Good God",
+      "url": "https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr"
     },
     {
       "album": {
@@ -19408,7 +19470,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 347640,
       "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
@@ -24284,6 +24346,24 @@
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+    },
+    {
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
     },
     {
       "album": {

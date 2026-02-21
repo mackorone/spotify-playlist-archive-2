@@ -1,13 +1,61 @@
 {
-  "description": "The home of Canadian country music. Cover: Owen Riegling",
-  "num_followers": 83669,
+  "description": "The home of Canadian country music. Cover: Tim Hicks",
+  "num_followers": 83673,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeBsUaHovWdTrHwkuYshypXfnap",
+  "snapshot_id": "AAAAAKbuFOe5IL/vLXf7hhsUse2pUZZA",
   "tracks": [
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "I Won't Be Sorry",
+        "url": "https://open.spotify.com/album/5M1nS0a0US5WYYLn6vKnyF"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 235518,
+      "name": "I Won't Be Sorry",
+      "url": "https://open.spotify.com/track/33OBCvKwUDzxBGA8NvwIFQ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Put It On Me",
+        "url": "https://open.spotify.com/album/4TmWYzpJwkZc85g9b4hpNc"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/0DUFljDrPP4xwog7gmppu2"
+      },
+      "artists": [
+        {
+          "name": "Cross Parallel",
+          "url": "https://open.spotify.com/artist/3IIJFBCzeBMScuOPhGqjpX"
+        }
+      ],
+      "duration_ms": 201884,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/6lxyUYrbj4S628Ue6d4g1x"
+    },
     {
       "added_at": "2026-02-13 10:00:04",
       "album": {
@@ -25,6 +73,22 @@
       "url": "https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA"
     },
     {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Be This Good",
+        "url": "https://open.spotify.com/album/1Q1pIaLNAu3X5kKTB8iLIL"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Be This Good",
+      "url": "https://open.spotify.com/track/3IDu5U0jODmIG5DxQ5l0aC"
+    },
+    {
       "added_at": "2026-02-13 10:00:04",
       "album": {
         "name": "Growing Down",
@@ -39,6 +103,22 @@
       "duration_ms": 197388,
       "name": "Growing Down",
       "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Choked Up",
+        "url": "https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps"
+      },
+      "artists": [
+        {
+          "name": "Carson Janik",
+          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+        }
+      ],
+      "duration_ms": 185283,
+      "name": "Choked Up",
+      "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
     },
     {
       "added_at": "2026-02-13 10:00:04",
@@ -59,34 +139,50 @@
     {
       "added_at": "2026-02-06 05:01:26",
       "album": {
-        "name": "Choked Up",
-        "url": "https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps"
+        "name": "SHE'S SO SWEET",
+        "url": "https://open.spotify.com/album/0qIyfB9B1cLpjKhnDtPmuC"
       },
       "artists": [
         {
-          "name": "Carson Janik",
-          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
         }
       ],
-      "duration_ms": 185283,
-      "name": "Choked Up",
-      "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
+      "duration_ms": 173690,
+      "name": "SHE'S SO SWEET",
+      "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
+      "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
+        "name": "The Backroad of Memory Lane",
+        "url": "https://open.spotify.com/album/1BSxufHNVf1nQIwTjY5bDV"
       },
       "artists": [
         {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+          "name": "Delta Sweet",
+          "url": "https://open.spotify.com/artist/50y7lUCZOffDQNaQ6QVlPx"
         }
       ],
-      "duration_ms": 188296,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
+      "duration_ms": 185000,
+      "name": "The Backroad of Memory Lane",
+      "url": "https://open.spotify.com/track/1nzc2DRbyaueJ9cYKcGdgW"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 180102,
+      "name": "Paradise & Hurricanes",
+      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
     },
     {
       "added_at": "2026-01-30 10:00:36",
@@ -103,6 +199,38 @@
       "duration_ms": 194744,
       "name": "Bar And Back",
       "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Burnin' Now",
+        "url": "https://open.spotify.com/album/2yngFv8D3N09SHojLCrubL"
+      },
+      "artists": [
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        }
+      ],
+      "duration_ms": 206938,
+      "name": "Burnin' Now",
+      "url": "https://open.spotify.com/track/7Kp6frqhrF4iWZtPHFAZeh"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Feel the Heat",
+        "url": "https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "duration_ms": 178510,
+      "name": "Feel the Heat",
+      "url": "https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia"
     },
     {
       "added_at": "2026-02-13 15:07:10",
@@ -125,20 +253,52 @@
       "url": "https://open.spotify.com/track/3whnvzF7IoyO9DICzAlhq9"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
+      "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "SHE'S SO SWEET",
-        "url": "https://open.spotify.com/album/0qIyfB9B1cLpjKhnDtPmuC"
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/6t9CeR0AjMnqJn5NxMzE8N"
       },
       "artists": [
         {
-          "name": "TANAEYA",
-          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+          "name": "Bree Taylor",
+          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
         }
       ],
-      "duration_ms": 173690,
-      "name": "SHE'S SO SWEET",
-      "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
+      "duration_ms": 181148,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/03N9OR43va8nurQNeUDcgR"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Cowboy Crazy",
+        "url": "https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Cowboy Crazy",
+      "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 188296,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
     },
     {
       "added_at": "2026-01-23 05:01:13",
@@ -173,22 +333,6 @@
       "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
     },
     {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "Paradise & Hurricanes",
-        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 180102,
-      "name": "Paradise & Hurricanes",
-      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
-    },
-    {
       "added_at": "2026-02-06 05:01:26",
       "album": {
         "name": "Foraine",
@@ -219,22 +363,6 @@
       "duration_ms": 388107,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
-    },
-    {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "Cowboy Crazy",
-        "url": "https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Cowboy Crazy",
-      "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
     },
     {
       "added_at": "2026-01-30 10:00:36",

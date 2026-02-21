@@ -2,14 +2,14 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Tr33
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Billy Choi
 
-294 songs - 17 hr 6 min
+295 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU) | [1234](https://open.spotify.com/album/3Nx0YNuzkEUGblTjsK2Tv8) | 3:52 | 2023-04-13 | 2023-12-15 |
-| [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD) | 2:29 | 2025-10-23 |  |
+| [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD) | 2:29 | 2025-10-23 | 2026-02-21 |
 | [1973時光機](https://open.spotify.com/track/0jyjo2cXhAkRppXIUvnaEU) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973時光機](https://open.spotify.com/album/0g3iNv1VndF71XB7dL9dzG) | 3:56 | 2022-08-18 | 2023-04-14 |
 | [1973的舞會](https://open.spotify.com/track/77VQioAN4XNTQHRCY1bBmu) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [1973的舞會](https://open.spotify.com/album/0rQvDSqY1lKYtYRN5OjtJK) | 3:27 | 2023-03-16 | 2023-04-14 |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Tsui Ho San Jack](https://open.spotify.com/artist/7yLAJpqpc2qhvP3stnEvKU), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-08-18 | 2023-03-10 |
@@ -190,6 +190,7 @@
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2023-03-23 | 2024-03-29 |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-02-01 | 2025-03-28 |
 | [分手 \- Remix](https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [分手 \(Remix\)](https://open.spotify.com/album/2zFWkEEqD2chvQjmoxpTf6) | 3:12 | 2025-07-24 |  |
+| [分擔](https://open.spotify.com/track/38D1oJmQCOttwPWF1Olh8J) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [分擔](https://open.spotify.com/album/1k5QjHdPwlk3zEe3uhgC3O) | 2:36 | 2026-02-20 |  |
 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 | 2022-05-26 | 2022-10-20 |
 | [列車](https://open.spotify.com/track/6WbuHDgdXVgR0mFRTfNGV1) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/5glyFsen8lsrwHIrIH9LG6) | 4:40 | 2022-10-06 | 2023-04-14 |
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 | 2025-10-07 |

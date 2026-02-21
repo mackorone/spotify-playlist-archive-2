@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jamala",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Klavdia Petrivna",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 104400,
       "name": "De Madrug\u00e1",
       "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
@@ -5184,7 +5184,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 233000,
       "name": "\u0410\u043b\u043b\u043e",
       "url": "https://open.spotify.com/track/0u0D1DG6uvSsH4nhVq9WoO"
@@ -5384,6 +5384,24 @@
       "duration_ms": 186666,
       "name": "\u0411\u0443\u0432\u0430\u0439",
       "url": "https://open.spotify.com/track/5TZ9sclFWADZJGqPCqfvlj"
+    },
+    {
+      "album": {
+        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
+      },
+      "artists": [
+        {
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180988,
+      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
     },
     {
       "album": {
@@ -9478,6 +9496,28 @@
       "duration_ms": 169600,
       "name": "\u0456 \u043d\u0435\u0445\u0430\u0439",
       "url": "https://open.spotify.com/track/3S12aXTrmV1K1gLDDQmrHm"
+    },
+    {
+      "album": {
+        "name": "\u0456\u043d\u0456\u0439",
+        "url": "https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW"
+      },
+      "artists": [
+        {
+          "name": "JASE51",
+          "url": "https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg"
+        },
+        {
+          "name": "NANA SOLIS",
+          "url": "https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168780,
+      "name": "\u0456\u043d\u0456\u0439",
+      "url": "https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ"

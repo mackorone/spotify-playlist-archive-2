@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los Primos del Este en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los Reales del Rio en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 217088,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/5zu84HaMQLhdh24qch1POd"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 165178,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/2GlcrX5KqGv7N6FOwACj8H"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 168196,
       "name": "Cambias O Me Pierdes",
       "url": "https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 163531,
       "name": "Cerca de Ti",
       "url": "https://open.spotify.com/track/3rPOaM4ZfTkipE7fm9fUtE"
@@ -1104,6 +1104,28 @@
       "duration_ms": 159805,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J"
+    },
+    {
+      "album": {
+        "name": "Coleccionando Heridas",
+        "url": "https://open.spotify.com/album/1uIXPLl0XT5G1e6SepOpek"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "La Exigencia",
+          "url": "https://open.spotify.com/artist/48GDxZysa4Y6e21sgKOv2w"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212749,
+      "name": "Coleccionando Heridas",
+      "url": "https://open.spotify.com/track/3NuCBxhOM2t3v9DjBDWTuK"
     },
     {
       "album": {
@@ -2359,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Esta Es Tu Cancion",
+        "url": "https://open.spotify.com/album/4WMijqBebnHz9meDSvmrAR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recio Sax",
+          "url": "https://open.spotify.com/artist/2nRQee7TP1f5kKkldRjgim"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239968,
+      "name": "Esta Es Tu Cancion",
+      "url": "https://open.spotify.com/track/4nVFG5gSLyZieD46oPjIfr"
+    },
+    {
+      "album": {
         "name": "#TB...Hits, Vol. 2",
         "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
       },
@@ -2410,7 +2450,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 144959,
       "name": "Fue UN Instante",
       "url": "https://open.spotify.com/track/2cS5J6HgrPSYaoYqzzcots"
@@ -2858,7 +2898,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197800,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/1le7TpZYffJAvfSyAlslU3"
@@ -3119,6 +3159,46 @@
     },
     {
       "album": {
+        "name": "La Ocurrencia De Mi Jefe",
+        "url": "https://open.spotify.com/album/0Yp3iHKxLaYD8IpdGkIoPo"
+      },
+      "artists": [
+        {
+          "name": "Pemo Gonzalez Y Su Via Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4ErgrGxkCqG5zJoTkohHRB"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "La Ocurrencia De Mi Jefe",
+      "url": "https://open.spotify.com/track/5mbNRTSU2oZlDvLD6prh7U"
+    },
+    {
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/13IwsYGj7sAPuWpVVeK2wz"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "ContraGolpe De Froy Espitia",
+          "url": "https://open.spotify.com/artist/3RJTA8IKRVwZPUxfFzqrOh"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178090,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/2qmUxCaT4RjLzaZSyTaWbW"
+    },
+    {
+      "album": {
         "name": "La Ronera",
         "url": "https://open.spotify.com/album/1ZGHFCdBvGraw6C3kZT8k4"
       },
@@ -3188,7 +3268,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197707,
       "name": "Lagunas",
       "url": "https://open.spotify.com/track/34sBaPf1WGKgs2OeEGr1GZ"
@@ -3264,6 +3344,24 @@
       "duration_ms": 174706,
       "name": "Literal",
       "url": "https://open.spotify.com/track/6prwA99WtmjL1InowSZ4Yg"
+    },
+    {
+      "album": {
+        "name": "Llegaste a M\u00ed",
+        "url": "https://open.spotify.com/album/3bXJ8HEOei27158cxoiS1p"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina DEL Norte",
+          "url": "https://open.spotify.com/artist/0pryc9Mc794DGWAzT3BYem"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218839,
+      "name": "Llegaste a M\u00ed",
+      "url": "https://open.spotify.com/track/5bb606Kf5eKXe1t8yrexCC"
     },
     {
       "album": {
@@ -3689,6 +3787,28 @@
     },
     {
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/63LSGQMYobZ2e7VGbhoGqK"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149183,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5n0P5exIlP2OaN5ezEcLHr"
+    },
+    {
+      "album": {
         "name": "Mi Desayuno",
         "url": "https://open.spotify.com/album/6rf2OIqQfdXRaLY2eWh5EE"
       },
@@ -3787,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/7HBZ9Z8FEe4UYzUooeP7CH"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212568,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/1Uku6MXoEjO0U7PMlmlPpQ"
+    },
+    {
+      "album": {
         "name": "Modo Inc\u00f3gnito",
         "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
       },
@@ -3820,6 +3958,24 @@
       "duration_ms": 240000,
       "name": "Molinos de Viento",
       "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
+    },
+    {
+      "album": {
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/3V06wlVQJiBp74bJ23uaIC"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Sublime",
+          "url": "https://open.spotify.com/artist/1ash7cjQrV4oBv3PKRqbAy"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190002,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/0wePFf3gxyTvYZypBEjYS7"
     },
     {
       "album": {
@@ -3940,6 +4096,28 @@
       "duration_ms": 213053,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/4k01XOMl3ew0nUaK1MUNce"
+    },
+    {
+      "album": {
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/2DT9zJWkzL7mRPxET8CkKv"
+      },
+      "artists": [
+        {
+          "name": "La Potencia De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2xotal8p4VxpscwCOgy354"
+        },
+        {
+          "name": "Conjunto Diamantes De Ags",
+          "url": "https://open.spotify.com/artist/1sTArJai0O5r3TbvezUija"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/3PvmAmHCoCQvTZNtFsBemj"
     },
     {
       "album": {
@@ -4174,7 +4352,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 184412,
       "name": "No Regreses",
       "url": "https://open.spotify.com/track/3r3XuppTI6IBLJkK06Zfjx"
@@ -4971,6 +5149,28 @@
     },
     {
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/33aYtVsO4PhF8TKNMLIBsJ"
+      },
+      "artists": [
+        {
+          "name": "El Conjunto F\u00e9nix",
+          "url": "https://open.spotify.com/artist/60uOV99FbQydjSts3NJ012"
+        },
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172408,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/0wVQnSDDisORLSLlpZQaDf"
+    },
+    {
+      "album": {
         "name": "Romeo y Julieta",
         "url": "https://open.spotify.com/album/3XkwCIwb8FGAZSrxBEB49N"
       },
@@ -5080,6 +5280,24 @@
       "duration_ms": 161178,
       "name": "Se Te Da",
       "url": "https://open.spotify.com/track/2EZcmJy5JuKVlQJhHk4TRo"
+    },
+    {
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/5MsmolKgYmtyC6ZhwOFFEZ"
+      },
+      "artists": [
+        {
+          "name": "Jonatan Sanchez",
+          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/3JPPq8FtQsQojTi1gCcgeY"
     },
     {
       "album": {
@@ -5220,7 +5438,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 197376,
       "name": "Si Volvemos A Empezar",
       "url": "https://open.spotify.com/track/4AIQHKKROaCiJj7U7JQy7i"
@@ -5500,7 +5718,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 210970,
       "name": "Te Diran",
       "url": "https://open.spotify.com/track/2JwUfti3BFcfbuag4Bt64s"
@@ -5558,7 +5776,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 177450,
       "name": "Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/2PZqA00hq6ze4lXsZcbyix"
@@ -5761,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "Todo Lo Fue",
+        "url": "https://open.spotify.com/album/735I46REeAjkcMEkQbK86H"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/64GZDnrcHHW3lAnx05g7pI"
+    },
+    {
+      "album": {
         "name": "Tonto Mi Corazon (En Vivo Estudio)",
         "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
       },
@@ -5956,7 +6192,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 203500,
       "name": "Un Enga\u0144o Mas",
       "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"

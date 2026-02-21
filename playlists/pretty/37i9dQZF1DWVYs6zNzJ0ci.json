@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Nonpalidece & Tippy I-Grade",
-  "num_followers": 1174265,
+  "num_followers": 1174199,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Culpable O No",
+        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Cypher #6 (Reggae Cypher)",
         "url": "https://open.spotify.com/album/4S4TBSs0yEraLAQH6n1V9q"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 489000,
       "name": "Cypher #6 (Reggae Cypher)",
       "url": "https://open.spotify.com/track/5Cv0QuSCDyGDaLSA70N9pV"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Culpable O No",
-        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -771,6 +771,54 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "MIL Canciones",
+        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Sin Ti (feat. Quique Neira)",
+      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Parece",
+      "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Cypher #5 (Reggae Cypher)",
         "url": "https://open.spotify.com/album/2UjzVrUNrdYfGAjH5Cyxs8"
       },
@@ -819,50 +867,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "MIL Canciones",
-        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Sin Ti (feat. Quique Neira)",
-      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 218173,
-      "name": "Parece",
-      "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -879,22 +895,6 @@
       "duration_ms": 243864,
       "name": "Te Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Forever Together !",
-        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "I Nesta",
-          "url": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
-        }
-      ],
-      "duration_ms": 299972,
-      "name": "Todo vuelve a su lugar",
-      "url": "https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Sierra del Mar",
         "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 317520,
       "name": "Sierra del Mar",
       "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Forever Together !",
+        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "I Nesta",
+          "url": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
+        }
+      ],
+      "duration_ms": 299972,
+      "name": "Todo vuelve a su lugar",
+      "url": "https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Emocionado",
-        "url": "https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Emocionado",
-      "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Volando",
         "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
       },
@@ -1223,18 +1239,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+        "name": "BOOM BOOM",
+        "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+      "duration_ms": 142962,
+      "name": "BOOM BOOM",
+      "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "BOOM BOOM",
-        "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 142962,
-      "name": "BOOM BOOM",
-      "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 280000,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1331,22 +1347,6 @@
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "C\u00f3mo Voy a Olvidarte",
+        "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 175123,
+      "name": "C\u00f3mo Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "El Curandero",
         "url": "https://open.spotify.com/album/2r9FHOtGmhEFV88vfwCFt5"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 292173,
       "name": "El Curandero",
       "url": "https://open.spotify.com/track/6Gs3BpUh7sSv4yjOWXDy63"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "C\u00f3mo Voy a Olvidarte",
-        "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 175123,
-      "name": "C\u00f3mo Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
     },
     {
       "added_at": "2026-01-23 03:00:06",

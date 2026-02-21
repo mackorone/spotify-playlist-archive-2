@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: María Arnal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,791 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,814 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [TICTAC](https://open.spotify.com/track/0ZF7tvbaPMqftXHWQD8jmo) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [AMA](https://open.spotify.com/album/30eB7uLarIDNsfNH2q8p0q) | 2:05 |
 | 2 | [¿Todo esto para qué?](https://open.spotify.com/track/5hpLys2nnIiYN8Xe6cUoqg) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Alberdi](https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK) | [¿Todo esto para qué?](https://open.spotify.com/album/4iv52ufl7nHmxJD2rSrnlZ) | 3:05 |
 | 3 | [El Perro Del Quinto](https://open.spotify.com/track/3jE17Dj4S9qBu04STo7Qj3) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [El Perro del Quinto](https://open.spotify.com/album/1EgMYcDyHMIyzUg345U6sI) | 3:23 |
 | 4 | [El Psicodélico \(Guajira del Diablo\)](https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [El Psicodélico \(Guajira del Diablo\)](https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT) | 5:38 |
-| 5 | [Crítico](https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [](https://open.spotify.com/album/null) | 2:48 |
+| 5 | [Crítico](https://open.spotify.com/track/1zICyrfOQraVDMZapEEc9a) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Si tú supieras](https://open.spotify.com/album/40RaU3ao1rpS4oSRomfxXQ) | 2:48 |
 | 6 | [CENT PER CENT](https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [CENT PER CENT](https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH) | 3:12 |
 | 7 | [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 |
 | 8 | [QUE ME QUITEN](https://open.spotify.com/track/42RiQAFZlqX2cl31Jru3mF) | [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [QUE ME QUITEN](https://open.spotify.com/album/6XDcw63W4s1NfTlzJWjpRx) | 2:15 |

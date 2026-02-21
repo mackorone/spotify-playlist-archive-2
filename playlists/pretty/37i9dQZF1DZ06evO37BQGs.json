@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAAARNkxVToloYF0oaVTNkddu",
+  "snapshot_id": "aZZSgAAAAABBRstJv5ItLwDPY6CmSpFe",
   "tracks": [
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
+      "duration_ms": 257838,
+      "name": "Wave Form",
+      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
     },
     {
       "added_at": null,
@@ -348,7 +348,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Wave Form",
-      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 119226,
-      "name": "The Great Test",
-      "url": "https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D"
+      "duration_ms": 190266,
+      "name": "Savanna",
+      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 256106,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 256106,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,

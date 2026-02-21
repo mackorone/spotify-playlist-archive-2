@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-536 songs - 1 day 2 hr 42 min
+537 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [If I stop I'll feel it](https://open.spotify.com/track/3ZmazoGrS6OXn5iF2k5D5M) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [If I stop I'll feel it](https://open.spotify.com/album/4GCkV1Tw1RPjYgyN4953MI) | 3:00 | 2025-06-05 | 2025-09-05 |
 | [If I'm So Bad](https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [YOUNG: Part 1 & 2](https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV) | 2:17 | 2026-01-22 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 | 2024-11-16 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-02-20 |  |
 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-14 | 2025-09-05 |
 | [In Every Photograph](https://open.spotify.com/track/70HmqOGAfCDHGYjEF15krZ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [In Every Photograph](https://open.spotify.com/album/3YpKPSbZ80nkVtUCIOw0fo) | 3:25 | 2025-08-14 |  |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-06-27 | 2025-05-01 |

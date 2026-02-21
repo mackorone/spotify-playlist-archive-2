@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Naïka
 
-277 songs - 16 hr 31 min
+278 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 | 2024-11-22 |  |
 | [Akouna](https://open.spotify.com/track/1entjt5jTZ7KGCKdOUvq8o) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/1Nnf8hO2TJxRiyewuiJpeo) | 3:50 | 2022-04-15 | 2022-11-06 |
 | [Akouna](https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp) | 3:50 | 2022-10-16 |  |
+| [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 | 2026-02-20 |  |
 | [All on Me](https://open.spotify.com/track/3q3o1X4nGTeaBKeUmotLx4) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 3:07 | 2021-12-06 | 2023-02-18 |
 | [Ann sove peyi a](https://open.spotify.com/track/6SWvNpUkToWeDtZUWrfNpq) | [Doremi](https://open.spotify.com/artist/3gahHEkgRYjxKF5PvIyzFr) | [Ann sove peyi a](https://open.spotify.com/album/32EFrlSI1VCbaoXw4wP2Zj) | 4:26 | 2023-05-26 | 2023-06-03 |
 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 | 2021-12-06 |  |
@@ -98,7 +99,7 @@
 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 | 2021-12-06 |  |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2021-12-06 | 2023-02-18 |
 | [Foli](https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol) | [Daniel Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga) | [Foli](https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm) | 2:57 | 2023-06-09 | 2024-02-24 |
-| [For Gerard](https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv) | 3:23 | 2022-09-30 |  |
+| [For Gerard](https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv) | 3:23 | 2022-09-30 | 2026-02-21 |
 | [For Gerard](https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7) | 3:23 | 2021-12-06 | 2022-10-13 |
 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-04 | 2024-02-24 |
 | [Gas](https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe) | [Daniel Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga), [Z The Vibe Doctor](https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh), [Benny D](https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu), [Machi](https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy), [Julian Mendoza](https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4) | [Gas](https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI) | 3:00 | 2023-03-17 | 2024-02-14 |

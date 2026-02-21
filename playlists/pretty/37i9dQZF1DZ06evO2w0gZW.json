@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 515967,
+  "num_followers": 515991,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZUBAAAAAACUKTmOq2zKz0rf9fDoqqot",
+  "snapshot_id": "aZZSgAAAAADUytwPkID6ZrUSw9LN/Gjb",
   "tracks": [
     {
       "added_at": null,
@@ -456,7 +456,7 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "JAY-Z",
+          "name": "JA\u0178-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariah Carey",
-        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 208552,
-      "name": "Vision of Love",
-      "url": "https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 299826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 208552,
+      "name": "Vision of Love",
+      "url": "https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X"
     },
     {
       "added_at": null,

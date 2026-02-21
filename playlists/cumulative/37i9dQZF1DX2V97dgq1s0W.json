@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-21",
       "duration_ms": 196017,
       "name": "All That and More (with Maverick Sabre)",
       "url": "https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl"
@@ -5716,6 +5716,28 @@
       "duration_ms": 165177,
       "name": "lost a friend",
       "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
+    },
+    {
+      "album": {
+        "name": "Highs + Lows",
+        "url": "https://open.spotify.com/album/5npoDB704U42Vvepcogk7c"
+      },
+      "artists": [
+        {
+          "name": "KADEEM.",
+          "url": "https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj"
+        },
+        {
+          "name": "Lila Ik\u00e8",
+          "url": "https://open.spotify.com/artist/4hGprQ5XEyvu5J8yqzj5ef"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Lost in Time",
+      "url": "https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC"
     },
     {
       "album": {
