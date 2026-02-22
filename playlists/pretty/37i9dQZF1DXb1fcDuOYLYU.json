@@ -1,12 +1,12 @@
 {
   "description": "These are the talented women of Latin music. Cover: Gloria Estefan & KAROL G",
-  "num_followers": 113825,
+  "num_followers": 113873,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLlG3UdtfaYsDjsmT/Lgjpcw4ZO",
+  "snapshot_id": "AAAAALLv3+x6OuNDokCyDNXLeRH7bTid",
   "tracks": [
     {
       "added_at": "2026-02-13 05:00:35",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
-        "name": "MALPORTADA",
-        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 200112,
-      "name": "A CABALLO",
-      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
-    },
-    {
-      "added_at": "2026-02-13 05:00:35",
-      "album": {
         "name": "Haashtag",
         "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2026-02-13 05:00:35",
       "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 200112,
+      "name": "A CABALLO",
+      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
+    },
+    {
+      "added_at": "2026-02-13 05:00:35",
+      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 133535,
       "name": "iGO",
       "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
-    },
-    {
-      "added_at": "2026-02-13 05:00:35",
-      "album": {
-        "name": "DE MARAVISHA",
-        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 203802,
-      "name": "DE MARAVISHA",
-      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "added_at": "2026-02-13 05:00:35",
@@ -1079,6 +1059,26 @@
       "duration_ms": 244059,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/7kIscz1L13DAvoDg0hFgWf"
+    },
+    {
+      "added_at": "2026-02-13 05:00:35",
+      "album": {
+        "name": "DE MARAVISHA",
+        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 203802,
+      "name": "DE MARAVISHA",
+      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "added_at": "2026-02-13 05:00:35",

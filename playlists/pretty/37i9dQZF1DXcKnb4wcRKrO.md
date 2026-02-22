@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,951 likes - 145 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,239 likes - 145 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 144 | [Momentum](https://open.spotify.com/track/6HrzJzZa53EFzOgcgI8naJ) | [Stogov](https://open.spotify.com/artist/1I73yBGbC5h8Kv0XX4izA5) | [World Colour EP](https://open.spotify.com/album/0gaZjtp2nIp7y2Cn6ZK5eP) | 5:58 |
 | 145 | [Wonder](https://open.spotify.com/track/7fmhmYgJgNEAQaenKFHqdD) | [Palm Club](https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv) | [Wonder](https://open.spotify.com/album/7BJK7vimlIsE1Bhy0CTWfy) | 2:41 |
 
-Snapshot ID: `AAAAAEDHJRd+7UaiC1UNdi9Xi3iXuG1v`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

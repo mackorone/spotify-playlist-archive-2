@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-768 songs - 3 day 0 hr 6 min
+769 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
-| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 |  |
+| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-02-22 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
 | [Brama Wodna](https://open.spotify.com/track/3dA8Km8HoDQ4l5IwOwZinF) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Brama Wodna](https://open.spotify.com/album/3WGhH7gwbyL1Hxy33cK8Nx) | 6:20 | 2022-02-01 | 2022-05-04 |
 | [Braunkehlchen](https://open.spotify.com/track/56mGMAQHrQgiUGcNcJhCI0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Braunkehlchen](https://open.spotify.com/album/67pxrtI3BA3cvaMJHgIc2P) | 11:11 | 2022-04-04 | 2022-07-21 |
@@ -388,6 +388,7 @@
 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 | 2025-09-28 |
 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2020-04-18 | 2020-06-29 |
 | [Lost In The Stars \- Original Mix](https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU) | [ALMA \(GER\)](https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO) | [Mother](https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy) | 6:53 | 2022-01-14 | 2022-07-29 |
+| [Lost In The Woods](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost In The Woods](https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax) | 3:03 | 2026-02-20 |  |
 | [Lotus](https://open.spotify.com/track/5B8J43hJFeVJvZEU2LdSwf) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h) | [Lotus](https://open.spotify.com/album/0KKINwa81J8iMNiEzlmocZ) | 7:13 | 2020-09-26 | 2020-11-28 |
 | [Love Modules](https://open.spotify.com/track/6zNALmoubQPX3mU8p075S2) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [X](https://open.spotify.com/album/4H6qH7PrZcCdcJMsXu2O1n) | 6:19 | 2019-08-06\* | 2020-06-12 |
 | [Love Tonight \- Oliver Huntemann Remix Edit](https://open.spotify.com/track/2erIidBWSIp491u4RjXRQe) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Love Tonight \(Oliver Huntemann Remix\)](https://open.spotify.com/album/10fFFQfSWN7tzTKN8hJy3h) | 3:25 | 2021-05-08 | 2022-04-20 |

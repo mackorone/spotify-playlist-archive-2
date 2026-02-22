@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Supermexican",
+        "url": "https://open.spotify.com/album/4ncteuFvydkGgzDDpjubDr"
+      },
+      "artists": [
+        {
+          "name": "Travelin' Man",
+          "url": "https://open.spotify.com/artist/4A0E3SaSEKz7lgEVsxFNLK"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201330,
+      "name": "Supermexican",
+      "url": "https://open.spotify.com/track/6eTTdPN2G1BwLzZV68iAdc"
+    },
+    {
+      "album": {
         "name": "Cinematics, Vol. 3",
         "url": "https://open.spotify.com/album/0o3VNpEVIFvmZhgpzu9Pnl"
       },

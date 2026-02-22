@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-563 songs - 1 day 9 hr 37 min
+564 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-02-25 |  |
 | [Salut Salut](https://open.spotify.com/track/5E6zp4z4SmkssW22mqEcNM) | [Steven & Steeven](https://open.spotify.com/artist/1MjDrK68psYWDT1m91Z42h) | [Salut Salut](https://open.spotify.com/album/0ZrImajJoZNIPlXfNYGC8Q) | 3:01 | 2021-01-15 | 2022-08-27 |
+| [Sans moi](https://open.spotify.com/track/7rchRoGZyaW3cgULOqOjfy) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [La distance n'est pas vraiment là](https://open.spotify.com/album/61rdaK73DERmnmRxf6PB3N) | 3:28 | 2026-02-20 |  |
 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 | 2022-07-08 | 2024-04-19 |
 | [Sans toi](https://open.spotify.com/track/2TT8MHvlDdF8iIv59EkApc) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part One \- EP](https://open.spotify.com/album/6tMGm4n8cfIBK0dQw6tM1C) | 3:17 | 2021-01-15 | 2022-07-25 |
 | [Sauver les meubles](https://open.spotify.com/track/2T4JNScUoYDhRSDe1auC5L) | [Catherine Dagenais](https://open.spotify.com/artist/5Jp5qU8P2cPohe5qVShPaq) | [Sauver les meubles](https://open.spotify.com/album/0TJFSzQc9qquAM11aPfbbT) | 4:39 | 2025-10-24 | 2026-01-01 |
@@ -566,7 +567,7 @@
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |
 | [Âme de la rive](https://open.spotify.com/track/0f9QxSOCd537v0z4rFyHr8) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Âme de la rive](https://open.spotify.com/album/0mt9m7lsDx6M6LQEHub1Ud) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Éclatant](https://open.spotify.com/track/6NbzU506ERsESkya4sLEsf) | [Valérie de l'Est](https://open.spotify.com/artist/7szs7nSft7NHNUN1HmDxiz) | [Éclatant](https://open.spotify.com/album/620muQH916ETrKhCBdOUSP) | 3:05 | 2021-01-03\* | 2021-01-15 |
-| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
+| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 | 2026-02-22 |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |

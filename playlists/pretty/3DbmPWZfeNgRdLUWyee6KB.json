@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1276,
+  "num_followers": 1275,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQvMEJjeubM1+1bJOc68d52DVsSMu/",
+  "snapshot_id": "AAAQvvF//15UMcVaQsof8jARox20iHRY",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2527,6 +2527,38 @@
       "duration_ms": 197296,
       "name": "Her Light , Unseen",
       "url": "https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH"
+    },
+    {
+      "added_at": "2026-02-21 11:42:54",
+      "album": {
+        "name": "We\u2019re In The Same Boat (Don\u2019t Let Us Drown)",
+        "url": "https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU"
+      },
+      "artists": [
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        }
+      ],
+      "duration_ms": 192234,
+      "name": "We\u2019re In The Same Boat (Don\u2019t Let Us Drown)",
+      "url": "https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G"
+    },
+    {
+      "added_at": "2026-02-21 11:43:04",
+      "album": {
+        "name": "Insamnia",
+        "url": "https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Insamnia",
+      "url": "https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA"
     }
   ],
   "unique_name": "New Indie Music",

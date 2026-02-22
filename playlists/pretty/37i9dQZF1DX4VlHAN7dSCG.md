@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 傷心欲絕 \(Wayne's so Sad\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,772 likes - 71 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,767 likes - 71 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [你得先是自己 \- 影视剧《除恶》推广曲](https://open.spotify.com/track/28aOPIa0FCO5J7afqyr1gb) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [你得先是你自己 \(影视剧《除恶》推广曲\)](https://open.spotify.com/album/7esHj1MxOgYrQCLfczVrLm) | 3:53 |
+| 1 | [你得先是你自己 \- 影视剧《除恶》推广曲](https://open.spotify.com/track/28aOPIa0FCO5J7afqyr1gb) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [你得先是你自己 \(影视剧《除恶》推广曲\)](https://open.spotify.com/album/7esHj1MxOgYrQCLfczVrLm) | 3:53 |
 | 2 | [千里馬 \- REMIX](https://open.spotify.com/track/4HQubn1SEU7KvqqJXW01iw) | [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [千里馬 \(REMIX\)](https://open.spotify.com/album/2boEu7k0qKXTpV2mRzdYAT) | 2:26 |
 | 3 | [第一次活](https://open.spotify.com/track/37O5gaMM36jcNCxgD7QTNK) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [把附近的影子都摘了](https://open.spotify.com/album/6e2MQgLOByjeOmVocysI8g) | 4:38 |
 | 4 | [Really Not](https://open.spotify.com/track/0dvelPOEctgO6ixprB0YLO) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ) | [Really Not](https://open.spotify.com/album/4sawJEIk1Af5UqzQYpXmqm) | 4:19 |

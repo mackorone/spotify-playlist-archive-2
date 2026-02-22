@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Lana Del Ray, Mumford & Sons, Gracie Abrams, <br/>MAY\-A, Twenty One Pilots + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,117 likes - 81 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,104 likes - 81 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,31 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21825,
+  "num_followers": 21840,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAKL3DKA0MMYiMoAfT584pyL06Z89o+",
+  "snapshot_id": "AAAKN0I68K0AwKh7rdfLkCwJ6mWMHHD+",
   "tracks": [
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
+      "album": {
+        "name": "This Music",
+        "url": "https://open.spotify.com/album/3sareMOds3YrqNJM629pIM"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "This Music",
+      "url": "https://open.spotify.com/track/6viS7eSgSDkYODeBG3l4Xa"
+    },
+    {
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "only the best",
         "url": "https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "hold tight",
         "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Keep Your Hands Up",
         "url": "https://open.spotify.com/album/4vkVU0eh2aT7xuKFNbIEBN"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/1XbM0X7ZhS9qMcW6ddKyuo"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Never Alone (feat. Lizzy Land)",
         "url": "https://open.spotify.com/album/3sF4muCtCEkU5rhjqTc4hA"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/5oUyHGfZTseyZ50J6a7Ikk"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Science (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "GET OUT MY HEAD",
         "url": "https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "AMENTET",
         "url": "https://open.spotify.com/album/6mPYt3RF5t2Gul8OxOOW1R"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/460g3Sn2JPPbySTjjiG5qS"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Beautiful Places",
         "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Funk Rocket",
         "url": "https://open.spotify.com/album/5PYGpVIeQQRBWpE3IsBkgm"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/7AnzIylfuXxE4ycVSavEXo"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "stranger",
         "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
@@ -265,7 +281,27 @@
       "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:25:57",
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Water Spirit",
+          "url": "https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41"
+        }
+      ],
+      "duration_ms": 229201,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt"
+    },
+    {
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Glowing In The Dark",
         "url": "https://open.spotify.com/album/0EWLfJ48WbZY7eECK8cYHH"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/3RBkj5T0wGUrmPgGxNOJTJ"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "It's You (underscores' \"It\u2019s U\" Remix)",
         "url": "https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX"
@@ -309,7 +345,7 @@
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6B6KWZO1y3RM6nTxhAPmuC"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/0iWHDplkRdrtv9ensY6lTY"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/0FlA4ltFXhjeezRI8K5ZiN"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "4THEBOYS",
         "url": "https://open.spotify.com/album/10pJch7joGi7t4vkd29m84"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/3uqp9i661Wr0vsOdfWbCqd"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/3iz9Lv2t1ZkVCZ35yNRtA7"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/6x6kuDhr2y4Ly3weZFje2C"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "HAND ME DOWNS",
         "url": "https://open.spotify.com/album/2KUaGe1Dw7H0Fdd4mdJxxg"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/2xOu2OJ5ggEiiCxl2qzYC7"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "I Don't Want To",
         "url": "https://open.spotify.com/album/3EctQMphj2fWCEnkUeYTbD"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "dettagli",
         "url": "https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "MERCERDOME",
         "url": "https://open.spotify.com/album/5ccTCd8IjJdk5isrlooxcA"
@@ -461,23 +497,7 @@
       "url": "https://open.spotify.com/track/6a0oUBuVMUEx3DRTXRwz4y"
     },
     {
-      "added_at": "2026-02-20 21:12:21",
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/5W2rFMbiCkbyq70qj8kEBa"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/5PIldPg7VRQ9jlBIvESFzL"
-    },
-    {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "The Wobbler",
         "url": "https://open.spotify.com/album/4MW2M5jCzg9zMHvM4OeJlK"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/6QqJDTEheU77rnjQ73geMB"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "SOUNDBOI",
         "url": "https://open.spotify.com/album/30aUs74OB8pwpGAEBpXiVk"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/6Ugr64C66Lw2Fk6pJa69Do"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "PALO SANTO",
         "url": "https://open.spotify.com/album/0Uk0euoDc4F8wNXpbsFlUX"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/6k5X60GE1JvYI4SpRpeTBy"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/2wEDO49ptZpZhjxmb7IUp1"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/0o5IDKMI1S9fpATAspv4qq"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Aerobics",
         "url": "https://open.spotify.com/album/657COGSrYFw3gs3IULfQN7"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/2EFlMGvleP3hvFjmHIGtPv"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Darkness, Fear & Fantasy",
         "url": "https://open.spotify.com/album/03G86EZIbv7OU763GXSsmT"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/1FgyYCDToqpH6EbtASg6GI"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Triple Threat",
         "url": "https://open.spotify.com/album/5qdvmo829ORMmbvRvHpPN8"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/3iBn6LD2StVvA9eMpaab2d"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/1JXymgJgDmwl7hKQ59bldO"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/03yvH0jxl914GrZIPnevQp"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Shifting The Lens",
         "url": "https://open.spotify.com/album/4RDo0sRIZWlmsaAnKhOgXf"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/1aE9wKZJWrmXPzhzCjxgd6"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "CONTACT",
         "url": "https://open.spotify.com/album/43Gk7u1SvR2GhuTMgi5LgE"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/26X0nOONBSpSz7QmWrVqGQ"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "Caelid",
         "url": "https://open.spotify.com/album/6WiN3xYGRspnquIjLIA5Hw"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/4VyeyjvquOS3h3pt0plTKU"
     },
     {
-      "added_at": "2026-02-20 19:13:36",
+      "added_at": "2026-02-21 23:24:29",
       "album": {
         "name": "mind shower",
         "url": "https://open.spotify.com/album/2DqsPdpry1ZK7EjONnFxdD"

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,079 songs - 5 day 1 hr 34 min
+2,080 songs - 5 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Flying With Paul's Birds](https://open.spotify.com/track/5fhMQ0d47pcNoXN4mCiArl) | [Yakush](https://open.spotify.com/artist/3jSt5FxowdHhQ5kVKc5DeR) | [Flying With Paul's Birds](https://open.spotify.com/album/7sfyvWxTHtGzA1PsV359ji) | 4:57 | 2024-09-05 |  |
 | [Food and Water](https://open.spotify.com/track/4kDMBWH4Rq1bTDUvY34NUD) | [Rigsi](https://open.spotify.com/artist/4HG4SAWvg6XEbmtHXpQrcu) | [Food and Water](https://open.spotify.com/album/7IUS9S8uYOJ1U4YiVZJMCL) | 3:10 | 2025-12-13 |  |
 | [Fool](https://open.spotify.com/track/2YAjhXvuYA6NPf6gMuwSr3) | [Michael Cappetto](https://open.spotify.com/artist/6kZhD81BU0QpgsEIFe86iA) | [Fool](https://open.spotify.com/album/19bLG4Rcg5sZzGZBxYC65v) | 4:28 | 2025-11-17 |  |
+| [Footsteps Into the Unknown](https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN) | [Mahawira](https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH) | [Footsteps Into the Unknown](https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko) | 3:18 | 2026-02-22 |  |
 | [For Granted](https://open.spotify.com/track/2KJp1hZ530dYaQOx9oWA3x) | [The Attached Outsiders](https://open.spotify.com/artist/2ODLB4yIO5qLuSD3H33nVs) | [For Granted](https://open.spotify.com/album/03LUvmNYReseAqfsg9l1gS) | 4:09 | 2025-08-06 |  |
 | [For the Johns](https://open.spotify.com/track/7q4Gamru3QEAkBjf8ZrIz0) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 3:58 | 2025-05-24 |  |
 | [For The Romance](https://open.spotify.com/track/6QSv6QPJy6qhtrhL8H67D5) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [For The Romance](https://open.spotify.com/album/4CB7bC0MAeOHOCj7IRwB0T) | 2:27 | 2025-11-06 |  |

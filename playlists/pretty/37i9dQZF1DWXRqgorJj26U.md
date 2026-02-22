@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,022,073 likes - 200 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,022,759 likes - 200 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Omega Sapien \(South Korea\)
+> Hottest indie sounds from Asia\. Cover: Kenichiro Nishihara \(Japan\)
 
 2,413 songs - 6 day 2 hr 22 min
 

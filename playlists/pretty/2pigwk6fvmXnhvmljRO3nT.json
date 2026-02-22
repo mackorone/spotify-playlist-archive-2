@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAK3AWWnB5WNV9BAkpKrZiHdZNAqyDh",
+  "snapshot_id": "AAAK3mZX+NYmsN0RvWC7ORaz0HwpJEWe",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -146739,6 +146739,42 @@
       "duration_ms": 208375,
       "name": "Easy Breezy",
       "url": "https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1"
+    },
+    {
+      "added_at": "2026-02-21 05:16:36",
+      "album": {
+        "name": "Weathering With You -Complete Version-",
+        "url": "https://open.spotify.com/album/4hAlZU3JXoThQ3jnF4CGiZ"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 420573,
+      "name": "Is There Still Anything That Love Can Do?",
+      "url": "https://open.spotify.com/track/4DZH12FbBR0r1aeN9E1H3U"
+    },
+    {
+      "added_at": "2026-02-21 05:16:43",
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     }
   ],
   "unique_name": "Purge",

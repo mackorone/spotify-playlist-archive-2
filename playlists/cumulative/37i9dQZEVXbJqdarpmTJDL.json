@@ -2587,6 +2587,32 @@
     },
     {
       "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ALCANTARA",
+      "url": "https://open.spotify.com/track/6OydZKuVGqIyyXi5aoVS4n"
+    },
+    {
+      "album": {
         "name": "ALCANTARA",
         "url": "https://open.spotify.com/album/5TxLYjqyXamCUCb6z5b8B4"
       },
@@ -2606,7 +2632,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 160000,
       "name": "ALCANTARA",
       "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
@@ -4422,7 +4448,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 203125,
       "name": "Apo To Tipota",
       "url": "https://open.spotify.com/track/2lRkJ2gl374O5Gzdejq7KA"
@@ -5018,7 +5044,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 237125,
       "name": "Asteria",
       "url": "https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id"
@@ -6094,6 +6120,36 @@
       "duration_ms": 184615,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116734,
+      "name": "BAM BAM",
+      "url": "https://open.spotify.com/track/5raHQVl5az0PI2TKaubRAr"
     },
     {
       "album": {
@@ -9431,6 +9487,32 @@
     },
     {
       "album": {
+        "name": "CARTEL",
+        "url": "https://open.spotify.com/album/21K02Axdn1jKwF7q4qkF5y"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161589,
+      "name": "CARTEL",
+      "url": "https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6"
+    },
+    {
+      "album": {
         "name": "Immortale",
         "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
       },
@@ -12456,6 +12538,28 @@
       "duration_ms": 174886,
       "name": "Dexi Tessari",
       "url": "https://open.spotify.com/track/6l5VRBh7DptVGODCvkwubx"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "DG",
+      "url": "https://open.spotify.com/track/3TVWdOkuPd1wWIbVkqSDFV"
     },
     {
       "album": {
@@ -16952,7 +17056,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 166000,
       "name": "Fann Is Back",
       "url": "https://open.spotify.com/track/1MLEaguxFpEkgTKVBDO6gE"
@@ -19123,6 +19227,28 @@
     },
     {
       "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141284,
+      "name": "GARAZ",
+      "url": "https://open.spotify.com/track/3j09umcBvWHD08ceWA3BjW"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -21102,6 +21228,28 @@
       "duration_ms": 190381,
       "name": "GUNAIKES",
       "url": "https://open.spotify.com/track/4T0tIX6y3Lo8uKIUkwPSqw"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142183,
+      "name": "GUNNI",
+      "url": "https://open.spotify.com/track/653n2zzYcPbITPFYRV5KCn"
     },
     {
       "album": {
@@ -23608,7 +23756,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 162750,
       "name": "Irtha Bam",
       "url": "https://open.spotify.com/track/6ciIGuGzfCmziTpQMwa659"
@@ -24348,7 +24496,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 155422,
       "name": "K9",
       "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
@@ -25511,6 +25659,32 @@
     },
     {
       "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164257,
+      "name": "KENZO",
+      "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
+    },
+    {
+      "album": {
         "name": "KESH",
         "url": "https://open.spotify.com/album/4lWhGprAjWDZeB9nkNQv86"
       },
@@ -25552,6 +25726,28 @@
       "duration_ms": 197441,
       "name": "KHFISOS",
       "url": "https://open.spotify.com/track/6m9mAgw4rMkGUkHuSAFdDB"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133888,
+      "name": "KILA",
+      "url": "https://open.spotify.com/track/0dgs9XotPYCwK2q6C0yKz8"
     },
     {
       "album": {
@@ -28049,6 +28245,28 @@
     },
     {
       "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109115,
+      "name": "LETRA",
+      "url": "https://open.spotify.com/track/3eFqTDfADWUYxVnfpSAlRY"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -30516,6 +30734,28 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115909,
+      "name": "MARRAKESH",
+      "url": "https://open.spotify.com/track/3xOu9xqZ0I6oJkva8r0S2j"
     },
     {
       "album": {
@@ -37110,7 +37350,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 166800,
       "name": "OPWS EGW",
       "url": "https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9"
@@ -38470,7 +38710,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/0VurYEUB7a7TztCiwZ6DaF"
@@ -40035,6 +40275,28 @@
     },
     {
       "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144437,
+      "name": "PISTOTIKES",
+      "url": "https://open.spotify.com/track/56WcT3N3j9fLddiJHscDXM"
+    },
+    {
+      "album": {
         "name": "Plan Out",
         "url": "https://open.spotify.com/album/3c1o9SOSlSXdt1f5qkZ73D"
       },
@@ -40200,7 +40462,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 187500,
       "name": "Poioi",
       "url": "https://open.spotify.com/track/63ALrygVRFgwLyqykmWPkA"
@@ -41084,6 +41346,32 @@
       "duration_ms": 150000,
       "name": "Professor",
       "url": "https://open.spotify.com/track/7p735bl8nXf0Dg1EHNU0Ci"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "PRONTO",
+      "url": "https://open.spotify.com/track/5XOZGhO3Nceq4FUUMYyX0b"
     },
     {
       "album": {
@@ -47512,7 +47800,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 169411,
       "name": "SVISE LIGO",
       "url": "https://open.spotify.com/track/2F75DgddCSxcG4tZRG8wxO"
@@ -50238,7 +50526,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 203875,
       "name": "To Ftoxiko Mou",
       "url": "https://open.spotify.com/track/0YCoY6sH5u5glgLxEphtLU"
@@ -50498,7 +50786,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 195625,
       "name": "To Teleutaio",
       "url": "https://open.spotify.com/track/6EueAIpZeUSoMpiQEIZ1yz"
@@ -54410,7 +54698,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 218647,
       "name": "Xeiroteri Genia",
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
@@ -54506,6 +54794,32 @@
       "duration_ms": 176598,
       "name": "Xereis I Eleni",
       "url": "https://open.spotify.com/track/0Ywo7XSIm3MrKssLIenprW"
+    },
+    {
+      "album": {
+        "name": "INE HERMES",
+        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155489,
+      "name": "XHAMAT E ZINJ",
+      "url": "https://open.spotify.com/track/2jpfi9jYj0dhqlF7cDBy8p"
     },
     {
       "album": {

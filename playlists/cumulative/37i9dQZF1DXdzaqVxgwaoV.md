@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-378 songs - 22 hr 56 min
+379 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [El Viejo del Sombrerón](https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:12 | 2023-11-09 | 2024-04-19 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 | 2023-12-20 |  |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 | 2023-11-09 | 2024-04-19 |
-| [En Mi Pensamiento \(Te Necesito\)](https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:04 | 2023-12-20 |  |
+| [En Mi Pensamiento \(Te Necesito\)](https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:04 | 2023-12-20 | 2026-02-22 |
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2023-11-09 | 2023-12-14 |
 | [Entre Rejas](https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Rey Sabanero](https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE) | 3:51 | 2024-09-01 |  |
 | [Entre Rejas](https://open.spotify.com/track/1jBGM9PNMIZCe46WQ3i4ZB) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Burro Leñero](https://open.spotify.com/album/2YlM4ylMqp7rzXpsE9lXJJ) | 3:53 | 2025-09-09 | 2025-10-04 |
@@ -285,6 +285,7 @@
 | [Pa'l Bailador](https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 4:31 | 2023-11-09 | 2024-04-19 |
 | [Pagarás](https://open.spotify.com/track/5igVHLfyiWUXv9TjJU1XEa) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [Éxitos Bailables de Siempre, Vol\. 4](https://open.spotify.com/album/3ozQLqRdVEcla43RGBZwTx) | 3:43 | 2023-12-20 | 2024-04-19 |
 | [Pagarás](https://open.spotify.com/track/5kVDY6RkFwR5Wj0GvH9ZOg) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [20 Exitos Bailables](https://open.spotify.com/album/64HBjDa4l6wCRAreC1mSsX) | 3:48 | 2023-11-09 | 2023-12-14 |
+| [Palmira Señorial](https://open.spotify.com/track/31l9NOTqNrLZ7ymU5QtnOj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Grandes Exitos](https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb) | 2:50 | 2025-12-17 |  |
 | [Parranda De Navidad](https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn) | [La Súper Banda](https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ) | [Navidad Colombiana \- Para Cantar Y Bailar La Novena De Aguinaldos](https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O) | 4:00 | 2025-12-17 |  |
 | [Parranda De Navidad](https://open.spotify.com/track/3nIpZR9wXpZIoOuDZd9p6f) | [Tania](https://open.spotify.com/artist/19qTGIm0oATLXTyeacYCQP) | [15 Grandes Éxitos De Tania](https://open.spotify.com/album/5k18sQVSvcuQ5Vl2k3AWa7) | 3:53 | 2025-09-09 | 2025-10-04 |
 | [Patacón Pisa’o](https://open.spotify.com/track/0Vc1iKoBR2Sb0BXqDS8l7N) | [Juan Carlos Coronel](https://open.spotify.com/artist/7BM4VM2987j5qgnTkFjYMr), [El Nene & Sus Traviesos](https://open.spotify.com/artist/1irFgpskn3ZlLqwm6niwlZ) | [Patacon Pisao](https://open.spotify.com/album/0FwDGEZHUDZ5x6EEt8xhAy) | 4:25 | 2025-09-09 | 2025-10-04 |

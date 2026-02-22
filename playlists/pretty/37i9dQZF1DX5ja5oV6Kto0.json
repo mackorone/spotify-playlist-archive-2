@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110624,
+  "num_followers": 110628,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Do Not Disturb (DND)",
         "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 172035,
       "name": "Do Not Disturb (DND)",
       "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -603,26 +603,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "By Any Minz",
-        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
         },
         {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
         }
       ],
-      "duration_ms": 192031,
-      "name": "f.u.",
-      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+      "duration_ms": 236080,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -643,22 +639,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Faya",
-        "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
       "artists": [
         {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         },
         {
-          "name": "Ayisi",
-          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 236080,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
+      "duration_ms": 192031,
+      "name": "f.u.",
+      "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Sinatanale",
+        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Sinatanale",
+      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 192000,
       "name": "Novacaine",
       "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Sinatanale",
-        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Sinatanale",
-      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Designer Baby",
         "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
       },
@@ -1371,26 +1387,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        },
-        {
-          "name": "Allan Harvey",
-          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
-        }
-      ],
-      "duration_ms": 155335,
-      "name": "Wicked",
-      "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Lock In",
         "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
       },
@@ -1411,22 +1407,18 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "LAGOS",
-        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
+        "name": "Catch Me If U Can",
+        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
       },
       "artists": [
         {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "TR1GGA",
-          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
         }
       ],
-      "duration_ms": 180000,
-      "name": "LAGOS",
-      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+      "duration_ms": 202812,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1451,22 +1443,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Catch Me If U Can",
-        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 202812,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Shigege",
         "url": "https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl"
       },
@@ -1487,6 +1463,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Allan Harvey",
+          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+        }
+      ],
+      "duration_ms": 155335,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Fool Me Once",
         "url": "https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX"
       },
@@ -1503,22 +1499,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "4 DA PAIN",
-        "url": "https://open.spotify.com/album/0TM6jciackri09qoY3SV9s"
+        "name": "LAGOS",
+        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
       },
       "artists": [
         {
-          "name": "$pacely",
-          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
         },
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "TR1GGA",
+          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO"
+      "duration_ms": 180000,
+      "name": "LAGOS",
+      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -7860,7 +7860,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 290800,
       "name": "Chuta Chukuta",
       "url": "https://open.spotify.com/track/0suD7OXPjFuebrmJafyRmR"
@@ -9282,13 +9282,13 @@
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
         }
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -15812,7 +15812,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Fortnite",
       "url": "https://open.spotify.com/track/0HNiyzIg6hH5GTibGiw0gl"
@@ -17660,7 +17660,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -19622,7 +19622,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
@@ -20226,10 +20226,32 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 157333,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
+    },
+    {
+      "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "album": {
@@ -24483,6 +24505,24 @@
     },
     {
       "album": {
+        "name": "Me Fui Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/09A8P0dmlNg3cZCvqqw3a0"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223596,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/1bbFzjWpKtENyKRImu4F2A"
+    },
+    {
+      "album": {
         "name": "Corridos Tumbados, Vol. 5",
         "url": "https://open.spotify.com/album/1O10WPUlmYqDE3o12sdTlm"
       },
@@ -24494,7 +24534,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 223656,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/6aSS81SQxUjJjuPkP3EAZO"
@@ -27746,7 +27786,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 239628,
       "name": "M\u00edrame Baby",
       "url": "https://open.spotify.com/track/4GFg2xNBur9IngFW0fktUD"
@@ -30840,7 +30880,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -34142,7 +34182,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -36594,7 +36634,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 116257,
       "name": "shock the word funk - slowed",
       "url": "https://open.spotify.com/track/4AebZ84PKAziBqM0HwsqjI"
@@ -45891,6 +45931,24 @@
     },
     {
       "album": {
+        "name": "Y \u00bfSi Fuera Ella?",
+        "url": "https://open.spotify.com/album/4VeADxmCHRleaeQXboSVOb"
+      },
+      "artists": [
+        {
+          "name": "Leo Rosas",
+          "url": "https://open.spotify.com/artist/5zy47DVm0CAlsgmY6TsHoc"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312286,
+      "name": "Y \u00bfSi Fuera Ella?",
+      "url": "https://open.spotify.com/track/0n0NzqYHJT6pihII20aM1Y"
+    },
+    {
+      "album": {
         "name": "Noches Sin Fin",
         "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
       },
@@ -46830,6 +46888,24 @@
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "album": {
+        "name": "\u00bfHasta D\u00f3nde Te Quiero?",
+        "url": "https://open.spotify.com/album/0GvY08SzYQFZZJRKvRZ58F"
+      },
+      "artists": [
+        {
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146246,
+      "name": "\u00bfHasta D\u00f3nde Te Quiero?",
+      "url": "https://open.spotify.com/track/1licjid99qj1BFIYGb3wZC"
     },
     {
       "album": {

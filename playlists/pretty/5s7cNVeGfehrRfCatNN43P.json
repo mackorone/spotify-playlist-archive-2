@@ -6,8 +6,24 @@
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALqYwFZrqvvAGwLzYdVjVIMkstJb2M",
+  "snapshot_id": "AAALq7H8ix+1doPxmZFshngSRp6mPM67",
   "tracks": [
+    {
+      "added_at": "2026-02-21 19:30:32",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/7x7igPQAVkV1f2YrmffITe"
+      },
+      "artists": [
+        {
+          "name": "Elias O. Graversen",
+          "url": "https://open.spotify.com/artist/1i0C8yKc70dR8tzPtKAWYd"
+        }
+      ],
+      "duration_ms": 178212,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5Mz8glwG7ktA3eNeI2a7TX"
+    },
     {
       "added_at": "2026-02-20 17:02:20",
       "album": {

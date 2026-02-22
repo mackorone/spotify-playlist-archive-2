@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,517 likes - 213 songs - 9 hr 7 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,548 likes - 214 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,5 +221,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 211 | [Still Beats For You](https://open.spotify.com/track/76YRDMjSMpiQMOlYzUuoqW) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Lind](https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf), [Sindri Björnsson](https://open.spotify.com/artist/018VfISw3LqdJuGUluNF70) | [Still Beats For You](https://open.spotify.com/album/6EMLuQB02TXrgL3Vc6ueOb) | 2:03 |
 | 212 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 |
 | 213 | [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 |
+| 214 | [Keep On Dancin'](https://open.spotify.com/track/3n5Gaj8Jsw1w7dZbJQfWN7) | [CICERO!](https://open.spotify.com/artist/14Feld1YPnynu1a1hPzxaa), [Damon.](https://open.spotify.com/artist/0BerNbI4jj8PSQqsU8B1RH), [Nicole Marie](https://open.spotify.com/artist/2slZ3b89313cQssXIK7qd7) | [Keep On Dancin'](https://open.spotify.com/album/6CsoL77zEF0ARZK0kzodQU) | 2:26 |
 
-Snapshot ID: `AABQGPw326QnN8Rhst25ZL0xre4Fi25i`
+Snapshot ID: `AABQGZ8MSGEoe5PjAUGJn5OpV1qjqjU9`

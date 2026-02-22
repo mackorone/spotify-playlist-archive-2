@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "All new Gospel songs on the rise! Cover:  SINACH",
+  "description": "All new Gospel songs on the rise! Cover:  RED Hands",
   "name": "Gospel Rising",
   "tracks": [
     {
@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "Black Boy (feat. Jon Batiste)",
+        "url": "https://open.spotify.com/album/5Ps4aUroz2P4lCVZyn1P4i"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207479,
+      "name": "Black Boy (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/5uasQWigsUutS50i4cRpMz"
+    },
+    {
+      "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/20EtjpYHvCqnEtqa9sqOoO"
       },
@@ -896,7 +918,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 245263,
       "name": "Bow My Spirit Prophetic Reprise (feat. India Callicott)",
       "url": "https://open.spotify.com/track/3fwB0ZgtbgiUMwi5kUUvdy"
@@ -972,7 +994,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 427889,
       "name": "Build Your Hope - Live",
       "url": "https://open.spotify.com/track/5CEswoFJ4sRA1NwqcaWQje"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 214325,
       "name": "Celebration Remix (feat. Queen Latifah & Dawn Richard)",
       "url": "https://open.spotify.com/track/7pQBMij61NSmct4byswcua"
@@ -2111,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "For The Win feat. BERKLEE Summer Gospel Choir",
+        "url": "https://open.spotify.com/album/6fkIJ2DFdhgQ8p3mTq0xXM"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        },
+        {
+          "name": "BERKLEE Summer Gospel Choir",
+          "url": "https://open.spotify.com/artist/6T1OUbIJBTsdZ818BjP4If"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "For The Win (feat. BERKLEE Summer Gospel Choir)",
+      "url": "https://open.spotify.com/track/3YTY1ZmVqe0UYDjbhdvtQv"
+    },
+    {
+      "album": {
         "name": "Forever It Is Done",
         "url": "https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7"
       },
@@ -2140,7 +2184,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 249448,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/0Zkuy4fDKb4fmpfsq6NHp6"
@@ -2236,7 +2280,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 309120,
       "name": "Glory to Your Name (Yahweh Chant)",
       "url": "https://open.spotify.com/track/20qyfm6CoXczO6HomsunrZ"
@@ -2732,7 +2776,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 496695,
       "name": "Hallelujah - Live",
       "url": "https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM"
@@ -2798,6 +2842,24 @@
       "duration_ms": 413880,
       "name": "Have Your Way",
       "url": "https://open.spotify.com/track/5gmb3a65EiGRf8OwKSPySK"
+    },
+    {
+      "album": {
+        "name": "He Can",
+        "url": "https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "He Can",
+      "url": "https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P"
     },
     {
       "album": {
@@ -3064,6 +3126,24 @@
       "duration_ms": 249160,
       "name": "Holy, Holy, Holy (Radio Edit) (feat. Alvin Slaughter) - Live",
       "url": "https://open.spotify.com/track/4kQILEer0VN9mOOxIyW9zQ"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/5lOLODGKhb6ogIizkHZvxn"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225936,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/228LTnxM3tOcex7KCQJUip"
     },
     {
       "album": {
@@ -4131,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Just Believe",
+        "url": "https://open.spotify.com/album/7vOqryvIGWs1u2dRyRZKbT"
+      },
+      "artists": [
+        {
+          "name": "Dante' pride",
+          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161647,
+      "name": "Just Believe",
+      "url": "https://open.spotify.com/track/5AYGF1KidfU3j7DMmYwG7h"
+    },
+    {
+      "album": {
         "name": "Just Wait",
         "url": "https://open.spotify.com/album/7xL4QnvTljOVNaXW2z2p5Q"
       },
@@ -4284,7 +4382,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 267278,
       "name": "Look Alike",
       "url": "https://open.spotify.com/track/3JN9QRleVihmVQ1i7iw8FK"
@@ -5261,6 +5359,28 @@
     },
     {
       "album": {
+        "name": "On The Way (Remix)",
+        "url": "https://open.spotify.com/album/4h6faXw82hMdgP41wjJKJD"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "On The Way - Remix",
+      "url": "https://open.spotify.com/track/3877TuPJ4HruNhvxBnC9Oy"
+    },
+    {
+      "album": {
         "name": "diary entry 1",
         "url": "https://open.spotify.com/album/6fX5APrymapa9uIsC1yy0s"
       },
@@ -5276,6 +5396,24 @@
       "duration_ms": 184676,
       "name": "one",
       "url": "https://open.spotify.com/track/4YWagXVsKhd6NklsOsU4aY"
+    },
+    {
+      "album": {
+        "name": "One Good God",
+        "url": "https://open.spotify.com/album/0XwackFfzuOZ65r4RE7hIO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324314,
+      "name": "One Good God",
+      "url": "https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr"
     },
     {
       "album": {
@@ -5810,7 +5948,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 262222,
       "name": "Say The Name (feat. Anesha Birchett & Young Dro) - Remix",
       "url": "https://open.spotify.com/track/3iRMQRy03DYEWXVkbQ4BDh"
@@ -6396,7 +6534,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 265255,
       "name": "Take the Lead",
       "url": "https://open.spotify.com/track/4z7Cr1dNk296VeB9cqhA4H"
@@ -6620,7 +6758,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 243682,
       "name": "The Anthem / Hallelujah Chant - Trap Mix",
       "url": "https://open.spotify.com/track/19mhBp2vRF52Gg5NNfvkoC"
@@ -6704,6 +6842,24 @@
       "duration_ms": 229040,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/2YlLAMxcJwU56wYGto1mKC"
+    },
+    {
+      "album": {
+        "name": "Red Hands",
+        "url": "https://open.spotify.com/album/6x95SVFmMBISSUXgointtc"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/6YXzZ34Ve4vOjeQCV5KUVJ"
     },
     {
       "album": {
@@ -8043,6 +8199,28 @@
     },
     {
       "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
+      },
+      "artists": [
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        },
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381970,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u"
       },
@@ -8276,6 +8454,28 @@
       "duration_ms": 295213,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    },
+    {
+      "album": {
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Gnino
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,680 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,699 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 10 | [Le Topic](https://open.spotify.com/track/2yLz0tsW9ol8Pj5dWshsIE) | [M!ND](https://open.spotify.com/artist/2GwMkWYrEUIY9jaY57EMXE), [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Flow Neural](https://open.spotify.com/album/6QCeJU8sdwqQQoh1WmZlJy) | 1:54 |
 | 11 | [Lux](https://open.spotify.com/track/4zT3P4OTk3boi7ctWFfNF2) | [ēphębe](https://open.spotify.com/artist/77MvFNNivlJvRCWc9fRCyS), [LVJ](https://open.spotify.com/artist/6l8uonAXxnU5MOseYbEvEp) | [Lux](https://open.spotify.com/album/2RNqNrhvzOEtiuiBIBiqCt) | 3:11 |
 | 12 | [YOU DID!](https://open.spotify.com/track/0EtEiT6r534GV2FpGspdV5) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [YOU DID!](https://open.spotify.com/album/1m4nA0VLCtXjKGECjqJUIN) | 4:40 |
-| 13 | [BREAK LE MOULE](https://open.spotify.com/track/36jiVtS44bG2ao8vUGOGvk) | [Thoma$](https://open.spotify.com/artist/0sPJi1TLgvy6cl3OU37VKw), [N.aY](https://open.spotify.com/artist/0vHdsJBmGS1llVIO7BjL5J), [Eleven Pond](https://open.spotify.com/artist/4VCsAaq5iupGwoL62VJqft) | [BREAK LE MOULE](https://open.spotify.com/album/2VYZh7cScrHgSESoG2RXB0) | 1:45 |
+| 13 | [BREAK LE MOULE](https://open.spotify.com/track/36jiVtS44bG2ao8vUGOGvk) | [Thoma$](https://open.spotify.com/artist/0sPJi1TLgvy6cl3OU37VKw), [N.aY](https://open.spotify.com/artist/0vHdsJBmGS1llVIO7BjL5J), [Eleven Pond](https://open.spotify.com/artist/21VHqZzPQS8fpiIq87BATK) | [BREAK LE MOULE](https://open.spotify.com/album/2VYZh7cScrHgSESoG2RXB0) | 1:45 |
 | 14 | [PLUS JAMAIS BROKE](https://open.spotify.com/track/1Lf4PXnMAvhowUR3TgASAA) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [PLUS JAMAIS BROKE](https://open.spotify.com/album/0Vd0mxIcnqbqGaW30um1GT) | 2:04 |
 | 15 | [Ritz Carlton](https://open.spotify.com/track/6nJKlIarVo4DkFel40XF8g) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ritz Carlton](https://open.spotify.com/album/03S4nz2a753KSzsh8uH4uC) | 4:06 |
 | 16 | [SUR MOI](https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64), [Sylinda](https://open.spotify.com/artist/6F6SH7OYlTzzDFeBntsHbg) | [SUR MOI](https://open.spotify.com/album/4TIncoZAq6JfF2XlKL98bt) | 2:08 |

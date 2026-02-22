@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Some nights aren\u2019t meant to be streamed; this is one of them. Cover: Cavetown",
-  "name": "On Tour Singapore: Cavetown",
+  "description": "Singapore, you know the fanchants. It\u2019s about to feel like home again. Cover: SEVENTEEN",
+  "name": "On Tour Singapore: SEVENTEEN",
   "tracks": [
     {
       "album": {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 203533,
       "name": "1994",
       "url": "https://open.spotify.com/track/0nldraDxkeNlhAX5sLrK9u"
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "A-TEEN2 Part.2",
+        "url": "https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197898,
+      "name": "9-TEEN",
+      "url": "https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m"
+    },
+    {
+      "album": {
         "name": "RETAS",
         "url": "https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp"
       },
@@ -450,6 +468,24 @@
       "duration_ms": 199165,
       "name": "[NOT] PUBLIC PROPERTY",
       "url": "https://open.spotify.com/track/2fJEpXXKFEiAu143XFQ0QH"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "album": {
@@ -472,7 +508,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 247013,
       "name": "a kind thing to do (feat. Vic Fuentes)",
       "url": "https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV"
@@ -512,6 +548,24 @@
       "duration_ms": 212771,
       "name": "A Thousand Years / Say You Won\u2019t Let Go (Live 2017)",
       "url": "https://open.spotify.com/track/4Dl855fAN0nKsqlpsuh8pG"
+    },
+    {
+      "album": {
+        "name": "A-TEEN Part.3",
+        "url": "https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196323,
+      "name": "A-TEEN",
+      "url": "https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X"
     },
     {
       "album": {
@@ -874,7 +928,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 185346,
       "name": "alone",
       "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
@@ -1362,7 +1416,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 179893,
       "name": "Baby Spoon",
       "url": "https://open.spotify.com/track/5QzkIIu66y7u5qxydYjpf3"
@@ -1456,6 +1510,28 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Bad Influence (Prod. by Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3cjHBmP0CsTGNN44gf6cID"
     },
     {
       "album": {
@@ -1904,7 +1980,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 180626,
       "name": "better",
       "url": "https://open.spotify.com/track/7yQKapIDUatR2R6xAgU5FB"
@@ -2420,7 +2496,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 329049,
       "name": "Boys Will Be Bugs",
       "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
@@ -3785,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+    },
+    {
+      "album": {
         "name": "Love Me / Love Me Not",
         "url": "https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV"
       },
@@ -4016,7 +4110,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
@@ -4320,6 +4414,24 @@
       "duration_ms": 175226,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1UeITRTmB1Qc39ZJzCAx6q"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/1sjObenL1HryPaQOiMDVZ9"
     },
     {
       "album": {
@@ -5093,6 +5205,42 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Eyes on you",
+      "url": "https://open.spotify.com/track/7qkv7ZLTIMkObkyhNo6sdQ"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "F*ck My Life",
+      "url": "https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe"
+    },
+    {
+      "album": {
         "name": "Fadeaway (From \"GARBAGE TIME\")",
         "url": "https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7"
       },
@@ -5538,7 +5686,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 81613,
       "name": "First Time",
       "url": "https://open.spotify.com/track/0siUtI7gPvzO1lrNI0poQr"
@@ -5781,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "Fortunate Change (JOSHUA Solo)",
+      "url": "https://open.spotify.com/track/6HmKlhejcNEEsQZEGjnrmR"
+    },
+    {
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -5918,7 +6084,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 206293,
       "name": "frog",
       "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
@@ -6070,6 +6236,24 @@
       "duration_ms": 255625,
       "name": "Gelita",
       "url": "https://open.spotify.com/track/3HKoosd7ntbL3IVSX2n3ek"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Gemini (JUN Solo)",
+      "url": "https://open.spotify.com/track/1N7EvHKdB4bCzfF1C5GhwN"
     },
     {
       "album": {
@@ -6684,7 +6868,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 240333,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U"
@@ -6915,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Happy Virus (DK Solo)",
+      "url": "https://open.spotify.com/track/4nHwPRwu1imdTzmbIDJD6z"
+    },
+    {
+      "album": {
         "name": "\uc530\ub8e9(SEALOOK) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1C6Gzm0yw5ueiwsTnQu2BX"
       },
@@ -7005,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "HBD",
+      "url": "https://open.spotify.com/track/6E0o3c4mgb7K5DB2TXg4XX"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0cxI0zxaI3utCgOmZ1DrxR"
       },
@@ -7052,7 +7272,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 206280,
       "name": "heart attack",
       "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
@@ -7275,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "Seventeen 3rd Mini Album \u2019Going Seventeen\u2019",
+        "url": "https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225302,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/6FdIEgj8ErhkOHbtB6aqFF"
+    },
+    {
+      "album": {
         "name": "Umaga",
         "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
       },
@@ -7308,6 +7546,24 @@
       "duration_ms": 242126,
       "name": "Hingga Ke Jannah",
       "url": "https://open.spotify.com/track/05X28mQCKUZC4L6CQM5X1R"
+    },
+    {
+      "album": {
+        "name": "An Ode",
+        "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30"
     },
     {
       "album": {
@@ -7438,6 +7694,24 @@
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "album": {
@@ -7852,7 +8126,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 168813,
       "name": "i swear to god",
       "url": "https://open.spotify.com/track/68AdWVM9g4FrUiDAK3gCUj"
@@ -7978,7 +8252,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 252386,
       "name": "I'm Low On Gas And You Need A Jacket",
       "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty"
@@ -8736,7 +9010,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 278991,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
@@ -8758,6 +9032,24 @@
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "Jungle (S.COUPS Solo)",
+      "url": "https://open.spotify.com/track/6AwBSWBq9WvZmJRqqv12Fa"
     },
     {
       "album": {
@@ -9630,7 +9922,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 223653,
       "name": "let them know they're on your mind",
       "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
@@ -10132,6 +10424,28 @@
       "duration_ms": 254760,
       "name": "Love Left for Me",
       "url": "https://open.spotify.com/track/1Q7bYx5FzqNbWOS1q3AQbt"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
       "album": {
@@ -11405,6 +11719,24 @@
     },
     {
       "album": {
+        "name": "An Ode",
+        "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209973,
+      "name": "Network Love",
+      "url": "https://open.spotify.com/track/30S8t6er5QvMBugOzLJnV9"
+    },
+    {
+      "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
@@ -11852,7 +12184,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 192000,
       "name": "obvious",
       "url": "https://open.spotify.com/track/6H1K2h7HWumboTPcAW9qKz"
@@ -12762,7 +13094,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 158742,
       "name": "Pigeon",
       "url": "https://open.spotify.com/track/21uuus0muRkqa2qSU3NtCD"
@@ -13167,6 +13499,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Raindrops (SEUNGKWAN Solo)",
+      "url": "https://open.spotify.com/track/5X6A8puJNGzQaAhHJgx1Ld"
+    },
+    {
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -13460,6 +13810,42 @@
       "duration_ms": 180402,
       "name": "Road Movie",
       "url": "https://open.spotify.com/track/4R4tnT0Av8hOulD9Kjo8pd"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 2nd Mini Album \u2018BOYS BE\u2019",
+        "url": "https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/17MlnACcP3VDE7xHMaToGF"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "album": {
@@ -14249,6 +14635,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Shake It Off (MINGYU Solo)",
+      "url": "https://open.spotify.com/track/1MO3vlEZjAQHM6i1HJtZMA"
+    },
+    {
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -14300,7 +14704,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 237641,
       "name": "Sharpener",
       "url": "https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D"
@@ -14412,6 +14816,24 @@
       "duration_ms": 243272,
       "name": "Shining One - Re-recorded",
       "url": "https://open.spotify.com/track/4ZCKplVZiAfTLeySjuPoVG"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Shining Star (Vernon Solo)",
+      "url": "https://open.spotify.com/track/73j3bR9wX3Gip4P7zsmkWV"
     },
     {
       "album": {
@@ -14614,6 +15036,24 @@
       "duration_ms": 66773,
       "name": "SKIT",
       "url": "https://open.spotify.com/track/52NdZoytptz6k8oMtDWtzX"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Skyfall (THE 8 Solo)",
+      "url": "https://open.spotify.com/track/6GrZkYlCYIuHEjPpTZ3qDb"
     },
     {
       "album": {
@@ -14972,6 +15412,24 @@
       "duration_ms": 176120,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "SOS (Prod. Marshmello)",
+      "url": "https://open.spotify.com/track/3oTDi9MWC0JB39FcsLRon3"
     },
     {
       "album": {
@@ -15470,7 +15928,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 246250,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"
@@ -16404,7 +16862,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 226073,
       "name": "This Is Home",
       "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
@@ -16444,6 +16902,24 @@
       "duration_ms": 326983,
       "name": "This Is War",
       "url": "https://open.spotify.com/track/01v7kv0RTVaX4Vs8GcOGOP"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/6oeMntjclWLoguzwj5ECTo"
     },
     {
       "album": {
@@ -16627,6 +17103,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "To you",
+      "url": "https://open.spotify.com/track/25osmdhvjltPlN7gI2Javd"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -16804,6 +17298,24 @@
       "duration_ms": 206106,
       "name": "Trick Me",
       "url": "https://open.spotify.com/track/6ERaJuSVPZmYvesOOQyRJO"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/6160Q4MxABBaeqMW5AZss4"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149053,
+      "name": "Trigger (DINO Solo)",
+      "url": "https://open.spotify.com/track/6Z9QbzkKGGiMJGWiEvdAax"
     },
     {
       "album": {
@@ -17223,6 +17735,24 @@
     },
     {
       "album": {
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "album": {
         "name": "VISIONS",
         "url": "https://open.spotify.com/album/6uWi2CjzgC6W2l1N4R8uIX"
       },
@@ -17426,7 +17956,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 194906,
       "name": "wasabi",
       "url": "https://open.spotify.com/track/60wA9v9OWr705jZI5dpnxZ"

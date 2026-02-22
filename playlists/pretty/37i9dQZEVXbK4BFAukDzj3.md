@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,470 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,475 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Als Blikken Konden Doden](https://open.spotify.com/track/1tlJ07kgmeSDJc4HurwVDM) | [Veul Gère](https://open.spotify.com/artist/0KpEX9Hb9jJaxSEgDRMLbM) | [Als Blikken Konden Doden](https://open.spotify.com/album/229FKtAV6ltXMbD9Q7ye2U) | 3:07 |
 | 50 | [No Go Zone](https://open.spotify.com/track/1rLrnLRUb500ZzUaEXg7Ka) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Def Major](https://open.spotify.com/artist/4dWykE6p7FVtaFiUUYlPAy), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 3:50 |
 
-Snapshot ID: `MSvEwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MS0WQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

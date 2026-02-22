@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1048510,
+  "num_followers": 1048400,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 168071,
       "name": "In Love",
       "url": "https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 326068,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "hi, it's nice to meet me",
-        "url": "https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Pena, Penita, Pena",
         "url": "https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223240,
       "name": "Pena penita pena",
       "url": "https://open.spotify.com/track/021KukNOhoemTxzEVWaaId"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "hi, it's nice to meet me",
+        "url": "https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "twenty-first",
+        "url": "https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "twenty-first",
+      "url": "https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Tento Na L\u00edngua",
         "url": "https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 195683,
       "name": "Tento Na L\u00edngua",
       "url": "https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "twenty-first",
-        "url": "https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T"
-      },
-      "artists": [
-        {
-          "name": "VARITDA",
-          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "twenty-first",
-      "url": "https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh"
     },
     {
       "added_at": "2026-02-18 05:00:29",

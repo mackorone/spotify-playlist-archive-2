@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 181923,
       "name": "AKTIV II",
       "url": "https://open.spotify.com/track/0wtiwUuHTOonphD15w39an"
@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/5mWtdUlQ5hM51PFSrYuQtT"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Ama Ba\u015faramad\u0131m",
+      "url": "https://open.spotify.com/track/37xCa71aSPCm4iRsgMWfOO"
+    },
+    {
+      "album": {
         "name": "Ama Ba\u015faramad\u0131m",
         "url": "https://open.spotify.com/album/2Fa67TjwSF8nXfqMEY49cm"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 144226,
       "name": "Ama Ba\u015faramad\u0131m",
       "url": "https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 177607,
       "name": "Babaflow",
       "url": "https://open.spotify.com/track/5i3upHyGHZIdW3FpwveVv1"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 275266,
       "name": "Bak",
       "url": "https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH"
@@ -3284,6 +3302,24 @@
       "duration_ms": 157625,
       "name": "BAL",
       "url": "https://open.spotify.com/track/2RojZW2380o281z4LF0wTh"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Balbiber",
+      "url": "https://open.spotify.com/track/5fQLukeUgE3NlSwlQx3KWY"
     },
     {
       "album": {
@@ -4034,6 +4070,28 @@
       "duration_ms": 210744,
       "name": "Ben Sarho\u015f Oldum",
       "url": "https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT"
+    },
+    {
+      "album": {
+        "name": "BEN \u00dcNL\u00dcY\u00dcM",
+        "url": "https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111461,
+      "name": "BEN \u00dcNL\u00dcY\u00dcM",
+      "url": "https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW"
     },
     {
       "album": {
@@ -5508,7 +5566,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -6682,6 +6740,24 @@
       "duration_ms": 158971,
       "name": "DACIA X YATIYA - Remix",
       "url": "https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Daha \u00c7ok Var",
+      "url": "https://open.spotify.com/track/2s84Hn5bjqzGHhX7Z7FttQ"
     },
     {
       "album": {
@@ -10231,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Geri Ver",
+      "url": "https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP"
+    },
+    {
+      "album": {
         "name": "Geri Ver",
         "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
       },
@@ -10242,7 +10336,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
@@ -10684,7 +10778,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 124160,
       "name": "Godfather",
       "url": "https://open.spotify.com/track/0jftYYHj60KYxrcxJPsNNO"
@@ -11298,7 +11392,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 299906,
       "name": "G\u00fcnayd\u0131n - Remastered",
       "url": "https://open.spotify.com/track/0pqAT0vxp4HEpYtyKa3ke9"
@@ -11360,6 +11454,24 @@
       "duration_ms": 166503,
       "name": "G\u00fcn\u00fc Gelir",
       "url": "https://open.spotify.com/track/1CbzyWVel7o1EX7I2Ir372"
+    },
+    {
+      "album": {
+        "name": "G\u00dcVENMED\u0130N",
+        "url": "https://open.spotify.com/album/2NvWubyqbMW5XbQvYAioGN"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "G\u00dcVENMED\u0130N",
+      "url": "https://open.spotify.com/track/293ecPMCcL0O3lhBrCLWLU"
     },
     {
       "album": {
@@ -13392,6 +13504,24 @@
       "duration_ms": 104840,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0JMJAump4huv3wtiNxRbTx"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96666,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7xUvBnYyW2Eu4BW8osKYfN"
     },
     {
       "album": {
@@ -17106,7 +17236,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 155669,
       "name": "MA CH\u00c9RIE",
       "url": "https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv"
@@ -19901,6 +20031,24 @@
     },
     {
       "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/17w46UZMA2shsYOEMTlD6g"
+    },
+    {
+      "album": {
         "name": "Oynar",
         "url": "https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm"
       },
@@ -20940,6 +21088,28 @@
       "duration_ms": 77742,
       "name": "R - CHORBA",
       "url": "https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Radikal E\u015fkiya",
+      "url": "https://open.spotify.com/track/73Fi8yP5Ei4yfumdBHR5Q8"
     },
     {
       "album": {
@@ -22084,7 +22254,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 228000,
       "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
       "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"
@@ -22464,7 +22634,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 251280,
       "name": "Senden Insaf Diler Yar\u0131n",
       "url": "https://open.spotify.com/track/5qQUV7nH6koNlmnoxE115x"
@@ -24724,6 +24894,24 @@
       "duration_ms": 192166,
       "name": "T\u00f6vbe",
       "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104427,
+      "name": "T\u00fct\u00fcn ve Votka",
+      "url": "https://open.spotify.com/track/33R8444moUu3Tm33Lq0D0I"
     },
     {
       "album": {
@@ -28294,6 +28482,24 @@
       "duration_ms": 172178,
       "name": "\u015eimdiki Akl\u0131m",
       "url": "https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW"
+    },
+    {
+      "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88648,
+      "name": "\u015eSS",
+      "url": "https://open.spotify.com/track/6ZYcan36rg0CjXZJMpHGZA"
     },
     {
       "album": {

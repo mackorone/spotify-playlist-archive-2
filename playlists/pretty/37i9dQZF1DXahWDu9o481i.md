@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,373 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,622 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 32 | [Ants In My Room](https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Ants In My Room](https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ) | 2:48 |
 | 33 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |
 | 34 | [IDB](https://open.spotify.com/track/0gqD0JnAOUzDq3WcpxbWYi) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:52 |
-| 35 | [Sideways](https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Honey Water](https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN) | 2:43 |
-| 36 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4jkYkvbjEuckbJs6Ts60Hk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/1i5xNjqIuXAx1LDQiM3HZH) | 5:46 |
+| 35 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4jkYkvbjEuckbJs6Ts60Hk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/1i5xNjqIuXAx1LDQiM3HZH) | 5:46 |
+| 36 | [Sideways](https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Honey Water](https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN) | 2:43 |
 | 37 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
 | 38 | [Lay Your Heartache Onto Mine \- Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)](https://open.spotify.com/track/76gz4QAPcJnftDIjgmK65h) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Lay Your Heartache Onto Mine \[Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)\]](https://open.spotify.com/album/5g2F6CcSyH7sY4gLVFRMlf) | 3:18 |
 | 39 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 46 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 |
 | 47 | [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 |
 | 48 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 |
-| 49 | [Smoke Screen](https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Smoke Screen](https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE) | 4:20 |
+| 49 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
 | 50 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
-| 51 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 |
-| 52 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
-| 53 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
+| 51 | [Smoke Screen](https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Smoke Screen](https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE) | 4:20 |
+| 52 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 |
+| 53 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 54 | [GOLDSTAR](https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [GOLDSTAR](https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY) | 3:19 |
 | 55 | [WHO BIGGER](https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [FrankRilla](https://open.spotify.com/artist/56WmbdbjnfVJLhl8xuWytm) | [WHO BIGGER](https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ) | 2:24 |
 | 56 | [Heart](https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu) | [Kenta204](https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Heart](https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy) | 3:59 |

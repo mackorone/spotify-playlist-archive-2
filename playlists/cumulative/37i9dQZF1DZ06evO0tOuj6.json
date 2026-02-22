@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "ARKESTRA",
+        "url": "https://open.spotify.com/album/6pAxVzwWFh3wennX9UYWgF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "the PIRATES",
+      "url": "https://open.spotify.com/track/6rFQ73J9wbr06uIWc9TfsB"
+    },
+    {
+      "album": {
         "name": "to live (feat.LEO)",
         "url": "https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb"
       },
@@ -778,7 +796,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 329306,
       "name": "to live - feat.LEO",
       "url": "https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ"

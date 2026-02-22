@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Circuit",
+        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Limbo Slice",
+          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/7x62qan6SetjbmoGSBjpiF"
       },
@@ -2775,6 +2797,28 @@
     },
     {
       "album": {
+        "name": "GET OUT MY HEAD",
+        "url": "https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198478,
+      "name": "GET OUT MY HEAD",
+      "url": "https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK"
+    },
+    {
+      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -2948,7 +2992,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 221762,
       "name": "Got Me Started - Bag Raiders Remix",
       "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
@@ -3308,7 +3352,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
@@ -4442,7 +4486,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 177742,
       "name": "Look At My Body Pt. II (Feat. Shygirl) (INJI's Version)",
       "url": "https://open.spotify.com/track/48BrwE2MttRwOTKL2Ph2Pe"

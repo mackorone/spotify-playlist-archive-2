@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 44954,
+  "num_followers": 44964,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-02-19 23:00:38",
       "album": {
+        "name": "Wat Is Dan Liefde",
+        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
+      },
+      "artists": [
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
+    },
+    {
+      "added_at": "2026-02-19 23:00:38",
+      "album": {
         "name": "Zeg Me / Dime",
         "url": "https://open.spotify.com/album/1u5uvEXJEhGQWYsiqT6QAp"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 205226,
       "name": "Zeg Me / Dime",
       "url": "https://open.spotify.com/track/6L5bROkrSJaTmy1bbv18YY"
-    },
-    {
-      "added_at": "2026-02-19 23:00:38",
-      "album": {
-        "name": "Wat Is Dan Liefde",
-        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
-      },
-      "artists": [
-        {
-          "name": "Silver Metz",
-          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
-      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
       "added_at": "2026-02-19 23:00:38",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-02-19 23:00:38",
       "album": {
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
+    },
+    {
+      "added_at": "2026-02-19 23:00:38",
+      "album": {
         "name": "Droom Een Beetje Meer",
         "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 187800,
       "name": "Ik Zeg Niets",
       "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
-    },
-    {
-      "added_at": "2026-02-19 23:00:38",
-      "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-02-19 23:00:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-19 23:00:38",
       "album": {
-        "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
-        "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Je Draagt Het Niet Alleen",
-      "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
-    },
-    {
-      "added_at": "2026-02-19 23:00:38",
-      "album": {
         "name": "Ruimte",
         "url": "https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 164813,
       "name": "Je bent de lente",
       "url": "https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL"
+    },
+    {
+      "added_at": "2026-02-19 23:00:38",
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
+        "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Je Draagt Het Niet Alleen",
+      "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
     },
     {
       "added_at": "2026-02-19 23:00:38",

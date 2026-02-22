@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 308 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 165 likes - 308 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 23 | [Erro Antigo \- Ao Vivo](https://open.spotify.com/track/7qpXCkcr3Zj4LDvdiWryns) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Erro Antigo / Se Duvidar](https://open.spotify.com/album/27oP6MgnXr2e2sP2Mceqzq) | 2:51 |
 | 24 | [O Brasil Tem Que Te Ver \(feat\. MC KEVINHO\)](https://open.spotify.com/track/1IaKf6W7N1rnotITWW2ceX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Todo Seu](https://open.spotify.com/album/2TykZEYbsi1qPgxz3QQ1rK) | 2:40 |
 | 25 | [Alerta de Golpe \- Ao Vivo](https://open.spotify.com/track/6R1wROjqs7HZTGcmYBYnQ6) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 2:22 |
-| 26 | [Seu Beijo Joga Sujo](https://open.spotify.com/track/2enk2whIgJyoe0O9HRQZJV) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Seu Beijo Joga Sujo](https://open.spotify.com/album/3PJCFq7ViZiOGb7yJaWwwE) | 3:13 |
-| 27 | [Se Joga Na Minha Vida \- Ao Vivo](https://open.spotify.com/track/6Tv7KutvWWoAqXRh2z35pK) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 3:08 |
+| 26 | [Se Joga Na Minha Vida \- Ao Vivo](https://open.spotify.com/track/6Tv7KutvWWoAqXRh2z35pK) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 3:08 |
+| 27 | [Seu Beijo Joga Sujo](https://open.spotify.com/track/2enk2whIgJyoe0O9HRQZJV) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Seu Beijo Joga Sujo](https://open.spotify.com/album/3PJCFq7ViZiOGb7yJaWwwE) | 3:13 |
 | 28 | [Alô Ex \- Ao Vivo](https://open.spotify.com/track/7HQt6qA0i9f5omgP7YqDlL) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 3:00 |
 | 29 | [Só Não Deixa Saudade \- Ao vivo](https://open.spotify.com/track/0AVr7gOXOV0ah8Oz4LY63c) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 3:02 |
 | 30 | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 307 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 308 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcKNVAAAAACFm6Q+AXb2yH1Akibpofn6`
+Snapshot ID: `AcKS9AAAAACNf5VCia8lGDXie2IFHaOM`

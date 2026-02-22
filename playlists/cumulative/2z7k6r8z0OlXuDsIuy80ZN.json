@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Djo en el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Bizarrap y Daddy Yankee en el N\u00ba1",
   "tracks": [
     {
       "album": {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 175584,
       "name": "6 DE FEBRERO",
       "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
@@ -4561,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Lo bello y lo roto",
+        "url": "https://open.spotify.com/album/6giljR263PokzjhNexvgga"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142746,
+      "name": "Nadie m\u00e1s te la cree",
+      "url": "https://open.spotify.com/track/3hUGYAky3cU0CHBIxmiYcK"
+    },
+    {
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 175754,
       "name": "Si te vuelvo a llamar",
       "url": "https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5"
@@ -7328,6 +7346,24 @@
       "duration_ms": 180260,
       "name": "\u00daltima Bala",
       "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"
+    },
+    {
+      "album": {
+        "name": "TUTTO PASSA",
+        "url": "https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160927,
+      "name": "\u2060LUCI\u00c9RNAGAS",
+      "url": "https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk"
     }
   ],
   "url": "https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN"

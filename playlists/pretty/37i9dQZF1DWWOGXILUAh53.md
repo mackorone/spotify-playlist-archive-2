@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,438 likes - 124 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,693 likes - 124 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

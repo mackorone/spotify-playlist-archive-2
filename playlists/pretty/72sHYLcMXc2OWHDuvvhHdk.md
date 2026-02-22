@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 558 likes - 2,334 songs - 5 day 16 hr 23 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,335 songs - 5 day 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2342,5 +2342,6 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2332 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 |
 | 2333 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
 | 2334 | [See You](https://open.spotify.com/track/0XvMeYc3tJX1bt6Nkt9uek) | [Harry Erikson](https://open.spotify.com/artist/61SNxBw2nVfWmUuiLDGvTP) | [The Breaker and The Bride](https://open.spotify.com/album/05y5v6Ei1lxTcHhuMl7URa) | 3:08 |
+| 2335 | [Footsteps Into the Unknown](https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN) | [Mahawira](https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH) | [Footsteps Into the Unknown](https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko) | 3:18 |
 
-Snapshot ID: `AAAJtfGMRx8YEvM1AzE1GUqXD5HN10hi`
+Snapshot ID: `AAAJtraIgHa1wK0q6WEWUiylds54yk8Y`

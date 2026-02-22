@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con FLVCKKA y Yeri Mua hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,358 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,362 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 68 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
 | 69 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
 | 70 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
-| 71 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
-| 72 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
+| 71 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
+| 72 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
 | 73 | [TETRA](https://open.spotify.com/track/5yNoKGgePKTPCSpl5VU6vC) | [FUSE](https://open.spotify.com/artist/6O4gSVXvkg8NFa0h9tjoTe), [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [BLKBBY](https://open.spotify.com/artist/3HcIPooPzNF9isoCqaUakk) | [TETRA](https://open.spotify.com/album/2N3DrHjSmFhlnedNKwAfIT) | 2:09 |
-| 74 | [Fugitivos](https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t) | [Javi Gallardo](https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk), [BONGZ](https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Fugitivos](https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3) | 2:30 |
-| 75 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 74 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 75 | [Fugitivos](https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t) | [Javi Gallardo](https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk), [BONGZ](https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Fugitivos](https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3) | 2:30 |
 | 76 | [mineminemine](https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL) | [Ximena Soto](https://open.spotify.com/artist/2UMDsP7y51fWknYFriceqC), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [mineminemine](https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD) | 2:36 |
 | 77 | [Bellakeras](https://open.spotify.com/track/48X4uznQyqCkklQ9278oj6) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Jokes on me 4](https://open.spotify.com/album/0kZYkpFF3rflVfTOGMjiEz) | 2:45 |
 | 78 | [AMOR JOVEN](https://open.spotify.com/track/1boSamCDUGe6D4etgGGiXD) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [AMOR JOVEN](https://open.spotify.com/album/6RAXUHFdev1lj6xR3YH5CI) | 3:26 |
 | 79 | [Como Tú](https://open.spotify.com/track/0B579r7pTXXfLY4bP90rOA) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [For Siempre, Pt\. 1](https://open.spotify.com/album/47ckEmuDKYDwnwIFgb05iY) | 1:44 |
 | 80 | [BANDIDO](https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [BANDIDO](https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa) | 3:14 |
 
-Snapshot ID: `AAAAACrcvz5TJxvmaJphwxn9BbVgSY/d`
+Snapshot ID: `AAAAAEtRQ+JLRpIcjowlpc2lUdkc/7t1`

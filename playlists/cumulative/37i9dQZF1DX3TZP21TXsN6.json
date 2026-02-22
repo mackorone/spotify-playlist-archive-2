@@ -6707,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Praat van de Straat II",
+        "url": "https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Pomp Het Op II",
+      "url": "https://open.spotify.com/track/1dDKN24xJ89FucQnHg5H0i"
+    },
+    {
+      "album": {
         "name": "Poster",
         "url": "https://open.spotify.com/album/3kUecw7iTj9i0XUcmjZ7v8"
       },

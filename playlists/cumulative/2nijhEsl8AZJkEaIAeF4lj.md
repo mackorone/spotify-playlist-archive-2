@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-366 songs - 23 hr 25 min
+367 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [PROTECTOR](https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Rumi Carter](https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:04 | 2024-03-29 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2020-05-20 |  |
 | [Put On A Smile](https://open.spotify.com/track/4bbJw6usZSqkcmnqjSIOWx) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:15 | 2021-11-12 |  |
+| [Raise Up Your Bat \(From "Deltarune"\) \- Rock Version](https://open.spotify.com/track/4fO8ZTzQ5FjzdcjAwQrHuq) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Raise Up Your Bat \(From "Deltarune"\) \[Rock Version\]](https://open.spotify.com/album/1aeURf1FNFa6236qR9uGXd) | 3:51 | 2026-02-21 |  |
 | [Red Terror](https://open.spotify.com/track/717s9KFmHhyy5t3xkStS56) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:51 | 2025-02-05 |  |
 | [Reputation](https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:08 | 2022-06-03 |  |
 | [Reunion](https://open.spotify.com/track/7bI7AZYY9xJgo3K2iAOThL) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [アニメ『BNA ビー・エヌ・エー』Complete album](https://open.spotify.com/album/5ZCo1wqpAvjgHieipwTXzZ) | 1:37 | 2020-07-28 |  |

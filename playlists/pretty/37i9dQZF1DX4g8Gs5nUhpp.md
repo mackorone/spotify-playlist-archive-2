@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > Hoa xuân V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hoàng Dũng
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,973 likes - 53 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,008 likes - 53 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
 | 53 | [In Love](https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [L2K](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx) | 3:20 |
 
-Snapshot ID: `AAAAAGSSM2/YdgQT/Que8FIsQ5YnbYpV`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

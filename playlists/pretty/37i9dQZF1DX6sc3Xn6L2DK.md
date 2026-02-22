@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Boots on the ground, head in the stars
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,599 likes - 144 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,601 likes - 144 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 143 | [Forever Whatever](https://open.spotify.com/track/214Xr7LA7fbT9VN74raGLA) | [Jonny Fritz](https://open.spotify.com/artist/0dfNZ0xBHU3UipMv5gn9Se) | [Sweet Creep](https://open.spotify.com/album/2XtqHGtAAQemfTUyUOJx7M) | 3:25 |
 | 144 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 
-Snapshot ID: `AAAAADRnAggNx+VFo6UXXzK1uii4UX0B`
+Snapshot ID: `AAAAAI4fdJjCjwecbHXGnOK+XGy0S54S`

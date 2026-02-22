@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,337 songs - 2 day 23 hr 28 min
+1,338 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Ontas \(Te Pago El Uber\)](https://open.spotify.com/track/1WoYl4FAEAv4Sy0kTCRle4) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Ontas \(Te Pago El Uber\)](https://open.spotify.com/album/2dSHgJdfbSWE41uhhxIwIi) | 2:38 | 2020-05-22\* | 2022-04-19 |
 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 | 2021-12-31 | 2022-02-19 |
 | [Oohla Oohla](https://open.spotify.com/track/7chO7fuXHHB3nZVjEQMXwx) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Together Again](https://open.spotify.com/album/0uhFHjpSRJyzCoiElOy7dV) | 2:23 | 2021-10-16 | 2022-07-29 |
+| [Opalite \- Chris Lake Remix](https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Opalite \(Chris Lake Remix\)](https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2) | 3:48 | 2026-02-20 |  |
 | [Operator \(Ring Ring\) \[feat\. Dances With White Girls\]](https://open.spotify.com/track/4oXT61OL4mDPRXbjq2d7b1) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [HOWSLA](https://open.spotify.com/album/5ToqIs21reKgXrcudt1tYW) | 6:01 | 2020-05-22\* | 2020-09-20 |
 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 | 2022-04-29 | 2022-05-14 |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-09-08 | 2024-05-18 |
@@ -1196,7 +1197,7 @@
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-27 | 2021-10-13 |
 | [Time \- Radio Edit](https://open.spotify.com/track/5ZeegIjXeZoCMfPfAKCWOY) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Time](https://open.spotify.com/album/4rsRr4Kw43NhvtCQGA3bjP) | 3:20 | 2021-04-10 | 2021-12-20 |
 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 | 2022-07-01 | 2023-05-27 |
-| [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-12-12 |  |
+| [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-12-12 | 2026-02-22 |
 | [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-09-27 | 2026-02-21 |
 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 | 2023-03-17 | 2023-09-09 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-07-20 | 2023-07-29 |

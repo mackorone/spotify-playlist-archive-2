@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,233 songs - 9 day 21 hr 9 min
+4,235 songs - 9 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3725,7 +3725,7 @@
 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 | 2025-01-24 | 2025-03-01 |
 | [The M.F.](https://open.spotify.com/track/515qwaRkRuqC33kRDi7Vbs) | [Cool Customer](https://open.spotify.com/artist/2zP6x0auCdwbZrzWFVq1fO) | [The M.F.](https://open.spotify.com/album/1ZxPBh0ZVV0yiM6U73H5Qu) | 3:33 | 2025-10-03 | 2025-11-01 |
 | [The Moment](https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Moment](https://open.spotify.com/album/706hpyftFGBJO4EONLTjrI) | 3:30 | 2024-08-02 | 2024-08-31 |
-| [The Moment](https://open.spotify.com/track/5PIldPg7VRQ9jlBIvESFzL) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [The Moment](https://open.spotify.com/album/5W2rFMbiCkbyq70qj8kEBa) | 4:06 | 2026-02-20 |  |
+| [The Moment](https://open.spotify.com/track/5PIldPg7VRQ9jlBIvESFzL) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [The Moment](https://open.spotify.com/album/5W2rFMbiCkbyq70qj8kEBa) | 4:06 | 2026-02-20 | 2026-02-22 |
 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-11 | 2025-08-09 |
 | [The Noise](https://open.spotify.com/track/0EZB3nvwR3ybFIl7sE0JfH) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Candlelight](https://open.spotify.com/album/6oDTXAowxxmvtmqoq1lsVM) | 2:30 | 2024-04-26 | 2024-05-25 |
 | [The Noise](https://open.spotify.com/track/4XCmARM7HXBp30wet6EkAD) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [The Noise](https://open.spotify.com/album/3puEtFZmydNUXuW2BUIAdP) | 2:30 | 2024-04-12 | 2024-05-12 |
@@ -3770,6 +3770,7 @@
 | [This Feels Like a Dream](https://open.spotify.com/track/0onlByS58lkgeUap2PSF6x) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR) | [Delicate Threads of Fantasy](https://open.spotify.com/album/3WQ020LU0ITLTKbhYNdhzp) | 4:13 | 2024-01-19 | 2024-02-17 |
 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-22 | 2024-04-20 |
 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 | 2024-01-19 | 2024-02-17 |
+| [This Music](https://open.spotify.com/track/6viS7eSgSDkYODeBG3l4Xa) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [This Music](https://open.spotify.com/album/3sareMOds3YrqNJM629pIM) | 2:41 | 2026-02-21 |  |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-08 | 2024-12-07 |
 | [This Side](https://open.spotify.com/track/1A4X20NFsqPoGqEPbNTWeu) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4), [Jaro](https://open.spotify.com/artist/1UZmdHXhLM7OSQTLxZWj8O) | [This Side](https://open.spotify.com/album/5GaCJ3Ua5O7WPGrhQg7xrZ) | 5:00 | 2025-04-11 | 2025-05-10 |
 | [This Way](https://open.spotify.com/track/5AvpUn8f14RPhZxiI4YkSm) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [This Way](https://open.spotify.com/album/5QiJWhmcAxgfJSgz5RCOxf) | 3:51 | 2025-04-25 | 2025-05-24 |
@@ -4181,6 +4182,7 @@
 | [XE3 \(Whethan Turn\)](https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [XE3 \(Whethan Turn\)](https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr) | 3:53 | 2025-02-21 | 2025-03-29 |
 | [XTC](https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [XTC](https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj) | 2:42 | 2025-10-03 | 2025-11-01 |
 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 | 2026-01-31 |  |
+| [XXX](https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [XXX](https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3) | 3:49 | 2026-02-21 |  |
 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-13 | 2024-10-12 |
 | [Yankee](https://open.spotify.com/track/3asf4hkKu2lmb2c9PQXbsk) | [Phydra](https://open.spotify.com/artist/2JdaYXJWMGUViJhVFhkkcH) | [Yankee](https://open.spotify.com/album/2VxkrjvTIVG3QNmGOLtN21) | 3:42 | 2025-10-17 | 2025-11-15 |
 | [YAS!](https://open.spotify.com/track/6UqnxAz29loo7p0n0YtCTl) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Sunk Cost Fallacy](https://open.spotify.com/album/5t5Vchn9fBp2Gq5YORDxZZ) | 3:44 | 2025-06-27 | 2025-08-02 |

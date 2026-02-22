@@ -4765,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "Insamnia",
+        "url": "https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303933,
+      "name": "Insamnia",
+      "url": "https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA"
+    },
+    {
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi"
       },
@@ -12280,6 +12298,24 @@
       "duration_ms": 176843,
       "name": "Weisst du noch ?",
       "url": "https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD"
+    },
+    {
+      "album": {
+        "name": "We\u2019re In The Same Boat (Don\u2019t Let Us Drown)",
+        "url": "https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU"
+      },
+      "artists": [
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192234,
+      "name": "We\u2019re In The Same Boat (Don\u2019t Let Us Drown)",
+      "url": "https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G"
     },
     {
       "album": {

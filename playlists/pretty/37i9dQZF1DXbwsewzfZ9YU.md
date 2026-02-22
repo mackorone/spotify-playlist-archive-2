@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ SPEED
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,101 likes - 102 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,145 likes - 102 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 101 | [INFECTED](https://open.spotify.com/track/7gu9O79HBwb3nobL4Jwkje) | [DOGBITE](https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs), [AMOKKOMA](https://open.spotify.com/artist/7kJo3MmlciDTotWsiBS8nY) | [INFECTED](https://open.spotify.com/album/3nLpeqxL8nkAbSI0Kdn9xU) | 4:18 |
 | 102 | [Chains](https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB) | [Rise Above](https://open.spotify.com/artist/3le4zTdLcBAhhjhYOgqCnW) | [Thread the Needle](https://open.spotify.com/album/0OBvndHGQo0sDVuCjsZUSO) | 1:58 |
 
-Snapshot ID: `AAAAAFgZ7jYlWg8Vdz8uTUhnEPYn5Xcf`
+Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`

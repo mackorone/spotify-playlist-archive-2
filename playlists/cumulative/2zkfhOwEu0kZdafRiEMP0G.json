@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404386,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
+    },
+    {
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
       },
@@ -1514,6 +1532,24 @@
       "duration_ms": 222929,
       "name": "Total Eclipse of the Heart - Full Spanglish Version",
       "url": "https://open.spotify.com/track/3QTzCSSXtkgSrdRmigKItk"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449720,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4H2x38N2IZAkZZM69WD1SH"
     },
     {
       "album": {

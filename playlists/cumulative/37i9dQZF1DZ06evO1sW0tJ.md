@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 19 min
+77 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 Romances for Violin and Piano, Op\. 22: I\. Andante molto](https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Koji Morishita](https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P), [German Kitkin](https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy) | [3 Romances for Violin and Piano, Op\. 22](https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl) | 2:58 | 2025-08-12 |  |
 | [3 Romances for Violin and Piano, Op\. 22: II\. Allegretto: Mit zartem Vortrage](https://open.spotify.com/track/0kkZGLnMzp4Jm86weWiOqy) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Koji Morishita](https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P), [German Kitkin](https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy) | [3 Romances for Violin and Piano, Op\. 22](https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl) | 2:51 | 2025-08-12 |  |
 | [3 Romances for Violin and Piano, Op\. 22: III\. Leidenschaftlich schnell](https://open.spotify.com/track/0QIlxI2e6Ru1AAOrSqfrsG) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Koji Morishita](https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P), [German Kitkin](https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy) | [3 Romances for Violin and Piano, Op\. 22](https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl) | 4:07 | 2025-08-12 |  |
+| [3 Romances, Op\. 11: I\. Andante](https://open.spotify.com/track/2UG8jOje2Ug4oUA3H9aPoW) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klemens Klein](https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6) | [Echoes of a Romantic Soul](https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj) | 3:30 | 2026-02-22 |  |
 | [3 Romances, Op\. 11: II\. Andante](https://open.spotify.com/track/2Leset1JLeEAq2WluLz5c2) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klemens Klein](https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6) | [Echoes of a Romantic Soul](https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj) | 5:58 | 2026-01-23 |  |
 | [3 Romances, Op\. 11: III\. Moderato](https://open.spotify.com/track/6sTxsqfSTKfCtg5SzbCxwY) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 4:36 | 2025-12-22 |  |
 | [3 Romances, Op\. 21: No\. 2 in F Major](https://open.spotify.com/track/5YBuMtln7jXPjQajVRyKZU) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 1:25 | 2026-01-24 |  |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-416 songs - 22 hr 59 min
+417 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [clarity](https://open.spotify.com/track/6Foa0catgRYzWrHvpXKgEn) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [clarity](https://open.spotify.com/album/3ILTfPyxwlmaeIfltPeHmN) | 3:12 | 2026-02-12 |  |
 | [Clean Slate](https://open.spotify.com/track/58JNVGTyirIg6PHjK6NiwW) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Clean Slate](https://open.spotify.com/album/5GlvVZOr2VHXz3kiOTbJ3n) | 2:31 | 2026-02-12 |  |
 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 | 2023-01-27 | 2025-03-02 |
-| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 |  |
+| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 | 2026-02-22 |
 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 | 2022-02-04 | 2024-11-02 |
 | [Clouds Come By](https://open.spotify.com/track/22QpETyov5UfGA9AinrKSu) | [Temperance Space](https://open.spotify.com/artist/2DPK0zJqIfqXdS6R7IVLiO) | [Clouds Come By](https://open.spotify.com/album/4wuAL4aslivLUKRHgn7xHI) | 4:42 | 2020-12-08\* | 2021-07-24 |
 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 | 2023-01-20 | 2025-10-03 |
@@ -332,6 +332,7 @@
 | [Sleep Cycle](https://open.spotify.com/track/7zVh8lKCgsvvVBFDbg1wRp) | [Linus Fortej](https://open.spotify.com/artist/3WEndEezg0MuMxJNWygc32) | [Sleep Cycle](https://open.spotify.com/album/776QHToBuuMyAEHCO4TG4u) | 3:08 | 2024-01-30 | 2024-12-05 |
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2020-12-08\* |  |
 | [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 | 2024-02-16 | 2026-02-14 |
+| [slow heart](https://open.spotify.com/track/4gpBmFwJUfXxnf0PlXgsc6) | [petitula](https://open.spotify.com/artist/5w7NWdoq7vFqGETaruABww) | [slow heart](https://open.spotify.com/album/1SXhAtiNERACHka6bdca7X) | 1:42 | 2026-02-12 |  |
 | [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 | 2021-10-21 |  |
 | [Slumber](https://open.spotify.com/track/2664GDzHnFYKktCgd0a506) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/1zRA3oOscRbH5SfqggrvyO) | 2:35 | 2023-05-19 | 2023-10-22 |
 | [Slumber](https://open.spotify.com/track/6XOJrnG0NtmKAdMCqhzT3C) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/3B09bJL9eACU7mWdyrsgwT) | 2:35 | 2023-12-01 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,937 likes - 85 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,018 likes - 85 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 32 | [Round Me](https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Round Me](https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu) | 2:38 |
 | 33 | [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 |
 | 34 | [SHINE \(LIKE THIS\)](https://open.spotify.com/track/5cAv53vnIXXubWZBwPAn8L) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [SHINE \(LIKE THIS\)](https://open.spotify.com/album/6znubhNvREJjwRnBZfvWkt) | 2:31 |
-| 35 | [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 |
+| 35 | [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 |
 | 36 | [TINTED](https://open.spotify.com/track/2oEtPS2AEZSafl0oMKzJNa) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [TINTED](https://open.spotify.com/album/6oBINdqkNeukDPy6nUs0iB) | 3:24 |
 | 37 | [Young Millionaire .](https://open.spotify.com/track/38IxrSZXvtQr1cRsxe9u2v) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 1:50 |
 | 38 | [SPREAD LIKE BUTTA](https://open.spotify.com/track/2LcKPfjTlHP0OYc0wK0S7r) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [CALCULATE](https://open.spotify.com/album/1SdTLhDms64iH36OrSXW1e) | 3:16 |

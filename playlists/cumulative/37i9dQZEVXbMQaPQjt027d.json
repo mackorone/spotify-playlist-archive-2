@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+    },
+    {
+      "album": {
         "name": "67 Merry Rizzmas",
         "url": "https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 168164,
       "name": "AI (Nee Een Ezel Ben Ik Nie)",
       "url": "https://open.spotify.com/track/0aq78pEKnPzdltYxsuLglk"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 153973,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 189396,
       "name": "Bietje Stoken",
       "url": "https://open.spotify.com/track/3YQ2uIBGIKle3PXyFNaDkC"
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 170453,
       "name": "CD van mij",
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
@@ -3628,6 +3646,24 @@
       "duration_ms": 136740,
       "name": "De Wijk",
       "url": "https://open.spotify.com/track/1crJ6kjhiCodGR0pS7zjN4"
+    },
+    {
+      "album": {
+        "name": "Op Mijn Tijd",
+        "url": "https://open.spotify.com/album/2ohhVb62V6ziohblWtSiaE"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152025,
+      "name": "De Wind",
+      "url": "https://open.spotify.com/track/64vwMcUFHTBDwHJtpZYACO"
     },
     {
       "album": {
@@ -6376,7 +6412,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 220000,
       "name": "Ho stop!",
       "url": "https://open.spotify.com/track/3lP1YReMfmhWU57ldLYEBs"
@@ -8317,6 +8353,28 @@
     },
     {
       "album": {
+        "name": "Koffiepauze",
+        "url": "https://open.spotify.com/album/60RcXCp5h8VgkdRLPVyXgY"
+      },
+      "artists": [
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
+        },
+        {
+          "name": "Damaxy",
+          "url": "https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Koffiepauze",
+      "url": "https://open.spotify.com/track/5ej15hOxeeiwS542eGEfVY"
+    },
+    {
+      "album": {
         "name": "Kroegtijger",
         "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
       },
@@ -9708,7 +9766,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 211139,
       "name": "Maok oe nie dik",
       "url": "https://open.spotify.com/track/6SSmw4Akn0Uu60sneuAcEl"
@@ -11236,7 +11294,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 196000,
       "name": "Oeteldonk Laot Oe Zw\u00e8\u00e8te",
       "url": "https://open.spotify.com/track/532aoH5c3E8iEjfET2s2rp"
@@ -11280,7 +11338,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 217285,
       "name": "Oeteldonk, Gaode Mee?",
       "url": "https://open.spotify.com/track/3zAk2tg27m5EbWjHradY3G"
@@ -11302,7 +11360,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 169600,
       "name": "Ol\u00e9 In Het AZC",
       "url": "https://open.spotify.com/track/0oExPnpZM9xE3MaTHkej5T"
@@ -12868,6 +12926,28 @@
       "duration_ms": 282362,
       "name": "Schweinsteiger",
       "url": "https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
       "album": {
@@ -15186,7 +15266,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 185000,
       "name": "Unne Spijker In Munne Kop",
       "url": "https://open.spotify.com/track/51vFxnUVoVeSL3XU0OI86F"

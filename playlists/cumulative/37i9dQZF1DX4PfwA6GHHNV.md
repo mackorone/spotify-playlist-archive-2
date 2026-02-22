@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-251 songs - 12 hr 26 min
+252 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-08-22 |  |
 | [PEGA PEGA](https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Biuw](https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv) | [PILULA DO DIA SEGUINTE](https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy) | 2:30 | 2024-08-24 | 2025-01-25 |
 | [PEGADA DE CRIA](https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt) | [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [TRI ÂNGULOS](https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z) | 1:59 | 2023-12-01 | 2024-01-13 |
+| [PELE ESCURA](https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Leonok](https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta) | [PELE ESCURA](https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH) | 3:08 | 2026-02-20 |  |
 | [Pele Prata](https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T) | [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU) | [Anos Luz](https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy) | 3:33 | 2023-09-15 | 2023-12-02 |
 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 | 2023-09-15 | 2023-09-30 |
 | [Peregrino](https://open.spotify.com/track/3h7IAT8VPtfrn0o7SeCEy6) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Peregrino](https://open.spotify.com/album/3KfcQkrlCWy2J1hW3q1Aoj) | 2:22 | 2024-06-21 | 2024-07-06 |
@@ -234,7 +235,7 @@
 | [TEMPORAL](https://open.spotify.com/track/7cLDMY44tHwRoFiB7as135) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:08 | 2025-04-01 | 2025-06-14 |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 | 2023-10-28 |
 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 | 2025-06-13 |  |
-| [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 | 2024-03-08 |  |
+| [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 | 2024-03-08 | 2026-02-22 |
 | [Toda Experiente](https://open.spotify.com/track/3R3kxryQs7QABbhT89oiPd) | [Silfer](https://open.spotify.com/artist/5w5BtUWqLSlrXePRVsfXup), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Toda Experiente](https://open.spotify.com/album/2velP5TsSQrKIv1f5Ps54u) | 2:42 | 2025-06-13 | 2025-08-23 |
 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-07-14 |  |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-07-11 |  |

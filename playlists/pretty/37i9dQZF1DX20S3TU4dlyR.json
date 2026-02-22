@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 73217,
+  "num_followers": 73255,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Multipartisme",
+        "url": "https://open.spotify.com/album/06WOEIneztsCs9nYGfmyYW"
+      },
+      "artists": [
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        }
+      ],
+      "duration_ms": 250744,
+      "name": "Multipartisme",
+      "url": "https://open.spotify.com/track/5BPCKdURYUk6lXrzHcId3x"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Multipartisme",
-        "url": "https://open.spotify.com/album/06WOEIneztsCs9nYGfmyYW"
-      },
-      "artists": [
-        {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        }
-      ],
-      "duration_ms": 250744,
-      "name": "Multipartisme",
-      "url": "https://open.spotify.com/track/5BPCKdURYUk6lXrzHcId3x"
     },
     {
       "added_at": "2026-01-23 03:00:06",

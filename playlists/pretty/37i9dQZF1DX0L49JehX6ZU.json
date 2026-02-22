@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 193787,
+  "num_followers": 193816,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-01-28 11:20:00",
       "album": {
+        "name": "Le Chal",
+        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "duration_ms": 196602,
+      "name": "Le Chal",
+      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+    },
+    {
+      "added_at": "2026-01-28 11:20:00",
+      "album": {
         "name": "ghosts, and goodbyes",
         "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 228705,
       "name": "smile",
       "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
-    },
-    {
-      "added_at": "2026-01-28 11:20:00",
-      "album": {
-        "name": "Le Chal",
-        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
-      },
-      "artists": [
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        }
-      ],
-      "duration_ms": 196602,
-      "name": "Le Chal",
-      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
     },
     {
       "added_at": "2026-01-28 11:20:00",

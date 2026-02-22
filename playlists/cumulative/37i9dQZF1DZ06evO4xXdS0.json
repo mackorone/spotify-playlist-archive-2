@@ -575,6 +575,32 @@
     },
     {
       "album": {
+        "name": "Love Me Or Leave Me (feat. Sam Waymon)",
+        "url": "https://open.spotify.com/album/2tCb2Jj1QqZbl6k3HFhBWt"
+      },
+      "artists": [
+        {
+          "name": "Tumbao Experience",
+          "url": "https://open.spotify.com/artist/16dTDLiZATMr87xtfIHCGj"
+        },
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sam Waymon",
+          "url": "https://open.spotify.com/artist/658PU5CW1xa9ygaYrnW1A7"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Love Me Or Leave Me (feat. Sam Waymon)",
+      "url": "https://open.spotify.com/track/33INJQK8jFEDJa2V22JvS9"
+    },
+    {
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -784,7 +810,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 202053,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
@@ -878,10 +904,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 125960,
       "name": "Take Care Of Business",
       "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
+    },
+    {
+      "album": {
+        "name": "Take Care Of Business (Solomun Mix)",
+        "url": "https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "Take Care Of Business - Solomun Mix",
+      "url": "https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh"
     },
     {
       "album": {

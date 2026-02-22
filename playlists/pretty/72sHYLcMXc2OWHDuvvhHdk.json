@@ -1,12 +1,12 @@
 {
   "description": "Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions. www.lucciagobeats.com ",
-  "num_followers": 558,
+  "num_followers": 559,
   "original_name": "Cruise Music",
   "owner": {
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJtfGMRx8YEvM1AzE1GUqXD5HN10hi",
+  "snapshot_id": "AAAJtraIgHa1wK0q6WEWUiylds54yk8Y",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -38759,6 +38759,22 @@
       "duration_ms": 188571,
       "name": "See You",
       "url": "https://open.spotify.com/track/0XvMeYc3tJX1bt6Nkt9uek"
+    },
+    {
+      "added_at": "2026-02-22 00:18:13",
+      "album": {
+        "name": "Footsteps Into the Unknown",
+        "url": "https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko"
+      },
+      "artists": [
+        {
+          "name": "Mahawira",
+          "url": "https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH"
+        }
+      ],
+      "duration_ms": 198439,
+      "name": "Footsteps Into the Unknown",
+      "url": "https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN"
     }
   ],
   "unique_name": "Cruise Music",

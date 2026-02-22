@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 193090,
       "name": "e& Egypt - \u0627\u0643\u062a\u0631 \u0648\u0627\u0643\u062a\u0631 - \u0634\u064a\u0631\u064a\u0646 \u0639\u0628\u062f\u0627\u0644\u0648\u0647\u0627\u0628",
       "url": "https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 200000,
       "name": "Etklm Kol Youm Youmin",
       "url": "https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B"
@@ -9636,7 +9636,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Meen Ysadak",
       "url": "https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD"
@@ -11834,7 +11834,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 209186,
       "name": "Ragea",
       "url": "https://open.spotify.com/track/73ppBd1Mc3J6JeczDvLF8E"
@@ -12386,7 +12386,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 586866,
       "name": "Rmdan Gana",
       "url": "https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel"
@@ -15950,7 +15950,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 117510,
       "name": "Zahra Hala Helwa (Maa Myriam Fares W Asser Yassin)",
       "url": "https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL"
@@ -16578,7 +16578,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -18752,6 +18752,24 @@
       "duration_ms": 211282,
       "name": "\u062e\u0648\u062c\u0647 \u0641\u064a \u0627\u0644\u062c\u0646\u0628 - \u0648\u0627\u0646\u0627 \u0639\u0644\u064a \u0627\u0644\u0628\u062d\u0631 \u0627\u0632\u0645\u0627\u0644\u0647 \u0628\u062a\u0645\u0634\u064a \u0645\u062a\u062c\u0648\u0632\u064a\u0646\u064a \u0628\u0646\u062a\u0643 \u064a\u0627 \u062d\u0645\u0627\u062a\u064a",
       "url": "https://open.spotify.com/track/7KWqfXjwdagIi5KuYduDVk"
+    },
+    {
+      "album": {
+        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
     },
     {
       "album": {
@@ -21062,7 +21080,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 200855,
       "name": "\u0645\u062d\u0643\u0645\u0647 \u0648\u062f\u062e\u0644\u0646\u0627 \u0639\u0644\u064a \u0627\u0644\u0645\u0641\u0631\u0645\u0647 - \u0627\u0641\u062a\u0631\u064a \u0648 \u0639\u0648\u062c\u0644\u064a \u0634\u0639\u0631\u0647 \u0644\u0648\u0631\u0627",
       "url": "https://open.spotify.com/track/19KmGvzh31z2wqIgQkD1HH"
@@ -21160,7 +21178,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 506938,
       "name": "\u0645\u0631\u062d\u0628 \u0634\u0647\u0631 \u0627\u0644\u0635\u0648\u0645",
       "url": "https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG"
@@ -21812,6 +21830,28 @@
       "duration_ms": 167272,
       "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
       "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0646\u0627 \u0645\u0635\u0631 \u0647\u0641\u0636\u0644 \u0643\u0644 \u0645\u0631\u0629 \u0627\u062c\u064a\u0644\u0643",
+        "url": "https://open.spotify.com/album/02rhbXRVnloQdLz6EycG9u"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "\u0647\u0646\u0627 \u0645\u0635\u0631 \u0647\u0641\u0636\u0644 \u0643\u0644 \u0645\u0631\u0629 \u0627\u062c\u064a\u0644\u0643",
+      "url": "https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq"
     },
     {
       "album": {

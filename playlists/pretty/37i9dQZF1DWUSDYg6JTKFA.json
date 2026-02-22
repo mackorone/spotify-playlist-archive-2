@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211793,
+  "num_followers": 211802,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Holding Onto You",
+        "url": "https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Holding Onto You",
+      "url": "https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Holding Onto You",
-        "url": "https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72"
+        "name": "Broken & Restored",
+        "url": "https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "People of The Earth",
+          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Holding Onto You",
-      "url": "https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa"
+      "duration_ms": 287368,
+      "name": "Broken & Restored",
+      "url": "https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -927,22 +943,6 @@
       "duration_ms": 228426,
       "name": "Be There For You",
       "url": "https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Broken & Restored",
-        "url": "https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu"
-      },
-      "artists": [
-        {
-          "name": "People of The Earth",
-          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
-        }
-      ],
-      "duration_ms": 287368,
-      "name": "Broken & Restored",
-      "url": "https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "How Long?",
+        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "How Long?",
+      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Hope on the Horizon (Live)",
         "url": "https://open.spotify.com/album/6ZvQTly9coK3Cg34zvfwZd"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 439921,
       "name": "Hope On the Horizon - Live",
       "url": "https://open.spotify.com/track/0jjPSLrVJDxyImNGJ252vI"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "How Long?",
-        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "How Long?",
-      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Mover of Mountains",
+        "url": "https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        }
+      ],
+      "duration_ms": 344986,
+      "name": "Mover of Mountains (Live)",
+      "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "I Believe God",
         "url": "https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Mover of Mountains",
-        "url": "https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        }
-      ],
-      "duration_ms": 344986,
-      "name": "Mover of Mountains (Live)",
-      "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
     },
     {
       "added_at": "2025-12-13 23:46:05",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,885 songs - 4 day 17 hr 0 min
+1,888 songs - 4 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Alive Melodica](https://open.spotify.com/track/0AuOqH9ZHoYEjwr5HEv5HK) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:28 | 2025-02-21 |  |
 | [Alive Melodica Dub](https://open.spotify.com/track/4dsL25JzKVbn4PI01rLCHc) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:28 | 2025-02-23 |  |
 | [Alive Raw Dub](https://open.spotify.com/track/07F9fJSn5zt2huKr7RXkz4) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 4:00 | 2025-02-23 |  |
+| [All About Us](https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq) | [Shahk10](https://open.spotify.com/artist/78efzo5kXScfrFywQyHN7l), [Raviii Kadam](https://open.spotify.com/artist/6AbBJRTJEfpPQQwu3KylYW), [D&V sisters](https://open.spotify.com/artist/31bWGfjdxZcxU5U2669sfm) | [All About Us](https://open.spotify.com/album/0buqgugryDSgCyXJKx3t3o) | 3:02 | 2026-02-21 |  |
 | [All Alone](https://open.spotify.com/track/0LiPJ9sQxkfPoCHOnbWm7m) | [Shay Walker](https://open.spotify.com/artist/23l7c9b79ReIwEBfqxHsQE) | [All Alone](https://open.spotify.com/album/2vCDcstrXte917TvEZ6hkz) | 2:57 | 2025-07-15 |  |
 | [All in Time \(jam\)](https://open.spotify.com/track/3g3bOV4uinfmmfNOfa8rmP) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [All in Time \(jam\)](https://open.spotify.com/album/69KTKEdLbsl5oScihcsZqB) | 3:48 | 2025-10-27 |  |
 | [All in your head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 | 2025-05-28 |  |
@@ -1080,6 +1081,7 @@
 | [Moroccans In Formentera \- Extended Mix](https://open.spotify.com/track/5NiGS2BgpwchdyCDOTRRGl) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Moroccans In Formentera](https://open.spotify.com/album/6fpm9vB4dgG4V5uU7A3TPR) | 3:22 | 2025-11-23 |  |
 | [Mostrami](https://open.spotify.com/track/23IOoGYyPnA57M595F4Nds) | [Susina](https://open.spotify.com/artist/0qiqErZ1ytHMgeBlYga3QU) | [Mostrami](https://open.spotify.com/album/20dnfUDovHhKaniP4hhg7Q) | 3:57 | 2026-01-12 |  |
 | [Mother Zion \(2024 Version\)](https://open.spotify.com/track/6nEMFrVTjUVQtFQDlBO69k) | [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Song of Creation](https://open.spotify.com/album/6kQMD2aOvWxIOQe9I3T9Ja) | 4:20 | 2024-04-01 |  |
+| [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 | 2026-02-21 |  |
 | [MOTTO](https://open.spotify.com/track/0pHrAAe6sSVDeUeNe5IesY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:37 | 2025-02-15 |  |
 | [Mount Zion Dub](https://open.spotify.com/track/0HCRPPpeQTyStnEGBn2uBM) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:55 | 2024-03-25 |  |
 | [Mountain Climber \(HIIT 30\-10\)](https://open.spotify.com/track/1BEDJK8JhvMjgUGkM5JICs) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:20 | 2024-03-08 |  |
@@ -1133,6 +1135,7 @@
 | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/track/2QO3yvlqjk7OBbZ4knCcEd) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/album/4a9BjV5KNYRyMtL73YvzSh) | 3:47 | 2024-12-20 |  |
 | [NELLA STRADA](https://open.spotify.com/track/1LD58KQ0dWXyIRMgZblVOD) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NELLA STRADA](https://open.spotify.com/album/6j9miS8vjPHys6lb8MGkaa) | 3:36 | 2025-02-27 |  |
 | [NEO TOKYO](https://open.spotify.com/track/3toZsVZJeh6sCBbE7u4YuO) | [kdhaner](https://open.spotify.com/artist/6aCwzXL8knkJ0eiL8Caya0), [Thomas Smith](https://open.spotify.com/artist/6yQ1Wnkd5CR7WM1hkl2r0K) | [NEO TOKYO](https://open.spotify.com/album/5AfCRtN3DdodBYg8NIWMvI) | 2:36 | 2025-06-28 |  |
+| [Neon Sakura Bounce](https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE) | [Peter Mor](https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe) | [Neon Sakura Bounce](https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO) | 3:21 | 2026-02-22 |  |
 | [Netflix & Chill](https://open.spotify.com/track/0IGFlFtg3gjr9ri7zZDylO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Netflix & Chill](https://open.spotify.com/album/5x6SyZ8c5q9O1eObh5L4Z1) | 2:22 | 2025-08-01 |  |
 | [Neural Pulse](https://open.spotify.com/track/2HHYztt0D6nsWQajRb96wM) | [ProXdam](https://open.spotify.com/artist/4dEANbMr0F2Pj9QtH5fUg0) | [Neural Noise](https://open.spotify.com/album/1la6gF9yj81OuDBV7FOhVp) | 3:23 | 2025-05-06 |  |
 | [Never Falter](https://open.spotify.com/track/6dcbaMf35hCcp0I78wup5u) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Never Falter](https://open.spotify.com/album/7zMkTFFh1GyudNN1XPPkwk) | 3:56 | 2025-07-18 |  |

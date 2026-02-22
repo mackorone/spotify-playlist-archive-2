@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,190 songs - 2 day 19 hr 37 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,191 songs - 2 day 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1198,5 +1198,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1188 | [Elevator](https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:30 |
 | 1189 | [Trojan Horse](https://open.spotify.com/track/5GzZRaa20fAIyHSQnoUB7v) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 1:42 |
 | 1190 | [Paracosm](https://open.spotify.com/track/67Z2gg6JK0Ig6MK7ClBNVp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:23 |
+| 1191 | [Talk About](https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Talk About](https://open.spotify.com/album/1UvR3ECAyt8twRzOvZ3vRQ) | 2:36 |
 
-Snapshot ID: `AAAH8WXZ9gxAEwZROrEsTP42j9hlRMO5`
+Snapshot ID: `AAAH8r7dlEjzRCaQ80zvX8a1MVtAA9mS`

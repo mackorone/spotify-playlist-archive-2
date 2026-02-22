@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Yuri Redicopa
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,666 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,670 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 45 | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u) | 1:33 |
 | 46 | [PRE SSÃO](https://open.spotify.com/track/0Of8oYzJxw1oVNnNReoWJb) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [BaraNoBeat](https://open.spotify.com/artist/2t0RfNR4PYzK2NniyjiImN), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [BÊNÇÃOS OU MALDIÇÕES](https://open.spotify.com/album/31BmAGV92vMcjD8hwvPBUo) | 2:21 |
 | 47 | [SET DA MAJESTADE 002](https://open.spotify.com/track/1g1KLt3bakGbuU7ovp2k6q) | [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz), [Attlanta](https://open.spotify.com/artist/0LdL6vncgjvE5zvptmoJPI), [Calena](https://open.spotify.com/artist/7L9BDwDKCdRO6zl0x5ABEe), [Bellagi](https://open.spotify.com/artist/6CAyAyN7rzKC1ZlUXwqDM1) | [SET DA MAJESTADE 002](https://open.spotify.com/album/4MUfLKGtwbcw3CvRAUX29o) | 4:11 |
-| 48 | [4K](https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 3:21 |
-| 49 | [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 |
+| 48 | [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 |
+| 49 | [4K](https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 3:21 |
 | 50 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 
 Snapshot ID: `AAAAAKv+Km4Tf6WM0C5NrTe6oMiv86XW`

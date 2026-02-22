@@ -4,7 +4,7 @@
 
 > Song Of The Week at the top.
 
-3,093 songs - 6 day 20 hr 4 min
+3,094 songs - 6 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3050,6 +3050,7 @@
 | [Written And Directed](https://open.spotify.com/track/7IUrrGvwhtVeCWTafsTjrw) | [Pastiche](https://open.spotify.com/artist/7CjCdkMC5qsmJcglYe23vT) | [Written And Directed](https://open.spotify.com/album/1R2aONiOcdb9xz43eLk7Bo) | 3:14 | 2022-05-06 | 2022-05-14 |
 | [Wrong Note](https://open.spotify.com/track/2Y5OsHWQN6iOwPkvos83D8) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Wrong Note](https://open.spotify.com/album/2ZhWHpc5OYqlDUQJrxASZv) | 4:31 | 2023-02-17 | 2023-02-25 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-03-26 |
+| [Wuthering Heights](https://open.spotify.com/track/5Mz8glwG7ktA3eNeI2a7TX) | [Elias O\. Graversen](https://open.spotify.com/artist/1i0C8yKc70dR8tzPtKAWYd) | [Wuthering Heights](https://open.spotify.com/album/7x7igPQAVkV1f2YrmffITe) | 2:58 | 2026-02-21 |  |
 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 | 2025-10-17 | 2025-10-25 |
 | [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 | 2022-08-12 | 2022-08-20 |
 | [XO](https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [XO](https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI) | 2:14 | 2022-10-14 | 2022-10-22 |

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAARYev87H+J+DvZG/tPvPcB/Ez1NKw",
+  "snapshot_id": "AAAARsYG04iiKC2eTfAoSAoDKFpVFzlc",
   "tracks": [
     {
       "added_at": "2023-03-21 04:49:43",
@@ -1083,6 +1083,34 @@
       "duration_ms": 200240,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/2mle4atoY4qjRBpVgAUhdG"
+    },
+    {
+      "added_at": "2026-02-21 04:04:34",
+      "album": {
+        "name": "PUT A LANDLORD iN A LANDFiLL",
+        "url": "https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        },
+        {
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
+        },
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        },
+        {
+          "name": "Chandler",
+          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "PUT A LANDLORD iN A LANDFiLL",
+      "url": "https://open.spotify.com/track/3nCve9jcwSKEtTCtuqEgIg"
     }
   ],
   "unique_name": "Politik",

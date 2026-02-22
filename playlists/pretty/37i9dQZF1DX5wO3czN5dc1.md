@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Euggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,536 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,561 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awe Mah](https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Awe Mah](https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU) | 3:33 |
 | 2 | [Yuapi ?](https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Yuapi ?](https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1) | 6:42 |
-| 3 | [Bloom \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
+| 3 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/2DB3V4DUCCRFqLIYQTWr6Z) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
 | 4 | [Unjust](https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Unjust](https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr) | 3:47 |
 | 5 | [Can You See Me?](https://open.spotify.com/track/1pHVuic3bWY3BYR7EcH3B2) | [Mister Joozey](https://open.spotify.com/artist/4zTWCeQoe4JQ5z5D1ocOS7), [AKIKI](https://open.spotify.com/artist/5dzxRbLd2yi1nalU1Sy8gx), [Rody Joh](https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr) | [Can You See Me?](https://open.spotify.com/album/0kTu4zpYJtk7BnJvMvytOX) | 5:42 |
 | 6 | [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 |

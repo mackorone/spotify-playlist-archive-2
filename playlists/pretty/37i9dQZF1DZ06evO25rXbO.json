@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1227937,
+  "num_followers": 1228063,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZZSgAAAAAA4yHjJ6IstlGwolfg4CWN9",
+  "snapshot_id": "aZekAAAAAADh2daQMFTFqzggsO6/k4Lh",
   "tracks": [
     {
       "added_at": null,
@@ -800,33 +800,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Pac-Man (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+      "duration_ms": 180973,
+      "name": "The Valley of The Pagans (feat. Beck)",
+      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 155973,
       "name": "Ascension (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
     },
     {
       "added_at": null,
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 180973,
-      "name": "The Valley of The Pagans (feat. Beck)",
-      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
+      "duration_ms": 192880,
+      "name": "Pac-Man (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483871,
+  "num_followers": 483862,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "For The Dreams",
         "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Valley Girl",
-        "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
-      },
-      "artists": [
-        {
-          "name": "The Burkharts",
-          "url": "https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp"
-        }
-      ],
-      "duration_ms": 211829,
-      "name": "Valley Girl",
-      "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "twenty bucks (the friend song)",
         "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 113232,
       "name": "twenty bucks (the friend song)",
       "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Valley Girl",
+        "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
+      },
+      "artists": [
+        {
+          "name": "The Burkharts",
+          "url": "https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp"
+        }
+      ],
+      "duration_ms": 211829,
+      "name": "Valley Girl",
+      "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Small Fry",
-        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 206260,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Sunday Scaries",
         "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 172228,
       "name": "Sunday Scaries",
       "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
-      },
-      "artists": [
-        {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
-        }
-      ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Welcome Back (To The//Glow)",
         "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 285824,
       "name": "Welcome Back (To The//Glow)",
       "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Just Give In / Never Going Home",
         "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Cigarettes In Space",
-        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
       },
       "artists": [
         {
-          "name": "Summer Thieves",
-          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
         }
       ],
-      "duration_ms": 210640,
-      "name": "Bali Nights",
-      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
+        "name": "Cigarettes In Space",
+        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
       "artists": [
         {
-          "name": "Bones and Jones",
-          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
         }
       ],
-      "duration_ms": 275962,
-      "name": "Peace In Me",
-      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+      "duration_ms": 210640,
+      "name": "Bali Nights",
+      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1143,6 +1127,22 @@
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Peace In Me",
+      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
     },
     {
       "added_at": "2026-01-23 05:00:19",

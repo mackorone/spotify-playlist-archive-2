@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 324259,
       "name": "Another After-Break Up Song",
       "url": "https://open.spotify.com/track/5Kn0MelgROC2HH4ns360KI"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 125660,
       "name": "Foggy Swells",
       "url": "https://open.spotify.com/track/2H5DpeH0VXigLvVyJB8OEj"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 191039,
       "name": "House of the Infamous",
       "url": "https://open.spotify.com/track/22khLomY46l73euKAyWEuJ"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 181211,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 172719,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 261405,
       "name": "Shadow Of The Flag",
       "url": "https://open.spotify.com/track/4wsgWgWG3z1UP3DESV5o5k"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 214941,
       "name": "Sunburn Road",
       "url": "https://open.spotify.com/track/1e9lwaLhdTSnFOpboQMESQ"
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 250799,
       "name": "Top of the Mourning",
       "url": "https://open.spotify.com/track/7CtsYwGM9pMP5ywplXwpAc"
@@ -4916,6 +4916,24 @@
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
+    },
+    {
+      "album": {
+        "name": "TURN IT AROUND",
+        "url": "https://open.spotify.com/album/6vXrqAydX2QfseuJ6LZR3U"
+      },
+      "artists": [
+        {
+          "name": "kuroshibapalette",
+          "url": "https://open.spotify.com/artist/0OFXacOlqEejo9tCfS20iP"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224807,
+      "name": "TURN IT AROUND",
+      "url": "https://open.spotify.com/track/2HoD5AMsRcx5DpwkGywEo5"
     },
     {
       "album": {

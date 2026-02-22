@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-660 songs - 1 day 21 hr 23 min
+661 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Make This Last](https://open.spotify.com/track/04opOX2Aa6K5b137Mag3LK) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Make This Last](https://open.spotify.com/album/0JYTYKa3PepCIywcV2ha8S) | 3:39 | 2021-05-07 | 2022-04-19 |
 | [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 | 2025-04-25 |  |
 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 | 2021-05-07 | 2022-04-18 |
+| [Melancholia](https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Melancholia](https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb) | 3:29 | 2026-02-20 |  |
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-12 | 2023-08-19 |
 | [Mercy](https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Aria EP](https://open.spotify.com/album/6hfyUUB4kyoLd3HrfKEit6) | 4:35 | 2024-11-15 | 2025-01-27 |
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
@@ -526,7 +527,7 @@
 | [Space Between Us](https://open.spotify.com/track/7i6E5BAg4MCdRymdTNv2bc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:03 | 2021-05-07 | 2022-04-16 |
 | [Spicy \(feat\. Ginger\) \- Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy \(feat\. Ginger\) \[Edit\]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-05-07 | 2023-04-01 |
 | [Spitfire](https://open.spotify.com/track/0Zr1L1ABbqyBqdLM0qKLnu) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Spitfire](https://open.spotify.com/album/4sMCBTKpLTrG1A4uyvfr50) | 4:29 | 2022-06-03 | 2022-07-29 |
-| [Start A Fire](https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Start A Fire](https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi) | 3:37 | 2025-05-30 |  |
+| [Start A Fire](https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Start A Fire](https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi) | 3:37 | 2025-05-30 | 2026-02-22 |
 | [Start The Fire](https://open.spotify.com/track/6NIX8pnaWGV7gDTpM0em4a) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Start The Fire](https://open.spotify.com/album/20z7W6isoaSoIT7P5jOmS4) | 3:42 | 2023-07-14 | 2023-07-17 |
 | [Static](https://open.spotify.com/track/31Byt8JQlqLFPzhjE5pVCf) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83) | [Static](https://open.spotify.com/album/54PJpzqzC8S2RDc3kGxCD9) | 3:50 | 2021-05-07 | 2022-07-29 |
 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 | 2025-10-24 |  |

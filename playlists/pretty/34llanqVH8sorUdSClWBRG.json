@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAASH6Mt/rauC6r92EMeqlxFSG8864U",
+  "snapshot_id": "AAAASU/3dwO1J9mXr/5g6/4TsbWbVYI3",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -1079,6 +1079,22 @@
       "duration_ms": 138000,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/0AoNT5b3YYf28IIq6pGojV"
+    },
+    {
+      "added_at": "2026-02-21 06:15:25",
+      "album": {
+        "name": "Steal Smoked Fish / In the Shadow of the Western Hills",
+        "url": "https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "In the Shadow of the Western Hills",
+      "url": "https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i"
     }
   ],
   "unique_name": "Diseased",

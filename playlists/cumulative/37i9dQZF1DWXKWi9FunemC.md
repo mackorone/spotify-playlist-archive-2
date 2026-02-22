@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-358 songs - 23 hr 34 min
+359 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [praise.](https://open.spotify.com/track/0nvwZuNM4XzVjenFFAvLDE) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [praise.](https://open.spotify.com/album/3sC0EZSbRg471hCnaovtAM) | 3:06 | 2025-08-06 |  |
 | [Precious Gold](https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Precious Gold](https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J) | 3:36 | 2025-08-06 |  |
 | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \- feat\. Leslie Jordan\] \[Thomas Merton Mix](https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz) | [Greg LaFollette](https://open.spotify.com/artist/0v3ZpML2fBNsLBV4b58QMb), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Thomas Merton](https://open.spotify.com/artist/5cbZWpDFL5y0BX6FAYy8LJ) | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \(feat\. Leslie Jordan\] \[Thomas Merton Mix\)](https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw) | 5:00 | 2020-08-31 | 2025-10-11 |
+| [Psalm 23](https://open.spotify.com/track/1jJuUwizgDSjtP533LBUPv) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Home](https://open.spotify.com/album/60qgfh1WwC1jeSouwcB5hm) | 2:16 | 2025-12-12 |  |
 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-07-28 | 2024-06-24 |
 | [Raise a Hallelujah \(Acoustic\)](https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Raise a Hallelujah \(Acoustic\)](https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn) | 5:03 | 2020-08-31 | 2024-06-24 |
 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 | 2025-10-10 | 2026-01-03 |
@@ -336,7 +337,7 @@
 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 | 2023-07-28 | 2024-06-24 |
 | [Who Am I \(New York Sessions\)](https://open.spotify.com/track/0M9YO6FyjLrOVD4ecjHttP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Who Am I \(New York Sessions\)](https://open.spotify.com/album/0Zsa9qnwTaInaMwklnjzMQ) | 4:32 | 2020-08-31 | 2022-07-29 |
 | [Who Am I \- New York Sessions](https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [New York Sessions](https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K) | 4:32 | 2020-08-31 | 2024-04-19 |
-| [Who Loves](https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Who Loves](https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF) | 2:24 | 2025-10-10 |  |
+| [Who Loves](https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Who Loves](https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF) | 2:24 | 2025-10-10 | 2026-02-22 |
 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 | 2020-08-31 | 2025-10-11 |
 | [Who You Say I Am \- Live/Acoustic](https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 3:11 | 2020-08-31 | 2024-06-24 |
 | [Who You'll Always Be \- Reimagined](https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Sidney Bakken](https://open.spotify.com/artist/09B94nqRRlslNMlWJU9QpZ), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [The King Is Coming \(Reimagined\)](https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH) | 4:13 | 2025-12-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 21 Feb 23:10 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 22 Feb 23:10 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1036,6 +1036,28 @@
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "album": {
+        "name": "2slimey Cypher Verse",
+        "url": "https://open.spotify.com/album/3tIEoExDrbn7WrzhHR8bIE"
+      },
+      "artists": [
+        {
+          "name": "2slimey",
+          "url": "https://open.spotify.com/artist/0ZXbQLu4a7sk3iQ8tlgFy4"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56295,
+      "name": "2slimey Cypher Verse",
+      "url": "https://open.spotify.com/track/72CShl84O029FOIWp7BTkA"
     },
     {
       "album": {
@@ -2242,7 +2264,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 100645,
       "name": "a love song for u",
       "url": "https://open.spotify.com/track/0qBw4RrX1AajcdVauDv2ED"
@@ -20545,6 +20567,24 @@
     },
     {
       "album": {
+        "name": "Close Ya Eyes!",
+        "url": "https://open.spotify.com/album/5LeOJDOrkkskIgSvEYEbCT"
+      },
+      "artists": [
+        {
+          "name": "matt proxy",
+          "url": "https://open.spotify.com/artist/3PBLEBKGVTKW845ylh5Dul"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93261,
+      "name": "Close Ya Eyes!",
+      "url": "https://open.spotify.com/track/4N0rOJ3W0XCYpdwDRsMPEA"
+    },
+    {
+      "album": {
         "name": "Closer to the moon",
         "url": "https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl"
       },
@@ -32870,7 +32910,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 173266,
       "name": "Everything Allocated",
       "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
@@ -32928,6 +32968,24 @@
       "duration_ms": 220000,
       "name": "Everything Ends",
       "url": "https://open.spotify.com/track/2x6R10R0MJ5BeDdqpkpaHC"
+    },
+    {
+      "album": {
+        "name": "Everything Hurts",
+        "url": "https://open.spotify.com/album/7tXRiGfV0oq1U73pg2m1m9"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Everything Hurts",
+      "url": "https://open.spotify.com/track/75XTItnlplPmpk9bbFjA7R"
     },
     {
       "album": {
@@ -65854,7 +65912,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 180000,
       "name": "Mention Me - From The Movie \"GOAT\"",
       "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
@@ -74839,6 +74897,24 @@
     },
     {
       "album": {
+        "name": "on the map",
+        "url": "https://open.spotify.com/album/7s23xoB9hv8gJKfvmSqeyf"
+      },
+      "artists": [
+        {
+          "name": "Amar333",
+          "url": "https://open.spotify.com/artist/6pu0EgGJtlf3be8ZNTaWIO"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "on the map",
+      "url": "https://open.spotify.com/track/5tXNxUNPq6v5DK6Hhb5JlR"
+    },
+    {
+      "album": {
         "name": "On The Other Side (FNAF: Into The Pit Song)",
         "url": "https://open.spotify.com/album/2viGcebaGs6zDUmPQ43407"
       },
@@ -80524,7 +80600,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 201000,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/08NZDLcyE5bOm8bB5zjQD8"
@@ -87453,6 +87529,32 @@
     },
     {
       "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
+    },
+    {
+      "album": {
         "name": "SAVE MY SOUL",
         "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
       },
@@ -91288,7 +91390,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 138000,
       "name": "SLAUGHTER FT J HUS",
       "url": "https://open.spotify.com/track/1CMxMiyupGPegADyyKFvVZ"
@@ -93700,6 +93802,24 @@
       "duration_ms": 274408,
       "name": "Specter",
       "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
+    },
+    {
+      "album": {
+        "name": "SPEED DEMON",
+        "url": "https://open.spotify.com/album/72xHaWw71hfZimkocypls4"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SPEED DEMON",
+      "url": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
     },
     {
       "album": {
@@ -101381,6 +101501,24 @@
     },
     {
       "album": {
+        "name": "The Fever Mask",
+        "url": "https://open.spotify.com/album/1Yi8lPwz7yfCwiZdjI29UE"
+      },
+      "artists": [
+        {
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "The Fever Mask",
+      "url": "https://open.spotify.com/track/29Uss2uPm7lOeKzoLyQXQ6"
+    },
+    {
+      "album": {
         "name": "The Flood",
         "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
       },
@@ -101826,7 +101964,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 192737,
       "name": "The Iciest Eyes",
       "url": "https://open.spotify.com/track/04Z6DTpTDvf9gpc1A53STw"
@@ -108220,7 +108358,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 238571,
       "name": "undercover",
       "url": "https://open.spotify.com/track/18PlUq2qne2iZRJt91wsgV"

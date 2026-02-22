@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 573619,
+  "num_followers": 573842,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-19 21:00:14",
       "album": {
-        "name": "Perdeler",
-        "url": "https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y"
-      },
-      "artists": [
-        {
-          "name": "\u015eebnem Ferah",
-          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
-        }
-      ],
-      "duration_ms": 294846,
-      "name": "Sigara",
-      "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
-    },
-    {
-      "added_at": "2026-02-19 21:00:14",
-      "album": {
         "name": "Gel",
         "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
+    },
+    {
+      "added_at": "2026-02-19 21:00:14",
+      "album": {
+        "name": "Perdeler",
+        "url": "https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y"
+      },
+      "artists": [
+        {
+          "name": "\u015eebnem Ferah",
+          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
+        }
+      ],
+      "duration_ms": 294846,
+      "name": "Sigara",
+      "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
     },
     {
       "added_at": "2026-02-19 21:00:14",

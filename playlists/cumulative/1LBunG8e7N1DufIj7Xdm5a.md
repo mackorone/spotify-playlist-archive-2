@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,093 songs - 9 day 1 hr 36 min
+4,096 songs - 9 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Echoes of Thunder \(another\)](https://open.spotify.com/track/5ME3qys28RhPrlq1cnm1gQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:38 | 2025-09-14 |  |
 | [Echoes of us](https://open.spotify.com/track/6Xc29li7V1e61RJu1P8C6G) | [Davit Case](https://open.spotify.com/artist/6gfxKpKhcoU4CGdJ9Nc23H) | [Echoes of us](https://open.spotify.com/album/0tKAmmCf9wHCsouHo82ofI) | 2:43 | 2025-05-05 |  |
 | [Echoes of Yesterday, Pt\. 2](https://open.spotify.com/track/4b2h0pmVxfft9bNPuEAXjt) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Echoes of Yesterday, Pt\. 2](https://open.spotify.com/album/5fdrvHPOiK18KKvUBsrthv) | 2:19 | 2025-06-05 |  |
+| [Echoes Of You](https://open.spotify.com/track/31acji34PHBBhRghyzOslO) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Echoes Of You](https://open.spotify.com/album/2szjVkJIog1a6V01GynIrT) | 3:39 | 2026-02-22 |  |
 | [Eclissi Meccanica](https://open.spotify.com/track/62o98wdSR2wND6YfViGnhl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian](https://open.spotify.com/album/5d803oOALdw30M7xACCg8r) | 3:14 | 2025-09-17 |  |
 | [Eclissi Meccanica \(another\)](https://open.spotify.com/track/3Uv4gT93aQZkn0uczHPhoO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian](https://open.spotify.com/album/5d803oOALdw30M7xACCg8r) | 3:20 | 2025-09-17 |  |
 | [Eddie Guerrero](https://open.spotify.com/track/0LuX9JhrTXQByE8ftz96Jf) | [Its Always You](https://open.spotify.com/artist/08b1HKb35zVurF7lsVeZG1) | [Eddie Guerrero](https://open.spotify.com/album/6z7Ts4tUEXM9b7NSwu5k0Y) | 3:08 | 2025-04-28 |  |
@@ -2346,6 +2347,7 @@
 | [My Baby Loves Rock & Roll Music](https://open.spotify.com/track/1PueLw7dSZFxeEqwvzOZuh) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Pure Particles](https://open.spotify.com/album/0Ue9J5gRJoHOkY7qJQvpzX) | 2:37 | 2025-11-05 |  |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-07-28 |  |
 | [My Beloved Monster](https://open.spotify.com/track/6eBtWLeIcimzxOoX0fk42Z) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii) | 2:12 | 2025-12-04 |  |
+| [My Fallen Hero \(Reimagined\)](https://open.spotify.com/track/5GZTcFrPPTmsO7P9V1cZDR) | [Echo Chamber One](https://open.spotify.com/artist/6iZsHDwRP0FqyRhkkvee4Z) | [My Fallen Hero \(Reimagined\)](https://open.spotify.com/album/2Z1FEcMVdojlc24iooCg1U) | 3:41 | 2026-02-22 |  |
 | [My Fault](https://open.spotify.com/track/5FqRvHHicxxAkT5RPZj8Kf) | [Amal Jose](https://open.spotify.com/artist/3Anq76ZrEHBAx6zx3VBBlL) | [My Fault](https://open.spotify.com/album/0GgN0Gk6CnTitn8MfF1gg5) | 3:27 | 2025-07-12 |  |
 | [My Favourite Dress](https://open.spotify.com/track/3bS36e0FO8IKJKzPeY1xNI) | [The Wedding Present](https://open.spotify.com/artist/4tyCvqG48h4LdcbFfWBjR9) | [George Best Plus](https://open.spotify.com/album/1FeNklwHkwnhjkHP9ziHMu) | 4:14 | 2025-11-05 |  |
 | [My Lady](https://open.spotify.com/track/1bbd690eEyowAtPJNJifdm) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [My Lady](https://open.spotify.com/album/0WG84FnSMEPZz1bPkC8JHj) | 3:06 | 2022-08-29 |  |
@@ -2516,6 +2518,7 @@
 | [Normally](https://open.spotify.com/track/2ys7Q0c21HTaLABeNisbcK) | [OBONG ZYPHAER](https://open.spotify.com/artist/1ZktSUh4MjF8krIe7inNVy) | [Normally](https://open.spotify.com/album/77jiWHdGJkOEDhTO3btlgB) | 2:41 | 2025-07-04 |  |
 | [Northolt Bandit](https://open.spotify.com/track/3gZxf4CUHWn8QmbfDwNtN0) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Northolt Bandit](https://open.spotify.com/album/5ULII2WnPkgsAMs5A9khYA) | 3:19 | 2025-04-10 |  |
 | [nostalgia](https://open.spotify.com/track/5T2nMWyQbEuN7EhyDiT01N) | [bryblawg](https://open.spotify.com/artist/0d3u7gFWM08yvGYfU1jFqC) | [nostalgia](https://open.spotify.com/album/48U7OAPJIY8OdKT6S3qUG2) | 2:22 | 2025-05-19 |  |
+| [Not Broken](https://open.spotify.com/track/597eaMrnVGAGPUsZgABP0D) | [ELIXA LUXEN](https://open.spotify.com/artist/02gE7hsAW6Uvgl7HjtQXro) | [Not Broken](https://open.spotify.com/album/45Mz9xWbP6XVujDZndZoje) | 3:41 | 2026-02-22 |  |
 | [Not Yr Dog](https://open.spotify.com/track/5eMWZCOvV8g5jFt0q2vWr2) | [Shboy](https://open.spotify.com/artist/6QMcbLLh1xzlS5mXC9Uq7x) | [Not Yr Dog](https://open.spotify.com/album/4l58sVDx8Pnqt30aIkD0Sb) | 3:14 | 2025-10-13 |  |
 | [Nothing Strange](https://open.spotify.com/track/37cfY853GW459mBgklkpX3) | [Sluttony](https://open.spotify.com/artist/4Or5TJd1ARPZxlGswzOMKQ) | [Another Something Nice](https://open.spotify.com/album/4FGexftI9GHFv46tTXTc5B) | 2:42 | 2025-11-04 |  |
 | [Nothing to Say](https://open.spotify.com/track/22hIAIpE6aUDuUweK01aJx) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 4:00 | 2025-11-05 |  |

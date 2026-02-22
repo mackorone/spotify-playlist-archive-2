@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > Escucha DEPR💔$$ED MFKZ de Junior H y Gael Valenzuela 😭💔❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,975 likes - 93 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,063 likes - 93 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,165 songs - 3 day 13 hr 24 min
+1,166 songs - 3 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [How Strange \- Nicola Cruz Remix](https://open.spotify.com/track/1z16gOcthPInw39ZiMwcl9) | [FEATHERED SUN](https://open.spotify.com/artist/7bfe7ceWNJ3OjzmnzcMpdu), [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Raz Ohara](https://open.spotify.com/artist/2FMUJIX6cW1Pby7my21xBO), [Chris Schwarzwalder](https://open.spotify.com/artist/3sk8zK5h24R74rFUdV8qcL), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [How Strange](https://open.spotify.com/album/2uOX4xXU2VXhqZvRK2XBFr) | 5:20 | 2019-06-19\* | 2020-10-19 |
 | [howling](https://open.spotify.com/track/6zhs0butYwOJqU1EDD2jmv) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [howling](https://open.spotify.com/album/4jW6F5ZsX9nd7oQMwKT0G4) | 3:06 | 2025-10-24 |  |
 | [I Believe](https://open.spotify.com/track/4hvmK2HZPB2MwKjWprYCxg) | [Popeska](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF) | [I Believe](https://open.spotify.com/album/6PJYh7LGFhXNGid8Q2mQRX) | 5:13 | 2019-05-26\* | 2020-08-26 |
-| [I Cannot I](https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF) | [Indian Wells](https://open.spotify.com/artist/0xGMNVyrwBJYVudabEW1Re) | [No One Really Listens to Oscillators](https://open.spotify.com/album/2vZEZAEBbtc2LQN8Pv3vSe) | 3:33 | 2024-11-15 |  |
+| [I Cannot I](https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF) | [Indian Wells](https://open.spotify.com/artist/0xGMNVyrwBJYVudabEW1Re) | [No One Really Listens to Oscillators](https://open.spotify.com/album/2vZEZAEBbtc2LQN8Pv3vSe) | 3:33 | 2024-11-15 | 2026-02-22 |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2019-12-07 | 2020-10-19 |
 | [I Hope You're Not Sleeping as Tightly as You Used to Be](https://open.spotify.com/track/5MIAzuX3MRkFJSf8Od4Dyy) | [Aeuria](https://open.spotify.com/artist/1U8stB5JKpJA7atRjrlVtF) | [Collection](https://open.spotify.com/album/4724X87VNQtZQSovmdwXJR) | 3:22 | 2019-06-21 | 2025-06-10 |
 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 | 2021-08-27 |  |
@@ -1081,6 +1081,7 @@
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2019-05-26\* | 2022-04-21 |
 | [Uforia2](https://open.spotify.com/track/1naY9jtsdeOExa34heIlRg) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Uforia2](https://open.spotify.com/album/1znqfNbpTiwZ201yA6lrrc) | 6:32 | 2025-04-25 | 2025-05-30 |
 | [Ultra Marine](https://open.spotify.com/track/2LJvEAXalgDaUvIKELmP8x) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ultra Marine](https://open.spotify.com/album/16gfRtrbf4rErMfnQj6wRW) | 3:58 | 2021-01-16 | 2022-07-27 |
+| [Un pomeriggio di sole mi sono accorto che stavo correndo](https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cardware](https://open.spotify.com/album/2TEF8MO0nA2HKJNsRQJz2j) | 3:04 | 2026-02-13 |  |
 | [Una Mattina](https://open.spotify.com/track/13AAovcay1SAw6EQuy9APc) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Una Mattina](https://open.spotify.com/album/2m4Kq6K36jpVNtSn2wQ7nn) | 1:48 | 2022-09-09 | 2022-11-14 |
 | [Una Mattina](https://open.spotify.com/track/61It0RwIboh4FD70zzTUoS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:48 | 2022-07-01 | 2023-02-14 |
 | [Una Mattina](https://open.spotify.com/track/0BwqbV9rOnIZ1gSPTQbM3v) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Una Mattina](https://open.spotify.com/album/7kiWzbIU9fiB6dfOxKJAxl) | 1:48 | 2020-11-13 | 2022-04-19 |

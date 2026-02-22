@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,405 likes - 75 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,470 likes - 75 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Whalewatching](https://open.spotify.com/track/5spLBLQ2hTTU4C7CsDqqCl) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u) | [Whalewatching](https://open.spotify.com/album/52Wc0vooEijaAFslLw1cnr) | 5:25 |
 | 75 | [Babel](https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Babel](https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7) | 3:42 |
 
-Snapshot ID: `AAAAAFurcbukUR/kIyo/1NOu5K03lPGf`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

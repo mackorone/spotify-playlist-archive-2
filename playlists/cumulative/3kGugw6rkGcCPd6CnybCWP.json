@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Multiverse of Life",
+        "url": "https://open.spotify.com/album/1VdqzcZbvS4d5PP0hw1RSP"
+      },
+      "artists": [
+        {
+          "name": "Hz",
+          "url": "https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192707,
+      "name": "Whatever I Don\u2019t Care",
+      "url": "https://open.spotify.com/track/4qZaE4L7g9PHM1WEWKNKdn"
+    },
+    {
+      "album": {
         "name": "When the Smoke Clears",
         "url": "https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR"
       },

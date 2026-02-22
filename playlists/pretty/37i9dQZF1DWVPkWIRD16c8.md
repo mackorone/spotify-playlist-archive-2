@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,443 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,522 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 85 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |
 | 86 | [Crying Out Loud](https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Crying Out Loud](https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB) | 3:20 |
 | 87 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
-| 88 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
-| 89 | [WILD!](https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty) | [WILD!](https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD) | 3:30 |
+| 88 | [WILD!](https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty) | [WILD!](https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD) | 3:30 |
+| 89 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 90 | [God Gave Me Freedom](https://open.spotify.com/track/1p4GDJjbXJrkIaqEzjVfWQ) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [God Gave Me Freedom](https://open.spotify.com/album/5jn87T626Y7Tf9sJYNOu1p) | 2:55 |
 | 91 | [Goodbye](https://open.spotify.com/track/0sTGdkVVhYmoZ4hJMSUq0z) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Goodbye](https://open.spotify.com/album/7fEzJc58tqO4lefMZB3aH9) | 2:58 |
 | 92 | [YOUR WAY](https://open.spotify.com/track/6MmU56aIG5mW3qwvE45rXl) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [YOUR WAY](https://open.spotify.com/album/3gmSMDHYNmLidMIFAChMKH) | 3:50 |

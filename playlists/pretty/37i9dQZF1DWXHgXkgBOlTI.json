@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32497,
+  "num_followers": 32505,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-02-18 05:31:52",
       "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
-    },
-    {
-      "added_at": "2026-02-18 05:31:52",
-      "album": {
         "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+    },
+    {
+      "added_at": "2026-02-18 05:31:52",
+      "album": {
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "added_at": "2026-02-18 05:31:52",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-18 05:31:52",
       "album": {
-        "name": "Oneself Likeness",
-        "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
-      },
-      "artists": [
-        {
-          "name": "Quasimode",
-          "url": "https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD"
-        }
-      ],
-      "duration_ms": 390680,
-      "name": "Down In The Village",
-      "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
-    },
-    {
-      "added_at": "2026-02-18 05:31:52",
-      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2026-02-18 05:31:52",
       "album": {
-        "name": "Variety",
-        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
+        "name": "Oneself Likeness",
+        "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Quasimode",
+          "url": "https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Normal Life",
-      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
+      "duration_ms": 390680,
+      "name": "Down In The Village",
+      "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
     },
     {
       "added_at": "2026-02-18 05:31:52",
@@ -683,6 +667,22 @@
       "duration_ms": 404426,
       "name": "\u767d\u9ce5",
       "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
+    },
+    {
+      "added_at": "2026-02-18 05:31:52",
+      "album": {
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-02-18 05:31:52",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-02-18 05:31:52",
       "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
+        "name": "Variety",
+        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
+      "duration_ms": 158000,
+      "name": "Normal Life",
+      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
     },
     {
       "added_at": "2026-02-18 05:31:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-18 05:31:52",
       "album": {
-        "name": "Start Over Focus",
-        "url": "https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "SALVALAI",
-      "url": "https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB"
-    },
-    {
-      "added_at": "2026-02-18 05:31:52",
-      "album": {
         "name": "NEW DAY",
         "url": "https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 290000,
       "name": "birth",
       "url": "https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY"
+    },
+    {
+      "added_at": "2026-02-18 05:31:52",
+      "album": {
+        "name": "Start Over Focus",
+        "url": "https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "SALVALAI",
+      "url": "https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB"
     },
     {
       "added_at": "2026-02-18 05:31:52",

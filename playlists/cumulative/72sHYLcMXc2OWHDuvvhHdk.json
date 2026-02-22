@@ -11059,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "Footsteps Into the Unknown",
+        "url": "https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko"
+      },
+      "artists": [
+        {
+          "name": "Mahawira",
+          "url": "https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198439,
+      "name": "Footsteps Into the Unknown",
+      "url": "https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN"
+    },
+    {
+      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/03LUvmNYReseAqfsg9l1gS"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Omega Sapien \(South Korea\)
+> Hottest indie sounds from Asia\. Cover: Kenichiro Nishihara \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,704 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,702 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Sugar](https://open.spotify.com/track/1KQVk62nF7UGf38Q4LniGM) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/1cOTf65S6zCKTkmMuRriIR) | 3:49 |
 | 100 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
 
-Snapshot ID: `AAAAAJd2Bkj4UgCeUn2psEzkDK6lknxC`
+Snapshot ID: `AAAAAHP4HprTjAQUevHgFYwW+st4LokG`

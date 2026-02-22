@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 2026年1月31日（土）、2月1日（日）に幕張メッセ イベントホールで開催、アニソンフェス“リスアニ！LIVE 2026”セットリストを公開！The official playlist of "LisAni! LIVE 2026"
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 72 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,296 likes - 72 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

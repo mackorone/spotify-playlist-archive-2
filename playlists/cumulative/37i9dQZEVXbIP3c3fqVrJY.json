@@ -725,6 +725,28 @@
     },
     {
       "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        },
+        {
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150934,
+      "name": "47x600",
+      "url": "https://open.spotify.com/track/1QZjxyVVIvmWopjY2pntbC"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -13240,7 +13262,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
@@ -17188,7 +17210,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 146823,
       "name": "Jak Robot",
       "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
@@ -19256,6 +19278,24 @@
       "duration_ms": 177500,
       "name": "KISSES",
       "url": "https://open.spotify.com/track/4PLB0dLpcbSGdoaE6jzowA"
+    },
+    {
+      "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127136,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/618gAlVvobi4OQLFtVF8rk"
     },
     {
       "album": {
@@ -27743,6 +27783,28 @@
     },
     {
       "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        },
+        {
+          "name": "Koky",
+          "url": "https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Offlife",
+      "url": "https://open.spotify.com/track/0CaeP9468fORHyfBwiHjxI"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -28220,7 +28282,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 146922,
       "name": "ONLY WAY OUT IS THROUGH THE SHITS 2",
       "url": "https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh"
@@ -28808,7 +28870,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 191470,
       "name": "Paladin",
       "url": "https://open.spotify.com/track/1x8Ly1EFsNVylnSv5aVMqX"
@@ -29426,6 +29488,24 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "album": {
+        "name": "PEXESO",
+        "url": "https://open.spotify.com/album/4f4TPgm9RLYj8ZEyCs6I1C"
+      },
+      "artists": [
+        {
+          "name": "OG PAV",
+          "url": "https://open.spotify.com/artist/7rpf5aAR3VUrNAFqVNLkJ1"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "PEXESO",
+      "url": "https://open.spotify.com/track/5NaoLlvGtZBKcYeWADUnxY"
     },
     {
       "album": {
@@ -31188,7 +31268,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -35236,7 +35316,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 207000,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
@@ -36149,6 +36229,24 @@
     },
     {
       "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151389,
+      "name": "Street dance",
+      "url": "https://open.spotify.com/track/3j2IO7N3vVR92KVTinQ7Gt"
+    },
+    {
+      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -36298,7 +36396,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -36898,7 +36996,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -38903,6 +39001,24 @@
     },
     {
       "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171003,
+      "name": "To sem j\u00e1",
+      "url": "https://open.spotify.com/track/0pMSBSPKfnNT66caGEQyhm"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -40158,7 +40274,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -42890,6 +43006,24 @@
       "duration_ms": 154285,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7rOUkuZOT4BnGNz7YbUORD"
+    },
+    {
+      "album": {
+        "name": "StreamTape",
+        "url": "https://open.spotify.com/album/2yny5Hj9J5MGXyoAJnNrKU"
+      },
+      "artists": [
+        {
+          "name": "Maniak",
+          "url": "https://open.spotify.com/artist/5j8tFACNcARCZifgjtUJa2"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126006,
+      "name": "White Walkers",
+      "url": "https://open.spotify.com/track/3VdHCCQ2Qax8IlxhCJbOJP"
     },
     {
       "album": {

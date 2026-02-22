@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "...closure...",
+        "url": "https://open.spotify.com/album/2nfBLwdmUU8pbS3k0EJuVg"
+      },
+      "artists": [
+        {
+          "name": "One Million Flowers",
+          "url": "https://open.spotify.com/artist/4wG9asMejSEaInbXHnc3Zm"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142668,
+      "name": "...closure...",
+      "url": "https://open.spotify.com/track/3ib26jNtsX5RsHXaheOORT"
+    },
+    {
+      "album": {
         "name": "/weather rain 126",
         "url": "https://open.spotify.com/album/7ao1bR3rWOqGIetALMgI79"
       },
@@ -794,6 +812,24 @@
       "duration_ms": 104193,
       "name": "ambrosia",
       "url": "https://open.spotify.com/track/4Z2gjdpEa5bREkza1omk2L"
+    },
+    {
+      "album": {
+        "name": "Analog Dream",
+        "url": "https://open.spotify.com/album/0Lam6EaDGiYh0ChmdZ9E4J"
+      },
+      "artists": [
+        {
+          "name": "Imxone",
+          "url": "https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122086,
+      "name": "Analog Dream",
+      "url": "https://open.spotify.com/track/0vSiwB5X9nok7qcxUi0l73"
     },
     {
       "album": {
@@ -2457,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "fading memories",
+        "url": "https://open.spotify.com/album/5Ab7G7bMg3lOSJgjPhxFOS"
+      },
+      "artists": [
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        },
+        {
+          "name": "theta.wav",
+          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/4NbDlvOY7nivmF11vmVFwT"
+    },
+    {
+      "album": {
         "name": "chasing daylight",
         "url": "https://open.spotify.com/album/0KTqvv72iINIK1CXHTj12K"
       },
@@ -2508,6 +2566,28 @@
       "duration_ms": 69600,
       "name": "cherished things",
       "url": "https://open.spotify.com/track/4TuDlM41Jqnx0j4cSGh9ZX"
+    },
+    {
+      "album": {
+        "name": "childhood",
+        "url": "https://open.spotify.com/album/4g5I9RDNLV0ndbdmXbPtTS"
+      },
+      "artists": [
+        {
+          "name": "cornwave",
+          "url": "https://open.spotify.com/artist/6hfunlb5ANlOlC3CflqjrZ"
+        },
+        {
+          "name": "hozuki",
+          "url": "https://open.spotify.com/artist/4ab2RakTQg0hekPR0m7UwN"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217495,
+      "name": "childhood",
+      "url": "https://open.spotify.com/track/3dAQh4sl72qd0lgq1rWDTm"
     },
     {
       "album": {
@@ -3711,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/1qjiWSpLoY7E3O9mx8lYIR"
+      },
+      "artists": [
+        {
+          "name": "Loucent",
+          "url": "https://open.spotify.com/artist/59fWDVwdoxOJaVAzs4t86k"
+        },
+        {
+          "name": "Coste",
+          "url": "https://open.spotify.com/artist/02bWOkyCCJEggi9w8qBjjf"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105340,
+      "name": "drift",
+      "url": "https://open.spotify.com/track/4OKBM1G3iR8Z4eLqMocTSH"
+    },
+    {
+      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/57Y1zf50rVdaX0oAeQj5OP"
       },
@@ -4056,6 +4158,28 @@
       "duration_ms": 81869,
       "name": "end",
       "url": "https://open.spotify.com/track/38v7S7cPbYMm2rjKqWELOj"
+    },
+    {
+      "album": {
+        "name": "end",
+        "url": "https://open.spotify.com/album/5IijM5Cd9VEmyudOOcCxUm"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        },
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104013,
+      "name": "end",
+      "url": "https://open.spotify.com/track/3LlcJvtbjuNGZkVcCwzrp0"
     },
     {
       "album": {
@@ -13380,6 +13504,28 @@
       "duration_ms": 170062,
       "name": "vanish",
       "url": "https://open.spotify.com/track/0ox9kyrGcsF0itddzBa9xy"
+    },
+    {
+      "album": {
+        "name": "vanishing still",
+        "url": "https://open.spotify.com/album/34n8SIuzMVhmwuWa5ARH8l"
+      },
+      "artists": [
+        {
+          "name": "Kazukii",
+          "url": "https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga"
+        },
+        {
+          "name": "Tyrrer",
+          "url": "https://open.spotify.com/artist/5NEYOLvnHjrASFVfXXolTm"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123682,
+      "name": "vanishing still",
+      "url": "https://open.spotify.com/track/0VSjSlJMbA2bwsxFI8RKtj"
     },
     {
       "album": {

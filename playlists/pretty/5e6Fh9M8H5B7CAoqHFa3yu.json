@@ -1,13 +1,29 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 263,
+  "num_followers": 265,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIKD/0LGCvqr5jzKXw0sF5Q2uYyL6G",
+  "snapshot_id": "AAAIK3kahYSoDkBBwa1wI6OK62k9fhzo",
   "tracks": [
+    {
+      "added_at": "2026-02-22 00:42:14",
+      "album": {
+        "name": "Neon Sakura Bounce",
+        "url": "https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO"
+      },
+      "artists": [
+        {
+          "name": "Peter Mor",
+          "url": "https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Neon Sakura Bounce",
+      "url": "https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE"
+    },
     {
       "added_at": "2026-02-18 18:50:42",
       "album": {
@@ -33311,6 +33327,46 @@
       "duration_ms": 322732,
       "name": "Push On",
       "url": "https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO"
+    },
+    {
+      "added_at": "2026-02-21 17:45:32",
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "duration_ms": 104719,
+      "name": "Motivation Progress",
+      "url": "https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW"
+    },
+    {
+      "added_at": "2026-02-21 19:58:28",
+      "album": {
+        "name": "All About Us",
+        "url": "https://open.spotify.com/album/0buqgugryDSgCyXJKx3t3o"
+      },
+      "artists": [
+        {
+          "name": "Shahk10",
+          "url": "https://open.spotify.com/artist/78efzo5kXScfrFywQyHN7l"
+        },
+        {
+          "name": "Raviii Kadam",
+          "url": "https://open.spotify.com/artist/6AbBJRTJEfpPQQwu3KylYW"
+        },
+        {
+          "name": "D&V sisters",
+          "url": "https://open.spotify.com/artist/31bWGfjdxZcxU5U2669sfm"
+        }
+      ],
+      "duration_ms": 182696,
+      "name": "All About Us",
+      "url": "https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

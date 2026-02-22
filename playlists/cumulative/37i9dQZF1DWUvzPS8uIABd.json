@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 125816,
       "name": "Avaimet mun kiesiin - Unitas Sigma",
       "url": "https://open.spotify.com/track/2ztWfinagXMBSRTjaMCLX0"
@@ -7726,6 +7726,28 @@
       "duration_ms": 160614,
       "name": "mandela-efekti",
       "url": "https://open.spotify.com/track/3K0LIP4FNwxTZJ23e9J19d"
+    },
+    {
+      "album": {
+        "name": "Mansion Music",
+        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mannerheim",
+      "url": "https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo"
     },
     {
       "album": {

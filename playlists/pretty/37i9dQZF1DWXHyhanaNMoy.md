@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Bokoesam & Bryan Mg
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,132 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,140 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hou Me Vast](https://open.spotify.com/track/75KqAhAByxO7EHFF76Tj0J) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hou Me Vast](https://open.spotify.com/album/2cjy3JmvMPN33c92DcETLE) | 3:08 |
 | 2 | [I Love It](https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [I Love It](https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId) | 2:58 |
-| 3 | [EURO GEEN DOLLAR](https://open.spotify.com/track/2qOndQbWu4mkc8PvCOql6f) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [EURO GEEN DOLLAR](https://open.spotify.com/album/4iT3Ffez53STjPQJW7S8ED) | 2:06 |
-| 4 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 |
-| 5 | [Diamonds](https://open.spotify.com/track/1Iu7jLEn3rZUHGPblvtmII) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Firri](https://open.spotify.com/artist/0XQmrclzpHHHtDO5dOdP6Y) | [Diamonds](https://open.spotify.com/album/4MuxVrrpni5YG1BcqVoSP6) | 2:57 |
+| 3 | [Diamonds](https://open.spotify.com/track/1Iu7jLEn3rZUHGPblvtmII) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Firri](https://open.spotify.com/artist/0XQmrclzpHHHtDO5dOdP6Y) | [Diamonds](https://open.spotify.com/album/4MuxVrrpni5YG1BcqVoSP6) | 2:57 |
+| 4 | [EURO GEEN DOLLAR](https://open.spotify.com/track/2qOndQbWu4mkc8PvCOql6f) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [EURO GEEN DOLLAR](https://open.spotify.com/album/4iT3Ffez53STjPQJW7S8ED) | 2:06 |
+| 5 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 |
 | 6 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
 | 7 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
 | 8 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 |
 | 70 | [Awesome/Poolside](https://open.spotify.com/track/3nkZMDmPu43kkWNXkdaZ0W) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Sunflower](https://open.spotify.com/album/2uxqcqNZXfaAwU0iOBZMnq) | 2:45 |
 
-Snapshot ID: `AAAAACydBw1ol7tTF8OtKC+moJprVm9g`
+Snapshot ID: `AAAAAOltPgoyz3txKpJeSzQzWmsABB5S`

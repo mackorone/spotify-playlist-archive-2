@@ -2,7 +2,7 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> BLACKPINK in our area!
+> BLACKPINK in our area! DEADLINE is coming.
 
 113 songs - 5 hr 58 min
 

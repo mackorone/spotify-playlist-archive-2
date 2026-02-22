@@ -4,7 +4,7 @@
 
 > 
 
-1,266 songs - 2 day 23 hr 54 min
+1,267 songs - 2 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [Take a Break](https://open.spotify.com/track/2qFIJT5hjqaNFA1GKwl9me) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:46 | 2024-07-13 |  |
 | [Take A Chance On Me \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/2MfEQfjPh7upzVnX5Ziyj9) | [Julie Walters](https://open.spotify.com/artist/5Yi0y4bNdc04Oxk9l6nwXa), [Stellan Skarsgård](https://open.spotify.com/artist/0SzZQUkmQ2VPihJ7P64IGq) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 4:01 | 2025-04-06 |  |
 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-10-30 |  |
+| [Talk About](https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Talk About](https://open.spotify.com/album/1UvR3ECAyt8twRzOvZ3vRQ) | 2:36 | 2026-02-21 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-08 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:53 | 2025-01-26 |  |
 | [Talk Too Much](https://open.spotify.com/track/4JCv9Nx6Lx4cTwu7Aty5qd) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 3:16 | 2025-11-01 |  |

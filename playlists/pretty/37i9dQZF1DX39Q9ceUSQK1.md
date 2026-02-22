@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Honey I'm Home
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,378 likes - 110 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,385 likes - 110 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty](https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Pretty](https://open.spotify.com/album/4Cx63F8wnPWtYuWCckeXal) | 2:19 |
 | 2 | [Rewrite History](https://open.spotify.com/track/5rsZ9VMxMsvA9y6OKBAMxy) | [Fit](https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf) | [Rewrite History](https://open.spotify.com/album/22gUlBJp8VXLCg3NyTucUV) | 2:27 |
-| 3 | [deathwish](https://open.spotify.com/track/5oiJoBwi1dV8NfZTPYbqGz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [deathwish](https://open.spotify.com/album/4vJsrxUvCVS8m7QKUoDe9h) | 3:27 |
-| 4 | [AUTONOMY](https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [AUTONOMY](https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm) | 4:40 |
-| 5 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
-| 6 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
+| 3 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
+| 4 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
+| 5 | [deathwish](https://open.spotify.com/track/5oiJoBwi1dV8NfZTPYbqGz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [deathwish](https://open.spotify.com/album/4vJsrxUvCVS8m7QKUoDe9h) | 3:27 |
+| 6 | [AUTONOMY](https://open.spotify.com/track/2kNd41ey27IQcEME9J0ZBz) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [AUTONOMY](https://open.spotify.com/album/31NLkXt7yqS8Ugi7DvkxQm) | 4:40 |
 | 7 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 8 | [Cold Sun](https://open.spotify.com/track/0R03DkSad23jyYw6lecBsG) | [The Hickey Underworld](https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam) | [Cold Sun](https://open.spotify.com/album/6jOOUBJxY1DY6s0oWZoc9T) | 3:23 |
 | 9 | [Dracula\_](https://open.spotify.com/track/5XcXhHt2riVDm3htIIwnM6) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [Dracula\_](https://open.spotify.com/album/4xaWaSs9GyqjXkigZvM1Oe) | 2:49 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 109 | [Sanctus](https://open.spotify.com/track/55XIRzjn6KRGfshfBGFopW) | [Youri Lentjes](https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE) | [Mercy Is A Wild Beast](https://open.spotify.com/album/4nZvhUblPFNcJzXq388tJX) | 5:20 |
 | 110 | [No Profit](https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO) | [MAHA](https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4) | [No Profit](https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R) | 2:31 |
 
-Snapshot ID: `AAAAAPa99oqiUYb1j3nF1RgdPkwT7wsj`
+Snapshot ID: `AAAAAKJ/HqSGZsP0nj4f0LMcQU3cvWOW`

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93803,
+  "num_followers": 93802,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Don\u2019t Look Back In Anger",
-        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Don\u2019t Look Back In Anger",
+        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Stanna tiden",
         "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 192875,
       "name": "Stanna tiden",
       "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -911,6 +911,38 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Andra landskap 50",
+        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "\u00d6stra Svealand (2025)",
+      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
+      },
+      "artists": [
+        {
+          "name": "Sannex",
+          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -931,22 +963,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 177026,
       "name": "Country Enough",
       "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
-      },
-      "artists": [
-        {
-          "name": "Sannex",
-          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "I Don't Know How to Love You Anymore",
-        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "I Don't Know How to Love You Anymore",
-      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Happier Now",
         "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 157500,
       "name": "Happier Now",
       "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "I Don't Know How to Love You Anymore",
+        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "I Don't Know How to Love You Anymore",
+      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Ex Voto / The Silent Love",
-        "url": "https://open.spotify.com/album/2SwdpGKxoZwq1Wh5xGr3NG"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "It Can Heal You If You Let It",
-      "url": "https://open.spotify.com/track/7zaQo0gJLEdSsczzzxR2xV"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Sol \u00e5 snygga m\u00e4n",
         "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 212339,
       "name": "Sol \u00e5 snygga m\u00e4n",
       "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Ex Voto / The Silent Love",
+        "url": "https://open.spotify.com/album/2SwdpGKxoZwq1Wh5xGr3NG"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "It Can Heal You If You Let It",
+      "url": "https://open.spotify.com/track/7zaQo0gJLEdSsczzzxR2xV"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/5lLRHsgpLXK7m7xhCMMZ0C"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Stj\u00e4rnorna",
-        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
       },
       "artists": [
         {
-          "name": "crescenterna",
-          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 260489,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Stj\u00e4rnorna",
+        "url": "https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS"
+      },
+      "artists": [
+        {
+          "name": "crescenterna",
+          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
+        }
+      ],
+      "duration_ms": 260489,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
       },
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Become A Light",
-        "url": "https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy"
+        "name": "Jag dansade en sommar",
+        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
       },
       "artists": [
         {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5"
+      "duration_ms": 199120,
+      "name": "Jag dansade en sommar",
+      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Jag dansade en sommar",
-        "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
+        "name": "Become A Light",
+        "url": "https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy"
       },
       "artists": [
         {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Jag dansade en sommar",
-      "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
+      "duration_ms": 191440,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5"
     },
     {
       "added_at": "2026-02-19 23:00:51",

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43182,
+  "num_followers": 43188,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
         }
       ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+      "duration_ms": 368466,
+      "name": "Equinox - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -191,6 +195,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "(Who?) Keeps Changing Your Mind",
         "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 460939,
       "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
       "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox - Henrik Schwarz Remix",
-      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
     },
     {
       "added_at": "2022-03-03 13:59:16",

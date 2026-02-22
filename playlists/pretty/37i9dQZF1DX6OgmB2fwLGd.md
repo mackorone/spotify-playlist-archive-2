@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. the sound chalk makes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,329 likes - 70 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,271 likes - 70 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 12 | [she screaming purr \(attachments\)](https://open.spotify.com/track/1p23xURXGljXcr0lJ4Du08) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [she screaming purr \(attachments\)](https://open.spotify.com/album/7n1CFs75EkVuSSsXJdi7P3) | 2:05 |
 | 13 | [Bazooka](https://open.spotify.com/track/045znbMKUOgc6SBI9fF8Z0) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6GT1E8Qg3SazmTBzvm7kSo) | 1:48 |
 | 14 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
-| 15 | [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 |
+| 15 | [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bell](https://open.spotify.com/artist/6kJ90ye2U6Eqja1cDGBJgS) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 |
 | 16 | [professional heartbreaker](https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [professional heartbreaker](https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7) | 2:55 |
 | 17 | [XOXO](https://open.spotify.com/track/2XUeYvnBGmQ24sWQ45Mupk) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [XOXO](https://open.spotify.com/album/2zTkCWROEjRNyGtvj98i4G) | 1:51 |
 | 18 | [say it back](https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [say it back](https://open.spotify.com/album/6iRYSsG3cl0CtaHMLWBAdU) | 3:40 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 22 | [Midnight Princess](https://open.spotify.com/track/5KhhQHOEdUL0I8tL4917pz) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Midnight Princess](https://open.spotify.com/album/1hNFYpGOf97vcwfBf0EE6y) | 3:06 |
 | 23 | [4wheelpharmacy](https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Pants on fire](https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc) | 1:37 |
 | 24 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
-| 25 | [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 |
+| 25 | [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 |
 | 26 | [Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:25 |
 | 27 | [Can’t Crash](https://open.spotify.com/track/20yYEiksiiLolkHLQYaih1) | [Sir Untre](https://open.spotify.com/artist/0PxbXmWt9rzhb3VDzcYn3H) | [@ Now, Die Later](https://open.spotify.com/album/3uUFErhMCEBO3jzKgnXGXw) | 1:52 |
 | 28 | [Kwik Trip](https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [sero](https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE) | [Kwik Trip](https://open.spotify.com/album/2OTLmSlcjFarrF4ipPWLp4) | 3:25 |

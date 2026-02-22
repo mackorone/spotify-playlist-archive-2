@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Aaja Raja (From \"KH x RK Reunion\")",
+        "url": "https://open.spotify.com/album/5NGHCyeSDYkhIY4kIHF8fz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Chintu",
+          "url": "https://open.spotify.com/artist/4GbARQ6FEQHOhK0WrnBSWj"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "Aaja Raja (From \"KH x RK Reunion\")",
+      "url": "https://open.spotify.com/track/5yKz9IRNzuWJiwXERpfVY3"
+    },
+    {
+      "album": {
         "name": "Aaku Paaku (From \"Ripupbury\")",
         "url": "https://open.spotify.com/album/1TBFlHfyOlpbnqpUhOav7J"
       },
@@ -3638,7 +3660,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 30753,
       "name": "The Maari Swag",
       "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"

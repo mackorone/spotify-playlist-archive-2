@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-897 songs - 1 day 20 hr 46 min
+898 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 | 2024-09-06 |
 | [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 | 2024-10-31 | 2025-01-10 |
 | [Autiomaa \- Vain elämää kausi 16](https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Autiomaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7) | 2:48 | 2025-09-11 | 2026-02-01 |
-| [Avaimet mun kiesiin \- Unitas Sigma](https://open.spotify.com/track/2ztWfinagXMBSRTjaMCLX0) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:05 | 2025-12-05 |  |
+| [Avaimet mun kiesiin \- Unitas Sigma](https://open.spotify.com/track/2ztWfinagXMBSRTjaMCLX0) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:05 | 2025-12-05 | 2026-02-22 |
 | [Baby mä oon back](https://open.spotify.com/track/28dIoMaKFcFZ6KNqGGuuQK) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Baby mä oon back](https://open.spotify.com/album/1P4Sdf8YLSE2UPK9E5WpvM) | 2:53 | 2024-09-12 | 2024-10-04 |
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-08-10 |
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-10-18 |
@@ -406,6 +406,7 @@
 | [Maljapuhe](https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Maljapuhe](https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh) | 2:38 | 2024-07-02 | 2024-08-02 |
 | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM) | 2:54 | 2024-07-02 | 2024-07-19 |
 | [mandela\-efekti](https://open.spotify.com/track/3K0LIP4FNwxTZJ23e9J19d) | [NICHOLAS X](https://open.spotify.com/artist/592Go1koDRwPru1jjMhZuY) | [mandela\-efekti](https://open.spotify.com/album/7h37iGdvdpmSTfwuA1y5Jy) | 2:40 | 2024-07-25 | 2024-08-02 |
+| [Mannerheim](https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 2:48 | 2026-02-19 |  |
 | [Markku \(Vain elämää kausi 15\)](https://open.spotify.com/track/6KJ5lLG2w0pDbpckcAod1B) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF) | [Markku \(Vain elämää kausi 15\)](https://open.spotify.com/album/3c0CdTJTGKFe5kd8gBSMdu) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 | 2025-03-07 |
 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 | 2025-03-06 | 2025-05-23 |

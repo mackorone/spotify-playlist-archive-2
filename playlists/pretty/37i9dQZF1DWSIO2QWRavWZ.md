@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Essosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,968 likes - 160 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,965 likes - 160 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8251,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "La distance n'est pas vraiment l\u00e0",
+        "url": "https://open.spotify.com/album/61rdaK73DERmnmRxf6PB3N"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/7rchRoGZyaW3cgULOqOjfy"
+    },
+    {
+      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -10416,7 +10434,7 @@
       ],
       "date_added": "2021-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 152893,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"

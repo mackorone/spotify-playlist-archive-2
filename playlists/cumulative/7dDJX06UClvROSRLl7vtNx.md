@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,189 songs - 2 day 3 hr 24 min
+1,190 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Keep Me Close](https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Keep Me Close](https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi) | 3:17 | 2025-08-08 |  |
 | [Keep Me Safe](https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [CRE](https://open.spotify.com/artist/4igo8DCgQozV9rIPs4K9us), [SOULWAY](https://open.spotify.com/artist/6XVrTtDDI2YcO6qKIIt1ck) | [Keep Me Safe](https://open.spotify.com/album/5RzqItNFbTtJhHDKcKbiZY) | 2:19 | 2024-11-03 | 2024-12-09 |
 | [Keep Me There](https://open.spotify.com/track/0YBiWhC6TlGtkOYutzzMtu) | [Bonna](https://open.spotify.com/artist/2l8kcHRvhu4aNUdjxBklxf) | [Keep Me There](https://open.spotify.com/album/6PWVoPELrH6TI3ZuUWQZlF) | 2:25 | 2025-03-20 |  |
+| [Keep On Dancin'](https://open.spotify.com/track/3n5Gaj8Jsw1w7dZbJQfWN7) | [CICERO!](https://open.spotify.com/artist/14Feld1YPnynu1a1hPzxaa), [Damon.](https://open.spotify.com/artist/0BerNbI4jj8PSQqsU8B1RH), [Nicole Marie](https://open.spotify.com/artist/2slZ3b89313cQssXIK7qd7) | [Keep On Dancin'](https://open.spotify.com/album/6CsoL77zEF0ARZK0kzodQU) | 2:26 | 2026-02-21 |  |
 | [Keep Running](https://open.spotify.com/track/4kad1c0m2eHrMujf3gjKX8) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Keep Running](https://open.spotify.com/album/0soiapkQlWyVZ5GX7PVrlK) | 2:32 | 2025-08-01 | 2025-08-30 |
 | [Keep You](https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Keep You](https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ) | 2:26 | 2025-04-21 | 2025-06-14 |
 | [Keep You Around](https://open.spotify.com/track/5argQfyRM6cfFKWYv2EXk1) | [Arial Ten](https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf) | [Keep You Around](https://open.spotify.com/album/7JkuOJdTZPVFHPMHavhrpO) | 2:51 | 2025-02-21 | 2025-03-23 |

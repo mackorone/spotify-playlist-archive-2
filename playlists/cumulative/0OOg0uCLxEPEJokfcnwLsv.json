@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Live Like You Mean It",
+        "url": "https://open.spotify.com/album/1c6wgRmqwUT1oq7Xi7c5S2"
+      },
+      "artists": [
+        {
+          "name": "Riff Raiders",
+          "url": "https://open.spotify.com/artist/3uP6nJf8faTwth3kDqqKRv"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205419,
+      "name": "Live Like You Mean It",
+      "url": "https://open.spotify.com/track/0axZqgHnrL5FpSDyrCQkqr"
+    },
+    {
+      "album": {
         "name": "Lobo Enjaulado",
         "url": "https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM"
       },

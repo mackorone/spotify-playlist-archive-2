@@ -1411,6 +1411,32 @@
     },
     {
       "album": {
+        "name": "Cry On The Weekend",
+        "url": "https://open.spotify.com/album/4hxnR30WglTZP9ujNAPolh"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        },
+        {
+          "name": "LC Bay",
+          "url": "https://open.spotify.com/artist/4FYn9old9wruJfXRKWWXAr"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124643,
+      "name": "Cry On The Weekend",
+      "url": "https://open.spotify.com/track/5TS7sMmMjijdzlCIqFrPER"
+    },
+    {
+      "album": {
         "name": "Dance Of Love",
         "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
       },
@@ -7536,7 +7562,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 177212,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni"

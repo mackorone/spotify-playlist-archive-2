@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Baloosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,220 likes - 65 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,210 likes - 65 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

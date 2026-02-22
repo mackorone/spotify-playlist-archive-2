@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 69 songs - 3 hr 58 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 67 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 |
 | 68 | [Legos](https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk) | [K\-NON](https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY), [Vepy](https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi) | [Legos](https://open.spotify.com/album/7u35zpzp6buERBScBvujJi) | 3:28 |
 | 69 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 |
+| 70 | [Whatever I Don’t Care](https://open.spotify.com/track/4qZaE4L7g9PHM1WEWKNKdn) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Multiverse of Life](https://open.spotify.com/album/1VdqzcZbvS4d5PP0hw1RSP) | 3:12 |
 
-Snapshot ID: `AAANZhPjCtI5pqjsQrd0gITLv9pF2p1J`
+Snapshot ID: `AAANZ3XaqL/XzZdkGxje87t5/Y4nK6K6`

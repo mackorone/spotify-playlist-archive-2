@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Steal Smoked Fish / In the Shadow of the Western Hills",
+        "url": "https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "In the Shadow of the Western Hills",
+      "url": "https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i"
+    },
+    {
+      "album": {
         "name": "Inexpicable",
         "url": "https://open.spotify.com/album/3RICruUJtlqzGPiBZ6BQX4"
       },

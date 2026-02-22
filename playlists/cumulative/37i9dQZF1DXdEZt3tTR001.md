@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-383 songs - 1 day 0 hr 28 min
+384 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2023-09-26 |
 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 | 2023-04-28 | 2024-01-18 |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2021-08-18 |  |
-| [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-18 |  |
+| [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-18 | 2026-02-22 |
 | [cohete](https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [cohete](https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh) | 3:03 | 2025-10-04 | 2025-10-11 |
 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 | 2025-07-17 | 2025-08-17 |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-09 | 2024-05-03 |
@@ -388,6 +388,7 @@
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2021-08-18 |  |
 | [won't make it](https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX) | [amaka.](https://open.spotify.com/artist/3DpIpjmo3sLKbrHWjcjNk3) | [won't make it](https://open.spotify.com/album/7eZAxnerRWqAo5OxhWHRw2) | 3:20 | 2024-03-22 | 2024-03-30 |
 | [Wrapped in the Weight \- A COLORS SHOW](https://open.spotify.com/track/6KCtRNu75DNvDgrFMYlEqO) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Wrapped in the Weight \- A COLORS SHOW](https://open.spotify.com/album/33k1zDMo4BhqaVFxiJP0yq) | 4:19 | 2025-08-15 | 2025-11-08 |
+| [Yellow Eyes](https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Yellow Eyes](https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL) | 2:42 | 2026-02-20 |  |
 | [Your Heart](https://open.spotify.com/track/5sOiVRzdxwJFydo2tKnMP3) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Crusts \(Original Soundtrack\)](https://open.spotify.com/album/7nalbmgfr8x01U1L73pu8B) | 1:35 | 2026-01-16 | 2026-01-31 |
 | [Your Love Alone](https://open.spotify.com/track/340z5vIbttWKdm66u3XN4J) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Your Love Alone](https://open.spotify.com/album/7BFan5rcLDciZ1e2S49rSs) | 2:14 | 2025-10-24 | 2025-11-08 |
 | [Yèkèrmo Sèw](https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Plays Mulatu](https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc) | 8:03 | 2025-09-26 | 2026-02-14 |

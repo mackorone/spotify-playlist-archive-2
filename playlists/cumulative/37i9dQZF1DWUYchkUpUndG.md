@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Yinka Okeleye
 
-7,424 songs - 22 day 17 hr 40 min
+7,425 songs - 22 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6597,6 +6597,7 @@
 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 | 2025-03-28 | 2025-04-04 |
 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 | 2025-05-23 | 2025-06-06 |
 | [Ukwenzile \(Live\)](https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Ukwenzile \(Live\)](https://open.spotify.com/album/727KqRu1ClKY5blwbrMyFh) | 8:48 | 2024-08-30 | 2024-09-14 |
+| [Ukwetsimile](https://open.spotify.com/track/5zNda7f8w3Co4pcFxm1rRe) | [The Light Twins](https://open.spotify.com/artist/2zvKxVB2VOf18MMBuCFsJi), [Priests of the Archdiocese of Johannesburg](https://open.spotify.com/artist/3Is6qP3Vr7AYxKlasfbkwJ) | [Ukwetsimile](https://open.spotify.com/album/03XloMxDk53z7KmBqQ1FoD) | 4:54 | 2026-02-20 |  |
 | [ULINIJUA \- Special Version](https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2) | [Money Magnet Aqui](https://open.spotify.com/artist/0nHRq547zFyGXHDsloSnV0) | [ULINIJUA \(Special Version\)](https://open.spotify.com/album/6iloq9rUZqq3d7clUjBbXP) | 6:11 | 2023-08-25 | 2023-09-08 |
 | [Uloyiko Lwami](https://open.spotify.com/track/0qH2ik4f9kEHSrDzKi6mUP) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz) | [Uloyiko Lwami](https://open.spotify.com/album/68mLFu1sQsSqLvrMOU2B4g) | 8:06 | 2024-04-26 | 2024-05-03 |
 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 | 2025-03-28 | 2025-04-11 |

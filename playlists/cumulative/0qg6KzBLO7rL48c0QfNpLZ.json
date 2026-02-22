@@ -7746,7 +7746,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -8568,6 +8568,28 @@
       "duration_ms": 122000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/35w3yvIS9rMvhUg9oEcYcH"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/6Pakb9MM8AAQwV3AZBsUp5"
+      },
+      "artists": [
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "idyllic",
+          "url": "https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130562,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/0KzV1h6dL5lh11tfEztbxV"
     },
     {
       "album": {
@@ -15979,6 +16001,24 @@
     },
     {
       "album": {
+        "name": "Lost Inside Your Soul",
+        "url": "https://open.spotify.com/album/4pUZVHH4rkqPcAnGZCUTUz"
+      },
+      "artists": [
+        {
+          "name": "Jaron",
+          "url": "https://open.spotify.com/artist/0rDKYvqyfGthWzRk712Wll"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Lost Inside Your Soul",
+      "url": "https://open.spotify.com/track/7w5P4i9uaaGJE5ID7Vo51V"
+    },
+    {
+      "album": {
         "name": "Lost Paradise",
         "url": "https://open.spotify.com/album/7sYFVygfwCfTiBNFhYbJIy"
       },
@@ -21363,6 +21403,28 @@
     },
     {
       "album": {
+        "name": "Remember the Days",
+        "url": "https://open.spotify.com/album/26VJXuFAJAEHiL1vxqkdk3"
+      },
+      "artists": [
+        {
+          "name": "Solara",
+          "url": "https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Remember the Days",
+      "url": "https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F"
+    },
+    {
+      "album": {
         "name": "Reminds Me of You",
         "url": "https://open.spotify.com/album/4K8wd8Lnado31UoVbojVEq"
       },
@@ -22070,7 +22132,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"

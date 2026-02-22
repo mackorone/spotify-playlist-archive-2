@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-22",
       "duration_ms": 179605,
       "name": "El Motor",
       "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
@@ -1514,6 +1514,28 @@
       "duration_ms": 160884,
       "name": "Yo Soy del Golfo",
       "url": "https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
+        "url": "https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160484,
+      "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
+      "url": "https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2"

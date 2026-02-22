@@ -1,6 +1,6 @@
 {
   "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
-  "num_followers": 157370,
+  "num_followers": 157430,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-11 08:52:17",
       "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
-    },
-    {
-      "added_at": "2026-02-11 08:52:17",
-      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
+    },
+    {
+      "added_at": "2026-02-11 08:52:17",
+      "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
     },
     {
       "added_at": "2026-02-11 08:52:17",
@@ -1715,8 +1715,8 @@
     {
       "added_at": "2026-02-11 08:52:17",
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
+        "name": "Hazes 100",
+        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
       "artists": [
         {
@@ -1724,9 +1724,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
+      "duration_ms": 244040,
+      "name": "Zij Gelooft In Mij",
+      "url": "https://open.spotify.com/track/4RcnmTxXB0IOGJnQXLSyb2"
     },
     {
       "added_at": "2026-02-11 08:52:17",

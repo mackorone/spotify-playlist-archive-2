@@ -20811,6 +20811,24 @@
     },
     {
       "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/1UvR3ECAyt8twRzOvZ3vRQ"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156053,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,276 likes - 150 songs - 8 hr 25 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,275 likes - 152 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 148 | [Que la luna me desarme](https://open.spotify.com/track/2Frm899zUZksGp5fRfialm) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 2:53 |
 | 149 | [Misfits Rejoice](https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [Misfits Rejoice](https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe) | 2:34 |
 | 150 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 |
+| 151 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 |
+| 152 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 |
 
-Snapshot ID: `AAAQvMEJjeubM1+1bJOc68d52DVsSMu/`
+Snapshot ID: `AAAQvvF//15UMcVaQsof8jARox20iHRY`

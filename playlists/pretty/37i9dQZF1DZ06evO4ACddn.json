@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZZSgAAAAAAu3xJVhXq3VQD2Up4ABvI1",
+  "snapshot_id": "aZekAAAAAACj+FNY8/FQZe7HgE49ohKW",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 198186,
-      "name": "Deserter",
-      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
+      "duration_ms": 260786,
+      "name": "Kings of the Mountain",
+      "url": "https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 260786,
-      "name": "Kings of the Mountain",
-      "url": "https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI"
+      "duration_ms": 198186,
+      "name": "Deserter",
+      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 206605,
-      "name": "Long Way",
-      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+      "duration_ms": 248117,
+      "name": "The Bear",
+      "url": "https://open.spotify.com/track/6jME1L8fnNn5uTTMSk1nph"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 248117,
-      "name": "The Bear",
-      "url": "https://open.spotify.com/track/6jME1L8fnNn5uTTMSk1nph"
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
     }
   ],
   "unique_name": "This Is Lonely The Brave",

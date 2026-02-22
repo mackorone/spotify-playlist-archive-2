@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 364120,
+  "num_followers": 364089,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "Hist\u00f3ria para dois",
+        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 198926,
+      "name": "Hist\u00f3ria para dois",
+      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -303,22 +323,18 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "Hist\u00f3ria para dois",
-        "url": "https://open.spotify.com/album/0qPLs1kdaU6MnW1K6SMNfp"
+        "name": "Sexta-feira",
+        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
       },
       "artists": [
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 198926,
-      "name": "Hist\u00f3ria para dois",
-      "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
+      "duration_ms": 164885,
+      "name": "Sexta-feira",
+      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -335,22 +351,6 @@
       "duration_ms": 193024,
       "name": "Menina",
       "url": "https://open.spotify.com/track/74rKZCFQ8WHl75VeDaCSFW"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "Sexta-feira",
-        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Sexta-feira",
-      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "Impostor",
-        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Impostor",
-      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "N\u00e3o estou l\u00e1",
         "url": "https://open.spotify.com/album/2iQgYSXYdxXadFPmqEcX9L"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 163236,
       "name": "celebridade",
       "url": "https://open.spotify.com/track/4XsyZnz8hM3oa1MCXZlfFi"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "Queda Livre",
-        "url": "https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj"
-      },
-      "artists": [
-        {
-          "name": "NATI OFICIAL",
-          "url": "https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4"
-        }
-      ],
-      "duration_ms": 101583,
-      "name": "Queda Livre",
-      "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "MINA",
         "url": "https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "Queda Livre",
+        "url": "https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj"
+      },
+      "artists": [
+        {
+          "name": "NATI OFICIAL",
+          "url": "https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4"
+        }
+      ],
+      "duration_ms": 101583,
+      "name": "Queda Livre",
+      "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
     },
     {
       "added_at": "2026-02-06 03:00:06",

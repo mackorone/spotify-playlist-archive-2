@@ -4,12 +4,16 @@
 
 > I'm The One! A TEEnager Z is here.
 
-204 songs - 11 hr 13 min
+212 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Midnight](https://open.spotify.com/track/6ln6qj6dSFvqov86pjNmA3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 2:48 | 2025-12-05 |  |
 | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 | 2022-02-03 |  |
+| [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 | 2026-02-21 |  |
+| [Adrenaline \(NO1 Ver.\)](https://open.spotify.com/track/3P1BFqSQvCvomtYorKwytv) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Adrenaline \(Remix\)](https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i) | 3:18 | 2026-02-21 |  |
+| [Adrenaline \(Speed Down Ver.\)](https://open.spotify.com/track/7JLo6VAfje8N481RvpljXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Adrenaline \(Remix\)](https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i) | 4:34 | 2026-02-21 |  |
+| [Adrenaline \(Speed Up Ver.\)](https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Adrenaline \(Remix\)](https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i) | 3:09 | 2026-02-21 |  |
 | [All About You](https://open.spotify.com/track/4bamfTJc0GuUDYnc3fj6zH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 2:56 | 2022-02-03 |  |
 | [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2022-02-03 |  |
 | [Answer \(Ode to Joy\) \(feat\. LA POEM\)](https://open.spotify.com/track/2azA5xETy3lbS9DAc5N7xI) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [LA POEM](https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 4:26 | 2022-02-03 |  |
@@ -37,6 +41,7 @@
 | [Castle](https://open.spotify.com/track/4fayKmQptcxAvra2lXqmIQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 3:09 | 2025-06-13 |  |
 | [Castle](https://open.spotify.com/track/4s9UutxJ9a5uPdCIhMtzEn) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:09 | 2025-12-05 |  |
 | [Celebrate](https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:16 | 2022-02-03 |  |
+| [Choose](https://open.spotify.com/track/05LoOSto6lqMPQp1jDRYRi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:06 | 2026-02-21 |  |
 | [Choose](https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Choose](https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec) | 3:06 | 2025-12-05 |  |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-12-07 |  |
 | [Creep \(SAN\)](https://open.spotify.com/track/30mC7W7Ngzf8BNTEnEVWh3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:11 | 2025-12-05 |  |
@@ -76,6 +81,7 @@
 | [Forevermore](https://open.spotify.com/track/6aJkoM1xlR7OKy14cq9CIu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 4:47 | 2025-12-05 |  |
 | [Forevermore \- Instrumental](https://open.spotify.com/track/3MTo900y8sKsLtC7fdnlWI) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 4:47 | 2024-11-08 |  |
 | [From \(2018\)](https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [From \(2018\)](https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ) | 3:03 | 2025-12-05 |  |
+| [Ghost](https://open.spotify.com/track/4ReCSl70DVUjj9pf0ICgMH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 2:47 | 2026-02-21 |  |
 | [Golden Hour](https://open.spotify.com/track/49hiimslmi1UYZd0VOEjt4) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 1:24 | 2024-06-04 |  |
 | [Good Lil Boy](https://open.spotify.com/track/5U8pXQSdhTtQ8bp6K6vb9Y) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:25 | 2022-02-03 |  |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 |  |
@@ -117,6 +123,7 @@
 | [MATZ \(HONGJOONG, SEONGHWA\)](https://open.spotify.com/track/0dykfdABsJdew8CBVnnkCB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:26 | 2023-12-07 |  |
 | [MIST](https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN : All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2022-02-03 |  |
 | [My Way](https://open.spotify.com/track/7nm5N2yWWlDp3R9wPSGmj8) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1 : All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:48 | 2022-02-03 |  |
+| [NASA](https://open.spotify.com/track/48G4rDLisHuVgCKg872Tu5) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:10 | 2026-02-21 |  |
 | [New World](https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:36 | 2022-07-29 |  |
 | [NO1 \(HONGJOONG\)](https://open.spotify.com/track/1r2UwOteaiw4uZrYp0nHFy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 2:33 | 2025-12-05 |  |
 | [NOT OKAY](https://open.spotify.com/track/6w5aKGapYq9GIrHVFhzXB3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:34 | 2025-12-05 |  |
@@ -124,6 +131,7 @@
 | [Not Too Late](https://open.spotify.com/track/0fmdJr4UEfmqFCGFswAJPe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:34 | 2022-02-03 |  |
 | [Now this house ain't a home](https://open.spotify.com/track/07hKDQDtqWjVXnke603eQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:45 | 2025-12-05 |  |
 | [Now this house ain't a home](https://open.spotify.com/track/7jrPmjTP4lf1xmozGRIAm5) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 3:45 | 2025-06-13 |  |
+| [On The Road](https://open.spotify.com/track/0HAUnsOCQNH1fqIvlf7Fpp) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:23 | 2026-02-21 |  |
 | [One Day At A Time](https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:23 | 2022-02-03 |  |
 | [Outlaw](https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:19 | 2023-06-21 | 2024-04-19 |
 | [Outlaw](https://open.spotify.com/track/7hhDrSGmt0eyGzcI36yJlL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:19 | 2024-03-15 |  |

@@ -1455,6 +1455,32 @@
     },
     {
       "album": {
+        "name": "All About Us",
+        "url": "https://open.spotify.com/album/0buqgugryDSgCyXJKx3t3o"
+      },
+      "artists": [
+        {
+          "name": "Shahk10",
+          "url": "https://open.spotify.com/artist/78efzo5kXScfrFywQyHN7l"
+        },
+        {
+          "name": "Raviii Kadam",
+          "url": "https://open.spotify.com/artist/6AbBJRTJEfpPQQwu3KylYW"
+        },
+        {
+          "name": "D&V sisters",
+          "url": "https://open.spotify.com/artist/31bWGfjdxZcxU5U2669sfm"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182696,
+      "name": "All About Us",
+      "url": "https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/2vCDcstrXte917TvEZ6hkz"
       },
@@ -20541,6 +20567,24 @@
     },
     {
       "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104719,
+      "name": "Motivation Progress",
+      "url": "https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
       },
@@ -21544,6 +21588,24 @@
       "duration_ms": 156774,
       "name": "NEO TOKYO",
       "url": "https://open.spotify.com/track/3toZsVZJeh6sCBbE7u4YuO"
+    },
+    {
+      "album": {
+        "name": "Neon Sakura Bounce",
+        "url": "https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO"
+      },
+      "artists": [
+        {
+          "name": "Peter Mor",
+          "url": "https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201123,
+      "name": "Neon Sakura Bounce",
+      "url": "https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE"
     },
     {
       "album": {

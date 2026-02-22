@@ -657,6 +657,36 @@
     },
     {
       "album": {
+        "name": "PUT A LANDLORD iN A LANDFiLL",
+        "url": "https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        },
+        {
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
+        },
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        },
+        {
+          "name": "Chandler",
+          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+        }
+      ],
+      "date_added": "2026-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "PUT A LANDLORD iN A LANDFiLL",
+      "url": "https://open.spotify.com/track/3nCve9jcwSKEtTCtuqEgIg"
+    },
+    {
+      "album": {
         "name": "Put on Your Mask",
         "url": "https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR"
       },

@@ -4,7 +4,7 @@
 
 > Nieuw: Sepa, Freddie Konings en meer...
 
-423 songs - 18 hr 14 min
+424 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Pijn](https://open.spotify.com/track/4duGKe6PXETGQjcdZg190j) | [AH7](https://open.spotify.com/artist/3MzIvVjbjraAm4rUFmgZ2l) | [Pijn](https://open.spotify.com/album/0zSdZBJiy15qIWLfCcqjcC) | 4:23 | 2026-01-08 | 2026-02-13 |
 | [Pijn](https://open.spotify.com/track/37hpsU1zaEpt6DJtsMrQk6) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Pijn](https://open.spotify.com/album/3Th66I2VQTNGcRu9iAOnED) | 2:40 | 2026-01-22 |  |
 | [Pina](https://open.spotify.com/track/0k1HWigJL5VNgdVhb40DbD) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Pina](https://open.spotify.com/album/4ruwzPvyM7ZxqHBALWcu4j) | 2:14 | 2025-12-11 | 2026-01-23 |
+| [Pomp Het Op II](https://open.spotify.com/track/1dDKN24xJ89FucQnHg5H0i) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Praat van de Straat II](https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB) | 2:36 | 2026-02-21 |  |
 | [Poster](https://open.spotify.com/track/0I5ZwJITzR5BzbLq9XcQSK) | [Marou](https://open.spotify.com/artist/6XKHfRztUtj98C92TgOr41) | [Poster](https://open.spotify.com/album/3kUecw7iTj9i0XUcmjZ7v8) | 2:08 | 2025-11-06 | 2025-12-12 |
 | [Powers testen](https://open.spotify.com/track/3IeMafaunO6uavy8hFLNmp) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Powers testen](https://open.spotify.com/album/1HT1dqZVbKKnVPsXaTuWiI) | 1:41 | 2025-08-28 | 2025-10-03 |
 | [Prayin For](https://open.spotify.com/track/36zS1ry40jJ52N61NAwMeC) | [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Prayin For](https://open.spotify.com/album/5w6EYj52ZVqcGkjmG9HJaS) | 3:20 | 2025-07-17 | 2025-08-15 |

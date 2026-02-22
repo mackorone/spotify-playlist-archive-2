@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Danno in cover.
 
-618 songs - 1 day 10 hr 53 min
+619 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bugiardo](https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Il Tempo Vola 2002\-2020](https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6) | 4:06 | 2023-07-06 | 2025-10-10 |
 | [Bugie Bianche](https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6) | 3:13 | 2022-05-05 | 2025-12-19 |
 | [Bugie Bianche](https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz) | 3:13 | 2023-03-02 | 2024-04-19 |
+| [Buste di Figu](https://open.spotify.com/track/3vUZOWEfzbWawRLZQdN54o) | [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [FONDAZIONE STRADA](https://open.spotify.com/album/5BJ1RaQg0t5LAvGWXMirvw) | 3:19 | 2026-02-19 |  |
 | [Buste Di Speranza \(feat\. Ernia, Dani Faiv & Revé\)](https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V) | [BISTRO!](https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ) | 3:12 | 2025-10-09 |  |
 | [Butterfly Knife](https://open.spotify.com/track/4vYvY3M4ZtJrS03KqtjYUv) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Chicoria](https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce) | [Non Dormire](https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX) | 3:51 | 2025-03-27 | 2025-11-28 |
 | [By Myself](https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [Max](https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5) | 4:20 | 2022-07-28 | 2024-04-26 |
@@ -293,7 +294,7 @@
 | [La Pace È La Risposta](https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [La Pace È La Risposta](https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc) | 3:25 | 2024-02-15 | 2024-04-26 |
 | [La porra](https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL) | 6:31 | 2024-09-09 |  |
 | [La porra](https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 6:31 | 2022-05-12 | 2024-09-10 |
-| [La prima volta](https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [The Island Chainsaw Massacre](https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y) | 3:47 | 2025-03-27 |  |
+| [La prima volta](https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [The Island Chainsaw Massacre](https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y) | 3:47 | 2025-03-27 | 2026-02-22 |
 | [La Soluzione](https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Bugiardo](https://open.spotify.com/album/3XuRONbq5BSjqMWI2A5Zud) | 3:57 | 2024-04-18 |  |
 | [La Verità \(Non Abita Più Qua\)](https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Qualcosa è cambiato](https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab) | 4:22 | 2024-04-25 |  |
 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 | 2022-05-05 |  |

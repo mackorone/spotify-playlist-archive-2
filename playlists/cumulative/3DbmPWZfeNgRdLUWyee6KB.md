@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-662 songs - 1 day 15 hr 0 min
+664 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 |  |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 | 2026-02-12 |  |
+| [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2026-02-21 |  |
 | [Inside Out](https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Inside Out](https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi) | 2:30 | 2024-01-28 | 2025-12-28 |
 | [Insomnio](https://open.spotify.com/track/6tkYKcPQSNMN1f4CEX8t98) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Insomnio](https://open.spotify.com/album/627VjkYMsdK6hDkAObIp8R) | 3:42 | 2025-12-22 | 2026-01-24 |
 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 | 2025-11-04 | 2025-12-21 |
@@ -635,6 +636,7 @@
 | [WE GOT ME AND YOU](https://open.spotify.com/track/7iE9B4ABEnccnd1wlVvIdA) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK), [Steve Balsamo](https://open.spotify.com/artist/6g4NDZyv8dDbZUnNu2dDEe) | [WE GOT ME AND YOU](https://open.spotify.com/album/7ftfDtY8Kfqe1lFlzZpAgk) | 3:26 | 2025-09-23 | 2025-11-29 |
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2026-02-17 |  |
 | [Weisst du noch ?](https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Weisst du noch ?](https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu) | 2:56 | 2026-01-20 | 2026-02-20 |
+| [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 | 2026-02-21 |  |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
 | [What's My Scam?](https://open.spotify.com/track/6ZudKarH8XOwIFdPHtmYI3) | [Crant Oliver Buekeley](https://open.spotify.com/artist/3ct3WW0E8NUEZawfjPdxBa), [Dax Aloysius Buekeley](https://open.spotify.com/artist/2gEi5uDdXX5Y8CUU9PhgwX) | [Exciting Opportunities](https://open.spotify.com/album/3RVeuykb5sRt59wkzFkwI6) | 3:39 | 2025-12-23 | 2026-01-24 |

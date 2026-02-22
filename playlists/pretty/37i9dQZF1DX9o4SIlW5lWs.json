@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 272136,
+  "num_followers": 272244,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "La peligrosa",
         "url": "https://open.spotify.com/album/754IpHbtZecj6NdTFf8eat"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 267102,
       "name": "La peligrosa",
       "url": "https://open.spotify.com/track/75TMYFaYiBf70VvfHicrzL"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 202457,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Echar de Menos",
+        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 225943,
+      "name": "Echar de Menos",
+      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 194651,
       "name": "ADICTO",
       "url": "https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Echar de Menos",
-        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 225943,
-      "name": "Echar de Menos",
-      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Adi\u00f3s Amor / Oye Mujer",
         "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Que Lloro / Mientes",
-        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Que Lloro / Mientes",
-      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -1091,22 +1075,6 @@
       "duration_ms": 225293,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -1147,8 +1131,8 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+        "name": "Que Lloro / Mientes",
+        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
       },
       "artists": [
         {
@@ -1156,41 +1140,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+      "duration_ms": 228494,
+      "name": "Que Lloro / Mientes",
+      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1211,6 +1163,38 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
         "name": "Me Equivoqu\u00e9 Otra Vez",
         "url": "https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 175971,
       "name": "Me Equivoqu\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "A Chillar a Otra Parte",
-        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
-        }
-      ],
-      "duration_ms": 221204,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Cosa del destino",
         "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "A Chillar a Otra Parte",
+        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 221204,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Muero de Fr\u00edo, La Historia",
         "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 212405,
       "name": "Muero de fr\u00edo, La Historia",
       "url": "https://open.spotify.com/track/0uDkIG7w74Z1EFRC1YReyA"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Se Enamor\u00f3 de Mi la Soledad",
+        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245864,
+      "name": "Se Enamor\u00f3 de Mi la Soledad",
+      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Se Enamor\u00f3 de Mi la Soledad",
-        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 245864,
-      "name": "Se Enamor\u00f3 de Mi la Soledad",
-      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+      "duration_ms": 192278,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Hay Mas de Mi",
-        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Si Me Lo Pide Otra Vez",
-      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "MUJERIEGO",
         "url": "https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Culpable o No",
-        "url": "https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj"
+        "name": "Hay Mas de Mi",
+        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 185875,
-      "name": "Culpable o No",
-      "url": "https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic"
+      "duration_ms": 213293,
+      "name": "Si Me Lo Pide Otra Vez",
+      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1695,6 +1679,22 @@
       "duration_ms": 225241,
       "name": "Ahora - Remasterizado 2017",
       "url": "https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Culpable o No",
+        "url": "https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "Culpable o No",
+      "url": "https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic"
     },
     {
       "added_at": "2026-02-20 03:00:10",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-02-20 03:00:10",
       "album": {
-        "name": "Al\u00e9jate de Mi",
-        "url": "https://open.spotify.com/album/7FENE5tZusehax45Ao25xl"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        },
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2V684J9Bl1TZXkSewUjBwj"
-    },
-    {
-      "added_at": "2026-02-20 03:00:10",
-      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
+    },
+    {
+      "added_at": "2026-02-20 03:00:10",
+      "album": {
+        "name": "Al\u00e9jate de Mi",
+        "url": "https://open.spotify.com/album/7FENE5tZusehax45Ao25xl"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2V684J9Bl1TZXkSewUjBwj"
     }
   ],
   "unique_name": "Cumbia y Romance",
