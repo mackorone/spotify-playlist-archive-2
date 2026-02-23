@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 158 songs - 8 hr 14 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 159 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,5 +166,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 156 | [Electric Night](https://open.spotify.com/track/54ufnTqGX7Ur20FnoQ4mQp) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Electric Night](https://open.spotify.com/album/5fx6zYSU38qN9DiSL4J9Lo) | 3:26 |
 | 157 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 |
 | 158 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 |
+| 159 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 |
 
-Snapshot ID: `AAAVpNWgZKbWiuR40QmItkucDal5gqVo`
+Snapshot ID: `AAAVpYdfB6oGCuF+mcFTY3tUynWQ1LY+`

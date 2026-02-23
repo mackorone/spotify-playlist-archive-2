@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,531 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,560 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 23 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 |
 | 24 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 |
 | 25 | [love lost](https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:00 |
-| 26 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
+| 26 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
 | 27 | [Madira](https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:49 |
 | 28 | [Living In The City](https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Different Phase](https://open.spotify.com/album/4fXbGkCU7IEQs4Ow4rCQV5) | 3:01 |
 | 29 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |

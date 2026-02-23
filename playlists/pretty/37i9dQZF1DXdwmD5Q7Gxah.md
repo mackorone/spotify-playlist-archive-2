@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music :\) </a>   Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,815 likes - 185 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,988 likes - 185 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

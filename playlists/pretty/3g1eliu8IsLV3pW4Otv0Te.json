@@ -6,7 +6,7 @@
     "name": "codym2011",
     "url": "https://open.spotify.com/user/codym2011"
   },
-  "snapshot_id": "AAABCin6fYYiiIP2GXnYHylyWx3JZaYS",
+  "snapshot_id": "AAABC1wMG73+Sbhm7wUBo8lmp672bbE+",
   "tracks": [
     {
       "added_at": "2016-01-14 16:22:45",
@@ -4599,6 +4599,26 @@
       "duration_ms": 152975,
       "name": "XSCAPE",
       "url": "https://open.spotify.com/track/7AJmefQDEJ3EorX03iLYN2"
+    },
+    {
+      "added_at": "2026-02-22 11:51:52",
+      "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     }
   ],
   "unique_name": "chill/DnB",

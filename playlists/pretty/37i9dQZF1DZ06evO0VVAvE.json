@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9253,
+  "num_followers": 9272,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAADu3iPuVVcrS9V8BwrBRzus",
+  "snapshot_id": "aZj1gAAAAACvxgir6YaCoQ3jBhoPvfEv",
   "tracks": [
     {
       "added_at": null,
@@ -583,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali (Remix)",
-        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
-      },
-      "artists": [
-        {
-          "name": "Steven Adeoye",
-          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        }
-      ],
-      "duration_ms": 202301,
-      "name": "Ali (Remix)",
-      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -635,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ali (Remix)",
+        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
+      },
+      "artists": [
+        {
+          "name": "Steven Adeoye",
+          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "duration_ms": 202301,
+      "name": "Ali (Remix)",
+      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 134736,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
       "duration_ms": 132185,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

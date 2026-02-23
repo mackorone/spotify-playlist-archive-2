@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 65154,
+  "num_followers": 65165,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Freddy & Bundy",
-        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
-      },
-      "artists": [
-        {
-          "name": "Crooks",
-          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
-        },
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 164875,
-      "name": "Bijna",
-      "url": "https://open.spotify.com/track/4eVOPP0rkxpyYDWdPqP7Rs"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Fresku",
         "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 226693,
       "name": "Nieuwe Dag",
       "url": "https://open.spotify.com/track/7gq3uwW3kjZFupbrOtLvxQ"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Freddy & Bundy",
+        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
+      },
+      "artists": [
+        {
+          "name": "Crooks",
+          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
+        },
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 164875,
+      "name": "Bijna",
+      "url": "https://open.spotify.com/track/4eVOPP0rkxpyYDWdPqP7Rs"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Hotel Beschaving",
-      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Great Minds",
         "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Hotel Beschaving",
+      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Documents (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 254640,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "De Avonturen...",
+        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+      },
+      "artists": [
+        {
+          "name": "Extince",
+          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Spraakwater Lest De Dorst!",
+      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1151,18 +1167,42 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Avonturen...",
-        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
       "artists": [
         {
-          "name": "Extince",
-          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
         }
       ],
-      "duration_ms": 203609,
-      "name": "Spraakwater Lest De Dorst!",
-      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
+      "duration_ms": 242040,
+      "name": "De Flexte",
+      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Mystery Repeats",
+        "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
+      },
+      "artists": [
+        {
+          "name": "Pete Philly & Perquisite",
+          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        },
+        {
+          "name": "Perquisite",
+          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1211,46 +1251,6 @@
       "duration_ms": 275093,
       "name": "Geef 8 - Remix",
       "url": "https://open.spotify.com/track/7EGDiKgluq7D8DVpnTEy7F"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "De Flexte",
-      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Mystery Repeats",
-        "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
-      },
-      "artists": [
-        {
-          "name": "Pete Philly & Perquisite",
-          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        },
-        {
-          "name": "Perquisite",
-          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL"
     },
     {
       "added_at": "2024-09-09 11:56:35",

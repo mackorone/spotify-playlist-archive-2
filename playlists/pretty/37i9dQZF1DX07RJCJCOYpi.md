@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Gordo & Reinier Zonneveld
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808,042 likes - 112 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,807,799 likes - 112 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

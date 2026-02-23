@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Bacilos & Gian Marco
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,724 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,740 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 22 | [Cuaderno \- La Salsa Version](https://open.spotify.com/track/13QlOinyZm0IltZ49QKmgg) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Cuaderno \(La Salsa Version\)](https://open.spotify.com/album/3zPT86PtR4WdMv34MtDjMs) | 3:33 |
 | 23 | [Me Gustas Tú](https://open.spotify.com/track/13jW9NUCLHoGYRIKVcZsxZ) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [César Vega](https://open.spotify.com/artist/3qBuLbtqEm7MlNmYR8nD09) | [Me Gustas Tú](https://open.spotify.com/album/1PMMYEhnVMHgPrMxynNAQL) | 6:02 |
 | 24 | [Se Nos Rompió el Amor](https://open.spotify.com/track/0MamEHcyVl03WXvhFWB2vm) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Se Nos Rompió el Amor](https://open.spotify.com/album/3epjm8jzHbSNHA0XbtU1MV) | 3:36 |
-| 25 | [Hoy \(En Vivo Estadio Vélez\)](https://open.spotify.com/track/0GFplxYYPzQAJcWyQoB4CJ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [The La Planta](https://open.spotify.com/artist/2ow1A1ZCnpiwRdpIaBgc3Z), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Hoy \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/4pLlT2C62I1JOVWqN3uxNH) | 3:42 |
+| 25 | [Hoy \(En Vivo Estadio Vélez\)](https://open.spotify.com/track/0GFplxYYPzQAJcWyQoB4CJ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Hoy \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/4pLlT2C62I1JOVWqN3uxNH) | 3:42 |
 | 26 | [El Embrujo](https://open.spotify.com/track/0EtXGHkMlKvaKrouZm2W32) | [La Abuela Cumbiambera](https://open.spotify.com/artist/7BDbwx69aGXd17oN7syHzb) | [El Embrujo](https://open.spotify.com/album/0ZjOUKxkd3X52csZ9EvLcR) | 4:00 |
 | 27 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
 | 28 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |

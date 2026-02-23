@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 159668,
+  "num_followers": 159663,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Sjelen",
         "url": "https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 168930,
       "name": "Sjelen",
       "url": "https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "Gro Harlem Brundtland",
+        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 168390,
+      "name": "Gro Harlem Brundtland",
+      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "Heim te st\u00e5vo",
         "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 177909,
       "name": "Heavy Hearts",
       "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "Gro Harlem Brundtland",
-        "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 168390,
-      "name": "Gro Harlem Brundtland",
-      "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "Rosary",
+        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 142219,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -683,6 +699,22 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "THEO",
+        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 147018,
+      "name": "THEO",
+      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "Hjemme",
         "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
       },
@@ -695,22 +727,6 @@
       "duration_ms": 236619,
       "name": "Hjemme",
       "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "jeg holder pusten til du drar",
-        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "jeg holder pusten til du drar",
-      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -763,6 +779,22 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "jeg holder pusten til du drar",
+        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "jeg holder pusten til du drar",
+      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -803,22 +835,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Milk and Honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "Milk and Honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Delt i to",
         "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Rosary",
-        "url": "https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W"
+        "name": "Milk and Honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
       "artists": [
         {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 142219,
-      "name": "Rosary",
-      "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
+      "duration_ms": 210807,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -903,22 +919,6 @@
       "duration_ms": 201260,
       "name": "Forever Young (feat. May)",
       "url": "https://open.spotify.com/track/1Kf59Rq6P8zUVjH8PbLBot"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "THEO",
-        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 147018,
-      "name": "THEO",
-      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
       },
       "artists": [
         {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
         }
       ],
-      "duration_ms": 187869,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
+        "name": "Jeg vil ikke st\u00e5 i ro lenger",
+        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
         "name": "Den Jeg Vil For Deg",
         "url": "https://open.spotify.com/album/6BfpfWSdctCqhvX7OMdzv5"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 183000,
       "name": "Den Jeg Vil For Deg",
       "url": "https://open.spotify.com/track/6buuay8KIO39oyykLOovoR"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "Jeg vil ikke st\u00e5 i ro lenger",
-        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
     },
     {
       "added_at": "2026-02-19 23:00:46",

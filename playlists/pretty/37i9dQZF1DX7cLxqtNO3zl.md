@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,824 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,827 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 31 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 |
 | 32 | [Wak Wak](https://open.spotify.com/track/4OxGLH7f7DZzkUGXFSMd8y) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Wak Wak](https://open.spotify.com/album/49nPb7VBPJ83NWIkXUp3SM) | 3:07 |
 | 33 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 |
-| 34 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
-| 35 | [Shukran Allah \(From "Kurbaan"\)](https://open.spotify.com/track/2NLV2sSMKbHYyqezZiqXj0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Sonu Nigam: Best of Me](https://open.spotify.com/album/6t6xffp18j87wZRLXOwHa7) | 4:50 |
+| 34 | [Shukran Allah \(From "Kurbaan"\)](https://open.spotify.com/track/2NLV2sSMKbHYyqezZiqXj0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Sonu Nigam: Best of Me](https://open.spotify.com/album/6t6xffp18j87wZRLXOwHa7) | 4:50 |
+| 35 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
 | 36 | [YA HABIBI](https://open.spotify.com/track/2Tp6ANSbloxbty2DR0uws7) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Abhishek Talented](https://open.spotify.com/artist/5D10pAEJDqDAseh6iZj5Mj) | [YA HABIBI](https://open.spotify.com/album/1xpPQ3iwkBuBGQNbRalt5Q) | 3:47 |
 | 37 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 |
 | 38 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |

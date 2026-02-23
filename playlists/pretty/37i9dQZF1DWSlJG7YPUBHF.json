@@ -1,6 +1,6 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1570190,
+  "num_followers": 1570320,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Passion And Warfare",
-        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
-      },
-      "artists": [
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224600,
       "name": "I'm the One - 2015 Remaster",
       "url": "https://open.spotify.com/track/2xS1lC45sjj60M1eeRsOUp"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Passion And Warfare",
+        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
     },
     {
       "added_at": "2021-12-13 15:23:11",

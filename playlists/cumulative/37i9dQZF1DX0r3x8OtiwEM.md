@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-769 songs - 3 day 0 hr 9 min
+770 songs - 3 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Arena](https://open.spotify.com/track/76CKJfYgZ17WZn6HQHszxT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Polytone](https://open.spotify.com/album/0LSCZqG1dAwWKeBqDvmiTh) | 6:15 | 2020-02-29 | 2021-10-14 |
 | [Articulation](https://open.spotify.com/track/1yVxLul2a4s6icKnMJsb93) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/5gI4vXb0TDc2vW0VVZIELj) | 6:30 | 2020-06-12 | 2021-05-28 |
 | [As We Roll](https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [As We Roll](https://open.spotify.com/album/4L6AsmCj0aKipkcfA4Ug1d) | 6:52 | 2021-12-17 | 2022-07-28 |
-| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 |  |
+| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 | 2026-02-23 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-27 | 2024-06-22 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06\* | 2019-12-07 |
 | [Assaya \- Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06\* | 2019-08-15 |
@@ -634,6 +634,7 @@
 | [Synthetic Blues](https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Synthetic Blues](https://open.spotify.com/album/2vIDyBeyfo1obTIkaXTIE0) | 3:28 | 2020-10-10 | 2022-11-12 |
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |
+| [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-20 |  |
 | [Take My Hand](https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Take My Hand](https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM) | 6:23 | 2020-01-01 | 2020-06-13 |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-18 |  |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-30 | 2023-04-04 |

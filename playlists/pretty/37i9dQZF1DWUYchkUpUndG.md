@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Yinka Okeleye
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,068 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 15 | [Pull Me a Little Closer \(Prayer Chant\)](https://open.spotify.com/track/4DyT891QGMoE0uusDknLYC) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Pull Me a Little Closer \(Prayer Chant\)](https://open.spotify.com/album/5lZofeqJscYMYvROwqMSgX) | 7:53 |
 | 16 | [Goodness and Mercy \(feat\. Prinx Emmanuel\)](https://open.spotify.com/track/33qoaEonJiKpkqs56HZvH7) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Goodness and Mercy \(feat\. Prinx Emmanuel\)](https://open.spotify.com/album/5Xt7ZCLibw89QckjyZYx1p) | 3:31 |
 | 17 | [Onumo](https://open.spotify.com/track/3yQwW4ZnnLoeUBqindWiAc) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Onumo](https://open.spotify.com/album/6GMKhzj32Ro13lHIcPCsdM) | 2:40 |
-| 18 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
+| 18 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs), [Rudoson](https://open.spotify.com/artist/5Fy5Bk5iT1L2FkrIHRLdiS), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
 | 19 | [Miracle Walking \- Live](https://open.spotify.com/track/3ChV9SY5hdcNOAbvwVBUGs) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Live\)](https://open.spotify.com/album/536KgvRn6R6OMQoK3Z4DCq) | 9:06 |
 | 20 | [Only Human](https://open.spotify.com/track/1wo5KXVinDwmiYjNbnR9Zz) | [Tdooooo](https://open.spotify.com/artist/0JePZ1mbYZS6koCzQGphiI) | [Only Human](https://open.spotify.com/album/3jhcjfORi7cqNf3E6izq2x) | 2:58 |
 | 21 | [Water](https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Water](https://open.spotify.com/album/6AWWQnjfpWdbCTbS0N76T3) | 2:54 |

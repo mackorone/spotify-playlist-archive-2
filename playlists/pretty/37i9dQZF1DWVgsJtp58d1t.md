@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DU\_NJN\-mZjv/">Wale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,825 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,963 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

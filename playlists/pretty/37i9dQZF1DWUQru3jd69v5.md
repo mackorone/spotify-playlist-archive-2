@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Kuremino in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,585 likes - 74 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,582 likes - 74 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 28 | [Tic](https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tic](https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD) | 2:17 |
 | 29 | [FLIP FLOP](https://open.spotify.com/track/65HCij9McdqrHcBn0Z3kMP) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [FLIP FLOP](https://open.spotify.com/album/2wVn148HhuZz6fSwX6CDdi) | 2:28 |
 | 30 | [Affari di Famiglia](https://open.spotify.com/track/4asfq8On9n52IARlPE7p7f) | [Pocho](https://open.spotify.com/artist/6Ib960PxdWSXy8x0xAdJTG) | [Affari di Famiglia](https://open.spotify.com/album/4yBHx4se3rJmBp2UZxvfgT) | 1:53 |
-| 31 | [AMERICA DEI BIANCHI](https://open.spotify.com/track/72TFR1fIq3TE3oRcJEUCtF) | [Kay Carter](https://open.spotify.com/artist/2BNwQheYZuwzWMDTzLz8Qn), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [Dj Douglas](https://open.spotify.com/artist/5spCuarlUdgl3gGMd2JvA4) | [AMERICA DEI BIANCHI](https://open.spotify.com/album/5xrsH2TscDxGHdf8JBLWFX) | 2:23 |
+| 31 | [AMERICA DEI BIANCHI](https://open.spotify.com/track/72TFR1fIq3TE3oRcJEUCtF) | [Kay Carter](https://open.spotify.com/artist/2BNwQheYZuwzWMDTzLz8Qn), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [DJ Douglas](https://open.spotify.com/artist/1Y3NNbcFAw3RnpVg9qB0tk) | [AMERICA DEI BIANCHI](https://open.spotify.com/album/5xrsH2TscDxGHdf8JBLWFX) | 2:23 |
 | 32 | [UP UP](https://open.spotify.com/track/2OIOuCOrPDh136YxHvkvfn) | [29giulio](https://open.spotify.com/artist/58rXDdI5AZmDWPB1CJALzD), [Affanno.](https://open.spotify.com/artist/7fsb3rxBqJ8yOfQPkR9k1s), [Kai](https://open.spotify.com/artist/7IPw9t8Yi0jMX05je0WLGo), [eyoriky](https://open.spotify.com/artist/2OAPYmxFLkuQgxowR0iz0v) | [UP UP](https://open.spotify.com/album/5AxiM29ltyLwnolyyHv5og) | 2:35 |
 | 33 | [SOSTANZE](https://open.spotify.com/track/4SAZdJ9ZIv5kMpMb8fCNLz) | [Myssio](https://open.spotify.com/artist/5nGZMqM6hdfHZ6xfgJ6n5k) | [SOSTANZE](https://open.spotify.com/album/319Hl5Yp62mc6kcivyBm8o) | 2:00 |
 | 34 | [100 GRAMMI \(feat\. Lubi\)](https://open.spotify.com/track/201nf1PFAXvdWO78M7VzUg) | [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [CITOFONO](https://open.spotify.com/album/6ZQYaJ4H1a4WoW9ZuTHl0H) | 1:52 |

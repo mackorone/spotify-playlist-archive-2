@@ -4,7 +4,7 @@
 
 > New music from marguerite, PLK x Theodora, IBE and more...
 
-8,321 songs - 18 day 6 hr 39 min
+8,322 songs - 18 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1403,6 +1403,7 @@
 | [Claim To Fame](https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [Claim To Fame](https://open.spotify.com/album/0aGdrW2ldqPgXanjk3jBsx) | 2:30 | 2024-07-26 | 2024-08-02 |
 | [Clams Casino](https://open.spotify.com/track/552CHpr378s87EoEt92aYv) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Destroyer](https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ) | 3:26 | 2024-07-11 | 2024-07-19 |
 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-12 | 2026-02-20 |
+| [Clean and Fresh](https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Clean and Fresh](https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1) | 2:18 | 2026-02-19 |  |
 | [Clear My Mind](https://open.spotify.com/track/5BdAI0MYzOBccPFl4a3PRl) | [Simpleton](https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z) | [Clear My Mind](https://open.spotify.com/album/3SjcFaBoSUMcwKvKXXyRFD) | 2:40 | 2024-11-21 | 2024-11-29 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-12 | 2024-09-20 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-08-29 | 2024-09-06 |

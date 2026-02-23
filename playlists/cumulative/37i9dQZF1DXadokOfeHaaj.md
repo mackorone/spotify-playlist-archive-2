@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-404 songs - 1 day 1 hr 17 min
+405 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-24 |  |
 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 | 2025-03-14 |  |
 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 | 2025-10-03 |  |
+| [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 | 2026-02-13 |  |
 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 | 2025-11-07 |  |
 | [Space Between Us](https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Space Between Us](https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9) | 3:45 | 2025-01-31 | 2025-05-01 |
 | [SPEAKING OUT LOUD](https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [SPEAKING OUT LOUD](https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o) | 2:53 | 2024-02-02 | 2024-07-04 |
@@ -392,7 +393,7 @@
 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-24 | 2025-11-28 |
 | [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 | 2024-03-22 | 2025-01-17 |
 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 | 2024-05-10 | 2025-02-14 |
-| [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 |  |
+| [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 | 2026-02-23 |
 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 | 2024-09-19 | 2025-06-27 |
 | [Waiting](https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Losing Balance](https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN) | 2:48 | 2024-03-22 | 2025-02-14 |
 | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 | 2025-05-29 | 2025-10-04 |

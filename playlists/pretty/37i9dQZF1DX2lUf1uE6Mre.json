@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Amo, Aymen",
-  "num_followers": 914955,
+  "num_followers": 914943,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 141866,
       "name": "FUXWAVE",
       "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -855,18 +855,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Bilder gel\u00f6scht",
-        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE"
       },
       "artists": [
         {
-          "name": "Rasa",
-          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
         }
       ],
-      "duration_ms": 128208,
-      "name": "Bilder gel\u00f6scht",
-      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
+      "duration_ms": 145652,
+      "name": "OCEAN",
+      "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -891,22 +895,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE"
+        "name": "Bilder gel\u00f6scht",
+        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
         }
       ],
-      "duration_ms": 145652,
-      "name": "OCEAN",
-      "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+      "duration_ms": 128208,
+      "name": "Bilder gel\u00f6scht",
+      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Unlock",
-        "url": "https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla"
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1063,38 +1059,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "SCARFACE",
-        "url": "https://open.spotify.com/album/3abCbGF8AUx1mXTQUhX5Sz"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 155092,
-      "name": "SCARFACE",
-      "url": "https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "ANNABELLE",
         "url": "https://open.spotify.com/album/52lWG2YSAnNP5i0TQqYYnC"
       },
@@ -1111,6 +1075,42 @@
       "duration_ms": 138000,
       "name": "ANNABELLE",
       "url": "https://open.spotify.com/track/7dPNIrG8ThsUmwpGEawD2h"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Unlock",
+        "url": "https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "Unendlich",
+        "url": "https://open.spotify.com/album/2jJldFA63eXdzqmrm1FIRy"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 132475,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6nWCMoUxbjvtdLa4ubl5vd"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Plug",
-        "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
+        "name": "SCARFACE",
+        "url": "https://open.spotify.com/album/3abCbGF8AUx1mXTQUhX5Sz"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        },
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Plug",
-      "url": "https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl"
+      "duration_ms": 155092,
+      "name": "SCARFACE",
+      "url": "https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Push Push",
-        "url": "https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj"
+        "name": "Plug",
+        "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
       },
       "artists": [
         {
-          "name": "Soyhan",
-          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 154122,
-      "name": "Push Push",
-      "url": "https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF"
+      "duration_ms": 175240,
+      "name": "Plug",
+      "url": "https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Unendlich",
-        "url": "https://open.spotify.com/album/2jJldFA63eXdzqmrm1FIRy"
+        "name": "Push Push",
+        "url": "https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+          "name": "Soyhan",
+          "url": "https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa"
         }
       ],
-      "duration_ms": 132475,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6nWCMoUxbjvtdLa4ubl5vd"
+      "duration_ms": 154122,
+      "name": "Push Push",
+      "url": "https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Day N Nite",
+        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 143578,
+      "name": "Day N Nite",
+      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "DON'T JUDGE",
         "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 166018,
       "name": "SOMMERNACHT 2",
       "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Day N Nite",
-        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 143578,
-      "name": "Day N Nite",
-      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "DVD",
+        "url": "https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 138582,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "GTA WEDDING",
         "url": "https://open.spotify.com/album/1uTOpO3Wfr4KXFvKQKi9ZE"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "DVD",
-        "url": "https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa"
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP"
       },
       "artists": [
         {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
         }
       ],
-      "duration_ms": 138582,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
+      "duration_ms": 151986,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1431,22 +1447,6 @@
       "duration_ms": 170773,
       "name": "Drama",
       "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "MAYBACH TRUCK",
-        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
-      },
-      "artists": [
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 108569,
-      "name": "MAYBACH TRUCK",
-      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
         "name": "Diadem",
         "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 164937,
       "name": "Diadem",
       "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
+        "name": "MAYBACH TRUCK",
+        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 108569,
+      "name": "MAYBACH TRUCK",
+      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
+        "name": "Sie ist",
+        "url": "https://open.spotify.com/album/55LftgNaBrImsVkBQZLUsG"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 144359,
+      "name": "Sie ist",
+      "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
+    },
+    {
+      "added_at": "2026-02-12 23:00:28",
+      "album": {
         "name": "LAYLA WA LAYLA",
         "url": "https://open.spotify.com/album/7jB1urmBEU0thqfFiPzH0H"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 150000,
       "name": "DRECKIGE DOLLARS",
       "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
-    },
-    {
-      "added_at": "2026-02-12 23:00:28",
-      "album": {
-        "name": "Sie ist",
-        "url": "https://open.spotify.com/album/55LftgNaBrImsVkBQZLUsG"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "Sie ist",
-      "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
     },
     {
       "added_at": "2026-02-12 23:00:28",
@@ -1867,26 +1867,18 @@
     {
       "added_at": "2026-02-12 23:00:28",
       "album": {
-        "name": "Mixed Feelings (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5c3R42LrfZhbFc4UfYAORE"
+        "name": "Late Night Call",
+        "url": "https://open.spotify.com/album/6PAVsTMJ6JxwvKt3v9YfRs"
       },
       "artists": [
         {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Azucar",
-      "url": "https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb"
+      "duration_ms": 138074,
+      "name": "Late Night Call",
+      "url": "https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh"
     }
   ],
   "unique_name": "Shisha Club",

@@ -4,7 +4,7 @@
 
 > marguerite, Dermot Kennedy et PLK x Theodora au top des nouveautés de la semaine !
 
-8,262 songs - 17 day 20 hr 14 min
+8,263 songs - 17 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1425,6 +1425,7 @@
 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-12 | 2026-02-20 |
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [Clean](https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Clean](https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50) | 3:31 | 2025-06-19 | 2025-06-27 |
+| [Clean and Fresh](https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Clean and Fresh](https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1) | 2:18 | 2026-02-19 |  |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-27 | 2025-04-04 |
 | [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 | 2024-05-23 | 2024-06-01 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-12 | 2024-09-20 |

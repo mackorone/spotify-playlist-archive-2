@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,096 songs - 9 day 1 hr 47 min
+4,098 songs - 9 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Clickbait heartbeat \(another\)](https://open.spotify.com/track/0XJtyxMo53e3euXirTc1qZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 3:04 | 2025-09-17 |  |
 | [Clickbait Heartbreak](https://open.spotify.com/track/5dvpLicZuxqKQaTTzaC33v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits](https://open.spotify.com/album/7n78DBhkS59rCEEcfBxF54) | 2:25 | 2025-09-17 |  |
 | [Clickbait Heartbreak \(another\)](https://open.spotify.com/track/73RXHf3BEFKF4RybJParIm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits](https://open.spotify.com/album/7n78DBhkS59rCEEcfBxF54) | 2:25 | 2025-09-17 |  |
+| [Clock Is Laughing in My Face](https://open.spotify.com/track/7ozE7cT5jOyriN9XZiI3CJ) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [Clock Is Laughing in My Face](https://open.spotify.com/album/0PnnjCxstuC2LNpeeEONGO) | 2:56 | 2026-02-22 |  |
 | [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 | 2025-11-29 |  |
 | [CLOUDY](https://open.spotify.com/track/7npfR1hhJfS5W91shSFCaJ) | [Upstates](https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [CLOUDY](https://open.spotify.com/album/5cZyzdhktFmNHLOhl3hpVI) | 2:41 | 2025-05-16 |  |
 | [Clout Chase](https://open.spotify.com/track/6FhTgjWJLCvN5jpkArnUvL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:21 | 2025-09-17 |  |
@@ -865,6 +866,7 @@
 | [Del Otro Lado](https://open.spotify.com/track/1sXtzJyluZo3Gu9Tf9YbxI) | [VKT´s](https://open.spotify.com/artist/1qOiDXpZ89u1u9GqenW4Tf) | [Del Otro Lado](https://open.spotify.com/album/3rVlNTxDyv4VgSFbiRe6kw) | 4:03 | 2025-07-03 |  |
 | [Del Vento e del Mare](https://open.spotify.com/track/6MYlXzQPjNJnbKq38sghjO) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/3xp0BaxuhpqvLlCaJpcCAc) | 3:32 | 2025-07-16 |  |
 | [Deleted Scene](https://open.spotify.com/track/6vwhJXOIw18NgLGYHeQxJp) | [Rustwire](https://open.spotify.com/artist/1otZhLsBCp9q7qIB00BKfV) | [Fangs Out](https://open.spotify.com/album/0OZFuVbxAS9ZiWudjyT8aL) | 3:38 | 2025-09-06 |  |
+| [Deli Veli](https://open.spotify.com/track/4tgkeWcibAJ4Wz2SvFvQdi) | [Plov](https://open.spotify.com/artist/0sqYejZghM9zoJSsKyF3BT) | [Deli Veli](https://open.spotify.com/album/7zsh1Q8LY7DGR5oRbq94AO) | 4:06 | 2026-02-22 |  |
 | [Delirio](https://open.spotify.com/track/0PaTKb73vDPXpFlYYIJiZm) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sueños que mueren escondidos](https://open.spotify.com/album/2nhHcXG7FRWJ4X1gcpKSoe) | 4:47 | 2025-10-13 |  |
 | [Delulu](https://open.spotify.com/track/7JXLbnNoTbWRMxrry6WEqJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:11 | 2025-08-28 |  |
 | [Dendy](https://open.spotify.com/track/0tKRl4N2mAtvfRZ5Q1adsO) | [CORPORATION 89](https://open.spotify.com/artist/3mIIbHBmhpLhasfYyyYNM7) | [Dendy](https://open.spotify.com/album/5YJSoK1avIQXP1ypP1oAaH) | 3:18 | 2025-06-05 |  |

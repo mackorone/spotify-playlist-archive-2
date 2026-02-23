@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-191 songs - 1 day 22 hr 21 min
+192 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
 | [Bajrang Baan](https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Bajrang Baan](https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre) | 5:37 | 2026-01-22 |  |
-| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 |  |
+| [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 | 2026-02-23 |
 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 | 2024-12-30 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 |  |
@@ -67,6 +67,7 @@
 | [Krishna](https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:50 | 2023-05-23 | 2023-07-19 |
 | [Krishna Chants](https://open.spotify.com/track/2eAQbiQFn6OZ5TxNOC791s) | [Utkarsh Sharma](https://open.spotify.com/artist/3rVL53vjNj2z3QVZLg8mOE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Krishna Chants](https://open.spotify.com/album/4Xxi2o5Z8g2On0XrNQcSyp) | 3:57 | 2023-07-18 | 2023-11-08 |
 | [Krishna Mahamantra](https://open.spotify.com/track/6HaQSjTVMgoP8su4Pe7jOo) | [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1) | [Krishna Mahamantra](https://open.spotify.com/album/1355u11U7qgSL4pRBEVhKF) | 5:29 | 2022-01-24 | 2023-07-06 |
+| [Krishnaya Vasudevaya \- Meditative Chants](https://open.spotify.com/track/4cZhdhG5u5V5UOEK5NQqFj) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl), [Vickky Agarwal](https://open.spotify.com/artist/0muWHzF4z1mfUtJRYMIfBH) | [Krishnaya Vasudevaya \- Meditative Chants](https://open.spotify.com/album/2nCUrvFSfANmGTAzNdckTI) | 4:40 | 2026-02-19 |  |
 | [Lakshmi Kuber Mantra for Wealth](https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH) | [Adarsh Kumar](https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe) | [Lakshmi Kuber Mantra for Wealth \(Original\)](https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5) | 36:33 | 2022-01-24 | 2022-07-29 |
 | [Lam Chakra Mantra To Let Go Of Fears](https://open.spotify.com/track/6dxz5b7hSl4SG3Xyynrqtc) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:01 | 2025-04-07 | 2025-06-12 |
 | [Laxmi Gayatri Mantra](https://open.spotify.com/track/4Vxo5mQxdcP47UeZixn7CF) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Laxmi Gayatri Mantra](https://open.spotify.com/album/4yhes5SPCtpMOuBba2ZyQA) | 3:21 | 2025-11-03 | 2026-01-15 |

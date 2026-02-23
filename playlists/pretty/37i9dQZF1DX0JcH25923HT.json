@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 575552,
+  "num_followers": 575770,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1815,38 +1815,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
-        "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 236965,
-      "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
-      "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Mia (Remix)",
         "url": "https://open.spotify.com/album/5KFoHD3Tby2JyPRZSCVZiC"
       },
@@ -1891,6 +1859,38 @@
       "duration_ms": 422211,
       "name": "La Mia - Remix",
       "url": "https://open.spotify.com/track/59GJkQNSKKA7km23fYj7dW"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
+        "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 236965,
+      "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
+      "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
     },
     {
       "added_at": "2024-03-08 16:14:30",

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77870,
+  "num_followers": 77862,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
-        "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
     },
     {
       "added_at": "2025-09-17 15:00:09",

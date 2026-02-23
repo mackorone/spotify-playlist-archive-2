@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 119273,
+  "num_followers": 119309,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        },
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Down to the Moon",
         "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 147240,
       "name": "Down to the Moon",
       "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        },
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
+      },
+      "artists": [
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Rain Forest",
+      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
         "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 440440,
       "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
       "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
-      },
-      "artists": [
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Rain Forest",
-      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+      },
+      "artists": [
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Suite Bergamasque: Clair de Lune, No. 3",
+      "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "White Winds (Seeker's Journey)",
         "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 217933,
       "name": "Flight Feet and Root Hands",
       "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
-      },
-      "artists": [
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Suite Bergamasque: Clair de Lune, No. 3",
-      "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -411,6 +411,30 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
+      },
+      "artists": [
+        {
+          "name": "John Abercrombie",
+          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
+        },
+        {
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 717706,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Caverna Magica (...Under The Tree - In The Cave...)",
         "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 320493,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
-      },
-      "artists": [
-        {
-          "name": "John Abercrombie",
-          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
-        },
-        {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 717706,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 382026,
-      "name": "Zen Garden of the Soul Part III - IV",
-      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Best Of Tim Weisberg: Smile!",
         "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209973,
       "name": "Dion Blue",
       "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 382026,
+      "name": "Zen Garden of the Soul Part III - IV",
+      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Formentera Sunset Clouds",
-      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 348880,
       "name": "Arrival - Remastered",
       "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Formentera Sunset Clouds",
+      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 254626,
       "name": "Boreale - Remastered",
       "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Missa Gaia - Earth Mass",
         "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 114893,
       "name": "Stained-Glass Morning",
       "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2023-08-18 14:02:54",

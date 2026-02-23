@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Michelle Maciel 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,777 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,789 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 19 | [Así Fue \- En Vivo](https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Así Fue \(En Vivo\)](https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8) | 5:36 |
 | 20 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |
 | 21 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
-| 22 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 |
-| 23 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
+| 22 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
+| 23 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 |
 | 24 | [Bien, ¿y tú?](https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Bien, ¿y tú?](https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg) | 3:00 |
 | 25 | [Amarte A La Medida](https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Amarte A La Medida](https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4) | 3:16 |
 | 26 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 74 | [La Desconocida](https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Nadie Me Escribe La Vida](https://open.spotify.com/album/100q2avXshpAXbj9djyoaz) | 2:54 |
 | 75 | [Mi gran país](https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7) | [Jose Julian](https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87) | [Mi gran país](https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5) | 2:57 |
 | 76 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |
-| 77 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 |
-| 78 | [Palabras Tristes](https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Palabras Tristes](https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b) | 3:36 |
+| 77 | [Palabras Tristes](https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Palabras Tristes](https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b) | 3:36 |
+| 78 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 |
 | 79 | [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 |
 | 80 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 81 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |

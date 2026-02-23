@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,765 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,802 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 68 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |
 | 69 | [Guzaarishein \(From "Parwarish"\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/1kKnxDBA03jTlAuZvkIB8r) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Guzaarishein \(From "Parwarish"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4qYuP3dYamINikxhehHa92) | 3:31 |
 | 70 | [Kya sach ho tum?](https://open.spotify.com/track/7iQxWIYGzTkkLWlUscD4HP) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Kya sach ho tum?](https://open.spotify.com/album/0jQ4tYapUB62uhzoIEPE1n) | 3:30 |
-| 71 | [Pehli Dafa](https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Pehli Dafa](https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt) | 4:58 |
+| 71 | [Pehli Dafa](https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Shakeel Sohail](https://open.spotify.com/artist/50tVmZsA8fsA1Bo5VUcOcA) | [Pehli Dafa](https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt) | 4:58 |
 | 72 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 |
 | 73 | [Aaja We Mahiya](https://open.spotify.com/track/5MoJ3MVKGGf25LxrFoxDSK) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 |
 | 74 | [Mushk](https://open.spotify.com/track/2r83dnQ5g2gwF87Tph6AF9) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Mushk](https://open.spotify.com/album/0TqLMqmG2Gp3W6QhsCGQCJ) | 4:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 23284,
+  "num_followers": 23325,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-02-10 00:14:06",
       "album": {
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+      },
+      "artists": [
+        {
+          "name": "TESTSET",
+          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "Dry Action Pump",
+      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
+    },
+    {
+      "added_at": "2026-02-10 00:14:06",
+      "album": {
         "name": "Big Love (feat. Liset Alea)",
         "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-02-10 00:14:06",
       "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
-      },
-      "artists": [
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
-    },
-    {
-      "added_at": "2026-02-10 00:14:06",
-      "album": {
         "name": "Full Train / Light on the Hill",
         "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-02-10 00:14:06",
       "album": {
-        "name": "ALL HAZE",
-        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
       },
       "artists": [
         {
-          "name": "TESTSET",
-          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
         }
       ],
-      "duration_ms": 259400,
-      "name": "Dry Action Pump",
-      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
+      "duration_ms": 181011,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
     },
     {
       "added_at": "2026-02-10 00:14:06",

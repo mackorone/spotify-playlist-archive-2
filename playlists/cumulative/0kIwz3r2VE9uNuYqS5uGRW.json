@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Duele Perderte",
+        "url": "https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN"
+      },
+      "artists": [
+        {
+          "name": "Karlex Pitt",
+          "url": "https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194118,
+      "name": "Duele Perderte",
+      "url": "https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO"
+    },
+    {
+      "album": {
         "name": "Dumar Kuba",
         "url": "https://open.spotify.com/album/7dgtgmt05pFVqYgCIS6b5i"
       },

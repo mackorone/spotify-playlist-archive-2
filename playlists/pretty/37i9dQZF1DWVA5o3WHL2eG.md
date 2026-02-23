@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,859 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,853 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |
 | 9 | [Bitch \(feat\. Ikkimel\)](https://open.spotify.com/track/47SANiKPFr9ahY9rublsio) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Bitch \(feat\. Ikkimel\)](https://open.spotify.com/album/1pRTWtQ3KGQXFuzlI4oWrc) | 2:14 |
 | 10 | [Haus im Meer \(Intro\)](https://open.spotify.com/track/0jPvdBmAkaHUjKcZmNgVdX) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Haus im Meer \(Intro\)](https://open.spotify.com/album/2qRCEFQ8ouwfT8ZAGMvQ47) | 4:00 |
-| 11 | [Keine Tränen](https://open.spotify.com/track/5kfwWEbkxUR6HtmZJi09SH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keine Tränen](https://open.spotify.com/album/5jvbJiaiczzbdwYIZDyAHC) | 2:18 |
-| 12 | [Party nur für mich](https://open.spotify.com/track/4cUr4zVICnnqfh6TzfM81k) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Party nur für mich](https://open.spotify.com/album/2Xjy2Hk2Baz1kDOH3ZSsZt) | 2:37 |
+| 11 | [Party nur für mich](https://open.spotify.com/track/4cUr4zVICnnqfh6TzfM81k) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Party nur für mich](https://open.spotify.com/album/2Xjy2Hk2Baz1kDOH3ZSsZt) | 2:37 |
+| 12 | [Keine Tränen](https://open.spotify.com/track/5kfwWEbkxUR6HtmZJi09SH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keine Tränen](https://open.spotify.com/album/5jvbJiaiczzbdwYIZDyAHC) | 2:18 |
 | 13 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
 | 14 | [un beso](https://open.spotify.com/track/4Vbl3B0am2Bbp2FkKs9dNB) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [un beso](https://open.spotify.com/album/1dimKyFHU3QqO0XtxOkq7q) | 2:18 |
 | 15 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
 | 29 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
 | 30 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
-| 31 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
-| 32 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
+| 31 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
+| 32 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
 | 33 | [2 wochen](https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [2 wochen](https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz) | 2:27 |
 | 34 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
 | 35 | [frieden](https://open.spotify.com/track/2SlpgnjraLCGUuxGlkplg2) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [wo ein herz bricht](https://open.spotify.com/album/5BmrppMudOMh2Q5AnCuNDh) | 3:07 |
 | 36 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
 | 37 | [Cajito \(No Balão\)](https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [Cajito \(No Balão\)](https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE) | 2:03 |
 | 38 | [Rocket Science](https://open.spotify.com/track/0HVYzk9wCPZodrTQQgBVIn) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin](https://open.spotify.com/album/5yKnZA8D8HlU1kmlbyiH8E) | 3:14 |
-| 39 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
-| 40 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
+| 39 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
+| 40 | [Outrun](https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Outrun](https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt) | 3:17 |
 | 41 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 |
 | 42 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |
 | 43 | [I Like You](https://open.spotify.com/track/3LyfEGL92ao68raLt00NcA) | [Nalan](https://open.spotify.com/artist/7igRCM0XNmC538zmo2tpQR) | [I Like You](https://open.spotify.com/album/2UkI58tJtQUAMmwQgWSw7d) | 1:59 |

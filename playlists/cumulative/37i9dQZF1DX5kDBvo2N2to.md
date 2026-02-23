@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-500 songs - 1 day 2 hr 31 min
+501 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-20 | 2025-08-22 |
 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 | 2025-11-13 |  |
 | [Fel](https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [YAKO](https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT) | 2:38 | 2025-10-30 |  |
-| [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 | 2025-10-30 |  |
+| [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 | 2025-10-30 | 2026-02-23 |
 | [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-22 | 2025-08-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 | 2024-12-22 |
@@ -351,6 +351,7 @@
 | [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 | 2024-09-13 | 2025-03-28 |
 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 | 2025-10-16 |  |
 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 | 2025-11-20 |  |
+| [Only When In Motion](https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Only When In Motion](https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB) | 4:16 | 2026-02-19 |  |
 | [Operator](https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Operator](https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh) | 3:03 | 2026-01-12 |  |
 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-25 | 2025-10-21 |
 | [Ord som lämnats kvar](https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Ord som lämnats kvar](https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji) | 6:35 | 2024-06-28 | 2024-08-30 |

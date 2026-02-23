@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 155434,
+  "num_followers": 155397,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "THE BOYZ Special Single 'Christmassy!'",
-        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Christmassy!",
-      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "NOI MAS",
         "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "THE BOYZ Special Single 'Christmassy!'",
+        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Christmassy!",
+      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "The Winter's Tale",
         "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Merry-Chri",
-        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 332666,
-      "name": "Merry-Chri",
-      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "The Road : Celebration - The 11th Album Vol.2",
         "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213280,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Merry-Chri",
+        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 332666,
+      "name": "Merry-Chri",
+      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+        "name": "PINK CHRISTMAS",
+        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
         }
       ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+      "duration_ms": 194866,
+      "name": "PINK CHRISTMAS",
+      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "PINK CHRISTMAS",
-        "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
       "artists": [
         {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 194866,
-      "name": "PINK CHRISTMAS",
-      "url": "https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb"
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
-      },
-      "artists": [
-        {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Christmas is Coming",
         "url": "https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 206520,
       "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "SATELLITE",
         "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 165486,
       "name": "SATELLITE",
       "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1463,22 +1463,6 @@
       "duration_ms": 280733,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Another Sad Love Song",
-        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 184772,
-      "name": "Let Me Know - Bonus Track",
-      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1519,6 +1503,22 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Another Sad Love Song",
+        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 184772,
+      "name": "Let Me Know - Bonus Track",
+      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "SECRET SANTA",
-        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "WE X MAS",
-      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "X-MAS TREE",
         "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 256653,
       "name": "X-MAS TREE",
       "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "SECRET SANTA",
+        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "WE X MAS",
+      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
     },
     {
       "added_at": "2026-01-20 05:01:24",

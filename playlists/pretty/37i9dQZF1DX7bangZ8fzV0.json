@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
-  "num_followers": 142303,
+  "num_followers": 142353,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Kyk",
-        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Kyk",
-      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Boer Ding",
         "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 212242,
       "name": "Boer Ding",
       "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Kyk",
+        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Kyk",
+      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -947,22 +947,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Winter In Die Kaap",
-        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Bella",
-          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 206271,
-      "name": "Winter In Die Kaap",
-      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -983,18 +979,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+        "name": "Winter In Die Kaap",
+        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
       },
       "artists": [
         {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        },
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+      "duration_ms": 206271,
+      "name": "Winter In Die Kaap",
+      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Die Piesangskille",
-        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "NIE M\u00d4RE NIE NOU",
         "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 158680,
       "name": "NIE M\u00d4RE NIE NOU",
       "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Die Piesangskille",
+        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 246438,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Meisie wat kan Vasdans",
-        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Meisie wat kan Vasdans",
-      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1179,6 +1163,22 @@
       "duration_ms": 182927,
       "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
       "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Wat Kan 'n Man Dan Doen",
-        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 164520,
-      "name": "Wat Kan 'n Man Dan Doen",
-      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "AVBOB Se Stoep",
         "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 208969,
       "name": "AVBOB Se Stoep",
       "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Wat Kan 'n Man Dan Doen",
+        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 164520,
+      "name": "Wat Kan 'n Man Dan Doen",
+      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Country Probeer",
-        "url": "https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 232153,
-      "name": "Country Probeer",
-      "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Kan 'N Man",
         "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169164,
       "name": "Kan 'N Man",
       "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Country Probeer",
+        "url": "https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 232153,
+      "name": "Country Probeer",
+      "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
     },
     {
       "added_at": "2026-01-15 22:00:30",

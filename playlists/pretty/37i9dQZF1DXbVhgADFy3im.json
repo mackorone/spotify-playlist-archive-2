@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1229631,
+  "num_followers": 1230287,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Paro",
-        "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        },
-        {
-          "name": "UNPLG'd",
-          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
-        }
-      ],
-      "duration_ms": 70400,
-      "name": "Paro",
-      "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
-    },
-    {
-      "added_at": "2026-02-13 04:39:15",
-      "album": {
         "name": "Samjhawan",
         "url": "https://open.spotify.com/album/6XgV61OBbr8gHlXdAQ89Sj"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 269184,
       "name": "Samjhawan",
       "url": "https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq"
+    },
+    {
+      "added_at": "2026-02-13 04:39:15",
+      "album": {
+        "name": "Paro",
+        "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "duration_ms": 70400,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -875,22 +875,18 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Barbaad (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
+        "name": "Khat",
+        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
       },
       "artists": [
         {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
         }
       ],
-      "duration_ms": 357127,
-      "name": "Barbaad (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
+      "duration_ms": 296222,
+      "name": "Khat",
+      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Khat",
-        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+        "name": "Barbaad (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },
       "artists": [
         {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         }
       ],
-      "duration_ms": 296222,
-      "name": "Khat",
-      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+      "duration_ms": 357127,
+      "name": "Barbaad (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
+        "name": "Everything Is Romantic",
+        "url": "https://open.spotify.com/album/6ZTlwCCHO88CwzKxXiotaS"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Club",
+          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Everything Is Romantic",
+      "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
+    },
+    {
+      "added_at": "2026-02-13 04:39:15",
+      "album": {
         "name": "Best of Romance: Atif Aslam",
         "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 311103,
       "name": "Aawaara Angaara",
       "url": "https://open.spotify.com/track/6flQ5XJKj5qIhpxSHOd3jC"
-    },
-    {
-      "added_at": "2026-02-13 04:39:15",
-      "album": {
-        "name": "Everything Is Romantic",
-        "url": "https://open.spotify.com/album/6ZTlwCCHO88CwzKxXiotaS"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Club",
-          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Everything Is Romantic",
-      "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
-    },
-    {
-      "added_at": "2026-02-13 04:39:15",
-      "album": {
         "name": "Aakh Ye Taalibaani",
         "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 172000,
       "name": "Aakh Ye Taalibaani",
       "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
+    },
+    {
+      "added_at": "2026-02-13 04:39:15",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Still Rollin",
-        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Beran)",
+        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
       },
       "artists": [
         {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+          "name": "Mitta Ror",
+          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
+        },
+        {
+          "name": "Swara Verma",
+          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
         }
       ],
-      "duration_ms": 183756,
-      "name": "Cheques",
-      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
+      "duration_ms": 196253,
+      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Beran",
+      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Beran)",
-        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
       },
       "artists": [
         {
-          "name": "Mitta Ror",
-          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
-        },
-        {
-          "name": "Swara Verma",
-          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Beran",
-      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
+      "duration_ms": 183756,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
       "added_at": "2026-02-13 04:39:15",
@@ -1619,30 +1619,18 @@
     {
       "added_at": "2026-02-13 04:39:15",
       "album": {
-        "name": "Malang Sajna",
-        "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
       },
       "artists": [
         {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         }
       ],
-      "duration_ms": 159108,
-      "name": "Malang Sajna",
-      "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     }
   ],
   "unique_name": "Trending Now India",

@@ -1,6 +1,6 @@
 {
   "description": "El precioso sonido de la guitarra flamenca, perfecto para evadirte.",
-  "num_followers": 48100,
+  "num_followers": 48126,
   "original_name": "Guitarra Flamenca Relajante",
   "owner": {
     "name": "Spotify",
@@ -568,20 +568,12 @@
       },
       "artists": [
         {
+          "name": "Ralf Neumann",
+          "url": "https://open.spotify.com/artist/2C7qTTZjjgdgFfgYm3Oyke"
+        },
+        {
           "name": "Rafa El Tachuela",
           "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
-        },
-        {
-          "name": "Thomas Koch",
-          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
-        },
-        {
-          "name": "Topo Gioia",
-          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
-        },
-        {
-          "name": "Khader Ahmad",
-          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
         }
       ],
       "duration_ms": 300653,

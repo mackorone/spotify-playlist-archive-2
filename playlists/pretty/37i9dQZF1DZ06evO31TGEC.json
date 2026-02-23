@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53915,
+  "num_followers": 53923,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAABmcoUTME+lAFEmoVJxte63",
+  "snapshot_id": "aZj1gAAAAACcC2Egr+dpsCSjBvY5txBq",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "Mi Todo",
-      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "Mi Todo",
+      "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Regalo del Cielo",
-      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 190133,
       "name": "De Cristal O De Papel",
       "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Regalo del Cielo",
+      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
     },
     {
       "added_at": null,

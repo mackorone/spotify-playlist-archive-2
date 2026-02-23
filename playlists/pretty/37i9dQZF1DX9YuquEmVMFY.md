@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > \[DETOX Asia Tour 2026 in Korea\] 02.27\-28 @ 잠실실내체육관
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,541 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,558 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

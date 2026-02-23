@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 594327,
+  "num_followers": 594402,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "There Was A Time",
         "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
       },
@@ -251,6 +271,26 @@
       "duration_ms": 307826,
       "name": "There Was A Time",
       "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Freetown",
+        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        },
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        }
+      ],
+      "duration_ms": 389781,
+      "name": "Freetown",
+      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -295,26 +335,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Pressure (Indira Paganotto Remix)",
         "url": "https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf"
       },
@@ -335,50 +355,6 @@
       "duration_ms": 269424,
       "name": "Pressure - Indira Paganotto Remix",
       "url": "https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Here Is Your Song",
-        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 340500,
-      "name": "Here Is Your Song",
-      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Freetown",
-        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        },
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        }
-      ],
-      "duration_ms": 389781,
-      "name": "Freetown",
-      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -411,26 +387,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Ameno",
-        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
-      },
-      "artists": [
-        {
-          "name": "I.GOT.U",
-          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
-        },
-        {
-          "name": "RAVE-N",
-          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
-        }
-      ],
-      "duration_ms": 156827,
-      "name": "Ameno",
-      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Octopus",
         "url": "https://open.spotify.com/album/0aOq7th8Ua8R3wW5qFjJRY"
       },
@@ -455,6 +411,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
+      },
+      "artists": [
+        {
+          "name": "I.GOT.U",
+          "url": "https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ"
+        },
+        {
+          "name": "RAVE-N",
+          "url": "https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe"
+        }
+      ],
+      "duration_ms": 156827,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Lux",
         "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
       },
@@ -471,22 +447,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+        "name": "Here Is Your Song",
+        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
       },
       "artists": [
         {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
         },
         {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+      "duration_ms": 340500,
+      "name": "Here Is Your Song",
+      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -531,6 +511,26 @@
       "duration_ms": 308785,
       "name": "Sympathize",
       "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "duration_ms": 149690,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 267107,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU"
-      },
-      "artists": [
-        {
-          "name": "AVAO",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
-        }
-      ],
-      "duration_ms": 149690,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 417391,
       "name": "Elsewhere - Original mix",
       "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "IM25",
-        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Bliss",
-          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
-        }
-      ],
-      "duration_ms": 401167,
-      "name": "Boss La Rosh",
-      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 328937,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "IM25",
+        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
+        }
+      ],
+      "duration_ms": 401167,
+      "name": "Boss La Rosh",
+      "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "TOX1C",
+          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "duration_ms": 286956,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Nova Sinfonia",
         "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
       },
@@ -1151,50 +1175,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "TOX1C",
-          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
-        },
-        {
-          "name": "Eytan Peled",
-          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
-        }
-      ],
-      "duration_ms": 286956,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 480000,
       "name": "Ancient Aum",
       "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+        }
+      ],
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Sun & Moon (Blastoyz Remix)",
         "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 211002,
       "name": "Sun & Moon - Blastoyz Remix",
       "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zahar",
+          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
+        }
+      ],
+      "duration_ms": 335834,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1535,22 +1555,6 @@
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/1JxSjH9vRR2MWNVfUWCRif"
-      },
-      "artists": [
-        {
-          "name": "Memento Mori",
-          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/76ILtSEgyAcpkTDwFhS5po"
     }
   ],
   "unique_name": "Psytrance Supernova",

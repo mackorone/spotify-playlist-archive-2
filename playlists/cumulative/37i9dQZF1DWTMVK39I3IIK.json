@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 186964,
       "name": "M\u00f8ntvask",
       "url": "https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP"
@@ -6890,6 +6890,28 @@
       "duration_ms": 250500,
       "name": "V\u00e5gen igen",
       "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
+    },
+    {
+      "album": {
+        "name": "V\u00e5gn Op (feat. SELMA MILT)",
+        "url": "https://open.spotify.com/album/2vB1Moo3roCiVHIsuu3yId"
+      },
+      "artists": [
+        {
+          "name": "Kvadrillers",
+          "url": "https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac"
+        },
+        {
+          "name": "SELMA MILT",
+          "url": "https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "V\u00e5gn Op (feat. SELMA MILT)",
+      "url": "https://open.spotify.com/track/5YKRlWWfI9bIj2mulsfFdG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 208757,
+  "num_followers": 208766,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -11,22 +11,22 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
-        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
+        "name": "3 Daqat",
+        "url": "https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
         },
         {
-          "name": "Babylone",
-          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+          "name": "Youssra",
+          "url": "https://open.spotify.com/artist/3OOsp0nm674o3Ih8T7wgRJ"
         }
       ],
-      "duration_ms": 171428,
-      "name": "SAMRA / \u0633\u0645\u0631\u0629",
-      "url": "https://open.spotify.com/track/3RWrfl1qrnT9qOaO2cjjv2"
+      "duration_ms": 275228,
+      "name": "3 Daqat",
+      "url": "https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -79,26 +79,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "3 Daqat",
-        "url": "https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6"
-      },
-      "artists": [
-        {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
-        },
-        {
-          "name": "Youssra",
-          "url": "https://open.spotify.com/artist/3OOsp0nm674o3Ih8T7wgRJ"
-        }
-      ],
-      "duration_ms": 275228,
-      "name": "3 Daqat",
-      "url": "https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -131,22 +111,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Balak",
         "url": "https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc"
       },
@@ -163,6 +127,42 @@
       "duration_ms": 184800,
       "name": "Balak",
       "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
+        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Babylone",
+          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "SAMRA / \u0633\u0645\u0631\u0629",
+      "url": "https://open.spotify.com/track/3RWrfl1qrnT9qOaO2cjjv2"
     },
     {
       "added_at": "2025-10-08 07:02:25",

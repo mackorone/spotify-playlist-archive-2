@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: DOE & Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,574 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,597 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 60 | [peace at last](https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [peace at last](https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0) | 2:34 |
 | 61 | [ON MY OWN](https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [ON MY OWN](https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G) | 2:08 |
 | 62 | [Big Time](https://open.spotify.com/track/18eGU3W9JZcbANd3ZBmPGm) | [Sis N Lil Bro](https://open.spotify.com/artist/1Ep8bP4kvEagicoKdAVU9P), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Big Time](https://open.spotify.com/album/3TSDg47cIkm0HpvrKQ02Gp) | 3:51 |
-| 63 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
+| 63 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs), [Rudoson](https://open.spotify.com/artist/5Fy5Bk5iT1L2FkrIHRLdiS), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
 | 64 | [Glory 2 God](https://open.spotify.com/track/6qvPaUhF2HODxMSyWsB7Cu) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [Glory 2 God](https://open.spotify.com/album/0hjkb4Mwc2EygJ2gmVPZyO) | 3:12 |
 | 65 | [Call Em'](https://open.spotify.com/track/29CE94tSoofGUJQkwBItAi) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Call Em'](https://open.spotify.com/album/0SZVqOIEWfRoO7DE6hSkiT) | 2:41 |
 | 66 | [WAKE UP](https://open.spotify.com/track/6HK1TSBkx8rjjD21RWpX0C) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [WAKE UP](https://open.spotify.com/album/5C6IvnUQlURcwUCBJRe0gg) | 2:39 |

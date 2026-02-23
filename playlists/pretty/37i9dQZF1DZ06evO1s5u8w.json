@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 200895,
+  "num_followers": 200899,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAA9tx9eKYdrJtbWLjttNfhp",
+  "snapshot_id": "aZj1gAAAAADboUbkJds2lprv0aApHLkB",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 178732,
-      "name": "Love Goes to a Building on Fire - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77",
         "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189266,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 178732,
+      "name": "Love Goes to a Building on Fire - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
+      "duration_ms": 252040,
+      "name": "Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+      "duration_ms": 183760,
+      "name": "The Good Thing",
+      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 183760,
-      "name": "The Good Thing",
-      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Memories Can't Wait - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+      "duration_ms": 234960,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
     },
     {
       "added_at": null,

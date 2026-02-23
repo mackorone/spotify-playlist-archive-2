@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,642 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,640 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 40 | [De Bestemming](https://open.spotify.com/track/0T8ofZVbNQ60J9J9aK4ZIW) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [\#1](https://open.spotify.com/album/6P8MGrO5WKfHnrXOw45jfR) | 4:26 |
 | 41 | [Voorbij](https://open.spotify.com/track/5fNrm4tC6DyhfbkzQIDiDd) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Beste Zangers Seizoen 11](https://open.spotify.com/album/4mX49XL3W7DGaF0vykfhui) | 4:01 |
 | 42 | [Ik Was Toch Je Meisje](https://open.spotify.com/track/7Gr210vstN2K0wL0BZlsp0) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Was Toch Je Meisje](https://open.spotify.com/album/6gVjlMBtptGdZJpHfvW5Wz) | 3:23 |
-| 43 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
-| 44 | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq) | 4:18 |
+| 43 | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq) | 4:18 |
+| 44 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
 | 45 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 46 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
 | 47 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 54 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 |
 | 55 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |
 | 56 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom) | 3:43 |
-| 57 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
+| 57 | [Beauty & De Brains](https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Beauty & De Brains](https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP) | 3:06 |
 | 58 | [Open Je Ogen](https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys) | 4:38 |
 | 59 | [Geloven In Het Leven](https://open.spotify.com/track/1FQUPfW7zKyiUHMJFr8c8d) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 4:02 |
 | 60 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
-| 61 | [Beauty & De Brains](https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Beauty & De Brains](https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP) | 3:06 |
+| 61 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
 | 62 | [Zoutelande](https://open.spotify.com/track/59H8FBoOPxW1jOaQToWHXi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike Arnaert](https://open.spotify.com/artist/2ovvfw7LL1RAhlqyGLlvGC) | [Aan](https://open.spotify.com/album/058xGrYZ3uGpjL7M1asXlw) | 3:43 |
 | 63 | [Hou Vol Hou Vast](https://open.spotify.com/track/0yE97dsmDBiumMmGNkLgrb) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/3haM92LjHRloy63z4khYl8) | 4:53 |
 | 64 | [Wat Is Dromen](https://open.spotify.com/track/5jRE8yeRZHJKEPcn4rdoBg) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:53 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 437745,
+  "num_followers": 437771,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "Lugar N\u00ba0 (D.L.Y)",
-        "url": "https://open.spotify.com/album/0FJ41Xj3STtDeNo52gfc2F"
-      },
-      "artists": [
-        {
-          "name": "La Plazuela",
-          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
-        }
-      ],
-      "duration_ms": 212660,
-      "name": "Eterna Primavera",
-      "url": "https://open.spotify.com/track/6YtxeABGxbtWYZ67oPq8f4"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "Lugar N\u00ba0 (D.L.Y)",
+        "url": "https://open.spotify.com/album/0FJ41Xj3STtDeNo52gfc2F"
+      },
+      "artists": [
+        {
+          "name": "La Plazuela",
+          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
+        }
+      ],
+      "duration_ms": 212660,
+      "name": "Eterna Primavera",
+      "url": "https://open.spotify.com/track/6YtxeABGxbtWYZ67oPq8f4"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "phill collinX",
-        "url": "https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX"
-      },
-      "artists": [
-        {
-          "name": "BLAYA",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 152604,
-      "name": "phill collinX",
-      "url": "https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 224813,
       "name": "Need The Sun To Break",
       "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "phill collinX",
+        "url": "https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX"
+      },
+      "artists": [
+        {
+          "name": "BLAYA",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 152604,
+      "name": "phill collinX",
+      "url": "https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "moments of glory",
-        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 126115,
-      "name": "moments of glory",
-      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "moments of glory",
+        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 126115,
+      "name": "moments of glory",
+      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "\u00c1rboles",
-      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Una Versi\u00f3n Mejor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2ZkNHUcyNCBqvKefz2lI3U"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 195700,
       "name": "Una Versi\u00f3n Mejor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7cQGVXDULnR2m9QEYYxEFu"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "\u00c1rboles",
+      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
         "name": "La quiero a morir",
         "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 278373,
       "name": "Ada Road",
       "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 165806,
-      "name": "Bang bang",
-      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 176434,
       "name": "Free As a Bird",
       "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 165806,
+      "name": "Bang bang",
+      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
+        "name": "S\u00e9 Que Te Vas A Ir",
+        "url": "https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "S\u00e9 Que Te Vas A Ir",
+      "url": "https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
-      },
-      "artists": [
-        {
-          "name": "Volver",
-          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1955,6 +1955,22 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
+      },
+      "artists": [
+        {
+          "name": "Volver",
+          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -2043,6 +2059,22 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
+        "name": "El Vac\u00edo",
+        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
+      },
+      "artists": [
+        {
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+        }
+      ],
+      "duration_ms": 154187,
+      "name": "El Vac\u00edo",
+      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-02-19 23:00:36",
+      "album": {
         "name": "La jugada maestra",
         "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
       },
@@ -2059,18 +2091,18 @@
     {
       "added_at": "2026-02-19 23:00:36",
       "album": {
-        "name": "S\u00e9 Que Te Vas A Ir",
-        "url": "https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1"
+        "name": "Primer Amor",
+        "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
       },
       "artists": [
         {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
         }
       ],
-      "duration_ms": 169285,
-      "name": "S\u00e9 Que Te Vas A Ir",
-      "url": "https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw"
+      "duration_ms": 146654,
+      "name": "Primer Amor",
+      "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -2087,22 +2119,6 @@
       "duration_ms": 156629,
       "name": "D\u00faas lontras",
       "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
-        "name": "El Vac\u00edo",
-        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
-      },
-      "artists": [
-        {
-          "name": "Adam Guerrero",
-          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
-        }
-      ],
-      "duration_ms": 154187,
-      "name": "El Vac\u00edo",
-      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
     },
     {
       "added_at": "2026-02-19 23:00:36",
@@ -2135,26 +2151,6 @@
       "duration_ms": 144744,
       "name": "Holy",
       "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
-    },
-    {
-      "added_at": "2026-02-19 23:00:36",
-      "album": {
-        "name": "La Cura del Habla",
-        "url": "https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        },
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Bossa Rec\u00edproca",
-      "url": "https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg"
     }
   ],
   "unique_name": "Relax en casa",

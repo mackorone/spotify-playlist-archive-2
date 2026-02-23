@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,100 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,126 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 32 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 |
 | 33 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
 | 34 | [Sephardic Elegy](https://open.spotify.com/track/2wwZttx5a77AmbasxYPbfG) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Jewish Travels: A Historical Voyage in Music & Song](https://open.spotify.com/album/1HJq0jdhPZDiuCptT2dh08) | 2:27 |
-| 35 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
+| 35 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Ralf Neumann](https://open.spotify.com/artist/2C7qTTZjjgdgFfgYm3Oyke), [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
 | 36 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 |
 | 37 | [Evening Embrace](https://open.spotify.com/track/2y3JlvkZk1pO1T8Yhl6uw9) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/7pPwGFAjsWR8F8E1cRuoF4) | 4:25 |
 | 38 | [Beyond The Mirage](https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1627,
+  "num_followers": 1632,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAACdKfa6MsIJpS8dQUKONfKp",
+  "snapshot_id": "aZj1gAAAAAD2sToumZ7ft2TDVOMAbQlB",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
       "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
         {
           "name": "Absolutely",
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
+      "duration_ms": 174080,
+      "name": "No Furniture",
+      "url": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "Absolutely",
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174080,
-      "name": "No Furniture",
-      "url": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
+      "duration_ms": 151500,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
     },
     {
       "added_at": null,
@@ -251,98 +251,6 @@
       "duration_ms": 205453,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyes Up",
-        "url": "https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        },
-        {
-          "name": "Isaiah Roberts",
-          "url": "https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec"
-        }
-      ],
-      "duration_ms": 136812,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 181699,
-      "name": "333",
-      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
     },
     {
       "added_at": null,
@@ -372,6 +280,114 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
+      "duration_ms": 174973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Up",
+        "url": "https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        },
+        {
+          "name": "Isaiah Roberts",
+          "url": "https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec"
+        }
+      ],
+      "duration_ms": 136812,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 181699,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
       "duration_ms": 198356,
       "name": "Glass",
       "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 202786,
-      "name": "Natural Disaster",
-      "url": "https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r"
+      "duration_ms": 221200,
+      "name": "Painting by Numbers",
+      "url": "https://open.spotify.com/track/3sEs9Rcwe39dc9UEEzCfUg"
     },
     {
       "added_at": null,
@@ -420,25 +436,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Painting by Numbers",
-      "url": "https://open.spotify.com/track/3sEs9Rcwe39dc9UEEzCfUg"
+      "duration_ms": 202786,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r"
     }
   ],
   "unique_name": "This Is Absolutely",

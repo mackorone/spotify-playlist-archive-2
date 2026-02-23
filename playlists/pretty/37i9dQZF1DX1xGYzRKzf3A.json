@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 169014,
+  "num_followers": 169036,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Las Dos Caras De La Cumbia",
+        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loco Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Las Dos Caras De La Cumbia",
-        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loco Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 193104,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "El Empresario",
         "url": "https://open.spotify.com/album/5i0mRNIGDibaCnpqN7bw94"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 223912,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2HXqNMrEBpxfDHVlz9CEgC"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 193104,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Braille EP",
-        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
-      },
-      "artists": [
-        {
-          "name": "Mene",
-          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Sopa de Letritas",
-      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/3ZNQvcoa9WX9HTgUxeQI1o"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/4L0ezHukewSynWMb37L2PO"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Braille EP",
+        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
+      },
+      "artists": [
+        {
+          "name": "Mene",
+          "url": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Sopa de Letritas",
+      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Paso A Paso",
-        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 171971,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Paso A Paso",
+        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Comienza la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 145540,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "De La Calle Pa Tu Cora",
         "url": "https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 189268,
       "name": "Mi Bebesita",
       "url": "https://open.spotify.com/track/0MLrtHu0ymaxaV6NEappv8"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Comienza la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 145540,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Quiero Volver - Live",
-      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 160367,
       "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Quiero Volver - Live",
+      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "El Rosario (Bonus Track)",
-        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Rosario - Bonus Track",
-      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "NECIA",
         "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 183607,
       "name": "NECIA",
       "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "El Rosario (Bonus Track)",
+        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Rosario - Bonus Track",
+      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2167,8 +2167,8 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
       },
       "artists": [
         {
@@ -2176,9 +2176,9 @@
           "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2211,6 +2211,58 @@
       "duration_ms": 179594,
       "name": "Sexo Con Tu Ex",
       "url": "https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Cumbia Nocturnal",
+        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "Cumbia Nocturnal",
+      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "El Calendario",
+      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2255,38 +2307,6 @@
       "duration_ms": 203624,
       "name": "AM\u00c1NDOTE",
       "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "El Calendario",
-      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2343,26 +2363,6 @@
       "duration_ms": 266055,
       "name": "Otra salida",
       "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Cumbia Nocturnal",
-        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        },
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "Cumbia Nocturnal",
-      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "A veces sue\u00f1o cuando me quedo despierto",
+        "url": "https://open.spotify.com/album/25fxj4NUOxhi5dwCsoGpOo"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "duration_ms": 214875,
+      "name": "Lastimame",
+      "url": "https://open.spotify.com/track/5PXxjDvG6r8n0d7FxZjWly"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Es As\u00ed",
         "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 183066,
       "name": "Nitrocumbia",
       "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "A veces sue\u00f1o cuando me quedo despierto",
-        "url": "https://open.spotify.com/album/25fxj4NUOxhi5dwCsoGpOo"
-      },
-      "artists": [
-        {
-          "name": "Azul de Viena",
-          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
-        }
-      ],
-      "duration_ms": 214875,
-      "name": "Lastimame",
-      "url": "https://open.spotify.com/track/5PXxjDvG6r8n0d7FxZjWly"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

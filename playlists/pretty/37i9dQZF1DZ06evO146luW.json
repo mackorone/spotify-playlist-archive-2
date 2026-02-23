@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50254,
+  "num_followers": 50262,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAC10h60sXdk1DIP6P5gOgkM",
+  "snapshot_id": "aZj1gAAAAACyjaPvQCeC0b6IGZU0SJPA",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 198313,
-      "name": "Cold & Alone",
-      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
+      "duration_ms": 241972,
+      "name": "Kuntry & Wistern",
+      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 241972,
-      "name": "Kuntry & Wistern",
-      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
+      "duration_ms": 198313,
+      "name": "Cold & Alone",
+      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
     },
     {
       "added_at": null,

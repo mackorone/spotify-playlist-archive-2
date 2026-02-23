@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 182785,
+  "num_followers": 182813,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
     },
     {
       "added_at": "2025-05-23 03:01:26",

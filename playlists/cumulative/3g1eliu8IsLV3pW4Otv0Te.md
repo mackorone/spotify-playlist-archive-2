@@ -4,7 +4,7 @@
 
 > 
 
-247 songs - 16 hr 40 min
+248 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Soft Spot](https://open.spotify.com/track/5aoaku54XYpazH18i9bUXp) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/4e950bADADtSJ7JI5QxDh8) | 4:22 | 2025-03-05 |  |
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2025-11-13 |  |
+| [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 | 2026-02-22 |  |
 | [Sometimes](https://open.spotify.com/track/04K7w24hGPhcIuZMyS3xg8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/7hDMgGXdy0x8hDbtOHIS5j) | 4:19 | 2024-04-26 |  |
 | [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 | 2025-11-17 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/08A9f7wRecEKFGN2PoylTl) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |

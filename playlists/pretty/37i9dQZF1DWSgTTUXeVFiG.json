@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 32736,
+  "num_followers": 32756,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Ruben Blades Y Son Del Solar...Live!",
+        "url": "https://open.spotify.com/album/2U4HAfJgw4mYV9ILruwt3u"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 526600,
+      "name": "El Padre Antonio - Live",
+      "url": "https://open.spotify.com/track/4RUalJiPWxAs6oCvWLfA7s"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 393810,
       "name": "Sonido Bestial",
       "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Ruben Blades Y Son Del Solar...Live!",
-        "url": "https://open.spotify.com/album/2U4HAfJgw4mYV9ILruwt3u"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 526600,
-      "name": "El Padre Antonio - Live",
-      "url": "https://open.spotify.com/track/4RUalJiPWxAs6oCvWLfA7s"
     },
     {
       "added_at": "2024-09-24 20:35:55",

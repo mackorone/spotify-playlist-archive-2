@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86283,
+  "num_followers": 86282,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-02-16 15:43:07",
       "album": {
+        "name": "In De Hemel Is Geen Bier",
+        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "In De Hemel Is Geen Bier",
+      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
+    },
+    {
+      "added_at": "2026-02-16 15:43:07",
+      "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
-    },
-    {
-      "added_at": "2026-02-16 15:43:07",
-      "album": {
-        "name": "In De Hemel Is Geen Bier",
-        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
-      },
-      "artists": [
-        {
-          "name": "Boer Harm",
-          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "In De Hemel Is Geen Bier",
-      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
     },
     {
       "added_at": "2026-02-16 15:43:07",

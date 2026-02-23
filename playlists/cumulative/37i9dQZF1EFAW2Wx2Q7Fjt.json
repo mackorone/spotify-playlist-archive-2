@@ -4225,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw"
+    },
+    {
+      "album": {
         "name": "STUPID BIG TEETH",
         "url": "https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAC+PIoRV2nsTkpH/dMZHsF4",
+  "snapshot_id": "aZj1gAAAAABWhLwCChHhfbfStYsJ3gh6",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Are We Going?",
-        "url": "https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I"
+        "name": "London Class",
+        "url": "https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         },
         {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 226786,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi"
+      "duration_ms": 175227,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw"
     },
     {
       "added_at": null,
@@ -287,26 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "London Class",
-        "url": "https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL"
+        "name": "Where Are We Going?",
+        "url": "https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 175227,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw"
+      "duration_ms": 226786,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi"
     },
     {
       "added_at": null,

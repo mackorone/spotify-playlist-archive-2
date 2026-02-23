@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92167,
+  "num_followers": 92166,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 181176,
       "name": "3 Chakas (Aferrados Al Culo)",
       "url": "https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "so\u00f1\u00e9 que me llevabas",
         "url": "https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Chakalon",
-        "url": "https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg"
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
       },
       "artists": [
         {
-          "name": "Los C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
         }
       ],
-      "duration_ms": 170100,
-      "name": "Chakalon",
-      "url": "https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ"
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -519,6 +499,26 @@
       "duration_ms": 171000,
       "name": "PANAMIUR",
       "url": "https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Chakalon",
+        "url": "https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg"
+      },
+      "artists": [
+        {
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "Chakalon",
+      "url": "https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "arrancame los labios",
-      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Griselda",
         "url": "https://open.spotify.com/album/4TzdW4hZcL7rgKgiTYkxLO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201000,
       "name": "Griselda",
       "url": "https://open.spotify.com/track/7eJyuk6HFHRmbPm6uymimu"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 113506,
+      "name": "arrancame los labios",
+      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -671,6 +671,50 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "NO ACEPTEN IMITACIONES",
+        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "duration_ms": 155890,
+      "name": "COCINE Y COCINE",
+      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "amar t duele",
         "url": "https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg"
       },
@@ -707,50 +751,6 @@
       "duration_ms": 131608,
       "name": "Obsesionado Contigo",
       "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "NO ACEPTEN IMITACIONES",
-        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Onemillionkisses",
-          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
-        }
-      ],
-      "duration_ms": 155890,
-      "name": "COCINE Y COCINE",
-      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
-      },
-      "artists": [
-        {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
-        },
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 135433,
-      "name": "No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "114",
-        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "114",
-      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "All I See",
         "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 164126,
       "name": "Veterinario",
       "url": "https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "114",
+        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 148800,
       "name": "Chaka",
       "url": "https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "antonio banderas",
-        "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 248195,
-      "name": "antonio banderas",
-      "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "rompopito",
         "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 119162,
       "name": "rompopito",
       "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "antonio banderas",
+        "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 248195,
+      "name": "antonio banderas",
+      "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "UN D\u00cdA INOLVIDABLE",
         "url": "https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 191544,
       "name": "UN D\u00cdA INOLVIDABLE",
       "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
     },
     {
       "added_at": "2025-10-03 06:00:06",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185726,
+  "num_followers": 185753,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Busco Romance Love Show (Deluxe)",
         "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 159616,
       "name": "NEON",
       "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Mas Que Porra",
-        "url": "https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "Mas Que Porra",
-      "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Mais uma Vez",
         "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 129896,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Mas Que Porra",
+        "url": "https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "Mas Que Porra",
+      "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
     },
     {
       "added_at": "2026-01-30 14:06:41",

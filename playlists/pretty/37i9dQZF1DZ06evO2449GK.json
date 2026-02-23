@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62418,
+  "num_followers": 62428,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAABPS6NPFEqs9xUZXTxiS2xD",
+  "snapshot_id": "aZj1gAAAAABUv0WPonqpo7gghAv9KNLY",
   "tracks": [
     {
       "added_at": null,
@@ -128,17 +128,21 @@
       "added_at": null,
       "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
+      "duration_ms": 223461,
+      "name": "El Rey del Despecho",
+      "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
     },
     {
       "added_at": null,
@@ -196,21 +200,17 @@
       "added_at": null,
       "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Sho-Hai",
-          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 223461,
-      "name": "El Rey del Despecho",
-      "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Antes del Meridiano",
+      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Revancha de los Timidos",
         "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
       },
@@ -579,24 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Anestesia Local - Episodio 2",
-      "url": "https://open.spotify.com/track/4RAHLZj3vHiIHXLbnjazQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
+        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
       },
       "artists": [
         {
@@ -606,7 +606,23 @@
       ],
       "duration_ms": 178106,
       "name": "El Despilfarro",
-      "url": "https://open.spotify.com/track/2o9fGQLK8UYhU1OVPkufag"
+      "url": "https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Anestesia Local - Episodio 2",
+      "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Antes del Meridiano",
-      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Despilfarro",
         "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
       },
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 212920,
-      "name": "Let My People",
-      "url": "https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc"
+      "duration_ms": 166733,
+      "name": "Terapia de Grupo",
+      "url": "https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46"
     },
     {
       "added_at": null,
@@ -680,7 +680,7 @@
       "added_at": null,
       "album": {
         "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
+        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Terapia de Grupo",
-      "url": "https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46"
+      "duration_ms": 212920,
+      "name": "Let My People",
+      "url": "https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9"
     },
     {
       "added_at": null,

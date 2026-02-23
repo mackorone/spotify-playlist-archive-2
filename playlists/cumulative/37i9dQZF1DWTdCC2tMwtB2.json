@@ -782,6 +782,10 @@
         {
           "name": "Shiraz Uppal",
           "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        },
+        {
+          "name": "Shakeel Sohail",
+          "url": "https://open.spotify.com/artist/50tVmZsA8fsA1Bo5VUcOcA"
         }
       ],
       "date_added": "2025-10-14",
@@ -816,7 +820,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 309266,
       "name": "Qismat Badal Di (From \"Yodha\")",
       "url": "https://open.spotify.com/track/30YqoekCI5XuWys0rD9lLL"
@@ -1082,7 +1086,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 193705,
       "name": "Tu Mileya",
       "url": "https://open.spotify.com/track/7glqjOAauUoPmOXp2Ovpcf"

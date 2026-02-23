@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-638 songs - 2 day 11 hr 57 min
+639 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Intergalactic Tango \- Chambord Remix](https://open.spotify.com/track/5YxwPJMmVYUUoX79zd9Tq1) | [VANDER](https://open.spotify.com/artist/4o5px3d86caBOIUUGfmgDB), [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv), [Mâhfoud](https://open.spotify.com/artist/2lPOIPlOen5YhEB9JQ6DmR), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Intergalactic Tango](https://open.spotify.com/album/2zCWnAfoeFWktlE3gLlxFP) | 4:13 | 2023-02-27 | 2023-07-12 |
 | [Into The Night](https://open.spotify.com/track/4XTgCQsxt9zh2CGFYB2cBf) | [Soul of Hex](https://open.spotify.com/artist/3AS9r5U8Rhzc2FL8cmwwD9) | [Constellation EP](https://open.spotify.com/album/7qhLPiQYqOIqAp0UU6DrzE) | 4:30 | 2024-12-11 | 2025-05-12 |
 | [Into You](https://open.spotify.com/track/6vkCNwE0eCia4sItsoNEuE) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Into You](https://open.spotify.com/album/26EIz3T8ixzKuO2lryD4xE) | 4:07 | 2023-07-07 | 2024-03-01 |
-| [is this the apocalypse](https://open.spotify.com/track/0SDMwDWLMWJH13Y5bGcx1T) | [Seven Davis Jr.](https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj) | [is this the apocalypse](https://open.spotify.com/album/44SiWb0fauQqHclWwSCOL6) | 4:44 | 2025-04-16 |  |
+| [is this the apocalypse](https://open.spotify.com/track/0SDMwDWLMWJH13Y5bGcx1T) | [Seven Davis Jr.](https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj) | [is this the apocalypse](https://open.spotify.com/album/44SiWb0fauQqHclWwSCOL6) | 4:44 | 2025-04-16 | 2026-02-23 |
 | [It's About Us](https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It's About Us](https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6) | 3:52 | 2025-02-07 | 2025-02-28 |
 | [It's Bubbling \(Short Stories\)](https://open.spotify.com/track/45Fd0wzr3WnRXkppK0hWQs) | [Abacus](https://open.spotify.com/artist/6NLqTCFXDOWYXrZV6WyVO6) | [Analog Stories, Vol\. 3](https://open.spotify.com/album/5GNqpneGqTLeOP9DA7uo8x) | 5:03 | 2025-02-14 | 2025-05-12 |
 | [Jack The Skipper](https://open.spotify.com/track/0xWiixDNr5hi0XpfN9D1XQ) | [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P) | [Belters Inc, Vol\. 3](https://open.spotify.com/album/5rP5DifnuXkOTsLrxHJt03) | 6:02 | 2025-02-08 | 2025-12-09 |
@@ -519,6 +519,7 @@
 | [The Bang](https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [PIV ADE Sampler '21, Pt\. 1](https://open.spotify.com/album/76J8TgiOYrMzM4vVucMK9O) | 5:05 | 2022-09-15 | 2023-04-09 |
 | [The City \- Luis Radio Remix](https://open.spotify.com/track/5Zv58Dkvb4Q5Q4ANTIC92v) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG), [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS) | [The City \(Inc Luis Radio Remix\)](https://open.spotify.com/album/6EMRu1JNwMXm3BXO3Pe2Ry) | 5:22 | 2024-10-23 | 2025-05-26 |
 | [The Compass Jawn \- Studio Version](https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5) | [Charlie Soul Clap](https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [The Compass Jawn](https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky) | 6:04 | 2022-10-20 | 2023-10-13 |
+| [The Deal](https://open.spotify.com/track/7bfz3xGyhfUK5tJ5Kco1XL) | [6th Borough Project](https://open.spotify.com/artist/77EHTiQeGUXODuYDBMfnU4) | [The Deal EP](https://open.spotify.com/album/4cGnssFGsRtVgKMjUGX9jw) | 4:07 | 2026-02-22 |  |
 | [The Deejay's An Alien \- Manoo & François A Alien Invasion Dub](https://open.spotify.com/track/4fEzxMUoQ3eulBfNMaWRNk) | [David Harness](https://open.spotify.com/artist/4tuWqTLs5xin97nbNcVHV6), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Manoo & François A](https://open.spotify.com/artist/3Xzuh8k0LyiAo60NxmuuBk) | [Manoo vs Papa](https://open.spotify.com/album/4xmEysp2YQC7XPxoHrheVl) | 5:56 | 2025-01-25 | 2025-10-14 |
 | [The Drive](https://open.spotify.com/track/7MoBv9xp5Suw2GIwL04qi3) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 9:14 | 2025-04-16 |  |
 | [The Feeling](https://open.spotify.com/track/3d2O7F9OR0mAWaTa8YTEuL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [The Feeling](https://open.spotify.com/album/1NP9SrKIIHG903WKGYxYz0) | 5:21 | 2024-08-30 | 2025-02-08 |

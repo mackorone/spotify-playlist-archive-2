@@ -1433,6 +1433,28 @@
     },
     {
       "album": {
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312373,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/17k5FWUNMI1ux47GrME5hS"
+    },
+    {
+      "album": {
         "name": "Big String Theory",
         "url": "https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ"
       },
@@ -1910,6 +1932,24 @@
       "duration_ms": 164760,
       "name": "Bonbon sucre",
       "url": "https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9"
+    },
+    {
+      "album": {
+        "name": "Fear Of Fours",
+        "url": "https://open.spotify.com/album/7tFRNYutf1ADebzALVBBt8"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/4lGcSqPwW2wQXxVIy3y7c1"
     },
     {
       "album": {
@@ -6271,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "Peel Sessions",
+        "url": "https://open.spotify.com/album/4GdnUQHVxyRlZpJJ6xIi07"
+      },
+      "artists": [
+        {
+          "name": "Movietone",
+          "url": "https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241258,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX"
+    },
+    {
+      "album": {
         "name": "When you wake up",
         "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
       },
@@ -6708,6 +6766,28 @@
       "duration_ms": 331392,
       "name": "I Say You Hello",
       "url": "https://open.spotify.com/track/7aSpW1knXzGUlN1UZO4JLS"
+    },
+    {
+      "album": {
+        "name": "Two Gentlemen",
+        "url": "https://open.spotify.com/album/3LzRrgLekMIoE3mepquWGR"
+      },
+      "artists": [
+        {
+          "name": "The Sea and Cake",
+          "url": "https://open.spotify.com/artist/0ihBDeJlIlXo4LFfAllsGm"
+        },
+        {
+          "name": "Jim O'Rourke",
+          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448840,
+      "name": "I took the Opportunity to Antique My End Table",
+      "url": "https://open.spotify.com/track/7ExGUS0rBtPoT95rlhkHIQ"
     },
     {
       "album": {
@@ -14523,6 +14603,24 @@
     },
     {
       "album": {
+        "name": "Unsolved",
+        "url": "https://open.spotify.com/album/0fsLBrh7OufpOhzudaVlCX"
+      },
+      "artists": [
+        {
+          "name": "Karate",
+          "url": "https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282106,
+      "name": "The Lived-But-Yet-Named",
+      "url": "https://open.spotify.com/track/0tt3NAj1AC70LntRfjuUbR"
+    },
+    {
+      "album": {
         "name": "Jane Siberry",
         "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
       },
@@ -14790,6 +14888,24 @@
       "duration_ms": 223266,
       "name": "The Underground Solution",
       "url": "https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB"
+    },
+    {
+      "album": {
+        "name": "Beyond The Valley Of Ultrahits",
+        "url": "https://open.spotify.com/album/6xp1MvM7LFR24g9ZO9RK92"
+      },
+      "artists": [
+        {
+          "name": "Richard Youngs",
+          "url": "https://open.spotify.com/artist/1rMkroCNvGAk4kO6I1j5A3"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "The Valley in Flight",
+      "url": "https://open.spotify.com/track/35vrYVGTV7E6Fp66hprKV2"
     },
     {
       "album": {
@@ -15984,6 +16100,24 @@
       "duration_ms": 272058,
       "name": "We Share The Same Breath",
       "url": "https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt"
+    },
+    {
+      "album": {
+        "name": "These Things Take Time",
+        "url": "https://open.spotify.com/album/3BRCtUxoDikSSrOFyCvT7q"
+      },
+      "artists": [
+        {
+          "name": "Molly Nilsson",
+          "url": "https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227406,
+      "name": "We're Never Coming Home",
+      "url": "https://open.spotify.com/track/41ExyRHV6Yib5ZsqIroFMn"
     },
     {
       "album": {

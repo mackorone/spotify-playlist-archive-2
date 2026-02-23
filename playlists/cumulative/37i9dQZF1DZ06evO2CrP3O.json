@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Parallel Lines",
+        "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229423,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
+    },
+    {
+      "album": {
         "name": "Heart of Glass",
         "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 249733,
       "name": "Heart Of Glass - Remix",
       "url": "https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB"
@@ -938,7 +956,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 203159,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 39393,
       "name": "Warm-Up",
       "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"

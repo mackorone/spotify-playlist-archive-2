@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Odymel",
-  "num_followers": 373607,
+  "num_followers": 373698,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 193855,
       "name": "2003",
       "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        }
-      ],
-      "duration_ms": 125207,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
         "name": "tell you straight",
         "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 125207,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -855,42 +855,6 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "Walk (feat. Kwabs)",
-        "url": "https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 139562,
-      "name": "Walk (feat. Kwabs)",
-      "url": "https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "227kg",
-        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "227kg",
-      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -911,6 +875,22 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -955,6 +935,22 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
       },
@@ -967,26 +963,6 @@
       "duration_ms": 215225,
       "name": "ACID",
       "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -1007,22 +983,6 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -1039,6 +999,26 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
+        "name": "Walk (feat. Kwabs)",
+        "url": "https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 139562,
+      "name": "Walk (feat. Kwabs)",
+      "url": "https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -1163,6 +1143,26 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
         "name": "Call Me Babe",
         "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
       },
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
+        "name": "Stolen Dance (Hypertechno)",
+        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 188259,
+      "name": "Stolen Dance - Hypertechno",
+      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -1227,38 +1243,6 @@
       "duration_ms": 168800,
       "name": "Meet Her At The Love Parade",
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
-        "name": "Stolen Dance (Hypertechno)",
-        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 188259,
-      "name": "Stolen Dance - Hypertechno",
-      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         }
       ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -1339,6 +1323,22 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-02-16 10:25:14",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-16 10:25:14",
       "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
-    },
-    {
-      "added_at": "2026-02-16 10:25:14",
-      "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
+    },
+    {
+      "added_at": "2026-02-16 10:25:14",
+      "album": {
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     },
     {
       "added_at": "2026-02-16 10:25:14",

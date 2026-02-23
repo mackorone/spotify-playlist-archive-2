@@ -1430,24 +1430,6 @@
     {
       "album": {
         "name": "Groove Dealer EP",
-        "url": "https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 418098,
-      "name": "Groove Dealer",
-      "url": "https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx"
-    },
-    {
-      "album": {
-        "name": "Groove Dealer EP",
         "url": "https://open.spotify.com/album/51gGEMAk03iyIcxlvrFnmd"
       },
       "artists": [
@@ -1462,6 +1444,24 @@
       "duration_ms": 418098,
       "name": "Groove Dealer",
       "url": "https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR"
+    },
+    {
+      "album": {
+        "name": "Groove Dealer EP",
+        "url": "https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD"
+      },
+      "artists": [
+        {
+          "name": "Gennaro",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418098,
+      "name": "Groove Dealer",
+      "url": "https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx"
     },
     {
       "album": {

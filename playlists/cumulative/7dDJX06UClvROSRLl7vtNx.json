@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 139932,
       "name": "Bad Memories",
       "url": "https://open.spotify.com/track/4igpctg9YvMuatTMbmZEVv"
@@ -3865,6 +3865,28 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/3Rgcj7SOsdSUSSR7iX98PU"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205282,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/3q2zWRbuRQfvWst5geq7DB"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/3i8qrJdKsUhMxzgwlYuUOK"
       },
@@ -5712,6 +5734,24 @@
       "duration_ms": 226229,
       "name": "Echoes of Light",
       "url": "https://open.spotify.com/track/7kqIRrv9Lo36E3C10L5zcT"
+    },
+    {
+      "album": {
+        "name": "Echoes of You",
+        "url": "https://open.spotify.com/album/3lvKf7J1LT8IQOZ2SpxD0m"
+      },
+      "artists": [
+        {
+          "name": "Nick En Mare",
+          "url": "https://open.spotify.com/artist/34lGOTr7zmQZ6GBzS6XGx6"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Echoes of You",
+      "url": "https://open.spotify.com/track/3wCiOryqYjkMDECKCcEo0Y"
     },
     {
       "album": {
@@ -9164,7 +9204,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 173928,
       "name": "Hit The Ground",
       "url": "https://open.spotify.com/track/2iWJTXzBPvMu6x7qA9onF1"
@@ -9440,7 +9480,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 167197,
       "name": "Hold You Like That",
       "url": "https://open.spotify.com/track/15qoSBISnljwd5w6V6Tc17"
@@ -15460,6 +15500,28 @@
       "duration_ms": 154363,
       "name": "Miss California (DeejaVu Remix)",
       "url": "https://open.spotify.com/track/5iiI3Aw0AruRfiZItxEHRx"
+    },
+    {
+      "album": {
+        "name": "Miss Malibu",
+        "url": "https://open.spotify.com/album/4a3xdpvz5wbDbpcMASjRAR"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "King Ky",
+          "url": "https://open.spotify.com/artist/0LQwcJg9nBZONJg4OGUvkC"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119040,
+      "name": "Miss Malibu",
+      "url": "https://open.spotify.com/track/1FtKlW8ZYeKRpdnXVTqqCa"
     },
     {
       "album": {
@@ -23596,7 +23658,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 132966,
       "name": "The Seine",
       "url": "https://open.spotify.com/track/1Bo8NGdpXojxcZ9SxiZyub"
@@ -24110,6 +24172,32 @@
       "duration_ms": 119040,
       "name": "Time To Talk",
       "url": "https://open.spotify.com/track/73ooFU9qEgEgZ8doCdXIjg"
+    },
+    {
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/6FxY8bgg72NORgDw6suqUF"
+      },
+      "artists": [
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/0ByXP3asBR2dISiGEl2Mcx"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/0BsiWBwGaQOFODH6wzjnyy"
     },
     {
       "album": {
@@ -25876,6 +25964,28 @@
       "duration_ms": 157375,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85"
+    },
+    {
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/3mHDu2a1vXj5MxenG0rL0O"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154076,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/7u8NZWQCATJSAKLMAPyEEw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2284256,
+  "num_followers": 2284156,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 290706,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 279316,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -231,18 +231,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 279316,
-      "name": "Fourth of July",
-      "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom",
-      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "Bloom Mountain",
         "url": "https://open.spotify.com/album/1OHKL8uNnR7RIoLbCjTJIt"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
+        "name": "American Romance",
+        "url": "https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 195242,
+      "name": "In The Light",
+      "url": "https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
         "name": "Tomorrow is Perfect",
         "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "American Romance",
-        "url": "https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX"
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 195242,
-      "name": "In The Light",
-      "url": "https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR"
+      "duration_ms": 278670,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -499,22 +499,6 @@
       "duration_ms": 281213,
       "name": "I Forget Where We Were",
       "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -595,6 +579,22 @@
       "duration_ms": 237928,
       "name": "Even If It's a Lie - Demo",
       "url": "https://open.spotify.com/track/0MVeLASrPyBrC6hwwhIMwu"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 227651,
       "name": "Folding",
       "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "The Death Of Summer & Other Promises",
-        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 269411,
-      "name": "Skin Parade",
-      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Michelangelo Dying",
-        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 219102,
-      "name": "Pieces of My Heart",
-      "url": "https://open.spotify.com/track/3ynLyAD1uNeXxm47XarUwD"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "permanent +1",
         "url": "https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212973,
       "name": "permanent +1",
       "url": "https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 219102,
+      "name": "Pieces of My Heart",
+      "url": "https://open.spotify.com/track/3ynLyAD1uNeXxm47XarUwD"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Takes Me Back Home",
-        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
         }
       ],
-      "duration_ms": 193137,
-      "name": "Takes Me Back Home",
-      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1191,22 +1191,6 @@
       "duration_ms": 200833,
       "name": "The Old Parade",
       "url": "https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1239,6 +1223,22 @@
       "duration_ms": 209000,
       "name": "One Last Song",
       "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
     },
     {
       "added_at": "2025-10-17 10:29:03",

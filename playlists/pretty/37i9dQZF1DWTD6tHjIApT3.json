@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b satomoka",
-  "num_followers": 135178,
+  "num_followers": 135171,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -767,18 +767,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u541b\u306e\u305b\u3044",
-        "url": "https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk"
+        "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
+        "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
       },
       "artists": [
         {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
-      "duration_ms": 138586,
-      "name": "\u541b\u306e\u305b\u3044",
-      "url": "https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH"
+      "duration_ms": 262766,
+      "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
+      "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -799,22 +803,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
-        "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
+        "name": "\u541b\u306e\u305b\u3044",
+        "url": "https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
         }
       ],
-      "duration_ms": 262766,
-      "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
-      "url": "https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q"
+      "duration_ms": 138586,
+      "name": "\u541b\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "star flower",
-        "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 185246,
-      "name": "star flower",
-      "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "\u767e\u65e5\u8349",
         "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 317812,
       "name": "\u767e\u65e5\u8349",
       "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "star flower",
+        "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "star flower",
+      "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "duration_ms": 214756,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "\u221e",
         "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn"
+        "name": "echo",
+        "url": "https://open.spotify.com/album/1QByVVCDffthpL7GtzZ24I"
       },
       "artists": [
         {
-          "name": "C\u00f6 shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 214756,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz"
+      "duration_ms": 230833,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/1jSAiZwc8bVKSogXmfBSXt"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1135,22 +1151,6 @@
       "duration_ms": 223288,
       "name": "chocolate",
       "url": "https://open.spotify.com/track/64gfslfX6S195ZLB3hD4kp"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/1QByVVCDffthpL7GtzZ24I"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/1jSAiZwc8bVKSogXmfBSXt"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "utas",
-        "url": "https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 252634,
-      "name": "\u5e7d\u970a\u306b\u306a\u3063\u3066\u3082\u7f8e\u3057\u3044",
-      "url": "https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "HITSUJI",
         "url": "https://open.spotify.com/album/38udARm3saUU5IhbVyDR9W"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 198786,
       "name": "HITSUJI",
       "url": "https://open.spotify.com/track/6lxBbKee8B57prmzPDu5aO"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "utas",
+        "url": "https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 252634,
+      "name": "\u5e7d\u970a\u306b\u306a\u3063\u3066\u3082\u7f8e\u3057\u3044",
+      "url": "https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
+      },
+      "artists": [
+        {
+          "name": "SWEET REVENGE",
+          "url": "https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "MINE",
+      "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
         "url": "https://open.spotify.com/album/2HAWZ7SXN2JyDi9Dvy2M9V"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/43id92AWG0RNyYkq1MMz9b"
-      },
-      "artists": [
-        {
-          "name": "HIKKA",
-          "url": "https://open.spotify.com/artist/6ey4UYJdPAQGeJbkhm5hsv"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/20GfBEQXvEKtVZZSMtXmvw"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "BEGINNING",
         "url": "https://open.spotify.com/album/7Be319LwA7xAjiy0RVCABh"
       },
@@ -1551,34 +1551,34 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "MINE",
-        "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/43id92AWG0RNyYkq1MMz9b"
       },
       "artists": [
         {
-          "name": "SWEET REVENGE",
-          "url": "https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh"
+          "name": "HIKKA",
+          "url": "https://open.spotify.com/artist/6ey4UYJdPAQGeJbkhm5hsv"
         }
       ],
-      "duration_ms": 149760,
-      "name": "MINE",
-      "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
+      "duration_ms": 198533,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/20GfBEQXvEKtVZZSMtXmvw"
     },
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u30be\u30fc\u30f330",
-        "url": "https://open.spotify.com/album/5DbB1Ij6LR3GL77oyHzYkR"
+        "name": "\u30b8\u30f3\u30b8\u30e3\u30fc\u30fb\u30ad\u30e3\u30c3\u30c8\u30fb\u30a2\u30d7\u30ea\u30b7\u30a8\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci"
       },
       "artists": [
         {
-          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
-          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
         }
       ],
-      "duration_ms": 195733,
-      "name": "\u30be\u30fc\u30f330",
-      "url": "https://open.spotify.com/track/67P1Qbqb14tD6MmGsuv0eh"
+      "duration_ms": 441845,
+      "name": "\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u30b8\u30f3\u30b8\u30e3\u30fc\u30fb\u30ad\u30e3\u30c3\u30c8\u30fb\u30a2\u30d7\u30ea\u30b7\u30a8\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci"
+        "name": "\u30be\u30fc\u30f330",
+        "url": "https://open.spotify.com/album/5DbB1Ij6LR3GL77oyHzYkR"
       },
       "artists": [
         {
-          "name": "\u732b\u6226",
-          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+          "name": "\u6a4b\u672c\u7d75\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM"
         }
       ],
-      "duration_ms": 441845,
-      "name": "\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA"
+      "duration_ms": 195733,
+      "name": "\u30be\u30fc\u30f330",
+      "url": "https://open.spotify.com/track/67P1Qbqb14tD6MmGsuv0eh"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE"
+        "name": "\u3056\u304f\u308d",
+        "url": "https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN"
       },
       "artists": [
         {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
         }
       ],
-      "duration_ms": 252692,
-      "name": "\u661f\u7d21\u304e",
-      "url": "https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm"
+      "duration_ms": 402651,
+      "name": "\u3056\u304f\u308d",
+      "url": "https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq"
     }
   ],
   "unique_name": "Women's Voice",

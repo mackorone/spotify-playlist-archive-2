@@ -1,13 +1,57 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 995,
+  "num_followers": 1000,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE860fy4NjPRauDkCd5652ByhjMMnO",
+  "snapshot_id": "AAAE9oUV04I3BcnA8ZlH5+WVDThzVoCO",
   "tracks": [
+    {
+      "added_at": "2026-02-22 13:00:33",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7bQrXFtvhRKXpXjewkeD4Q"
+      },
+      "artists": [
+        {
+          "name": "Trash Modjo",
+          "url": "https://open.spotify.com/artist/0sqd55dX3mOswXySd46NT5"
+        },
+        {
+          "name": "PartyFowl",
+          "url": "https://open.spotify.com/artist/1NhZDu9Qf3YtbQZC458hg1"
+        },
+        {
+          "name": "DJ Trashtail",
+          "url": "https://open.spotify.com/artist/48KJapfAlCxYJlR1JqvVex"
+        },
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z"
+    },
+    {
+      "added_at": "2026-02-22 13:02:28",
+      "album": {
+        "name": "what would my phone do without me",
+        "url": "https://open.spotify.com/album/0VZFED1R1Xhnk5YypOHVgS"
+      },
+      "artists": [
+        {
+          "name": "YDXX",
+          "url": "https://open.spotify.com/artist/5HTGIsBvCg8NpbTZuXkmJQ"
+        }
+      ],
+      "duration_ms": 98668,
+      "name": "what would my phone do without me",
+      "url": "https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu"
+    },
     {
       "added_at": "2026-02-16 23:10:48",
       "album": {
@@ -23,6 +67,22 @@
       "duration_ms": 330468,
       "name": "Sacred Dragon",
       "url": "https://open.spotify.com/track/0mUZACSoXJp9w5haaM32xm"
+    },
+    {
+      "added_at": "2026-02-22 13:01:36",
+      "album": {
+        "name": "The Greatest Tail Ever Told",
+        "url": "https://open.spotify.com/album/4ZCwgUUglcmIIVSwi9lHwu"
+      },
+      "artists": [
+        {
+          "name": "NathanSquarez",
+          "url": "https://open.spotify.com/artist/61qupiO6t1TGw6I3uN9V7D"
+        }
+      ],
+      "duration_ms": 212169,
+      "name": "The Greatest Tale Ever Told",
+      "url": "https://open.spotify.com/track/5V3Xd5AEvZch132GuWVTbT"
     },
     {
       "added_at": "2026-02-20 06:30:30",

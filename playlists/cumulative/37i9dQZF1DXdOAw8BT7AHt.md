@@ -4,13 +4,13 @@
 
 > The best in every corner of modern punk rock\. Cover: Joyce Manor
 
-612 songs - 1 day 6 hr 36 min
+613 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 | 2025-05-08 | 2026-02-07 |
 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-04 | 2026-02-08 |
-| [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 | 2024-10-10 |  |
+| [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 | 2024-10-10 | 2026-02-23 |
 | [20 Something](https://open.spotify.com/track/2EJtr27PApeRdltM8tzESk) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [20 Something](https://open.spotify.com/album/7LhZySV0yVACn9BV7IDzcY) | 2:53 | 2025-02-07 | 2025-04-27 |
 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2025-02-07 |  |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-19 | 2025-01-27 |
@@ -82,6 +82,7 @@
 | [Billion Dollar Question](https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Wrong Side of Heaven](https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2) | 1:35 | 2025-09-04 | 2026-02-03 |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-08 |  |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-11-13 | 2024-06-01 |
+| [Bite Harder Than You Bleed](https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa) | [Roman Candle](https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy) | [Bite Harder Than You Bleed](https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn) | 2:59 | 2026-02-20 |  |
 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 | 2024-10-10 | 2026-02-07 |
 | [Blockage](https://open.spotify.com/track/4xJfsFXJITax9I1GrGPVEI) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Death Hilarious](https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx) | 2:51 | 2025-05-08 | 2025-05-10 |
 | [Blood](https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Earthkeeper](https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n) | 4:02 | 2025-09-04 | 2026-02-09 |

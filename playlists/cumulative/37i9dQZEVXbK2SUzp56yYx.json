@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -10450,6 +10450,32 @@
     {
       "album": {
         "name": "How Deep is Your Love - Live",
+        "url": "https://open.spotify.com/album/4v5dikUcpJW3NMm7T3Fpye"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        },
+        {
+          "name": "deprezz",
+          "url": "https://open.spotify.com/artist/6fL5VGL0vinKQ5HOviw6iX"
+        },
+        {
+          "name": "Xizt",
+          "url": "https://open.spotify.com/artist/1na0C7M3oeaDrKfST1TOMF"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147437,
+      "name": "How Deep Is Your Love - Live",
+      "url": "https://open.spotify.com/track/5bwM8y0LFlGc83kwrDiKTx"
+    },
+    {
+      "album": {
+        "name": "How Deep is Your Love - Live",
         "url": "https://open.spotify.com/album/7tAv8DutebVKrOCo0xL9xQ"
       },
       "artists": [
@@ -10464,7 +10490,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 147490,
       "name": "How Deep Is Your Love - Live",
       "url": "https://open.spotify.com/track/4V4sQ6p5XMXTgUL2q62JH3"
@@ -10482,10 +10508,28 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 105064,
       "name": "hunter eyes (slowed)",
       "url": "https://open.spotify.com/track/4qg6kqkC5mBcEMlGmfPMwi"
+    },
+    {
+      "album": {
+        "name": "hunter eyes (slowed)",
+        "url": "https://open.spotify.com/album/4DTJaMRcH5DIyiJwUnVJXo"
+      },
+      "artists": [
+        {
+          "name": "laydownrot",
+          "url": "https://open.spotify.com/artist/35QjsbRh0vtiHfbpLpMduE"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105064,
+      "name": "hunter eyes - slowed",
+      "url": "https://open.spotify.com/track/5TwcfQZfFUo5eZtEzqajNl"
     },
     {
       "album": {
@@ -16452,7 +16496,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 150830,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/1EAYKOlvTs4jNUpTKg0IBR"
@@ -18074,7 +18118,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -18290,7 +18334,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 343062,
       "name": "Paprika Parade",
       "url": "https://open.spotify.com/track/0wZBhFZsN96Q8fKOnZjoj5"
@@ -23618,7 +23662,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -23640,6 +23684,24 @@
       "duration_ms": 122188,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
+    },
+    {
+      "album": {
+        "name": "theclubrock",
+        "url": "https://open.spotify.com/album/59J9iFo4IBt2171rX80Amh"
+      },
+      "artists": [
+        {
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122188,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/31SF2unE1SZ51m4O11isG9"
     },
     {
       "album": {
@@ -23824,7 +23886,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -23934,7 +23996,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 132972,
       "name": "Tom Ford",
       "url": "https://open.spotify.com/track/2LNWGfLtkTsJMeqJQBBdYK"
@@ -26566,7 +26628,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
@@ -31970,7 +32032,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 130428,
       "name": "\u0435\u0431\u0430\u0442\u044c \u0443 \u0442\u0435\u0431\u044f \u043d\u043e\u0433\u0438",
       "url": "https://open.spotify.com/track/1MXb8opSQ2CQkTq177KvUG"
@@ -34678,6 +34740,24 @@
       "duration_ms": 174919,
       "name": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0439 \u0434\u0435\u0432\u043e\u0447\u043a\u043e\u0439",
       "url": "https://open.spotify.com/track/5ag8K3GDvjo7BDnnsVkxHE"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e\u0435 \u043d\u0435\u0431\u043e 2026",
+        "url": "https://open.spotify.com/album/05D131WJCQWvfq7apDLotY"
+      },
+      "artists": [
+        {
+          "name": "\u0424\u043b\u0438\u0442",
+          "url": "https://open.spotify.com/artist/5YSlGrwJ14yAmWzsHiYDW0"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e\u0435 \u043d\u0435\u0431\u043e 2026",
+      "url": "https://open.spotify.com/track/2QyK3AbeIcngRlWZZQgsPB"
     },
     {
       "album": {
@@ -37436,7 +37516,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 148031,
       "name": "\u041e\u043b\u0430\u0434\u0443\u0448\u043a\u0438",
       "url": "https://open.spotify.com/track/2Ij62CM1fYWjaosihdqVhW"
@@ -43498,7 +43578,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 66006,
       "name": "\u0422\u044b\u0441\u044f\u0447\u0438 \u044d\u0442\u0430\u0436\u0435\u0439",
       "url": "https://open.spotify.com/track/2mMduWCk3ePl8JcL4omam8"
@@ -43570,7 +43650,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 139799,
       "name": "\u0423 \u043c\u0435\u043d\u044f \u0441\u0432\u043e\u044f \u043f\u043e\u0433\u043e\u0434\u0430!",
       "url": "https://open.spotify.com/track/10jpq2wRJ5WrDL995eHLzw"
@@ -44778,7 +44858,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 265999,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0446\u0432\u0435\u0442\u0430 \u0433\u043b\u0430\u0437",
       "url": "https://open.spotify.com/track/0wdKXhECZiiWOddi3c9APl"
@@ -45946,6 +46026,24 @@
       "duration_ms": 116571,
       "name": "\u042f+\u0421\u0412\u0410\u042f\u041b",
       "url": "https://open.spotify.com/track/37U2bdsMwWUFaEC9xjLIRl"
+    },
+    {
+      "album": {
+        "name": "\u042f\u0431\u043b\u043e\u043d\u043d\u044b\u0439 \u0441\u0430\u0434",
+        "url": "https://open.spotify.com/album/6VEhfqQVMw9ypq881hpp0a"
+      },
+      "artists": [
+        {
+          "name": "Shortparis",
+          "url": "https://open.spotify.com/artist/61j4FFbKlzdYihMtpM1hZD"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273419,
+      "name": "\u042f\u0431\u043b\u043e\u043d\u043d\u044b\u0439 \u0441\u0430\u0434",
+      "url": "https://open.spotify.com/track/6ud7ENYN8Wlluo4dltvVE5"
     },
     {
       "album": {

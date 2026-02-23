@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,505 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,553 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 11 | [Caravan](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0) | [John Wasson](https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 9:15 |
 | 12 | [Moon River \(From Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4) | [Audrey Hepburn](https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8) | [Moon River \(Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA) | 2:03 |
 | 13 | [Whiplash](https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm) | [Hank Levy](https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 1:55 |
-| 14 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 |
-| 15 | [It's Been a Long, Long Time](https://open.spotify.com/track/4rfh0qEv1HdKRXWiRXfzWF) | [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Texas Chatter](https://open.spotify.com/album/6tBVZNKIPLGcp09IQK7oyz) | 3:25 |
+| 14 | [It's Been a Long, Long Time](https://open.spotify.com/track/4rfh0qEv1HdKRXWiRXfzWF) | [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Texas Chatter](https://open.spotify.com/album/6tBVZNKIPLGcp09IQK7oyz) | 3:25 |
+| 15 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 |
 | 16 | [Soulful Strut](https://open.spotify.com/track/6v8mOtpRlXbG3BOauqPRHC) | [Young\-Holt Unlimited](https://open.spotify.com/artist/5r2DrmyTTiDTQaFz3tyX8W) | [The Definitive Young\-Holt Unlimited](https://open.spotify.com/album/6Piq6lFLq7hwbDgyS3pOgJ) | 3:01 |
 | 17 | [Herman’s Habit](https://open.spotify.com/track/4f6PUDRYJI51UrZy0jDAxD) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:51 |
 | 18 | [The Pink Panther Theme \- From "The Pink Panther"](https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Plas Johnson](https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:37 |

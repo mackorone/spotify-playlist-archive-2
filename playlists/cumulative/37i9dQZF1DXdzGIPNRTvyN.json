@@ -4297,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Nemora",
+        "url": "https://open.spotify.com/album/68wGpiY8PWGypZqXofzdm7"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135875,
+      "name": "Nemora",
+      "url": "https://open.spotify.com/track/5gplkckudyKkAp3qnxikb0"
+    },
+    {
+      "album": {
         "name": "Nemuru",
         "url": "https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS"
       },
@@ -4506,7 +4524,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 160416,
       "name": "Oran Beinne",
       "url": "https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX"

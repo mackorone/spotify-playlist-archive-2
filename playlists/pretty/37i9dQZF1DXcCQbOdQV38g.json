@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59892,
+  "num_followers": 59895,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Ontspanje",
+        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 160123,
+      "name": "Ontspanje",
+      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Ontspanje",
-        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 160123,
-      "name": "Ontspanje",
-      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
         "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 205448,
       "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
       "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2026-02-03 23:00:20",

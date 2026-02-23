@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1017444,
+  "num_followers": 1017425,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Dreaming In Slow Motion",
-      "url": "https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Dreaming In Slow Motion",
+      "url": "https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "duration_ms": 166819,
+      "name": "Ghost of Fatalia",
+      "url": "https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Last a While",
-        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
-      },
-      "artists": [
-        {
-          "name": "Arc De Soleil",
-          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
-        }
-      ],
-      "duration_ms": 166819,
-      "name": "Ghost of Fatalia",
-      "url": "https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "Pretty Little Thing",
-      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "What's Your Motive",
         "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Pretty Little Thing",
+      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
         "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 132903,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "ps / dm",
-        "url": "https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F"
-      },
-      "artists": [
-        {
-          "name": "spirit blue",
-          "url": "https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx"
-        }
-      ],
-      "duration_ms": 230462,
-      "name": "desire machine",
-      "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -719,6 +703,22 @@
       "duration_ms": 240000,
       "name": "Take Ur Time",
       "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "ps / dm",
+        "url": "https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F"
+      },
+      "artists": [
+        {
+          "name": "spirit blue",
+          "url": "https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx"
+        }
+      ],
+      "duration_ms": 230462,
+      "name": "desire machine",
+      "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Go Go Chaos",
+        "url": "https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y"
+      },
+      "artists": [
+        {
+          "name": "Bonjah",
+          "url": "https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Go Go Chaos",
+      "url": "https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Go Go Chaos",
-        "url": "https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y"
-      },
-      "artists": [
-        {
-          "name": "Bonjah",
-          "url": "https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Go Go Chaos",
-      "url": "https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Dick Arkive: Issue 2",
         "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 242345,
       "name": "I Think I Lost That Love",
       "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1439,34 +1439,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+        "name": "Cerulean Tapes",
+        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
       },
       "artists": [
         {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
         }
       ],
-      "duration_ms": 203864,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
-      },
-      "artists": [
-        {
-          "name": "A Beacon School",
-          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
-        }
-      ],
-      "duration_ms": 98770,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
+      "duration_ms": 256142,
+      "name": "TEENAGE FEVER",
+      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1491,18 +1475,34 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Cerulean Tapes",
-        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
       },
       "artists": [
         {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
         }
       ],
-      "duration_ms": 256142,
-      "name": "TEENAGE FEVER",
-      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
+      "duration_ms": 98770,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
+        "name": "Said I Don't Cry",
+        "url": "https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj"
       },
       "artists": [
         {
-          "name": "Morning Silk",
-          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 188253,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
+      "duration_ms": 211391,
+      "name": "Said I Don't Cry",
+      "url": "https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Said I Don't Cry",
-        "url": "https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Morning Silk",
+          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
         }
       ],
-      "duration_ms": 211391,
-      "name": "Said I Don't Cry",
-      "url": "https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo"
+      "duration_ms": 188253,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
     },
     {
       "added_at": "2026-01-19 19:58:25",

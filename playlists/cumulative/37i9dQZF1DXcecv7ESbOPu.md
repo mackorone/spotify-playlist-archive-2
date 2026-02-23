@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Ison & Fille, Simon Superti och Lana Del Rey med flera\. Happy New Music Friday!
 
-23,002 songs - 49 day 15 hr 28 min
+23,003 songs - 49 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3729,6 +3729,7 @@
 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-12 | 2026-02-20 |
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [Clean](https://open.spotify.com/track/1ltOFfJAIwivzb3TTo5aVm) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [I know this girl](https://open.spotify.com/album/1GbmO2OB3wUUaWnfsOnBRP) | 3:15 | 2024-03-21 | 2024-03-29 |
+| [Clean and Fresh](https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Clean and Fresh](https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1) | 2:18 | 2026-02-19 |  |
 | [Clean Slate](https://open.spotify.com/track/1zRmfOPIoPXExSGUqP5QD3) | [Bernhard](https://open.spotify.com/artist/6zq2N1bCKw9BKG9kGdlLF0) | [Stray Dog](https://open.spotify.com/album/1PgPjCootE5kbantcv1GBU) | 2:50 | 2022-04-14 | 2022-04-22 |
 | [Clean Up Your Act, Sunshine!](https://open.spotify.com/track/5wHmohZkeApAOPIj280lHa) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Clean Up Your Act, Sunshine!](https://open.spotify.com/album/77tjV3cTZ526yctYPkZUXJ) | 3:30 | 2025-12-04 | 2025-12-12 |
 | [Cleanse My Soul](https://open.spotify.com/track/0bQdx69MI9gggd7WVROBkR) | [Stress](https://open.spotify.com/artist/2vJo3bWY09MoK1QrRZD1wf) | [Cleanse My Soul](https://open.spotify.com/album/3sLxoz6IBvNtmseMOSIwaZ) | 3:34 | 2024-04-19 | 2024-04-26 |

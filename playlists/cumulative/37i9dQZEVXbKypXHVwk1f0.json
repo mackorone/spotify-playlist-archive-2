@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 221373,
       "name": "COMERNOS",
       "url": "https://open.spotify.com/track/2TYZU0Fvfp5b7gbfqdIAq6"
@@ -6998,7 +6998,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/6tNGSjIgbSp3B2LOWumkJ0"
@@ -9516,7 +9516,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 193386,
       "name": "D\u00d3NDE",
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
@@ -13044,7 +13044,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 214493,
       "name": "GANTEL y BELLAKz",
       "url": "https://open.spotify.com/track/7cVS9dvpA6p2dIVibiGaso"
@@ -14766,6 +14766,24 @@
       "duration_ms": 153471,
       "name": "Ice Spice",
       "url": "https://open.spotify.com/track/0ZoSRbEKi4cIXzlh2Ypint"
+    },
+    {
+      "album": {
+        "name": "Hecho En Puerto Rico",
+        "url": "https://open.spotify.com/album/6SphKzSgPW55sFK5lUGKd8"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/5iwgEFKEktjBBZV3C9TTZj"
     },
     {
       "album": {
@@ -29024,7 +29042,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
@@ -31258,7 +31276,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 213840,
       "name": "SKY",
       "url": "https://open.spotify.com/track/52eJOGfsKEEkHrfZt6Kl3p"
@@ -32120,7 +32138,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 179373,
       "name": "SUSU",
       "url": "https://open.spotify.com/track/6dWJciH0aK0TWiDvVmMUX6"
@@ -33726,7 +33744,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 189456,
       "name": "top diesel",
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
@@ -35874,7 +35892,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"

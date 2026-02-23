@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Co\-curated by Miss Kaninna.
 
-1,113 songs - 2 day 12 hr 29 min
+1,114 songs - 2 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [Mangos](https://open.spotify.com/track/2ckFO1sBiKvLQpuiB9jDaC) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Mangos](https://open.spotify.com/album/2vFtPglhOz8e8qh7WlyYqs) | 3:10 | 2023-11-10 | 2024-02-15 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/2EkbykDiLsmMBL5I27RH5e) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0sYOqV4dwy6dBs862Z4d89) | 3:39 | 2025-07-15 | 2025-12-04 |
 | [Marianne](https://open.spotify.com/track/1Z8YRF5YY06FOnA6Oiwpaa) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Deep Sea Creatures](https://open.spotify.com/album/6gleG0hAiXn4q0YANq7xLE) | 3:14 | 2024-07-29 | 2025-02-12 |
-| [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 | 2025-04-15 |  |
+| [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 | 2025-04-15 | 2026-02-23 |
 | [Matter of Time](https://open.spotify.com/track/462aabfmzV9MooKz64OAtj) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:58 | 2022-10-02 | 2023-04-01 |
 | [Maybe](https://open.spotify.com/track/6F9aI7NCQJXMvnBKj7gQJV) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Maybe](https://open.spotify.com/album/6YtMcA6XlBO9TN27dQNLsF) | 2:50 | 2024-05-14 | 2025-01-15 |
 | [Me & You](https://open.spotify.com/track/4rMegGKoZR9VaR0dxhr6Z4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Me & You](https://open.spotify.com/album/0JYUq6zTN5QIExsARJ11xC) | 2:10 | 2022-10-02 | 2023-04-01 |
@@ -650,6 +650,7 @@
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2022-02-03 | 2022-04-06 |
 | [Mirrors](https://open.spotify.com/track/7Jzyzf5gvoZ5RbFzIL7nQ6) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Mirrors](https://open.spotify.com/album/2yhyGos2sBxftVw79T7CNU) | 3:32 | 2024-06-23 | 2024-11-13 |
 | [Mitsubishi Sheets](https://open.spotify.com/track/10mMuDV1n9OaUjPvPIteLh) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Mitsubishi Sheets](https://open.spotify.com/album/633fk5lANafSAezJh1SisV) | 2:04 | 2026-02-04 |  |
+| [MOB TIES](https://open.spotify.com/track/6wA0UaXLi5neXMhV36G8SP) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [MOB TIES](https://open.spotify.com/album/4Oz2R68EZVK9tPD1OHMACr) | 3:47 | 2026-02-23 |  |
 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 | 2025-11-18 | 2025-12-04 |
 | [Moment](https://open.spotify.com/track/1ra3LsbQiW7eGJLxRhiwVq) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Moment](https://open.spotify.com/album/0LLMGuXgV7YPLyeXyshnPj) | 2:39 | 2023-05-31 | 2023-10-01 |
 | [Moment By](https://open.spotify.com/track/0YfJwv5wsr8DHMwVqIgzET) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Moment By](https://open.spotify.com/album/0Uq9d3tL78BcIFHywBpv5J) | 4:40 | 2025-07-01 | 2025-12-04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11814,
+  "num_followers": 11819,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAACLfGwQR1RL1GrlezsnYH/4",
+  "snapshot_id": "aZj1gAAAAACUz7jPH/9gTvU3+NEnFI0O",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
+      "duration_ms": 252826,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
+      "duration_ms": 247893,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
     },
     {
       "added_at": null,

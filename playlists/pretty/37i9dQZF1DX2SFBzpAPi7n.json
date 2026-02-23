@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: SORAN) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 248764,
+  "num_followers": 248854,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "Panorama : The Best of TAEYEON",
-        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
         "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
         "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 176000,
       "name": "Demons",
       "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
     },
     {
       "added_at": "2026-02-20 06:38:28",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
         "name": "Really Like You",
         "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
       },
@@ -435,6 +419,38 @@
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
       "added_at": "2026-02-20 06:38:28",
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2026-02-20 06:38:28",
@@ -583,6 +567,22 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
         "name": "To Reach You",
         "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
       },
@@ -599,34 +599,18 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "AMNESIA",
-        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 199133,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2026-02-20 06:38:28",
@@ -647,18 +631,18 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
+      "duration_ms": 199133,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
     },
     {
       "added_at": "2026-02-20 06:38:28",
@@ -727,22 +711,6 @@
     {
       "added_at": "2026-02-20 06:38:28",
       "album": {
-        "name": "LIVE and FALL",
-        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 220094,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
-    },
-    {
-      "added_at": "2026-02-20 06:38:28",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 203000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220094,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
+    },
+    {
+      "added_at": "2026-02-20 06:38:28",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
       "added_at": "2026-02-20 06:38:28",

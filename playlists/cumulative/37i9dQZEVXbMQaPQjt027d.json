@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 206000,
       "name": "Anoesjka",
       "url": "https://open.spotify.com/track/1OxFJUBy486AGM9K7e94sw"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 208000,
       "name": "Blauw",
       "url": "https://open.spotify.com/track/0QkaNYxGVhC8AAdPjegXnj"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 185859,
       "name": "Carnavalsmuziek",
       "url": "https://open.spotify.com/track/0ZrH8Dri3ffjs0MLUGuPnr"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 220865,
       "name": "Dat Ken Ik Niet Betale",
       "url": "https://open.spotify.com/track/2xX5TA7dhTruF2OPx3Cj9J"
@@ -4092,6 +4092,24 @@
       "duration_ms": 139354,
       "name": "Doe Maar",
       "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
+    },
+    {
+      "album": {
+        "name": "DON'T GO",
+        "url": "https://open.spotify.com/album/2LUgqawXp0JOneJDQyj5ZM"
+      },
+      "artists": [
+        {
+          "name": "Kenai",
+          "url": "https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138468,
+      "name": "DON'T GO",
+      "url": "https://open.spotify.com/track/5orSO1B3QM4WSKVSe47XwH"
     },
     {
       "album": {
@@ -5578,7 +5596,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 146153,
       "name": "Gevaarlijk Goed Gemutst",
       "url": "https://open.spotify.com/track/0eJuG63rm7q35P4DqxWptA"
@@ -5762,6 +5780,24 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "album": {
+        "name": "Golden (NL Versie)",
+        "url": "https://open.spotify.com/album/3Q5VIMccwAPpL9HCW7Whlc"
+      },
+      "artists": [
+        {
+          "name": "Kyra's vertalingen",
+          "url": "https://open.spotify.com/artist/135OaUcGPQC4wyYv2zwlFk"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Golden (NL Versie)",
+      "url": "https://open.spotify.com/track/7nAP8g0ODEtJb9qKaGPVmI"
     },
     {
       "album": {
@@ -6878,7 +6914,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 191687,
       "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
@@ -7486,7 +7522,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 204821,
       "name": "Ik Wooj Nie Gaon",
       "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
@@ -8510,7 +8546,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 57000,
       "name": "Laat Je (B)Likkuh! - ST\u00cbLZ Remix",
       "url": "https://open.spotify.com/track/4VuPI9l6u5xiQv6cnjVSwU"
@@ -8714,7 +8750,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 234000,
       "name": "Lekker L\u00f4pe",
       "url": "https://open.spotify.com/track/4B8Ls0QBxJPzpHXUlakTC9"
@@ -9955,6 +9991,32 @@
     },
     {
       "album": {
+        "name": "BNT Vol. 1",
+        "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mijn Meisje",
+      "url": "https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6"
+    },
+    {
+      "album": {
         "name": "private music",
         "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
@@ -10276,7 +10338,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
@@ -11162,7 +11224,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -11552,7 +11614,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 228000,
       "name": "Ooit",
       "url": "https://open.spotify.com/track/2XID7zIhhzdTVYyNd0z1TC"
@@ -11606,7 +11668,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -12731,6 +12793,24 @@
     },
     {
       "album": {
+        "name": "Ruwa",
+        "url": "https://open.spotify.com/album/01QuDDQ08dQMx7P5I0vOLL"
+      },
+      "artists": [
+        {
+          "name": "Ruwa Jin",
+          "url": "https://open.spotify.com/artist/5lcipJtNr6cM87vcGpEcZq"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Ruwa",
+      "url": "https://open.spotify.com/track/4zJu3WrABlBD23qunrjWov"
+    },
+    {
+      "album": {
         "name": "S6TP",
         "url": "https://open.spotify.com/album/468Lc7J9tK0HwobFXoRfle"
       },
@@ -13062,6 +13142,24 @@
       "duration_ms": 216666,
       "name": "Shadows Leaning",
       "url": "https://open.spotify.com/track/6PfZD0mDjbf3ry965SogS0"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120687,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV"
     },
     {
       "album": {
@@ -14252,7 +14350,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "The Final Verdict",
       "url": "https://open.spotify.com/track/66GgamjluD1DwCLEiPWZv9"
@@ -14782,7 +14880,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 121739,
       "name": "TIKI TIKI - Slowed",
       "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
@@ -15212,7 +15310,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 196890,
       "name": "Un Lekker Delleke",
       "url": "https://open.spotify.com/track/1FfQBZ3S6nUFmpLXz5csIJ"
@@ -15542,7 +15640,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 166451,
       "name": "Vastelaovend is lit!",
       "url": "https://open.spotify.com/track/44YYCUDL65fpK2Uizbu3H5"
@@ -15670,7 +15768,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 146484,
       "name": "Verkeerde Gat",
       "url": "https://open.spotify.com/track/3CupXzjBMhy9vXtH6WgJHb"
@@ -16030,7 +16128,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 186000,
       "name": "Wa`n Lekker Ding Bende Gij",
       "url": "https://open.spotify.com/track/7MbTKZWqJm4CqgBylt8CrU"
@@ -17360,7 +17458,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "Yeralt\u0131",
       "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
@@ -17910,7 +18008,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

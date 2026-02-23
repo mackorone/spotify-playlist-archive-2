@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3514,
+  "num_followers": 3517,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAB6wMz3sbqll2GvaISFuore",
+  "snapshot_id": "aZj1gAAAAAC4snmSXbdk8aQ8lNmbbMpZ",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Murder Me",
-      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
     },
     {
       "added_at": null,

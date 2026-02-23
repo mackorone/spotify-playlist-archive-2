@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-399 songs - 18 hr 49 min
+400 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-24 | 2025-04-02 |
 | [Nature's Collection](https://open.spotify.com/track/1OyWJlEHNl6VTK9QTYTDhG) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Nature's Collection](https://open.spotify.com/album/5Abb45GZUl46sVY20DfZ9F) | 2:57 | 2024-08-22 |  |
 | [Nature's Voice](https://open.spotify.com/track/3SgkVWRFrcnBMfQKOqnYfm) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Nature's Voice](https://open.spotify.com/album/1FzQbuZeM1nOZk6DrwIhjB) | 2:49 | 2025-10-01 |  |
+| [Nemora](https://open.spotify.com/track/5gplkckudyKkAp3qnxikb0) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Nemora](https://open.spotify.com/album/68wGpiY8PWGypZqXofzdm7) | 2:15 | 2026-02-18 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
 | [Nidra](https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Nidra](https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP) | 3:09 | 2023-10-26 | 2025-07-02 |
 | [Nocturne in the rain](https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Nocturne in the rain](https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF) | 2:30 | 2023-03-13 | 2024-06-04 |
@@ -257,7 +258,7 @@
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 | 2025-08-14 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
-| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
+| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 | 2026-02-23 |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 | 2026-02-12 |
 | [Organica](https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Organica](https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT) | 3:12 | 2024-06-03 |  |
 | [Out of Eden](https://open.spotify.com/track/5RsNR1zgJQuIL8SNlGTVi5) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [Out of Eden](https://open.spotify.com/album/65R8o5g2PzwEzUsXPnb46O) | 2:31 | 2026-02-18 |  |

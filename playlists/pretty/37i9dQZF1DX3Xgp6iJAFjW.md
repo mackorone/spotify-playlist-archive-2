@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,161 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,158 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 33 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 |
 | 34 | [Pescao \(Popurri Sambao\): Si Se Quema El Monte / Coje El Pandero / Pescao \(Samba\)](https://open.spotify.com/track/7JIeUzAQeuGoED1235Eje9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:39 |
 | 35 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 |
-| 36 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 |
-| 37 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
+| 36 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
+| 37 | [Cantemos Todos Cantemos](https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Navidad \- Canta Gallo, Canta](https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS) | 4:17 |
 | 38 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 |
 | 39 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
 | 40 | [Aires Navideños](https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Pa' mi Gente](https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp) | 4:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 | 24 | [QUE PRETENDES](https://open.spotify.com/track/7LdXoP2rkbFF0xsPo6fQbg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [QUE PRETENDES](https://open.spotify.com/album/4KcyXhEqtw6JGkWWq2FQOY) | 3:44 |
 | 25 | [SI NO ES CONTIGO](https://open.spotify.com/track/6jOc98cnGY5HPpMetR5kOm) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/3cRUdUwsW8T4qk3YJjteYn) | 2:48 |
 
-Snapshot ID: `AAAAAJgRSjxvN4zZ1g5oXj5TRpDY5Xw2`
+Snapshot ID: `AAAAADBhv0U2z8HxIdBT9FFVQ3kHr5pt`

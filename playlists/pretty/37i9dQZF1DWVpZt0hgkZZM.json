@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 44249,
+  "num_followers": 44265,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -471,22 +471,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
+        "name": "En Accion!",
+        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
         },
         {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
         }
       ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+      "duration_ms": 295933,
+      "name": "Un Hombre Busca Una Mujer",
+      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -507,22 +507,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "En Accion!",
-        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
       "artists": [
         {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 295933,
-      "name": "Un Hombre Busca Una Mujer",
-      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
-      },
-      "artists": [
-        {
-          "name": "Roberto Antonio",
-          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
-        }
-      ],
-      "duration_ms": 231183,
-      "name": "Noches de Fantasia",
-      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 256920,
       "name": "Mar Y Luna",
       "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
+      },
+      "artists": [
+        {
+          "name": "Roberto Antonio",
+          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
+        }
+      ],
+      "duration_ms": 231183,
+      "name": "Noches de Fantasia",
+      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        }
-      ],
-      "duration_ms": 271189,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Paradas Continuas",
         "url": "https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 157106,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/5VUR4MhJWAbp2ZHtSDvwJ7"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 271189,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        }
-      ],
-      "duration_ms": 243086,
-      "name": "Distancia",
-      "url": "https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 286531,
       "name": "La Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 243086,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        }
+      ],
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 242224,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
-      },
-      "artists": [
-        {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        }
-      ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        },
-        {
-          "name": "Elkin Serna",
-          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Qu\u00e9 Lindo Es Quererte",
-      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 247306,
       "name": "Si Me Dejaras (Te Necesito)",
       "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        },
+        {
+          "name": "Elkin Serna",
+          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Qu\u00e9 Lindo Es Quererte",
+      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        }
-      ],
-      "duration_ms": 236714,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 247409,
       "name": "Dame Tu Querer",
       "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 236714,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Sabor a Salsa",
         "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 268811,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 170609,
-      "name": "El Esclavo",
-      "url": "https://open.spotify.com/track/6xxCu3DCal5jf5KPqDUhxp"
+      "duration_ms": 248206,
+      "name": "La Marcha del Pato",
+      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "La Empanadita",
+      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
         "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "La Empanadita",
-      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 248206,
-      "name": "La Marcha del Pato",
-      "url": "https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd"
+      "duration_ms": 170609,
+      "name": "El Esclavo",
+      "url": "https://open.spotify.com/track/6xxCu3DCal5jf5KPqDUhxp"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical 14 Ca\u00f1onazos (1981 - 1990)",
-        "url": "https://open.spotify.com/album/5fpDKh7093eYHRNozVDFw6"
+        "name": "En Tiempo de Amor",
+        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 376372,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/5EPQzXqUhEOhLW2aRXxAei"
+      "duration_ms": 292773,
+      "name": "Te Va a Doler",
+      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
     },
     {
       "added_at": "2024-07-12 23:11:55",

@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: wane",
-  "num_followers": 84491,
+  "num_followers": 84488,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "I WILL.",
-        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "World At My Feet",
-      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "Ohaguro",
         "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 188400,
       "name": "Ohaguro",
       "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "I WILL.",
+        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "World At My Feet",
+      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "WHY WHY WHY",
-        "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
-      },
-      "artists": [
-        {
-          "name": "Julia Po\u015bnik",
-          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
-        }
-      ],
-      "duration_ms": 163359,
-      "name": "WHY WHY WHY",
-      "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "\u3075\u308f\u8f2a",
         "url": "https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 210925,
       "name": "\u3075\u308f\u8f2a",
       "url": "https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "WHY WHY WHY",
+        "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "duration_ms": 163359,
+      "name": "WHY WHY WHY",
+      "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "L'oiseau bleu",
-        "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
-      },
-      "artists": [
-        {
-          "name": "Steve Ibrahim",
-          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "Les ins\u00e9parables",
-      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "EL FUNAO",
         "url": "https://open.spotify.com/album/1wZB8YmbN89NHZlDWbJjZ9"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 114375,
       "name": "EL FUNAO",
       "url": "https://open.spotify.com/track/1LNR9lc3291dwiFrCEarzG"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "L'oiseau bleu",
+        "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Les ins\u00e9parables",
+      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
     },
     {
       "added_at": "2026-02-13 14:00:26",

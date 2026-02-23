@@ -8581,6 +8581,40 @@
     },
     {
       "album": {
+        "name": "Cole Porter Night and Day: Thomas Hampson",
+        "url": "https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Thomas Hampson",
+          "url": "https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF"
+        },
+        {
+          "name": "Ambrosian Chorus",
+          "url": "https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Porter: Something for the Boys: When My Baby Goes to Town",
+      "url": "https://open.spotify.com/track/0SZ5o0LoeeAq0aIrQGkHAI"
+    },
+    {
+      "album": {
         "name": "Sounds of Revival II: Deeper",
         "url": "https://open.spotify.com/album/7F9tndM6oerE0sO04qBdRf"
       },
@@ -9674,40 +9708,6 @@
       "duration_ms": 319173,
       "name": "Something For The Boys",
       "url": "https://open.spotify.com/track/45ApaEWpTNlAiE3OH8zRHD"
-    },
-    {
-      "album": {
-        "name": "Cole Porter Night and Day: Thomas Hampson",
-        "url": "https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        },
-        {
-          "name": "Thomas Hampson",
-          "url": "https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF"
-        },
-        {
-          "name": "Ambrosian Chorus",
-          "url": "https://open.spotify.com/artist/2TRkTaY4XSQ5IUDltXCOpv"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John McGlinn",
-          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
-        }
-      ],
-      "date_added": "2024-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279066,
-      "name": "Something For the Boys: When My Baby Goes to Town (orch. Don Walker)",
-      "url": "https://open.spotify.com/track/0SZ5o0LoeeAq0aIrQGkHAI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Gur Sidhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,968 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,021 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 31 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 |
 | 32 | [Desi Hood](https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Desi Hood](https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR) | 2:28 |
 | 33 | [Vazhikatti \- Kizhakku Suryan](https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Daleema](https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA) | [Vazhikatti \(Kizhakku Suryan\)](https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao) | 2:22 |
-| 34 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
+| 34 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
 | 35 | [God Bless](https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y), [Ranbir Singh](https://open.spotify.com/artist/4tLqy17NOYpoJKW8Tdpwtl) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:05 |
 | 36 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
 | 37 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-180 songs - 10 hr 23 min
+181 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 |  |
 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 | 2026-02-08 |  |
 | [Softly](https://open.spotify.com/track/3AJZARxMi3iPi6vPQxPTKN) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [INFINITY MIRROR](https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B) | 3:41 | 2025-10-26 | 2025-12-12 |
+| [Someday](https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Someday](https://open.spotify.com/album/4fGDXODSv9DtjUjnL4rsey) | 2:55 | 2026-02-22 |  |
 | [stardust](https://open.spotify.com/track/3ba4KSPhMcZHHXBYBZgvoF) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [stardust](https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk) | 2:55 | 2025-11-16 | 2026-01-17 |
 | [Stay](https://open.spotify.com/track/0tcghuttDwLWSEtV59geke) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Stay](https://open.spotify.com/album/3KPJAIFT13s3sbkQXpO0qa) | 4:05 | 2025-11-15 | 2026-01-17 |
 | [Stay 11:11](https://open.spotify.com/track/7uJKlwmX0BxgIlbDKswIDn) | [Grace Smiles](https://open.spotify.com/artist/33i07ALaC6xQq0AoSnJTN1) | [Stay 11:11](https://open.spotify.com/album/2dlmMwtAli1znWbwZKKUej) | 3:47 | 2026-01-16 | 2026-02-20 |

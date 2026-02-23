@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaaLM83puGG5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
+### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going with <a href="https://www.instagram.com/spiritmas?igsh=MXdkbHZkaDlrdG91dw==">Spirit Mas</a>! Get your tickets for HOME <a href="https://www.mokotickets.com/event/home">here</a>.
 

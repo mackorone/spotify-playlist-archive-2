@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1369750,
+  "num_followers": 1370035,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -907,8 +907,8 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "God Hates Us All",
-        "url": "https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "God Hates Us All",
+        "url": "https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
-      },
-      "artists": [
-        {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Brave New World (2015 Remaster)",
         "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 434293,
       "name": "Blood Brothers - 2015 Remaster",
       "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2025-11-24 12:44:55",

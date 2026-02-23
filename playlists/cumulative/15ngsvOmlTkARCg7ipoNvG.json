@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/1IgprkC5cA7ykBN7a7qv6H"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60254,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/6HI9b1jx9afJ4Qh2rKpchQ"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c"
       },

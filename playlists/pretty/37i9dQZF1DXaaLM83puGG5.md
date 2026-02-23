@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
+### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going with <a href="https://www.instagram.com/spiritmas?igsh=MXdkbHZkaDlrdG91dw==">Spirit Mas</a>! Get your tickets for HOME <a href="https://www.mokotickets.com/event/home">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,364 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,356 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

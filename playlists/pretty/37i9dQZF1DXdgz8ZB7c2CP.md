@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🏆 featuring WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,343 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,392 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 13 | [dance 4 infinity](https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [333 dance songs](https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l) | 2:35 |
 | 14 | [Every Storm Hardens The Earth](https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP) | [Kenta204](https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC) | [Every Storm Hardens The Earth \(Mixtape\)](https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR) | 2:47 |
 | 15 | [Peak](https://open.spotify.com/track/5rOMKmbCYaPgsyo5dpAHxT) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [hjud](https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9) | [Peak](https://open.spotify.com/album/76xqKLejdd53fWG64HzXhh) | 2:59 |
-| 16 | [Math Equation \(Ineffekt's Quell Mix\)](https://open.spotify.com/track/2yVcbJg1HmRNcsRfkEYt32) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Rick Bouwkamp](https://open.spotify.com/artist/5q2xejkYqPdBQp2SYDw9FY) | [Math Equation \(Ineffekt's Quell Mix\)](https://open.spotify.com/album/1oavMu0K30eJPiiD7xLDp0) | 4:37 |
+| 16 | [Math Equation \(Ineffekt's Quell Mix\)](https://open.spotify.com/track/2yVcbJg1HmRNcsRfkEYt32) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g), [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Math Equation \(Ineffekt's Quell Mix\)](https://open.spotify.com/album/1oavMu0K30eJPiiD7xLDp0) | 4:37 |
 | 17 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
 | 18 | [It's You \- underscores' "It’s U" Remix](https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [It's You \(underscores' "It’s U" Remix\)](https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX) | 3:31 |
 | 19 | [What I Need](https://open.spotify.com/track/4PdjJjYd0k2mC2G7As0avs) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [What I Need](https://open.spotify.com/album/1lmth9D1esbG7Pt3aZyiC4) | 3:25 |

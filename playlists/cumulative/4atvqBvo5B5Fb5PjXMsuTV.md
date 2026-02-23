@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date\. Updated 22 Feb 23:10 UTC.
+> Latest popular single releases\. Sorted by release date\. Updated 22 Feb 19:10 UTC.
 
-6,247 songs - 14 day 11 hr 49 min
+6,249 songs - 14 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,7 @@
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-13 | 2025-04-24 |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-14 | 2025-01-23 |
 | [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-21 | 2025-06-28 |
-| [Bowling With Tim](https://open.spotify.com/track/1cFYVNaKxTmlsN3pzGDdaz) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bowling With Tim](https://open.spotify.com/album/7sUJyGdq6OGNk0Pg9Gnd00) | 3:53 | 2026-02-17 |  |
+| [Bowling With Tim](https://open.spotify.com/track/1cFYVNaKxTmlsN3pzGDdaz) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bowling With Tim](https://open.spotify.com/album/7sUJyGdq6OGNk0Pg9Gnd00) | 3:53 | 2026-02-17 | 2026-02-23 |
 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 | 2025-06-07 | 2025-06-15 |
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-03 | 2024-06-06 |
 | [Boy who cried art](https://open.spotify.com/track/5FyZgcoOJpwT5I2CFtwcOD) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Boy who cried art](https://open.spotify.com/album/1LNX1uy5ebPV871XvWlkDu) | 2:18 | 2024-06-19 | 2024-06-21 |
@@ -1646,6 +1646,7 @@
 | [Ego](https://open.spotify.com/track/4RG4FZ5YYzzFYTeNvDyowd) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Ego](https://open.spotify.com/album/1W8K5f2dlUlPKOjcPpFse3) | 2:59 | 2025-04-25 | 2025-05-03 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-06 | 2024-09-12 |
 | [Ego Maniacs](https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Ego Maniacs](https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB) | 3:38 | 2024-11-08 | 2024-11-26 |
+| [Ego Renegade Boy](https://open.spotify.com/track/0epjWMv4x9sQav6crcfORC) | [FLAVOR FOLEY](https://open.spotify.com/artist/2f5AcZbndYPEd7W5EfsZjY) | [Ego Renegade Boy](https://open.spotify.com/album/2d9g8KCFz7UlhHA77iYMS4) | 3:18 | 2026-02-22 |  |
 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 | 2024-06-20 | 2024-06-22 |
 | [Ein echtes Lachen](https://open.spotify.com/track/4F9trSkuCXAQ4v0D43YCmr) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Ein echtes Lachen](https://open.spotify.com/album/5pdLzUOwcjhEwKJaOEkqTu) | 2:41 | 2024-11-29 | 2024-12-04 |
 | [Ekan](https://open.spotify.com/track/3fjOmQvQewiGFftZd7eKPs) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Ekan](https://open.spotify.com/album/6LHrIZhA75vhMa9U7DlND9) | 2:15 | 2024-06-10 | 2024-06-13 |
@@ -3967,7 +3968,7 @@
 | [Onsra](https://open.spotify.com/track/2hs76oH0fJ5Hbqc2LhoRFY) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Onsra](https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv) | 2:53 | 2024-08-07 | 2024-08-09 |
 | [Oontz](https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Oontz](https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS) | 3:01 | 2024-06-20 | 2024-06-22 |
 | [Opalite](https://open.spotify.com/track/0iBSapyIt84lDMiJ4aYi9u) | [Bongo Cat](https://open.spotify.com/artist/3bmRm2yFq3nkqBsV1Aq3Lc) | [Opalite](https://open.spotify.com/album/6pyN5iDBB9EHRT6BhmSN9J) | 2:49 | 2026-01-27 | 2026-02-12 |
-| [Opalite \- Official Music Video Extended Version Part 1](https://open.spotify.com/track/7vf4GBEJmv0uXojpr5qPMX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite \[Official Music Video \(Extended Versions\)\]](https://open.spotify.com/album/0VBjFJFcHhu7QDocog6D3s) | 9:29 | 2026-02-17 |  |
+| [Opalite \- Official Music Video Extended Version Part 1](https://open.spotify.com/track/7vf4GBEJmv0uXojpr5qPMX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite \[Official Music Video \(Extended Versions\)\]](https://open.spotify.com/album/0VBjFJFcHhu7QDocog6D3s) | 9:29 | 2026-02-17 | 2026-02-23 |
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-17 | 2024-07-19 |
 | [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 | 2024-11-01 | 2024-11-06 |
 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-08 | 2024-12-12 |
@@ -6088,6 +6089,7 @@
 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-09-25 | 2024-09-28 |
 | [Yacht Party](https://open.spotify.com/track/2LOoUMTCzJrEuY2OH4HfdQ) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Yacht Party](https://open.spotify.com/album/2ZLt15ASV1sAyBDz9PNN56) | 3:41 | 2024-07-12 | 2024-07-14 |
 | [YCDL](https://open.spotify.com/track/6aV4ryo9wMfgbWkfItsWZr) | [prettifun](https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65) | [YCDL](https://open.spotify.com/album/05LCKxUoZvV33ytK1ZUTWc) | 2:31 | 2025-11-28 | 2025-12-17 |
+| [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-22 |  |
 | [Yeah Baby](https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Yeah Baby](https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV) | 1:49 | 2024-07-20 | 2024-07-25 |
 | [Year of the Optimist](https://open.spotify.com/track/7FwNMwUTmuG9foVKIs6vQi) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Year of the Optimist](https://open.spotify.com/album/0KcREv7Ql3GaGVkMp8SgO9) | 2:35 | 2025-08-21 | 2025-08-31 |
 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 | 2025-04-08 | 2025-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,354 likes - 135 songs - 8 hr 28 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,354 likes - 136 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 133 | [Who Died?](https://open.spotify.com/track/2RsppsDbLFjkmBodREdLqE) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Who Died?](https://open.spotify.com/album/2UPO5C3Z2wTEQvuB9B6Ws3) | 4:48 |
 | 134 | [The Garden](https://open.spotify.com/track/2rw809tUXjwDiYK9v3tU2m) | [Niamh Corkey](https://open.spotify.com/artist/6hIG8JTGYyqA0wYOykcHQf) | [The Garden](https://open.spotify.com/album/0H0eLf3AaVdtE950aSFWJB) | 3:18 |
 | 135 | [Darius](https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8) | [Animal Animal](https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn) | [Darius](https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ) | 3:36 |
+| 136 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 |
 
-Snapshot ID: `AAByL1qZoPe/CmugW7mrco1MFmbGs51y`
+Snapshot ID: `AAByMH1PHCOj8bvtUnmBSZYtQnqjnp6L`

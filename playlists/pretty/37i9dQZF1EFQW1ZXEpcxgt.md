@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 57 | [Reverse](https://open.spotify.com/track/3S1D7s5xsuitIti64XQHg7) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Morse Code](https://open.spotify.com/album/6OnHUnhxRIZ4FB7ce9wF39) | 3:11 |
 | 58 | [Deep Down](https://open.spotify.com/track/4iK0QSCW3nmt6bsZtAjzX6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:43 |
 | 59 | [Question](https://open.spotify.com/track/6FHukarWlx7lSrlaN17OkP) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [Question](https://open.spotify.com/album/2q7r92YA7Hy4VlxrohdOFc) | 3:45 |
-| 60 | [Who's with Me](https://open.spotify.com/track/5u6Yl2Z6E2NLQ7hx9Y0Vfq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:30 |
-| 61 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 |
+| 60 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 |
+| 61 | [Who's with Me](https://open.spotify.com/track/5u6Yl2Z6E2NLQ7hx9Y0Vfq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:30 |
 | 62 | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/track/5ElvxQOgTTUTjVfa1uhhFv) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/album/08wVcFCxBwLdeODnKPcPjp) | 2:49 |
 | 63 | [Pray](https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:47 |
 | 64 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 |
@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 115 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
 | 116 | [Meaningless](https://open.spotify.com/track/41VUrlXNQ7Mbwv8jdsVCRs) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG) | [706](https://open.spotify.com/album/79zG8H3ljW0GGiS6tmDPqP) | 2:57 |
 | 117 | [Comfort Me](https://open.spotify.com/track/3XoAsVgJYuKboiaY7njdPd) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [10\-18](https://open.spotify.com/album/04AEJ2LgvsgEIVWcnu6enG) | 3:48 |
-| 118 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 |
-| 119 | [Police](https://open.spotify.com/track/5XOJEIGtUSSl1AxIBLZkhp) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:02 |
+| 118 | [Police](https://open.spotify.com/track/5XOJEIGtUSSl1AxIBLZkhp) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:02 |
+| 119 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 |
 | 120 | [2001](https://open.spotify.com/track/346UdgVc5V68r9yWA1efqg) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 2:10 |
 | 121 | [Two Up](https://open.spotify.com/track/6V0ajyvgaX22SQX8hk8qxp) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:30 |
-| 122 | [Slave \(feat\. Eskeerdo\)](https://open.spotify.com/track/2sg4tl6k14jvHzEVHB9cfS) | [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [God, Money, War](https://open.spotify.com/album/6fZLItAImf0KyRzAI7F2NF) | 2:54 |
-| 123 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
+| 122 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
+| 123 | [Slave \(feat\. Eskeerdo\)](https://open.spotify.com/track/2sg4tl6k14jvHzEVHB9cfS) | [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [God, Money, War](https://open.spotify.com/album/6fZLItAImf0KyRzAI7F2NF) | 2:54 |
 | 124 | [Ghost](https://open.spotify.com/track/718mh2QW7uoabCzAdeHBD0) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/4Ws6Kfk6A8Bjd59Fy2okeB) | 2:56 |
 | 125 | [I Need to Know](https://open.spotify.com/track/7wghz3QGJe4cclJDUjxnBq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:34 |
 | 126 | [No Part of You](https://open.spotify.com/track/5jGkSsAYEDo5gkew6qvUai) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/17CswT0NOi5y8ReJx589aE) | 3:45 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 144 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 145 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcKS9AAAAABNUoSDdJytiQMG/ZOEFSsg`
+Snapshot ID: `AcKYigAAAAAu8OnK4Euhg5856YsRJ/OE`

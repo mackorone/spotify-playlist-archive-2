@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,808 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,843 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [Never Fail](https://open.spotify.com/track/1BX9bky2W3mkqWq7N2Uu3D) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail](https://open.spotify.com/album/721vMtfWYMUurGZqCzt7kZ) | 2:26 |
 | 80 | [Blessings](https://open.spotify.com/track/3m1IlCSwbnUhwL0CPDrZYk) | [Orlumuzik](https://open.spotify.com/artist/52ubZZNtBSx1UNUtSqC1Av), [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Blessings](https://open.spotify.com/album/7eOpjqmHfIaMkPPJVW63gZ) | 2:24 |
 
-Snapshot ID: `AAAAALVmvDDGbPz90Cop0r+A95cyuq/w`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

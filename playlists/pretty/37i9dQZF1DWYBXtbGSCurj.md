@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: MC Cabelinho, Raflow, Vinicin, TZ da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,482 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,464 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 45 | [CARA PRETA](https://open.spotify.com/track/47xidjAwGohxviJVbUubaF) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CARA PRETA](https://open.spotify.com/album/1bA3JsdE4OiuCjlfAmXdt4) | 3:27 |
 | 46 | [CAM 6](https://open.spotify.com/track/3bA5NyhbrQuWrgAyfHv6WT) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR) | [CAM 6](https://open.spotify.com/album/3ueHFK7Fel3VDcZ0o53Cyz) | 2:28 |
 | 47 | [Fresh Frozen](https://open.spotify.com/track/7lqdneiiVMBjfjtOLffDx8) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fresh Frozen](https://open.spotify.com/album/29eS6ntfEmstqdTC0kzU3a) | 1:49 |
-| 48 | [CENÁRIO DE HORROR](https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CENÁRIO DE HORROR](https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV) | 1:54 |
+| 48 | [CENÁRIO DE HORROR](https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [D'mazo](https://open.spotify.com/artist/378Z1zBVfU16par2plZF6k), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CENÁRIO DE HORROR](https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV) | 1:54 |
 | 49 | [ENFIM](https://open.spotify.com/track/3XpZLeMZjeNLddEcMxTg23) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO) | [ENFIM](https://open.spotify.com/album/0aWtrFfVNWardB7vCCxzz6) | 2:08 |
 | 50 | [6X1](https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [6X1](https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r) | 3:31 |
 | 51 | [JUDAS](https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [JUDAS](https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04) | 3:34 |

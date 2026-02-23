@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104870,
+  "num_followers": 104865,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
+        "name": "et mill\u00e4\u00e4n saa",
+        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "et mill\u00e4\u00e4n saa",
+      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
+    },
+    {
+      "added_at": "2026-02-19 22:00:21",
+      "album": {
         "name": "Clean Girl",
         "url": "https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 177951,
       "name": "Clean Girl",
       "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
-    },
-    {
-      "added_at": "2026-02-19 22:00:21",
-      "album": {
-        "name": "20:30 (feat. Karim B)",
-        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
-      },
-      "artists": [
-        {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        },
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "20:30 (feat. Karim B)",
-      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -427,22 +427,22 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "et mill\u00e4\u00e4n saa",
-        "url": "https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs"
+        "name": "20:30 (feat. Karim B)",
+        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
       },
       "artists": [
         {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
         },
         {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
         }
       ],
-      "duration_ms": 174000,
-      "name": "et mill\u00e4\u00e4n saa",
-      "url": "https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL"
+      "duration_ms": 171280,
+      "name": "20:30 (feat. Karim B)",
+      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "Solmui",
-        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Solmui",
-      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
-    },
-    {
-      "added_at": "2026-02-19 22:00:21",
-      "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 201037,
       "name": "MEININKI",
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
+    },
+    {
+      "added_at": "2026-02-19 22:00:21",
+      "album": {
+        "name": "Solmui",
+        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Solmui",
+      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
       "added_at": "2026-02-19 22:00:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-19 22:00:21",
       "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
-      },
-      "artists": [
-        {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
-        }
-      ],
-      "duration_ms": 176002,
-      "name": "Kill4Me",
-      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
-    },
-    {
-      "added_at": "2026-02-19 22:00:21",
-      "album": {
         "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
         "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 147807,
       "name": "Mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+    },
+    {
+      "added_at": "2026-02-19 22:00:21",
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "duration_ms": 176002,
+      "name": "Kill4Me",
+      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
     },
     {
       "added_at": "2026-02-19 22:00:21",

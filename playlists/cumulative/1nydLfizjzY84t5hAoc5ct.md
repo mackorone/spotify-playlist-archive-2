@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-162 songs - 9 hr 58 min
+163 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Unstable Mabel](https://open.spotify.com/track/24tdhaAqsJUcHCue6iApD8) | [MANTEL](https://open.spotify.com/artist/5lrF1CXXspB352ZwLhO62d) | [Unstable Mabel](https://open.spotify.com/album/5H7MalTOtPa3uAbCdoaUeY) | 4:07 | 2025-11-23 | 2026-02-02 |
 | [Up For Air](https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:55 | 2025-11-23 |  |
 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 | 2025-11-16 | 2026-02-02 |
+| [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 | 2026-02-22 |  |
 | [Warm/Safe](https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Warm/Safe](https://open.spotify.com/album/5ewK2wWp6uFddofEn3x9bO) | 2:55 | 2025-12-18 |  |
 | [When Did You Stop Dancing?](https://open.spotify.com/track/5TpbMuAVWV9u48WsnsJVer) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 4:26 | 2026-01-03 | 2026-02-02 |
 | [Where Did the Time Go](https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt) | [Ellyn Oliver](https://open.spotify.com/artist/5b5vgWOGZ4uQYYb5eWk9Tl) | [Where Did the Time Go](https://open.spotify.com/album/4DSfBuovOzfL54pgqRwV95) | 4:06 | 2025-11-16 | 2025-12-01 |

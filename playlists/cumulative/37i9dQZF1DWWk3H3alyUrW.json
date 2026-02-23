@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 240326,
       "name": "Co\u015fku (Rast Saz Eseri)",
       "url": "https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac"
@@ -1220,6 +1220,32 @@
       "duration_ms": 80146,
       "name": "\u00c7argah Sirto",
       "url": "https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd"
+    },
+    {
+      "album": {
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+      },
+      "artists": [
+        {
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        },
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Hakan Aysev",
+          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296658,
+      "name": "\u00d6zlem (Suzi Dil Saz Eseri)",
+      "url": "https://open.spotify.com/track/5ErbzMy8RTUUtUvFLv3Ss3"
     },
     {
       "album": {

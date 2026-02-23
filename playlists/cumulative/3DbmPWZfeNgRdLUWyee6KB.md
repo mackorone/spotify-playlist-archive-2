@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-664 songs - 1 day 15 hr 8 min
+666 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Heartbreak](https://open.spotify.com/track/4Kfz8tiFJqYn8lVRYwsdSC) | [Amovura](https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq) | [Heartbreak](https://open.spotify.com/album/3ogH4sbNLfvoo5B83dywvS) | 2:49 | 2025-11-17 | 2025-12-21 |
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2025-12-22 | 2026-01-24 |
 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 | 2026-02-20 |  |
+| [Hi, Mr\. President \- Rock Version](https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Hi, Mr\. President](https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg) | 4:16 | 2026-02-22 |  |
 | [Hi\-ya\-no](https://open.spotify.com/track/7oGZiK7KTyUjVu5NxHUoQW) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR) | [Hi\-ya\-no](https://open.spotify.com/album/4lvmA2qn4KzZIomq7u0Rd7) | 6:00 | 2025-12-16 | 2026-01-15 |
 | [Hiera](https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Hiera](https://open.spotify.com/album/66cw3IsY8YP2SRqAlDtN5R) | 3:04 | 2025-10-02 |  |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-12-13 | 2026-01-15 |
@@ -393,6 +394,7 @@
 | [Nikà](https://open.spotify.com/track/21IwyotvKTpn9LBOphRQNx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker](https://open.spotify.com/track/753qgf9vKNuImbtcpt46qn) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Nina the Dressmaker](https://open.spotify.com/album/0yo32cNHcbKaDZms79YdOO) | 4:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker \(alt\. Vers\)](https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:49 | 2023-04-27 | 2025-11-29 |
+| [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 |  |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
 | [Nostalgia \(Remastered\)](https://open.spotify.com/track/1BiivaZNsUDEgm8at5T5Et) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:49 | 2023-04-20 | 2025-11-29 |
 | [Not a French Song](https://open.spotify.com/track/0XdvcUFPQA7YPzvnhlLCzI) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Not a French Song](https://open.spotify.com/album/0hC9O2mioBqHlmao5R9Qim) | 2:32 | 2026-02-16 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 279673,
       "name": "A Candle's Night",
       "url": "https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 346431,
       "name": "Ain't no story of love",
       "url": "https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 201726,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 306000,
       "name": "Black River",
       "url": "https://open.spotify.com/track/1hLyYuATe5bQT3ewKkx8U7"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 272307,
       "name": "Girl in the sky",
       "url": "https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 169600,
       "name": "GIVE ME A LITTLE SOMETHING",
       "url": "https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 205454,
       "name": "Goin Down The Hiway - VIP Edit",
       "url": "https://open.spotify.com/track/7upLHhu8ike2dPbWGt4KvY"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 175247,
       "name": "goodbye - 2025 remastered",
       "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 172250,
       "name": "Hover",
       "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 306565,
       "name": "I Have No Fear",
       "url": "https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 228178,
       "name": "La Ciudad de las Estrellas",
       "url": "https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 251374,
       "name": "LOS BIOLOGOS",
       "url": "https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU"
@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/2Ru9L8vtPvvSfcSCcENjRj"
+      },
+      "artists": [
+        {
+          "name": "Love N'Dirtt",
+          "url": "https://open.spotify.com/artist/3mRYs0sLOI5IOBYiOYMLG6"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231424,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/5aaoiX4NB1mm65vh3uBi6N"
+    },
+    {
+      "album": {
         "name": "Oh Lord (DEMO)",
         "url": "https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 262633,
       "name": "Pale Face",
       "url": "https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9"
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 190934,
       "name": "Pear Tree",
       "url": "https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 227333,
       "name": "Perilous Crests",
       "url": "https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 219176,
       "name": "Rebranding",
       "url": "https://open.spotify.com/track/6Z3N2meIvmsTtnBnRD1yS1"
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 218739,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0lF2y089fv67qGw026DRhq"
@@ -5106,7 +5124,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 265890,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh"
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 310838,
       "name": "This Machine",
       "url": "https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 264063,
       "name": "Time",
       "url": "https://open.spotify.com/track/2hBxN7mxucA30ccsF4N4kU"

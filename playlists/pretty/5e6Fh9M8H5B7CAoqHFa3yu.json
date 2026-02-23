@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 265,
+  "num_followers": 264,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIK3kahYSoDkBBwa1wI6OK62k9fhzo",
+  "snapshot_id": "AAAILl14kVBSGR4z/4HWHI8SINIHna8Q",
   "tracks": [
     {
       "added_at": "2026-02-22 00:42:14",
@@ -33367,6 +33367,54 @@
       "duration_ms": 182696,
       "name": "All About Us",
       "url": "https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq"
+    },
+    {
+      "added_at": "2026-02-22 20:00:52",
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "duration_ms": 131694,
+      "name": "Peaceful Meadow",
+      "url": "https://open.spotify.com/track/410Q9n3o9N3La6nEQceEBf"
+    },
+    {
+      "added_at": "2026-02-22 20:01:17",
+      "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "duration_ms": 146343,
+      "name": "Sunset Hills",
+      "url": "https://open.spotify.com/track/3iDW00c3HFUSzpK0sWaheD"
+    },
+    {
+      "added_at": "2026-02-22 23:50:28",
+      "album": {
+        "name": "\u0415\u0449\u0451 \u0432\u0447\u0435\u0440\u0430",
+        "url": "https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 249721,
+      "name": "\u0415\u0449\u0451 \u0432\u0447\u0435\u0440\u0430",
+      "url": "https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

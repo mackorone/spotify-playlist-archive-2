@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: EASY FREAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,274 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,301 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 84 | [SUN](https://open.spotify.com/track/0jGNYm72oVfKksSNtegn57) | [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi), [Mariji](https://open.spotify.com/artist/4yWy9OzNlfl1Mv8jw7HCXR) | [SUN](https://open.spotify.com/album/4jajslnuLvwXU8L63jsjOr) | 2:18 |
 | 85 | [Beneath Your Surface](https://open.spotify.com/track/5g4zXjdQeeGYqi101xw6hD) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Beneath Your Surface / If You Exist](https://open.spotify.com/album/2lfxmUGNqeFrsJZXQ2XTZH) | 2:51 |
 
-Snapshot ID: `AAAAALkLC+36t0IgZtegzLBUNyboD2la`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

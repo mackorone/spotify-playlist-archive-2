@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Durand Bernarr",
-  "num_followers": 1015465,
+  "num_followers": 1015446,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
-      "added_at": "2025-02-21 07:15:25",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 323249,
-      "name": "BLAST!",
-      "url": "https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "All I Want Is You [Feat. October London]",
@@ -1689,20 +1673,36 @@
       "url": "https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
+      "added_at": "2025-02-21 07:15:25",
       "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
       "artists": [
         {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
+      "duration_ms": 323249,
+      "name": "BLAST!",
+      "url": "https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e"
+    },
+    {
+      "added_at": "2024-10-25 08:08:52",
+      "album": {
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 240394,
+      "name": "Nobody\u2019s Perfect",
+      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
     }
   ],
   "unique_name": "Soulful Day",

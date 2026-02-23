@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ally Evenson
 
-2,304 songs - 5 day 2 hr 38 min
+2,305 songs - 5 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,6 +1114,7 @@
 | [Jaded](https://open.spotify.com/track/1rwbl2Yj5KTRTuR33Gr30R) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Jaded](https://open.spotify.com/album/4JNujar6UbfatJArQheVXK) | 3:12 | 2021-08-14 | 2021-08-15 |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-03-24 | 2024-03-23 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
+| [Jelly](https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Sports](https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt) | 3:00 | 2026-02-20 |  |
 | [jenny's](https://open.spotify.com/track/45ZlUGBB91uQQDUUqiCMnu) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [jenny's](https://open.spotify.com/album/0hPGRmOveKdv8GE7kvLBZS) | 2:27 | 2025-09-26 | 2026-01-17 |
 | [Jesse C'mon](https://open.spotify.com/track/2MdlGVpttAcmVjMUo5hHbW) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Jesse C'mon](https://open.spotify.com/album/4pJ1u7tSjvImnIwgRQjyS6) | 2:26 | 2022-01-21 | 2022-04-16 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 | 2024-03-30 |
@@ -2018,7 +2019,7 @@
 | [TELESCOPE](https://open.spotify.com/track/0hSF71xjBaLyh4c7cV60hX) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq), [Sintoria](https://open.spotify.com/artist/5obN8rH8vcZiPJprUDj46p) | [TELESCOPE](https://open.spotify.com/album/68Ewq04LRD81Bbx60eXIBg) | 3:03 | 2020-11-20 | 2021-01-23 |
 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-02-03 |  |
 | [telly](https://open.spotify.com/track/01YqF3Nhfu3nsiQnZONpqT) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [telly](https://open.spotify.com/album/2ANxpNOc4tI3yi8baY5q8J) | 2:14 | 2021-05-10 | 2021-06-04 |
-| [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-06 |  |
+| [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-06 | 2026-02-23 |
 | [Tension](https://open.spotify.com/track/7iw7EB3awZl7xbXgAdKqQi) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Planetarium](https://open.spotify.com/album/0aw1n752bWwLLwwv5daGfG) | 2:53 | 2021-05-11 | 2021-10-14 |
 | [Tequila & Lemonade](https://open.spotify.com/track/4rjF36rbNb7V7JG44FjJYI) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Tequila & Lemonade](https://open.spotify.com/album/64CXXqfAeThj5C3DRqYCot) | 3:41 | 2020-10-16 | 2020-11-15 |
 | [terrible4u](https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [terrible4u](https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn) | 3:18 | 2025-10-03 |  |

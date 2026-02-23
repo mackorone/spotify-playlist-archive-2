@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,063 songs - 2 day 21 hr 22 min
+1,064 songs - 2 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Act 1 \(The Pilgrim\)](https://open.spotify.com/track/0Sh2zTedEwg16d30rcPTM4) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd), [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 1:39 | 2026-02-05 |  |
 | [Act Won \(Things Fall Apart\)](https://open.spotify.com/track/4x7uHC8or1AwVeRCh1mULV) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 0:53 | 2022-01-03 |  |
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
+| [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 | 2026-02-22 |  |
 | [Against the Fall of Night](https://open.spotify.com/track/2kDOhhKHJfACIeWDNeRj1P) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 3:59 | 2025-10-08 |  |
 | [Against The World](https://open.spotify.com/track/1fnTxeWrORlRZqUsEOvVEo) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:30 | 2026-01-15 |  |
 | [Agnus Dei](https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 5:45 | 2024-01-27 | 2024-09-10 |

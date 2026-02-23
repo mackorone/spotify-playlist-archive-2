@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: 中島健人
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: 中島健人/Kento Nakajima
 
-900 songs - 2 day 1 hr 15 min
+901 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Maniac \- Japanese Ver.](https://open.spotify.com/track/4ckyOStRfNqZLJ1I9q8b3V) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Maniac \(Japanese Ver.\)](https://open.spotify.com/album/6Qqif0GArwgxcVSWj3wMdZ) | 3:16 | 2025-06-05 | 2025-06-13 |
 | [Map of The Mind](https://open.spotify.com/track/1uIeF6jUVWqSNB1FGY9t4X) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Map of The Mind](https://open.spotify.com/album/6kPXLyhHSHXMoO7zHHWTOC) | 3:18 | 2025-03-06 | 2025-04-15 |
 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 | 2025-05-09 |
-| [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 | 2025-11-21 |  |
+| [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 | 2025-11-21 | 2026-02-23 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 | 2025-09-05 |
 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 | 2024-10-01 | 2024-12-09 |
@@ -655,7 +655,7 @@
 | [Stargaze](https://open.spotify.com/track/2c0DXz1BW0FdiDXi2h4prp) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Stargaze](https://open.spotify.com/album/2fOvvVnrRNqmMvPWjWxDDx) | 3:57 | 2025-07-07 | 2025-11-10 |
 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 | 2024-01-16 | 2024-04-24 |
 | [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-31 | 2024-02-07 |
-| [STARS](https://open.spotify.com/track/7oS96qmtYu3AdEX29HNAKf) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [STARS](https://open.spotify.com/album/4ljcm2YWCYxmd8mV5m9Kos) | 4:06 | 2026-02-01 |  |
+| [STARS](https://open.spotify.com/track/7oS96qmtYu3AdEX29HNAKf) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [STARS](https://open.spotify.com/album/4ljcm2YWCYxmd8mV5m9Kos) | 4:06 | 2026-02-01 | 2026-02-23 |
 | [Stay](https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Stay](https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ) | 3:23 | 2026-02-16 |  |
 | [Steal a Kiss](https://open.spotify.com/track/6km0i4QxDevx8KsN1F3k0H) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Just like 超特急](https://open.spotify.com/album/5vk1IqGTHZ5qJHaTcS8EU5) | 3:03 | 2024-04-16 | 2024-05-29 |
 | [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 | 2025-05-26 | 2025-07-22 |
@@ -819,6 +819,7 @@
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-23 | 2024-07-31 |
 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 | 2024-05-21 | 2024-07-31 |
 | [オオカミと彗星](https://open.spotify.com/track/1A2J7Pccy4Ur0lwP0HYJaJ) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [オオカミと彗星](https://open.spotify.com/album/5yKELJirAKvjSwJR3uwysm) | 4:30 | 2024-01-02 | 2024-01-24 |
+| [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 | 2026-02-22 |  |
 | [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 | 2024-07-30 | 2024-09-04 |
 | [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 | 2024-11-12 | 2025-03-07 |
 | [カカッテコーゼ](https://open.spotify.com/track/4NPPfmUsi86rgdRZNL5oWa) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:30 | 2024-07-30 | 2024-08-23 |

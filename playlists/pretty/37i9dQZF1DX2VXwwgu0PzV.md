@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Reblah, FIDEL E\. William Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,352 likes - 151 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,364 likes - 151 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 18 | [Only Human](https://open.spotify.com/track/1wo5KXVinDwmiYjNbnR9Zz) | [Tdooooo](https://open.spotify.com/artist/0JePZ1mbYZS6koCzQGphiI) | [Only Human](https://open.spotify.com/album/3jhcjfORi7cqNf3E6izq2x) | 2:58 |
 | 19 | [I Pray](https://open.spotify.com/track/1KWVBBbCUVjxHtTwqTqwpV) | [Evelle](https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa) | [I Pray](https://open.spotify.com/album/4f47FsBbQU4kUlKoWFt4GT) | 3:04 |
 | 20 | [I’m Yours](https://open.spotify.com/track/7j67XcIipVGFLu7Weo8zpE) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [I’m Yours](https://open.spotify.com/album/5BAjNbNNz0z9HRWyohJe5H) | 2:51 |
-| 21 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
+| 21 | [Euphoria](https://open.spotify.com/track/5o9QZetwu9yaA4EMBzA4tI) | [meakén](https://open.spotify.com/artist/4quM0Q6pIwIuKPVWgYEDNY), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs), [Rudoson](https://open.spotify.com/artist/5Fy5Bk5iT1L2FkrIHRLdiS), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Euphoria](https://open.spotify.com/album/42sHFFdfelBvwI17OwGCn8) | 3:17 |
 | 22 | [Dey Pray](https://open.spotify.com/track/1yiah3DJ495GGyfoafP2rk) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Dey Pray](https://open.spotify.com/album/7gmh0bY9iZ9zIhCyFz5SSt) | 3:12 |
 | 23 | [Mercy](https://open.spotify.com/track/10mu4u3tUh7CHVrqVG6yit) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Mercy](https://open.spotify.com/album/6yLPkiUBX4SnwSBBrOtwU7) | 3:48 |
 | 24 | [Water](https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Water](https://open.spotify.com/album/6AWWQnjfpWdbCTbS0N76T3) | 2:54 |

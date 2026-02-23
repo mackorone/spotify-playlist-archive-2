@@ -2,7 +2,7 @@
 
 ### [Lo Mejor del Indie Latino  ](https://open.spotify.com/playlist/37i9dQZF1DX4ICTqceOnSJ)
 
-> Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
+> Las canciones esenciales de la escena alternativa en español\. Con Carlos Sadness en portada.
 
 308 songs - 18 hr 3 min
 

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-323 songs - 18 hr 35 min
+325 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [High on You](https://open.spotify.com/track/1x2ql7GenJK1F30lmR45vp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [High on You](https://open.spotify.com/album/2UBuB3s8t310icc8c4pQED) | 2:51 | 2025-04-19 | 2025-06-30 |
 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 | 2025-06-29 |  |
 | [Hiroshima](https://open.spotify.com/track/1V7sNlhbDeAcgX0Hp5NkJw) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:31 | 2024-05-01 |  |
+| [Hold On To That Feelin'](https://open.spotify.com/track/0JYbyV3lEwDtHREABiaS0T) | [Jordan Paul](https://open.spotify.com/artist/31QZ4RJ3RRju0BT8z5ke2N) | [Hold On To That Feelin'](https://open.spotify.com/album/6BfCtnQsqADj2K4mVZ1oXH) | 2:43 | 2026-02-22 |  |
 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2024-05-01 |  |
 | [How Far](https://open.spotify.com/track/1NLjz5EHlw7CP2hJIXuZbm) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 | 2024-05-01 |  |
 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 | 2024-05-01 |  |
@@ -210,7 +211,8 @@
 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 | 2024-05-01 | 2025-11-28 |
 | [Overdrive](https://open.spotify.com/track/7w0DBjKu0wWit9BjUrpGDF) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:59 | 2024-05-01 | 2024-12-12 |
 | [Overdrive](https://open.spotify.com/track/5oxWSNe8xUp2GtT8l28Qz7) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 2:59 | 2024-12-11 |  |
-| [Palomita Negrita](https://open.spotify.com/track/7xcBQkWMbxAvYO03q5K4YQ) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Palomita Negrita](https://open.spotify.com/album/4fz3NUIBxQlzgAX5ztB1uz) | 4:05 | 2024-05-01 |  |
+| [Palomita Negrita](https://open.spotify.com/track/7xcBQkWMbxAvYO03q5K4YQ) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Palomita Negrita](https://open.spotify.com/album/4fz3NUIBxQlzgAX5ztB1uz) | 4:05 | 2024-05-01 | 2026-02-23 |
+| [Palomita Negrita](https://open.spotify.com/track/2dOBdBDLjEZlcpc6lC2mQ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [ISOLA](https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML) | 4:05 | 2026-02-22 |  |
 | [Personal](https://open.spotify.com/track/2nXa9R1HW85cFPDFxmnutP) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 4:19 | 2024-05-01 |  |
 | [Photosynthesis](https://open.spotify.com/track/5mq1tLYr3ukhvIuTguWHlX) | [Korantemaa](https://open.spotify.com/artist/6KEQ1IQ4NayJNUT2zAVXgl) | [Fruit](https://open.spotify.com/album/3WuqywZ2hMkiOXEsCE9SSP) | 3:22 | 2024-05-01 |  |
 | [Pressure](https://open.spotify.com/track/6i6dlak8cGUP1I9Owj9zPq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:19 | 2024-05-01 |  |

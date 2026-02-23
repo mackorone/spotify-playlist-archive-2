@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Samara Cyn",
-  "num_followers": 64723,
+  "num_followers": 64718,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "Who Is Bankroll?",
         "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 131592,
       "name": "From The Back",
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-02-06 05:00:30",

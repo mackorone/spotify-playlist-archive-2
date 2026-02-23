@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: FAB GODAMN
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,153 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,144 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 61 | [Taurus](https://open.spotify.com/track/7BuRr2KXEhsjn1Mn5igdI3) | [tsuki](https://open.spotify.com/artist/49p3xaN7ZlBv11OShJWRuv), [Korvo](https://open.spotify.com/artist/1iXlYj5Z4eq15GwxmzMT8H), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [I LOVE TRAP](https://open.spotify.com/album/68gDFkcVEZfPGyTCNdK9OE) | 2:53 |
 | 62 | [Caminho$ \(feat\. Frajadx\)](https://open.spotify.com/track/378XtJcF7ZmvOpsrXQzUJh) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Harley Mc](https://open.spotify.com/artist/21HIA1rFEITRi6JHKoXAJF), [Novato Mc](https://open.spotify.com/artist/2uVEAh3RP4CqkRM9ropLxu), [Guimacê](https://open.spotify.com/artist/6aOyDUxUbS01s0rLrl4fhk), [Frajadx](https://open.spotify.com/artist/4NxS5jNLcOyPrIFlTJumfK) | [Ouro do Bairro, Vol\. 4](https://open.spotify.com/album/00tDKjn27JO98DTiINSZZs) | 3:19 |
 | 63 | [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 |
-| 64 | [CENÁRIO DE HORROR](https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CENÁRIO DE HORROR](https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV) | 1:54 |
+| 64 | [CENÁRIO DE HORROR](https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [D'mazo](https://open.spotify.com/artist/378Z1zBVfU16par2plZF6k), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [CENÁRIO DE HORROR](https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV) | 1:54 |
 | 65 | [Respirar](https://open.spotify.com/track/47pt0aFZ0AKAnhz05VT0ZH) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy), [Igor G.](https://open.spotify.com/artist/1EMBzeRHBxWRYjct4Ia05J) | [Respirar](https://open.spotify.com/album/2TwKf8SLlHhasqt9i2xj3u) | 3:03 |
 | 66 | [Deus Me Mostra \(o corre\)](https://open.spotify.com/track/5MD88ItKc6VMTeuitjTJrb) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei) | [Deus Me Mostra \(o corre\)](https://open.spotify.com/album/0yASGmtWiffMxN31OgPuLt) | 2:37 |
 | 67 | [DINHEIRO VERDE](https://open.spotify.com/track/5K9FTrJMLqFlpIn41yqKA3) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [DINHEIRO VERDE](https://open.spotify.com/album/0PlYRoj8yfUkLbhqmhshTB) | 2:02 |

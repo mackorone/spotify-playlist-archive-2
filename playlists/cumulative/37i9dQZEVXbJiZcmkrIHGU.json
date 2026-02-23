@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 163601,
       "name": "ALL IN (Lieblingslieder)",
       "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
@@ -9568,7 +9568,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -11826,7 +11826,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 167153,
       "name": "BLN",
       "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
@@ -11932,7 +11932,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 147893,
       "name": "BLOCKKIDS",
       "url": "https://open.spotify.com/track/2IzZDG0nsfZD8H9AKi2aPc"
@@ -20316,7 +20316,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
@@ -38286,7 +38286,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 190600,
       "name": "Kapitel 01: und der rote B\u00fcffel - Folge 237",
       "url": "https://open.spotify.com/track/2PGIvAKMuDMZL1Etzxap1Y"
@@ -38304,7 +38304,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 186306,
       "name": "Kapitel 02: und der rote B\u00fcffel - Folge 237",
       "url": "https://open.spotify.com/track/4JMCc8i3vSReOdzbuetp8Z"
@@ -38322,7 +38322,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 188186,
       "name": "Kapitel 03: und der rote B\u00fcffel - Folge 237",
       "url": "https://open.spotify.com/track/72PI7ycm6nFgkcTCpXMtRH"
@@ -38344,6 +38344,96 @@
       "duration_ms": 181653,
       "name": "Kapitel 06: und das Fantasmofon - Folge 235",
       "url": "https://open.spotify.com/track/6JUsraVDCoFmfOIZ89C7ix"
+    },
+    {
+      "album": {
+        "name": "Folge 237: und der rote B\u00fcffel",
+        "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Kapitel 06: und der rote B\u00fcffel - Folge 237",
+      "url": "https://open.spotify.com/track/6cKbPbMKSdznCkMK0D9YPY"
+    },
+    {
+      "album": {
+        "name": "Folge 237: und der rote B\u00fcffel",
+        "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Kapitel 07: und der rote B\u00fcffel - Folge 237",
+      "url": "https://open.spotify.com/track/0AoTZlsIVDKCbQNfoyXQ0V"
+    },
+    {
+      "album": {
+        "name": "Folge 237: und der rote B\u00fcffel",
+        "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Kapitel 08: und der rote B\u00fcffel - Folge 237",
+      "url": "https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8"
+    },
+    {
+      "album": {
+        "name": "Folge 237: und der rote B\u00fcffel",
+        "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182480,
+      "name": "Kapitel 09: und der rote B\u00fcffel - Folge 237",
+      "url": "https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg"
+    },
+    {
+      "album": {
+        "name": "Folge 237: und der rote B\u00fcffel",
+        "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Kapitel 10: und der rote B\u00fcffel - Folge 237",
+      "url": "https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M"
     },
     {
       "album": {
@@ -40188,7 +40278,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 169179,
       "name": "Kontrollieren",
       "url": "https://open.spotify.com/track/0MO23YPXVmgLm2zqtAEC0T"
@@ -47954,7 +48044,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 138315,
       "name": "Millieu 26",
       "url": "https://open.spotify.com/track/4KsQEEgcy7dA1yVGkI2ozm"
@@ -52422,7 +52512,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -64366,7 +64456,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
@@ -65612,7 +65702,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -66242,7 +66332,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 166666,
       "name": "Song 11 ft Provinz",
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
@@ -77524,7 +77614,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"

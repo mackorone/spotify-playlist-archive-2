@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 431624,
+  "num_followers": 431669,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAADN/VkIyVs20few3KaaODsR",
+  "snapshot_id": "aZj1gAAAAACKnD3yItj0Y+XGeQH5vjQk",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 362066,
       "name": "Talullah",
       "url": "https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
+      "duration_ms": 245173,
+      "name": "Emergency on Planet Earth",
+      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 245173,
-      "name": "Emergency on Planet Earth",
-      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
+      "duration_ms": 295400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
     },
     {
       "added_at": null,

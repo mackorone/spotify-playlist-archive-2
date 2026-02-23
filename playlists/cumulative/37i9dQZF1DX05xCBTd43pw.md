@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-480 songs - 1 day 0 hr 49 min
+481 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2025-05-15 | 2025-05-23 |
 | [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 | 2025-11-13 | 2025-11-28 |
-| [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 | 2025-05-15 |  |
+| [En Lea](https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Longue Ride](https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d) | 3:51 | 2025-05-15 | 2026-02-23 |
 | [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 | 2025-06-03 |
 | [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-15 | 2024-10-04 |
@@ -324,7 +324,7 @@
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-27 | 2024-12-22 |
 | [Ordinary Life](https://open.spotify.com/track/1aQ80lTWOLrfLigNkF8ak4) | [Michael Benjamin](https://open.spotify.com/artist/2EczmcWYFrGxMwxxjNbc6r) | [Ordinary Life](https://open.spotify.com/album/0nDY27SVKOzvn063FgBcW5) | 3:15 | 2026-02-19 |  |
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
-| [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 |  |
+| [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 | 2026-02-23 |
 | [Paperhearts](https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Paperhearts](https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj) | 3:03 | 2025-01-10 | 2025-03-08 |
 | [Petra Sturzenegger](https://open.spotify.com/track/79fkcZ3Fa04MA5ydqCMVQb) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:30 | 2025-05-08 | 2025-05-16 |
 | [Pillow Song](https://open.spotify.com/track/2PGr4xCiAFnH9o1MIr5oza) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Pillow Song](https://open.spotify.com/album/70EOvr61gUGqUOvNYyEBRQ) | 3:33 | 2024-10-03 | 2024-10-06 |
@@ -440,6 +440,7 @@
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
 | [trop tard](https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [trop tard](https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd) | 2:57 | 2025-07-10 | 2025-07-30 |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
+| [Type Of Way](https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Type Of Way](https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj) | 3:14 | 2026-02-19 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2025-09-13 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-15 | 2026-01-31 |
@@ -481,7 +482,7 @@
 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-31 | 2025-09-26 |
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 | 2026-02-06 |
-| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 | 2026-02-19 |
+| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |
 | [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 | 2025-07-19 |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |
 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-10-16 |

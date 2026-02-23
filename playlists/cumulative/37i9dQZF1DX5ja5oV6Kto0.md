@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
 
-1,017 songs - 2 day 1 hr 17 min
+1,018 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [STRIPPERS ANTHEM \(feat\. Teezee and PsychoYP\)](https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:50 | 2023-10-17 | 2023-11-10 |
 | [Stunt Like This](https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Stunt Like This](https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe) | 2:46 | 2024-10-12 | 2024-10-19 |
 | [Stush](https://open.spotify.com/track/4yKqmCY6k6HxyDXdMurC28) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Stush](https://open.spotify.com/album/1LIsi3N1n8ukUCpui4UtBW) | 2:41 | 2024-04-26 | 2025-01-31 |
+| [STYLO](https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [BayO](https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [STYLO](https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj) | 3:22 | 2026-02-20 |  |
 | [Suffer](https://open.spotify.com/track/6M7aVGlZ6yk9wvDl3APqUc) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Suffer](https://open.spotify.com/album/0EsezaZxlfx9UC76ha3okG) | 2:06 | 2024-01-26 | 2024-03-22 |
 | [Sugar](https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Sugar](https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf) | 3:38 | 2021-12-09 | 2022-05-13 |
 | [SUGAR HONEY ICED TEA](https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [MONOCHROME RADIO \(DELUXE\)](https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3) | 3:42 | 2025-08-08 |  |
@@ -999,7 +1000,7 @@
 | [Who Dey Shake \- Cassellbeats Remix](https://open.spotify.com/track/7JzpzomGoQJAjMzSrUYbyc) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj), [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c), [Cassellbeats](https://open.spotify.com/artist/4dO5hGjbtPE70pYDEtkMD0) | [Who Dey Shake \(Cassellbeats Remix\)](https://open.spotify.com/album/2DaMDwXZkMmHVxkrtAG4Fy) | 3:14 | 2023-12-15 | 2024-01-05 |
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-10-04 | 2023-10-20 |
 | [Why Evils](https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Why Evils](https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV) | 4:00 | 2023-11-03 | 2024-06-07 |
-| [Wicked](https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Wicked](https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk) | 2:35 | 2026-01-30 |  |
+| [Wicked](https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Wicked](https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk) | 2:35 | 2026-01-30 | 2026-02-23 |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-12-22 |
 | [WICKED \(feat\. Cruel Santino\) \- Remix](https://open.spotify.com/track/5JogQs6MwOokHBoVLaF7S9) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [WICKED \(feat\. Cruel Santino\) \[Remix\]](https://open.spotify.com/album/5kYSnQHbeEGXz2MWuePRRP) | 2:38 | 2025-05-16 | 2026-01-25 |
 | [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 | 2024-09-13 | 2025-03-21 |

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-488 songs - 1 day 1 hr 52 min
+491 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 | 2025-06-28 |
 | [suitetalk!](https://open.spotify.com/track/0YtthJQGl0amJb1snucEYm) | [RSKO](https://open.spotify.com/artist/7lNGd5TEYiVK5aIJQalVEv) | [garaje.v.2](https://open.spotify.com/album/4MJcxzMKLHo9TksxbwA2gj) | 3:08 | 2025-04-28 |  |
 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 | 2025-02-09 |  |
+| [Superstar](https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z) | [Trash Modjo](https://open.spotify.com/artist/0sqd55dX3mOswXySd46NT5), [PartyFowl](https://open.spotify.com/artist/1NhZDu9Qf3YtbQZC458hg1), [DJ Trashtail](https://open.spotify.com/artist/48KJapfAlCxYJlR1JqvVex), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Together](https://open.spotify.com/album/7bQrXFtvhRKXpXjewkeD4Q) | 2:42 | 2026-02-22 |  |
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 |  |
 | [T BOY SWAG!!](https://open.spotify.com/track/1pnXju2cvAdcXwhSaIHlhO) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:13 | 2024-07-25 |  |
 | [Take Me 2 Your Home](https://open.spotify.com/track/2QaSEVvEucEfOBIFqKGjFZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Take Me 2 Your Home](https://open.spotify.com/album/0lX9wI8D3EFTPr6efx1WaR) | 2:48 | 2025-12-20 |  |
@@ -438,6 +439,7 @@
 | [THE FLIES \- REMIX](https://open.spotify.com/track/19HjBefvsg5MYOTULhFxvX) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:20 | 2024-07-14 |  |
 | [The Flower](https://open.spotify.com/track/2gRC0oHnH8t5l6qlgmpttT) | [Siv Kyne](https://open.spotify.com/artist/4VFrZg2IkVBK66DEnA8CK4), [Melodinumbra](https://open.spotify.com/artist/2o5GlEfiErzi5R8dzihueQ) | [The Flower](https://open.spotify.com/album/5xkLgn7UBRDbmGsxoU77hj) | 1:26 | 2025-04-14 |  |
 | [The General's Dogs](https://open.spotify.com/track/60Agi3R9ZYvncE1aNgOuAX) | [Exit Mouse](https://open.spotify.com/artist/3Ogz8kpK4hhGhHfSPVY7ER) | [The General's Dogs](https://open.spotify.com/album/6LfxDLa7ytzXxtGu9iaDp5) | 2:48 | 2023-06-14 |  |
+| [The Greatest Tale Ever Told](https://open.spotify.com/track/5V3Xd5AEvZch132GuWVTbT) | [NathanSquarez](https://open.spotify.com/artist/61qupiO6t1TGw6I3uN9V7D) | [The Greatest Tail Ever Told](https://open.spotify.com/album/4ZCwgUUglcmIIVSwi9lHwu) | 3:32 | 2026-02-22 |  |
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2024-08-15 |  |
 | [the largest boy \(ever\)](https://open.spotify.com/track/6pfzmolYBWEEGGCDuCo4Bi) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:44 | 2024-11-18 |  |
 | [the life im living](https://open.spotify.com/track/2iFM2U5yL9mjlCXp0zi4PS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:46 | 2025-10-27 |  |
@@ -474,6 +476,7 @@
 | [We Built Pillow Forts](https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [My Dreams Are Real](https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm) | 4:51 | 2026-02-11 |  |
 | [Webpunk](https://open.spotify.com/track/3Hx9z2y10IRs1bdE18PVsh) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [Love & Ponystep](https://open.spotify.com/album/2g5xTWYxh5RkalkOc2Rxds) | 3:58 | 2025-08-21 |  |
 | [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 | 2023-06-14 |  |
+| [what would my phone do without me](https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu) | [YDXX](https://open.spotify.com/artist/5HTGIsBvCg8NpbTZuXkmJQ) | [what would my phone do without me](https://open.spotify.com/album/0VZFED1R1Xhnk5YypOHVgS) | 1:38 | 2026-02-22 |  |
 | [whatisthetruth](https://open.spotify.com/track/48m5yGOpFG7QAn8EY9ZKKi) | [nightstand lullaby](https://open.spotify.com/artist/0uHNW8Qq4LAZGMMrw66ceM), [InkyFirefly](https://open.spotify.com/artist/5OoLdY1AxARoc1Le6HbrsL) | [dilation](https://open.spotify.com/album/29MNuASiq6KXf6A4IPrQLM) | 3:18 | 2024-11-18 | 2025-08-13 |
 | [When I Say Go](https://open.spotify.com/track/7uLYm4sGWIyuLEe0UBbrPR) | [CaseJackal](https://open.spotify.com/artist/7g70RbgaRstVaB30WRBOP8), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [When I Say Go](https://open.spotify.com/album/0ADMGJ1s5a6QkTLzYhcEXt) | 4:21 | 2024-03-06 |  |
 | [When The Opera Ends](https://open.spotify.com/track/4Wplx3eSDhIab3wglmii7O) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [When The Opera Ends](https://open.spotify.com/album/3VkWnUaXYnWkl8WQ87W3EB) | 2:38 | 2026-01-24 |  |

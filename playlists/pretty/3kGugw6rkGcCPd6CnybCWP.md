@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 70 songs - 4 hr 1 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 71 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 68 | [Legos](https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk) | [K\-NON](https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY), [Vepy](https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi) | [Legos](https://open.spotify.com/album/7u35zpzp6buERBScBvujJi) | 3:28 |
 | 69 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 |
 | 70 | [Whatever I Don’t Care](https://open.spotify.com/track/4qZaE4L7g9PHM1WEWKNKdn) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Multiverse of Life](https://open.spotify.com/album/1VdqzcZbvS4d5PP0hw1RSP) | 3:12 |
+| 71 | [Someday](https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Someday](https://open.spotify.com/album/4fGDXODSv9DtjUjnL4rsey) | 2:55 |
 
-Snapshot ID: `AAANZ3XaqL/XzZdkGxje87t5/Y4nK6K6`
+Snapshot ID: `AAANaKitToWNyoRqPNRrkflNSMbFgG3T`

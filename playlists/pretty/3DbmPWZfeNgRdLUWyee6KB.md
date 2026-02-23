@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,275 likes - 152 songs - 8 hr 34 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,277 likes - 154 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,5 +160,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 150 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 |
 | 151 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 |
 | 152 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 |
+| 153 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 |
+| 154 | [Hi, Mr\. President \- Rock Version](https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Hi, Mr\. President](https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg) | 4:16 |
 
-Snapshot ID: `AAAQvvF//15UMcVaQsof8jARox20iHRY`
+Snapshot ID: `AAAQwGpJOYQWH7WkAAO7UFIzWzMxjTdH`

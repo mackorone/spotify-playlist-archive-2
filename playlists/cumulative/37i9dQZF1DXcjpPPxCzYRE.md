@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-481 songs - 1 day 3 hr 23 min
+482 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 | 2024-05-02 | 2024-06-07 |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-18 | 2025-12-05 |
 | [Boredom](https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr) | [Núria Graham](https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI) | [Boredom \(Demo 2015\)](https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN) | 3:52 | 2024-06-06 |  |
-| [Bossa Recíproca](https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [La Cura del Habla](https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA) | 3:23 | 2026-02-19 |  |
+| [Bossa Recíproca](https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [La Cura del Habla](https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA) | 3:23 | 2026-02-19 | 2026-02-23 |
 | [Botecito](https://open.spotify.com/track/3jd98IqkeEChfoe98H24Ma) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Botecito](https://open.spotify.com/album/0ldh3YA3WxIdKM4Gdr8vrm) | 3:57 | 2023-10-26 |  |
 | [brujita](https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [BABAYAGA](https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I) | 2:39 | 2023-03-16 | 2023-04-21 |
 | [Burn](https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:59 | 2024-08-23 | 2025-07-01 |
@@ -352,6 +352,7 @@
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-22 |
 | [Por Ti](https://open.spotify.com/track/5af0LkK9IMmgEheywAYC2A) | [John Squalo](https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ), [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Por Ti](https://open.spotify.com/album/4dad4EzAlxM1ehmwTTEUVS) | 2:15 | 2025-09-18 | 2025-10-10 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-09-24 | 2025-06-27 |
+| [Primer Amor](https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX) | [Laaza](https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy) | [Primer Amor](https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z) | 2:26 | 2026-02-19 |  |
 | [Pro Mundo Ouvir](https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Pro Mundo Ouvir](https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb) | 3:10 | 2025-12-04 |  |
 | [Pudo haber sido](https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ) | [Lucas Marcos](https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO) | [Pudo haber sido](https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK) | 3:04 | 2024-10-24 | 2025-01-10 |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-23 | 2025-03-07 |

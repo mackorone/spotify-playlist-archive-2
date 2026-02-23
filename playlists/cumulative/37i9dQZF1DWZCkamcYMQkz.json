@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 448546,
       "name": "Back Beat",
       "url": "https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK"
@@ -2992,6 +2992,24 @@
       "duration_ms": 246640,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
+    },
+    {
+      "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217827,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
     },
     {
       "album": {

@@ -2427,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/4fGDXODSv9DtjUjnL4rsey"
+      },
+      "artists": [
+        {
+          "name": "JaShaku",
+          "url": "https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175332,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG"
+    },
+    {
+      "album": {
         "name": "stardust",
         "url": "https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk"
       },

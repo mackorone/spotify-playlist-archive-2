@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147997,
+  "num_followers": 147989,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "3:00 AM",
+      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "stars burn out",
         "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 215852,
       "name": "stars burn out",
       "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "3:00 AM",
-      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "What if we met at another place ?",
-        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "What if we met at another place ?",
-      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
       "added_at": "2026-01-23 02:28:33",

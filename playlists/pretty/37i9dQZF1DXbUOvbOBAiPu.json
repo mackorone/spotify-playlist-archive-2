@@ -1,6 +1,6 @@
 {
   "description": "New music from marguerite, PLK x Theodora, IBE and more...",
-  "num_followers": 48774,
+  "num_followers": 48766,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -1803,6 +1803,30 @@
       "duration_ms": 148404,
       "name": "miss u 2 (with Leon Thomas)",
       "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
+    },
+    {
+      "added_at": "2026-02-19 23:01:03",
+      "album": {
+        "name": "Clean and Fresh",
+        "url": "https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Clean and Fresh",
+      "url": "https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2"
     },
     {
       "added_at": "2026-02-19 23:01:03",

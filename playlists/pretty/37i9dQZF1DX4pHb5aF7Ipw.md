@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Rawaab Del Rey & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,954 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,971 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 16 | [SARKAR](https://open.spotify.com/track/3fBxEIkrv1smnbPrPpvnLu) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [UNSOLVED](https://open.spotify.com/album/1eEpwU2TSgM5yJFGfoCdBi) | 2:23 |
 | 17 | [WANNABE WIPEOUT](https://open.spotify.com/track/0MrLNaud3EwUfOUGFt89Vo) | [Baanga](https://open.spotify.com/artist/7LFOn4EYZKhv7zOIeEKqgP) | [WANNABE WIPEOUT](https://open.spotify.com/album/66TvyW8voJz00is8AXJ6HJ) | 2:31 |
 | 18 | [Toka](https://open.spotify.com/track/1AKd3fIVG1KDnhcnmJjZ7U) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jovinbainz](https://open.spotify.com/artist/5pDsg7wlmFI8ubgEh6rmt4) | [Toka](https://open.spotify.com/album/6Ft7uytFpja0FscOL1mrP7) | 3:20 |
-| 19 | [Sobo \(Feat\. Lala\)](https://open.spotify.com/track/32ol0lbcfFSFaCkLHKwice) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Lala](https://open.spotify.com/artist/6rmRumY3jVfZkWlegXdKcp) | [Golden Era \- The High Life](https://open.spotify.com/album/5f4WGvAfji8r9DKCIDNNXq) | 2:44 |
+| 19 | [Sobo \(Feat\. Lala\)](https://open.spotify.com/track/32ol0lbcfFSFaCkLHKwice) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [LALA](https://open.spotify.com/artist/3QJoMteoDDVUSLRIiaWfQu) | [Golden Era \- The High Life](https://open.spotify.com/album/5f4WGvAfji8r9DKCIDNNXq) | 2:44 |
 | 20 | [Zero Bend](https://open.spotify.com/track/13p0oZmsXmrkYUQBHGjJ4g) | [Gaggi Sekhon](https://open.spotify.com/artist/2UWHmYE8462cGQoZVbEl6C) | [Zero Bend](https://open.spotify.com/album/4nzjQZTa47CD9n9ouQixIy) | 2:57 |
 | 21 | [State Hood](https://open.spotify.com/track/3RK9AhME6lw5xgdsVjSV6o) | [Rick](https://open.spotify.com/artist/5ZkrOhbV1rW176l9G0AFLK), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [State Hood](https://open.spotify.com/album/65YfoSo0KsYz3yxUux5Og7) | 2:32 |
 | 22 | [It's Beginning](https://open.spotify.com/track/0DVOAOs91N9IzQqs4k5Qsc) | [Deep Money](https://open.spotify.com/artist/6t6D6drTfOF08Jp4w9wY2J), [Muzik Amy](https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK) | [It's Beginning](https://open.spotify.com/album/1SN3xefdvSZOIg7VJjvVoM) | 2:37 |

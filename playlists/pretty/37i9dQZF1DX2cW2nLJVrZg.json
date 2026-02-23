@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 254582,
+  "num_followers": 254578,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 109280,
       "name": "Remember Me (Ernesto de la Cruz)",
       "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Glory (From the Motion Picture Selma)",
-        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "Glory (From the Motion Picture Selma)",
-      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Once: A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 266006,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Glory (From the Motion Picture Selma)",
+        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "Glory (From the Motion Picture Selma)",
+      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
     },
     {
       "added_at": "2024-01-23 19:55:12",

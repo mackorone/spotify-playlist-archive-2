@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,186 likes - 48 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,209 likes - 48 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 23 | [Yomma Yomma](https://open.spotify.com/track/1LbWQ7SjTeCvD1iLSCfZre) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Yomma Yomma](https://open.spotify.com/album/2b48LGnrngZQ8fhUFmSErM) | 2:43 |
 | 24 | [Daiman](https://open.spotify.com/track/1zvSqMpUbktNbtNKVD3CIH) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Daiman](https://open.spotify.com/album/788RiwaYqxD5ipbJODPd8w) | 3:33 |
 | 25 | [Maqsoda](https://open.spotify.com/track/4Na3asJ6ziDXspqUtZH22W) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Maqsoda](https://open.spotify.com/album/6S2F1BSq39W6AuQ7GA6hyF) | 3:47 |
-| 26 | [Ensan](https://open.spotify.com/track/0xWfFxP3NZu1RIC3kSh2LN) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ensan](https://open.spotify.com/album/4GJS5Vp8fCNkQkEtDG2S94) | 4:08 |
+| 26 | [Ensan](https://open.spotify.com/track/0xWfFxP3NZu1RIC3kSh2LN) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ensan](https://open.spotify.com/album/4GJS5Vp8fCNkQkEtDG2S94) | 4:08 |
 | 27 | [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 |
 | 28 | [سوالف قبل](https://open.spotify.com/track/4dnKDh8KXg7o0WQFAYVpVq) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [سوالف قبل](https://open.spotify.com/album/4QBmOhhTwWsay8vSO7wqvU) | 3:41 |
 | 29 | [مقهورين مني](https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [مقهورين مني](https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8) | 2:55 |

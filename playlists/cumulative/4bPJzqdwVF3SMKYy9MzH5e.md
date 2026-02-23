@@ -4,7 +4,7 @@
 
 > 
 
-2,375 songs - 5 day 7 hr 40 min
+2,377 songs - 5 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1185,6 +1185,7 @@
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2025-08-06 |  |
 | [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 | 2025-04-29 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2024-06-29 |  |
+| [LABIOS MORDIDOS \(KALI UCHIS X KAROL G X TEGO CALDERON REMIX\)](https://open.spotify.com/track/2gjLS1OexTaGiVShh5W4yT) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [EXTASIS SILICONE](https://open.spotify.com/album/49d0SRdJA8L7AMxOWqsFap) | 3:13 | 2026-02-22 |  |
 | [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 | 2025-06-19 | 2025-06-22 |
 | [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 | 2025-04-29 |  |
 | [Lalalatte](https://open.spotify.com/track/5IjTpw72dT98mVjCX6rOab) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Latte and a Muffin](https://open.spotify.com/album/1r3Cw28qOUPLl8Qh7ibDlc) | 2:13 | 2023-01-06 |  |
@@ -1427,6 +1428,7 @@
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2021-08-05 |  |
 | [needy](https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:51 | 2021-08-05 |  |
 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 | 2022-07-20 |  |
+| [NEOGUARACHA \(ANDO X JERE KLEIN REMIX\)](https://open.spotify.com/track/0aIR00FfNMoyfL7XjpgYiq) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [EXTASIS SILICONE](https://open.spotify.com/album/49d0SRdJA8L7AMxOWqsFap) | 2:45 | 2026-02-22 |  |
 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2021-08-05 |  |
 | [Nerve](https://open.spotify.com/track/7beJ77YtreQqjHQJEQdbxd) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:23 | 2021-08-24 |  |
 | [Never](https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y), [O Super](https://open.spotify.com/artist/5pkyK1GpSOzRAYqs7XclPo) | [Never](https://open.spotify.com/album/6UXGi2ZR2aJ8JfXqnEaI3t) | 6:24 | 2021-08-05 |  |

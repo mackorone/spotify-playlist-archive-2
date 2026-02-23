@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,592 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,717 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 |
 | 75 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 
-Snapshot ID: `AAAAADoVtVqFhOrE6tPSOZCZ1AE1Cvhf`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

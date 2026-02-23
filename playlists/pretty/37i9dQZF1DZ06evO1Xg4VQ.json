@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72983,
+  "num_followers": 72984,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAABlCBigGsQ8bMnx10jc1wlt",
+  "snapshot_id": "aZj1gAAAAABugJ3DzSike9itm+m8MYZa",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00f3mo Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "El List\u00f3n de Tu Pelo",
-      "url": "https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambias mi Mundo",
         "url": "https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 290864,
       "name": "Cambias mi Mundo",
       "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "El List\u00f3n de Tu Pelo",
+      "url": "https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Palomo Del Comalito",
+      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Palomo Del Comalito",
-      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
     },
     {
       "added_at": null,
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+      "duration_ms": 232000,
+      "name": "Humito de Copal",
+      "url": "https://open.spotify.com/track/39gLiGKsitV9EANVgdk53i"
     },
     {
       "added_at": null,
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Humito de Copal",
-      "url": "https://open.spotify.com/track/39gLiGKsitV9EANVgdk53i"
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
       "added_at": null,

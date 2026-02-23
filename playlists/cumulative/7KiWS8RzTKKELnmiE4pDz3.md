@@ -4,7 +4,7 @@
 
 > 
 
-1,350 songs - 2 day 23 hr 17 min
+1,351 songs - 2 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [At the Hotel \(feat\. Lil Uzi Vert & Young Jordan\)](https://open.spotify.com/track/5RIVAc0J3PAsw4aqkzO7TM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Young Jordan](https://open.spotify.com/artist/2S4IY1ApijvgSCQzg3KhC0) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:49 | 2022-04-09 | 2026-02-08 |
 | [ATLANTIS \(feat\. Chief Keef\)](https://open.spotify.com/track/61KJmkiPBcNr5oLzDNTUt2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 4:12 | 2023-01-20 | 2023-04-24 |
 | [Auditorium](https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Ecstatic](https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC) | 4:34 | 2024-01-25 | 2024-03-05 |
+| [Aux Cord](https://open.spotify.com/track/25FSYy5ox8ZXYzBCvTEKLd) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/6vGEX2ejVVsHTIsqI1teZg) | 3:15 | 2026-02-23 |  |
 | [AYAHUASCA](https://open.spotify.com/track/3Hw4D78ZOwN9UIuLjmH0IS) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:48 | 2022-11-17 | 2023-12-14 |
 | [B5](https://open.spotify.com/track/4TYqIpFfz85iP3XBgV5Jlj) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 1:46 | 2023-10-27 | 2024-11-06 |
 | [Baby Blue Gwag](https://open.spotify.com/track/22b6LwrxaYchTsfci1ON5v) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:40 | 2023-01-27 | 2023-04-24 |

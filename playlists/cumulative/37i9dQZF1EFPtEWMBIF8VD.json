@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Goodbye Glitter",
+      "url": "https://open.spotify.com/track/604MXU06ejFTIx0u4EOL5c"
+    },
+    {
+      "album": {
         "name": "Goodbye Glitter",
         "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
       },
@@ -448,10 +466,28 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 234698,
       "name": "Goodbye Glitter",
       "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
+    },
+    {
+      "album": {
+        "name": "My Ego Told Me To",
+        "url": "https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184479,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/47b7dsWV4a784Iv4wAI6GH"
     },
     {
       "album": {
@@ -473,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/0h6MM6YPHIOmXAtnuUh5R3"
+    },
+    {
+      "album": {
         "name": "I Just Don't Know You Yet (Live)",
         "url": "https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk"
       },
@@ -484,7 +538,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 201007,
       "name": "I Just Don't Know You Yet",
       "url": "https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH"
@@ -719,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168080,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/1rlgQ2MPauN9eeADEJtQvg"
+    },
+    {
+      "album": {
         "name": "No Audience",
         "url": "https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t"
       },
@@ -730,7 +802,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 173334,
       "name": "No Audience",
       "url": "https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp"

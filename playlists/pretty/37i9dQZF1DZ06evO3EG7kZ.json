@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50822,
+  "num_followers": 50827,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAClJ641zzLVEkPryOKuTqUB",
+  "snapshot_id": "aZj1gAAAAABP6AXcuSMipZP8gXmiadsM",
   "tracks": [
     {
       "added_at": null,
@@ -60,13 +60,17 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -140,17 +144,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Josh Tatofi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,886 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,893 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 39 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 40 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 41 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
-| 42 | [Getting Stronger](https://open.spotify.com/track/0aRiRbMBJ4boE3hhhtlOsB) | [Adeaze](https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX) | [Always & for Real \(Deluxe Edition\)](https://open.spotify.com/album/6aYQiHlTI1VgSM3TKIMUr1) | 3:05 |
-| 43 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
+| 42 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
+| 43 | [Getting Stronger](https://open.spotify.com/track/0aRiRbMBJ4boE3hhhtlOsB) | [Adeaze](https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX) | [Always & for Real \(Deluxe Edition\)](https://open.spotify.com/album/6aYQiHlTI1VgSM3TKIMUr1) | 3:05 |
 | 44 | [For the People](https://open.spotify.com/track/51AXsgpHP8R1QWzFZRWZJk) | [Nesian Mystik](https://open.spotify.com/artist/29qTQ8hGGr8QxXbVRaC7WC) | [Polysaturated](https://open.spotify.com/album/6HZlLnjU5CzMyFgCkdIqrF) | 3:14 |
 | 45 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
 | 46 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 62 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
 | 63 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |
 | 64 | [Miss Royal](https://open.spotify.com/track/25ADTLaBfhag349FYvkkXd) | [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi), [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Miss Royal](https://open.spotify.com/album/3ZBgyNM9cNy6ahyqovVCzf) | 3:29 |
-| 65 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
-| 66 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 65 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 66 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
 | 67 | [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 |
 | 68 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
 | 69 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |

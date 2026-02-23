@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 40775,
+  "num_followers": 40780,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAAALYtD9wJS8kCFH6XOHIn8l",
+  "snapshot_id": "aZj1gAAAAADaYIyjYc7rQsuRGLeU7zX1",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
       },
       "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 258438,
-      "name": "No Puedo So\u00f1ar",
-      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+      "duration_ms": 207000,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
     },
     {
       "added_at": null,
@@ -575,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
       "artists": [
         {
@@ -584,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 132506,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
       "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 207000,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
+      "duration_ms": 132506,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
     },
     {
       "added_at": null,

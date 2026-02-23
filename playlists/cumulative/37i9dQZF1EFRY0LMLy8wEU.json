@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "Christ Our King",
+        "url": "https://open.spotify.com/album/3dpHJZgtP9FsDUvTPV0kUj"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658208,
+      "name": "Christ Our King",
+      "url": "https://open.spotify.com/track/10GgQAdENR2sh5UHrqQodB"
+    },
+    {
+      "album": {
         "name": "Driven by Love (Deluxe) [Live]",
         "url": "https://open.spotify.com/album/1Zqg6J0ckWkzHXzRsx5Lip"
       },

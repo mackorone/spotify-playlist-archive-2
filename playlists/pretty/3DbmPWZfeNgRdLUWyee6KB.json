@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1275,
+  "num_followers": 1277,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQvvF//15UMcVaQsof8jARox20iHRY",
+  "snapshot_id": "AAAQwGpJOYQWH7WkAAO7UFIzWzMxjTdH",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2559,6 +2559,38 @@
       "duration_ms": 303933,
       "name": "Insamnia",
       "url": "https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA"
+    },
+    {
+      "added_at": "2026-02-22 08:09:30",
+      "album": {
+        "name": "No Turns, Ultraviolet GT!",
+        "url": "https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "No Turns",
+      "url": "https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW"
+    },
+    {
+      "added_at": "2026-02-22 08:09:39",
+      "album": {
+        "name": "Hi, Mr. President",
+        "url": "https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg"
+      },
+      "artists": [
+        {
+          "name": "A.C.C.",
+          "url": "https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH"
+        }
+      ],
+      "duration_ms": 256966,
+      "name": "Hi, Mr. President - Rock Version",
+      "url": "https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin"
     }
   ],
   "unique_name": "New Indie Music",

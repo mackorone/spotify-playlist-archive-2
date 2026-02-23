@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 62789,
+  "num_followers": 62821,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAACiL5o7qh5m6W+Lyc6yN6Yp",
+  "snapshot_id": "aZj1gAAAAACtLcBHzQTOIN6L9e9xAjpq",
   "tracks": [
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+        "name": "More",
+        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+      "duration_ms": 186147,
+      "name": "More",
+      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186147,
-      "name": "More",
-      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,

@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 112600,
       "name": "Liar",
       "url": "https://open.spotify.com/track/4F1Do1YLRWwsduK20Dxn3B"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 118293,
       "name": "Rotten Future",
       "url": "https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 193750,
       "name": "That's Youth",
       "url": "https://open.spotify.com/track/7xQiia7dMyfgUKShoXtei7"
@@ -1916,6 +1916,24 @@
       "duration_ms": 165767,
       "name": "This Is the New Sound",
       "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
+    },
+    {
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
     },
     {
       "album": {

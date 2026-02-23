@@ -4069,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Hi, Mr. President",
+        "url": "https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg"
+      },
+      "artists": [
+        {
+          "name": "A.C.C.",
+          "url": "https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256966,
+      "name": "Hi, Mr. President - Rock Version",
+      "url": "https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin"
+    },
+    {
+      "album": {
         "name": "Hi-ya-no",
         "url": "https://open.spotify.com/album/4lvmA2qn4KzZIomq7u0Rd7"
       },
@@ -7500,6 +7518,24 @@
       "duration_ms": 289992,
       "name": "Nina the Dressmaker (alt. Vers)",
       "url": "https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G"
+    },
+    {
+      "album": {
+        "name": "No Turns, Ultraviolet GT!",
+        "url": "https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174637,
+      "name": "No Turns",
+      "url": "https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW"
     },
     {
       "album": {

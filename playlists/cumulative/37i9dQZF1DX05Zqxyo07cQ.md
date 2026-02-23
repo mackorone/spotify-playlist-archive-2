@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-969 songs - 1 day 22 hr 27 min
+970 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,7 +617,7 @@
 | [Objectively](https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Objectively](https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX) | 2:49 | 2025-04-09 | 2025-12-04 |
 | [Observing Thoughts](https://open.spotify.com/track/0Bqd6zOVbhrPjdS93Hzl26) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Observing Thoughts](https://open.spotify.com/album/4YuSIcnZ9hmEPqOyJiJ217) | 3:11 | 2025-12-17 |  |
 | [Occasion](https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Occasion](https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r) | 2:54 | 2024-05-04 | 2025-07-29 |
-| [of Your Dreams](https://open.spotify.com/track/2kmDXavcLA0O0vjdCLXWZl) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [of Your Dreams](https://open.spotify.com/album/4VlWQ0eiMvHRsbUbRAmHWP) | 2:27 | 2025-12-17 |  |
+| [of Your Dreams](https://open.spotify.com/track/2kmDXavcLA0O0vjdCLXWZl) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [of Your Dreams](https://open.spotify.com/album/4VlWQ0eiMvHRsbUbRAmHWP) | 2:27 | 2025-12-17 | 2026-02-23 |
 | [Old Station Atmos](https://open.spotify.com/track/02uEjuRG2GnzUVvyL0KWro) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Old Station Atmos](https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv) | 3:31 | 2023-03-23 | 2024-02-09 |
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-08 | 2024-10-15 |
 | [One Moon](https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [One Moon](https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE) | 2:20 | 2025-01-22 | 2025-11-13 |
@@ -700,6 +700,7 @@
 | [Remember](https://open.spotify.com/track/0bttaA5qKqByzkEofsVyK1) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Remember](https://open.spotify.com/album/0gbRDLp9hPUtVjDnBTdw1F) | 2:29 | 2025-03-27 | 2025-12-20 |
 | [Remembrance](https://open.spotify.com/track/7o5vJPnyA74cuM60JQ8NQS) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Remembrance](https://open.spotify.com/album/5Rhc4DOgS45jzFpd74v7pR) | 2:48 | 2025-03-05 | 2025-11-13 |
 | [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 | 2023-03-23 | 2024-05-21 |
+| [Reminiscent](https://open.spotify.com/track/6TgJe4W98MgWQnKG0AhxB9) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Reminiscent](https://open.spotify.com/album/3rPLdrMQ9Dzhzrz4enjpVy) | 2:53 | 2026-01-27 |  |
 | [Repose](https://open.spotify.com/track/1iRl4GsQ2w3Eve00Hz5MY4) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Repose](https://open.spotify.com/album/4fPcAndYksTOwgjmHX9ZGx) | 2:54 | 2024-05-04 | 2024-08-20 |
 | [Repose](https://open.spotify.com/track/6s5TgRuS940qXdSCR2Lyos) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Repose](https://open.spotify.com/album/4SoElGs3LwzLZK4s7kuy5A) | 2:55 | 2024-07-09 | 2025-03-12 |
 | [Requies](https://open.spotify.com/track/04Cu3spIaFCMhw6nGAd6Tt) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Requies](https://open.spotify.com/album/6c9Kmn2gHYceCQJ6w2Ry4u) | 2:45 | 2024-05-04 | 2025-01-24 |

@@ -15703,6 +15703,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30c3\u30c4\u30aa\u30fc\u30eb\u30e9\u30a4\u30c8\uff01",
+        "url": "https://open.spotify.com/album/0wFSYJiz3o4TkqTzuKQ19b"
+      },
+      "artists": [
+        {
+          "name": "THE BOYS&GIRLS",
+          "url": "https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225856,
+      "name": "\u30a4\u30c3\u30c4\u30aa\u30fc\u30eb\u30e9\u30a4\u30c8\uff01",
+      "url": "https://open.spotify.com/track/7GtOeNmvrEuzTc97wI18By"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30b8\u30e7\u30fc\u30af / \u30de\u30a4\u30e9\u30d6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb"
       },
@@ -18798,7 +18816,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 204416,
       "name": "\u30d1\u30ce\u30e9\u30de",
       "url": "https://open.spotify.com/track/5hUFrzR6tHsaOohWNAxzhl"

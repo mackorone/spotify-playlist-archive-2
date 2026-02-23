@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,152 songs - 9 day 4 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,154 songs - 9 day 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4160,5 +4160,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4150 | [Wounded](https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Wounded](https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv) | 2:16 |
 | 4151 | [Lost in Time](https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time](https://open.spotify.com/album/3hzgNZ6zaLgx7YTL6Pxzjv) | 3:52 |
 | 4152 | [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 |
+| 4153 | [Clock Is Laughing in My Face](https://open.spotify.com/track/7ozE7cT5jOyriN9XZiI3CJ) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [Clock Is Laughing in My Face](https://open.spotify.com/album/0PnnjCxstuC2LNpeeEONGO) | 2:56 |
+| 4154 | [Deli Veli](https://open.spotify.com/track/4tgkeWcibAJ4Wz2SvFvQdi) | [Plov](https://open.spotify.com/artist/0sqYejZghM9zoJSsKyF3BT) | [Deli Veli](https://open.spotify.com/album/7zsh1Q8LY7DGR5oRbq94AO) | 4:06 |
 
-Snapshot ID: `AAAHlWO+QJCxklzfFpcjIeEatY82ZAlW`
+Snapshot ID: `AAAHlwfzAlzshTmWJYNgWdvpBabk24Cg`

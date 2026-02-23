@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,054 songs - 1 day 17 hr 22 min
+2,055 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Believe Me, If All Those Endearing Young Charms \- Cello Version](https://open.spotify.com/track/28HUSZsCvsGQe5eJtlUEc1) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Celtic Joy](https://open.spotify.com/album/5NJxXdjgTWCIVAfy4onBUP) | 1:13 | 2024-02-09 | 2024-02-13 |
 | [Believing](https://open.spotify.com/track/2E1SJHtR49t3Rep5Xo2SZr) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Stillness](https://open.spotify.com/album/7eegP3dh7y7zGSuvwCOTFv) | 1:53 | 2022-01-12 |  |
 | [Believing Again \- Cello Version](https://open.spotify.com/track/1WphP36dpwF7zL7L6Og6ts) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:09 | 2022-02-17 |  |
+| [Beloved](https://open.spotify.com/track/6HI9b1jx9afJ4Qh2rKpchQ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Beloved](https://open.spotify.com/album/1IgprkC5cA7ykBN7a7qv6H) | 1:00 | 2026-02-22 |  |
 | [Below](https://open.spotify.com/track/19VlcMrQnnVU1XMkGsbDM5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:25 | 2022-01-20 |  |
 | [Below the Clouds](https://open.spotify.com/track/33VYFKjSysp7tMiZ2NSAW5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Moments in Moments](https://open.spotify.com/album/11Qrb7rgNQf8HbNsu4yZBJ) | 1:22 | 2024-01-29 |  |
 | [Between](https://open.spotify.com/track/4IKzn8pPEPiPN6k1nxl9Y5) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Between](https://open.spotify.com/album/32sfe1IxwCPiGGxTo5ewea) | 1:00 | 2024-12-30 |  |

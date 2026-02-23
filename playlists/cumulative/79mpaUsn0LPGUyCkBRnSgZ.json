@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Holy Red Wagon",
+        "url": "https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM"
+      },
+      "artists": [
+        {
+          "name": "Bruiser and Bicycle",
+          "url": "https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458685,
+      "name": "Aerial Shipyards",
+      "url": "https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz"
+    },
+    {
+      "album": {
         "name": "Against the Fall of Night",
         "url": "https://open.spotify.com/album/1dixxA709bADWmK1rxnvug"
       },

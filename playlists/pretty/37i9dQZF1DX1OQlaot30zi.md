@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Enny P,  Salmo, Kuremino, Low\-Red con Yung Snapp, Macello con Scaccia e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,935 likes - 139 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,939 likes - 139 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [MANESKIN MELODIA](https://open.spotify.com/track/3xpdxybRTHfSKInlHSpgoB) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 3:03 |
 | 16 | [LA VITA CHE VIVO](https://open.spotify.com/track/2q9O6twPyMmPXqd4arGkA9) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [LA VITA CHE VIVO](https://open.spotify.com/album/4yKtowdWYMpI2FX784fRnQ) | 2:58 |
 | 17 | [OVERSIZE](https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [OVERSIZE](https://open.spotify.com/album/38rVKLQJl7LzrJ8yivSj7y) | 2:03 |
-| 18 | [AMERICA DEI BIANCHI](https://open.spotify.com/track/72TFR1fIq3TE3oRcJEUCtF) | [Kay Carter](https://open.spotify.com/artist/2BNwQheYZuwzWMDTzLz8Qn), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [Dj Douglas](https://open.spotify.com/artist/5spCuarlUdgl3gGMd2JvA4) | [AMERICA DEI BIANCHI](https://open.spotify.com/album/5xrsH2TscDxGHdf8JBLWFX) | 2:23 |
+| 18 | [AMERICA DEI BIANCHI](https://open.spotify.com/track/72TFR1fIq3TE3oRcJEUCtF) | [Kay Carter](https://open.spotify.com/artist/2BNwQheYZuwzWMDTzLz8Qn), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [DJ Douglas](https://open.spotify.com/artist/1Y3NNbcFAw3RnpVg9qB0tk) | [AMERICA DEI BIANCHI](https://open.spotify.com/album/5xrsH2TscDxGHdf8JBLWFX) | 2:23 |
 | 19 | [PERROS SALVAJE](https://open.spotify.com/track/5Kzx2DsUSWrZgrF07335UD) | [Fandy](https://open.spotify.com/artist/5ciZyn6DwoahV6teKuASPD), [Dr\. Cream](https://open.spotify.com/artist/1Infwqx3BhCS1iVbJxWdKw) | [PERROS SALVAJE](https://open.spotify.com/album/0sv3mIEGabTURiCapLMqts) | 2:56 |
 | 20 | [RISPETTO](https://open.spotify.com/track/4F0jrUs3Y65lXIxBka27gi) | [Bl4ir](https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [RISPETTO](https://open.spotify.com/album/2tYSvjH9CeSk9iOBPnoVuu) | 2:33 |
 | 21 | [Apatico](https://open.spotify.com/track/5xGRreKlzJdHP9QYT2Xg8w) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Apatico](https://open.spotify.com/album/3YQdAwAtocZ884LK1PfsXZ) | 2:26 |

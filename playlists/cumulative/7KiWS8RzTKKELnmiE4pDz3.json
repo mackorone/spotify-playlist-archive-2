@@ -2001,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "4eva Is A Mighty Long Time",
+        "url": "https://open.spotify.com/album/6vGEX2ejVVsHTIsqI1teZg"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195490,
+      "name": "Aux Cord",
+      "url": "https://open.spotify.com/track/25FSYy5ox8ZXYzBCvTEKLd"
+    },
+    {
+      "album": {
         "name": "8 ALBUM",
         "url": "https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri"
       },

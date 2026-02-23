@@ -4,7 +4,7 @@
 
 > 
 
-154 songs - 8 hr 1 min
+155 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Donnie Darko](https://open.spotify.com/track/5E0zKLNtUaa6Wr8bEI35w4) | [Diamond Delicious](https://open.spotify.com/artist/3sMiF49UAtjkzvpyUnmnbe) | [Suburbia](https://open.spotify.com/album/40VrWnfYBeiT61kdFR0Lav) | 4:14 | 2025-04-14 |  |
 | [DREAMCRUSHER](https://open.spotify.com/track/5KUSVwgBKMTL1zkghRwBLz) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [DREAMCRUSHER](https://open.spotify.com/album/0XSkZAEkMGxOuZo0nasLCd) | 3:26 | 2025-06-30 |  |
 | [Duele Perderte](https://open.spotify.com/track/3jDwP1bJy9rySbDSN1B8oX) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/0VXZdQaveMGAptpPGkUOTH) | 3:02 | 2025-04-08 |  |
+| [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-22 |  |
 | [Dumar Kuba](https://open.spotify.com/track/2Atey8INkA4R0H5acupQ22) | [Kasbah Rockers](https://open.spotify.com/artist/1jwPG5eNGIYa1k2R8eZjPu), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Sam J Samatar](https://open.spotify.com/artist/1JUwjzz1kyxvYll7xbcu7R) | [Dumar Kuba](https://open.spotify.com/album/7dgtgmt05pFVqYgCIS6b5i) | 3:48 | 2025-07-03 |  |
 | [Early Birds](https://open.spotify.com/track/0vR3kZAVHbQdxfELwGbOlB) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Early Birds](https://open.spotify.com/album/2jybjZOdnaBsM685CybAjI) | 4:22 | 2025-03-12 |  |
 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 | 2026-01-02 |  |

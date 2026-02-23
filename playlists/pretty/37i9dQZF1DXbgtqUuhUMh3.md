@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Maha Ftouni is co\-curating EQUAL Arabia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,785 likes - 54 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,791 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 14 | [Sahi Ent](https://open.spotify.com/track/7B7wiYcFrlknESg97x4A0h) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Sahi Ent](https://open.spotify.com/album/6CJ1oyZYTw5sODNl6FzuuO) | 3:44 |
 | 15 | [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 |
 | 16 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 |
-| 17 | [Mamnou](https://open.spotify.com/track/1wELuVZY0U4OavIv86CKyh) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Mamnou](https://open.spotify.com/album/2iWdwVPGIDUp0Mac5ha72k) | 2:28 |
+| 17 | [Mamnou](https://open.spotify.com/track/1wELuVZY0U4OavIv86CKyh) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Mamnou](https://open.spotify.com/album/2iWdwVPGIDUp0Mac5ha72k) | 2:28 |
 | 18 | [Ma Byenkhaf Alayi](https://open.spotify.com/track/4JFFIVcexU2NtuQvw4kXO3) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ma Byenkhaf Alayi](https://open.spotify.com/album/5rJ03uOyj4h0I1Q4Acqbbr) | 3:20 |
 | 19 | [Khali Makank](https://open.spotify.com/track/0oeIIvyBXKWBsbuxTD5QWo) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Khali Makank](https://open.spotify.com/album/3dbHhKZLXHpC0IGxcNxeUD) | 3:22 |
 | 20 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |

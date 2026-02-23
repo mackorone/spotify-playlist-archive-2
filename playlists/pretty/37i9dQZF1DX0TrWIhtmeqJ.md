@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Ledbyher
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,728 likes - 79 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,730 likes - 79 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 10 | [Everest](https://open.spotify.com/track/0XUiK6UHJJP3X7aE8W2Aa9) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Everest](https://open.spotify.com/album/77OdE2O0ENIOP87xmqLhvV) | 2:03 |
 | 11 | [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 |
 | 12 | [Built Different](https://open.spotify.com/track/4vNPEUTDUuHx35aiLl2dEP) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Built Different](https://open.spotify.com/album/7plXjLT8cUTfVOb9RowaKn) | 2:35 |
-| 13 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
+| 13 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
 | 14 | [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 |
 | 15 | [Money \(On My Mind\)](https://open.spotify.com/track/1Ay0LZ0zJR6KeVB4ggmFkW) | [Nicole Blakk](https://open.spotify.com/artist/5HnkBZ2fxKMj6yE2DagFiP) | [Money \(On My Mind\)](https://open.spotify.com/album/4UJsedYoV9kX50aevnAjxa) | 2:12 |
 | 16 | [Special \- A COLORS SHOW](https://open.spotify.com/track/6BJkASXKRj1fMX8ZRMmD1Z) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Special \- A COLORS SHOW](https://open.spotify.com/album/3keZ36LWEXzPDTqftsmwBi) | 3:12 |

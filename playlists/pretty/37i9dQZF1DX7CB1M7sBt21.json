@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 133047,
+  "num_followers": 133050,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
+      "added_at": "2025-08-11 14:48:56",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Personal Jesus - Single Version",
+      "url": "https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn"
+    },
+    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
@@ -759,22 +775,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2025-08-11 14:48:56",
-      "album": {
-        "name": "The Singles 86-98",
-        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Personal Jesus - Single Version",
-      "url": "https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn"
     },
     {
       "added_at": "2024-08-29 22:00:00",

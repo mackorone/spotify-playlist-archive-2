@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 672 songs - 1 day 19 hr 54 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 673 songs - 1 day 20 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -680,5 +680,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 670 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
 | 671 | [Poison Cup](https://open.spotify.com/track/6RWw6s0yGwDEslUdAUtRqy) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/15NPy6xq9HcWA8hYrYtObL) | 2:40 |
 | 672 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 |
+| 673 | [Aerial Shipyards](https://open.spotify.com/track/5gPhDAudtwdZfMZjuflKlz) | [Bruiser and Bicycle](https://open.spotify.com/artist/06ySZdJ1MzvRgjsNHKzAeM) | [Holy Red Wagon](https://open.spotify.com/album/7KInhpkEghVcfp8g9srnkM) | 7:38 |
 
-Snapshot ID: `AAAIolQiOThmllXYbxZAdr/KE2/zJ/yG`
+Snapshot ID: `AAAIowI6WaMXxdLb5P13lpg6tPCi/WZ2`

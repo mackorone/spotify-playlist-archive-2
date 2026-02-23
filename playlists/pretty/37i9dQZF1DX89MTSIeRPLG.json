@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 24026,
+  "num_followers": 24031,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Wolf Talk",
+        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
+      },
+      "artists": [
+        {
+          "name": "Grind2hard Osh\u2019a",
+          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Nowhere 2 Run",
+      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Wolf Talk",
-        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
-      },
-      "artists": [
-        {
-          "name": "Grind2hard Osh\u2019a",
-          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Nowhere 2 Run",
-      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Big Bank",
-        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
-      },
-      "artists": [
-        {
-          "name": "Bankroll Freddie",
-          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
-      "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 182258,
       "name": "RPS & Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Big Bank",
+        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Freddie",
+          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Rich Off Grass (Remix) [feat. Young Dolph]",
+      "url": "https://open.spotify.com/track/6zCFXBYD4mZCCmDjk33gzb"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 155224,
+      "name": "45 (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Belair Baby",
         "url": "https://open.spotify.com/album/1iegXh1wkEkwo9Z74nwO4K"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 163520,
       "name": "Bulgari Shades",
       "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "45 (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "No More Body's",
-        "url": "https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx"
-      },
-      "artists": [
-        {
-          "name": "Celfmade Cel",
-          "url": "https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "No More Body's",
-      "url": "https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Preaching from the Projects",
-        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
+        "name": "No More Body's",
+        "url": "https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx"
       },
       "artists": [
         {
-          "name": "51 June",
-          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
+          "name": "Celfmade Cel",
+          "url": "https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s"
         }
       ],
-      "duration_ms": 150047,
-      "name": "Base' Body",
-      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
+      "duration_ms": 110000,
+      "name": "No More Body's",
+      "url": "https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -907,6 +891,22 @@
       "duration_ms": 143772,
       "name": "Florida Nights",
       "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Preaching from the Projects",
+        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
+      },
+      "artists": [
+        {
+          "name": "51 June",
+          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Base' Body",
+      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
     },
     {
       "added_at": "2022-10-01 20:31:11",

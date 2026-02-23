@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,735 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,741 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Internet](https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Internet](https://open.spotify.com/album/6IE54t4dhpEIX9kI3lWjJY) | 3:34 |
 | 2 | [Echo Park Donut](https://open.spotify.com/track/57XHL2Wj8GO4wKJl0i05JO) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Hungry Animal](https://open.spotify.com/album/2bDwzSCwrHMlHWGyjInoqb) | 4:36 |
-| 3 | [\(\(\(\(night\-vision\)\)\)\)](https://open.spotify.com/track/15ZcOpISOVQNmHrhs5NQor) | [Sebastian Falk](https://open.spotify.com/artist/6bDCKZuGkIU97np4rAqLai) | [\(\(\(\(night\-vision\)\)\)\)](https://open.spotify.com/album/4edLw1QQMartk4hUP0bQSa) | 2:53 |
-| 4 | [Too Little Too Late](https://open.spotify.com/track/330cp0Orkp42xBTJP4e9vw) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Too Little Too Late](https://open.spotify.com/album/6uk7vnmh02W7nGsWbIDKTM) | 3:44 |
-| 5 | [No Weather](https://open.spotify.com/track/6yTRUw5CXCSbTlBBbtslfW) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [No Weather](https://open.spotify.com/album/6rH9GyHgNtDOuXDnJW1Lmg) | 3:28 |
+| 3 | [No Weather](https://open.spotify.com/track/6yTRUw5CXCSbTlBBbtslfW) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [No Weather](https://open.spotify.com/album/6rH9GyHgNtDOuXDnJW1Lmg) | 3:28 |
+| 4 | [\(\(\(\(night\-vision\)\)\)\)](https://open.spotify.com/track/15ZcOpISOVQNmHrhs5NQor) | [Sebastian Falk](https://open.spotify.com/artist/6bDCKZuGkIU97np4rAqLai) | [\(\(\(\(night\-vision\)\)\)\)](https://open.spotify.com/album/4edLw1QQMartk4hUP0bQSa) | 2:53 |
+| 5 | [Too Little Too Late](https://open.spotify.com/track/330cp0Orkp42xBTJP4e9vw) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Too Little Too Late](https://open.spotify.com/album/6uk7vnmh02W7nGsWbIDKTM) | 3:44 |
 | 6 | [Wake Me Up](https://open.spotify.com/track/2z1RUXeChhC80D3PLHxHVT) | [Pax Solis](https://open.spotify.com/artist/325QpF6Si705psvcW8mOwE) | [Wake Me Up](https://open.spotify.com/album/6qLUPHfnhgXhYoQyJaAcMK) | 3:36 |
 | 7 | [Prophetic Life](https://open.spotify.com/track/3M955tNqy7VD1vJ1BUXLW4) | [Babe Dylan](https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a) | [Prophetic Life](https://open.spotify.com/album/6usIsnmqEplnbR0SUzJrZ8) | 2:44 |
 | 8 | [Be Cool](https://open.spotify.com/track/2p1C7jhtuWgJx1zlUzlQx7) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Maybe I'm the Reason / Be Cool](https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd) | 2:24 |
@@ -199,15 +199,15 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 189 | [Watch For Infection](https://open.spotify.com/track/5Q68WFkdMhQ4UQskQQ9IFh) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Watch For Infection](https://open.spotify.com/album/5pM0cI8v6aGSa80eHxHiLO) | 3:06 |
 | 190 | [hi, how are you?](https://open.spotify.com/track/4Gu4Q9ddKDhLuwDsNSEMCI) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [hi, how are you?](https://open.spotify.com/album/2evH94u8iNHofYQvNvVb2A) | 2:40 |
 | 191 | [The Fork](https://open.spotify.com/track/1FxHFQ30GjkrAPiUo6b4Do) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [The Fork](https://open.spotify.com/album/5t7bzjEslFvywuwqsRlPgU) | 4:35 |
-| 192 | [Fall In Love](https://open.spotify.com/track/3Kzfk5gMATqgKG71xQaHWu) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [PERFECT TIMING](https://open.spotify.com/album/619SdgA1ztqzHPPtVsRtsC) | 3:21 |
-| 193 | [monster](https://open.spotify.com/track/7h2jtRkZUVk1Lf1cXTiLE6) | [grinning](https://open.spotify.com/artist/3rkU9l8IZuFGDfLMwJxpHN) | [monster](https://open.spotify.com/album/6ImpGLhYYAkO7Rfhfc6VQ4) | 4:15 |
+| 192 | [monster](https://open.spotify.com/track/7h2jtRkZUVk1Lf1cXTiLE6) | [grinning](https://open.spotify.com/artist/3rkU9l8IZuFGDfLMwJxpHN) | [monster](https://open.spotify.com/album/6ImpGLhYYAkO7Rfhfc6VQ4) | 4:15 |
+| 193 | [Wield Your Hope Like A Weapon](https://open.spotify.com/track/6DxdewA4oI4zylDsVw1JLL) | [Soot Sprite](https://open.spotify.com/artist/4CoB9YE7rYnbmr9zlwv0af) | [Wield Your Hope Like A Weapon](https://open.spotify.com/album/3nULN50eTDNGLXWbs2ZdCL) | 3:50 |
 | 194 | [i don't like being left behind](https://open.spotify.com/track/4SfKVnwEowV1kcFZHXNtMV) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [i don't like being left behind](https://open.spotify.com/album/5ESsJ5ornRvc6vGMhaOmLM) | 4:06 |
-| 195 | [Wield Your Hope Like A Weapon](https://open.spotify.com/track/6DxdewA4oI4zylDsVw1JLL) | [Soot Sprite](https://open.spotify.com/artist/4CoB9YE7rYnbmr9zlwv0af) | [Wield Your Hope Like A Weapon](https://open.spotify.com/album/3nULN50eTDNGLXWbs2ZdCL) | 3:50 |
-| 196 | [So Dumb](https://open.spotify.com/track/3YB7w4Yq8arVWv68WEebPZ) | [Count The Clock](https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg), [Leannie](https://open.spotify.com/artist/3beDFsVnxgNsR4VnSuo7np) | [So Dumb](https://open.spotify.com/album/6wX9w6uHjFNvbDxYkfx0Eg) | 4:02 |
+| 195 | [So Dumb](https://open.spotify.com/track/3YB7w4Yq8arVWv68WEebPZ) | [Count The Clock](https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg), [Leannie](https://open.spotify.com/artist/3beDFsVnxgNsR4VnSuo7np) | [So Dumb](https://open.spotify.com/album/6wX9w6uHjFNvbDxYkfx0Eg) | 4:02 |
+| 196 | [Fall In Love](https://open.spotify.com/track/3Kzfk5gMATqgKG71xQaHWu) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [PERFECT TIMING](https://open.spotify.com/album/619SdgA1ztqzHPPtVsRtsC) | 3:21 |
 | 197 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 |
-| 198 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 |
-| 199 | [2000](https://open.spotify.com/track/4upJJlGITA0p4DGUmrqkWB) | [symmetrical dogs](https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK) | [Birthday Rabbit Foot Wish](https://open.spotify.com/album/5jb1W9bxsXbCYEsNZ9yFml) | 3:28 |
-| 200 | [Above It](https://open.spotify.com/track/7k21EyL1y0K32RVJFGWrYe) | [SSAANN](https://open.spotify.com/artist/5gUgiP68XnkGzxrb49yFQk) | [Above It](https://open.spotify.com/album/0bvSUs8oYkRAmSO1GFZ8mn) | 4:35 |
+| 198 | [Above It](https://open.spotify.com/track/7k21EyL1y0K32RVJFGWrYe) | [SSAANN](https://open.spotify.com/artist/5gUgiP68XnkGzxrb49yFQk) | [Above It](https://open.spotify.com/album/0bvSUs8oYkRAmSO1GFZ8mn) | 4:35 |
+| 199 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 |
+| 200 | [2000](https://open.spotify.com/track/4upJJlGITA0p4DGUmrqkWB) | [symmetrical dogs](https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK) | [Birthday Rabbit Foot Wish](https://open.spotify.com/album/5jb1W9bxsXbCYEsNZ9yFml) | 3:28 |
 | 201 | [Sunday](https://open.spotify.com/track/2uaY9LaSymklYzPJsvKjA6) | [Hannah Lew](https://open.spotify.com/artist/40ZrXbMB5FFIxtzatM8Wol) | [Sunday](https://open.spotify.com/album/6sGvUCOGFJtAL5O7iHQhYC) | 3:39 |
 | 202 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 203 | [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Abundance of Power](https://open.spotify.com/track/6iTubsbtWKyCfpvj2T0Cd7) | [Season 2](https://open.spotify.com/artist/6NNLJ1tWGNmek1B62hDtJf) | [Abundance of Power](https://open.spotify.com/album/6HPRYLGzYwtt7cjSw44GKV) | 3:00 |
 | 430 | [Last One Home](https://open.spotify.com/track/1TcqYv9wLbeRgGFrQfviPG) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [Last One Home](https://open.spotify.com/album/1KIFJBY1Kc74RZMFREjVvp) | 2:35 |
 
-Snapshot ID: `AAAwRSyBwtgeGz+1MZXswX1jnMA29Gtz`
+Snapshot ID: `AAAwSky/IQR54f/8Jg1kp6tdD4kKgYh7`

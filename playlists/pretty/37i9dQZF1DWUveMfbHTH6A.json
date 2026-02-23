@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 14639,
+  "num_followers": 14651,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Subliminals",
         "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 154100,
       "name": "Subliminals",
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Somersault Queen",
-        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 245336,
-      "name": "My Endeavour",
-      "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "you're such a good girl?",
         "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 167153,
       "name": "you're such a good girl?",
       "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Somersault Queen",
+        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "duration_ms": 245336,
+      "name": "My Endeavour",
+      "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "be careful",
-        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 203940,
-      "name": "be careful",
-      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "take it anymore",
         "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 161071,
       "name": "take it anymore",
       "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "be careful",
+        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 203940,
+      "name": "be careful",
+      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Time Time Time (I'm in the Palm of Your Hand)",
-        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
-      },
-      "artists": [
-        {
-          "name": "Yndling",
-          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "Even if it's a Lie (I Don't Mind)",
-      "url": "https://open.spotify.com/track/6rua8r6OWbwBisNEsXtyRW"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Nkosi's Fantasia: Chapter One",
         "url": "https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 256500,
       "name": "Nkosi's Fantasia",
       "url": "https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "Even if it's a Lie (I Don't Mind)",
+      "url": "https://open.spotify.com/track/6rua8r6OWbwBisNEsXtyRW"
     },
     {
       "added_at": "2025-12-03 12:16:13",

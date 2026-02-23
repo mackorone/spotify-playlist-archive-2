@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Syamel, SZA, Alpha, Lana Del Rey, Hael Husaini, Misha Omar, Fajar Noor,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,954 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,953 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 63 | [Raya Uolls](https://open.spotify.com/track/7bq2v4SGAHKBbxdAaRC8Gb) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il), [Danial Baharin](https://open.spotify.com/artist/5In2Kkmpf5REayiSA6Ls0w), [Amir Mansor](https://open.spotify.com/artist/34edWeV1j0o2X50jJW5oEq), [ARISSA ZARA](https://open.spotify.com/artist/1QBpTUTUySvjF11hdQ1Q54) | [Raya Uolls](https://open.spotify.com/album/09XJREF4QwrERgBfoINunK) | 2:51 |
 | 64 | [Meriah Hari Raya](https://open.spotify.com/track/12U4Tp7R49T6ZLv57QkSXO) | [Ikmal Dani](https://open.spotify.com/artist/6kLUH4u6NcdfsoFZn9pKv8), [Nana Tony](https://open.spotify.com/artist/18HyHb0cRRbDErP6jk2Vag), [Kasih Lia](https://open.spotify.com/artist/77KoyuqU1HiJ419TxfL9NZ), [Sheryl Shazwanie](https://open.spotify.com/artist/1Z32ApTAXZ8bYhsnsYHLT6), [Azzam Sham](https://open.spotify.com/artist/2Ep26gSoOUYsoSJN7R15Iw) | [Meriah Hari Raya](https://open.spotify.com/album/1ul2Lu4I0tHvgyXaTnN5Rs) | 3:48 |
 | 65 | [Raya Kira Jadi](https://open.spotify.com/track/3DzU5r5laQ4ezyrOrUmtYC) | [KitShafiq](https://open.spotify.com/artist/0l4GmDW7PPF4jiOXD16dFB), [SyerienaMarcella](https://open.spotify.com/artist/0lQAmjSsaVK2B9HNBSnTDM), [Masmera](https://open.spotify.com/artist/35wrxErJGrmnUoI99GLa7s) | [Raya Kira Jadi](https://open.spotify.com/album/1C0lLlFNOzVnCWKaSdU1nh) | 4:00 |
-| 66 | [Raya Check](https://open.spotify.com/track/1aNL4a21CCXNFbavNvIziO) | [Sterk](https://open.spotify.com/artist/4W9eoyGmwzpPXFUIoO8rra) | [Raya Check](https://open.spotify.com/album/7iP1EfRqyRdTxiYSRLo7lQ) | 2:22 |
+| 66 | [Raya Check](https://open.spotify.com/track/1aNL4a21CCXNFbavNvIziO) | [Sterk](https://open.spotify.com/artist/1pL1BwnzAlVSi0MqYuilmk) | [Raya Check](https://open.spotify.com/album/7iP1EfRqyRdTxiYSRLo7lQ) | 2:22 |
 | 67 | [LaLa Raya](https://open.spotify.com/track/3ouHlGsjymhINxLrR4gcie) | [Agy](https://open.spotify.com/artist/5IAtHehHh4ONLzZYY0A0Yn) | [LaLa Raya](https://open.spotify.com/album/66Gkj3h2dEAa05atIU6M19) | 2:37 |
 | 68 | [Aku Ada](https://open.spotify.com/track/0MXTKa0IzXqMvaWrZdI8Db) | [Afif Tirmizie](https://open.spotify.com/artist/7fqIZ8Dd8XUIESFSoUeq2y) | [Aku Ada](https://open.spotify.com/album/7h61benRLssEU7BnmO96iz) | 3:12 |
 | 69 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |

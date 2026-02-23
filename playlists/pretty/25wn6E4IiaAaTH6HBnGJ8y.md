@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Forky](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,664 likes - 245 songs - 15 hr 15 min
+[Forky](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,665 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 78 | [Shades \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5EqvRNLWBnhHevkDIyCPU6) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Aurra / Shades](https://open.spotify.com/album/6HLdPDaMRZETi2daqsjscC) | 3:38 |
 | 79 | [Calypso Beach](https://open.spotify.com/track/6roBK59UIWUDEbaJniWxjb) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Dare](https://open.spotify.com/album/51Osp1nRdataUeiVpSKGJM) | 3:53 |
 | 80 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
-| 81 | [Symphonies \- Bonus Track](https://open.spotify.com/track/75VhOSa3QkbapxIeuzvzIl) | [Dan Black](https://open.spotify.com/artist/5kW3q7Vywlw24apaeufin6) | [UN \(Special USA Edition\)](https://open.spotify.com/album/104scHLM314xzAOMKLvjUt) | 3:41 |
+| 81 | [Symphonies \(Bonus Track\)](https://open.spotify.com/track/75VhOSa3QkbapxIeuzvzIl) | [Dan Black](https://open.spotify.com/artist/5kW3q7Vywlw24apaeufin6) | [UN \(Special USA Edition\)](https://open.spotify.com/album/104scHLM314xzAOMKLvjUt) | 3:41 |
 | 82 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 |
 | 83 | [Until the Sun Needs to Rise](https://open.spotify.com/track/062wtUiIbPTivGLQxrA8X9) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:52 |
 | 84 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |

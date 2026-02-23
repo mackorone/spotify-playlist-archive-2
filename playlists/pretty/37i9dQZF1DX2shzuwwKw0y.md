@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Luis Mexia
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,457,485 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,457,378 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [AFTERLIFE](https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AFTERLIFE](https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC) | 2:48 |
 | 75 | [Herencia Mexicana](https://open.spotify.com/track/2KCEjuFAZLclRoQ35MNMMh) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Street Mob Live](https://open.spotify.com/album/2p99lW0qcEdRe3xb8e3TX0) | 3:13 |
 
-Snapshot ID: `AAAAAGTRmqICOuG4Ub64H0KJR6xKn0Y0`
+Snapshot ID: `AAAAAAIjRtPrPpYlh7mZmtRmtlunX2aF`

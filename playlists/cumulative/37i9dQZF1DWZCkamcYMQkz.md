@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-194 songs - 13 hr 11 min
+195 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ami's Dance](https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Rhythm, Melody and Harmony](https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL) | 6:36 | 2025-09-26 |  |
 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 | 2023-11-22 | 2024-04-19 |
 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 | 2021-12-16 | 2023-10-28 |
-| [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 | 2021-12-16 |  |
+| [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 | 2021-12-16 | 2026-02-23 |
 | [Back Beat](https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters 35: Johnny Hodges](https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr) | 7:27 | 2023-01-17 | 2024-04-19 |
 | [Back in Your Own Back Yard](https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 2:32 | 2021-12-16 |  |
 | [Benny Thanks](https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Benny Thanks](https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU) | 5:58 | 2025-09-12 |  |
@@ -163,6 +163,7 @@
 | [Taking a Chance on Love](https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ) | 3:18 | 2021-12-16 |  |
 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 | 2022-06-28 | 2024-04-19 |
 | [Tea For Two](https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:06 | 2021-12-16 |  |
+| [Teach Me Tonight](https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Teach Me Tonight](https://open.spotify.com/album/2OscS2SfT93gShdb65NGmH) | 3:37 | 2026-02-20 |  |
 | [The Architect](https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM) | [Tyler Henderson](https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze) | [The Architect](https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ) | 3:45 | 2025-09-26 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:23 | 2021-12-16 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 | 2022-06-28 | 2024-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: NAV & Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,680 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,685 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 38 | [Claim Your Blessings](https://open.spotify.com/track/1C2BSvWxlVgIwisrY0YTVW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Claim Your Blessings](https://open.spotify.com/album/2Fv8VDaIRl9Xh0CGgD6NIi) | 2:22 |
 | 39 | [Area of Effect](https://open.spotify.com/track/3jQcVREtLkONMQlTF4IxsM) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Jay Nice](https://open.spotify.com/artist/6NdNJXkvy3edTkcMoRnuzN) | [Dump Gawd: Shot Clock King, Vol\. 4](https://open.spotify.com/album/26A4HF6PQ3VVtV9gTmct3c) | 2:08 |
 | 40 | [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 |
-| 41 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
+| 41 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 |
 | 42 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
 | 43 | [Ever Since U Left Me \(I Went Deaf\)](https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 2:16 |
 | 44 | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y) | 4:38 |

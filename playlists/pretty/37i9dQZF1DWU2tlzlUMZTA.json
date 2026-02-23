@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- 'Sahiba' by Jasleen Royal and Stebin Ben",
-  "num_followers": 137242,
+  "num_followers": 137282,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -335,13 +335,17 @@
     {
       "added_at": "2026-02-18 09:46:17",
       "album": {
-        "name": "Glory",
+        "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
       "artists": [
         {
           "name": "Yo Yo Honey Singh",
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
         }
       ],
       "duration_ms": 199114,
@@ -807,22 +811,6 @@
     {
       "added_at": "2026-02-18 09:46:17",
       "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
-    },
-    {
-      "added_at": "2026-02-18 09:46:17",
-      "album": {
         "name": "Buzz (feat. Badshah)",
         "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
       },
@@ -839,6 +827,22 @@
       "duration_ms": 193672,
       "name": "Buzz (feat. Badshah)",
       "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+    },
+    {
+      "added_at": "2026-02-18 09:46:17",
+      "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
     },
     {
       "added_at": "2026-02-18 09:46:17",
@@ -911,26 +915,6 @@
     {
       "added_at": "2026-02-18 09:46:17",
       "album": {
-        "name": "Dance Like",
-        "url": "https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Dance Like",
-      "url": "https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x"
-    },
-    {
-      "added_at": "2026-02-18 09:46:17",
-      "album": {
         "name": "Vaaste",
         "url": "https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11"
       },
@@ -951,6 +935,26 @@
       "duration_ms": 196043,
       "name": "Vaaste",
       "url": "https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3"
+    },
+    {
+      "added_at": "2026-02-18 09:46:17",
+      "album": {
+        "name": "Dance Like",
+        "url": "https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Dance Like",
+      "url": "https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x"
     },
     {
       "added_at": "2026-02-18 09:46:17",

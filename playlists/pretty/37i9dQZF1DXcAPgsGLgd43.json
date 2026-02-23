@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 109622,
+  "num_followers": 109732,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
+    },
+    {
+      "added_at": "2026-02-20 05:00:43",
+      "album": {
         "name": "La Musa (with Miluhska)",
         "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 183830,
       "name": "La Musa (with Miluhska)",
       "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
-    },
-    {
-      "added_at": "2026-02-20 05:00:43",
-      "album": {
-        "name": "La Samba",
-        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "La Samba",
-      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
     },
     {
       "added_at": "2026-02-20 05:00:43",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2026-02-20 05:00:43",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2026-02-20 05:00:43",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2026-02-20 05:00:43",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Miranda",
+          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "Vamos A La Playa (Feat. Miranda)",
+      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
+    },
+    {
+      "added_at": "2026-02-20 05:00:43",
+      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 163902,
       "name": "Rintintin",
       "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
-    },
-    {
-      "added_at": "2026-02-20 05:00:43",
-      "album": {
-        "name": "Vamos A La Playa",
-        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Miranda",
-          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
-        }
-      ],
-      "duration_ms": 176818,
-      "name": "Vamos A La Playa (Feat. Miranda)",
-      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
     },
     {
       "added_at": "2026-02-20 05:00:43",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-02-20 05:00:43",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
       },
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-02-20 05:00:43",
+      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/6psj0mHDzAPFyPg9XB1qCm"
       },
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
-    },
-    {
-      "added_at": "2026-02-20 05:00:43",
-      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -2023,26 +1999,50 @@
     {
       "added_at": "2026-02-20 05:00:43",
       "album": {
-        "name": "Dame Mas",
-        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
         },
         {
-          "name": "Mathieu Ruz",
-          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 185476,
-      "name": "Dame Mas",
-      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2026-02-20 05:00:43",
+      "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+      },
+      "artists": [
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
     }
   ],
   "unique_name": "Latin House",

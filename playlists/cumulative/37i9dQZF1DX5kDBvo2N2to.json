@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-23",
       "duration_ms": 133333,
       "name": "Fel f\u00f6r mig",
       "url": "https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj"
@@ -6332,6 +6332,24 @@
       "duration_ms": 202171,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+    },
+    {
+      "album": {
+        "name": "Only When In Motion",
+        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256720,
+      "name": "Only When In Motion",
+      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hoa xuân V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hoàng Dũng
 
-444 songs - 1 day 2 hr 55 min
+446 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Anh Chẳng Thể](https://open.spotify.com/track/3c8s2bCBk3cn8Taete6Q5B) | [Phạm Kỳ](https://open.spotify.com/artist/3yCPgp6ckDEqBUQnybWeTm) | [Anh Chẳng Thể](https://open.spotify.com/album/02d8ze0zMLjXziyKr7Fbol) | 3:35 | 2025-07-28 | 2025-09-24 |
 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 | 2023-10-14 | 2024-01-03 |
 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 | 2023-10-09 | 2025-01-24 |
+| [ANH LÀ THẰNG TỒI](https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 3:20 | 2026-02-23 |  |
 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 | 2022-09-14 | 2023-10-14 |
 | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/0Nz6SyAceTkTy4lCDgqFJ7) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/5uucqP2OHCCloq5bf9AiAG) | 3:37 | 2022-11-29 | 2023-04-27 |
 | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/5J90ah0ppUSev1uahqQiN6) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/1bcAQ84PmlX74hvGD403VV) | 3:37 | 2023-04-10 | 2023-12-20 |
@@ -281,6 +282,7 @@
 | [NẾU KHI ẤY](https://open.spotify.com/track/40jjlmDAskFndmzjWVoCQk) | [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [NẾU KHI ẤY](https://open.spotify.com/album/5kuyovISvAhA9z1dLwce9X) | 3:05 | 2025-02-25 | 2025-06-04 |
 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 | 2025-02-10 | 2025-07-29 |
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-05 | 2025-01-24 |
+| [Nếu Những Tiếc Nuối](https://open.spotify.com/track/2dPJtlvoa3GDowCh035M8P) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bảo Tàng Của Nuối Tiếc](https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ) | 4:20 | 2026-02-23 |  |
 | [Nỗi Đau Đính Kèm](https://open.spotify.com/track/5gn0Df0Aa7EM98shC3daR6) | [Anh Tú Atus](https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Nỗi Đau Đính Kèm](https://open.spotify.com/album/08fUKtch61dyFGk4CEkNq0) | 3:17 | 2024-12-15 | 2025-01-24 |
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Ooh Just You](https://open.spotify.com/track/41qCPMY2yhelj8Dubjjft7) | [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/26DJDsEwqLJJkC7c22il4p) | 3:15 | 2024-05-26 | 2024-06-17 |

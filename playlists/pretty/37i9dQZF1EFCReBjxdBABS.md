@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 127 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 128 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,16 +124,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 114 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 |
 | 115 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
 | 116 | [Wild Card](https://open.spotify.com/track/3rVY4NV3kV2QD3iS2cuGoD) | [Brea](https://open.spotify.com/artist/3XnzbnejrCHew8KOKxIh9D) | [Wild Card](https://open.spotify.com/album/5K60ZKx7ynhDXfGqzwDuNd) | 3:14 |
-| 117 | [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 |
-| 118 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
-| 119 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
-| 120 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
-| 121 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
-| 122 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
-| 123 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
-| 124 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
-| 125 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
-| 126 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
+| 117 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
+| 118 | [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 |
+| 119 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
+| 120 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
+| 121 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
+| 122 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
+| 123 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
+| 124 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
+| 125 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
+| 126 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
+| 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
+| 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcKS9AAAAABO3xjBG1CS+je9gbtSIKo7`
+Snapshot ID: `AcKYigAAAACZE97vMgyI5q6cI4siLwJu`

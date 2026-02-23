@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,888 songs - 4 day 17 hr 8 min
+1,891 songs - 4 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1235,6 +1235,7 @@
 | [Paura](https://open.spotify.com/track/1NZFSeOxISSjR5lwd0ULhl) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 2:56 | 2025-10-31 |  |
 | [PAURA](https://open.spotify.com/track/5VQHQYUgS2f4qMLI23W8LT) | [Spectres](https://open.spotify.com/artist/2j6T2FdxnmRZZlNN348ecQ) | [PAURA](https://open.spotify.com/album/5Ou07lnbG2a5YkbNL7BJ4G) | 1:56 | 2024-06-10 |  |
 | [Peace & Dub \- Live](https://open.spotify.com/track/1moX3EjUjuS43nDGo7PK2V) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Peace & Dub \(Live\)](https://open.spotify.com/album/5T16CTbtHKO2EEutsKtaGx) | 5:55 | 2024-03-10 |  |
+| [Peaceful Meadow](https://open.spotify.com/track/410Q9n3o9N3La6nEQceEBf) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:11 | 2026-02-22 |  |
 | [Pectoraux Massifs Entrainement \(HIIT 30\-10\)](https://open.spotify.com/track/4CHuRHc7nbQLAOKF8PZiXG) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [70s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/38vFZ0KaLfZlEtQwUXDM6l) | 1:22 | 2024-03-08 |  |
 | [Pemba](https://open.spotify.com/track/1hBbk4NmZd3Xo5szR9iwo1) | [DubRaJah](https://open.spotify.com/artist/4c5I4mGasi5eQMN0alj1Bu) | [Enkang](https://open.spotify.com/album/3BzGmTXAb0AcL6ZlcfEw5a) | 6:35 | 2024-03-25 |  |
 | [Pensare in Grande](https://open.spotify.com/track/0hOPVUy0HQ4ju0s724bEZZ) | [PitMike](https://open.spotify.com/artist/0MkxrIxJy1hfKSX7CwDkjz) | [Pensare in Grande](https://open.spotify.com/album/6t68A2V4e2c9Ht12LRHDVD) | 3:39 | 2025-07-01 |  |
@@ -1556,6 +1557,7 @@
 | [Sunset](https://open.spotify.com/track/4Z0b9xOq2HEfNOF7bBjMzz) | [Fabiano.J](https://open.spotify.com/artist/3V3SGWXPrjcWNvJtKrjyIm) | [Up](https://open.spotify.com/album/7BUbxgXicx9Sdb875a8ZTH) | 2:06 | 2025-11-03 |  |
 | [Sunset](https://open.spotify.com/track/6bRcxV0ie7zgXbXL0NjdvE) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Sunset](https://open.spotify.com/album/1j0hnfBE4W1QUDp4WF37Vv) | 2:24 | 2025-08-07 |  |
 | [Sunset](https://open.spotify.com/track/5ETP74JwR7Z9EzqbcPli12) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Sunset](https://open.spotify.com/album/467M1BSniMWgsqFXe8oB1P) | 1:36 | 2026-02-05 |  |
+| [Sunset Hills](https://open.spotify.com/track/3iDW00c3HFUSzpK0sWaheD) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:26 | 2026-02-22 |  |
 | [Supa Wyde Laces](https://open.spotify.com/track/6oyU5rbG1pLv15vHFjwYUK) | [Mix Master Mike](https://open.spotify.com/artist/4BeDVC50BVhB0bjQqjbhmt) | [Anti\-Theft Device](https://open.spotify.com/album/0oeQ3HVu122AD7tVY4Kwps) | 2:17 | 2026-02-07 |  |
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2026-01-30 |  |
 | [Supreme](https://open.spotify.com/track/4qpnE7zcoNAdCndcdKHXHW) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:30 | 2024-03-25 |  |
@@ -1879,6 +1881,7 @@
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-07-01 |  |
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-12 |  |
 | [Доля захисників](https://open.spotify.com/track/2zKfUnKigpUkyxONpTExev) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Доля захисників](https://open.spotify.com/album/5EEfpr8epng3N8NHHkrVyt) | 3:40 | 2025-10-05 |  |
+| [Ещё вчера](https://open.spotify.com/track/3oEnRkfBvcDogSQhOpVYWB) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Ещё вчера](https://open.spotify.com/album/154tkH9dGGq42QMywGfwBN) | 4:09 | 2026-02-22 |  |
 | [Лето](https://open.spotify.com/track/56wDXnGmt1k1MG8EpEF7wU) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Лето](https://open.spotify.com/album/0jeEjcRsn33ya6zeIganvz) | 4:24 | 2025-06-18 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-16 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-10-03 |  |

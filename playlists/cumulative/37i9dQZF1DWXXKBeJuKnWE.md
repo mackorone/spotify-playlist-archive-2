@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: DON BROCO, Nickelback
 
-698 songs - 1 day 18 hr 3 min
+699 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 | 2023-07-26 |
 | [Round and Round We Go](https://open.spotify.com/track/7EuCLfYjzQhykjLAd8tGUg) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/5AwEaIG4gv6qspBryPH60F) | 4:10 | 2024-09-20 | 2025-09-12 |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-25 | 2024-03-08 |
-| [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
+| [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 | 2026-02-23 |
 | [Sacrifice](https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Sacrifice](https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32) | 3:59 | 2025-10-03 | 2026-01-23 |
 | [SAFE](https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [SAFE](https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC) | 4:46 | 2025-10-03 | 2025-10-24 |
 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 | 2025-10-31 |
@@ -553,6 +553,7 @@
 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-28 | 2025-09-12 |
 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-11-10 | 2023-02-04 |
 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 | 2024-11-08 | 2025-10-24 |
+| [Spared From The Guillotine](https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [The New Flesh](https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz) | 3:55 | 2026-02-20 |  |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2025-06-06 | 2025-09-12 |
 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-11 |  |
 | [Speech Patterns](https://open.spotify.com/track/61F6fTAzAMgeHq5RcNtAfm) | [Cut Short](https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn) | [Speech Patterns](https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ) | 4:46 | 2024-10-17 | 2025-09-12 |

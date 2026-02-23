@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8870,
+  "num_followers": 8873,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZekAAAAAADa7/dxpGYRwF+DWakrlxkt",
+  "snapshot_id": "aZj1gAAAAABCKnhRZBcgQa14XKDOW7SR",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+        "name": "Doces ou Travessuras",
+        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
       },
       "artists": [
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "DetonaCry",
+          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
+        },
+        {
+          "name": "A22I2",
+          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
+      "duration_ms": 154630,
+      "name": "Doces ou Travessuras",
+      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
     },
     {
       "added_at": null,
@@ -563,26 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doces ou Travessuras",
-        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
       },
       "artists": [
         {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "DetonaCry",
-          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
-        },
-        {
-          "name": "A22I2",
-          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
         }
       ],
-      "duration_ms": 154630,
-      "name": "Doces ou Travessuras",
-      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
     },
     {
       "added_at": null,
@@ -855,26 +855,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+        "name": "Cosmo e Wanda",
+        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
       "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+      "duration_ms": 132710,
+      "name": "Cosmo e Wanda",
+      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
     },
     {
       "added_at": null,
@@ -903,30 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosmo e Wanda",
-        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
       "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 132710,
-      "name": "Cosmo e Wanda",
-      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 897926,
+  "num_followers": 897925,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
         "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 148562,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Fui Yo",
         "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 184827,
       "name": "Fui Yo",
       "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 148562,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Lipstick ;*",
-        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
-      },
-      "artists": [
-        {
-          "name": "Esteesgarcia",
-          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Lipstick ;*",
-      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Chocomenta",
         "url": "https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 164250,
       "name": "Chocomenta",
       "url": "https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "Lipstick ;*",
+        "url": "https://open.spotify.com/album/20trmfQgWbTcyQl7beIfPb"
+      },
+      "artists": [
+        {
+          "name": "Esteesgarcia",
+          "url": "https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Lipstick ;*",
+      "url": "https://open.spotify.com/track/1lkaSFy9fe9Ra9XUCQ43Rq"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
       "artists": [
         {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
         }
       ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -899,6 +899,22 @@
       "duration_ms": 165909,
       "name": "Siempre tengo sue\u00f1o",
       "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -935,22 +951,6 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 183265,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1115,50 +1111,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "dosextra\u00f1os",
-        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
-      },
-      "artists": [
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
         {
-          "name": "Jeudy Garc\u00eda",
-          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 227244,
-      "name": "dosextra\u00f1os",
-      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
+      "duration_ms": 183265,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1179,6 +1147,38 @@
       "duration_ms": 205773,
       "name": "MENTE TREN",
       "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "dosextra\u00f1os",
+        "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
+      },
+      "artists": [
+        {
+          "name": "Jeudy Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
+        }
+      ],
+      "duration_ms": 227244,
+      "name": "dosextra\u00f1os",
+      "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "Hace Mucho",
-        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        },
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 196909,
-      "name": "Hace Mucho",
-      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "WADGYMAR",
         "url": "https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 139833,
       "name": "WADGYMAR",
       "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "Hace Mucho",
+        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        },
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Hace Mucho",
+      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "D\u00e9jame Decir Te Quiero",
-        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
-      },
-      "artists": [
-        {
-          "name": "David Velasco",
-          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 185610,
-      "name": "D\u00e9jame Decir Te Quiero",
-      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
         "name": "Justrylove (Chill&Go Remix)",
         "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 192105,
       "name": "Justrylove (Chill&Go Remix)",
       "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
+        "name": "D\u00e9jame Decir Te Quiero",
+        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 185610,
+      "name": "D\u00e9jame Decir Te Quiero",
+      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
+      },
+      "artists": [
+        {
+          "name": "Chill Akiles",
+          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
+    },
+    {
+      "added_at": "2026-01-23 15:47:46",
+      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 182000,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
-    },
-    {
-      "added_at": "2026-01-23 15:47:46",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
-      },
-      "artists": [
-        {
-          "name": "Chill Akiles",
-          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
-        }
-      ],
-      "duration_ms": 188176,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
     },
     {
       "added_at": "2026-01-23 15:47:46",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2026-01-23 15:47:46",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+        "name": "Despecho Nuevo",
+        "url": "https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Nibal",
+          "url": "https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0"
+        },
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
         }
       ],
-      "duration_ms": 106736,
-      "name": "cAnAimA",
-      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
+      "duration_ms": 217638,
+      "name": "Despecho Nuevo",
+      "url": "https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng"
     }
   ],
   "unique_name": "chill latino",

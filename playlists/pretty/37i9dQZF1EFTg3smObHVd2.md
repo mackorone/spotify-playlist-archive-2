@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 13 | [Hello](https://open.spotify.com/track/7jO1boY6qwRjeu0EBtvDuu) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:57 |
 | 14 | [Light The Sky](https://open.spotify.com/track/6C3Q9rs5FsafL2VHNCCRqJ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:49 |
 | 15 | [Gossip Girl](https://open.spotify.com/track/2maAcOeKbRN6zSmwQcGA7G) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:23 |
-| 16 | [Superbad](https://open.spotify.com/track/60LfuzAmQLWsIeepbx5vCp) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [In Technicolor](https://open.spotify.com/album/0a6jDwbxe5To2k3EXLVe9d) | 2:57 |
-| 17 | [Good Girl](https://open.spotify.com/track/6Ezv9qNo4S1SqsGlWrGGNl) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:56 |
+| 16 | [Good Girl](https://open.spotify.com/track/6Ezv9qNo4S1SqsGlWrGGNl) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 3:56 |
+| 17 | [Superbad](https://open.spotify.com/track/60LfuzAmQLWsIeepbx5vCp) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [In Technicolor](https://open.spotify.com/album/0a6jDwbxe5To2k3EXLVe9d) | 2:57 |
 | 18 | [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 |
 | 19 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 |
 | 20 | [Keep Dancing](https://open.spotify.com/track/4qqIuSEkjZhXHQ7cGCKZq8) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 98 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 99 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcKSzAAAAAD2D/1booK0HGLyfqQfd51u`
+Snapshot ID: `AcKYbAAAAAAnvX06mRre4LWPhkX/L5TW`

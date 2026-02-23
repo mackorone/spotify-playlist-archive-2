@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 0 min
+129 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bar In Baton Rouge](https://open.spotify.com/track/3a8kDfg6wJNGM6KDmLr78p) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 5:07 | 2026-01-14 |  |
 | [Better](https://open.spotify.com/track/15xlb7bnht6i3Y2ioy2Ewp) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/3BrMkb7LCKsdh2WZFz8rwt) | 3:24 | 2026-01-14 |  |
 | [Better Than I Do](https://open.spotify.com/track/7quRppjpbhFLbJTDYmluYg) | [Chloe Raye](https://open.spotify.com/artist/0CaJUsuO5g4LQFWJmu98T5) | [Better Than I Do](https://open.spotify.com/album/4JPMLg3IpXEPU24EMLUwhD) | 3:41 | 2026-01-14 |  |
+| [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 | 2026-02-22 |  |
 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 | 2026-01-14 |  |
 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 | 2026-01-14 |  |
 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2026-01-14 |  |
