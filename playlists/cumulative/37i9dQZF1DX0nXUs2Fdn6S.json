@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "NAARAH",
+        "url": "https://open.spotify.com/album/3COgw6QH6GE7nSWZCFjKBJ"
+      },
+      "artists": [
+        {
+          "name": "Joardean Ousepp",
+          "url": "https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx"
+        },
+        {
+          "name": "Rickeysiva",
+          "url": "https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138465,
+      "name": "NAARAH",
+      "url": "https://open.spotify.com/track/1vljclmCqu5ASmIIzJmigG"
+    },
+    {
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/6n7Kf2MbyZrkSyIIMMEx8K"
       },

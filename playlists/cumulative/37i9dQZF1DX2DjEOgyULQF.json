@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "description": "Ambient with the soothing sounds of water, rain and birds.",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 152926,
       "name": "Brought",
       "url": "https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI"
@@ -650,6 +650,24 @@
       "duration_ms": 131541,
       "name": "Calihue",
       "url": "https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM"
+    },
+    {
+      "album": {
+        "name": "Calm Mind, in the Forest",
+        "url": "https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq"
+      },
+      "artists": [
+        {
+          "name": "Elaifas",
+          "url": "https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Calm Mind, in the Forest",
+      "url": "https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC"
     },
     {
       "album": {
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 143844,
       "name": "Forest Exhale",
       "url": "https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 182068,
       "name": "Found the Moon",
       "url": "https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt"
@@ -2364,6 +2382,24 @@
       "duration_ms": 138750,
       "name": "Grandiosa",
       "url": "https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv"
+    },
+    {
+      "album": {
+        "name": "Greenwood",
+        "url": "https://open.spotify.com/album/4of8zBFKxdP02r7ZG6tiYW"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Greenwood",
+      "url": "https://open.spotify.com/track/6SoXx6sA7BKjprwVHKfIzY"
     },
     {
       "album": {
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 210000,
       "name": "Natura Deambulatio",
       "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
@@ -4621,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Silverhollow",
+        "url": "https://open.spotify.com/album/1S69O9i42zGrY1orv8I8c9"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182559,
+      "name": "Silverhollow",
+      "url": "https://open.spotify.com/track/0mJzBt2BjTqbzTHqQhqyHf"
+    },
+    {
+      "album": {
         "name": "Simplicity",
         "url": "https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p"
       },
@@ -4816,6 +4870,24 @@
       "duration_ms": 151654,
       "name": "Spa Rituals",
       "url": "https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP"
+    },
+    {
+      "album": {
+        "name": "Sphagnum",
+        "url": "https://open.spotify.com/album/5dV6q8LIdcS2D1MCdYqGOk"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120776,
+      "name": "Sphagnum",
+      "url": "https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE"
     },
     {
       "album": {
@@ -5136,7 +5208,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 178338,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n"
@@ -5824,7 +5896,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 169500,
       "name": "Whispering Brook",
       "url": "https://open.spotify.com/track/0ZXsioKR9gqiTkwVA4ledQ"

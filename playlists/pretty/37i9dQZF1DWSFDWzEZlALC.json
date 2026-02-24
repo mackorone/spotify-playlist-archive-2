@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: herbst",
-  "num_followers": 462521,
+  "num_followers": 462516,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKT3OZVjn28ejx+aVMI7FR3JrW16",
+  "snapshot_id": "AAAAAKcFTvy3loPqprH/0zqY1FApEXZU",
   "tracks": [
     {
       "added_at": "2026-02-19 23:00:48",
@@ -51,18 +51,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Liebeslied",
-        "url": "https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL"
+        "name": "Wenn alle Stricke reissen",
+        "url": "https://open.spotify.com/album/5oNtg3GkGJTqs8xWGJqINA"
       },
       "artists": [
         {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
         }
       ],
-      "duration_ms": 187203,
-      "name": "Liebeslied",
-      "url": "https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x"
+      "duration_ms": 204153,
+      "name": "Wenn alle Stricke reissen",
+      "url": "https://open.spotify.com/track/3m5ElnNugava0TChDfx34x"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
+        "name": "Liebeslied",
+        "url": "https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "duration_ms": 187203,
+      "name": "Liebeslied",
+      "url": "https://open.spotify.com/track/5PQUlQaGTKUSqvpQXPhL0x"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
         "name": "Nichts mehr (mit ENNIO)",
         "url": "https://open.spotify.com/album/0M6RPedZDDA37GasBjWP5a"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Odyssee",
-        "url": "https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx"
-      },
-      "artists": [
-        {
-          "name": "ALLESS.",
-          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
-        }
-      ],
-      "duration_ms": 186688,
-      "name": "Odyssee",
-      "url": "https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/6jAipl6QinNFySL8dFq7CZ"
       },
@@ -151,18 +151,34 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Wenn alle Stricke reissen",
-        "url": "https://open.spotify.com/album/5oNtg3GkGJTqs8xWGJqINA"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/6W6DXp3exCy7zEgzKNaH2P"
       },
       "artists": [
         {
-          "name": "Edwin Rosen",
-          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
         }
       ],
-      "duration_ms": 204153,
-      "name": "Wenn alle Stricke reissen",
-      "url": "https://open.spotify.com/track/3m5ElnNugava0TChDfx34x"
+      "duration_ms": 162207,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2YBuKxemdAXW48wLHbRIRb"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Odyssee",
+        "url": "https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "duration_ms": 186688,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -179,22 +195,6 @@
       "duration_ms": 166220,
       "name": "SEX UND LIEBE",
       "url": "https://open.spotify.com/track/5odLD1t5L2VF5UgYOypjFY"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/6W6DXp3exCy7zEgzKNaH2P"
-      },
-      "artists": [
-        {
-          "name": "Jaq",
-          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
-        }
-      ],
-      "duration_ms": 162207,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2YBuKxemdAXW48wLHbRIRb"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Klapprad",
-        "url": "https://open.spotify.com/album/6ffyP01Ey3HPsiAtdoUOMR"
+        "name": "SILHOUETTEN",
+        "url": "https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj"
       },
       "artists": [
         {
-          "name": "Udo West",
-          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
         }
       ],
-      "duration_ms": 141346,
-      "name": "Klapprad",
-      "url": "https://open.spotify.com/track/7JVnFtZma0otI1aXPLxXiD"
+      "duration_ms": 138437,
+      "name": "riss im telefon",
+      "url": "https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "SILHOUETTEN",
-        "url": "https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj"
+        "name": "Klapprad",
+        "url": "https://open.spotify.com/album/6ffyP01Ey3HPsiAtdoUOMR"
       },
       "artists": [
         {
-          "name": "rosmarin",
-          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
         }
       ],
-      "duration_ms": 138437,
-      "name": "riss im telefon",
-      "url": "https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI"
+      "duration_ms": 141346,
+      "name": "Klapprad",
+      "url": "https://open.spotify.com/track/7JVnFtZma0otI1aXPLxXiD"
     },
     {
       "added_at": "2026-02-19 23:00:48",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-02-19 23:00:48",
       "album": {
-        "name": "Unterk\u00fchlt",
-        "url": "https://open.spotify.com/album/2SRMlV78U0VlABSr4mGv7n"
-      },
-      "artists": [
-        {
-          "name": "Rowli",
-          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
-        }
-      ],
-      "duration_ms": 142795,
-      "name": "Unterk\u00fchlt",
-      "url": "https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s"
-    },
-    {
-      "added_at": "2026-02-19 23:00:48",
-      "album": {
         "name": "TANZSCHEIN",
         "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 162548,
       "name": "TANZSCHEIN",
       "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
+    },
+    {
+      "added_at": "2026-02-19 23:00:48",
+      "album": {
+        "name": "Unterk\u00fchlt",
+        "url": "https://open.spotify.com/album/2SRMlV78U0VlABSr4mGv7n"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "duration_ms": 142795,
+      "name": "Unterk\u00fchlt",
+      "url": "https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s"
     },
     {
       "added_at": "2026-02-19 23:00:48",

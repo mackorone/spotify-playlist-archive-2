@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,888 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,891 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 26 | [Barkha Ki Rut Aayi](https://open.spotify.com/track/7rZdTFbCznTBWeJ4Cpjy6j) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Dev Rathour](https://open.spotify.com/artist/3SgBJ7cDhZFNJ1dam2nA7n) | [Barkha Ki Rut Aayi](https://open.spotify.com/album/0NJeQ8sYvVU63EstMlPkFL) | 3:37 |
 | 27 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 |
 | 28 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
-| 29 | [Ja Tujhko](https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0) | 6:05 |
+| 29 | [Ja Tujhko](https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko](https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0) | 6:05 |
 | 30 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 |
 | 31 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 |
 | 32 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 |

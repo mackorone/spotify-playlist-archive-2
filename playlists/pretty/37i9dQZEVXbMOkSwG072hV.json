@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352879,
+  "num_followers": 352891,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MS5nwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MS+5QAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Pera\u00ed",
         "url": "https://open.spotify.com/album/472D6wTIZ23Hx2Ymmpd4Dg"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/3o5l3fBpyNLn4ow46NToRa"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "A Sina de Ofelia",
         "url": "https://open.spotify.com/album/3UUILRy4SXIVbRMfqYgFr9"
@@ -61,7 +45,39 @@
       "url": "https://open.spotify.com/track/2P1KD6OEeAKExYpvx9CQEO"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Vem Ni Mim Cuiudete",
         "url": "https://open.spotify.com/album/5kqzFtBym95ZuxrdHjHjqe"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/0LYMQxQo5f59FXYBQbHNrz"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Eu Vou Cuspir",
         "url": "https://open.spotify.com/album/3ALuRC0WpEev3kQlYUH4Dt"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "CARNAVAL",
         "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
@@ -145,7 +145,47 @@
       "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Unidos do Viradouro",
+          "url": "https://open.spotify.com/artist/2TvCrbqQMOG0MLbqjqBES0"
+        },
+        {
+          "name": "Wander Pires",
+          "url": "https://open.spotify.com/artist/06aErK9NwNAHzLob15if8z"
+        }
+      ],
+      "duration_ms": 353488,
+      "name": "Pra Cima, Ci\u00e7a!",
+      "url": "https://open.spotify.com/track/3DBUjIPBwEvGupC08xhCLt"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Sambas de Enredo Rio Carnaval 2026",
         "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
@@ -173,50 +213,10 @@
       "url": "https://open.spotify.com/track/16IFkQOhjD4OTvkaOOtBqd"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2026",
-        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "Unidos do Viradouro",
-          "url": "https://open.spotify.com/artist/2TvCrbqQMOG0MLbqjqBES0"
-        },
-        {
-          "name": "Wander Pires",
-          "url": "https://open.spotify.com/artist/06aErK9NwNAHzLob15if8z"
-        }
-      ],
-      "duration_ms": 353488,
-      "name": "Pra Cima, Ci\u00e7a!",
-      "url": "https://open.spotify.com/track/3DBUjIPBwEvGupC08xhCLt"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
       },
       "artists": [
         {
@@ -226,10 +226,10 @@
       ],
       "duration_ms": 179586,
       "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -245,7 +245,27 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Palavra Liberada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
+      },
+      "artists": [
+        {
+          "name": "Abra\u00e3o Alencar",
+          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 425033,
+      "name": "Palavra Liberada - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
@@ -273,27 +293,7 @@
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Palavra Liberada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
-      },
-      "artists": [
-        {
-          "name": "Abra\u00e3o Alencar",
-          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 425033,
-      "name": "Palavra Liberada - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Pique Anos 80",
         "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
@@ -321,35 +321,7 @@
       "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2026",
-        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "G.R.E.S. Acad\u00eamicos de Niter\u00f3i",
-          "url": "https://open.spotify.com/artist/3NZdOlw3yXfktg5UUWp93p"
-        },
-        {
-          "name": "Emerson Dias",
-          "url": "https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        }
-      ],
-      "duration_ms": 391505,
-      "name": "Do Alto do Mulungu Surge a Esperan\u00e7a: Lula, o Oper\u00e1rio do Brasil",
-      "url": "https://open.spotify.com/track/49g3BXnrhTRaqIyg2KkraE"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Hipnotiza",
         "url": "https://open.spotify.com/album/5STRX5pctUIuJJZ4eVFSNS"
@@ -369,51 +341,7 @@
       "url": "https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Carn\u00edvoro",
-        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Carn\u00edvoro",
-      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "NO TEMPO CERTO",
         "url": "https://open.spotify.com/album/2SoCNgCNcBxaEJLj3XUevZ"
@@ -429,23 +357,23 @@
       "url": "https://open.spotify.com/track/5DI2UrNUQBqpOPiPs9wLWj"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/6j4V8qNfLRH5Nzmo5oEJDl"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Tony Salles",
-          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 186624,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Passo com a Bunda e Sarro",
         "url": "https://open.spotify.com/album/2dGxjKaUbdfsqYREDLwsO5"
@@ -473,7 +401,95 @@
       "url": "https://open.spotify.com/track/1vFgUgPdvxvEBuYnJS03S4"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Carn\u00edvoro",
+        "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Carn\u00edvoro",
+      "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/6j4V8qNfLRH5Nzmo5oEJDl"
+      },
+      "artists": [
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "G.R.E.S. Acad\u00eamicos de Niter\u00f3i",
+          "url": "https://open.spotify.com/artist/3NZdOlw3yXfktg5UUWp93p"
+        },
+        {
+          "name": "Emerson Dias",
+          "url": "https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        }
+      ],
+      "duration_ms": 391505,
+      "name": "Do Alto do Mulungu Surge a Esperan\u00e7a: Lula, o Oper\u00e1rio do Brasil",
+      "url": "https://open.spotify.com/track/49g3BXnrhTRaqIyg2KkraE"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Dia e Noite",
+        "url": "https://open.spotify.com/album/1XgfLhtgCeeM9fZZ4XyELE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triii",
+          "url": "https://open.spotify.com/artist/0NcdUQ0CR42X5rw4GHRNME"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Viro Vira Virou",
+      "url": "https://open.spotify.com/track/4Ngl1fqCSOQfx5DTsqeyKb"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Ela k\u00e9 Leitada",
         "url": "https://open.spotify.com/album/4Im21Qok3nccqN2OXrJYDw"
@@ -501,107 +517,7 @@
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2026",
-        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "Mocidade Independente De Padre Miguel",
-          "url": "https://open.spotify.com/artist/2Y6lSD5UWSp2CFbpKT9aSn"
-        },
-        {
-          "name": "Igor Vianna",
-          "url": "https://open.spotify.com/artist/10e3h7nyQCbHE4HGa6341g"
-        }
-      ],
-      "duration_ms": 347618,
-      "name": "Rita Lee, a Padroeira da Liberdade",
-      "url": "https://open.spotify.com/track/4jF3lzseSruRjAnyHWXZI1"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Dia e Noite",
-        "url": "https://open.spotify.com/album/1XgfLhtgCeeM9fZZ4XyELE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triii",
-          "url": "https://open.spotify.com/artist/0NcdUQ0CR42X5rw4GHRNME"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Viro Vira Virou",
-      "url": "https://open.spotify.com/track/4Ngl1fqCSOQfx5DTsqeyKb"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "SINA DE OF\u00c9LIA - FUNK",
-        "url": "https://open.spotify.com/album/2hZmCIqalDfLGr6QSTVhwh"
-      },
-      "artists": [
-        {
-          "name": "DJ IGOR",
-          "url": "https://open.spotify.com/artist/7Arec7bWILfGThlXH37W3X"
-        }
-      ],
-      "duration_ms": 207279,
-      "name": "SINA DE OF\u00c9LIA - FUNK",
-      "url": "https://open.spotify.com/track/4jfytgjN1TVcG5cp2U2rfL"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "O Tbt Que Ele Quer",
-        "url": "https://open.spotify.com/album/1DT9WAK6DKPI4zBPTGOAKt"
-      },
-      "artists": [
-        {
-          "name": "DJ HM ZL",
-          "url": "https://open.spotify.com/artist/1xmIVtkS9LEchsnnrKzhIR"
-        },
-        {
-          "name": "MC MAYAH",
-          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
-        }
-      ],
-      "duration_ms": 172392,
-      "name": "O Tbt Que Ele Quer",
-      "url": "https://open.spotify.com/track/5s4j3EtFF9P0f1KkqYzcT5"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2026",
-        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "G.R.E.S. Imperatriz Leopoldinense",
-          "url": "https://open.spotify.com/artist/0560AasHWiZEzl6s4ftj0m"
-        },
-        {
-          "name": "Pitty Menezes",
-          "url": "https://open.spotify.com/artist/5pmTVVojUxzA1dEelSKdje"
-        }
-      ],
-      "duration_ms": 412151,
-      "name": "Camale\u00f4nico",
-      "url": "https://open.spotify.com/track/1TYm0wktxFrDQVTfYTyAqv"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Uma Carta Viva (Ao Vivo)",
         "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
@@ -629,7 +545,7 @@
       "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
@@ -645,7 +561,103 @@
       "url": "https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "SINA DE OF\u00c9LIA - FUNK",
+        "url": "https://open.spotify.com/album/2hZmCIqalDfLGr6QSTVhwh"
+      },
+      "artists": [
+        {
+          "name": "DJ IGOR",
+          "url": "https://open.spotify.com/artist/7Arec7bWILfGThlXH37W3X"
+        }
+      ],
+      "duration_ms": 207279,
+      "name": "SINA DE OF\u00c9LIA - FUNK",
+      "url": "https://open.spotify.com/track/4jfytgjN1TVcG5cp2U2rfL"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "O Tbt Que Ele Quer",
+        "url": "https://open.spotify.com/album/1DT9WAK6DKPI4zBPTGOAKt"
+      },
+      "artists": [
+        {
+          "name": "DJ HM ZL",
+          "url": "https://open.spotify.com/artist/1xmIVtkS9LEchsnnrKzhIR"
+        },
+        {
+          "name": "MC MAYAH",
+          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
+        }
+      ],
+      "duration_ms": 172392,
+      "name": "O Tbt Que Ele Quer",
+      "url": "https://open.spotify.com/track/5s4j3EtFF9P0f1KkqYzcT5"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "Mocidade Independente De Padre Miguel",
+          "url": "https://open.spotify.com/artist/2Y6lSD5UWSp2CFbpKT9aSn"
+        },
+        {
+          "name": "Igor Vianna",
+          "url": "https://open.spotify.com/artist/10e3h7nyQCbHE4HGa6341g"
+        }
+      ],
+      "duration_ms": 347618,
+      "name": "Rita Lee, a Padroeira da Liberdade",
+      "url": "https://open.spotify.com/track/4jF3lzseSruRjAnyHWXZI1"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "ZERO BALA",
+        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "PENSANDO EM MIM",
+      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
         "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
@@ -673,75 +685,7 @@
       "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "GUIA-ME REGGAE",
-        "url": "https://open.spotify.com/album/4N35ymFIuPifS8QMcCOJl1"
-      },
-      "artists": [
-        {
-          "name": "Zyan Dias",
-          "url": "https://open.spotify.com/artist/3C5V35mPFsQKkAQT9SWNEf"
-        }
-      ],
-      "duration_ms": 185841,
-      "name": "GUIA-ME REGGAE",
-      "url": "https://open.spotify.com/track/6eTL23D3ElBStRuOJog3RQ"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "ZERO BALA",
-        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        },
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "PENSANDO EM MIM",
-      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "GOSTA DE SACANAGEM",
-        "url": "https://open.spotify.com/album/7qyc6tmrgXqODd9Cxi7SN6"
-      },
-      "artists": [
-        {
-          "name": "ROBERTO TECLAS NO BEAT",
-          "url": "https://open.spotify.com/artist/5fHfyt1SEaqIBlqCFiaVWe"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "GOSTA DE SACANAGEM",
-      "url": "https://open.spotify.com/track/04qC09tJqs5BNQEE2Ujbja"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Semi Nua 2 / O Seu Closet \u00e9 M\u00f3 Cagueta",
         "url": "https://open.spotify.com/album/5Rh7WdAB62M5EDykDk4u1C"
@@ -761,7 +705,107 @@
       "url": "https://open.spotify.com/track/2GEy7Li602UG95HMkYPYMU"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "GOSTA DE SACANAGEM",
+        "url": "https://open.spotify.com/album/7qyc6tmrgXqODd9Cxi7SN6"
+      },
+      "artists": [
+        {
+          "name": "ROBERTO TECLAS NO BEAT",
+          "url": "https://open.spotify.com/artist/5fHfyt1SEaqIBlqCFiaVWe"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "GOSTA DE SACANAGEM",
+      "url": "https://open.spotify.com/track/04qC09tJqs5BNQEE2Ujbja"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "GUIA-ME REGGAE",
+        "url": "https://open.spotify.com/album/4N35ymFIuPifS8QMcCOJl1"
+      },
+      "artists": [
+        {
+          "name": "Zyan Dias",
+          "url": "https://open.spotify.com/artist/3C5V35mPFsQKkAQT9SWNEf"
+        }
+      ],
+      "duration_ms": 185841,
+      "name": "GUIA-ME REGGAE",
+      "url": "https://open.spotify.com/track/6eTL23D3ElBStRuOJog3RQ"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Leborato",
+          "url": "https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 247980,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -777,7 +821,79 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Sambas de Enredo Rio Carnaval 2026",
+        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
+      },
+      "artists": [
+        {
+          "name": "Rio Carnaval",
+          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+        },
+        {
+          "name": "G.R.E.S. Imperatriz Leopoldinense",
+          "url": "https://open.spotify.com/artist/0560AasHWiZEzl6s4ftj0m"
+        },
+        {
+          "name": "Pitty Menezes",
+          "url": "https://open.spotify.com/artist/5pmTVVojUxzA1dEelSKdje"
+        }
+      ],
+      "duration_ms": 412151,
+      "name": "Camale\u00f4nico",
+      "url": "https://open.spotify.com/track/1TYm0wktxFrDQVTfYTyAqv"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "PEGA A MALDADE DA BANDIDA",
+        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "PEGA A MALDADE DA BANDIDA",
+      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "Esconde Sua Namorada",
+        "url": "https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        }
+      ],
+      "duration_ms": 150886,
+      "name": "Esconde Sua Namorada",
+      "url": "https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Ritmo Lilly Wood",
         "url": "https://open.spotify.com/album/0TrPeep7y6CzRq5R9LKvkv"
@@ -813,95 +929,7 @@
       "url": "https://open.spotify.com/track/0d2OevhRY98n6MJIAt9zLh"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Vampirinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Vampirinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "PEGA A MALDADE DA BANDIDA",
-        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Mc Ws da leste",
-          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
-        },
-        {
-          "name": "Delleon",
-          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "PEGA A MALDADE DA BANDIDA",
-      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Esconde Sua Namorada",
-        "url": "https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        }
-      ],
-      "duration_ms": 150886,
-      "name": "Esconde Sua Namorada",
-      "url": "https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Tantos Mares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
-        },
-        {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
-        }
-      ],
-      "duration_ms": 283406,
-      "name": "Tantos Mares - Ao Vivo",
-      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
@@ -917,75 +945,43 @@
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Leborato",
-          "url": "https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 247980,
-      "name": "Beatriz",
-      "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "JETSKI",
-        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "JETSKI",
-      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
@@ -1025,31 +1021,7 @@
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2026-02-22 13:40:27",
-      "album": {
-        "name": "Sambas de Enredo Rio Carnaval 2026",
-        "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
-      },
-      "artists": [
-        {
-          "name": "Rio Carnaval",
-          "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
-        },
-        {
-          "name": "Acad\u00eamicos Do Grande Rio",
-          "url": "https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA"
-        },
-        {
-          "name": "Evandro Malandro",
-          "url": "https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW"
-        }
-      ],
-      "duration_ms": 329482,
-      "name": "A Na\u00e7\u00e3o do Mangue",
-      "url": "https://open.spotify.com/track/2EVJnYFACyxBogsoG55Ajx"
-    },
-    {
-      "added_at": "2026-02-22 13:40:27",
+      "added_at": "2026-02-23 14:15:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -1063,6 +1035,30 @@
       "duration_ms": 201816,
       "name": "El Apag\u00f3n",
       "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
+    },
+    {
+      "added_at": "2026-02-23 14:15:00",
+      "album": {
+        "name": "JETSKI",
+        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "JETSKI",
+      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

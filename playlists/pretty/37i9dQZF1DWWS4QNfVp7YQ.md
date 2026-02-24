@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,148 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,169 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 25 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 26 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 27 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
-| 28 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
-| 29 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
+| 28 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
+| 29 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 | 30 | [Mi Cumbia!](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
 | 31 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 32 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |

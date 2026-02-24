@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,428 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,436 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,18 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 24 | [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 |
 | 25 | [Piñata en el 301](https://open.spotify.com/track/78qPjs6oB2ZIaPOYpKZT8m) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 2:53 |
 | 26 | [Changó](https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 4:04 |
-| 27 | [Otra Canción Larga](https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 6:05 |
-| 28 | [Los Genios de la Botella \- Remix Gambeta](https://open.spotify.com/track/1vJKRRBEYz034bWewZz146) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/3D9RotS2JIfLMEVT1lfBu8) | 3:03 |
+| 27 | [Los Genios de la Botella \- Remix Gambeta](https://open.spotify.com/track/1vJKRRBEYz034bWewZz146) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/3D9RotS2JIfLMEVT1lfBu8) | 3:03 |
+| 28 | [Otra Canción Larga](https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 6:05 |
 | 29 | [Dando Vueltas](https://open.spotify.com/track/1u6kewVKZOOd3UAqlhN7gQ) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Hallowinners II: La Venganza](https://open.spotify.com/album/3iAw7fQiXPCOAuIeo1Wyqc) | 2:52 |
 | 30 | [Género Rural](https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:51 |
-| 31 | [Antes del Meridiano](https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:29 |
-| 32 | [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 |
+| 31 | [Comediantes de Velorio](https://open.spotify.com/track/7AsBAP4vy6fVgLe5bYTxBz) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 4:14 |
+| 32 | [Antes del Meridiano](https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:29 |
 | 33 | [El Despilfarro](https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 2:58 |
 | 34 | [Anestesia Local \- Episodio 2](https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:53 |
-| 35 | [Una Resaca Mas](https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:58 |
-| 36 | [Terapia de Grupo](https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:46 |
-| 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
-| 38 | [Let My People](https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 3:32 |
-| 39 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
+| 35 | [Terapia de Grupo](https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:46 |
+| 36 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
+| 37 | [Let My People](https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 3:32 |
+| 38 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
 
-Snapshot ID: `aZj1gAAAAABUv0WPonqpo7gghAv9KNLY`
+Snapshot ID: `aZpHAAAAAACWi+qcA2yvL8fIB0f4zUUD`

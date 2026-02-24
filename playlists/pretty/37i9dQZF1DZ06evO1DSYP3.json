@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5731,
+  "num_followers": 5732,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAB3N5TCB6eC5PnrG4bf0nbk",
+  "snapshot_id": "aZpHAAAAAADVE2m30VZTJy/7jg3wWu53",
   "tracks": [
     {
       "added_at": null,
@@ -293,7 +293,7 @@
         },
         {
           "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "url": "https://open.spotify.com/artist/5E2Y3HJBvm4P5GK1kBRMtG"
         }
       ],
       "duration_ms": 118551,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 203187,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Ain't Nothin",
+        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
+      },
+      "artists": [
+        {
+          "name": "ATM Danny",
+          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "It Ain't Nothin",
+      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 140811,
       "name": "Walked In",
       "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Ain't Nothin",
-        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
-      },
-      "artists": [
-        {
-          "name": "ATM Danny",
-          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "It Ain't Nothin",
-      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaseya",
-        "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Kaseya",
-      "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Love Myself",
         "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 160384,
       "name": "I Love Myself",
       "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaseya",
+        "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Kaseya",
+      "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 144459,
       "name": "House",
       "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,

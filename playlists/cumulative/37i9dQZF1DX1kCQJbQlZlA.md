@@ -2,7 +2,7 @@
 
 ### [Về Quê](https://open.spotify.com/playlist/37i9dQZF1DX1kCQJbQlZlA)
 
-> Về quê ăn Tết mọi người ơi, Bùi Công Nam said
+> Về quê ăn Tết mọi người ơi, Mer said
 
 189 songs - 15 hr 33 min
 

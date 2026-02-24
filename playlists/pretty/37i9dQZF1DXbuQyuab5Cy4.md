@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops 🧛🏼🧛🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,419 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,438 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 59 | [Terror Squad](https://open.spotify.com/track/3iua7Qv6SauKb6AIRErIDE) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Reanimated EP](https://open.spotify.com/album/0pvo5DotmMpj4hvnWAYkwJ) | 4:17 |
 | 60 | [4EVR](https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:15 |
 | 61 | [Grave](https://open.spotify.com/track/0qkSTDOUNmyPsMjTJ4jISd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Grave](https://open.spotify.com/album/6nDCvCvEZjvYMWxDoa2lXF) | 4:36 |
-| 62 | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/track/53EkOo1VrJYEZCvBDLKoiK) | [Allen Mock](https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T), [Chow Chow](https://open.spotify.com/artist/2qntwTfzCkrCHjzi4SPSAt), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/album/2MXEvZxDkoiCm0sNKXoSgd) | 2:47 |
+| 62 | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/track/53EkOo1VrJYEZCvBDLKoiK) | [Allen Mock](https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T), [Chow Chow](https://open.spotify.com/artist/1Rl7xpHy6guihHN2gaFbja), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/album/2MXEvZxDkoiCm0sNKXoSgd) | 2:47 |
 | 63 | [Our Demons \(feat\. Aja Volkman\)](https://open.spotify.com/track/3iFjScPoAC21CT5cbAFZ7b) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Aja Volkman](https://open.spotify.com/artist/1acEKKXSDIHJifhq0Bj3g1) | [Love Death Immortality](https://open.spotify.com/album/1g03ut9FlCdvFbOcSvUxjs) | 5:16 |
 | 64 | [Dancing with the Devil \(feat\. Patrick Stump & Travis Barker\)](https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Get Wet](https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6) | 3:58 |
 | 65 | [Cyberspace](https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Cyberspace](https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i) | 4:50 |

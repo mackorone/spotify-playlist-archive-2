@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,894 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,892 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 53 | [愛とは](https://open.spotify.com/track/6lmIrtShYENvtIGtBFEviO) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [愛とは](https://open.spotify.com/album/4tzHyZTUB7R3BouKtPwB6j) | 3:58 |
 | 54 | [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 |
 | 55 | [GUN POWDER](https://open.spotify.com/track/62o2Pvdfe925hqfqB77lrv) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [GUN POWDER](https://open.spotify.com/album/1buHviiOjSJZKxRQT5RtuX) | 2:53 |
-| 56 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
-| 57 | [ORACLE](https://open.spotify.com/track/3ZaCzlMkS6zxta8CRlbYHT) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ORACLE](https://open.spotify.com/album/6u7qagdE4p5YiqSgEVeO4j) | 3:21 |
+| 56 | [ORACLE](https://open.spotify.com/track/3ZaCzlMkS6zxta8CRlbYHT) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ORACLE](https://open.spotify.com/album/6u7qagdE4p5YiqSgEVeO4j) | 3:21 |
+| 57 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
 | 58 | [泡沫](https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU) | 3:51 |
 | 59 | [YOU](https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [YOU](https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi) | 3:45 |
 | 60 | [横顔](https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [横顔](https://open.spotify.com/album/5cJDxgC2ODwS1RS7vtNLuF) | 4:14 |
 | 61 | [デッドエンド](https://open.spotify.com/track/4leMDmtNqMBjfprfRlx7kd) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [デッドエンド](https://open.spotify.com/album/4CV8Dq2YA4oViwgltxwegz) | 3:06 |
 | 62 | [アニムスヘイブン](https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アニムスヘイブン](https://open.spotify.com/album/77ycLnkh7FjoJ2k43b4Ybt) | 3:06 |
-| 63 | [悪人](https://open.spotify.com/track/7uWxsv7spQIqAqDTibWZY9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [悪人](https://open.spotify.com/album/19znVd3k8G2JEA2SwPEXjC) | 3:15 |
-| 64 | [RUST](https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [RUST](https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP) | 3:17 |
+| 63 | [RUST](https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [RUST](https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP) | 3:17 |
+| 64 | [悪人](https://open.spotify.com/track/7uWxsv7spQIqAqDTibWZY9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [悪人](https://open.spotify.com/album/19znVd3k8G2JEA2SwPEXjC) | 3:15 |
 | 65 | [Turn It Up](https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Turn It Up](https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa) | 3:18 |
 | 66 | [BIG BUG BEAR](https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [BIG BUG BEAR](https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51) | 3:46 |
 | 67 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 80 | [you you](https://open.spotify.com/track/5MfU49KZN1RXyYOhC6SmJw) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [you you](https://open.spotify.com/album/5i4zmvO3uQe2brglzWIKWx) | 3:03 |
 | 81 | [Dance with Darkness](https://open.spotify.com/track/0MzTWsKVnAwr64qapJzEkA) | [Angela Aki](https://open.spotify.com/artist/7if7UQ2RpiPgIvUkgomgR7) | [SHADOW WORK](https://open.spotify.com/album/2IdM3we2u6vwMQpeETtHPi) | 3:41 |
 | 82 | [いちとに](https://open.spotify.com/track/6zrJfKcAYHy6cPnROenF4f) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [いちとに](https://open.spotify.com/album/6h2H0Crmre4lPnGlxAJ9hF) | 3:33 |
-| 83 | [grue](https://open.spotify.com/track/75pLsdloo6CR6zsCOfYZmp) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk), [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [情操の空き地](https://open.spotify.com/album/4DZNVejri3dFbIP5qmfGr1) | 2:54 |
+| 83 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
 | 84 | [キンモクセイ](https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [キンモクセイ](https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU) | 3:38 |
-| 85 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
+| 85 | [grue](https://open.spotify.com/track/75pLsdloo6CR6zsCOfYZmp) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk), [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [情操の空き地](https://open.spotify.com/album/4DZNVejri3dFbIP5qmfGr1) | 2:54 |
 | 86 | [Spot Love](https://open.spotify.com/track/7t3lP5bSeVKbASkTrgveYg) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Spot Love](https://open.spotify.com/album/00L3HejFjYfPsCpecYNtIG) | 4:32 |
 | 87 | [全裸](https://open.spotify.com/track/5nD57E8xurJsrfYcgqJ0Aj) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [全裸](https://open.spotify.com/album/6iiX3fHOwjHYKBdd6ettSP) | 3:00 |
 | 88 | [今のキミを忘れない \- REBOOT ver.](https://open.spotify.com/track/0zAaMRHDhuiX8fvLs75Xg6) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [今のキミを忘れない \(REBOOT ver.\)](https://open.spotify.com/album/0aV6Gdzk2pMzC5rgT84FI1) | 5:12 |
 | 89 | [あまりもの](https://open.spotify.com/track/1zzOy9xF41XHu7aHQIf8Ea) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [あまりもの](https://open.spotify.com/album/3hEg8uDQrbVcITN7o0zpTU) | 2:36 |
 | 90 | [OK](https://open.spotify.com/track/6aQodoR5W5mnGGvGpWPH9l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [OK](https://open.spotify.com/album/2qUZYHZL8wIABuv5OOcA9Q) | 3:03 |
-| 91 | [Pulse Wave](https://open.spotify.com/track/5T0bIlgkd76Je8biQEqSpJ) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Pulse Wave](https://open.spotify.com/album/1EYpDVwChhDtXMYF2OE4oU) | 2:54 |
-| 92 | [RHIZANTHELLA](https://open.spotify.com/track/2cMeppA4pdPnASski6tKha) | [Luciela](https://open.spotify.com/artist/6dx7T6YZ6MXM2VYjQNhvrX) | [遺花](https://open.spotify.com/album/1A5H3HxtGFmrGbyKL5nSlt) | 3:20 |
+| 91 | [RHIZANTHELLA](https://open.spotify.com/track/2cMeppA4pdPnASski6tKha) | [Luciela](https://open.spotify.com/artist/6dx7T6YZ6MXM2VYjQNhvrX) | [遺花](https://open.spotify.com/album/1A5H3HxtGFmrGbyKL5nSlt) | 3:20 |
+| 92 | [Pulse Wave](https://open.spotify.com/track/5T0bIlgkd76Je8biQEqSpJ) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Pulse Wave](https://open.spotify.com/album/1EYpDVwChhDtXMYF2OE4oU) | 2:54 |
 | 93 | [彗星たちのカンタータ](https://open.spotify.com/track/07jHx7aNXVuKBfVzLqBNcd) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [彗星たちのカンタータ](https://open.spotify.com/album/47HyqmOEQRPxigUrNm9x2h) | 5:13 |
 | 94 | [Teacher](https://open.spotify.com/track/5nyA3uksWeJi212HIiMjuq) | [ケタチガイ](https://open.spotify.com/artist/0pgcFxV8HGyHLf35C9uvmK) | [Teacher](https://open.spotify.com/album/5FlvoUR6kDRbjMmZigXWd3) | 3:07 |
 | 95 | [海のにおい](https://open.spotify.com/track/50tq7P0Ec5oCqi3G77fwV0) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [海のにおい](https://open.spotify.com/album/1yHZAC9wKAOrRicqQlWTsT) | 4:08 |

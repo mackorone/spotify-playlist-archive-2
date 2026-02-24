@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- gini
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,517 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,677 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Feeka](https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A) | 2:43 |
 | 2 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |
 | 3 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
-| 4 | [Kaise Hum](https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kaise Hum](https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc) | 3:54 |
+| 4 | [Kaise Hum](https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kaise Hum](https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc) | 3:54 |
 | 5 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |
 | 6 | [Aashiqon Ki Colony \(From "O' Romeo"\)](https://open.spotify.com/track/6JsOgTnOGoiuS8j8zSKH4j) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Aashiqon Ki Colony \(From "O' Romeo"\)](https://open.spotify.com/album/1rzU8JiRS6NYhnYmlYLT9Z) | 5:01 |
 | 7 | [Haan Ke Haan](https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Maharaj](https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6) | 3:24 |

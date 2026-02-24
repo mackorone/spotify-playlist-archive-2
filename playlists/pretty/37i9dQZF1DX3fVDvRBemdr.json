@@ -1,29 +1,13 @@
 {
   "description": "De nieuwste releases Hollands & Volks. Cover: Dave Dekker",
-  "num_followers": 154918,
+  "num_followers": 154915,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyL10TeuWHvwZANTJtJI9pj6SL6",
+  "snapshot_id": "AAAAANvOScAZUspppAmv2+vM+iNsFPGB",
   "tracks": [
-    {
-      "added_at": "2026-02-19 23:00:50",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e"
-      },
-      "artists": [
-        {
-          "name": "Dave Dekker",
-          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
-    },
     {
       "added_at": "2026-02-19 23:00:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 155156,
       "name": "Diner Voor Twee",
       "url": "https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8"
+    },
+    {
+      "added_at": "2026-02-19 23:00:50",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
     },
     {
       "added_at": "2026-02-19 23:00:50",
@@ -71,6 +71,26 @@
       "duration_ms": 175130,
       "name": "Gisteren Was Het Feest",
       "url": "https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i"
+    },
+    {
+      "added_at": "2026-02-19 23:00:50",
+      "album": {
+        "name": "Wij Doen Het Samen",
+        "url": "https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ"
+      },
+      "artists": [
+        {
+          "name": "Grad Damen",
+          "url": "https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt"
+        },
+        {
+          "name": "Louistje Damen",
+          "url": "https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha"
+        }
+      ],
+      "duration_ms": 201188,
+      "name": "Wij Doen Het Samen",
+      "url": "https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h"
     },
     {
       "added_at": "2026-02-19 23:00:50",
@@ -155,26 +175,6 @@
       "duration_ms": 167752,
       "name": "Eigen Schuld",
       "url": "https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT"
-    },
-    {
-      "added_at": "2026-02-19 23:00:50",
-      "album": {
-        "name": "Wij Doen Het Samen",
-        "url": "https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ"
-      },
-      "artists": [
-        {
-          "name": "Grad Damen",
-          "url": "https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt"
-        },
-        {
-          "name": "Louistje Damen",
-          "url": "https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha"
-        }
-      ],
-      "duration_ms": 201188,
-      "name": "Wij Doen Het Samen",
-      "url": "https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h"
     },
     {
       "added_at": "2026-02-19 23:00:50",

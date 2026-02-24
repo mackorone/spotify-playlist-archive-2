@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,035 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 42 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
 | 43 | [Banana](https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe) | [The Rebels](https://open.spotify.com/artist/5DHZNhnoDoZuzDQejFO7h6) | [Banana](https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c) | 3:39 |
 | 44 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 |
-| 45 | [Golpe Con Golpe](https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 3:33 |
-| 46 | [Yamulemau](https://open.spotify.com/track/4WrdKVbToFLVhqqyDpaf8H) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Ídolos de la Música Tropical, Vol\. 2](https://open.spotify.com/album/39G0w1XRpnigLX4xayYymO) | 4:30 |
+| 45 | [Yamulemau](https://open.spotify.com/track/4WrdKVbToFLVhqqyDpaf8H) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Ídolos de la Música Tropical, Vol\. 2](https://open.spotify.com/album/39G0w1XRpnigLX4xayYymO) | 4:30 |
+| 46 | [Golpe Con Golpe](https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 3:33 |
 | 47 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 48 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
 | 49 | [Dile al Amor](https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI) | 3:48 |
-| 50 | [Olvídala](https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:04 |
+| 50 | [Te Quiero Más](https://open.spotify.com/track/4jv993d0bzPqX5gCvanrPG) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [14 Cañonazos Bailables \(Vol\. 31\)](https://open.spotify.com/album/12zneuKO9yg7nUCK8kbee3) | 5:18 |
 
-Snapshot ID: `AAAAACLoTvVTBpif/k/hD7ISIUOpJ/xX`
+Snapshot ID: `AAAAAC4R+L6m7+M/0fQ6HVNL+6fzArUa`

@@ -4,11 +4,12 @@
 
 > This is METTE\. The essential tracks, all in one playlist.
 
-13 songs - 41 min 22 sec
+14 songs - 44 min 18 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ACID RAIN](https://open.spotify.com/track/1MWfZyZ8qIu1D2xEN1OuQB) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:22 | 2024-01-10 |  |
+| [ANXIOUS TO LOVE YOU](https://open.spotify.com/track/7nCKE7GbXitx9sLjc7jmqV) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [ANXIOUS TO LOVE YOU](https://open.spotify.com/album/0ZZRL43AgpJAna8uDH1b0w) | 2:55 | 2026-02-23 |  |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-03 |  |
 | [CHOCOLATE CITY](https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 3:33 | 2024-01-10 |  |
 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-17 |  |

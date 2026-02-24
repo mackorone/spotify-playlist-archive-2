@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18498,
+  "num_followers": 18506,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQzFLmmPUKtwEe82pBUMzDdHtBV",
+  "snapshot_id": "AAAAAGIi2Ce4GMfQDrS+8hpub1EhLHxp",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -51,6 +51,26 @@
       "duration_ms": 176142,
       "name": "Papi",
       "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
+    },
+    {
+      "added_at": "2026-02-23 12:41:36",
+      "album": {
+        "name": "En Kadhalum",
+        "url": "https://open.spotify.com/album/5pCbSjKNmk6A9l77QthRXB"
+      },
+      "artists": [
+        {
+          "name": "Shankara",
+          "url": "https://open.spotify.com/artist/5XesAyDCfSO2lx0U3bDK2U"
+        },
+        {
+          "name": "Shreyaa Srinivasan",
+          "url": "https://open.spotify.com/artist/4CiHuJC6WQIngy0CBv9XEP"
+        }
+      ],
+      "duration_ms": 260182,
+      "name": "Thaedi Thaedi",
+      "url": "https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no"
     },
     {
       "added_at": "2026-02-19 11:44:49",

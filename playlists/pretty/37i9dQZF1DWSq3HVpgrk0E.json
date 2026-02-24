@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Central Cee",
-  "num_followers": 272101,
+  "num_followers": 272097,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
         "name": "Cannonball (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 122568,
       "name": "Cannonball (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "just say dat",
-      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -459,18 +439,38 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 187678,
-      "name": "What She Like",
-      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
+      "duration_ms": 153400,
+      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -495,38 +495,18 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Hello Miss Johnson",
-        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 164747,
-      "name": "Hello Miss Johnson",
-      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+      "duration_ms": 187678,
+      "name": "What She Like",
+      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -547,6 +527,26 @@
       "duration_ms": 193466,
       "name": "at my purest (feat. Offset)",
       "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
       "added_at": "2026-02-13 00:00:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-13 00:00:18",
       "album": {
-        "name": "Chanel Boy",
-        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Chanel Boy",
-      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
-    },
-    {
-      "added_at": "2026-02-13 00:00:18",
-      "album": {
         "name": "GOT DAMN",
         "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2026-02-13 00:00:18",
+      "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
     },
     {
       "added_at": "2026-02-13 00:00:18",

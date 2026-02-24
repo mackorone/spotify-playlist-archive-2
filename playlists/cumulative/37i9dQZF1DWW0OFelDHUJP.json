@@ -726,6 +726,24 @@
     {
       "album": {
         "name": "Ja Tujhko",
+        "url": "https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365812,
+      "name": "Ja Tujhko",
+      "url": "https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9"
+    },
+    {
+      "album": {
+        "name": "Ja Tujhko",
         "url": "https://open.spotify.com/album/1syrIfLmqF3UdYoD4cR7Mc"
       },
       "artists": [
@@ -758,24 +776,6 @@
       "duration_ms": 365624,
       "name": "Ja Tujhko",
       "url": "https://open.spotify.com/track/2XLjGMZHV31QJGwbALFj95"
-    },
-    {
-      "album": {
-        "name": "Ja Tujhko",
-        "url": "https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0"
-      },
-      "artists": [
-        {
-          "name": "Deepak Rathore Project",
-          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
-        }
-      ],
-      "date_added": "2024-03-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 365812,
-      "name": "Ja Tujhko",
-      "url": "https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9"
     },
     {
       "album": {

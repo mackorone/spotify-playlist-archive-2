@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/2wXeuqK08WzJWiAJhgBrEO"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196124,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/5yXYf6TIq6IHwJmAHFag4Y"
+    },
+    {
+      "album": {
         "name": "Attack Mode",
         "url": "https://open.spotify.com/album/2oUgwY4HmuJcGGhfumDfC7"
       },
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 278250,
       "name": "Beyond Boundaries - Reverze Anthem 2026",
       "url": "https://open.spotify.com/track/7gGqr9ke15lX4eNLiRGZfU"
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 194500,
       "name": "Come For You",
       "url": "https://open.spotify.com/track/32s3JwYCkASlCiDElFR5GQ"
@@ -7387,6 +7405,28 @@
     },
     {
       "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/2Gy51rSTAZVxMQw5aTllIP"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158782,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/2jxLWO878eBHmF7e17f8hI"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE"
       },
@@ -7406,6 +7446,28 @@
       "duration_ms": 127500,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
+    },
+    {
+      "album": {
+        "name": "Dangerous (Hard Version)",
+        "url": "https://open.spotify.com/album/67V8xgoZvwEyzm9jq6tI4i"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184814,
+      "name": "Dangerous - Hard Version",
+      "url": "https://open.spotify.com/track/6uqe5dpdiE4euHjTtA6gtX"
     },
     {
       "album": {
@@ -10844,7 +10906,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 143951,
       "name": "Fall Behind",
       "url": "https://open.spotify.com/track/7AGPMTRjFukMBaejYmPsj1"
@@ -11054,6 +11116,24 @@
       "duration_ms": 162093,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/5v0sUHH5gfbl5g2nSIcgLG"
+    },
+    {
+      "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/5ejiAbX65IOd8F9OaxW0sQ"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151742,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/5bjTXRVVUllsMoED5aGrzz"
     },
     {
       "album": {
@@ -16456,7 +16536,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 239068,
       "name": "In Time",
       "url": "https://open.spotify.com/track/77EMVUM2g3wtfQXGh3gJDC"
@@ -18634,7 +18714,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 163500,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/4aJh1izMvbKRXW4lYT1zbU"
@@ -20682,7 +20762,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 216750,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xaAuNpLsro6BCQroy1Hle"
@@ -26133,6 +26213,28 @@
     },
     {
       "album": {
+        "name": "POP IT",
+        "url": "https://open.spotify.com/album/3kQpwzqkAYHjKZ79WPhmOw"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "POP IT",
+      "url": "https://open.spotify.com/track/1HjYRl3vK5AE8Fz1L8zxNA"
+    },
+    {
+      "album": {
         "name": "Portals & Potatoes (Chapter V Remix)",
         "url": "https://open.spotify.com/album/4jDout6il59bOlc91GemQM"
       },
@@ -27080,6 +27182,24 @@
       "duration_ms": 157025,
       "name": "Rave Machine",
       "url": "https://open.spotify.com/track/3eEakFKryuNSeh693v9e6y"
+    },
+    {
+      "album": {
+        "name": "Rave Mode",
+        "url": "https://open.spotify.com/album/1uyLAPDBTDtwC6GyAGnDpq"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141210,
+      "name": "Rave Mode",
+      "url": "https://open.spotify.com/track/5H17SQzQuzrKo2vZSP34Yo"
     },
     {
       "album": {
@@ -29198,7 +29318,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 151605,
       "name": "RUNNING 2 U",
       "url": "https://open.spotify.com/track/51eW7OE7mjMbvlGaPmh5Qq"
@@ -29596,6 +29716,32 @@
       "duration_ms": 183677,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/6NLX027Y4GOgnasEWYhmIq"
+    },
+    {
+      "album": {
+        "name": "Save The Day",
+        "url": "https://open.spotify.com/album/5RVFxweBwqpvWgReuNp82Q"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199164,
+      "name": "Save The Day",
+      "url": "https://open.spotify.com/track/5fV5P3x6dptmriIeLRLrOz"
     },
     {
       "album": {
@@ -31256,7 +31402,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 214968,
       "name": "Start The Show",
       "url": "https://open.spotify.com/track/6zRbqYNGI09KzneBsz0DSH"
@@ -31362,6 +31508,24 @@
       "duration_ms": 204000,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/1BtgKm4KUiroBYPZossFT0"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/28K9zGz3sU8Z9RlonwgogS"
+      },
+      "artists": [
+        {
+          "name": "Cardination",
+          "url": "https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1G2RvUIeR9GaM4WbGj0VQw"
     },
     {
       "album": {
@@ -33956,6 +34120,24 @@
       "duration_ms": 250500,
       "name": "The Insanity Inside - Into The Madness 2024 OST",
       "url": "https://open.spotify.com/track/070ydeVRaI38mYEAZk8S8k"
+    },
+    {
+      "album": {
+        "name": "The Kick-Off",
+        "url": "https://open.spotify.com/album/0l874AM7OSYGjrP0I6xYzJ"
+      },
+      "artists": [
+        {
+          "name": "DROPIXX",
+          "url": "https://open.spotify.com/artist/708jzcyxbTzDceNVOT9kKV"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "The Kick-Off",
+      "url": "https://open.spotify.com/track/6PpzRiZeTkWOpsZKUF3nxU"
     },
     {
       "album": {
@@ -37244,7 +37426,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 172500,
       "name": "Up In Flames",
       "url": "https://open.spotify.com/track/3afBhAnP5NBrG8sdXSUDXO"

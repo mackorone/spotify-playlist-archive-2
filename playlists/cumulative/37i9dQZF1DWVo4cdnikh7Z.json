@@ -7787,6 +7787,40 @@
     },
     {
       "album": {
+        "name": "Chatha Pacha: The Ring Of Rowdies [TAMIL]",
+        "url": "https://open.spotify.com/album/3rnc5bJMpmCW75OK7n3djx"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Manuvardhan Cs",
+          "url": "https://open.spotify.com/artist/0j2VdNTZdlGQKsqvDGL7Pf"
+        },
+        {
+          "name": "Kiran Biju",
+          "url": "https://open.spotify.com/artist/26cxapGOyZovzzfxoVyRzq"
+        },
+        {
+          "name": "Kathikan",
+          "url": "https://open.spotify.com/artist/1T6kyUAgTu7WWEF2wsvZV0"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228117,
+      "name": "Chatha Pacha Title Track (Tamil)",
+      "url": "https://open.spotify.com/track/11itwgynYkcqq5FNc1rTBk"
+    },
+    {
+      "album": {
         "name": "Cheenikkallu (From \"Bison Kaalamaadan\")",
         "url": "https://open.spotify.com/album/1g7XXoiA0C5QW6HLJ0SnxB"
       },
@@ -8188,7 +8222,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 273131,
       "name": "Chikiri Chikiri (From \"Peddi\") [TAMIL]",
       "url": "https://open.spotify.com/track/6a3Tfd6CmCGeBx7HHIhGse"
@@ -30786,7 +30820,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 218059,
       "name": "Nadhiye",
       "url": "https://open.spotify.com/track/6Pw9uKvt13bSpOpKDWV2cU"
@@ -31858,6 +31892,32 @@
       "duration_ms": 247794,
       "name": "Nee Singam Dhan",
       "url": "https://open.spotify.com/track/0vua5LbAth2HzKqpbnVRZk"
+    },
+    {
+      "album": {
+        "name": "Nee Thottale",
+        "url": "https://open.spotify.com/album/0ZEatB6R9H0bhAe61hk1Pf"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Ridhun Sagar",
+          "url": "https://open.spotify.com/artist/3ZUnjtkfuD83zMA7YhT7kw"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254358,
+      "name": "Nee Thottale",
+      "url": "https://open.spotify.com/track/7pUtsAyB8dcLZqhC03COxn"
     },
     {
       "album": {

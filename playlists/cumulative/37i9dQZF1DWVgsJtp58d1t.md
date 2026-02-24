@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DU\_NJN\-mZjv/">Wale</a>
+> Happy Black History Month! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/DVHX1wMkkSq/">Odeal</a>
 
-5,730 songs - 12 day 2 hr 51 min
+5,731 songs - 12 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5572,6 +5572,7 @@
 | [Why Must We Suffer](https://open.spotify.com/track/7dz5iIIIoGbJNetj0a9dDj) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [One In Ten](https://open.spotify.com/album/4PKMiFIQUtq4rDk1Ccjvyw) | 3:48 | 2025-03-14 | 2025-03-22 |
 | [Why Why](https://open.spotify.com/track/4zgUOjpuMgolNDRxwQDaKY) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Why Why](https://open.spotify.com/album/0Fh7cxMOkonvxdPJzxMBkp) | 3:25 | 2025-09-10 | 2025-12-04 |
 | [Wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 | 2022-09-09 | 2022-10-01 |
+| [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 | 2026-02-23 |  |
 | [WICKED!](https://open.spotify.com/track/3zGXKyFESzcbenBMfOieOQ) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WICKED!](https://open.spotify.com/album/4ufYMoVqW8cssqqYdRx5nP) | 1:07 | 2023-04-14 | 2023-04-29 |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-02-28 | 2025-06-07 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-27 | 2023-11-30 |

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 180202,
+  "num_followers": 180208,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
+        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
+        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
+      },
+      "artists": [
+        {
+          "name": "Spectrum",
+          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
+        }
+      ],
+      "duration_ms": 210389,
+      "name": "F\u30fbL\u30fbY",
+      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
+    },
+    {
+      "added_at": "2026-02-17 15:00:19",
+      "album": {
         "name": "\u90fd\u4f1a",
         "url": "https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 283372,
       "name": "\u90fd\u4f1a",
       "url": "https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI"
-    },
-    {
-      "added_at": "2026-02-17 15:00:19",
-      "album": {
-        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
-        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
-      },
-      "artists": [
-        {
-          "name": "Spectrum",
-          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
-        }
-      ],
-      "duration_ms": 210389,
-      "name": "F\u30fbL\u30fbY",
-      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
-        "name": "\u30ab \u30df \u30ca \u30ea",
-        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
+        "name": "Black Humor",
+        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
       },
       "artists": [
         {
@@ -1176,25 +1176,9 @@
           "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
         }
       ],
-      "duration_ms": 213164,
-      "name": "\u30ab \u30df \u30ca \u30ea",
-      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
-    },
-    {
-      "added_at": "2026-02-17 15:00:19",
-      "album": {
-        "name": "\u771f\u590f\u306e\u77ac\u9593",
-        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
-      },
-      "artists": [
-        {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
-        }
-      ],
-      "duration_ms": 233596,
-      "name": "\u771f\u590f\u306e\u77ac\u9593",
-      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
+      "duration_ms": 190906,
+      "name": "MOON NIGHT",
+      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1215,6 +1199,22 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
+    },
+    {
+      "added_at": "2026-02-17 15:00:19",
+      "album": {
+        "name": "\u771f\u590f\u306e\u77ac\u9593",
+        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
+      },
+      "artists": [
+        {
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 233596,
+      "name": "\u771f\u590f\u306e\u77ac\u9593",
+      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
-        "name": "Black Humor",
-        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
+        "name": "\u30ab \u30df \u30ca \u30ea",
+        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
       },
       "artists": [
         {
@@ -1264,25 +1264,9 @@
           "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
         }
       ],
-      "duration_ms": 190906,
-      "name": "MOON NIGHT",
-      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
-    },
-    {
-      "added_at": "2026-02-17 15:00:19",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+      "duration_ms": 213164,
+      "name": "\u30ab \u30df \u30ca \u30ea",
+      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1299,6 +1283,22 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "added_at": "2026-02-17 15:00:19",
+      "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+        "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
+        "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
       },
       "artists": [
         {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        },
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
+      "duration_ms": 251266,
+      "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
+      "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
-        "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
-        "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        },
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
         }
       ],
-      "duration_ms": 251266,
-      "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
-      "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-02-17 15:00:19",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-17 15:00:19",
       "album": {
-        "name": "\u714c\u3081\u304d\u30ef\u30f3\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/5AOaSW7Qss5cfmmgPAlDVF"
-      },
-      "artists": [
-        {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
-        }
-      ],
-      "duration_ms": 243341,
-      "name": "\u714c\u3081\u304d\u30ef\u30f3\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/1yZSXbYPKxVRVsxXpQy7oy"
-    },
-    {
-      "added_at": "2026-02-17 15:00:19",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2026-02-17 15:00:19",
+      "album": {
+        "name": "\u714c\u3081\u304d\u30ef\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/5AOaSW7Qss5cfmmgPAlDVF"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "duration_ms": 243341,
+      "name": "\u714c\u3081\u304d\u30ef\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/1yZSXbYPKxVRVsxXpQy7oy"
     },
     {
       "added_at": "2026-02-17 15:00:19",

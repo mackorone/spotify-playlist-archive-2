@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43331,
+  "num_followers": 43336,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -787,6 +771,22 @@
       "duration_ms": 319743,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 259659,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "El Ataque de Zorrita",
+        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
+      },
+      "artists": [
+        {
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Est\u00e1s Borracho",
+      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Cosa M\u00eda",
         "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
@@ -839,8 +855,8 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
       },
       "artists": [
         {
@@ -848,25 +864,9 @@
           "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 259659,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "El Ataque de Zorrita",
-        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
-      },
-      "artists": [
-        {
-          "name": "Venus",
-          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Est\u00e1s Borracho",
-      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Agitar",
-        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
-      },
-      "artists": [
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 127598,
-      "name": "Agitar",
-      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Agitar",
+        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+      },
+      "artists": [
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 127598,
+      "name": "Agitar",
+      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Huir",
         "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
@@ -1151,38 +1151,6 @@
       "duration_ms": 256200,
       "name": "Huir",
       "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
-      },
-      "artists": [
-        {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
-        }
-      ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Mi Voz",
-        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 192286,
-      "name": "Mi Voz",
-      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1203,6 +1171,38 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Mi Voz",
+        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 192286,
+      "name": "Mi Voz",
+      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+      },
+      "artists": [
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 190165,
       "name": "EGO",
       "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Suena En M\u00ed",
-        "url": "https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr"
-      },
-      "artists": [
-        {
-          "name": "Las Blacanblus",
-          "url": "https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Fuego Sobre Fuego",
-      "url": "https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Suena En M\u00ed",
+        "url": "https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr"
+      },
+      "artists": [
+        {
+          "name": "Las Blacanblus",
+          "url": "https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Fuego Sobre Fuego",
+      "url": "https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Escapar",
         "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Perro de Playa (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
-      },
-      "artists": [
-        {
-          "name": "Man Ray",
-          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Sola en los Bares - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+        "name": "Perro de Playa (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "Man Ray",
+          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
         }
       ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+      "duration_ms": 186440,
+      "name": "Sola en los Bares - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1327,6 +1311,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1411,42 +1411,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr"
-      },
-      "artists": [
-        {
-          "name": "Isabel De Sebastian",
-          "url": "https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh"
-        },
-        {
-          "name": "Bob Telson",
-          "url": "https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Marea Negra",
         "url": "https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC"
       },
@@ -1459,6 +1423,22 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1491,6 +1471,26 @@
       "duration_ms": 188861,
       "name": "Sola y Feliz",
       "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr"
+      },
+      "artists": [
+        {
+          "name": "Isabel De Sebastian",
+          "url": "https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh"
+        },
+        {
+          "name": "Bob Telson",
+          "url": "https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "El Cerebro",
+        "url": "https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i"
+      },
+      "artists": [
+        {
+          "name": "Erica Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Quiz\u00e1s Hoy",
+      "url": "https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Mama, Deja Que Entren por la Ventana los Siete Mares (Remasterizado)",
         "url": "https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 156108,
       "name": "Vocales",
       "url": "https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "El Cerebro",
-        "url": "https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i"
-      },
-      "artists": [
-        {
-          "name": "Erica Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Quiz\u00e1s Hoy",
-      "url": "https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg"
     },
     {
       "added_at": "2025-06-26 15:52:01",

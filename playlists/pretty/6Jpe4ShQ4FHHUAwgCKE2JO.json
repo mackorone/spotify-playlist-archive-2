@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAARWfk0iKnXK66sqzkFbWqYY4Nudko",
+  "snapshot_id": "AAAARj+WsIHnPiprS7YbEyXPeQiV6rTe",
   "tracks": [
     {
       "added_at": "2023-05-10 01:44:05",
@@ -871,6 +871,22 @@
       "duration_ms": 196286,
       "name": "Brighter Than the Sun",
       "url": "https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3"
+    },
+    {
+      "added_at": "2026-02-23 05:13:09",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 283442,
+      "name": "Dust Bowl Dance",
+      "url": "https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99"
     }
   ],
   "unique_name": "The Body of America",

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 155410,
+  "num_followers": 155431,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 132080,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 270080,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Que Hago Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Qu\u00e9 Voy A Hacer Sin El?",
-      "url": "https://open.spotify.com/track/2C0JSxStREzKhqthOmP0uo"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Que Hago Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Qu\u00e9 Voy A Hacer Sin El?",
+      "url": "https://open.spotify.com/track/2C0JSxStREzKhqthOmP0uo"
     },
     {
       "added_at": "2024-05-14 17:26:04",

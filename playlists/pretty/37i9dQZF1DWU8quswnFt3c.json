@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1048280,
+  "num_followers": 1048161,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Feel my love",
+      "url": "https://open.spotify.com/track/0GxPpzPbK1m7aDt2ajkBbG"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "POP TOO",
         "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 176170,
       "name": "ELA ELA",
       "url": "https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Feel my love",
-      "url": "https://open.spotify.com/track/0GxPpzPbK1m7aDt2ajkBbG"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "She\u0e1b\u0e49\u0e30",
-        "url": "https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX"
-      },
-      "artists": [
-        {
-          "name": "JustmineNika",
-          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
-        }
-      ],
-      "duration_ms": 233823,
-      "name": "She\u0e1b\u0e49\u0e30",
-      "url": "https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "V\u00e1le",
         "url": "https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 180186,
       "name": "V\u00e1le",
       "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "She\u0e1b\u0e49\u0e30",
+        "url": "https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "duration_ms": 233823,
+      "name": "She\u0e1b\u0e49\u0e30",
+      "url": "https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1243,34 +1243,42 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "volta atr\u00e1s",
-        "url": "https://open.spotify.com/album/4B0E69oN7iCRomcAr3PZlE"
+        "name": "Looks Like",
+        "url": "https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL"
       },
       "artists": [
         {
-          "name": "Rita Rocha",
-          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
         }
       ],
-      "duration_ms": 196874,
-      "name": "volta atr\u00e1s",
-      "url": "https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ"
+      "duration_ms": 180000,
+      "name": "Looks Like",
+      "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
     },
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Semnal \u00een Rai",
-        "url": "https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS"
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv"
       },
       "artists": [
         {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
         }
       ],
-      "duration_ms": 196058,
-      "name": "Semnal \u00een Rai",
-      "url": "https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z"
+      "duration_ms": 182000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam"
     }
   ],
   "unique_name": "EQUAL",

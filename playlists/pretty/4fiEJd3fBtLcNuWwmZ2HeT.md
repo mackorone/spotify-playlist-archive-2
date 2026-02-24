@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 427 songs - 1 day 0 hr 26 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 429 songs - 1 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -435,5 +435,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 425 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 |
 | 426 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 |
 | 427 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2LlwaygEcyYdTN8yf62lm9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/1FWHKZyK2dcbhnKV637wNu) | 2:27 |
+| 428 | [The Lovely Life](https://open.spotify.com/track/1QAarw72bgyVa9EJne2Iio) | [DenkiQujira](https://open.spotify.com/artist/6xUZkU9AXpZMJF4gLzUUyx) | [Dull\-Gray Metropolis](https://open.spotify.com/album/5tF2jSTk8sG2HMJSwGaP4w) | 3:15 |
+| 429 | [\-\-\-\-\-\-](https://open.spotify.com/track/517pv3Ps8IdYdzFoH08jBY) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\-\-\-\-\-\-](https://open.spotify.com/album/5K8d4ggXg7yFcBwVn4VtGa) | 3:53 |
 
-Snapshot ID: `AAAJ4x/qgREtr6iubRV++9Gfllpkc/16`
+Snapshot ID: `AAAJ5UDZpXCMz+lAgSHlCEuZHDYaKOmC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Boy Golden
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,083 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,086 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
 | 100 | [Lord, I'm Ready Now](https://open.spotify.com/track/1Wyw1Yx9mVgx2xKkmi8DH3) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [Lord, I'm Ready Now](https://open.spotify.com/album/1oF1kMETulYUUEFCf67QNN) | 2:39 |
 
-Snapshot ID: `AAAAAND+S9KxIGRkEbNahDFKXgaq8A0g`
+Snapshot ID: `AAAAAL/ekwS6VYEELruv4xwB8VCHVQfD`

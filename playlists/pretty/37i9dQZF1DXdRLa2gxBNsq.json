@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114626,
+  "num_followers": 114633,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Las Calles Tienen Memoria",
-        "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
-      },
-      "artists": [
-        {
-          "name": "Tiempos de Ira",
-          "url": "https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy"
-        },
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Las Calles Tienen Memoria",
-      "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -863,6 +843,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -879,18 +875,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+        "name": "Las Calles Tienen Memoria",
+        "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+          "name": "Tiempos de Ira",
+          "url": "https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy"
+        },
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
+      "duration_ms": 190344,
+      "name": "Las Calles Tienen Memoria",
+      "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Prohibido Prohibir",
         "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 221480,
       "name": "Prohibido Prohibir",
       "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Mr. Smith",
+        "url": "https://open.spotify.com/album/1GPa67jyk9HWtUvthqMDrD"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 173670,
+      "name": "Mr. Smith",
+      "url": "https://open.spotify.com/track/3O3ln8WSwDrBIymu08KAW4"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 217466,
       "name": "Corona de espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Mr. Smith",
-        "url": "https://open.spotify.com/album/1GPa67jyk9HWtUvthqMDrD"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 173670,
-      "name": "Mr. Smith",
-      "url": "https://open.spotify.com/track/3O3ln8WSwDrBIymu08KAW4"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "ORAIN ETA BETI",
-        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
-      },
-      "artists": [
-        {
-          "name": "Aingura",
-          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Betirako negua",
-      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "ORAIN ETA BETI",
+        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
+      },
+      "artists": [
+        {
+          "name": "Aingura",
+          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Betirako negua",
+      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Revi\u00e9ntales",
-        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Revi\u00e9ntales",
-      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 221144,
       "name": "Control de Masas",
       "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Molestar",
         "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 158074,
       "name": "Molestar",
       "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2026-02-09 12:00:06",

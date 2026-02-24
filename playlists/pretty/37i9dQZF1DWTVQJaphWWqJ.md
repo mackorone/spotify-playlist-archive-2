@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,003 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,601 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 59 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 |
 | 60 | [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 |
 
-Snapshot ID: `AAAAAFQqnrxQiefC+l7KC7CHE1IgqqSM`
+Snapshot ID: `AAAAAJRN8954pW5Xhu+IWcbJ/paIUagC`

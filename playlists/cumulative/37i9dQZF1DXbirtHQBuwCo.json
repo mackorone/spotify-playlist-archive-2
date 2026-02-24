@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Molly Yam, DIMO REX)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Padi)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 209000,
       "name": "BLESSIN",
       "url": "https://open.spotify.com/track/0EYceSBCU4W21KSNy6w4op"
@@ -7729,6 +7729,32 @@
     },
     {
       "album": {
+        "name": "Press Winter",
+        "url": "https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "Janet Suhh",
+          "url": "https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "In your circle (Feat. Bumkey, Janet Suhh)",
+      "url": "https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB"
+    },
+    {
+      "album": {
         "name": "INNER (Feat. Nochang, Kid Milli)",
         "url": "https://open.spotify.com/album/4Bpqn7KoQKyhsnGszN5VLz"
       },
@@ -7948,6 +7974,36 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "album": {
+        "name": "IYWO",
+        "url": "https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "YOONSEOK",
+          "url": "https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN"
+        },
+        {
+          "name": "WOOKI",
+          "url": "https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN"
+        },
+        {
+          "name": "OF'F",
+          "url": "https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "IYWO",
+      "url": "https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt"
     },
     {
       "album": {
@@ -10326,7 +10382,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 182480,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
@@ -14843,6 +14899,28 @@
     },
     {
       "album": {
+        "name": "STAY on FIRE (feat. DEAN)",
+        "url": "https://open.spotify.com/album/7yb2TYcg7G8Xjp9FAHNcqJ"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "STAY on FIRE (feat. DEAN)",
+      "url": "https://open.spotify.com/track/6PpxPJyQYHGeiUCYy6jF02"
+    },
+    {
+      "album": {
         "name": "Steamy Hot",
         "url": "https://open.spotify.com/album/5ZamHxns7piRpqPUVjbQba"
       },
@@ -17106,7 +17184,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 140000,
       "name": "What Is This Feeling? (with BANG YEDAM)",
       "url": "https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ"

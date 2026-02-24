@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Bella Kay
 
-1,301 songs - 2 day 18 hr 26 min
+1,303 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-25 | 2024-07-12 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-13 | 2023-08-18 |
 | [Dead Man Walking](https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Dead Man Walking](https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb) | 2:57 | 2023-09-20 | 2024-01-05 |
-| [Dead To Me](https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Dead To Me](https://open.spotify.com/album/5SY0bDrwMoMZqqbumGDjkn) | 2:21 | 2025-11-18 |  |
+| [Dead To Me](https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Dead To Me](https://open.spotify.com/album/5SY0bDrwMoMZqqbumGDjkn) | 2:21 | 2025-11-18 | 2026-02-24 |
 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 | 2023-10-20 | 2024-01-30 |
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-16 | 2023-04-26 |
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2024-01-04 | 2024-03-01 |
@@ -664,6 +664,7 @@
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-04-06 | 2023-07-11 |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-25 | 2024-04-13 |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-22 | 2025-08-05 |
+| [LEAVE THE WORLD BEHIND](https://open.spotify.com/track/1rNNhqJ82CtoyPlV1rt6Mq) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [LEAVE THE WORLD BEHIND](https://open.spotify.com/album/0vhWLJPLOryAhlxza9K77D) | 3:44 | 2026-02-23 |  |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-24 | 2023-03-10 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-05-02 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-28 | 2025-11-14 |
@@ -712,7 +713,7 @@
 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-09 | 2025-09-26 |
 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 | 2025-07-10 | 2025-10-24 |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-12 | 2024-01-13 |
-| [Loved You](https://open.spotify.com/track/7gBDKSaeAGQfZkv9aVer3F) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [What I Feel Now](https://open.spotify.com/album/2jkOzrPeMEP41d8pgSBq2n) | 2:37 | 2025-11-20 |  |
+| [Loved You](https://open.spotify.com/track/7gBDKSaeAGQfZkv9aVer3F) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [What I Feel Now](https://open.spotify.com/album/2jkOzrPeMEP41d8pgSBq2n) | 2:37 | 2025-11-20 | 2026-02-24 |
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-07 | 2025-10-31 |
 | [LOVELIFE](https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [LOVELIFE](https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq) | 3:05 | 2025-03-28 | 2025-06-06 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-08-08 |
@@ -1229,6 +1230,7 @@
 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2024-10-24 | 2025-01-17 |
 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2025-02-20 | 2025-05-02 |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2023-02-24 | 2023-03-10 |
+| [Weather For Tennis](https://open.spotify.com/track/7lPuRK4llInMs7m7lGkDCM) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [luck..\. or something](https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME) | 3:16 | 2026-02-23 |  |
 | [Weeds](https://open.spotify.com/track/2rtsTSyvBThX27N89GRpaj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Weeds](https://open.spotify.com/album/0tSvBu6CpwDWietypDNYPR) | 3:05 | 2025-04-10 | 2025-05-23 |
 | [Weekends](https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/2HoOxD1R1cjXwJJzerB0Jc) | 3:20 | 2023-02-24 | 2023-04-15 |
 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 | 2023-02-24 | 2023-03-02 |

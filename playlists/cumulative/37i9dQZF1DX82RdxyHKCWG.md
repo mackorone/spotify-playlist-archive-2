@@ -4,7 +4,7 @@
 
 > kpop com molho br / foto: Pabllo Vittar, NMIXX
 
-1,110 songs - 2 day 9 hr 41 min
+1,111 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-11-17 | 2023-11-25 |
 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-06-16 | 2023-09-02 |
 | [Anyway](https://open.spotify.com/track/3Wh6ZKRCB3ncRXbC14w42c) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:31 | 2023-01-06 | 2023-01-21 |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-02-23 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-01 | 2022-07-30 |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-22 | 2022-07-30 |
 | [Are You Listening](https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Used To Feel](https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3) | 3:13 | 2024-12-20 | 2025-07-11 |
@@ -207,7 +208,7 @@
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-10-27 | 2024-03-09 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-22 | 2024-07-27 |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-09 | 2024-05-03 |
-| [Coachella](https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Coachella](https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf) | 2:13 | 2025-06-27 |  |
+| [Coachella](https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Coachella](https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf) | 2:13 | 2025-06-27 | 2026-02-24 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 | 2022-09-17 |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 | 2023-08-19 |
 | [Coffee Drugs](https://open.spotify.com/track/0X5gXtOpsT0aqEifxwDGqO) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Indie Pop](https://open.spotify.com/album/0WFZuLVtdeZyAgRRh7o527) | 3:44 | 2022-12-12 | 2022-12-24 |

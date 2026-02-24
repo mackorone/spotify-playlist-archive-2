@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,080 songs - 5 day 1 hr 37 min
+2,086 songs - 5 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Close My Eyes](https://open.spotify.com/track/0EVKLz2wwqNpgnAAcz4wnr) | [Trapitta](https://open.spotify.com/artist/4Ley4wNwUVGDlOxnAQOlsl) | [HEARTBREAK BLVD](https://open.spotify.com/album/67nbhK2BI9fkMzUgNPkONZ) | 2:50 | 2025-04-04 |  |
 | [Closer](https://open.spotify.com/track/12eIu4SdTy6GwrtKfpvSLt) | [Hobart Curtis](https://open.spotify.com/artist/39sME8uZeT4llM1R9Ef4i5) | [Breathe Now, Before You Are Dead](https://open.spotify.com/album/3HtLKZuPSKjrZMPjqAndu1) | 3:02 | 2025-12-01 |  |
 | [Cloud Seven](https://open.spotify.com/track/3qLF3pmd0YxORhH0Qprugs) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Cloud Seven](https://open.spotify.com/album/6ARGdhU6LS32Pq188rMlEM) | 2:17 | 2025-08-18 |  |
+| [Coeur noir](https://open.spotify.com/track/1dSK7SNHXUuCn9tDZB9TTG) | [M Unknow](https://open.spotify.com/artist/2P2kWNeIj3Frg7HwXkbXBh) | [Coeur noir](https://open.spotify.com/album/4fR8BjUVkY2RWDMpcVx4xS) | 3:05 | 2026-02-24 |  |
 | [Coffee Shop Fantasy](https://open.spotify.com/track/6FWgEdh0aKTQF4TT5OUc5p) | [Gina DiGiorgio](https://open.spotify.com/artist/5g4rQ3oztGj7XljSJ2eHe6) | [Coffee Shop Fantasy](https://open.spotify.com/album/7AGP56WUnwyx248I7IUJ4s) | 2:37 | 2025-06-20 |  |
 | [cold](https://open.spotify.com/track/2FM4SI1RyLztdNdEDxhwxW) | [lunacy.](https://open.spotify.com/artist/4xXeuXK1itMVCcyrNf7kbt) | [cold](https://open.spotify.com/album/0kMAaVc1TpdHsMOExcQt0z) | 2:08 | 2025-02-07 |  |
 | [Cold Flame](https://open.spotify.com/track/6kAEkQgXD5PLuVneDYaehn) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Cold Flame](https://open.spotify.com/album/7nOPDeNrFT6K8T4whNd7xK) | 3:31 | 2025-03-12 |  |
@@ -595,6 +596,7 @@
 | [Fly or Die!](https://open.spotify.com/track/7BUzPUEQPzCE7cB3j0Cl0s) | [New Laconia](https://open.spotify.com/artist/02kLPBDw75Rx1ZdrJpYfFZ) | [Fly or Die!](https://open.spotify.com/album/5S63LFJiC3xGUN79hGYJ3e) | 3:13 | 2025-05-01 |  |
 | [Flying Saucer Working Party](https://open.spotify.com/track/5TJ7q2osT9OlGFoCvFtXJr) | [Lee Switzer\-Woolf](https://open.spotify.com/artist/39FQMAp2C86W7yagW3n43h) | [Flying Saucer Working Party](https://open.spotify.com/album/6Qppmu0vF6mFP3dlHoySoD) | 3:37 | 2025-05-24 |  |
 | [Flying With Paul's Birds](https://open.spotify.com/track/5fhMQ0d47pcNoXN4mCiArl) | [Yakush](https://open.spotify.com/artist/3jSt5FxowdHhQ5kVKc5DeR) | [Flying With Paul's Birds](https://open.spotify.com/album/7sfyvWxTHtGzA1PsV359ji) | 4:57 | 2024-09-05 |  |
+| [Foggy Window](https://open.spotify.com/track/6U68EHD34b3aRJ6hrWJe9a) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 2:56 | 2026-02-24 |  |
 | [Food and Water](https://open.spotify.com/track/4kDMBWH4Rq1bTDUvY34NUD) | [Rigsi](https://open.spotify.com/artist/4HG4SAWvg6XEbmtHXpQrcu) | [Food and Water](https://open.spotify.com/album/7IUS9S8uYOJ1U4YiVZJMCL) | 3:10 | 2025-12-13 |  |
 | [Fool](https://open.spotify.com/track/2YAjhXvuYA6NPf6gMuwSr3) | [Michael Cappetto](https://open.spotify.com/artist/6kZhD81BU0QpgsEIFe86iA) | [Fool](https://open.spotify.com/album/19bLG4Rcg5sZzGZBxYC65v) | 4:28 | 2025-11-17 |  |
 | [Footsteps Into the Unknown](https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN) | [Mahawira](https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH) | [Footsteps Into the Unknown](https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko) | 3:18 | 2026-02-22 |  |
@@ -735,6 +737,7 @@
 | [High Tide](https://open.spotify.com/track/0JEHh8v2CG7IkRyTUclleC) | [Joshua Joyce](https://open.spotify.com/artist/0TUves56bGaUpP0ZrZ7Rwe) | [A Tender & Violent Nature](https://open.spotify.com/album/2x9LQDQ6g7V97mxpdFIu8S) | 2:33 | 2025-05-08 |  |
 | [Highlands](https://open.spotify.com/track/2rhjIDZ3jZCQNGf0hfY0Pq) | [BRKS](https://open.spotify.com/artist/18oZ9JdlVSAEzs3iICKyGL) | [Highlands](https://open.spotify.com/album/2OiNZQJH2SFpwIJlJjrIcb) | 4:45 | 2024-11-14 |  |
 | [Highway](https://open.spotify.com/track/4sWKMDkzzUCLKagj79SRlC) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg) | [Highway](https://open.spotify.com/album/6eijGmZXCSKkdbO3vdCjS3) | 3:39 | 2025-06-13 |  |
+| [HipnoPianO](https://open.spotify.com/track/4zrc92kZF1ucQ5VJnPP1HY) | [Sergio Di Martino](https://open.spotify.com/artist/1dXzSKQi5XTnlRXKNu1E1g) | [HipnoPianO](https://open.spotify.com/album/2kziWXQkQJDVzAkIR0ofsG) | 3:03 | 2026-02-24 |  |
 | [Hit the Lights](https://open.spotify.com/track/5yq9qbtDiR8ZYslvXP1nxG) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Nursery Rhymes](https://open.spotify.com/album/2ThVxUa6vIbtEvzFv18WpF) | 3:22 | 2024-12-18 |  |
 | [Hit The Sky](https://open.spotify.com/track/0m3SFYch2mPSv2SC39jehL) | [Danny Joseph](https://open.spotify.com/artist/6ePAnJk5KG0hGRofnSqGjW) | [Hit The Sky](https://open.spotify.com/album/0K5DtUJWvXt6yBVSMNAWmJ) | 3:30 | 2025-04-02 |  |
 | [Hoje é limpeza \(Clean your shit up\)](https://open.spotify.com/track/3uvtR4Ee2d0XVuNQdfmFUZ) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb) | [Casa Mangará Musical, Vol\. 1](https://open.spotify.com/album/2KQixxxuuSDda6nqxgk2Yr) | 2:48 | 2025-10-02 |  |
@@ -851,6 +854,7 @@
 | [I'm Done](https://open.spotify.com/track/0g6H5VtH88wz60vs7SPBgy) | [Don't Tell John](https://open.spotify.com/artist/3jOxFGJf9LSJpuZ4q7BVb7) | [I'm Done](https://open.spotify.com/album/0HAYv3bLUmORrFOhNluihE) | 4:55 | 2025-09-02 |  |
 | [I'm Done Living](https://open.spotify.com/track/0JZMPJJz3UQU6myZnV2UE1) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [ANNDALE](https://open.spotify.com/album/4ueYjOZi1001C33J1GCZyG) | 4:15 | 2024-11-14 |  |
 | [I'm Going Back Home](https://open.spotify.com/track/50HaP0YX3ZZVFmhMLuR0rV) | [nasmore](https://open.spotify.com/artist/6tvygEhmRoY9ycjAWWfxSw), [Wazmo](https://open.spotify.com/artist/12NPmMB5FlotOWdIWIgBFu) | [I'm Going Back Home](https://open.spotify.com/album/3vi8QbKo8yzXPdUyYHPU5M) | 3:44 | 2025-09-17 |  |
+| [I'm in the Wrong](https://open.spotify.com/track/4N91QvnV89c8nwQyaxxYDD) | [Big Cat Season](https://open.spotify.com/artist/3wAnCn7fodWUCpxhovBb6S) | [\(Summer\)](https://open.spotify.com/album/5XM67PJwXpQSeS4tt4fkho) | 4:06 | 2026-02-24 |  |
 | [I'm Letting Go Again](https://open.spotify.com/track/1K2gsduHo8kb8jieHHSnci) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya) | [I'm Letting Go Again](https://open.spotify.com/album/5U2BL2FzswgEL5YB1u9IXL) | 2:43 | 2025-07-19 |  |
 | [I'm on Vacation](https://open.spotify.com/track/5ulBTfnYHH5MFUjBhOzRdO) | [Robert Scott Marshall](https://open.spotify.com/artist/2oqNZlDXvzhAc6Dhet8qt6) | [I'm on Vacation](https://open.spotify.com/album/7CmFVVJRjXfPGiZYno2Gzu) | 3:26 | 2025-07-07 |  |
 | [I'm Sorry](https://open.spotify.com/track/11DXpSNffntZd5ifx8FosF) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [I'm Sorry](https://open.spotify.com/album/1paHW3zC99MyycA2GgGyWj) | 3:23 | 2026-02-13 |  |
@@ -985,6 +989,7 @@
 | [La Notte Di San Giovanni](https://open.spotify.com/track/7myXZgnxO271l5xnZaojxr) | [L'Orca, Pino & Giò](https://open.spotify.com/artist/56gHPAYzPERrPRMN95PQHG) | [Diluvio Universale](https://open.spotify.com/album/7fH7JaJMEn8daqN0KOd5gM) | 3:50 | 2024-08-26 |  |
 | [La Sala degli Specchi](https://open.spotify.com/track/6wTSrAiKJCACXx5oYbVZ6t) | [Maskalè](https://open.spotify.com/artist/3Fx1ssg99cizGjTBBJ1CSi) | [Maskalè](https://open.spotify.com/album/4VAsjJgABKnSrwrV8dzMYY) | 3:38 | 2025-06-26 |  |
 | [La Vida](https://open.spotify.com/track/2PbuWZdbOiv5p0jsMQ2Uer) | [YOKO.T](https://open.spotify.com/artist/0owpiSKDES7JkZqJScsB9l) | [La Vida](https://open.spotify.com/album/7vBu4hGAscg7ZwTFivU12x) | 4:07 | 2025-12-17 |  |
+| [La Virgen de los Harapos](https://open.spotify.com/track/1L7gjG9d9suBgUPG2cVZJz) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [El Perverso Polimorfo](https://open.spotify.com/album/2Q1Ol84vNIO1ERK8NXUobh) | 4:01 | 2026-02-24 |  |
 | [Laa laa](https://open.spotify.com/track/293THyvUQqkoo4uhFvd8XA) | [Macchiateria](https://open.spotify.com/artist/3mVNgtmLiNZKwEXZXePH1f), [Bone Beatz](https://open.spotify.com/artist/4ZkMdPZDEmYCQswxnf4Y4g), [Isa G](https://open.spotify.com/artist/2dGQlNsgOf5n1hzyL3lPIv) | [Laa laa](https://open.spotify.com/album/1NA534PWOsg7bbmJFrfUAR) | 3:10 | 2025-02-19 |  |
 | [lacerations \(demo\)](https://open.spotify.com/track/48O2wZxY5lR1AwAsZrwdMW) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [lacerations \(demo\)](https://open.spotify.com/album/1eJUeITkSWdkfNyTbajv0v) | 4:26 | 2024-09-23 |  |
 | [Lady Lucy](https://open.spotify.com/track/7slPX29qF4jc7I9G6bTb1a) | [Painter Fingers](https://open.spotify.com/artist/27KwWM0njAvqmhjEeTBFxE) | [As the Eye Can See](https://open.spotify.com/album/2wztCNTYWs2qK62zONMkjy) | 4:09 | 2025-08-28 |  |
@@ -1660,6 +1665,7 @@
 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 | 2025-09-08 |  |
 | [supernatural](https://open.spotify.com/track/6uiUkwNEKbKY2z6PrNYmSR) | [Khazo](https://open.spotify.com/artist/7iJ2EulMOPKI5zVglTKKgg) | [supernatural](https://open.spotify.com/album/59fasg2sQLglon8X5JRVI8) | 2:30 | 2025-07-23 |  |
 | [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 | 2025-12-30 |  |
+| [Surrender Sets Me Free](https://open.spotify.com/track/3KQWxRzfRAMMA262kJjJzr) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Surrender Sets Me Free](https://open.spotify.com/album/3XJHZI8GxWJGEU08wQ5V4Y) | 3:30 | 2026-02-24 |  |
 | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6iE7zxU2d2kv6T9gAtKcXD) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/6YJlzprDtsi3CAMsSzUxOu) | 3:38 | 2025-05-19 |  |
 | [Survival](https://open.spotify.com/track/4SehfhHiVu5A0t76uJ87X3) | [Kat Farley](https://open.spotify.com/artist/7FDvSNqPqTyvaRCarX4mdB) | [Shadow & Shine](https://open.spotify.com/album/5E9YQ4OKJ4uP0g4stFd3c4) | 3:08 | 2025-06-20 |  |
 | [Susmuyor Düşünceler](https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Susmuyor Düşünceler](https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS) | 2:18 | 2026-02-09 |  |

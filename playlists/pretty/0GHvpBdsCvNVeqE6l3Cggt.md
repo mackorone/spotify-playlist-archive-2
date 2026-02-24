@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 42 songs - 2 hr 45 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 46 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,9 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 40 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 |
 | 41 | [That's What We Believe](https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [Live for Today](https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu) | 4:11 |
 | 42 | [Ocean](https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg) | [S\. Lithgow](https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE) | [Ocean](https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc) | 4:43 |
+| 43 | [Afterlight Rebirth](https://open.spotify.com/track/725R9MjTvuQuxCXPlEz7pL) | [Emre Kalkan](https://open.spotify.com/artist/4GR3PMuKyV1bCCZNE28NKX) | [Afterlight Rebirth](https://open.spotify.com/album/0RVaytmlV8i6N9QSjl3s3v) | 4:17 |
+| 44 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
+| 45 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 |
+| 46 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 |
 
-Snapshot ID: `AAAj8DLWgkRQwu/tS8GSpiRbcRIODIBD`
+Snapshot ID: `AAAj9GNRC9fbC/zVaUhGbqsss9i4OuHv`

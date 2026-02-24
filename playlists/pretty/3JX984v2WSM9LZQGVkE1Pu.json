@@ -1,12 +1,12 @@
 {
   "description": "The Jazz of America is on Verve.",
-  "num_followers": 3903,
+  "num_followers": 3927,
   "original_name": "70 Years of Verve Records",
   "owner": {
     "name": "Verve Records",
     "url": "https://open.spotify.com/user/vervemusicgroup"
   },
-  "snapshot_id": "AAABOFjeXUd1WdWs1v9p53ZwkGy4BRkq",
+  "snapshot_id": "AAABOzJfqioIW8pOdCPyWKoQMyf6nyvP",
   "tracks": [
     {
       "added_at": "2026-01-20 20:19:52",
@@ -513,24 +513,20 @@
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
-      "added_at": "2026-01-20 20:19:52",
+      "added_at": "2026-02-23 16:17:41",
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8"
+        "name": "California Dreaming",
+        "url": "https://open.spotify.com/album/0QE0gDat9NPBDCQPZogtQ6"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 261693,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo"
+      "duration_ms": 188573,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/5J0zM0tFPiwn7IdhoW0Gt0"
     },
     {
       "added_at": "2026-01-20 20:19:52",

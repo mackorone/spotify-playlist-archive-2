@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: Hearts2Hearts
 
-1,661 songs - 3 day 15 hr 53 min
+1,662 songs - 3 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All Day](https://open.spotify.com/track/44dD5PYO7ZM6SiM8tjhawx) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [All Day](https://open.spotify.com/album/3PGMnYo3uTCroKf64s8RHm) | 2:27 | 2024-07-19 | 2024-08-21 |
 | [All For You](https://open.spotify.com/track/42Ay3l6BZVrViTWKjkrDHm) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Pinky Swear](https://open.spotify.com/album/7ke9Y6LfDUL4T2dZDtrtyX) | 3:29 | 2022-03-29 | 2022-06-01 |
-| [ALL IN](https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [](https://open.spotify.com/album/null) | 2:32 | 2026-02-22 |  |
+| [ALL IN](https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:32 | 2026-02-22 |  |
 | [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-12 | 2023-11-24 |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-19 | 2024-04-24 |
 | [All shook up \(feat\. AGNEZ MO\)](https://open.spotify.com/track/7BUK2H9KPXadsqsPP0Vl3f) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Love or Loved Pt\. 2](https://open.spotify.com/album/3vLFNjdySJu0rxtYhynXrz) | 3:04 | 2023-11-09 | 2023-11-23 |
@@ -107,7 +107,7 @@
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-13 | 2024-08-28 |
 | [Bambi](https://open.spotify.com/track/6eIUezhD3M6EAtxhQlbQ5i) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bambi](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-13 | 2022-12-24 |
 | [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 | 2022-10-15 |
-| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-09 |  |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-09 | 2026-02-24 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-05-15 |
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-07 | 2023-08-19 |
 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 | 2024-04-19 |
@@ -158,6 +158,7 @@
 | [Bite Me \- Japanese Ver.](https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [結 \-YOU\-](https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r) | 2:38 | 2023-09-05 | 2023-10-28 |
 | [Bitter Sweet](https://open.spotify.com/track/4c0eCpo9kJKSzGuLA7fO2u) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/3pZJO8WHkjxw1bsSlAvYHH) | 2:48 | 2026-01-15 |  |
 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2022-12-22 | 2023-02-28 |
+| [BLACKHOLE](https://open.spotify.com/track/2ytQFMxdreEFPPZTtyDdqM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:14 | 2026-02-23 |  |
 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 | 2022-09-20 | 2023-03-04 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-14 | 2023-10-11 |

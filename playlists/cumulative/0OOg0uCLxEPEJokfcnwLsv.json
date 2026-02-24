@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Rarin 2 Go",
+        "url": "https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr"
+      },
+      "artists": [
+        {
+          "name": "Gran Fenwick",
+          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256654,
+      "name": "Rarin 2 Go",
+      "url": "https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG"
+    },
+    {
+      "album": {
         "name": "Reactor Startup",
         "url": "https://open.spotify.com/album/5YDkIYrHq4EGq96ThcWq28"
       },
@@ -5676,6 +5694,24 @@
       "duration_ms": 135111,
       "name": "WHATS NEXT",
       "url": "https://open.spotify.com/track/3V7NCUrWKzHAvGQKSThf12"
+    },
+    {
+      "album": {
+        "name": "When All Else Fails... They Take You to War",
+        "url": "https://open.spotify.com/album/2BAzDBqvFrluusRqb4AVOI"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240101,
+      "name": "When All Else Fails... They Take You to War",
+      "url": "https://open.spotify.com/track/64TRi6Duj1W24iLoERg6wt"
     },
     {
       "album": {

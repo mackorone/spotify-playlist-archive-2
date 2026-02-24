@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including $OHO BANI, Provinz, Adriatique, Eileen Alister & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,510 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,497 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 21 | [I'll Be Alright](https://open.spotify.com/track/5mPA8V7se7bjTSOK5jsNq7) | [MISS C\-LINE](https://open.spotify.com/artist/5bV8ZGPcOGGa4GdagDCdBN), [Berlin Lama](https://open.spotify.com/artist/1Ok9uX8VvvF9fsueBAORxF) | [I'll Be Alright](https://open.spotify.com/album/2kGmW6ykBfZuphtt3NlDo6) | 4:40 |
 | 22 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 23 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
-| 24 | [On Top \(feat\. Leduc\)](https://open.spotify.com/track/38XCNgkiWtLj0Z6sjTHi8h) | [GLIMMERR](https://open.spotify.com/artist/14XQ2jMvDaRdt8wicnAdIA), [Leduc](https://open.spotify.com/artist/30YqOJ5A8rWyKSg2eeECU8) | [On Top \(feat\. Leduc\)](https://open.spotify.com/album/30see9nqvZqfVhEVTpwWGX) | 2:57 |
+| 24 | [On Top](https://open.spotify.com/track/38XCNgkiWtLj0Z6sjTHi8h) | [GLIMMERR](https://open.spotify.com/artist/14XQ2jMvDaRdt8wicnAdIA), [Leduc](https://open.spotify.com/artist/30YqOJ5A8rWyKSg2eeECU8) | [On Top](https://open.spotify.com/album/30see9nqvZqfVhEVTpwWGX) | 2:57 |
 | 25 | [Drunk in Love](https://open.spotify.com/track/7MMIqKbRvpFSfF3WaJ7IdW) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Drunk in Love](https://open.spotify.com/album/5j8myFVGmuDLHHVNGamVer) | 2:44 |
 | 26 | [Indigo](https://open.spotify.com/track/4KbNgQzGyrodC4MSPZVjsZ) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Indigo](https://open.spotify.com/album/5LQ5TqHSvXqRaIrRPm8DWs) | 2:56 |
 | 27 | [Beautiful Places](https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Beautiful Places](https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi) | 2:59 |

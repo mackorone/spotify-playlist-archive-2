@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,493 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,497 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 32 | [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 |
 | 33 | [Found It In Jesus](https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Found It In Jesus](https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY) | 4:20 |
 | 34 | [That We Might Overcome](https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [The Kingdom of Jesus](https://open.spotify.com/album/35z3a11GNkqarQjIml21nM) | 5:45 |
-| 35 | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi) | 3:39 |
-| 36 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
-| 37 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 |
+| 35 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 |
+| 36 | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi) | 3:39 |
+| 37 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
 | 38 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
 | 39 | [Son Of Heaven](https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD) | 15:31 |
 | 40 | [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Deliverer](https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:25 |
 | 50 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 
-Snapshot ID: `aZj1gAAAAAA3Y8x3XHm8I0X8loutkZVk`
+Snapshot ID: `aZpHAAAAAAAG9BWybclWNM/DiBDPKb0w`

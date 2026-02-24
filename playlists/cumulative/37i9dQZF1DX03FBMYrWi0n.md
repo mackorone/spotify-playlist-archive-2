@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Le Belladone
 
-407 songs - 23 hr 10 min
+408 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 | 2024-03-04 | 2024-04-19 |
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2023-02-10 | 2023-07-08 |
 | [Magique, Hypnotique](https://open.spotify.com/track/6Ld4QujeaiLrkdHQhhAIaT) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [Magique!](https://open.spotify.com/album/3BT7UAEKeqUZBlTawFxApA) | 4:19 | 2023-07-14 | 2023-09-25 |
+| [Magouilleux](https://open.spotify.com/track/5z5oDlagpOzhLVqcePeT4W) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Magouilleux](https://open.spotify.com/album/3T0wyczV6l4oBscKqx71EO) | 3:44 | 2026-02-23 |  |
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2023-02-10 | 2024-04-19 |
 | [Maison\-tison](https://open.spotify.com/track/0krFomY1f9C401AeuG7MCG) | [Embo/phlébite](https://open.spotify.com/artist/1ljgoKCx9MKLoDa5rdzNBt), [Duu](https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q) | [Maison\-tison](https://open.spotify.com/album/1sW37m9AgNzSuWzwWZhGJU) | 3:48 | 2025-03-14 | 2025-11-08 |
 | [Maladresses](https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:59 | 2023-02-17 | 2023-03-11 |

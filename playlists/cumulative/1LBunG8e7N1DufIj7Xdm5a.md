@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,098 songs - 9 day 1 hr 54 min
+4,100 songs - 9 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Cane Sciolto](https://open.spotify.com/track/1OeOpmIxPj9xtErnXpyBhw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 1:59 | 2025-09-14 |  |
 | [Cane Sciolto \(another\)](https://open.spotify.com/track/5RUO0gWmx7UUJEs1B3IOJ7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 1:54 | 2025-09-14 |  |
 | [CANZONE DI CARNEVALE](https://open.spotify.com/track/6ytGWCzMYD4zKf8ivG7vCS) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [CANZONE DI CARNEVALE](https://open.spotify.com/album/42fbAcJazHZQkdd8pwjw0o) | 3:41 | 2025-06-05 |  |
-| [CANZONE DI HALLOWEEN](https://open.spotify.com/track/3rjKzU56KAqdHmIAvbMO95) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [CANZONE DI HALLOWEEN](https://open.spotify.com/album/7fKWA3OMoMI7HrxFHu3PhX) | 3:41 | 2026-02-13 |  |
+| [CANZONE DI HALLOWEEN](https://open.spotify.com/track/3rjKzU56KAqdHmIAvbMO95) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [CANZONE DI HALLOWEEN](https://open.spotify.com/album/7fKWA3OMoMI7HrxFHu3PhX) | 3:40 | 2026-02-13 |  |
 | [Cap](https://open.spotify.com/track/5geHjEriERVHDw07NaibDB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 3:03 | 2025-09-17 |  |
 | [CAP](https://open.spotify.com/track/5J6k0lEMRRYOEH7d2CYkeL) | [ESSETI&ESSEA](https://open.spotify.com/artist/5kMFci7Yj4A4AM5VeJjVpx) | [CAP](https://open.spotify.com/album/463yo7bNAjVtGmkc568rgk) | 2:39 | 2025-06-16 |  |
 | [capped out](https://open.spotify.com/track/4qLvwKYbrDlWffxnKWSx7m) | [Blackedy](https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2) | [black core](https://open.spotify.com/album/5G2xa9a5CpMSWzOdrONcSK) | 1:44 | 2025-07-28 |  |
@@ -3009,6 +3009,7 @@
 | [Seapromenade](https://open.spotify.com/track/1HbWKZvbaTCfIZGFtwbWvH) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [the sound of soul](https://open.spotify.com/album/2JNmt7ENmosgHWTgLNuSpn) | 1:46 | 2026-02-01 |  |
 | [seapromenade \- Demo](https://open.spotify.com/track/79qJrQbK5frWcAvNKSf40l) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [the sound of soul](https://open.spotify.com/album/5kraDAbkl3ZjxofP2A8lSn) | 1:46 | 2026-02-01 |  |
 | [Search For Destiny](https://open.spotify.com/track/1NlLVEZfPr6w6Jdx0n19jK) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Angus Court](https://open.spotify.com/album/40raKChU36fgkK6iCP4vYs) | 2:49 | 2025-06-02 |  |
+| [Seasons Change](https://open.spotify.com/track/1TteeKzMsDre8jTvYknWCh) | [Giant Panda Guerilla Dub Squad](https://open.spotify.com/artist/0PHXRchyECGj96MB2v1xiP) | [Slow Down](https://open.spotify.com/album/2TIbb2HUr8KMfFpFRcSVE1) | 4:52 | 2026-02-23 |  |
 | [Sebangehlulele](https://open.spotify.com/track/542oOV04ZRlTwFT4YPafQs) | [Ntozakhe](https://open.spotify.com/artist/01hnYOuTJR8AkKUcTTv4A6) | [Yiso lesikhathi](https://open.spotify.com/album/3S82kuoGkC04Y1B7HWDSmb) | 4:44 | 2025-06-04 |  |
 | [SEE](https://open.spotify.com/track/2beynslblMQgVgoyOK2W6i) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:09 | 2025-08-28 |  |
 | [See You Again](https://open.spotify.com/track/2fs0XwlxWXSNGBUfnJ7FJw) | [Jamie Backlight](https://open.spotify.com/artist/3ZNe3QF82sBH9bvMgQl7KO) | [See You Again](https://open.spotify.com/album/1Qmr9ABegxL08234kuJlnu) | 2:42 | 2025-09-06 |  |
@@ -4075,6 +4076,7 @@
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-23 |  |
 | [До...](https://open.spotify.com/track/5m6XWAJqh5JIASKzflxibL) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [До...](https://open.spotify.com/album/5DSJDeiaxavP4mZnoyqWC0) | 4:28 | 2025-05-15 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-11-15 |  |
+| [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2026-02-23 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |

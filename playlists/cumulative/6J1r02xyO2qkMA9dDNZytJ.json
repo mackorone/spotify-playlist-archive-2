@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 155624,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
@@ -1786,6 +1786,24 @@
       "duration_ms": 209899,
       "name": "i want u",
       "url": "https://open.spotify.com/track/0Fjrpxcnm3Ddd8yxj8WwWu"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/2VJw8W5aV5JS8wGD0xGnP5"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201958,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/32vZyHNd3xbgFMYr37K2tu"
     },
     {
       "album": {

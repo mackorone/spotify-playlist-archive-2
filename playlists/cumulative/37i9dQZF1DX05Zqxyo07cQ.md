@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-970 songs - 1 day 22 hr 30 min
+972 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Altairsky](https://open.spotify.com/track/3HgFXcKX7bvOEEZGlC8lFX) | [Frans Dromenstadt](https://open.spotify.com/artist/57Pf6yQ2ewHBEMtpQpPW9S) | [Altairsky](https://open.spotify.com/album/6FoHhNEI10Y20mn0tOko4I) | 2:20 | 2025-12-03 |  |
 | [Alternate](https://open.spotify.com/track/2MhNUKofEWVAGA3CdiL6i7) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Alternate](https://open.spotify.com/album/0gItWf24uY8fPX9aGss4kT) | 3:15 | 2025-06-12 | 2025-06-26 |
 | [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 | 2025-11-15 |
-| [Anagro](https://open.spotify.com/track/0vNRbK9UxLXJSminB42c45) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Anagro](https://open.spotify.com/album/7BE4x4mUcWvN7VTGIEjQYJ) | 2:51 | 2025-11-12 |  |
+| [Anagro](https://open.spotify.com/track/0vNRbK9UxLXJSminB42c45) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Anagro](https://open.spotify.com/album/7BE4x4mUcWvN7VTGIEjQYJ) | 2:51 | 2025-11-12 | 2026-02-24 |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2023-03-23 | 2024-02-09 |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2024-08-17 |
 | [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 | 2025-04-23 | 2025-12-30 |
@@ -145,7 +145,7 @@
 | [Candescent](https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW) | [Vincent Novaes](https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA) | [Candescent](https://open.spotify.com/album/7CRvmXMdOHRVkkfSUX8elo) | 2:34 | 2025-06-25 | 2025-09-10 |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-20 | 2025-04-26 |
 | [Capacity](https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Capacity](https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c) | 3:00 | 2024-08-16 | 2025-03-16 |
-| [Caressed](https://open.spotify.com/track/55R2tfelE4xLf87ZJ0snHZ) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Caressed](https://open.spotify.com/album/79LLIFJRz7yNdQfJqyXCzU) | 2:40 | 2025-03-27 |  |
+| [Caressed](https://open.spotify.com/track/55R2tfelE4xLf87ZJ0snHZ) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Caressed](https://open.spotify.com/album/79LLIFJRz7yNdQfJqyXCzU) | 2:40 | 2025-03-27 | 2026-02-24 |
 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-20 | 2025-03-04 |
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2023-03-23 | 2024-01-18 |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2023-03-23 | 2024-02-09 |
@@ -493,6 +493,7 @@
 | [Loch](https://open.spotify.com/track/07R5BJJ4EHz3jg2e06NCzz) | [Emmaunel Chambers](https://open.spotify.com/artist/0owKTGhOlB0d46z80eTfL4) | [Artic Ocean](https://open.spotify.com/album/2zOxDjCGx8WmggdiMlXDkO) | 2:27 | 2023-03-23 | 2024-01-18 |
 | [Lonely House](https://open.spotify.com/track/37ae1nlyrk8DUXemDLt9GL) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Lonely House](https://open.spotify.com/album/5xHsEN9npP7I8wrVlDOC2E) | 2:46 | 2025-02-04 | 2025-10-01 |
 | [Long Drive](https://open.spotify.com/track/2sWJQnlTi2YMNNtzcsqFxC) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Long Drive](https://open.spotify.com/album/1RxAO4XIbiJP73YRf45x79) | 2:30 | 2025-10-08 |  |
+| [Longing](https://open.spotify.com/track/2q4faYQZQS3UK2eCxMQ54G) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Longing](https://open.spotify.com/album/3FGdVF5iFphodwui73AOYH) | 3:03 | 2026-01-27 |  |
 | [Longing](https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Longing](https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5) | 2:12 | 2023-03-23 | 2024-01-18 |
 | [Longitude](https://open.spotify.com/track/7n8srNM3t3aHoAiJL358dn) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Longitude](https://open.spotify.com/album/43oakVv7ck9y8l6UtA3HrQ) | 2:20 | 2025-12-17 |  |
 | [Look To The East](https://open.spotify.com/track/5ypeecxfih2hBteQ4DWPY6) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Look To The East](https://open.spotify.com/album/2i7yS9xCM8vcnJbGoVNI6T) | 2:28 | 2024-07-15 | 2025-09-29 |
@@ -615,6 +616,7 @@
 | [Oasis](https://open.spotify.com/track/1pGHWehHrHz09Ehjwtl3DG) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Oasis](https://open.spotify.com/album/1dOa9Yi7Rt5QP1JHDrmjwJ) | 2:51 | 2024-01-17 | 2024-07-16 |
 | [Obelisk](https://open.spotify.com/track/1n5VczASXRX9ymi7Rb8PFw) | [Ambient Traumspiel](https://open.spotify.com/artist/7ux6kNQXzqPcstyKGrslUN) | [Obelisk](https://open.spotify.com/album/6Siwl5l7s2OkP0EZxfC9YQ) | 2:52 | 2024-05-04 | 2024-05-22 |
 | [Objectively](https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Objectively](https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX) | 2:49 | 2025-04-09 | 2025-12-04 |
+| [Oblivious Calm](https://open.spotify.com/track/05hyRFbR2y23vqu9YOA2xR) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Oblivious Calm](https://open.spotify.com/album/0gHYwkd0Q1iXuvMQ1wjOGP) | 2:40 | 2026-01-27 |  |
 | [Observing Thoughts](https://open.spotify.com/track/0Bqd6zOVbhrPjdS93Hzl26) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Observing Thoughts](https://open.spotify.com/album/4YuSIcnZ9hmEPqOyJiJ217) | 3:11 | 2025-12-17 |  |
 | [Occasion](https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Occasion](https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r) | 2:54 | 2024-05-04 | 2025-07-29 |
 | [of Your Dreams](https://open.spotify.com/track/2kmDXavcLA0O0vjdCLXWZl) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [of Your Dreams](https://open.spotify.com/album/4VlWQ0eiMvHRsbUbRAmHWP) | 2:27 | 2025-12-17 | 2026-02-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: M.G.L, Erika Isac
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,694 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,697 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 14 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
 | 15 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 |
 | 16 | [Ne vedem acasă](https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Ne vedem acasă](https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G) | 2:59 |
-| 17 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
-| 18 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |
+| 17 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |
+| 18 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
 | 19 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 |
 | 20 | [Antarctica](https://open.spotify.com/track/4p3206jk0fwiwEnaTRfhvI) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [ASHU](https://open.spotify.com/artist/1hmxhgy1s2r3FjQE35ePHm) | [Nexus](https://open.spotify.com/album/22jhpvStxovmSD07CVNqAu) | 2:42 |
 | 21 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 |

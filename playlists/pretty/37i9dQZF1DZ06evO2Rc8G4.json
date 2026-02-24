@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170390,
+  "num_followers": 170394,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACa2NW5ta+gVlgozrsa51/w",
+  "snapshot_id": "aZpHAAAAAACkfUVXpcB1zR2xK6h6mCtM",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
+        "name": "X",
+        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
     },
     {
       "added_at": null,

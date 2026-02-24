@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACfM32OwCUZgOUh2vXszHjs",
+  "snapshot_id": "aZpHAAAAAAArPF3P/u/lnXyT5CJNjHQY",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -639,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Armin Anthems (Incl. Bonus Commentary) [Ultimate Singles Collected]",
+        "url": "https://open.spotify.com/album/1Ros7GgRwoyJbqGn6TELAj"
       },
       "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+      "duration_ms": 117539,
+      "name": "Not Giving Up On Love [Mix Cut]",
+      "url": "https://open.spotify.com/track/1qarRR4Fxt3VfWmaNqtVIU"
     },
     {
       "added_at": null,
@@ -684,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -756,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Breaking the Circle",
-      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
     },
     {
       "added_at": null,
@@ -859,22 +879,6 @@
       "duration_ms": 234160,
       "name": "The Deer & the Wolf",
       "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Do You Remember the First Time? - Live",
-      "url": "https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz"
     }
   ],
   "unique_name": "This Is Sophie Ellis-Bextor",

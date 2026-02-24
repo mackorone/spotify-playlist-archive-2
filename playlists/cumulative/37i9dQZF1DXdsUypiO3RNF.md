@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-108 songs - 4 hr 54 min
+112 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,9 +68,11 @@
 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 | 2023-03-10 |  |
 | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/track/2gtEwLuFIQQ5YKHJPn1OiD) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/album/29DyukLyhMHOGDoL0M1Ywt) | 2:33 | 2024-11-07 |  |
 | [Calm Horizon 639Hz](https://open.spotify.com/track/1p09Iby0aUPO9hWyJGzDQI) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [Calm Horizon 639Hz](https://open.spotify.com/album/3I8RJ9xH2MIhE7EXJjFLnm) | 2:50 | 2025-04-29 |  |
+| [Celestial 639 Tides](https://open.spotify.com/track/5mAOv5uIvmy95VGX59rrv3) | [Djupiter](https://open.spotify.com/artist/38z1DSYql3693FDA81iiLk) | [Celestial 639 Tides](https://open.spotify.com/album/1PxSddQMdW88HKEDEzpxoy) | 2:28 | 2026-02-23 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-03-10 |  |
 | [Chakra Mist 639 Hz](https://open.spotify.com/track/45tO5VLW8mXFnlAKziwcSt) | [Synchroni city](https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp) | [Chakra Mist 639 Hz](https://open.spotify.com/album/3GSm1A27yRG2TG7qr5cmZy) | 2:30 | 2025-10-14 |  |
 | [Compassion](https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY) | [Heart Chakra](https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO) | [Compassion](https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS) | 3:46 | 2023-11-30 | 2024-07-24 |
+| [Concord – 639 Hz](https://open.spotify.com/track/4kgf70XV4wALAswxdHbcEH) | [Ivory State](https://open.spotify.com/artist/6jn2iHXF9eu6rE0zBMy0qi) | [Concord – 639 Hz](https://open.spotify.com/album/4DrovLKg2VmLmQ0jHNomgX) | 2:06 | 2026-02-23 |  |
 | [Connections 639 Hz](https://open.spotify.com/track/3Zg95dV0Ydwl80T6UBpHgQ) | [Chaccara](https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q) | [Connections 639 Hz](https://open.spotify.com/album/1GZYbaJpXp3hzpPyd0KnBn) | 2:29 | 2023-03-10 | 2024-11-21 |
 | [Consonance of Companionship 639 Hz](https://open.spotify.com/track/17MMku2kks0q31q6knf0C0) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Consonance of Companionship 639 Hz](https://open.spotify.com/album/6TWMDAFQsRYYtgeFIsYGTA) | 2:43 | 2024-03-13 |  |
 | [Cordial Cadence of 639 Hz](https://open.spotify.com/track/4FrZwj03PVt09NYBeVHHqg) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Cordial Cadence of 639 Hz](https://open.spotify.com/album/35a85SPmb4bJwXsLt4zpI1) | 2:53 | 2024-04-07 |  |
@@ -92,7 +94,9 @@
 | [Heart Solfeggio 639 Hz](https://open.spotify.com/track/2IRagwg8j7yjshAYTSLFFO) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:47 | 2023-11-30 |  |
 | [Heartbeat 639 Hz](https://open.spotify.com/track/0EEV9nCjJQOFwucysFrWRV) | [Maylda](https://open.spotify.com/artist/2qKaMLiV5wvW4FBrgXXlx7) | [Heartbeat 639 Hz](https://open.spotify.com/album/5aXGn0pmSCiwB3G9MdL48K) | 2:57 | 2023-11-30 |  |
 | [Herzchakra – 639 Hz](https://open.spotify.com/track/4jten6BtLoJ7OOgHKPFDH0) | [Zen Buddhismus Regeneration Sammlung](https://open.spotify.com/artist/16AvlhBA5Spw9JLPb62DZ7) | [Heilende Musik \(144 Hz – 728Hz, Die Solfeggio\-Frequenzen Heilung Meditation, Entspannung, Stressabbau, Reparatur DNA, Körperbewusstsein\)](https://open.spotify.com/album/1PNVtHBAwQAIYQpsnlJ1t5) | 4:08 | 2023-03-10 | 2024-11-21 |
+| [Infinite Horizon 639 Hz](https://open.spotify.com/track/0eCJSxvdD74DS2P5YfMr4l) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [Infinite Horizon 639 Hz](https://open.spotify.com/album/1dHEG4f7Ef385Xsk3gMnU2) | 2:27 | 2026-02-23 |  |
 | [Liquid Movements 639 Hz](https://open.spotify.com/track/13UsfmT1Rvl9occSdq3cvz) | [Sarema](https://open.spotify.com/artist/1OF0ZCmjYDKSrSTGRgGdm0) | [Liquid Movements 639 Hz](https://open.spotify.com/album/0x5MaxILSt3kCpbjJPTZmz) | 2:40 | 2023-08-07 |  |
+| [Long Distance 639 hz](https://open.spotify.com/track/2f4zFqVQvTmMukXptqcpTO) | [Djupiter](https://open.spotify.com/artist/38z1DSYql3693FDA81iiLk) | [Long Distance 639 hz](https://open.spotify.com/album/6nUM7O3I0gcWauk2ZMTbJl) | 2:46 | 2026-02-23 |  |
 | [Moonlight Meditation 639 Hz](https://open.spotify.com/track/2SpsfOspAiPKQcfdEgchI6) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 4:41 | 2023-03-10 | 2024-11-21 |
 | [Nestle In \- Solfeggio 639hz](https://open.spotify.com/track/5deLH1MsoZmEUVMVtFs5dU) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Nestle In \- 639hz](https://open.spotify.com/album/0oUtgiEEMtbymSmyvEwpTC) | 2:34 | 2024-11-07 |  |
 | [Perpetual Positivity 639 Hz](https://open.spotify.com/track/2mNjzDZAlSdnrP4YIhVjgp) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Perpetual Positivity 639 Hz](https://open.spotify.com/album/6x4F7UsPhGBtcAfUSyez06) | 2:44 | 2023-08-07 |  |

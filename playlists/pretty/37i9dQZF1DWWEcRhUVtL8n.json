@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Ally Evenson",
-  "num_followers": 1674002,
+  "num_followers": 1674003,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
     },
     {
+      "added_at": "2026-02-20 05:25:27",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 199831,
+      "name": "Dramatic Girl (feat. Che Ecru)",
+      "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "He's My Man",
@@ -503,26 +523,6 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2026-02-20 05:25:27",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 199831,
-      "name": "Dramatic Girl (feat. Che Ecru)",
-      "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
     },
     {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "the apple tree under the sea",
-        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 333956,
-      "name": "be the girl!",
-      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
-    },
-    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
@@ -1253,6 +1237,22 @@
       "url": "https://open.spotify.com/track/6oM46RZxmCvcaaHP3n5TXX"
     },
     {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "the apple tree under the sea",
+        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 333956,
+      "name": "be the girl!",
+      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
+    },
+    {
       "added_at": "2026-02-03 17:18:32",
       "album": {
         "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
+      "added_at": "2026-02-13 05:00:47",
+      "album": {
+        "name": "Is This Love??",
+        "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Is This Love??",
+      "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "Being There",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
         "name": "Paradise Now & Forever",
         "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
       },
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
     },
     {
-      "added_at": "2026-02-13 05:00:47",
+      "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Is This Love??",
-        "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
       },
       "artists": [
         {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Is This Love??",
-      "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
+      "duration_ms": 205238,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
       "added_at": "2026-01-30 05:01:06",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
         "name": "Letters From The Day",
         "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 316933,
       "name": "Elio",
       "url": "https://open.spotify.com/track/6eKiMLX87zqbiA7K3Abbg5"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 256481,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
     },
     {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 180056,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
+    },
+    {
       "added_at": "2026-01-23 05:28:47",
       "album": {
         "name": "Tainted",
@@ -1563,6 +1579,22 @@
       "duration_ms": 173000,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y"
+    },
+    {
+      "added_at": "2026-02-20 05:00:39",
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1595,38 +1627,6 @@
       "duration_ms": 167440,
       "name": "A Man Written by a Woman",
       "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 180056,
-      "name": "Jelly",
-      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
-    },
-    {
-      "added_at": "2026-02-20 05:00:39",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-01-23 05:36:04",

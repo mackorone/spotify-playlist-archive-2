@@ -4,7 +4,7 @@
 
 > The best in house music
 
-757 songs - 2 day 1 hr 5 min
+758 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-30 | 2023-07-15 |
 | [I Wish](https://open.spotify.com/track/6m5d4HhoCRDz5bq3fv3jrB) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [I Wish](https://open.spotify.com/album/5uZWttqXTzmePt6RpWg9a4) | 2:09 | 2024-11-12 | 2025-11-08 |
 | [Ignite](https://open.spotify.com/track/3EIv2kX1rINIb7kkSVtPYI) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Ryan Nicholls](https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q) | [Ignite EP](https://open.spotify.com/album/3a0KFcfUHKdtDTUnUelfrC) | 2:56 | 2025-12-18 |  |
-| [ILLUSIONS](https://open.spotify.com/track/4auvJ0GGuAiw4bQF9gOF2S) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [ILLUSIONS](https://open.spotify.com/album/4Mph2Eu08tbmHW4orMGDJi) | 2:41 | 2025-09-15 |  |
+| [ILLUSIONS](https://open.spotify.com/track/4auvJ0GGuAiw4bQF9gOF2S) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [ILLUSIONS](https://open.spotify.com/album/4Mph2Eu08tbmHW4orMGDJi) | 2:41 | 2025-09-15 | 2026-02-24 |
 | [In Arms](https://open.spotify.com/track/0mqDNdnkSOTKqsUIsAEfW2) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [In Arms](https://open.spotify.com/album/2vh3bKINYS3kbVVqbJ3Nf7) | 3:26 | 2022-07-28 | 2022-09-16 |
 | [In Da House](https://open.spotify.com/track/3TqQKlQS8jjBCQenh0jRhS) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [In Da House](https://open.spotify.com/album/0zTGtc0HuqblFuXpBLZXyc) | 5:03 | 2024-04-04 | 2024-12-08 |
 | [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-09-22 |  |
@@ -662,6 +662,7 @@
 | [The Day \- Alternate](https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT) | [Bobby D'Ambrosio](https://open.spotify.com/artist/61E97UaIqKAEsEsc31Zr0w), [Michelle Weeks](https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru), [DJ Spen](https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ), [Reelsoul](https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE) | [The Day \(DJ Spen & Reelsoul Remix\)](https://open.spotify.com/album/4kisMPc1idqvqyWdsH4Yw8) | 7:15 | 2022-04-14 | 2022-07-29 |
 | [The Devil Works Hard](https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [The Devil Works Hard](https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4) | 2:49 | 2025-07-10 |  |
 | [The Game](https://open.spotify.com/track/1s8xGfe1FlFVWG5rlK3ysF) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [The Game](https://open.spotify.com/album/0mrJ8c6f6jwraU4JQfiR30) | 3:38 | 2024-12-20 | 2025-07-18 |
+| [The Groove](https://open.spotify.com/track/6A4BdOyIcPzAeTYTJq6cPY) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ) | [The Groove](https://open.spotify.com/album/4FBLxAB8l8tCfFWCOi5YF5) | 2:52 | 2026-02-22 |  |
 | [The Joy of Melancholy \- Edit](https://open.spotify.com/track/46ZexsbcqnNf0UWRHuPo2T) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Touch Me Again](https://open.spotify.com/album/21fIBQEohvbE6tOqBvPq96) | 3:30 | 2024-09-12 | 2024-11-23 |
 | [The Last Time \- Edit](https://open.spotify.com/track/2qbC0K8Ya7wkNEMaB4KuBA) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [The Last Time](https://open.spotify.com/album/39fKrm33IcGXYEd1hfwZbI) | 3:42 | 2024-10-03 | 2025-11-08 |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2022-07-28 | 2023-04-13 |

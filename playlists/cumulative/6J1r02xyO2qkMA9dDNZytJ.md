@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-203 songs - 10 hr 14 min
+204 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 | 2026-01-05 |  |
 | [Delirious](https://open.spotify.com/track/46875iJliwEgqWQvKT4cJX) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Delirious](https://open.spotify.com/album/0q0FT4I4xNZSFPCuvoIRw9) | 3:12 | 2026-01-23 |  |
 | [Diamonds](https://open.spotify.com/track/0y5ZwoP0GHc24ZoP5wUY8o) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Merk \(ITA\)](https://open.spotify.com/artist/7la4AhxS3u92K30Zjg9cDz), [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ) | [Diamonds](https://open.spotify.com/album/2FXcamZoZvu3XIC7bKOyr0) | 2:53 | 2026-01-30 |  |
-| [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 | 2025-10-10 |  |
+| [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 | 2025-10-10 | 2026-02-24 |
 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-07-08 | 2026-01-24 |
 | [Disco Behaviour](https://open.spotify.com/track/2o8dGb8mPyM4ZIsHCZzqTd) | [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [Disco Behaviour](https://open.spotify.com/album/2Vd8g2lvXtujfrdL2mGMza) | 2:39 | 2026-02-13 |  |
 | [Dizzy](https://open.spotify.com/track/0xgH8vk0HiygTzNuSFNRr6) | [Deep Fiktion](https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le) | [Dizzy](https://open.spotify.com/album/646tI8P5WuQwUGErJKUuEe) | 3:31 | 2025-10-31 |  |
@@ -96,6 +96,7 @@
 | [I Don't Wanna Come Down](https://open.spotify.com/track/1CIB8WypDLpGXijTpGd0su) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Bullets Vol\. 7](https://open.spotify.com/album/7qXF4ATTz8mhIKoAsOnMNg) | 3:22 | 2025-12-01 |  |
 | [I Got Bad Habits](https://open.spotify.com/track/6TNORJCPXK5P7OrXJ83rdi) | [Stirling](https://open.spotify.com/artist/5ENeTFArq0YgcBS9A1iGGG), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [I Got Bad Habits](https://open.spotify.com/album/7M17FM83In5gpyU1nDQLLx) | 2:52 | 2025-10-24 |  |
 | [i want u](https://open.spotify.com/track/0Fjrpxcnm3Ddd8yxj8WwWu) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [i want u](https://open.spotify.com/album/78eUFbwr1ZFPUwUfiJxsn0) | 3:29 | 2025-10-31 |  |
+| [I Want You](https://open.spotify.com/track/32vZyHNd3xbgFMYr37K2tu) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd) | [I Want You](https://open.spotify.com/album/2VJw8W5aV5JS8wGD0xGnP5) | 3:21 | 2026-02-23 |  |
 | [I'm Watching You \(So Many Times\)](https://open.spotify.com/track/6KzhSkI5PAP0F2qL8ASGlP) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Gadjo](https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr) | [I'm Watching You \(So Many Times\)](https://open.spotify.com/album/5OgQBHrt8d65SR0OqUyVDD) | 3:10 | 2025-12-05 |  |
 | [Ice](https://open.spotify.com/track/2ZSrmhpwpd7KKoM3khQtY0) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Ice](https://open.spotify.com/album/4mt67VASzQvvah1Fz4JxHh) | 2:58 | 2026-01-30 |  |
 | [If You Want](https://open.spotify.com/track/5V9wLycui0YfukF74ll54F) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [If You Want](https://open.spotify.com/album/3EKvw1vxzgJ7Eudid4Bk44) | 2:38 | 2025-03-28 | 2025-08-23 |

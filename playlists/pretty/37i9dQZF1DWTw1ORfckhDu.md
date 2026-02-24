@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,865 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,860 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 6 | [Million Dollar Smile](https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Million Dollar Smile](https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq) | 2:54 |
 | 7 | [Aitous ei oo myynnissä](https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Aitous ei oo myynnissä](https://open.spotify.com/album/0Xhjp2tWP9tAbhYTxXI8In) | 3:06 |
 | 8 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
-| 9 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 |
-| 10 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 |
+| 9 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 |
+| 10 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 |
 | 11 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 12 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 |
 | 13 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 19 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
 | 20 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
 | 21 | [et millään saa](https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [et millään saa](https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs) | 2:54 |
-| 22 | [Clean Girl](https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Clean Girl](https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V) | 2:57 |
-| 23 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
+| 22 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
+| 23 | [Clean Girl](https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Clean Girl](https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V) | 2:57 |
 | 24 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
 | 25 | [Veitsi](https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
 | 26 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |

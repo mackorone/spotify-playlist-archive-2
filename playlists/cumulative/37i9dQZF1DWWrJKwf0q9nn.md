@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Jengi & Eloise Keeble
 
-819 songs - 1 day 17 hr 35 min
+820 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Brace For Impact](https://open.spotify.com/track/3h7yXc3dy9bLKHNYVc8YrC) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Brace For Impact](https://open.spotify.com/album/181ZDba8AtrqMPlB9UbcQi) | 3:40 | 2025-10-02 | 2025-11-01 |
 | [Break Me](https://open.spotify.com/track/1EA8WkpEno3ZUweoZkU6wU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Break Me](https://open.spotify.com/album/2qu61MBLNbgW8d7qh8gRBe) | 2:55 | 2025-10-02 | 2025-11-01 |
 | [Breakin' Dishes](https://open.spotify.com/track/3z8nmj82E1YT7PZWvkRIb3) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/4qTvGhK4j6kVuyHRItYMlP) | 2:13 | 2025-09-11 | 2025-10-10 |
-| [Breathe](https://open.spotify.com/track/757An7Om3q0E7qSvztB2WC) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1tglKWD7ydb0hkOD3SI430) | 2:56 | 2026-02-19 |  |
+| [Breathe](https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7) | 2:56 | 2026-02-23 |  |
+| [Breathe](https://open.spotify.com/track/757An7Om3q0E7qSvztB2WC) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1tglKWD7ydb0hkOD3SI430) | 2:56 | 2026-02-19 | 2026-02-24 |
 | [Brighter Days](https://open.spotify.com/track/1EFa8N3RrJ9OxeeoAkJneQ) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo), [Big Moses](https://open.spotify.com/artist/6DKgXuhMTT7HOhCBGkSOy1), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Brighter Days](https://open.spotify.com/album/5FRhHIfVMry7aAFYUCLtMN) | 3:17 | 2025-11-27 | 2026-01-20 |
 | [Bring It Back](https://open.spotify.com/track/24ZahOwPra9cPxv6RO1G1R) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Bring It Back](https://open.spotify.com/album/4QjbL64QEVqwc8VqrZbSPG) | 3:48 | 2025-10-16 | 2025-11-14 |
 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 | 2025-11-20 | 2026-01-06 |

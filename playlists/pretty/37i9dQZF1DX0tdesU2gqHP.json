@@ -1,12 +1,12 @@
 {
   "description": "The best videos from the world of pop! \nMusic videos only available on Premium.",
-  "num_followers": 7271,
-  "original_name": "Pop Music Video Hits",
+  "num_followers": 7312,
+  "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBiuKCKFQ1U8A7FUWAKX9SZ4WQl",
+  "snapshot_id": "AAAAADprMc0VH20ViKEd2uAc4OBujBgS",
   "tracks": [
     {
       "added_at": "2026-02-06 13:02:10",
@@ -23,22 +23,6 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-02-06 13:02:10",
-      "album": {
-        "name": "Opalite",
-        "url": "https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 359659,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
     },
     {
       "added_at": "2026-02-13 06:04:05",
@@ -95,18 +79,34 @@
     {
       "added_at": "2026-02-06 13:02:10",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+      "duration_ms": 359659,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
+    },
+    {
+      "added_at": "2026-02-23 21:38:47",
+      "album": {
+        "name": "Always Everywhere",
+        "url": "https://open.spotify.com/album/5LMLRRaISo746ra2x1IshP"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6aDP9XiTT2QKatw6dtsc9N"
     },
     {
       "added_at": "2026-02-06 13:02:10",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
     },
     {
-      "added_at": "2026-02-06 13:02:10",
+      "added_at": "2026-02-23 21:41:17",
       "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 238162,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-02-13 06:07:23",
@@ -155,6 +155,38 @@
       "duration_ms": 197952,
       "name": "Ordinary (Live) | Spotify Best New Artist",
       "url": "https://open.spotify.com/track/6mfQp9SPJiqb3PItp7cIMl"
+    },
+    {
+      "added_at": "2026-02-06 13:02:10",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 238162,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
+    },
+    {
+      "added_at": "2026-02-23 21:38:47",
+      "album": {
+        "name": "I Like You Better Than Me",
+        "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC"
     },
     {
       "added_at": "2026-02-13 06:04:05",
@@ -175,6 +207,38 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-02-06 13:02:10",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-02-23 21:38:47",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
     },
     {
       "added_at": "2026-02-06 13:02:10",
@@ -255,6 +319,22 @@
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2026-02-23 21:38:47",
+      "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "added_at": "2026-02-06 13:02:10",
@@ -351,6 +431,22 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2026-02-23 21:38:47",
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
     },
     {
       "added_at": "2026-02-06 13:02:10",
@@ -733,6 +829,6 @@
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
     }
   ],
-  "unique_name": "Pop Music Video Hits",
+  "unique_name": "Pop Music Videos",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0tdesU2gqHP"
 }

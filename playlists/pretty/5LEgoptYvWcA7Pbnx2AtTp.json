@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAA+aYYaTKmwDsBOAADMpjgIIHZxkIU",
+  "snapshot_id": "AAAA/Z7fR7e4DLy6+qrTqc3KM2ThnOKZ",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -183,22 +183,6 @@
       "duration_ms": 220480,
       "name": "For the Departed",
       "url": "https://open.spotify.com/track/5BZp6bbnf3BQ2s9YGkQMpV"
-    },
-    {
-      "added_at": "2022-05-06 11:45:45",
-      "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd"
-      },
-      "artists": [
-        {
-          "name": "Tom Cardy",
-          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
-        }
-      ],
-      "duration_ms": 182636,
-      "name": "Business Man",
-      "url": "https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj"
     },
     {
       "added_at": "2022-05-06 17:47:05",
@@ -427,22 +411,6 @@
       "duration_ms": 286213,
       "name": "Rain in Soho",
       "url": "https://open.spotify.com/track/6hscYQ0QETyhsUtGcIraKa"
-    },
-    {
-      "added_at": "2023-01-04 04:30:06",
-      "album": {
-        "name": "Big Dumb Idiot",
-        "url": "https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp"
-      },
-      "artists": [
-        {
-          "name": "Tom Cardy",
-          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
-        }
-      ],
-      "duration_ms": 295504,
-      "name": "Hey I Don't Work Here",
-      "url": "https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7"
     },
     {
       "added_at": "2023-01-07 08:07:32",
@@ -783,22 +751,6 @@
       "duration_ms": 199720,
       "name": "Goodnight Socialite",
       "url": "https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R"
-    },
-    {
-      "added_at": "2023-03-23 08:25:22",
-      "album": {
-        "name": "The Owl & The Elephant",
-        "url": "https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6"
-      },
-      "artists": [
-        {
-          "name": "Shayfer James",
-          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Your Father's Son",
-      "url": "https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv"
     },
     {
       "added_at": "2023-06-03 03:41:54",
@@ -2983,6 +2935,22 @@
       "duration_ms": 158520,
       "name": "Threw It On The Ground",
       "url": "https://open.spotify.com/track/0IaR6HCEObaHxA52i0fdKU"
+    },
+    {
+      "added_at": "2026-02-24 01:45:49",
+      "album": {
+        "name": "The Heart Goes to Heaven, The Head Goes to Hell",
+        "url": "https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7"
+      },
+      "artists": [
+        {
+          "name": "That Handsome Devil",
+          "url": "https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "Charlie's Inferno",
+      "url": "https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu"
     }
   ],
   "unique_name": "Questionable Bops",

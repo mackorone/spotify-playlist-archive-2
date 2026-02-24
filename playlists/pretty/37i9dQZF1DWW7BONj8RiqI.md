@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,981 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,012 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 15 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
 | 16 | [Bicycle Ride \- Soca Remix](https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Mario Dunwell](https://open.spotify.com/artist/2nyWInNN7pGfAL7sgTAOOO) | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2) | 2:52 |
 | 17 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
-| 18 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
-| 19 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
+| 18 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
+| 19 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
 | 20 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
 | 21 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 |
 | 22 | [Payroll](https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM), [Xpert Productions](https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg) | [Same 24 Riddim](https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB) | 2:38 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 62 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 | 63 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
 | 64 | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM) | [Hello \(Iced Heart Riddim\)](https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4) | 2:54 |
-| 65 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 66 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
+| 65 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
+| 66 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 67 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
 | 68 | [Fling It Up](https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [One Degree Hotter](https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG) | 2:38 |
 | 69 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |

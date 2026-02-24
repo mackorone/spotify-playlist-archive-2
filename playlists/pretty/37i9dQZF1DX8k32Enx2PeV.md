@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,661 likes - 110 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,668 likes - 110 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 89 | [Mochilera](https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Mochilera](https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0) | 3:48 |
 | 90 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
 | 91 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
-| 92 | [Calor](https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn) | 3:20 |
-| 93 | [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 |
+| 92 | [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 |
+| 93 | [Calor](https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn) | 3:20 |
 | 94 | [El Boton del Pantalon](https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [La Revancha del Burro](https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt) | 5:11 |
 | 95 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
 | 96 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/2khOYj1vDGhmS84m4Wm7cc) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [David Aguilar](https://open.spotify.com/artist/3UxQcJ5P3W30gW0zHtBcKY) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/4ofoHq8EzjKBLBOX2K4OhA) | 2:17 |

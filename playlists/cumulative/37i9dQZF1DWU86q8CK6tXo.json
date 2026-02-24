@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+    },
+    {
+      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -3867,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115002,
+      "name": "BIG FEELING",
+      "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
+    },
+    {
+      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -4922,7 +4958,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 170760,
       "name": "Bop It",
       "url": "https://open.spotify.com/track/3OQnNdlAiQeJsH8csOvnJA"
@@ -8847,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
+    {
+      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO"
       },
@@ -10708,7 +10762,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 191922,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
@@ -12144,6 +12198,24 @@
       "duration_ms": 225882,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/0ZsUTnZoOVAOJCUqHKJHVf"
+    },
+    {
+      "album": {
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
       "album": {
@@ -20750,7 +20822,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 209748,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
@@ -21444,7 +21516,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 208149,
       "name": "Love4Life",
       "url": "https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp"
@@ -25115,6 +25187,24 @@
     },
     {
       "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
+    },
+    {
+      "album": {
         "name": "noviogangsta <3",
         "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
       },
@@ -26694,7 +26784,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 211084,
       "name": "pelinegra",
       "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
@@ -26784,7 +26874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 118356,
       "name": "PEPPER",
       "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
@@ -35015,6 +35105,24 @@
     },
     {
       "album": {
+        "name": "THUM",
+        "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131644,
+      "name": "THUM",
+      "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "album": {
         "name": "Power of Panic",
         "url": "https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u"
       },
@@ -35087,6 +35195,24 @@
     },
     {
       "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+    },
+    {
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -35138,7 +35264,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 186746,
       "name": "to each their dot",
       "url": "https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k"
@@ -36250,7 +36376,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 224842,
       "name": "two shots in and sobbing",
       "url": "https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh"
@@ -36944,6 +37070,24 @@
       "duration_ms": 165798,
       "name": "Vvvvillain",
       "url": "https://open.spotify.com/track/5IXhGc4WpszE1ygWWDgZgX"
+    },
+    {
+      "album": {
+        "name": "w-w-w-w-w",
+        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "w-w-w-w-w",
+      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
     },
     {
       "album": {

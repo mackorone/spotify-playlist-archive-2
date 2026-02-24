@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la Calle a la Cima con JAHYCO, Tainy & Rauw Alejandro
+> De la Calle a la Cima con JHAYCO, Tainy & Rauw Alejandro
 
 659 songs - 1 day 12 hr 12 min
 

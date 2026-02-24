@@ -4,7 +4,7 @@
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 0 min
+70 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Fell So Hard, Felt So Right \(feat\. Story Of The Year\)](https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t) | 3:02 | 2025-07-27 | 2025-10-04 |
 | [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [GALLOWS](https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4) | 3:02 | 2025-10-04 |  |
 | [Five Against the World](https://open.spotify.com/track/1c6XA7JzctIQHsUmKwfRFi) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:12 | 2023-03-24 | 2024-07-24 |
-| [Gasoline \(All Rage Still Only Numb\)](https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Gasoline \(All Rage Still Only Numb\)](https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR) | 2:59 | 2025-10-18 |  |
+| [Gasoline \(All Rage Still Only Numb\)](https://open.spotify.com/track/0QYemx2W3oTiouTgOhRFJQ) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:59 | 2026-02-24 |  |
+| [Gasoline \(All Rage Still Only Numb\)](https://open.spotify.com/track/2HOOOhhR7w9gaN5v9kpgHQ) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Gasoline \(All Rage Still Only Numb\)](https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR) | 2:59 | 2025-10-18 | 2026-02-24 |
 | [Good for Me / Feel so Bad](https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:55 | 2026-02-15 |  |
 | [Goodnight, My Love](https://open.spotify.com/track/0KRm82wbZfjdbaCy0fF69H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:07 | 2022-10-25 | 2025-02-01 |
 | [Halos](https://open.spotify.com/track/6JhrwJgdChkPu2eTjQuNwR) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:12 | 2026-02-15 |  |
@@ -43,7 +44,7 @@
 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 | 2022-10-25 |  |
 | [Knives Out](https://open.spotify.com/track/7MbvZUJDjIYVIdOEP2Hvko) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:04 | 2023-03-11 | 2023-04-02 |
 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 | 2022-10-25 |  |
-| [My Religion](https://open.spotify.com/track/6ayyblVZraNsTNd0OyINqj) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:08 | 2026-02-15 |  |
+| [My Religion](https://open.spotify.com/track/6ayyblVZraNsTNd0OyINqj) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:08 | 2026-02-15 | 2026-02-24 |
 | [Our Time Is Now](https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 | 2022-10-25 |  |
 | [Page Avenue](https://open.spotify.com/track/2xGxulhqMJMmqyo061ZgWD) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:37 | 2024-06-01 | 2024-06-02 |
 | [Razorblades](https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:21 | 2022-10-25 | 2025-10-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,335 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,339 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 38 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 39 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 40 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 41 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
-| 42 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
+| 41 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
+| 42 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 43 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 44 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 45 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 96 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
 | 97 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
 | 98 | [LNPSTRD](https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [lucawts](https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou), [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [LNPSTRD](https://open.spotify.com/album/2EgMkwAkvsGRmcxSb1SDmF) | 2:27 |
-| 99 | [SLABICIUNEA MEA](https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM) | [COMANN](https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [SLABICIUNEA MEA](https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO) | 2:38 |
-| 100 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
+| 99 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
+| 100 | [SLABICIUNEA MEA](https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM) | [COMANN](https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [SLABICIUNEA MEA](https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO) | 2:38 |
 
 Snapshot ID: `AAAAAIgjeAUKvaoWFDA9fsLr6qg3a0za`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Andéol
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,536 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,531 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 6 | [lily rose](https://open.spotify.com/track/5aB5RkgtA34pFL5ZhRKdlx) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [lily rose](https://open.spotify.com/album/07c7cyPlSpWzae8Co89ivG) | 3:42 |
 | 7 | [Le Petit Pêcheur](https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Le Petit Pêcheur](https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB) | 2:09 |
 | 8 | [Soleil profond](https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Le Disque Bleu](https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD) | 4:11 |
-| 9 | [Engagés volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagés volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 |
+| 9 | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 |
 | 10 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 |
 | 11 | [mayday](https://open.spotify.com/track/1b5t2zmmKtMUIecVdg61Vb) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [mayday](https://open.spotify.com/album/0274OyqKfwGzUk4KNSXyH2) | 3:27 |
 | 12 | [Æthernité](https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO) | [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Æthernité](https://open.spotify.com/album/5nffIi37YwFWLk0O87oskr) | 3:16 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 31 | [Normaux](https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Normaux](https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8) | 4:21 |
 | 32 | [L'homme qui mord](https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9) | [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [L'homme qui mord](https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP) | 3:05 |
 | 33 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 |
-| 34 | [T'es Beau \- Doug's version](https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [T'es Beau \(Doug's version\)](https://open.spotify.com/album/5pnZ8GsGW0TZ2l0AZ022MK) | 2:14 |
+| 34 | [T'es Beau \- Doug's Version](https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [T’es beau \(Doug's Version\)](https://open.spotify.com/album/5pnZ8GsGW0TZ2l0AZ022MK) | 2:14 |
 | 35 | [Le mur](https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Le mur](https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG) | 3:11 |
 | 36 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 |
 | 37 | [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-103 songs - 4 hr 53 min
+108 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [852 Hz \- Transformative Journey](https://open.spotify.com/track/4rA1djqnUZtTGJx13sk8zU) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [852 Hz \- Transformative Journey](https://open.spotify.com/album/2Up9pvT4MDk26onhvtmUhl) | 2:05 | 2023-11-30 | 2026-01-22 |
 | [852 Hz \- Why The Rush](https://open.spotify.com/track/5EsormHGhJGBBB01hEhcIL) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
 | [852 Hz Absorbance](https://open.spotify.com/track/3BcTugImxamhTwmxgK2pgk) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [852 Hz Absorbance](https://open.spotify.com/album/4KFeJlA9rE3KjvjQoBPglK) | 2:39 | 2026-01-21 |  |
+| [852 Hz Boundless Presence](https://open.spotify.com/track/6TxHAZppNcECKqXeHbzN6V) | [Elin Lysvik](https://open.spotify.com/artist/0AteTQeSz1LUqcPzxPygIE) | [852 Hz Boundless Presence](https://open.spotify.com/album/3rlil6TiwXieoG5SytynIa) | 2:50 | 2026-02-23 |  |
 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 | 2023-11-30 |  |
 | [852 Hz Connection](https://open.spotify.com/track/4RZR4xxsaXFBoU7YiTm2jW) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [852 Hz Connection](https://open.spotify.com/album/4uBLjnJhircfcvGJPh3aUv) | 2:33 | 2023-08-07 | 2024-08-28 |
+| [852 Hz Deep Sleep](https://open.spotify.com/track/44H0SNsJfcSkxbwJbbkIJk) | [Adante Loribam](https://open.spotify.com/artist/6yUnw2ABAiV3SF8GXwD7ed) | [852 Hz Deep Sleep](https://open.spotify.com/album/1Z6s1HvUR5XztSbohgI3vH) | 2:30 | 2026-02-23 |  |
 | [852 Hz Emerald Waters](https://open.spotify.com/track/1LBvyl2RLLFW1KJh8aO2tp) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [852 Hz Emerald Waters](https://open.spotify.com/album/5W2X97uXnN8Bv8dxSLU1MH) | 2:32 | 2023-11-30 |  |
 | [852 Hz Heavenly Beckoning](https://open.spotify.com/track/3jO6989M6RubLcR0fF2n5d) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [852 Hz Heavenly Beckoning](https://open.spotify.com/album/09fWO5L2iHYcwxjm5hiCaj) | 3:23 | 2024-05-11 |  |
 | [852 Hz Holistic Mind](https://open.spotify.com/track/6EFYsOp3cX4vfmvjYZWNfo) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [852 Hz Holistic Mind](https://open.spotify.com/album/1lY1bhKI9bbBm3ZsZCTpwS) | 2:38 | 2023-11-30 |  |
@@ -45,6 +47,7 @@
 | [852 Hz Through Illusions](https://open.spotify.com/track/5VbTZSTusKLfbejy7fKNM4) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [852 Hz Through Illusions](https://open.spotify.com/album/1UkKqegZI9mTv69QkzrAZw) | 3:00 | 2025-07-09 |  |
 | [852 Hz Transcendent Traveler](https://open.spotify.com/track/2S0ZOGLofhySHpJG9eCMao) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [852 Hz Transcendent Traveler](https://open.spotify.com/album/2oUWVJSfPOOzUwIubGHETZ) | 2:23 | 2024-08-27 |  |
 | [852 Hz Way to Heaven](https://open.spotify.com/track/6sIzafjxwxzwkEcm2Qn23W) | [Revotek](https://open.spotify.com/artist/1N601SAkXZBk0x1A8NIrrD) | [852 Hz Way to Heaven](https://open.spotify.com/album/0CAXtBa1ASLi3yJJvWHNLm) | 2:30 | 2025-10-14 |  |
+| [852 Solfeggio Attunement](https://open.spotify.com/track/0Bd3p2LnsZw5JbZ6hOecJI) | [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [852: Spiritual Balance \(Remastered\)](https://open.spotify.com/album/7pQN7nUEge7S2JEB31THAF) | 2:05 | 2026-02-23 |  |
 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 | 2023-11-30 |  |
 | [852Hz Clarity of the Soul](https://open.spotify.com/track/6ip5tP6v5KsRaabX5xbX1w) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [852Hz Clarity of the Soul](https://open.spotify.com/album/6ql1QniTd537KRdbGAW44f) | 2:30 | 2025-12-12 |  |
 | [852hz Return to Spiritual Order](https://open.spotify.com/track/2v07Tr7WeqbNTW2r037GEJ) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:08 | 2023-11-30 |  |
@@ -71,11 +74,13 @@
 | [Glimmering 852 Hz](https://open.spotify.com/track/3FJ8d924trF1sGcQYaf7z5) | [Skila Phani](https://open.spotify.com/artist/6HpVi4UMmmPM8oUsLy4pnO) | [Glimmering 852 Hz](https://open.spotify.com/album/6rqCE4bEwgNHRKk7V1tMX1) | 3:04 | 2023-08-07 | 2023-12-01 |
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2023-03-10 | 2023-08-08 |
 | [Healing Tides](https://open.spotify.com/track/08WMAUbFvLU1RZh4oECmCQ) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Healing Tides](https://open.spotify.com/album/1VOuDLt00UoDlKZ5GHaq86) | 3:54 | 2024-12-18 | 2025-01-31 |
+| [Inner Sanctum 852 Hz](https://open.spotify.com/track/76CWUQvTnrTWiZDQCcTGQi) | [Z Izzard](https://open.spotify.com/artist/4qp4lOUTaF9RMySaLkjcyN) | [Inner Sanctum 852 Hz](https://open.spotify.com/album/3aGPxg0z870GOm4sGheVbY) | 2:25 | 2026-02-23 |  |
 | [inner strength 852 Hz](https://open.spotify.com/track/4qBvDbNnTPZyeTTDkJDmzP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-03-10 |  |
 | [Insight 852 Hz](https://open.spotify.com/track/0h5qdvMFHj6DBlmhhg2JSz) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Insight 852 Hz](https://open.spotify.com/album/5FdLRELFGqPAlVld2axEFx) | 3:44 | 2023-03-10 | 2023-12-01 |
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2023-03-10 |  |
 | [Intuition 852 Hz](https://open.spotify.com/track/1nWNBqMuAlCruU0eEJPszl) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Intuition 852 Hz](https://open.spotify.com/album/2Z2sgcQhQAeQVBFamMFO3X) | 2:59 | 2023-08-07 |  |
 | [Land and Sea 852 Hz](https://open.spotify.com/track/6EHATCMM1ADhB67spZ0M7i) | [Kristen Reid](https://open.spotify.com/artist/72BS8WqVnzZSQ8J0XVMEpE) | [Land and Sea 852 Hz](https://open.spotify.com/album/1SipBNisSIdGPuH9Qal0KT) | 2:25 | 2023-03-10 |  |
+| [Light Leaving 852 Hz](https://open.spotify.com/track/3MG4KhQTNPu2JRvG31vnil) | [Still Phase](https://open.spotify.com/artist/0sqqa2e7ZaOilFJq4MEmbL) | [Light Leaving 852 Hz](https://open.spotify.com/album/7h6PYRxefQkbo5lj5QwNQV) | 2:02 | 2026-02-23 |  |
 | [Magellan 852 Hz](https://open.spotify.com/track/3V48eSjuO5ZcMRSeaDlHVw) | [Profundum](https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN) | [Magellan 852 Hz](https://open.spotify.com/album/7tLpuWFxZP8p8xjIEZtgyP) | 2:33 | 2025-07-09 |  |
 | [Mahaanata 852 Hz](https://open.spotify.com/track/4PaR3RgsVFFpY6gUmXOhHh) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Mahaanata 852 Hz](https://open.spotify.com/album/6OmX3MIam0deV9w15JIMHO) | 2:18 | 2024-05-11 |  |
 | [Mirrors 852 Hz](https://open.spotify.com/track/0JD1rVnAAU2CGvAHpmuCGN) | [Reikiki](https://open.spotify.com/artist/6bZ776Wqn5bbHs6mUnjsj2) | [Mirrors 852 Hz](https://open.spotify.com/album/7c0xjWlGVppHceKwN1KW02) | 2:38 | 2025-10-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 195250,
+  "num_followers": 195272,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "ONDEADO$",
+        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Imagine",
+          "url": "https://open.spotify.com/artist/0ajeO3Uh8ffXQmkTRV64sM"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "COME BACK (feat. Imagine)",
+      "url": "https://open.spotify.com/track/7sxzF8LKnnv7jChtSnOsct"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 310262,
       "name": "Mucho para M\u00ed",
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "ONDEADO$",
-        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Imagine",
-          "url": "https://open.spotify.com/artist/0ajeO3Uh8ffXQmkTRV64sM"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "COME BACK (feat. Imagine)",
-      "url": "https://open.spotify.com/track/7sxzF8LKnnv7jChtSnOsct"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2011,22 +2011,18 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/72ajpwYpemG0A9PRd2x5Vg"
+        "name": "Almas Gemelas",
+        "url": "https://open.spotify.com/album/489b7rRUZ1N2EPXRnGMpW2"
       },
       "artists": [
         {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/71oaN8Q5r8crcVOAfCyWpK"
+      "duration_ms": 176000,
+      "name": "Almas Gemelas",
+      "url": "https://open.spotify.com/track/1ATzXsjdUhrQKOrTMmJBTn"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2051,18 +2047,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Almas Gemelas",
-        "url": "https://open.spotify.com/album/489b7rRUZ1N2EPXRnGMpW2"
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/72ajpwYpemG0A9PRd2x5Vg"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Almas Gemelas",
-      "url": "https://open.spotify.com/track/1ATzXsjdUhrQKOrTMmJBTn"
+      "duration_ms": 217000,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/71oaN8Q5r8crcVOAfCyWpK"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "Bonita T\u00fa",
+        "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Bonita T\u00fa",
+      "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -2223,26 +2243,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "Bonita T\u00fa",
-        "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Bonita T\u00fa",
-      "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Smoky",
-          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
-        }
-      ],
-      "duration_ms": 229717,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Polic\u00edas y Ladrones",
         "url": "https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj"
       },
@@ -2339,6 +2319,26 @@
       "duration_ms": 221750,
       "name": "Polic\u00edas y Ladrones",
       "url": "https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Smoky",
+          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+        }
+      ],
+      "duration_ms": 229717,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2715,26 +2715,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Costumbre",
-        "url": "https://open.spotify.com/album/5TB8hUF9gIlurfM8sguvhy"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 177451,
-      "name": "Costumbre",
-      "url": "https://open.spotify.com/track/2o7Ry05Ujg5TURr0AZSeGE"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "TE IMAGINO (para mi kryptonita <3)",
         "url": "https://open.spotify.com/album/64Vng5YGgJIhnkg8eNY0ZR"
       },
@@ -2751,6 +2731,26 @@
       "duration_ms": 228750,
       "name": "TE IMAGINO (para mi kryptonita <3)",
       "url": "https://open.spotify.com/track/65yeUC7ktm44ZhPUFlFYzn"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Costumbre",
+        "url": "https://open.spotify.com/album/5TB8hUF9gIlurfM8sguvhy"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 177451,
+      "name": "Costumbre",
+      "url": "https://open.spotify.com/track/2o7Ry05Ujg5TURr0AZSeGE"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 219585,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Alguien Que Me Cure",
         "url": "https://open.spotify.com/album/3d8QWdjqxTBcQO0iJ6lFmD"
       },
@@ -3399,6 +3383,22 @@
       "duration_ms": 232500,
       "name": "Alguien Que Me Cure",
       "url": "https://open.spotify.com/track/5FDmrEfagyjBmiCrgymXiB"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 219585,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3455,22 +3455,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Borracho y Dolido",
-        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
-      },
-      "artists": [
-        {
-          "name": "Efecto SR",
-          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
-        }
-      ],
-      "duration_ms": 169079,
-      "name": "Borracho y Dolido",
-      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn"
       },
@@ -3483,6 +3467,22 @@
       "duration_ms": 174062,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Borracho y Dolido",
+        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
+      },
+      "artists": [
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        }
+      ],
+      "duration_ms": 169079,
+      "name": "Borracho y Dolido",
+      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3539,22 +3539,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz"
-      },
-      "artists": [
-        {
-          "name": "Astrid Cruz",
-          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
-        }
-      ],
-      "duration_ms": 266448,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Me Perd\u00ed",
         "url": "https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3"
       },
@@ -3567,6 +3551,22 @@
       "duration_ms": 164307,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        }
+      ],
+      "duration_ms": 266448,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3595,22 +3595,18 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Otra Cama",
-        "url": "https://open.spotify.com/album/2LVkPNWR7cEeDpVyHC5v81"
+        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
       },
       "artists": [
         {
-          "name": "Melodico",
-          "url": "https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Otra Cama",
-      "url": "https://open.spotify.com/track/3Jy0XeBUtcJAH1IrfPWbEI"
+      "duration_ms": 182913,
+      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3631,18 +3627,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
+        "name": "Otra Cama",
+        "url": "https://open.spotify.com/album/2LVkPNWR7cEeDpVyHC5v81"
       },
       "artists": [
         {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+          "name": "Melodico",
+          "url": "https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 182913,
-      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
+      "duration_ms": 210000,
+      "name": "Otra Cama",
+      "url": "https://open.spotify.com/track/3Jy0XeBUtcJAH1IrfPWbEI"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3915,22 +3915,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Lo que se va, Se va",
-        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
-      },
-      "artists": [
-        {
-          "name": "Nuco",
-          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
-        }
-      ],
-      "duration_ms": 177274,
-      "name": "Lo que se va, Se va",
-      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "El Hijo de Norma",
         "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
@@ -3947,6 +3931,22 @@
       "duration_ms": 195800,
       "name": "Monte de Venus",
       "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Lo que se va, Se va",
+        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
+      },
+      "artists": [
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        }
+      ],
+      "duration_ms": 177274,
+      "name": "Lo que se va, Se va",
+      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3987,22 +3987,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Vete Ya",
-        "url": "https://open.spotify.com/album/3ZuG3qNOTdepji3ltj0nhh"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        }
-      ],
-      "duration_ms": 149117,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/28M8uorPccxkeuwdQqotFd"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6wv6oeVA6fhIA6xXLb1knP"
       },
@@ -4015,6 +3999,22 @@
       "duration_ms": 267333,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/1RRyiDUte8aYs5YNzNIHyv"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Vete Ya",
+        "url": "https://open.spotify.com/album/3ZuG3qNOTdepji3ltj0nhh"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        }
+      ],
+      "duration_ms": 149117,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/28M8uorPccxkeuwdQqotFd"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -4595,22 +4595,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
       },
@@ -4623,6 +4607,22 @@
       "duration_ms": 203150,
       "name": "SE MARCHIT\u00d3 LA FLOR",
       "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": "2026-02-06 06:00:20",

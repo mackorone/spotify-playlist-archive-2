@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,604 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,694 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 27 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD) | 3:10 |
 | 28 | [El Amor Soñado](https://open.spotify.com/track/70ncc1JFwpmMxfmyfGC7nL) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/3wJhgrOnIBr48L7sHR1CXr) | 3:02 |
 | 29 | [Tú \(En Vivo\)](https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú \(En Vivo\)](https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy) | 4:23 |
-| 30 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
-| 31 | [Se Veía Venir](https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk) | 2:32 |
+| 30 | [Se Veía Venir](https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk) | 2:32 |
+| 31 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
 | 32 | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla) | 3:46 |
 | 33 | [Luna](https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:12 |
 | 34 | [Me Canse de Amarte](https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [Me Canse de Amarte](https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Cómo Pudiste \(En Vivo\)](https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Desde La Playa, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I) | 3:29 |
 | 50 | [En Realidad \(En Vivo\)](https://open.spotify.com/track/3TTDDA0X7UWMUG5qxJf4uq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/7G1Uu7W0FCmIVqSoDECDnA) | 3:28 |
 
-Snapshot ID: `aZj1gAAAAAAXWpp1WRprWS2cWkAet2NX`
+Snapshot ID: `aZpHAAAAAAAfQ3905rXS7VuhX0Wo90TS`

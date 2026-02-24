@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Theodora",
-  "num_followers": 320944,
+  "num_followers": 320948,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-13 00:00:16",
       "album": {
+        "name": "BIG 45",
+        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 224763,
+      "name": "BIG 45",
+      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
+    },
+    {
+      "added_at": "2026-02-13 00:00:16",
+      "album": {
         "name": "soso (JOSEPH Remix)",
         "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 291500,
       "name": "soso - JOSEPH Remix",
       "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
-    },
-    {
-      "added_at": "2026-02-13 00:00:16",
-      "album": {
-        "name": "BIG 45",
-        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 224763,
-      "name": "BIG 45",
-      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "added_at": "2026-02-13 00:00:16",

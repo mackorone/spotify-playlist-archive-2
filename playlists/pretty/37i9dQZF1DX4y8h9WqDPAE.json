@@ -1,6 +1,6 @@
 {
   "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Brent Faiyaz",
-  "num_followers": 1355,
+  "num_followers": 1376,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1641,6 +1641,22 @@
       "url": "https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt"
     },
     {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+    },
+    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "worst behaviour (feat. Kehlani)",
@@ -1661,22 +1677,6 @@
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
       "added_at": "2025-09-05 04:00:27",
       "album": {
         "name": "Top Down",
@@ -1693,20 +1693,20 @@
       "url": "https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Save The Day (From \"Hoppers\")",
-        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 172333,
-      "name": "Save The Day - From \"Hoppers\"",
-      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -1813,22 +1813,6 @@
       "url": "https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
-    },
-    {
       "added_at": "2025-05-30 04:19:50",
       "album": {
         "name": "MUTT Deluxe: HEEL",
@@ -1847,6 +1831,22 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -2081,6 +2081,22 @@
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
+      "added_at": "2025-09-19 05:34:59",
+      "album": {
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
+    },
+    {
       "added_at": "2025-10-03 04:48:40",
       "album": {
         "name": "go",
@@ -2099,22 +2115,6 @@
       "duration_ms": 142768,
       "name": "go",
       "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
-    },
-    {
-      "added_at": "2025-09-19 05:34:59",
-      "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2273,6 +2273,22 @@
       "url": "https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd"
     },
     {
+      "added_at": "2025-10-17 05:35:16",
+      "album": {
+        "name": "SAN ANDREAS",
+        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SAN ANDREAS",
+      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
+    },
+    {
       "added_at": "2025-10-10 07:15:28",
       "album": {
         "name": "XOXO",
@@ -2291,22 +2307,6 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2025-10-17 05:35:16",
-      "album": {
-        "name": "SAN ANDREAS",
-        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SAN ANDREAS",
-      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
       "added_at": "2025-08-08 07:10:20",

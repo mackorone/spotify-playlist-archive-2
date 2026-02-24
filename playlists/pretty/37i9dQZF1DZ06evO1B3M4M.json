@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 15150,
+  "num_followers": 15151,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACa+eB1VGCoQSx5kzI+fC1P",
+  "snapshot_id": "aZpHAAAAAAAvTEPuSL4xVLmKFuSqpyRs",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 124403,
+      "name": "Leta's Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Hidden Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 150440,
       "name": "Hope (From \"A Hidden Life\" Soundtrack)",
       "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 124403,
-      "name": "Leta's Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Village",
-        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 91426,
-      "name": "I Cannot See His Color - Score",
-      "url": "https://open.spotify.com/track/1kah7CwP1lws4gMPbopnPe"
+      "duration_ms": 237960,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+        "name": "The Village",
+        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 237960,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
+      "duration_ms": 91426,
+      "name": "I Cannot See His Color - Score",
+      "url": "https://open.spotify.com/track/1kah7CwP1lws4gMPbopnPe"
     },
     {
       "added_at": null,

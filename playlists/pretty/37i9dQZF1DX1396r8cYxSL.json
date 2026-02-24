@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 287557,
+  "num_followers": 287538,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Yasemin",
-        "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
-      },
-      "artists": [
-        {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        },
-        {
-          "name": "Serdar Orta\u00e7",
-          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Yasemin",
-      "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
         "url": "https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Yasemin",
+        "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Yasemin",
+      "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
     },
     {
       "added_at": "2025-09-05 15:48:11",

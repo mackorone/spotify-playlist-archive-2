@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CHUNG HA\)
 
-1,592 songs - 3 day 13 hr 22 min
+1,594 songs - 3 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-08 | 2022-10-28 |
 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-10-28 | 2025-12-19 |
 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-07-21 | 2024-06-24 |
-| [Backseat Promises](https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PULSEPHASE](https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp) | 3:34 | 2025-12-13 |  |
+| [Backseat Promises](https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PULSEPHASE](https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp) | 3:34 | 2025-12-13 | 2026-02-24 |
 | [bad \(Feat\. SURAN\)](https://open.spotify.com/track/2MuCBAgNvKIzEp9wOBk0O0) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [need that](https://open.spotify.com/album/6pHY07kq08B6UiU84lZRDi) | 3:16 | 2024-02-15 | 2024-02-27 |
 | [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-05-17 | 2023-08-26 |
 | [Bad Idea](https://open.spotify.com/track/5C5mQ012yrXCHJAdesRWrJ) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:18 | 2020-10-13\* | 2021-01-18 |
@@ -187,6 +187,7 @@
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-10 | 2022-07-30 |
 | [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-21 | 2025-08-21 |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-21 | 2022-05-19 |
+| [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 |  |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2020-10-13\* | 2021-02-15 |
 | [Boyfriend](https://open.spotify.com/track/5n1tIwuiCnsNWrJvBSpENm) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 2nd EP Album 'Dear Diary Moment'](https://open.spotify.com/album/0aTFAjXc6DQuBiJt3WePb9) | 3:18 | 2021-12-02 | 2022-01-17 |
 | [BRAIN](https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Chocolate Box](https://open.spotify.com/album/4ilhdkJzJudY6RBp0PifGw) | 3:28 | 2021-09-24 | 2021-10-30 |
@@ -407,7 +408,7 @@
 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-05-12 | 2025-07-09 |
 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-24 | 2023-05-24 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-04-30 | 2021-09-07 |
-| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 |  |
+| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 | 2026-02-24 |
 | [DUMB](https://open.spotify.com/track/5jqnpaGBgHNMTNIO6wZZzz) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/6QYmZNsB8JEqHybg99YYfM) | 2:09 | 2025-09-24 | 2025-10-29 |
 | [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-08-03 | 2021-11-12 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13\* | 2021-01-25 |
@@ -955,6 +956,7 @@
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-29 | 2022-10-15 |
 | [Never Ending Story](https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:44 | 2025-05-28 | 2025-07-15 |
 | [Never Let Me Go \(Korean Ver.\)](https://open.spotify.com/track/53qhnJwezZdvrH2wyaG8hb) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-02-09 | 2023-03-25 |
+| [Never Losing](https://open.spotify.com/track/3b0Bxz2ZxN8aYUAnNCnXqT) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Webtoon 'Return of the Blossoming Blade' Part.5 \(Original Soundtrack\)](https://open.spotify.com/album/4TBlwestyArrRwPgL2ZtIE) | 3:30 | 2026-02-23 |  |
 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-17 | 2025-05-13 |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-08-03 | 2023-09-22 |
 | [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-07 | 2025-01-11 |

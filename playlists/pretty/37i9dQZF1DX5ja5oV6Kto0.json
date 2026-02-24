@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110643,
+  "num_followers": 110655,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAALAlDn7taMeWi+/GX6bAiJbnKFbm",
   "tracks": [
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Nights In The Sun (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
-    },
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -227,18 +227,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "PRETTY WOMAN (WICKED)",
-        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
+        "name": "RHUDE GYAL! (with Darkoo)",
+        "url": "https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM"
       },
       "artists": [
         {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 199487,
-      "name": "PRETTY WOMAN (WICKED)",
-      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
+      "duration_ms": 157149,
+      "name": "RHUDE GYAL! (with Darkoo)",
+      "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "RHUDE GYAL! (with Darkoo)",
-        "url": "https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM"
+        "name": "PRETTY WOMAN (WICKED)",
+        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
       },
       "artists": [
         {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
         }
       ],
-      "duration_ms": 157149,
-      "name": "RHUDE GYAL! (with Darkoo)",
-      "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"
+      "duration_ms": 199487,
+      "name": "PRETTY WOMAN (WICKED)",
+      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -323,6 +323,22 @@
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -367,22 +383,6 @@
       "duration_ms": 140011,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/0UYnnfZV0qVoYspA88nYSi"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -767,6 +767,38 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bossa Nova",
+      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Lust In Lagos",
         "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
@@ -791,34 +823,22 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
+        "name": "Sinatanale",
+        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
       "artists": [
         {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bossa Nova",
-      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
-      },
-      "artists": [
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
         {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
         }
       ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+      "duration_ms": 214956,
+      "name": "Sinatanale",
+      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -863,26 +883,6 @@
       "duration_ms": 178775,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Sinatanale",
-        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Sinatanale",
-      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Crashout",
-        "url": "https://open.spotify.com/album/3UGq2pwp5Jki17wV9DUnjV"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 113348,
-      "name": "Crashout",
-      "url": "https://open.spotify.com/track/3uerMRzubyhmewGvT0twg7"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "444PLAY",
         "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 154960,
       "name": "i2SABI",
       "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Crashout",
+        "url": "https://open.spotify.com/album/3UGq2pwp5Jki17wV9DUnjV"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 113348,
+      "name": "Crashout",
+      "url": "https://open.spotify.com/track/3uerMRzubyhmewGvT0twg7"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG"
       },
@@ -1139,22 +1159,18 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
       "artists": [
         {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
         }
       ],
-      "duration_ms": 195505,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1211,46 +1211,6 @@
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Sweetest Time",
-        "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        },
-        {
-          "name": "Ywaya Tajiri",
-          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "Sweetest Time",
-      "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "Real One",
-        "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
-      },
-      "artists": [
-        {
-          "name": "Damare YK",
-          "url": "https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz"
-        },
-        {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1275,22 +1235,70 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Designer Baby",
-        "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
+        "name": "Sweetest Time",
+        "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
       },
       "artists": [
         {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
         },
         {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
         }
       ],
-      "duration_ms": 142138,
-      "name": "Designer Baby",
-      "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
+      "duration_ms": 154074,
+      "name": "Sweetest Time",
+      "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "STYLO",
+        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "UNiTY Originaal",
+          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
+        },
+        {
+          "name": "BayO",
+          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "STYLO",
+      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Real One",
+        "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
+      },
+      "artists": [
+        {
+          "name": "Damare YK",
+          "url": "https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz"
+        },
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1311,6 +1319,26 @@
       "duration_ms": 237683,
       "name": "Economy",
       "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "Designer Baby",
+        "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+        }
+      ],
+      "duration_ms": 142138,
+      "name": "Designer Baby",
+      "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1347,34 +1375,6 @@
       "duration_ms": 222516,
       "name": "SUGAR HONEY ICED TEA",
       "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
-        "name": "STYLO",
-        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
-      },
-      "artists": [
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "UNiTY Originaal",
-          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
-        },
-        {
-          "name": "BayO",
-          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
-        },
-        {
-          "name": "Kavali King",
-          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "STYLO",
-      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "added_at": "2026-02-20 00:01:30",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "LAGOS",
-        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "TR1GGA",
-          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "LAGOS",
-      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
-    },
-    {
-      "added_at": "2026-02-20 00:01:30",
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
       },
@@ -1511,18 +1491,42 @@
     {
       "added_at": "2026-02-20 00:01:30",
       "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX"
+        "name": "LAGOS",
+        "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
       },
       "artists": [
         {
-          "name": "Joyce Olong",
-          "url": "https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "TR1GGA",
+          "url": "https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3"
         }
       ],
-      "duration_ms": 233207,
-      "name": "Fool Me Once",
-      "url": "https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi"
+      "duration_ms": 180000,
+      "name": "LAGOS",
+      "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+    },
+    {
+      "added_at": "2026-02-20 00:01:30",
+      "album": {
+        "name": "4 DA PAIN",
+        "url": "https://open.spotify.com/album/0TM6jciackri09qoY3SV9s"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

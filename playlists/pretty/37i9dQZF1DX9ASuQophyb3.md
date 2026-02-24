@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Burak Bulut
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,067 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,127 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 8 | [Zombi](https://open.spotify.com/track/2XL0ZyenBeaveNqkhljwOf) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Zombi](https://open.spotify.com/album/6aZ0N7b7CxmKX6tNrFJnHK) | 2:57 |
 | 9 | [Anılarla Yaşamak](https://open.spotify.com/track/2fNpDMXbvucuOwgR10R62R) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Anılarla Yaşamak](https://open.spotify.com/album/6CaxGg3QYGEc2cmNo5I4O5) | 3:28 |
 | 10 | [Gece Puslu](https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Gece Puslu](https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw) | 2:39 |
-| 11 | [Gönlümün Efendisi](https://open.spotify.com/track/5rvf1b6Maos2XW4FQg0OGJ) | [Assala](https://open.spotify.com/artist/1pGpWJAc8q7SDm620WPbFN), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Gönlümün Efendisi](https://open.spotify.com/album/3mvJp0MiagSsCZ7x9Iiq84) | 2:41 |
+| 11 | [Gönlümün Efendisi](https://open.spotify.com/track/5rvf1b6Maos2XW4FQg0OGJ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Gönlümün Efendisi](https://open.spotify.com/album/3mvJp0MiagSsCZ7x9Iiq84) | 2:41 |
 | 12 | [Bi' Bilsen](https://open.spotify.com/track/1eq3J4tjs8hC5ig2WCL2pq) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Bi' Bilsen](https://open.spotify.com/album/4g9Ygza847MB663rOZjebX) | 2:31 |
 | 13 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 14 | [Yeni Fark Ettim](https://open.spotify.com/track/3cS7KC4GlAxfe8wG6rCbiY) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ) | [Yeni Fark Ettim](https://open.spotify.com/album/3dNF3bwlQmZHWHR4ZfSytO) | 3:40 |

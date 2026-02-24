@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Geolier in cover
 
-504 songs - 1 day 1 hr 56 min
+505 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-07-01 | 2024-09-24 |
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-07-01 | 2024-09-26 |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-12 | 2025-02-15 |
+| [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Nessuno qui é chi dovrebbe essere](https://open.spotify.com/album/54u4GvYfCExZ0EqYomX8i3) | 2:40 | 2026-02-23 |  |
 | [NEXT](https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [NEXT](https://open.spotify.com/album/2F36LMCm7c54Ik6cU0FFjD) | 3:13 | 2025-06-03 | 2025-06-27 |
 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 | 2025-09-23 | 2025-10-17 |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2024-10-17 | 2025-02-12 |

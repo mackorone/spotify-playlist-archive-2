@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 24144,
+  "num_followers": 24150,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAN8Ta55ANnP3jBaGoF5Yv4nJBbc5FP",
+  "snapshot_id": "AAAN8ugMmvSxiReGQa0fKp+J+9vGVKOe",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -1055,6 +1055,22 @@
       "duration_ms": 241258,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX"
+    },
+    {
+      "added_at": "2026-02-23 18:17:12",
+      "album": {
+        "name": "Paradise and Lunch",
+        "url": "https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Married Man's a Fool",
+      "url": "https://open.spotify.com/track/4adw6ESNlVjwuVuOjCdGrJ"
     }
   ],
   "unique_name": "now is not the time, the time is now",

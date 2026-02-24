@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,689 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,683 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 12 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 |
 | 13 | [Ding Dong](https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP) | [Chillow Pillow](https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp) | [Ding Dong](https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY) | 2:06 |
 | 14 | [secret santa](https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz) | [ao](https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3) | [secret santa](https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV) | 2:23 |
-| 15 | [rockin' around the christmas tree](https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [rockin' around the christmas tree](https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo) | 2:06 |
-| 16 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
+| 15 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
+| 16 | [rockin' around the christmas tree](https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [rockin' around the christmas tree](https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo) | 2:06 |
 | 17 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
 | 18 | [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 |
 | 19 | [Peaceful Memory](https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Peaceful Memory](https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi) | 2:15 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 28 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 29 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0rkxBtWwoutWGPDItsVnia) | 2:05 |
 | 30 | [This Christmas](https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [This Christmas](https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g) | 3:34 |
-| 31 | [O Come, All Ye Faithful](https://open.spotify.com/track/1Eq5DU2LAofEYtYP5ODxHw) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [O Come, All Ye Faithful](https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg) | 1:34 |
-| 32 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
+| 31 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
+| 32 | [O Come, All Ye Faithful](https://open.spotify.com/track/1Eq5DU2LAofEYtYP5ODxHw) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [O Come, All Ye Faithful](https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg) | 1:34 |
 | 33 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 |
 | 34 | [My Only Wish \(This Year\)](https://open.spotify.com/track/37gBHhtzdh7PSvgyTCwLWs) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3bA2BJC4ZbXNGHXj0bapKz) | 2:59 |
 | 35 | [Do They Know It's Christmas](https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Cozy Little Christmas](https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp) | 2:23 |

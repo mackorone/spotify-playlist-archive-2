@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 104003,
+  "num_followers": 104005,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAAuOcUQczq279qkJNUfEGjv",
+  "snapshot_id": "aZpHAAAAAAAMqMwiso/VtQWMwHnuyoZf",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Buena Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers",
         "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 224656,
       "name": "Adios Amor",
       "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
       "duration_ms": 187477,
       "name": "Por Siempre Mi Amor",
       "url": "https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Soy Tu Prioridad",
         "url": "https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 204274,
       "name": "No Soy Tu Prioridad",
       "url": "https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     }
   ],
   "unique_name": "This Is Carolina Ross",

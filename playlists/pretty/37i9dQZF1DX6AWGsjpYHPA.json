@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 186690,
+  "num_followers": 186736,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
         "name": "Slick",
         "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 353453,
       "name": "Intimate Friends",
       "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
     },
     {
       "added_at": "2026-01-09 05:00:43",

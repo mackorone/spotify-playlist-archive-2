@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,672 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,720 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 35 | [Dream Team](https://open.spotify.com/track/5Wcnoht44bKMUXjwyDT3nx) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Small Reveal](https://open.spotify.com/album/1vIW86LIYKvRwcfguVJvVn) | 7:07 |
 | 36 | [Hey You](https://open.spotify.com/track/2uj182abvSnMpx0CCwr0an) | [Chair Model](https://open.spotify.com/artist/1jcELLsqeruwbr9fafs2VI) | [V](https://open.spotify.com/album/7yq8eVFF1BqBiAO7hBThIr) | 2:29 |
 | 37 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
-| 38 | [Paradise](https://open.spotify.com/track/1yjznOLHmk9nMVskfYSMpr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/6QG66B6oznYRrMPLSXZqPZ) | 2:48 |
+| 38 | [Paradise](https://open.spotify.com/track/1yjznOLHmk9nMVskfYSMpr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/6QG66B6oznYRrMPLSXZqPZ) | 2:49 |
 | 39 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
 | 40 | [For Nothing](https://open.spotify.com/track/6uu7hTgI4v2Oyk7NKhkjB4) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 2:57 |
 | 41 | [Wild and Free](https://open.spotify.com/track/3qsl5j3xc2VmkuaGlJjN2T) | [That Kid CG](https://open.spotify.com/artist/0JGbaXZgaigAnUbKtQBwwK) | [My Tiny Planet 2](https://open.spotify.com/album/2B3raABHsJOlGWLFZOrWf1) | 2:20 |

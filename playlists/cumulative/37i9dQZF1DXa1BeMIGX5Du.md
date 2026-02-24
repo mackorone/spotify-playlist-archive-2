@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-453 songs - 1 day 3 hr 29 min
+455 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Falling Down](https://open.spotify.com/track/68GFPHr5LtadnQ8wOtramJ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/4h7Qc4WQRLAuyuRxEEDFkg) | 3:45 | 2022-03-25 | 2022-07-29 |
 | [Falling Down](https://open.spotify.com/track/6kDgPwCzPe0r7xKuO0CccZ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/4Ikrs58fDcSWZfJFuEivNJ) | 3:45 | 2022-10-10 | 2022-11-13 |
 | [Falling in Love at a Coffee Shop](https://open.spotify.com/track/5MrgVJzR1du1gz8XWe4m28) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [Coffee Shop](https://open.spotify.com/album/3yaXu0H76jxRdBPVx1Zikk) | 4:30 | 2022-03-25 | 2024-05-17 |
-| [Far From Home](https://open.spotify.com/track/7qwCxms6SRuWvT6BMxkesm) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Far From Home](https://open.spotify.com/album/3S179cs84LzHAFo2nrMN2d) | 4:20 | 2024-09-09 |  |
+| [Far From Home](https://open.spotify.com/track/7qwCxms6SRuWvT6BMxkesm) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Far From Home](https://open.spotify.com/album/3S179cs84LzHAFo2nrMN2d) | 4:20 | 2024-09-09 | 2026-02-24 |
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2022-03-25 | 2024-02-17 |
 | [Feel It All \(Willow's Song\)](https://open.spotify.com/track/3dX9bqoYbTZkoPK8ngw3rB) | [Brook St](https://open.spotify.com/artist/0XWlE5RXufPoqsxJgzrrfZ) | [Feel It All \(Willow's Song\)](https://open.spotify.com/album/4InqVLJwYKo5wMnaXggF6Z) | 2:59 | 2025-05-05 |  |
 | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb) | 4:22 | 2025-08-11 |  |
@@ -373,7 +373,7 @@
 | [Take My Hand](https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Take My Hand](https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB) | 3:17 | 2024-07-12 | 2025-09-09 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-05-09 | 2023-06-19 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-08 | 2024-02-17 |
-| [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 | 2025-06-16 |  |
+| [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 | 2025-06-16 | 2026-02-24 |
 | [Talk To Me](https://open.spotify.com/track/0SfMScKuKDOtDl9VNm64nv) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Talk To Me](https://open.spotify.com/album/4uG4LfViuKQNF3cqEQ2R6P) | 2:50 | 2022-03-25 | 2024-02-17 |
 | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2022-03-25 | 2022-08-26 |
 | [Technicolo\(u\)r](https://open.spotify.com/track/2mmckboySxLxoCXQ2zA8tu) | [Chris Lanzon](https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS) | [Technicolo\(u\)r](https://open.spotify.com/album/6LUFBuayZYRrvm8lwrUAhn) | 3:33 | 2024-07-02 | 2025-08-13 |
@@ -460,6 +460,8 @@
 | [You Don’t](https://open.spotify.com/track/4wxBy0t4F83qVAiHahe6kW) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [You Don’t](https://open.spotify.com/album/35cLRFjBHzSSAEKyacty64) | 3:43 | 2024-04-18 | 2024-12-10 |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-03-14 | 2024-05-24 |
 | [You Make Me So Mad \- B\-Side](https://open.spotify.com/track/2ysZa18IyDW6q9uT2T7OLI) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [You Make Me So Mad \(B\-Side\)](https://open.spotify.com/album/5tfzid1KYeJ8REiwkRiGLF) | 4:05 | 2024-04-02 | 2024-07-13 |
+| [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 | 2026-02-23 |  |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2022-03-25 | 2024-05-24 |
+| [Young & Green](https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek) | [Joely](https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg) | [Young & Green](https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf) | 4:00 | 2026-02-23 |  |
 
 \*This playlist was first scraped on 2022-04-14. Prior content cannot be recovered.

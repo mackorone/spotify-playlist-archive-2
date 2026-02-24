@@ -4,7 +4,7 @@
 
 > Danny L Harle e Dua Lipa in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,663 songs - 5 day 17 hr 3 min
+2,664 songs - 5 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [Le cose che fai](https://open.spotify.com/track/1GIsNM6rel2gJCglVjm6vr) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Le cose che fai](https://open.spotify.com/album/5cj7wqOoxdDYfxogkpTznk) | 2:55 | 2025-06-20 | 2025-07-18 |
 | [LE COSE NON DETTE \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6hdzQTMLKd2IiZIeWCzV7E) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [LE COSE NON DETTE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa) | 4:29 | 2026-01-15 | 2026-02-13 |
 | [Le ragazze della valle](https://open.spotify.com/track/4vJGG2hBGKMizpxf7CovgL) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/3zoFvFtix0uIdntQ65aRrt) | 2:52 | 2025-03-14 | 2025-04-10 |
+| [Lean On \- Alfa Remix](https://open.spotify.com/track/3Kt957qyAJk8OfthDT6yLq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Lean On \(Alfa Remix\)](https://open.spotify.com/album/054zDtUigew4AEaxKR9G7D) | 2:56 | 2026-02-23 |  |
 | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Learn To Love \(with Dean Lewis\)](https://open.spotify.com/album/2S3BmpJnHH9YthFFyNmv3e) | 3:33 | 2025-07-24 | 2025-09-05 |
 | [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/track/2VuE7OIkz0UiqsRuE7u919) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/album/6ek7FcUEtaVb6u3pTtXSIl) | 3:23 | 2025-10-02 | 2025-10-24 |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-22 | 2025-06-20 |

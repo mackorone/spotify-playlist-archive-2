@@ -4,7 +4,7 @@
 
 > é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por <a href="spotify:artist:7KVJCU4z5L4EUHILL8aMxR"> Léo Santana</a>.
 
-635 songs - 1 day 11 hr 37 min
+635 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [No Eres Tu](https://open.spotify.com/track/1esZIxT4rlaz3jojjXNdhI) | [Mamacita](https://open.spotify.com/artist/5c3fBRViKMPNY37XAi4aLp) | [No Eres Tu](https://open.spotify.com/album/14JaDqr5zzXPVqsRAmgYei) | 4:17 | 2024-03-19 | 2024-04-24 |
 | [Noite das Safadas](https://open.spotify.com/track/7MzrIZwgEyxTR80QLrzqvm) | [Mc Byana](https://open.spotify.com/artist/5PAKcGgjWmF0ktaUs4mp9n), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF), [MC Foca do Salgueiro](https://open.spotify.com/artist/2OVYX7Z6QEeBYuzrDnCL3f) | [Noite das Safadas](https://open.spotify.com/album/2Etv0BH0QIWHzaYd3cdHC7) | 1:55 | 2024-02-09 | 2024-03-20 |
 | [Nos Bailes Da Vida](https://open.spotify.com/track/7M2dW0OtPtMJgDJzn6qnZz) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Caçador De Mim](https://open.spotify.com/album/01zFz4ac6dhTga7MqEonsy) | 4:12 | 2024-12-16 | 2025-02-04 |
-| [Nossa gente \(Avisa lá\) \- Ao vivo](https://open.spotify.com/track/7Ezag3qynTbVKeKbGJMAXX) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [Nova série](https://open.spotify.com/album/4h7BWiVNgHURUP8fiPWmGP) | 3:06 | 2025-02-27 |  |
+| [Nossa gente \(Avisa lá\) \- Ao vivo](https://open.spotify.com/track/7Ezag3qynTbVKeKbGJMAXX) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [Nova série](https://open.spotify.com/album/4h7BWiVNgHURUP8fiPWmGP) | 3:09 | 2025-02-27 |  |
 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 | 2024-08-28 | 2025-02-27 |
 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 | 2023-12-14 | 2025-02-27 |
 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 | 2024-02-09 | 2024-03-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,057 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,062 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 7 | [I’m Going To Die](https://open.spotify.com/track/1GGqXiVW58oZV5DckGpAae) | [Leroy Clampitt](https://open.spotify.com/artist/1RKdNxma7zLA5FAyt5ghJ7) | [I’m Going To Die](https://open.spotify.com/album/17clQoJXEn7XKT522d0WBY) | 3:00 |
 | 8 | [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 |
 | 9 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
-| 10 | [Greed](https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Greed](https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt) | 1:59 |
-| 11 | [Helen's Door](https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Helen's Door](https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30) | 2:34 |
-| 12 | [welcome to the circus](https://open.spotify.com/track/5P0qbInlE4sGJHJC9BWnJ2) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria), [sir lucius](https://open.spotify.com/artist/2GyZOs6TByR90s61Dj7q2y) | [welcome to the circus](https://open.spotify.com/album/6GByd1o3bvlwbVwazyvsTf) | 2:29 |
-| 13 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
+| 10 | [welcome to the circus](https://open.spotify.com/track/5P0qbInlE4sGJHJC9BWnJ2) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria), [sir lucius](https://open.spotify.com/artist/2GyZOs6TByR90s61Dj7q2y) | [welcome to the circus](https://open.spotify.com/album/6GByd1o3bvlwbVwazyvsTf) | 2:29 |
+| 11 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
+| 12 | [Greed](https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Greed](https://open.spotify.com/album/0IhfnMkCpFd7ZrNHHWoLqt) | 1:59 |
+| 13 | [Helen's Door](https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Helen's Door](https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30) | 2:34 |
 | 14 | [The Lady on the Moon](https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [The Lady on the Moon](https://open.spotify.com/album/5pe3vvxYN2JVSy7KQv0hyb) | 3:07 |
 | 15 | [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 |
 | 16 | [Numbers 31:17\-18](https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Numbers 31:17\-18](https://open.spotify.com/album/5sZ1NEQVwz1jizFMf4DuW9) | 5:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 74 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 75 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 
-Snapshot ID: `AAAAAP06K6/vOEqd9Y28SB5TVGTTOaoF`
+Snapshot ID: `AAAAAOczL/KJ0L0BFCN40KKgfqL18d/5`

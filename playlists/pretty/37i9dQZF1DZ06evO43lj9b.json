@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16519,
+  "num_followers": 16518,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAB6F6Tf8TsgerP8Wd9F4e+w",
+  "snapshot_id": "aZpHAAAAAADZGrboN/qxeX1J1q+vvFhq",
   "tracks": [
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eardrum",
         "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 235973,
       "name": "In the Mood (feat. Kanye West & Roy Ayers)",
       "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Share My World",
         "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 305800,
       "name": "Searching",
       "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Can't You See Me",
-      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Black & Green",
         "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 334360,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 418173,
+      "name": "Can't You See Me",
+      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 350546,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Black & Green",
         "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 280466,
       "name": "Red, Black & Green",
       "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 350546,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 333173,
+      "name": "Papa Was A Rolling Stone",
+      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 205167,
       "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
       "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Papa Was A Rolling Stone",
-      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
     },
     {
       "added_at": null,

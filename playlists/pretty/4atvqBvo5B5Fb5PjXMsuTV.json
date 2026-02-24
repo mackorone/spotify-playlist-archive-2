@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date. Updated 22 Feb 19:10 UTC.",
+  "description": "Latest popular single releases. Sorted by release date. Updated 23 Feb 14:11 UTC.",
   "num_followers": 104,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAX0V1V5tfPdsYbNtBKDYZI7goTW7XT",
+  "snapshot_id": "AAAX1wpgcIrxRVRsKUyCBDOSFG6X3Rx4",
   "tracks": [
     {
       "added_at": "2026-02-22 19:10:54",
@@ -43,6 +43,86 @@
       "duration_ms": 56295,
       "name": "2slimey Cypher Verse",
       "url": "https://open.spotify.com/track/72CShl84O029FOIWp7BTkA"
+    },
+    {
+      "added_at": "2026-02-23 09:11:13",
+      "album": {
+        "name": "Talinwya Cypher Verse",
+        "url": "https://open.spotify.com/album/2ZD88Q1OmVSmJe8WluWoxr"
+      },
+      "artists": [
+        {
+          "name": "Talinwya",
+          "url": "https://open.spotify.com/artist/1Af9liBbcfmyCndaBv3mfT"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "duration_ms": 72528,
+      "name": "Talinwya Cypher Verse",
+      "url": "https://open.spotify.com/track/5OQR2cUjL8DP1SoA1abBMq"
+    },
+    {
+      "added_at": "2026-02-23 04:10:55",
+      "album": {
+        "name": "RainingLol Cypher Verse",
+        "url": "https://open.spotify.com/album/261n2CpwSnThnJsngIPNIf"
+      },
+      "artists": [
+        {
+          "name": "RainingLol",
+          "url": "https://open.spotify.com/artist/0RjbAMBJM7SiXDXRBMNlNk"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "duration_ms": 61083,
+      "name": "RainingLol Cypher Verse",
+      "url": "https://open.spotify.com/track/2BRUhu1J2gDfmGJBEzvDLy"
+    },
+    {
+      "added_at": "2026-02-23 09:11:13",
+      "album": {
+        "name": "Captain Swag Cypher Verse",
+        "url": "https://open.spotify.com/album/3b2xcuID3N4D3I032RvmbC"
+      },
+      "artists": [
+        {
+          "name": "Captain Swag",
+          "url": "https://open.spotify.com/artist/5SGRWQywtyYwT2Cq5ykYuo"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "duration_ms": 73016,
+      "name": "Captain Swag Cypher Verse",
+      "url": "https://open.spotify.com/track/16gkHuPSMY1CITGzEE7yr4"
+    },
+    {
+      "added_at": "2026-02-23 14:11:00",
+      "album": {
+        "name": "Hollowtiphero Cypher Verse",
+        "url": "https://open.spotify.com/album/3ufPycG1BNalvfEAbQuPNj"
+      },
+      "artists": [
+        {
+          "name": "hollowtiphero",
+          "url": "https://open.spotify.com/artist/7GUGZiTB1B5DZWh4zOBWu8"
+        },
+        {
+          "name": "Underground Sound",
+          "url": "https://open.spotify.com/artist/4ZgFJ4vTDoRIBVCQmnHnrD"
+        }
+      ],
+      "duration_ms": 58155,
+      "name": "Hollowtiphero Cypher Verse",
+      "url": "https://open.spotify.com/track/5wgEPVaz75KCQnMRAoPYe2"
     },
     {
       "added_at": "2026-02-20 09:11:15",
@@ -197,22 +277,6 @@
       "url": "https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52"
     },
     {
-      "added_at": "2026-02-20 19:11:01",
-      "album": {
-        "name": "Dead Presidents",
-        "url": "https://open.spotify.com/album/1AoeV2p2S3OMLulsszLKoA"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
-      "url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp"
-    },
-    {
       "added_at": "2026-02-20 14:11:07",
       "album": {
         "name": "RUDE!",
@@ -231,18 +295,18 @@
     {
       "added_at": "2026-02-20 19:11:01",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+        "name": "Dead Presidents",
+        "url": "https://open.spotify.com/album/1AoeV2p2S3OMLulsszLKoA"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+      "duration_ms": 213200,
+      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
+      "url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp"
     },
     {
       "added_at": "2026-02-20 09:11:15",
@@ -311,42 +375,6 @@
     {
       "added_at": "2026-02-20 23:10:54",
       "album": {
-        "name": "Unnecessary",
-        "url": "https://open.spotify.com/album/5W4aWBcPHu9DykPFR8EEcF"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Unnecessary",
-      "url": "https://open.spotify.com/track/4lkYfGysQoLMlDCno1mhkf"
-    },
-    {
-      "added_at": "2026-02-20 14:11:07",
-      "album": {
-        "name": "darling",
-        "url": "https://open.spotify.com/album/7yQwXM1iUQoUm3WcAxBcdT"
-      },
-      "artists": [
-        {
-          "name": "Egobreak",
-          "url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
-        },
-        {
-          "name": "Lucy Bedroque",
-          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "darling",
-      "url": "https://open.spotify.com/track/5SDsIlan0VD3oSYPibpXTQ"
-    },
-    {
-      "added_at": "2026-02-20 23:10:54",
-      "album": {
         "name": "Can't Stop The Throb",
         "url": "https://open.spotify.com/album/1qNBAnTxHfz8KZbuj6XnjJ"
       },
@@ -377,48 +405,56 @@
       "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
-      "added_at": "2026-02-20 04:10:53",
+      "added_at": "2026-02-20 23:10:54",
       "album": {
-        "name": "ROSITA",
-        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+        "name": "Unnecessary",
+        "url": "https://open.spotify.com/album/5W4aWBcPHu9DykPFR8EEcF"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
         }
       ],
-      "duration_ms": 245469,
-      "name": "ROSITA",
-      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
+      "duration_ms": 115200,
+      "name": "Unnecessary",
+      "url": "https://open.spotify.com/track/4lkYfGysQoLMlDCno1mhkf"
     },
     {
       "added_at": "2026-02-20 19:11:01",
       "album": {
-        "name": "Begging for Change",
-        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 260550,
-      "name": "Begging for Change",
-      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "added_at": "2026-02-20 14:11:07",
+      "album": {
+        "name": "darling",
+        "url": "https://open.spotify.com/album/7yQwXM1iUQoUm3WcAxBcdT"
+      },
+      "artists": [
+        {
+          "name": "Egobreak",
+          "url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
+        },
+        {
+          "name": "Lucy Bedroque",
+          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "darling",
+      "url": "https://open.spotify.com/track/5SDsIlan0VD3oSYPibpXTQ"
     },
     {
       "added_at": "2026-02-19 14:10:54",
@@ -453,6 +489,46 @@
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
     },
     {
+      "added_at": "2026-02-20 04:10:53",
+      "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
+    },
+    {
+      "added_at": "2026-02-23 14:11:00",
+      "album": {
+        "name": "To The Last Breath",
+        "url": "https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "To The Last Breath",
+      "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
+    },
+    {
       "added_at": "2026-02-19 19:11:11",
       "album": {
         "name": "STAMPEDE",
@@ -467,6 +543,26 @@
       "duration_ms": 189200,
       "name": "STAMPEDE",
       "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
+    },
+    {
+      "added_at": "2026-02-20 19:11:01",
+      "album": {
+        "name": "Begging for Change",
+        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 260550,
+      "name": "Begging for Change",
+      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
     },
     {
       "added_at": "2026-02-19 19:11:11",
@@ -489,38 +585,6 @@
       "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
     },
     {
-      "added_at": "2026-02-18 19:11:00",
-      "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 232874,
-      "name": "Angel Wings",
-      "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
-    },
-    {
-      "added_at": "2026-02-18 19:11:00",
-      "album": {
-        "name": "Knowledge | Understanding | Wisdom",
-        "url": "https://open.spotify.com/album/575NnqnTEeGcuJ0A4jbKIv"
-      },
-      "artists": [
-        {
-          "name": "d\u00e4lek",
-          "url": "https://open.spotify.com/artist/1zDrsLJJfYel0jJruLe4Yp"
-        }
-      ],
-      "duration_ms": 340125,
-      "name": "Knowledge | Understanding | Wisdom",
-      "url": "https://open.spotify.com/track/6MLsN3FC4lwDDStOq9XzCH"
-    },
-    {
       "added_at": "2026-02-18 23:11:01",
       "album": {
         "name": "My Maker",
@@ -537,20 +601,20 @@
       "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
-      "added_at": "2026-02-21 04:10:54",
+      "added_at": "2026-02-18 19:11:00",
       "album": {
-        "name": "Everything Hurts",
-        "url": "https://open.spotify.com/album/7tXRiGfV0oq1U73pg2m1m9"
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
       },
       "artists": [
         {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
         }
       ],
-      "duration_ms": 243880,
-      "name": "Everything Hurts",
-      "url": "https://open.spotify.com/track/75XTItnlplPmpk9bbFjA7R"
+      "duration_ms": 232874,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
     },
     {
       "added_at": "2026-02-18 19:11:00",
@@ -573,24 +637,36 @@
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
-      "added_at": "2026-02-18 19:11:00",
+      "added_at": "2026-02-21 04:10:54",
       "album": {
-        "name": "HEY TONY!",
-        "url": "https://open.spotify.com/album/2zs0GVCzgBvCtDBSdRn8Q9"
+        "name": "Everything Hurts",
+        "url": "https://open.spotify.com/album/7tXRiGfV0oq1U73pg2m1m9"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Tony the Tiger",
-          "url": "https://open.spotify.com/artist/1VX6zud00ONkupTmimRl71"
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
         }
       ],
-      "duration_ms": 87741,
-      "name": "HEY TONY!",
-      "url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA"
+      "duration_ms": 243880,
+      "name": "Everything Hurts",
+      "url": "https://open.spotify.com/track/75XTItnlplPmpk9bbFjA7R"
+    },
+    {
+      "added_at": "2026-02-18 19:11:00",
+      "album": {
+        "name": "Knowledge | Understanding | Wisdom",
+        "url": "https://open.spotify.com/album/575NnqnTEeGcuJ0A4jbKIv"
+      },
+      "artists": [
+        {
+          "name": "d\u00e4lek",
+          "url": "https://open.spotify.com/artist/1zDrsLJJfYel0jJruLe4Yp"
+        }
+      ],
+      "duration_ms": 340125,
+      "name": "Knowledge | Understanding | Wisdom",
+      "url": "https://open.spotify.com/track/6MLsN3FC4lwDDStOq9XzCH"
     },
     {
       "added_at": "2026-02-19 04:10:59",
@@ -613,6 +689,26 @@
       "url": "https://open.spotify.com/track/1eFlgteVBxHpbDy2b5iJuM"
     },
     {
+      "added_at": "2026-02-18 19:11:00",
+      "album": {
+        "name": "HEY TONY!",
+        "url": "https://open.spotify.com/album/2zs0GVCzgBvCtDBSdRn8Q9"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Tony the Tiger",
+          "url": "https://open.spotify.com/artist/1VX6zud00ONkupTmimRl71"
+        }
+      ],
+      "duration_ms": 87741,
+      "name": "HEY TONY!",
+      "url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA"
+    },
+    {
       "added_at": "2026-02-21 19:11:02",
       "album": {
         "name": "SPEED DEMON",
@@ -629,42 +725,6 @@
       "url": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
     },
     {
-      "added_at": "2026-02-17 23:11:10",
-      "album": {
-        "name": "Safe And Sound",
-        "url": "https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 201270,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F"
-    },
-    {
-      "added_at": "2026-02-17 23:11:10",
-      "album": {
-        "name": "She Knows Too Much",
-        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "She Knows Too Much",
-      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
-    },
-    {
       "added_at": "2026-02-18 19:11:00",
       "album": {
         "name": "The Air's on Fire",
@@ -679,6 +739,38 @@
       "duration_ms": 315786,
       "name": "The Air's on Fire",
       "url": "https://open.spotify.com/track/1hhr5qwlslKMdGtfzY8xLF"
+    },
+    {
+      "added_at": "2026-02-17 19:10:59",
+      "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+    },
+    {
+      "added_at": "2026-02-17 23:11:10",
+      "album": {
+        "name": "Safe And Sound",
+        "url": "https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 201270,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F"
     },
     {
       "added_at": "2026-02-20 19:11:01",
@@ -713,38 +805,6 @@
       "url": "https://open.spotify.com/track/71sG2ZLzf2EBQsiVPNc4T8"
     },
     {
-      "added_at": "2026-02-18 04:10:56",
-      "album": {
-        "name": "Drag Path",
-        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Drag Path",
-      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
-    },
-    {
-      "added_at": "2026-02-17 19:10:59",
-      "album": {
-        "name": "White Feather Hawk Tail Deer Hunter",
-        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 234049,
-      "name": "White Feather Hawk Tail Deer Hunter",
-      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
-    },
-    {
       "added_at": "2026-02-18 19:11:00",
       "album": {
         "name": "only the best",
@@ -759,6 +819,42 @@
       "duration_ms": 202525,
       "name": "only the best",
       "url": "https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW"
+    },
+    {
+      "added_at": "2026-02-17 23:11:10",
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "added_at": "2026-02-18 04:10:56",
+      "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
       "added_at": "2026-02-17 19:10:59",
@@ -795,86 +891,6 @@
       "duration_ms": 271095,
       "name": "Let's Do It Again!",
       "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
-    },
-    {
-      "added_at": "2026-02-16 19:11:21",
-      "album": {
-        "name": "Ferto",
-        "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
-      },
-      "artists": [
-        {
-          "name": "Akylas",
-          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ferto",
-      "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
-    },
-    {
-      "added_at": "2026-02-15 09:10:49",
-      "album": {
-        "name": "ATLANTIS",
-        "url": "https://open.spotify.com/album/7xWHHBs0UQKz15bM9IYiVi"
-      },
-      "artists": [
-        {
-          "name": "Glorb",
-          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "ATLANTIS",
-      "url": "https://open.spotify.com/track/5Zb6uBDTjyYL3QJIn3FO3c"
-    },
-    {
-      "added_at": "2026-02-17 04:10:57",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/4Hxo5xCtkCoEeSM5OQwJ95"
-      },
-      "artists": [
-        {
-          "name": "K3VIN_G",
-          "url": "https://open.spotify.com/artist/34YW0eDdgfllT3XsXDbFyP"
-        }
-      ],
-      "duration_ms": 145768,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7CrTxQI4tDUqNODxzvhvmm"
-    },
-    {
-      "added_at": "2026-02-14 15:26:54",
-      "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-02-14 17:55:04",
-      "album": {
-        "name": "JR SMITH",
-        "url": "https://open.spotify.com/album/3HCm7Xg4TdOxxxzFVSxWfI"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 129503,
-      "name": "JR SMITH",
-      "url": "https://open.spotify.com/track/2ggkCuuS2ANSZ8Oe1nUUbh"
     }
   ],
   "unique_name": "New Singles Now",

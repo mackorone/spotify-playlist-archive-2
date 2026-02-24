@@ -2,9 +2,9 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: A Boogie
+> Up and down I\-95\. Cover: Lil Uzi Vert
 
-1,938 songs - 3 day 15 hr 59 min
+1,939 songs - 3 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [2016](https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Same Ole Bizzy](https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs) | 2:42 | 2022-12-16 | 2023-05-06 |
 | [2016](https://open.spotify.com/track/2nmChkMss0FEoKEWfCLGRp) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever \(Deluxe\)](https://open.spotify.com/album/0iNOc23OadZLeGuk1VIz4l) | 2:05 | 2025-06-20 | 2025-06-28 |
 | [2024 \(feat\. TJ Porter\)](https://open.spotify.com/track/7hcqv31Jc6a8td13pmGetO) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4) | [Splash Brothers 2](https://open.spotify.com/album/57KFoQnigbbz6v8xcqr7XJ) | 2:31 | 2024-04-19 | 2024-05-11 |
-| [22 Questions](https://open.spotify.com/track/41OrzOlx7GIACgOG2ZfKz9) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [22 Questions](https://open.spotify.com/album/4JY8CzpUOtB9628NKHPHEh) | 2:59 | 2026-01-30 |  |
+| [22 Questions](https://open.spotify.com/track/41OrzOlx7GIACgOG2ZfKz9) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [22 Questions](https://open.spotify.com/album/4JY8CzpUOtB9628NKHPHEh) | 2:59 | 2026-01-30 | 2026-02-24 |
 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 | 2023-10-27 | 2024-03-23 |
 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 | 2022-12-30 | 2023-04-01 |
 | [2Deep \(feat\. Kenzo B\)](https://open.spotify.com/track/6Zj3a93pZzni1VZNhxkFt3) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv), [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [GMTO Vol\. 2 \(Get Money Take Over\)](https://open.spotify.com/album/4Rlq4phDZy1DmoL1S7WOws) | 2:02 | 2024-03-08 | 2024-03-23 |
@@ -113,6 +113,7 @@
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2023-09-15 | 2025-04-12 |
 | [Any Second](https://open.spotify.com/track/6uutbgDc16Bu74bpmpkA6k) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Any Second](https://open.spotify.com/album/18HOlFvpNYKCPdwy2kbDxx) | 2:53 | 2022-03-11 | 2022-05-07 |
 | [Apex](https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Apex](https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm) | 2:07 | 2025-02-28 | 2025-04-19 |
+| [Arch Ya Back](https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi) | [Prod Jay48](https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp), [Obvdiah](https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Arch Ya Back](https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58) | 1:49 | 2026-02-24 |  |
 | [Arctic Tundra \(feat\. Juice WRLD\)](https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 4:29 | 2024-11-22 | 2025-07-05 |
 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 | 2025-02-07 | 2025-02-15 |
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 | 2022-03-18 |

@@ -1,15 +1,31 @@
 {
   "description": "This is METTE. The essential tracks, all in one playlist.",
-  "num_followers": 3904,
+  "num_followers": 3902,
   "original_name": "This is METTE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtFRtClV2N3McsZuTPB+8x89Rah",
+  "snapshot_id": "AAAAAJvIBOABkOCMLhBN9Tgx36VMpk43",
   "tracks": [
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
+      "album": {
+        "name": "ANXIOUS TO LOVE YOU",
+        "url": "https://open.spotify.com/album/0ZZRL43AgpJAna8uDH1b0w"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "ANXIOUS TO LOVE YOU",
+      "url": "https://open.spotify.com/track/7nCKE7GbXitx9sLjc7jmqV"
+    },
+    {
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "MUSCLE",
         "url": "https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "BET",
         "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "MAMA'S EYES",
         "url": "https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "DARLING DRIVE",
         "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "VAN GOGH",
         "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "FOR THE PEOPLE",
         "url": "https://open.spotify.com/album/34wcoE6wTdaCMpZtHVdbSc"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/2X6YKBVsLzOUwCVQdfDDIK"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "Petrified",
         "url": "https://open.spotify.com/album/4JnzajBqOFm1zSbYxLQzG8"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/1GCw6fGJMH36Lokn7Tj4eX"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "METTENARRATIVE",
         "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "METTENARRATIVE",
         "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/1MWfZyZ8qIu1D2xEN1OuQB"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "METTENARRATIVE",
         "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0"
     },
     {
-      "added_at": "2024-06-28 04:13:24",
+      "added_at": "2026-02-23 16:14:41",
       "album": {
         "name": "Mama's Eyes (The Remixes 2.0)",
         "url": "https://open.spotify.com/album/3a8akjQCorL9I4V1sEQNmV"

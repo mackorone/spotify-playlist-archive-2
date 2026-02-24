@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,000 likes - 440 songs - 22 hr 53 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,004 likes - 440 songs - 22 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -449,4 +449,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 439 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 440 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAE9oUV04I3BcnA8ZlH5+WVDThzVoCO`
+Snapshot ID: `AAAE9ydNvOi1gCwgn2y9nVpAGyvqEkDd`

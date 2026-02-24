@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-130 songs - 7 hr 40 min
+131 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [I Miss Those Days](https://open.spotify.com/track/5IGJeKM3MrTH4xv2fxrUoE) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [I Miss Those Days](https://open.spotify.com/album/1b35r69UIIPMKTtaMrELm1) | 4:11 | 2025-08-22 |  |
 | [I Miss You](https://open.spotify.com/track/50g5wuIVDwfoLlJNDZzrBk) | [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB), [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [I Miss You](https://open.spotify.com/album/3cBzAprrLDA8YHS1Yr7yXr) | 5:32 | 2023-10-14 |  |
 | [I'm A Rockstar \(Instrumental\) \[Bonus Track\]](https://open.spotify.com/track/7j5xa1i4QPuCeOv21983Fv) | [daMFmastermind](https://open.spotify.com/artist/57PgIF6T168oKPr8QxGV30) | [More Dead Than Not](https://open.spotify.com/album/3uKvg5A1nz8dv7Atgtns69) | 2:55 | 2024-12-14 |  |
+| [I'm Not My Brain \- Smooth Jazz Version](https://open.spotify.com/track/4dok81glpUJ6CmL7q6jrhk) | [Dario Margeli](https://open.spotify.com/artist/7mxNhEknpLj1TyWByXLrlt) | [I'm Not My Brain \(Smooth Jazz Version\)](https://open.spotify.com/album/2GrDB4ACxBI2Zfj3MUXOYE) | 4:29 | 2026-02-23 |  |
 | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/track/5JoVGZVHWEw9YX29Q9qoR0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/album/5qMRcGq5Mi2sRpnS2QZMH3) | 3:56 | 2026-02-01 |  |
 | [In My Way](https://open.spotify.com/track/4Cc2l0New2b1H1xo0YcKgu) | [Florin Gindu](https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k) | [In My Way](https://open.spotify.com/album/1VONvnDOsrBbequpLPtl64) | 1:25 | 2023-10-14 |  |
 | [Inspiration](https://open.spotify.com/track/7kJe4f5qvxkSQEMS5N5wCl) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Inspiration](https://open.spotify.com/album/31sfUoh8zXgKOb509lxj3y) | 4:56 | 2024-03-08 |  |

@@ -2207,6 +2207,32 @@
     },
     {
       "album": {
+        "name": "MI AMI MI ODI",
+        "url": "https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176938,
+      "name": "Yakuza",
+      "url": "https://open.spotify.com/track/4Cd1cCCqG3nlf07i5A0IPH"
+    },
+    {
+      "album": {
         "name": "Anime parallele",
         "url": "https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF"
       },

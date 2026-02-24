@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,741 likes - 430 songs - 1 day 0 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,746 likes - 430 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 16 | [Bingo](https://open.spotify.com/track/7x9gGMQc0Q5ddWtgLOyJfV) | [Grant Winters](https://open.spotify.com/artist/4dqbT6NZ6Nq5qpQhx64fTz) | [Bingo](https://open.spotify.com/album/6IyNkP7Go7I1CXvwtpDW3l) | 3:27 |
 | 17 | [I'll Fall Again](https://open.spotify.com/track/00BkLKA5wGUtGiFxaLF0ro) | [Beau Lucas](https://open.spotify.com/artist/38m8gWaObFETioYwkwfg07) | [I'll Fall Again](https://open.spotify.com/album/4cX9qYZwKDAQJTOqtMTrAC) | 3:39 |
 | 18 | [Treasure](https://open.spotify.com/track/5CBUm3TsS2X1lmmL48DEq9) | [People I Love](https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ) | [Treasure](https://open.spotify.com/album/4AzhFhuxf3nTPNoKrxHfoH) | 3:48 |
-| 19 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
-| 20 | [Four](https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Four](https://open.spotify.com/album/58N5E4VQs8F3KuhPFBOf9Y) | 2:44 |
-| 21 | [Pop](https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Rock Candy](https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8) | 1:50 |
-| 22 | [love love love](https://open.spotify.com/track/6pTTpk6Q8JvxLW779LiTKH) | [the death of internet](https://open.spotify.com/artist/6w4oq7sY6HdgZF8lt8wwFN) | [love love love](https://open.spotify.com/album/7oACCo89YSzsYqR2kI8Chp) | 3:21 |
-| 23 | [Slow High](https://open.spotify.com/track/7wgHkDKCvsGYlSi2WbQrgI) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Slow High](https://open.spotify.com/album/7a4RhELoCxUXtPvsVv4HnS) | 3:24 |
-| 24 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
-| 25 | [Just Chemistry](https://open.spotify.com/track/7CPnUNBJpRAlXl1LOb9KGD) | [Dance Lessons](https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na) | [Beginners](https://open.spotify.com/album/4xsWzLYA4wlx5KNuFdNtEh) | 3:58 |
-| 26 | [A New Paradigm](https://open.spotify.com/track/4EIeiXHSYOCKamQ04xczQj) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [A New Paradigm](https://open.spotify.com/album/7dKtCITHxBdw6HBrMsujr3) | 3:08 |
-| 27 | [Bite The Hand](https://open.spotify.com/track/5DUOQ18FJgfD00f2gzxCGl) | [No Singing](https://open.spotify.com/artist/6k0w0R6YZ6eXMVdfw0DXpV), [Belaver](https://open.spotify.com/artist/5lLWdE6rKZbPxuns5haKqZ) | [Funurinal Songs](https://open.spotify.com/album/0XD84lim1BWaS0YjS6qDt8) | 3:11 |
-| 28 | [Burst](https://open.spotify.com/track/5qxcLfM0n0QNUvdi1mKkVd) | [Snowcuffs](https://open.spotify.com/artist/4VxgA0WpOM5uAsH3FegAfH) | [Burst](https://open.spotify.com/album/5vzfHsnrRQn7NqAfMAmrOu) | 3:34 |
-| 29 | [Deadlift](https://open.spotify.com/track/2z8aRXBy1B7iexJLLQ876Q) | [Stuck](https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a) | [Deadlift](https://open.spotify.com/album/4eyraPUcpeMpWVBevvQx1H) | 3:45 |
-| 30 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
-| 31 | [Liquid Heaven](https://open.spotify.com/track/4ioA1uMcBKAksm5C1te4n1) | [Sundozer](https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW) | [Liquid Heaven](https://open.spotify.com/album/6dDbswJOP3MrYMJ4HSRmt7) | 3:46 |
-| 32 | [Circus Clown](https://open.spotify.com/track/3ivUULyDompLCGZWbfgC3r) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 2:05 |
+| 19 | [Bite The Hand](https://open.spotify.com/track/5DUOQ18FJgfD00f2gzxCGl) | [No Singing](https://open.spotify.com/artist/6k0w0R6YZ6eXMVdfw0DXpV), [Belaver](https://open.spotify.com/artist/5lLWdE6rKZbPxuns5haKqZ) | [Funurinal Songs](https://open.spotify.com/album/0XD84lim1BWaS0YjS6qDt8) | 3:11 |
+| 20 | [Burst](https://open.spotify.com/track/5qxcLfM0n0QNUvdi1mKkVd) | [Snowcuffs](https://open.spotify.com/artist/4VxgA0WpOM5uAsH3FegAfH) | [Burst](https://open.spotify.com/album/5vzfHsnrRQn7NqAfMAmrOu) | 3:34 |
+| 21 | [Deadlift](https://open.spotify.com/track/2z8aRXBy1B7iexJLLQ876Q) | [Stuck](https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a) | [Deadlift](https://open.spotify.com/album/4eyraPUcpeMpWVBevvQx1H) | 3:45 |
+| 22 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
+| 23 | [Liquid Heaven](https://open.spotify.com/track/4ioA1uMcBKAksm5C1te4n1) | [Sundozer](https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW) | [Liquid Heaven](https://open.spotify.com/album/6dDbswJOP3MrYMJ4HSRmt7) | 3:46 |
+| 24 | [Circus Clown](https://open.spotify.com/track/3ivUULyDompLCGZWbfgC3r) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 2:05 |
+| 25 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
+| 26 | [Four](https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Four](https://open.spotify.com/album/58N5E4VQs8F3KuhPFBOf9Y) | 2:44 |
+| 27 | [Pop](https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Rock Candy](https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8) | 1:50 |
+| 28 | [love love love](https://open.spotify.com/track/6pTTpk6Q8JvxLW779LiTKH) | [the death of internet](https://open.spotify.com/artist/6w4oq7sY6HdgZF8lt8wwFN) | [love love love](https://open.spotify.com/album/7oACCo89YSzsYqR2kI8Chp) | 3:21 |
+| 29 | [Slow High](https://open.spotify.com/track/7wgHkDKCvsGYlSi2WbQrgI) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Slow High](https://open.spotify.com/album/7a4RhELoCxUXtPvsVv4HnS) | 3:24 |
+| 30 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 |
+| 31 | [Just Chemistry](https://open.spotify.com/track/7CPnUNBJpRAlXl1LOb9KGD) | [Dance Lessons](https://open.spotify.com/artist/52VhFwZRpWWiHCtoBMA6na) | [Beginners](https://open.spotify.com/album/4xsWzLYA4wlx5KNuFdNtEh) | 3:58 |
+| 32 | [A New Paradigm](https://open.spotify.com/track/4EIeiXHSYOCKamQ04xczQj) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [A New Paradigm](https://open.spotify.com/album/7dKtCITHxBdw6HBrMsujr3) | 3:08 |
 | 33 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 |
 | 34 | [I Want Him To Love Me](https://open.spotify.com/track/7hsHgvBdh5ZRGrvXiRuH6L) | [Natalia Catalan](https://open.spotify.com/artist/2lm3zh84fR5TSKfSRt44N4), [Also Now](https://open.spotify.com/artist/28IvTpsjVn7sC0piQGqQO7) | [Die Without Makeup](https://open.spotify.com/album/0F0ewfGXJqK14oZ2JZnhTQ) | 2:46 |
 | 35 | [party 4 u](https://open.spotify.com/track/4palhK5FSTqNAne3THdMdj) | [mmeadows](https://open.spotify.com/artist/4de1YvLEVgaJaYzreetS2U) | [party 4 u](https://open.spotify.com/album/00s15V7HQKWtxhwkyMFd1d) | 3:16 |
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 164 | [Student](https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Student](https://open.spotify.com/album/7gqXdRXMyLGGWQJFaASiog) | 3:19 |
 | 165 | [PLAY MY TRACK](https://open.spotify.com/track/2hHWcXgg4iStn9NJQcIu1e) | [username](https://open.spotify.com/artist/3I54P5H2ogRQu7KWWmifr1), [Marsh crane](https://open.spotify.com/artist/3xNfnkcVvRKu8mgElB3uFK) | [OVERTIME](https://open.spotify.com/album/69TfOic7XKu2PVfleFDVcb) | 3:12 |
 | 166 | [wash away](https://open.spotify.com/track/3wRM4IwCDAXbYz3L97OaIY) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [wash away](https://open.spotify.com/album/2tslN1LJt5kcegF8hmlAbB) | 3:17 |
-| 167 | [Theopania](https://open.spotify.com/track/0egc0f7LBfEJytfbR7aTjF) | [queenie](https://open.spotify.com/artist/3HB1a9aStiIhcH7ycACyx7) | [Theopania](https://open.spotify.com/album/4SEyY5EyPkUXget9JDsDDk) | 3:09 |
+| 167 | [Theophania](https://open.spotify.com/track/0egc0f7LBfEJytfbR7aTjF) | [queenie](https://open.spotify.com/artist/3HB1a9aStiIhcH7ycACyx7) | [Theophania](https://open.spotify.com/album/4SEyY5EyPkUXget9JDsDDk) | 3:09 |
 | 168 | [Loss Dub](https://open.spotify.com/track/2wn5FAj7pg8smNOeaQ0BWe) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Night Fishing On A Calm Lake](https://open.spotify.com/album/0PwIOaIxIJ6W5pbol1lqHo) | 2:37 |
 | 169 | [Know Better](https://open.spotify.com/track/23Jz9I6OAyAdjgKN2GtqcB) | [LAIKK](https://open.spotify.com/artist/2XyyTiYYo93wYY4uupHc3D) | [Know Better](https://open.spotify.com/album/0d9IzfNVXwPBFN61cnq5Q5) | 2:59 |
 | 170 | [ADORE](https://open.spotify.com/track/3BorXY9G9eZoOlUQZA0YoO) | [child star](https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1), [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE), [Sean Henry](https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk) | [ADORE](https://open.spotify.com/album/0AxAaCFZ4KbDgv3vj38UDz) | 2:26 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 429 | [Abundance of Power](https://open.spotify.com/track/6iTubsbtWKyCfpvj2T0Cd7) | [Season 2](https://open.spotify.com/artist/6NNLJ1tWGNmek1B62hDtJf) | [Abundance of Power](https://open.spotify.com/album/6HPRYLGzYwtt7cjSw44GKV) | 3:00 |
 | 430 | [Last One Home](https://open.spotify.com/track/1TcqYv9wLbeRgGFrQfviPG) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [Last One Home](https://open.spotify.com/album/1KIFJBY1Kc74RZMFREjVvp) | 2:35 |
 
-Snapshot ID: `AAAwSky/IQR54f/8Jg1kp6tdD4kKgYh7`
+Snapshot ID: `AAAwS44h9HGXKyUJTdAcVzj1zuaaPWvm`

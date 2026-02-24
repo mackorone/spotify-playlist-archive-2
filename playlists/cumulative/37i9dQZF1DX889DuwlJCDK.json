@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 213883,
       "name": "13\u65e5\u306e\u91d1\u66dc\u65e5",
       "url": "https://open.spotify.com/track/4KULpbplZNTABgsZInHr4a"
@@ -5090,6 +5090,24 @@
       "duration_ms": 277173,
       "name": "In YOURS",
       "url": "https://open.spotify.com/track/1hTg19ZUwYAiyDbT0ook40"
+    },
+    {
+      "album": {
+        "name": "Inside Game",
+        "url": "https://open.spotify.com/album/26tQMudbKubkWqP0uD738r"
+      },
+      "artists": [
+        {
+          "name": "Shaftray",
+          "url": "https://open.spotify.com/artist/19KFUJCg5YAD97OzkFX9Of"
+        }
+      ],
+      "date_added": "2026-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180231,
+      "name": "Inside Game",
+      "url": "https://open.spotify.com/track/5o6dNPA5i5ABKGvpaY18qx"
     },
     {
       "album": {

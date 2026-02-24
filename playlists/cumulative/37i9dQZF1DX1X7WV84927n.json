@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 220238,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/1jRDhA2UEqKb7oP9AeIaWy"
@@ -3910,6 +3910,24 @@
       "duration_ms": 261135,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/0oBpYdGNyCoVWlR3gVgmrn"
+    },
+    {
+      "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/39M80fMdiRKZaJxMdggAav"
+      },
+      "artists": [
+        {
+          "name": "Arankai",
+          "url": "https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2g2zp1UaiIj2UkQ6qqiMUB"
     },
     {
       "album": {
@@ -8995,6 +9013,24 @@
     },
     {
       "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/3Snz5gm1fgMF4lxknPPSQO"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Give Up",
+      "url": "https://open.spotify.com/track/5xrfjG0lVciS5YuLCLCeRl"
+    },
+    {
+      "album": {
         "name": "Glass Shatters (New Mix)",
         "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
       },
@@ -12260,7 +12296,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 200325,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/4csbKzdtmtojrzQfB7OPZ9"

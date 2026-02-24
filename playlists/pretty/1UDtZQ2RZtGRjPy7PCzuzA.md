@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,189 songs - 2 day 19 hr 34 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,208 songs - 2 day 20 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1197,5 +1197,24 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1187 | [Trojan Horse](https://open.spotify.com/track/5GzZRaa20fAIyHSQnoUB7v) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 1:42 |
 | 1188 | [Paracosm](https://open.spotify.com/track/67Z2gg6JK0Ig6MK7ClBNVp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:23 |
 | 1189 | [Talk About](https://open.spotify.com/track/7fVpU3cHlWW40QtoF8Qr5R) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Talk About](https://open.spotify.com/album/1UvR3ECAyt8twRzOvZ3vRQ) | 2:36 |
+| 1190 | [loomer](https://open.spotify.com/track/1J81w19RmocW4w7PeSWKYF) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 2:38 |
+| 1191 | [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:11 |
+| 1192 | [blown a wish](https://open.spotify.com/track/5RmF2vYpropy4cWNxeSA4O) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 3:36 |
+| 1193 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
+| 1194 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
+| 1195 | [Big Steppa](https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:56 |
+| 1196 | [Reckless & Sweet](https://open.spotify.com/track/6gQrm0rwg6hok8IxzysD8m) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:39 |
+| 1197 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
+| 1198 | [Co\-Star](https://open.spotify.com/track/0uiHiwJzQvWLTETzEZRxFG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:46 |
+| 1199 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
+| 1200 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
+| 1201 | [Sex, Violence, Suicide](https://open.spotify.com/track/4GDsIoGuRxBVR0zPbxodIO) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:13 |
+| 1202 | [Disguise](https://open.spotify.com/track/6MFmhJxdoxfqLJMuuMzfg9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:49 |
+| 1203 | [Sociopathic Dance Queen](https://open.spotify.com/track/3prtPGzdSOvl5CGCrkN34h) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:19 |
+| 1204 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 |
+| 1205 | [Water From Wine](https://open.spotify.com/track/4iokZFTx4hmvHsY1cExFgn) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
+| 1206 | [Come Home To God](https://open.spotify.com/track/68hSEF4xKfksoiuzwNSfZn) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:19 |
+| 1207 | [Mosquito](https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:27 |
+| 1208 | [The 1975](https://open.spotify.com/track/2vEbiEwYKGREU4BYWPBmg3) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 4:10 |
 
-Snapshot ID: `AAAH9nQ2mvv3CVutbhil15PPeR59kHHl`
+Snapshot ID: `AAAICYxbrB4rdwe07vi3eZuhGasOREch`

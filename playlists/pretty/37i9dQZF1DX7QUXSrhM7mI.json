@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 94955,
+  "num_followers": 94982,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxhJXExyDhkUcOa1bF+LzI/8xzT",
+  "snapshot_id": "AAAAAFJz8pmHvID2zVluBadROUuED67w",
   "tracks": [
     {
       "added_at": "2026-01-09 18:21:28",
@@ -137,68 +137,20 @@
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
-      "added_at": "2026-01-09 18:21:28",
+      "added_at": "2026-02-23 17:38:10",
       "album": {
-        "name": "Just Life",
-        "url": "https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr"
+        "name": "Life In Ashes",
+        "url": "https://open.spotify.com/album/1lf3ljPHzwHrFbsh6hEsK4"
       },
       "artists": [
         {
-          "name": "Leith",
-          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Just Life",
-      "url": "https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 208412,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "Space of the Heart",
-        "url": "https://open.spotify.com/album/30OIr0GbwJAi9nXBlFB8ki"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "$106",
-        "url": "https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl"
-      },
-      "artists": [
-        {
-          "name": "Oranj Goodman",
-          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
-        }
-      ],
-      "duration_ms": 196067,
-      "name": "$106",
-      "url": "https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4"
+      "duration_ms": 166240,
+      "name": "Hazel In The Moonlight",
+      "url": "https://open.spotify.com/track/1xaGRjCNKPBfGradk0VSqI"
     },
     {
       "added_at": "2026-01-09 18:21:28",
@@ -219,18 +171,18 @@
     {
       "added_at": "2026-01-09 18:21:28",
       "album": {
-        "name": "ulcer",
-        "url": "https://open.spotify.com/album/0Dh5TLgHNhnu4RrPWXV6dY"
+        "name": "Just Life",
+        "url": "https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr"
       },
       "artists": [
         {
-          "name": "sean trelford",
-          "url": "https://open.spotify.com/artist/4FFOqFgY6neszSElcfmV3i"
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
         }
       ],
-      "duration_ms": 153839,
-      "name": "i should've known",
-      "url": "https://open.spotify.com/track/2gU51XW3fQZnMT9v7VAYhe"
+      "duration_ms": 198213,
+      "name": "Just Life",
+      "url": "https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H"
     },
     {
       "added_at": "2026-01-09 18:21:28",
@@ -251,6 +203,38 @@
     {
       "added_at": "2026-01-09 18:21:28",
       "album": {
+        "name": "Space of the Heart",
+        "url": "https://open.spotify.com/album/30OIr0GbwJAi9nXBlFB8ki"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
+    },
+    {
+      "added_at": "2026-01-09 18:21:28",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 208412,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
+    },
+    {
+      "added_at": "2026-01-09 18:21:28",
+      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -267,6 +251,38 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-01-09 18:21:28",
+      "album": {
+        "name": "$106",
+        "url": "https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl"
+      },
+      "artists": [
+        {
+          "name": "Oranj Goodman",
+          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
+        }
+      ],
+      "duration_ms": 196067,
+      "name": "$106",
+      "url": "https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4"
+    },
+    {
+      "added_at": "2026-01-09 18:21:28",
+      "album": {
+        "name": "ulcer",
+        "url": "https://open.spotify.com/album/0Dh5TLgHNhnu4RrPWXV6dY"
+      },
+      "artists": [
+        {
+          "name": "sean trelford",
+          "url": "https://open.spotify.com/artist/4FFOqFgY6neszSElcfmV3i"
+        }
+      ],
+      "duration_ms": 153839,
+      "name": "i should've known",
+      "url": "https://open.spotify.com/track/2gU51XW3fQZnMT9v7VAYhe"
     },
     {
       "added_at": "2026-01-09 18:21:28",
@@ -415,46 +431,6 @@
       "duration_ms": 310868,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "before & after",
-        "url": "https://open.spotify.com/album/539HN7fgdZv9lVCCG1zVGG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        }
-      ],
-      "duration_ms": 193316,
-      "name": "i have a crush on you",
-      "url": "https://open.spotify.com/track/5zyy6rCsnG4OMxL2VLDAoM"
     },
     {
       "added_at": "2026-01-09 18:21:28",
@@ -819,22 +795,6 @@
       "duration_ms": 319500,
       "name": "changed it all",
       "url": "https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj"
-    },
-    {
-      "added_at": "2026-01-09 18:21:28",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/5yWslb5Coa1ZMCN43gRIjV"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/6fnVXJMz2ahAVFxc9fwczD"
     },
     {
       "added_at": "2026-01-09 18:21:28",

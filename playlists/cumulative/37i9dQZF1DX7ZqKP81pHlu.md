@@ -4,7 +4,7 @@
 
 > Les hits du moment en Algérie\. Cover: Abdou Gambetta
 
-274 songs - 16 hr 23 min
+275 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 | 2024-02-20 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 |  |
+| [Rosalinda](https://open.spotify.com/track/2Ck70DwcyAnqIWkE12ZOn2) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Flashy OTR](https://open.spotify.com/artist/5avjsXzLQG6PCfrzENEgak) | [Rosalinda](https://open.spotify.com/album/1i7rBPNK8CKM5M6TIBnleQ) | 3:27 | 2026-02-23 |  |
 | [SAH](https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [SAH](https://open.spotify.com/album/3oKii6T1E3bnh5ijB4ewqb) | 3:00 | 2023-02-06 | 2023-03-31 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2023-08-14 | 2024-08-03 |
 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 | 2025-10-05 |  |
@@ -281,6 +282,6 @@
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-06-04 | 2024-07-05 |
 | [لحلال جمعنا](https://open.spotify.com/track/2kP8PzbINPBc5gYKqpJcJQ) | [Zineb Aouidad](https://open.spotify.com/artist/78Qw8xXeN0GKy3jhoY6Pi5), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [لحلال جمعنا](https://open.spotify.com/album/4Th8gswTYR772wTyyOrmWZ) | 3:48 | 2023-02-21 | 2023-03-04 |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-03 | 2023-03-09 |
-| [يا قلبي بركاك](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Moosive](https://open.spotify.com/artist/3zYW8PlZpAN6dqtigmvymx) | [يا قلبي بركاك](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 | 2024-07-04 |  |
+| [يا قلبي بركاك](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Moosive](https://open.spotify.com/artist/3zYW8PlZpAN6dqtigmvymx) | [يا قلبي بركاك](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 | 2024-07-04 | 2026-02-24 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

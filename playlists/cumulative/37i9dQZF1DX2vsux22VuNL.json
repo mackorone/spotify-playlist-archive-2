@@ -3767,7 +3767,7 @@
         },
         {
           "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+          "url": "https://open.spotify.com/artist/2vhC54a7W3ueqR3TjekJZY"
         },
         {
           "name": "Felipe Play",
@@ -8629,6 +8629,32 @@
     },
     {
       "album": {
+        "name": "Ponto Panor\u00e2mico",
+        "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Quando Amanhece",
+      "url": "https://open.spotify.com/track/3MmxK7jLxLTHe2fKEC3SIn"
+    },
+    {
+      "album": {
         "name": "Quanta Riqueza",
         "url": "https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM"
       },
@@ -11044,7 +11070,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"

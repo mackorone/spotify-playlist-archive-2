@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACEhGSXKLDWX8gYkqu6XCGM",
+  "snapshot_id": "aZpHAAAAAAD8kjqwSE0QRE5Biaz9xaUX",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 192000,
       "name": "Ugly Truth",
       "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All of #OneSongAWeek",
         "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 239468,
+      "name": "How Would You Like It?",
+      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 239468,
-      "name": "How Would You Like It?",
-      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
     },
     {
       "added_at": null,

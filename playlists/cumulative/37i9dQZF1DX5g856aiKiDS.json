@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 235000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2ufbSqJHgI1JBo3LzUB6uM"
@@ -690,6 +690,24 @@
       "duration_ms": 181054,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6ZfBdeyXWs5E3hpdL0WhzW"
+    },
+    {
+      "album": {
+        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
     },
     {
       "album": {
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
@@ -6037,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3xeCW0P2FiFwo5uAcQGtAA"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141597,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P"
+    },
+    {
+      "album": {
         "name": "Snow in Seoul",
         "url": "https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7"
       },
@@ -7071,6 +7107,28 @@
     },
     {
       "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+        },
+        {
+          "name": "sam ock",
+          "url": "https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205999,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI"
+    },
+    {
+      "album": {
         "name": "Touch Me Softly (Feat. Chohye, Jin)",
         "url": "https://open.spotify.com/album/3rdG6MmWgycIsTZ1icPxiA"
       },
@@ -7892,7 +7950,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 134285,
       "name": "X",
       "url": "https://open.spotify.com/track/0uhYRIg1aVmQpFBkCA1CN1"
@@ -7936,7 +7994,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 183093,
       "name": "You & me (feat. Aden)",
       "url": "https://open.spotify.com/track/6dzNqjEKoNH8dcxEfoCgdj"

@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 228318,
+  "num_followers": 228347,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAD1mrHvS+0LsuuY1EOpzt1W",
+  "snapshot_id": "aZpHAAAAAADaPNU4RgqsTKrQASTvYUjy",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skrilla",
-        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Skrilla",
-      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Institution",
         "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 241658,
       "name": "Already",
       "url": "https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skrilla",
+        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216189,
+      "name": "Skrilla",
+      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
     },
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Institution",
+      "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 188870,
       "name": "HVN ON EARTH (with Kodak Black)",
       "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Institution",
-      "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 202840,
       "name": "BROTHER STONE (FEAT. KODAK BLACK)",
       "url": "https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
     },
     {
       "added_at": null,
@@ -810,11 +810,15 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 130929,
-      "name": "If I'm Lyin', I'm Flyin'",
-      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -890,15 +894,11 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+      "duration_ms": 130929,
+      "name": "If I'm Lyin', I'm Flyin'",
+      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
     },
     {
       "added_at": null,

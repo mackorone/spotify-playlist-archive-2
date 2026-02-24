@@ -1,6 +1,6 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Jairo Vera & Jere Klein",
-  "num_followers": 555131,
+  "num_followers": 555144,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
@@ -300,6 +300,10 @@
       },
       "artists": [
         {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
+        },
+        {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
@@ -341,7 +345,7 @@
         }
       ],
       "duration_ms": 472000,
-      "name": "Adi\u00f3s (feat. Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best, Ag Daddy) - Remix",
+      "name": "Adi\u00f3s (feat. Bayriton, Lleflight, Sacra Mr Melody, Alex Fer, Javiielo, Best, Ag Daddy) - Remix",
       "url": "https://open.spotify.com/track/6JyRkKGIDdizXLShftdmLc"
     },
     {

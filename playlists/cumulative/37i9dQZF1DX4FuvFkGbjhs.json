@@ -5067,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Rock And A Hard Place",
+        "url": "https://open.spotify.com/album/5Ptq4gERj9cnjyebShW7Sk"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/0uFpWDyczrgNDQd93oZL7q"
+    },
+    {
+      "album": {
         "name": "Glu",
         "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
       },
@@ -15420,7 +15438,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 290869,
       "name": "Woman Of Faces",
       "url": "https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6"

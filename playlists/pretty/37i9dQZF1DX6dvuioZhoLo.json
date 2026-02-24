@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
-  "num_followers": 313008,
+  "num_followers": 313012,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-02-06 05:00:30",

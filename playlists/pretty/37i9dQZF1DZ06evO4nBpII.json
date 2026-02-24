@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1104,
+  "num_followers": 1120,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADGquaicVnlFQj1TkPGLAuj",
+  "snapshot_id": "aZpHAAAAAAB6ckP6cpLLefvGowhsRcn/",
   "tracks": [
     {
       "added_at": null,
@@ -680,7 +680,7 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 134671,
+      "duration_ms": 134672,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
     },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47341,
+  "num_followers": 47345,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACIOPQGQP/0k1VSEWucsG3f",
+  "snapshot_id": "aZpHAAAAAADJRTE8o6LKyhL0JSob8JIX",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA BRUJA, LA NI\u00d1A Y EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 236215,
-      "name": "YO TE ESPERAR\u00c9 - Live",
-      "url": "https://open.spotify.com/track/1boYDONOQ8TVM3njEs6psa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akelarre",
         "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 202933,
       "name": "Mujer Bruja",
       "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA BRUJA, LA NI\u00d1A Y EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 236215,
+      "name": "YO TE ESPERAR\u00c9 - Live",
+      "url": "https://open.spotify.com/track/1boYDONOQ8TVM3njEs6psa"
     },
     {
       "added_at": null,

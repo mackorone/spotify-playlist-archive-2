@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 117399,
       "name": "F-15 : Feel the power",
       "url": "https://open.spotify.com/track/1xzPJeLC6tFsRmnqIS6GCi"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 198364,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/1UX6WV1lpNYEj5V5YGPco8"
@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 235706,
       "name": "Helleluia",
       "url": "https://open.spotify.com/track/3FFLHI0Vj4To1spoXCnDv3"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 239386,
       "name": "In Den Wurzeln Der Eichen",
       "url": "https://open.spotify.com/track/25LXnPr7P6xPRHF7jDMaP6"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 272042,
       "name": "Insecurity (Radio Edit)",
       "url": "https://open.spotify.com/track/7qkbq9iXcW1pWI6NNLJ7Jv"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 243760,
       "name": "Leiche Im Schrank",
       "url": "https://open.spotify.com/track/6behqJXs0jrhHAGBKOUOmj"
@@ -3734,6 +3734,24 @@
       "duration_ms": 316346,
       "name": "Lucifer Shrine",
       "url": "https://open.spotify.com/track/3Axe6hd3pHx9BgeQbFxPsR"
+    },
+    {
+      "album": {
+        "name": "A Story (UN)Told",
+        "url": "https://open.spotify.com/album/56gzfHPWmqfYYbj1ISkyqu"
+      },
+      "artists": [
+        {
+          "name": "Ursula",
+          "url": "https://open.spotify.com/artist/6BzI2DqZsIoTl1QseaCbjt"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
     },
     {
       "album": {
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 255812,
       "name": "My Elegy",
       "url": "https://open.spotify.com/track/1affhJbiFkgnBpxzeQ5WFh"
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 272125,
       "name": "No One's Embrace",
       "url": "https://open.spotify.com/track/0Ja46KKDb4MpntMADfEWPm"
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -6909,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "Toy !",
+        "url": "https://open.spotify.com/album/7AcpfzdiQl79nyHpDGnfsc"
+      },
+      "artists": [
+        {
+          "name": "Erudition",
+          "url": "https://open.spotify.com/artist/5J5vPzyct2PrzpYJzjx7QK"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Toy ! - Single mix",
+      "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
+    },
+    {
+      "album": {
         "name": "Tragic Form (Acoustic)",
         "url": "https://open.spotify.com/album/4dHD8NKJxRrL15SfPz3vId"
       },
@@ -6974,7 +7010,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 142785,
       "name": "Truth Behind The Lies",
       "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
@@ -7208,7 +7244,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 420060,
       "name": "Vessel To Nowhere",
       "url": "https://open.spotify.com/track/0yWg1jXATCxyo76uyWDjrW"
@@ -7782,7 +7818,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

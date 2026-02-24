@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
-  "num_followers": 34081,
+  "num_followers": 34075,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAb9r3UJXUC7CPYj+isex7a5Dv8JFwo",
+  "snapshot_id": "AAAcBrFuMo9ab568XjZA+hQ3QqCAo44d",
   "tracks": [
     {
       "added_at": "2026-01-12 18:13:08",
@@ -25,26 +25,6 @@
       "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
     },
     {
-      "added_at": "2026-01-26 19:03:14",
-      "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 145492,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
-    },
-    {
       "added_at": "2026-01-26 19:55:56",
       "album": {
         "name": "LET 'EM KNOW",
@@ -59,6 +39,78 @@
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "added_at": "2026-02-24 00:23:15",
+      "album": {
+        "name": "1 Umbrella",
+        "url": "https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety"
+      },
+      "artists": [
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "1 Umbrella (feat. ALLBLACK & 22nd Jim)",
+      "url": "https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx"
+    },
+    {
+      "added_at": "2026-02-24 00:25:12",
+      "album": {
+        "name": "\u00c7ike \u00c7ike",
+        "url": "https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 139379,
+      "name": "\u00c7ike \u00c7ike",
+      "url": "https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8"
+    },
+    {
+      "added_at": "2026-01-21 00:39:43",
+      "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
     },
     {
       "added_at": "2026-01-21 00:40:04",
@@ -133,6 +185,22 @@
       "url": "https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps"
     },
     {
+      "added_at": "2026-02-24 00:25:08",
+      "album": {
+        "name": "\u00c7ike \u00c7ike",
+        "url": "https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "I Like You Better Than Me",
+      "url": "https://open.spotify.com/track/56LxXsei54gTgiedh71lr5"
+    },
+    {
       "added_at": "2026-01-26 19:04:07",
       "album": {
         "name": "Out The Box (feat. Bosko)",
@@ -153,10 +221,10 @@
       "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {
-      "added_at": "2026-01-21 00:39:43",
+      "added_at": "2026-01-26 19:03:14",
       "album": {
-        "name": "Jogodo",
-        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
       "artists": [
         {
@@ -168,49 +236,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 188861,
-      "name": "Jogodo",
-      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": "2026-01-26 19:04:18",
-      "album": {
-        "name": "Better (feat. Stunna Girl)",
-        "url": "https://open.spotify.com/album/2MPcIDppCYsMxt01XLuYM3"
-      },
-      "artists": [
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 120048,
-      "name": "Better (feat. Stunna Girl)",
-      "url": "https://open.spotify.com/track/55Ro0MUVIKVND18vKg7EF8"
-    },
-    {
-      "added_at": "2026-01-21 00:40:11",
-      "album": {
-        "name": "YOU HEAR ME THO",
-        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "YOU HEAR ME THO",
-      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
     },
     {
       "added_at": "2026-01-12 19:53:20",
@@ -279,42 +307,6 @@
       "duration_ms": 145000,
       "name": "Pork Chop Sammich",
       "url": "https://open.spotify.com/track/5KInSFERXWZZUZJa4diQDD"
-    },
-    {
-      "added_at": "2025-12-08 23:31:47",
-      "album": {
-        "name": "BUICK TO BENZ",
-        "url": "https://open.spotify.com/album/3u2TpNPFDSltzFssvRwCye"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "BUICK TO BENZ",
-      "url": "https://open.spotify.com/track/7xMBdn5yHDQEpiN0x1SIIV"
-    },
-    {
-      "added_at": "2025-12-08 23:33:05",
-      "album": {
-        "name": "F.I.L.A 25 (Forever I Love Atlanta)",
-        "url": "https://open.spotify.com/album/0ADz82vTyvfaNVs9rb8cJ5"
-      },
-      "artists": [
-        {
-          "name": "Tm88",
-          "url": "https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Quadruple (feat. Future)",
-      "url": "https://open.spotify.com/track/4TFoLFYufN177kMZ98Xy9A"
     },
     {
       "added_at": "2025-11-24 22:40:24",

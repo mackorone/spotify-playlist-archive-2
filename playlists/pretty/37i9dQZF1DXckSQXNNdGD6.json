@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Marlon Collins.",
-  "num_followers": 21217,
+  "num_followers": 21219,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-11 07:10:12",
       "album": {
-        "name": "Deber\u00eda estar brillando",
-        "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
-      },
-      "artists": [
-        {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
-        }
-      ],
-      "duration_ms": 152650,
-      "name": "Deber\u00eda estar brillando",
-      "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
-    },
-    {
-      "added_at": "2026-02-11 07:10:12",
-      "album": {
         "name": "Se te est\u00e1 olvidando",
         "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 167856,
       "name": "Se te est\u00e1 olvidando",
       "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-02-11 07:10:12",
+      "album": {
+        "name": "Deber\u00eda estar brillando",
+        "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
+      },
+      "artists": [
+        {
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+        }
+      ],
+      "duration_ms": 152650,
+      "name": "Deber\u00eda estar brillando",
+      "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
     },
     {
       "added_at": "2026-02-11 07:10:12",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-11 07:10:12",
       "album": {
-        "name": "Cuando acabe el verano",
-        "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
-      },
-      "artists": [
-        {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
-        }
-      ],
-      "duration_ms": 167928,
-      "name": "Cuando acabe el verano",
-      "url": "https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7"
-    },
-    {
-      "added_at": "2026-02-11 07:10:12",
-      "album": {
         "name": "No soy Diosa",
         "url": "https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 131772,
       "name": "No soy Diosa",
       "url": "https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k"
+    },
+    {
+      "added_at": "2026-02-11 07:10:12",
+      "album": {
+        "name": "Cuando acabe el verano",
+        "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
+      },
+      "artists": [
+        {
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+        }
+      ],
+      "duration_ms": 167928,
+      "name": "Cuando acabe el verano",
+      "url": "https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7"
     },
     {
       "added_at": "2026-02-11 07:10:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-11 07:10:12",
       "album": {
-        "name": "Spawnpoint",
-        "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
-      },
-      "artists": [
-        {
-          "name": "Paul Thin",
-          "url": "https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Me Quedar\u00e9",
-      "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
-    },
-    {
-      "added_at": "2026-02-11 07:10:12",
-      "album": {
         "name": "MEDUSA",
         "url": "https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202560,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V"
+    },
+    {
+      "added_at": "2026-02-11 07:10:12",
+      "album": {
+        "name": "Spawnpoint",
+        "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
+      },
+      "artists": [
+        {
+          "name": "Paul Thin",
+          "url": "https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Me Quedar\u00e9",
+      "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
     },
     {
       "added_at": "2026-02-11 07:10:12",

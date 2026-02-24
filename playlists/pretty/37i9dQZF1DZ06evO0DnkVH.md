@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,131 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,213 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 47 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
 | 48 | [Wild Man](https://open.spotify.com/track/0XCWo7RVAkJXMD9fiK0bFZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 7:16 |
 | 49 | [An Architect's Dream \- 2018 Remaster](https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 4:54 |
-| 50 | [Full House \- 2018 Remaster](https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:14 |
+| 50 | [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 |
 
-Snapshot ID: `aZj1gAAAAACSe5ygkku7FVglkdAGDafl`
+Snapshot ID: `aZpHAAAAAAAmfaprCYBbPwRstkKQ+gn6`

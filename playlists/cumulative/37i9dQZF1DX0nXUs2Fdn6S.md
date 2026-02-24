@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-103 songs - 5 hr 41 min
+104 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 | 2023-10-20 | 2024-08-30 |
 | [Mera Dil](https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Adnan Ahmad](https://open.spotify.com/artist/7qFEucMhWHhPO9LftYsTcO) | [Mera Dil](https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c) | 3:15 | 2023-10-20 |  |
 | [Moomjabi](https://open.spotify.com/track/29Zl6UiuCeGD3ohyo33nlv) | [Skeletron](https://open.spotify.com/artist/3fWeF8YvJ8MHEPppAbdWfj), [QRTX](https://open.spotify.com/artist/62mT0cVVkAocFeIKdlkj21), [Satyam](https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT) | [Moomjabi](https://open.spotify.com/album/6Gq9CmcLPhZfcr3xHOMWOk) | 3:07 | 2023-10-20 |  |
+| [NAARAH](https://open.spotify.com/track/1vljclmCqu5ASmIIzJmigG) | [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx), [Rickeysiva](https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK) | [NAARAH](https://open.spotify.com/album/3COgw6QH6GE7nSWZCFjKBJ) | 2:18 | 2026-02-23 |  |
 | [Never Let You Go](https://open.spotify.com/track/7xyXsSD7ruRBvbeRqCcJzz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nina & Malika](https://open.spotify.com/artist/4PJCaRYDmLzu4kxHUeUAbq) | [Never Let You Go](https://open.spotify.com/album/6n7Kf2MbyZrkSyIIMMEx8K) | 3:06 | 2023-10-20 |  |
 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 | 2024-02-05 |  |
 | [Noor](https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt) | 2:38 | 2023-10-20 | 2024-04-19 |

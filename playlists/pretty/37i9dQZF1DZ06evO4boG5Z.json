@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29880,
+  "num_followers": 29889,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADxxP8PSZQ2ViK1DZEIzZDd",
+  "snapshot_id": "aZpHAAAAAACJKpM8U62nl/qZ6ke1AeGG",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 202213,
-      "name": "True Brew",
-      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
+      "duration_ms": 167533,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
+      "duration_ms": 202213,
+      "name": "True Brew",
+      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 475739,
+  "num_followers": 475755,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAAfY1Mv91LXEXPbzEdG2JL1",
+  "snapshot_id": "aZpHAAAAAAA7JpU1B39h+fVrrZTVjyej",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 219720,
       "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Cirice",
-      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Future Is A Foreign Land",
         "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
     },
     {
       "added_at": null,

@@ -3924,7 +3924,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 72480,
       "name": "Kanavukalal",
       "url": "https://open.spotify.com/track/6gUOLwg7xfzIt2vhfVmz3l"
@@ -9190,6 +9190,28 @@
       "duration_ms": 182562,
       "name": "Thirinjin",
       "url": "https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw"
+    },
+    {
+      "album": {
+        "name": "THOAZHI",
+        "url": "https://open.spotify.com/album/1batvPzz9HzbdBlb0aYP7Y"
+      },
+      "artists": [
+        {
+          "name": "Joardean Ousepp",
+          "url": "https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx"
+        },
+        {
+          "name": "Rickeysiva",
+          "url": "https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204514,
+      "name": "THOAZHI",
+      "url": "https://open.spotify.com/track/4Ct2DqMV7J8Y2bhXhBAMAo"
     },
     {
       "album": {

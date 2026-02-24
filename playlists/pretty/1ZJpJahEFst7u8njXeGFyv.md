@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 296,965 likes - 286 songs - 16 hr 16 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 296,942 likes - 286 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 71 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 |
 | 72 | [Prelude No\. 5](https://open.spotify.com/track/2Pdl3GWx6v3D9SIqRlv5hn) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude No\. 5](https://open.spotify.com/album/4ZoDkxHH5gIvNDk5p8hOQC) | 2:29 |
 | 73 | [Drifter](https://open.spotify.com/track/37soSo5PSvolIfAKwFw5yq) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Drifter](https://open.spotify.com/album/5zMWirrZbJKiTP68Ykvwvs) | 3:21 |
-| 74 | [Cello Sonata in D Major, Op\. 17: II\. Andante tranquillo](https://open.spotify.com/track/47h1LqaY7KTqI5eYnaLvrz) | [Luise Adolpha Le Beau](https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Fortissima](https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl) | 5:12 |
+| 74 | [Cello Sonata in D Major, Op\. 17: II\. Andante tranquillo](https://open.spotify.com/track/47h1LqaY7KTqI5eYnaLvrz) | [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Fortissima](https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl) | 5:12 |
 | 75 | [6 Lieder de Franz Schubert: III\. Ave Maria](https://open.spotify.com/track/4aeF68Nrnp7rFw6NqE7gXu) | [Alexandre Batta](https://open.spotify.com/artist/0UKcOO9OBkEPEgBQkoDvFw), [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Irina Zahharenkova](https://open.spotify.com/artist/7BnCDrzq4rSSyMg4UXQ4ns) | [Ave Maria](https://open.spotify.com/album/19w85epYiOVpu9qhLIfcgo) | 4:00 |
 | 76 | [Glow](https://open.spotify.com/track/6rGOjDR552bXvFalQcCABI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Glow](https://open.spotify.com/album/3NXl2yXs2qafKFnssDqgb2) | 2:38 |
 | 77 | [Sonata for Viola da Gamba in D Major, BWV 1028: I\. Adagio](https://open.spotify.com/track/6Vm3S4KUmQPRm0NmRz4ZZp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Sébastien Dubé](https://open.spotify.com/artist/0yr0ei8Af6lm3R682hECFG) | [Sonata for Viola da Gamba in D Major, BWV 1028: I\. Adagio](https://open.spotify.com/album/2DhuOICTYznfYe0zd6zsRX) | 1:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 153488,
+  "num_followers": 153482,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADmC4QhYQuzlt7Zf7VzZ89C",
+  "snapshot_id": "aZpHAAAAAABPK6B47IoaiwFkgalC6mej",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Pull Me In",
-      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
+      "duration_ms": 150222,
+      "name": "Power Couple",
+      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150222,
-      "name": "Power Couple",
-      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+      "duration_ms": 156733,
+      "name": "Pull Me In",
+      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 184158,
-      "name": "I Keep My Promises",
-      "url": "https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx"
+      "duration_ms": 201546,
+      "name": "Still In Love With The Pain",
+      "url": "https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD"
     },
     {
       "added_at": null,

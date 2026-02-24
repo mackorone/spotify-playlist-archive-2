@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60233,
+  "num_followers": 60244,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Ihan kohta ohi",
-        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        },
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Ihan kohta ohi",
-      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "Prismatic: Pack One",
         "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Ihan kohta ohi",
+        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        },
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Ihan kohta ohi",
+      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Solmui",
-        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
+        "name": "Kaiken arvoinen",
+        "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
       },
       "artists": [
         {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
         }
       ],
-      "duration_ms": 198409,
-      "name": "Solmui",
-      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+      "duration_ms": 234880,
+      "name": "Kaiken arvoinen",
+      "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Kaiken arvoinen",
-        "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
+        "name": "Solmui",
+        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
       },
       "artists": [
         {
-          "name": "Behm",
-          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
         }
       ],
-      "duration_ms": 234880,
-      "name": "Kaiken arvoinen",
-      "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
+      "duration_ms": 198409,
+      "name": "Solmui",
+      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
       "added_at": "2026-02-19 22:00:20",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-19 22:00:20",
       "album": {
-        "name": "Radio p\u00e4\u00e4lle",
-        "url": "https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq"
-      },
-      "artists": [
-        {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
-        }
-      ],
-      "duration_ms": 172969,
-      "name": "Radio p\u00e4\u00e4lle",
-      "url": "https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea"
-    },
-    {
-      "added_at": "2026-02-19 22:00:20",
-      "album": {
         "name": "Uus ikuisuus",
         "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 176754,
       "name": "Uus ikuisuus",
       "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-02-19 22:00:20",
+      "album": {
+        "name": "Radio p\u00e4\u00e4lle",
+        "url": "https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 172969,
+      "name": "Radio p\u00e4\u00e4lle",
+      "url": "https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea"
     },
     {
       "added_at": "2026-02-19 22:00:20",

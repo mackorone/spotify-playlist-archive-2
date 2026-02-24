@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60683,
+  "num_followers": 60680,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
+      },
+      "artists": [
+        {
+          "name": "Dione",
+          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
+        }
+      ],
+      "duration_ms": 202171,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "VULKAN\u00d8",
         "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 179917,
       "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
       "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
-      },
-      "artists": [
-        {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
-        }
-      ],
-      "duration_ms": 202171,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "Two Years",
         "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 201374,
       "name": "N\u00e4r solen g\u00e5r ner",
       "url": "https://open.spotify.com/track/5ajkC6KlMFGCCuTpMTHo9E"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Bully",
-        "url": "https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
-        }
-      ],
-      "duration_ms": 213137,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "l.o.v.e",
         "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Bromsa",
         "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 153750,
       "name": "Bromsa",
       "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Byta efternamn",
-        "url": "https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Byta efternamn",
-      "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Honor",
         "url": "https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 186666,
       "name": "Honor",
       "url": "https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Byta efternamn",
+        "url": "https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Byta efternamn",
+      "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
+        "name": "Only When In Motion",
+        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Only When In Motion",
+      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
         "name": "Stanna lite till",
         "url": "https://open.spotify.com/album/03lZozSOhCG4pv2UXHUSj5"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 124800,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/37YwXzdP7EdR487VhhCPdP"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
-        "name": "Only When In Motion",
-        "url": "https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Only When In Motion",
-      "url": "https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m"
     },
     {
       "added_at": "2026-02-19 23:01:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14032,
+  "num_followers": 14031,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAAkJ4nfzPL/EKvjMVLFr5LO",
+  "snapshot_id": "aZpHAAAAAAAZ7gHFIZH1uappShDzfmZj",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Put It On God",
-      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put It On God",
+        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Put It On God",
+      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
     },
     {
       "added_at": null,
@@ -663,50 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boys",
-        "url": "https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu"
-      },
-      "artists": [
-        {
-          "name": "Hammer of The Last Two",
-          "url": "https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oluwa Ni (Wemi You)",
         "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
       },
@@ -743,6 +699,50 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu"
+      },
+      "artists": [
+        {
+          "name": "Hammer of The Last Two",
+          "url": "https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
       },
@@ -955,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
@@ -964,13 +944,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 316422,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 316422,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
     },
     {
       "added_at": null,

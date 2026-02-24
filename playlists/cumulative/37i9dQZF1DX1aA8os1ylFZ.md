@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-710 songs - 1 day 12 hr 34 min
+711 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2021-12-16 | 2023-01-13 |
 | [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 | 2025-06-27 | 2026-01-25 |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 | 2023-09-01 |
+| [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 | 2026-02-23 |  |
 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 | 2023-08-24 | 2024-09-28 |
 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 | 2023-05-08 | 2024-06-06 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-01 | 2023-03-23 |
@@ -633,7 +634,7 @@
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-03-07 | 2026-02-14 |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 | 2023-03-23 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-10 | 2025-06-28 |
-| [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-11 |  |
+| [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-11 | 2026-02-24 |
 | [Two Shots \(Looking For Love\)](https://open.spotify.com/track/4XQ13GgSkaNfVMeKpN1Ujh) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/58JuFqlllpEEW7S9eka6uX) | 3:48 | 2025-11-20 | 2025-12-04 |
 | [U & I](https://open.spotify.com/track/1JHTlyUGL784BK241NROfl) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:35 | 2022-07-22 | 2023-01-13 |
 | [U & I](https://open.spotify.com/track/1QK9f16uAepfVJazNT8atB) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/0FklfQfN28uc7RDBNMTQiz) | 3:35 | 2021-12-16 | 2022-07-29 |

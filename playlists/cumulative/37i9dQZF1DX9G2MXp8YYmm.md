@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Anıl Durmuş
 
-506 songs - 1 day 1 hr 29 min
+507 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [böyle sevmek olmaz ki](https://open.spotify.com/track/5hbAlTCuLy02BYEOi4PP9w) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [böyle sevmek olmaz ki](https://open.spotify.com/album/5c9lfqu6XoFErv8HmlZRze) | 2:49 | 2024-06-27 | 2025-02-17 |
 | [Bırak](https://open.spotify.com/track/4ajtMU2DLjZJ3E4Qd3Efqo) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Bırak](https://open.spotify.com/album/52iyAQgL30kvdU9CNUshsT) | 3:22 | 2026-01-22 |  |
 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 | 2024-12-19 | 2025-08-01 |
+| [Bıçak](https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN) | [İntizar](https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0) | [Bıçak](https://open.spotify.com/album/4tA43nNgYDybyFQaEWNFIO) | 3:05 | 2026-02-19 |  |
 | [Can İzi](https://open.spotify.com/track/026lcxlgR9NvkT0A4bMerG) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Can İzi](https://open.spotify.com/album/6756MQg4QXyZGCFCBa98JQ) | 2:43 | 2025-03-27 | 2025-04-28 |
 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 | 2024-09-26 | 2025-06-16 |
 | [Casanova \- Sefo Remix](https://open.spotify.com/track/4kEk9tPt6fUxroVxT3V2ka) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Casanova \- Sefo Remix](https://open.spotify.com/album/5ZlDiqJEaX5r95hnAwwq9g) | 3:09 | 2024-09-05 | 2024-10-09 |
@@ -265,7 +266,7 @@
 | [Kandım](https://open.spotify.com/track/3LuedX2S05DG0Cq5wwVxBX) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Kandım](https://open.spotify.com/album/1mvy62Xu6egls3dS6StBcB) | 2:51 | 2025-08-15 | 2025-08-29 |
 | [Kandırma](https://open.spotify.com/track/1I7HW3rzJtaQaPVHNFbbsY) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kandırma](https://open.spotify.com/album/3aPOHYpcqG87zC7xTLfxRm) | 3:14 | 2025-08-07 | 2025-08-28 |
 | [Kapına Dayandım](https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Kapına Dayandım](https://open.spotify.com/album/6rrafkaUVL19kzgfRSw4VB) | 2:45 | 2024-07-25 | 2024-08-02 |
-| [Kara Gözlüm](https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Kara Gözlüm](https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh) | 3:21 | 2026-01-22 |  |
+| [Kara Gözlüm](https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Kara Gözlüm](https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh) | 3:21 | 2026-01-22 | 2026-02-24 |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 | 2024-07-05 |
 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 | 2025-03-27 | 2025-11-07 |
 | [Karma](https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Karma](https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v) | 3:12 | 2025-07-24 | 2025-09-09 |

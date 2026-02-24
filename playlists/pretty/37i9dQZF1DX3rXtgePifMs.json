@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "DICHOTOMY",
-        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "EZ 4 Me",
         "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 180628,
       "name": "EZ 4 Me",
       "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
+      },
+      "artists": [
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "EAZI",
         "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 150474,
       "name": "EAZI",
       "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Isn\u2019t It Now?",
         "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
       },
@@ -1531,26 +1531,6 @@
       "duration_ms": 368386,
       "name": "Soul Capturer",
       "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
-        "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
-      },
-      "artists": [
-        {
-          "name": "Jords",
-          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
-        },
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
-      "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1579,6 +1559,26 @@
       "duration_ms": 178373,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
+        "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
+      },
+      "artists": [
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        },
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
+      "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2023-11-20 15:00:00",

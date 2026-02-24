@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3187986,
+  "num_followers": 3188238,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Dr. Dekker",
-      "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Total Reggae: Classic Roots",
         "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 193520,
       "name": "Ballistic Affair",
       "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "Dr. Dekker",
+      "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1256,13 +1256,13 @@
       },
       "artists": [
         {
-          "name": "The Jamaicans",
-          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
+          "name": "Rudy Mills",
+          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
         }
       ],
-      "duration_ms": 167173,
-      "name": "Things You Say You Love",
-      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
+      "duration_ms": 191560,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1272,13 +1272,13 @@
       },
       "artists": [
         {
-          "name": "Rudy Mills",
-          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
+          "name": "The Jamaicans",
+          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Long Story",
-      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
+      "duration_ms": 167173,
+      "name": "Things You Say You Love",
+      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
         }
       ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
-      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
       },
       "artists": [
         {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Story Of Trojan Records",
-        "url": "https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "Wonderful World, Beautiful People",
-      "url": "https://open.spotify.com/track/3JvaxYLkDFudjoHYIW8FvC"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "War Ina Babylon",
         "url": "https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 207666,
       "name": "Chase The Devil",
       "url": "https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Story Of Trojan Records",
+        "url": "https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Wonderful World, Beautiful People",
+      "url": "https://open.spotify.com/track/3JvaxYLkDFudjoHYIW8FvC"
     },
     {
       "added_at": "2024-01-29 05:18:16",

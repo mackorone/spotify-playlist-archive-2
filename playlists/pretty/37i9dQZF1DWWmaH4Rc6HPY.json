@@ -295,18 +295,18 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -327,18 +327,18 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Hagamos Que",
-        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Hagamos Que",
-      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "brainchem",
-        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "BRAINCHEM",
-      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Pronta Entrega",
         "url": "https://open.spotify.com/album/2adpz3njMHM4rxS3VQkmZp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 209500,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "brainchem",
+        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "BRAINCHEM",
+      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "La Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "duration_ms": 178743,
+      "name": "Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "prometo no llamar",
-        "url": "https://open.spotify.com/album/0tIuwpBUugenweMLiL2UqO"
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
       },
       "artists": [
         {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
         }
       ],
-      "duration_ms": 164374,
-      "name": "prometo no llamar",
-      "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     }
   ],
   "unique_name": "Pop Rock Latino",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God",
+  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: U2",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
@@ -5370,6 +5370,24 @@
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
+    },
+    {
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "album": {

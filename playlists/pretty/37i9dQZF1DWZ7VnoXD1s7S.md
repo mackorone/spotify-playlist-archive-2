@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,311 likes - 98 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,323 likes - 98 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 22 | [why are u crying?](https://open.spotify.com/track/2fIq1XHmnUgHsDUt9qyuzd) | [khxznq](https://open.spotify.com/artist/2tlLU18GZKldCc9VqMSzZA) | [why are u crying?](https://open.spotify.com/album/6aeoxDethV360mBExtvnM1) | 0:42 |
 | 23 | [Icarus](https://open.spotify.com/track/6fxrqahb8DKiOzVJoGZPNk) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Icarus](https://open.spotify.com/album/45nzpbYkcytpiCLZTrm7Hi) | 3:12 |
 | 24 | [Great Mother In The Sky](https://open.spotify.com/track/6KsjZGtZKyjJmpHoCXC0LW) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [I Hope You Are Well](https://open.spotify.com/album/28ZgWDtVKZMYuI8GOiRSCe) | 5:57 |
-| 25 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 |
+| 25 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/6V5j8RQJOFYiD6Pp1SFx85) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 |
 | 26 | [Libet's delay](https://open.spotify.com/track/28aLJ4z7C2oNKl6jvxYxXR) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [An empty bliss beyond this World](https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG) | 3:26 |
 | 27 | [Goodnight Dad I Love You](https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O) | [Wishing](https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7) | [None of This Was Your Fault](https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM) | 2:43 |
 | 28 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 94 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 95 | [We'll Meet Again](https://open.spotify.com/track/6WdcvzQADmrL8nucimUV6r) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2), [Sailors, Soldiers & Airmen of Her Majesty's Forces](https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl) | [Silver Memories: Our Vera](https://open.spotify.com/album/79w6b4DZnsVFbHELqs04Do) | 3:03 |
 | 96 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
-| 97 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 |
+| 97 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/53MmKrtEp4WjTg5yavKBqq), [Rachel Elkind](https://open.spotify.com/artist/3upw7LeLuCjuLPywNdkUHY) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 |
 | 98 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e](https://open.spotify.com/track/3HCvs4xIilim8FJeIGyqwb) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e](https://open.spotify.com/album/4kL7UqpdcxyO3L2iKtRU3T) | 1:20 |
 
 Snapshot ID: `AAAAAIxp9hDvbdoNvHan7KNHyQzML3dk`

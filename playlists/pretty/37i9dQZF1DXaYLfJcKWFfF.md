@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Babble Hume
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,796 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,807 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 76 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
 | 77 | [Sunwalker \- Remastered](https://open.spotify.com/track/5gn1dFn9chomYpLPsy22QY) | [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv), [Bonj](https://open.spotify.com/artist/69SzBlSnGFv8Fuz8JHBHfT) | [Sunwalker \(Remastered\)](https://open.spotify.com/album/2qJDjhMZXviVzxKSA4o1cS) | 4:41 |
 | 78 | [Salty Chips](https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A) | [Juney Luv](https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI) | [Salty Chips](https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1) | 2:28 |
-| 79 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 |
-| 80 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 79 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 80 | [If I'm Honest](https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [If I'm Honest](https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q) | 2:48 |
 
 Snapshot ID: `AAAAAMFgco7VFi2MRUeRSg8wZ/+wT0Fz`

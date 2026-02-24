@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-465 songs - 1 day 0 hr 25 min
+467 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2025-12-07 | 2026-01-02 |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-02-03 | 2026-02-11 |
 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-10-27 | 2026-01-24 |
-| [404 \(New Era\)](https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:59 | 2026-02-12 |  |
+| [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 | 2026-02-23 |  |
+| [404 \(New Era\)](https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:59 | 2026-02-12 | 2026-02-24 |
 | [500 Miles](https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary](https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo) | 2:42 | 2026-02-22 |  |
 | [67 Merry Rizzmas](https://open.spotify.com/track/3XDIoxXcu2DcuygJ47Axab) | [Goji Georgie](https://open.spotify.com/artist/0mY93TwquAvEjUZOPbVSlg) | [67 Merry Rizzmas](https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd) | 1:19 | 2025-12-17 | 2025-12-20 |
 | [99 Eyes](https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [99 Eyes](https://open.spotify.com/album/0nmQxTbmZUI5uzva3xIA9L) | 2:34 | 2025-12-09 | 2025-12-24 |
@@ -125,7 +126,7 @@
 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 | 2025-10-27 | 2026-01-15 |
 | [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 | 2025-11-08 | 2025-11-10 |
 | [FIGURED YOU OUT](https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR) | [Devkota](https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm) | [FIGURED YOU OUT](https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX) | 2:14 | 2026-01-25 |  |
-| [Fire In My Heart](https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z) | [Escape from New York](https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9) | [Fire in My Heart](https://open.spotify.com/album/2NOWqz17MC7S7NmvA2CWy8) | 5:13 | 2026-01-15 |  |
+| [Fire In My Heart](https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z) | [Escape from New York](https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9) | [Fire in My Heart](https://open.spotify.com/album/2NOWqz17MC7S7NmvA2CWy8) | 5:13 | 2026-01-15 | 2026-02-24 |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-10-27 | 2026-02-18 |
 | [For Good](https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 6:17 | 2025-12-09 | 2025-12-14 |
 | [For Good](https://open.spotify.com/track/6Axf4FwBQvgcKzRwfm458N) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [For Good \(from Wicked: For Good \- The Soundtrack\)](https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb) | 6:17 | 2025-12-13 | 2025-12-17 |
@@ -356,6 +357,7 @@
 | [Slow down](https://open.spotify.com/track/3XYM6xFXJYSs0tquRM6RTy) | [Assiyah](https://open.spotify.com/artist/0Q8LA4p8dIHxbg5eeVhGZA) | [Slow down](https://open.spotify.com/album/65MPZraYAYcTsBSuz5Y5EG) | 2:25 | 2025-10-28 | 2025-11-12 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-27 | 2025-11-26 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2025-10-31 | 2025-11-09 |
+| [Someone Out Of Town](https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/6x6UkYPf9ZV3uEVSoTBqZP) | 3:00 | 2026-02-23 |  |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-10-27 | 2025-10-29 |
 | [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-12-02 | 2025-12-05 |
 | [Spaceship](https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Spaceship](https://open.spotify.com/album/6zXbAwv9ldkMDd1r8ThzN1) | 2:53 | 2025-11-08 | 2025-11-10 |

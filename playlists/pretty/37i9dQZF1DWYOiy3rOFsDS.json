@@ -191,8 +191,8 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -327,8 +327,8 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "Serenatas Frente al Mar",
         "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 197850,
       "name": "Serenatas Frente al Mar",
       "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Ten Piedad",
-        "url": "https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 257593,
-      "name": "Ten Piedad",
-      "url": "https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Ten Piedad",
+        "url": "https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 257593,
+      "name": "Ten Piedad",
+      "url": "https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 188600,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Hola Perdido",
-        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Hola Perdido",
-      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Te Ofrezco",
         "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 206520,
       "name": "Te Ofrezco",
       "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
         "name": "Infierno Favorito",
         "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 214279,
       "name": "Infierno Favorito",
       "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Tiza",
-        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Muy Agradecido",
-      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 186491,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Tiza",
+        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Muy Agradecido",
+      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
     },
     {
       "added_at": "2026-02-20 06:00:31",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-02-20 06:00:31",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
-    },
-    {
-      "added_at": "2026-02-20 06:00:31",
-      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
+    },
+    {
+      "added_at": "2026-02-20 06:00:31",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-02-20 06:00:31",

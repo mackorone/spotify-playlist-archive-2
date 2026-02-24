@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain]
 
 > You know that all mornings call for Fairuz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,470 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,472 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
-| 2 | [أمس انتهينا](https://open.spotify.com/track/4gXPtB7jysSvn1q97N8e50) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [أمس انتهينا](https://open.spotify.com/album/2YE7KFbOM285shtivofbER) | 5:09 |
-| 3 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
-| 4 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 |
+| 1 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
+| 2 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 |
+| 3 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
+| 4 | [أمس انتهينا](https://open.spotify.com/track/4gXPtB7jysSvn1q97N8e50) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [أمس انتهينا](https://open.spotify.com/album/2YE7KFbOM285shtivofbER) | 5:09 |
 | 5 | [El Bent El Shalabeya](https://open.spotify.com/track/6bfTuM7FMLwiYC4fv2upLo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 3:08 |
 | 6 | [Saalouny El Nas](https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Emany Satea](https://open.spotify.com/album/5t2l5etHkIJ0l06RCI0bHt) | 3:32 |
 | 7 | [Ya Tair](https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain]
 | 49 | [Atini Elnai](https://open.spotify.com/track/2nxpbAEjYmgCHvTzVP2bmC) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [The Soul of Lebanon](https://open.spotify.com/album/2d0QC6sRae8rpxfBXaUsdj) | 7:14 |
 | 50 | [Bektoub Ismak Ya Habibi](https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bektoub Ismak Ya Habibi \(La Tessalouni\)](https://open.spotify.com/album/4WHvhG0A2JF48vx08VuYL1) | 4:38 |
 
-Snapshot ID: `AAAAAAenMHF89n+JrEEc6gAOrBJ/Kb/E`
+Snapshot ID: `AAAAAC2eWyk4zFbuif43nWS2+aDu6lnZ`

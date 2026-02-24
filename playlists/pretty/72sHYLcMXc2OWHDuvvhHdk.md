@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 560 likes - 2,335 songs - 5 day 16 hr 26 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 560 likes - 2,342 songs - 5 day 16 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2343,5 +2343,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2333 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
 | 2334 | [See You](https://open.spotify.com/track/0XvMeYc3tJX1bt6Nkt9uek) | [Harry Erikson](https://open.spotify.com/artist/61SNxBw2nVfWmUuiLDGvTP) | [The Breaker and The Bride](https://open.spotify.com/album/05y5v6Ei1lxTcHhuMl7URa) | 3:08 |
 | 2335 | [Footsteps Into the Unknown](https://open.spotify.com/track/5fQG1GnHxjtIjAQdNejkRN) | [Mahawira](https://open.spotify.com/artist/5ysesdQ4GPW6qqSi94uDvH) | [Footsteps Into the Unknown](https://open.spotify.com/album/5X0tSyitAEbmys2s4je5Ko) | 3:18 |
+| 2336 | [HipnoPianO](https://open.spotify.com/track/4zrc92kZF1ucQ5VJnPP1HY) | [Sergio Di Martino](https://open.spotify.com/artist/1dXzSKQi5XTnlRXKNu1E1g) | [HipnoPianO](https://open.spotify.com/album/2kziWXQkQJDVzAkIR0ofsG) | 3:03 |
+| 2337 | [La Virgen de los Harapos](https://open.spotify.com/track/1L7gjG9d9suBgUPG2cVZJz) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM) | [El Perverso Polimorfo](https://open.spotify.com/album/2Q1Ol84vNIO1ERK8NXUobh) | 4:01 |
+| 2338 | [Surrender Sets Me Free](https://open.spotify.com/track/3KQWxRzfRAMMA262kJjJzr) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Surrender Sets Me Free](https://open.spotify.com/album/3XJHZI8GxWJGEU08wQ5V4Y) | 3:30 |
+| 2339 | [Coeur noir](https://open.spotify.com/track/1dSK7SNHXUuCn9tDZB9TTG) | [M Unknow](https://open.spotify.com/artist/2P2kWNeIj3Frg7HwXkbXBh) | [Coeur noir](https://open.spotify.com/album/4fR8BjUVkY2RWDMpcVx4xS) | 3:05 |
+| 2340 | [Foggy Window](https://open.spotify.com/track/6U68EHD34b3aRJ6hrWJe9a) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 2:56 |
+| 2341 | [I'm in the Wrong](https://open.spotify.com/track/4N91QvnV89c8nwQyaxxYDD) | [Big Cat Season](https://open.spotify.com/artist/3wAnCn7fodWUCpxhovBb6S) | [\(Summer\)](https://open.spotify.com/album/5XM67PJwXpQSeS4tt4fkho) | 4:06 |
+| 2342 | [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 |
 
-Snapshot ID: `AAAJtraIgHa1wK0q6WEWUiylds54yk8Y`
+Snapshot ID: `AAAJvb+ze2Rj7dc5mKV+WRmfaRSW8Ter`

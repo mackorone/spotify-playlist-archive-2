@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 39 min
+94 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Changó](https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 4:04 | 2023-12-30 | 2026-02-15 |
 | [Changó](https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 4:04 | 2026-02-15 |  |
 | [Clapzz](https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:49 | 2023-12-30 | 2024-12-02 |
-| [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 | 2023-12-30 |  |
+| [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 | 2023-12-30 | 2026-02-24 |
+| [Comediantes de Velorio](https://open.spotify.com/track/7AsBAP4vy6fVgLe5bYTxBz) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/7ajmfe6KhadgGBImtWLugE) | 4:14 | 2026-02-24 |  |
 | [Dando Vueltas](https://open.spotify.com/track/1u6kewVKZOOd3UAqlhN7gQ) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Hallowinners II: La Venganza](https://open.spotify.com/album/3iAw7fQiXPCOAuIeo1Wyqc) | 2:52 | 2023-12-30 |  |
 | [Dicotomía](https://open.spotify.com/track/0HrVjRj5W4Wlg80PIj2F8H) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Dicotomía](https://open.spotify.com/album/3W1ljXOggRJiHyaw8w3ujE) | 3:24 | 2024-11-11 | 2024-12-09 |
 | [Dicotomía](https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:24 | 2024-12-09 | 2025-04-12 |
@@ -77,7 +78,8 @@
 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 | 2026-02-21 |  |
 | [Normal](https://open.spotify.com/track/2Dj24olIFAq8Z9MlWndo6U) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:21 | 2026-02-11 |  |
 | [Normal](https://open.spotify.com/track/4cw8AKmO7y8hAysNMLan4I) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:21 | 2023-12-30 | 2026-02-11 |
-| [Otra Canción Larga](https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 6:05 | 2023-12-30 |  |
+| [Otra Canción Larga](https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 6:05 | 2023-12-30 | 2026-02-24 |
+| [Otra Canción Larga](https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 6:05 | 2026-02-24 |  |
 | [Pambelé](https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:47 | 2026-02-11 |  |
 | [Pambelé](https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:47 | 2023-12-30 | 2026-02-11 |
 | [Piñata en el 301](https://open.spotify.com/track/78qPjs6oB2ZIaPOYpKZT8m) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 2:53 | 2026-02-11 |  |
@@ -99,6 +101,6 @@
 | [TNT](https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:55 | 2024-11-29 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/3vIsw56YkzZr2AmtP3Iz6i) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 4:00 | 2026-02-05 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-12-30 | 2026-02-05 |
-| [Una Resaca Mas](https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:58 | 2023-12-30 |  |
+| [Una Resaca Mas](https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 3:58 | 2023-12-30 | 2026-02-24 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

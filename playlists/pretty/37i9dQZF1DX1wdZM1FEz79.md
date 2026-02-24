@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 밍기뉴 \(Mingginyu\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,679 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,684 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 |
 | 2 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
-| 3 | [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 |
+| 3 | [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 |
 | 4 | [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 |
 | 5 | [Yeonnam\-dong](https://open.spotify.com/track/3C54aRHrrtuVWGTlhjQ5Ev) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Yeonnam\-dong](https://open.spotify.com/album/6gUBc1UThDuJiksqMxo43l) | 2:35 |
 | 6 | [How do I let you go](https://open.spotify.com/track/0nRoTskwRuvzofpLPxyIJ6) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wandering Hearts](https://open.spotify.com/album/0xpj1qJhSy8Oc9XDQeNoRS) | 4:07 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 37 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 |
 | 38 | [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 |
 | 39 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
-| 40 | [Solar System](https://open.spotify.com/track/1Pa5HDJ8XuDOvURilGrp1j) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Solar System](https://open.spotify.com/album/1Wd7Z5jWT4YdmccKph8Rmq) | 3:52 |
-| 41 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
+| 40 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
+| 41 | [Solar System](https://open.spotify.com/track/1Pa5HDJ8XuDOvURilGrp1j) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Solar System](https://open.spotify.com/album/1Wd7Z5jWT4YdmccKph8Rmq) | 3:52 |
 | 42 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
 | 43 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 |
 | 44 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 45 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
-| 46 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
-| 47 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 46 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 47 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
 | 48 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 49 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
 | 50 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
 
-Snapshot ID: `AAAAAAQOypCoWiheRDeeoFTsiBjngqst`
+Snapshot ID: `AAAAAMATEINJBtueKB5SLVajgdd7TB61`

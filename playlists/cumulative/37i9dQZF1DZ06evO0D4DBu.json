@@ -152,7 +152,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 133670,
       "name": "Bad Boys 2",
       "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
@@ -270,6 +270,36 @@
       "duration_ms": 216234,
       "name": "Childs Play (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
+    },
+    {
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Donnie Trumpet",
+          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     },
     {
       "album": {

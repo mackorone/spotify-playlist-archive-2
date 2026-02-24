@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 289294,
+  "num_followers": 289381,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
-      },
-      "artists": [
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
-      "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Margarito No Cometio Delito",
         "url": "https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185312,
       "name": "Margarito",
       "url": "https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
+      "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
       "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
         {
           "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu"
+      "duration_ms": 209146,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -863,6 +867,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 381701,
       "name": "El Diablo Anda Suelto",
       "url": "https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

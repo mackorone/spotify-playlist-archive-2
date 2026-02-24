@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: 中島健人/Kento Nakajima
 
-901 songs - 2 day 1 hr 19 min
+902 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-15 |  |
 | [BLUE \- Japanese ver.](https://open.spotify.com/track/5ELGegnHxGQDRy5mWjgGKh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE \(Japanese ver.\)](https://open.spotify.com/album/7i6ZTJn1LA0V9FDLOEIpC7) | 3:02 | 2025-03-20 | 2025-04-16 |
 | [Blue Flame](https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/6zKaq83ZghJi7NJyy3BDS3) | 3:06 | 2025-06-09 | 2025-10-04 |
-| [Blue Noise](https://open.spotify.com/track/4eZoG6oPWtgQSTq2WO2tfB) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [Blue Noise](https://open.spotify.com/album/6e3Wl1GxjjkKnKeJP9ISah) | 4:12 | 2026-01-15 |  |
+| [Blue Noise](https://open.spotify.com/track/4eZoG6oPWtgQSTq2WO2tfB) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [Blue Noise](https://open.spotify.com/album/6e3Wl1GxjjkKnKeJP9ISah) | 4:12 | 2026-01-15 | 2026-02-24 |
 | [BO$$Y](https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [VIIsual](https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF) | 3:33 | 2024-12-03 | 2025-03-07 |
 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 | 2024-05-28 | 2025-03-07 |
 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 | 2024-01-24 |
@@ -111,6 +111,7 @@
 | [Borrow your night](https://open.spotify.com/track/09AlOqeaIaKCiNrbXRGjJp) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Borrow your night \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/2dJ3DN0Xk7LZ7LUAMf7ILZ) | 3:00 | 2026-01-15 |  |
 | [BOSS IN THE BUILDING](https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOSS IN THE BUILDING](https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB) | 4:30 | 2025-07-08 | 2025-08-05 |
 | [Bossa Bosa](https://open.spotify.com/track/67cHhblKt3ThjqAsvZJB2A) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Bossa Bosa](https://open.spotify.com/album/4gRM6Xt8jx7UpQm6Cworb4) | 2:22 | 2025-07-01 | 2025-08-25 |
+| [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 |  |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |
 | [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 | 2024-07-03 |
 | [BOYtude](https://open.spotify.com/track/2hv3fzGIWRnUJUa0gkGsIY) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<unevermet>](https://open.spotify.com/album/5oEtw7UMnlNDA6UOGXfQsi) | 2:46 | 2025-08-22 | 2025-11-13 |

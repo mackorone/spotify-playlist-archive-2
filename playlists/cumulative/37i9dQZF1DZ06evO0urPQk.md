@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-142 songs - 10 hr 2 min
+143 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,10 +110,11 @@
 | [Virtual Cruiser](https://open.spotify.com/track/4SivujSrkOb0zZFwxojti6) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:52 | 2025-03-22 |  |
 | [Vitalization](https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:46 | 2022-06-09 |  |
 | [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 | 2023-03-03 | 2026-02-11 |
-| [WHAT YOU WANT](https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 3:52 | 2026-02-11 |  |
+| [WHAT YOU WANT](https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 3:52 | 2026-02-11 | 2026-02-24 |
 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 | 2022-06-09 | 2025-09-20 |
 | [WILD EYES](https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 4:11 | 2025-09-18 |  |
 | [Young Alive!](https://open.spotify.com/track/70q05FPF89GwqGnyCLs9ds) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:09 | 2026-01-26 | 2026-01-27 |
+| [それでも君を想い出すから\-again\-](https://open.spotify.com/track/2wrhxBSUcjIFcSMKkVCq3a) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4:46 | 2026-02-24 |  |
 | [アパッショナート](https://open.spotify.com/track/6pyYwQs84SjOEKL1oh8piu) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:39 | 2022-08-26 | 2022-08-28 |
 | [アンティフォーナ](https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [STARTING NOW!](https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS) | 3:33 | 2023-06-09 | 2025-12-17 |
 | [エデン](https://open.spotify.com/track/6Qvrb0s2x3wwa5JrjyiFp8) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [エデン](https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI) | 4:47 | 2026-01-25 | 2026-01-26 |

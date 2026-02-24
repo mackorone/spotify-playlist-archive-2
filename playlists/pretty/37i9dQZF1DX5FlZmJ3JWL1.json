@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 771518,
+  "num_followers": 771547,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-02-16 10:21:51",
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "added_at": "2026-02-16 10:21:51",
+      "album": {
         "name": "Sweet Nothing (2025 Edit)",
         "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 202176,
       "name": "Sweet Nothing - 2025 Edit",
       "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
-    },
-    {
-      "added_at": "2026-02-16 10:21:51",
-      "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-02-16 10:21:51",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-16 10:21:51",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2026-02-16 10:21:51",
+      "album": {
         "name": "Ex's & Oh's",
         "url": "https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 123504,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT"
-    },
-    {
-      "added_at": "2026-02-16 10:21:51",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2026-02-16 10:21:51",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-02-16 10:21:51",
       "album": {
-        "name": "Key To My Heart",
-        "url": "https://open.spotify.com/album/4t5Nw9T47UroEticHcuuF5"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        }
-      ],
-      "duration_ms": 132006,
-      "name": "Key To My Heart",
-      "url": "https://open.spotify.com/track/2LEFdBlzEJQRKTjI47oHSS"
-    },
-    {
-      "added_at": "2026-02-16 10:21:51",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2026-02-16 10:21:51",
+      "album": {
+        "name": "Key To My Heart",
+        "url": "https://open.spotify.com/album/4t5Nw9T47UroEticHcuuF5"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 132006,
+      "name": "Key To My Heart",
+      "url": "https://open.spotify.com/track/2LEFdBlzEJQRKTjI47oHSS"
     },
     {
       "added_at": "2026-02-16 10:21:51",

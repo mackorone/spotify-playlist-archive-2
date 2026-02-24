@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,546 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,616 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 62 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 63 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
 | 64 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
-| 65 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
-| 66 | [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 |
+| 65 | [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 |
+| 66 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
 | 67 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
 | 68 | [BRUTALISM](https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [BRUTALISM](https://open.spotify.com/album/3Tr2KGxsh8ctnu7LZt7Nvx) | 4:41 |
-| 69 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 |
-| 70 | [Avanti](https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 4:47 |
+| 69 | [Avanti](https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 4:47 |
+| 70 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 |
 | 71 | [kaleido\_](https://open.spotify.com/track/0LFENddTet2slx0gC2Rncm) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [kaleido\_](https://open.spotify.com/album/3rTBoED7VcTPHLKSmI47hg) | 3:56 |
 | 72 | [You're Always On Time](https://open.spotify.com/track/2V8UJGFbDhLKS7XgvmyQQD) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [You're Always on Time](https://open.spotify.com/album/7Buufn6uDLrAeJh9jBATUZ) | 8:07 |
-| 73 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 |
-| 74 | [The Guide](https://open.spotify.com/track/1ygEMNaHlMwIXHfcOF53Sb) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Assertion](https://open.spotify.com/album/3tDxBz2Gn23X8lPHPMNIsz) | 3:21 |
-| 75 | [Levva](https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF) | [Øystein Skar](https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ) | [Levva](https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao) | 4:42 |
+| 73 | [Levva](https://open.spotify.com/track/5styiS6T2sQCqd633t5nPF) | [Øystein Skar](https://open.spotify.com/artist/3OKPHN3DCoQfCsMNjbNqRZ) | [Levva](https://open.spotify.com/album/1kq3ef4sES24rRlSF5ykao) | 4:42 |
+| 74 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 |
+| 75 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 
 Snapshot ID: `AAAAAI/qC7qMfTvSjJJI1bq1kO89CCFt`

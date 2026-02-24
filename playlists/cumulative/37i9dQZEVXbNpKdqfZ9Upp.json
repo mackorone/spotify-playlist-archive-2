@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 204760,
       "name": "Alta y serena",
       "url": "https://open.spotify.com/track/0KZwSfQBCb4NonnJtJy1Zg"
@@ -8398,7 +8398,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 105625,
       "name": "BIENVENIDA",
       "url": "https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx"
@@ -12363,6 +12363,36 @@
     },
     {
       "album": {
+        "name": "LA OBSESION, VOL. 1",
+        "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
+      },
+      "artists": [
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "Chichabeba",
+      "url": "https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -14020,7 +14050,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -31870,7 +31900,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -32088,7 +32118,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 218760,
       "name": "Join Me In Death - Strongroom Mix",
       "url": "https://open.spotify.com/track/3M19tMWNijQ9UCQdXS6Ill"
@@ -60498,7 +60528,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -61754,7 +61784,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 545332,
       "name": "Solo Hay Uno",
       "url": "https://open.spotify.com/track/5jH44HEgVQ5VbrVc833Nx7"
@@ -68926,10 +68956,32 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 243951,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4J9LyFADr1h76FVyVW0TXQ"
+    },
+    {
+      "album": {
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/2jO6uSFm0EYByeUViBwbNc"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Belico",
+          "url": "https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244157,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/2KuWVKFdHHNBsu7pwXBdnL"
     },
     {
       "album": {

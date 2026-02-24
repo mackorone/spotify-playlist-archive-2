@@ -4,7 +4,7 @@
 
 > IJSLAND \(Abel, Sef & FAISAL\) op de cover
 
-296 songs - 15 hr 23 min
+297 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-20 | 2025-11-08 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 | 2025-02-21 |
-| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 |  |
+| [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 | 2025-05-16 | 2026-02-24 |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
 | [DON'T BELIEVE DE KRANT](https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:38 | 2026-02-05 |  |
 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 | 2025-05-08 | 2025-12-19 |
@@ -284,6 +284,7 @@
 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 | 2025-04-03 | 2025-12-19 |
 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 | 2025-03-28 | 2025-10-09 |
 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 | 2025-02-03 | 2025-10-22 |
+| [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 | 2026-02-19 |  |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 | 2024-08-02 |
 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 | 2025-06-20 | 2025-09-12 |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-09-12 | 2025-02-27 |

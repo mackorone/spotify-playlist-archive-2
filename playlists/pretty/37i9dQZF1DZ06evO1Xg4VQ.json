@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72984,
+  "num_followers": 72988,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABugJ3DzSike9itm+m8MYZa",
+  "snapshot_id": "aZpHAAAAAADBh+m6wMkiI/8KUekdRtnJ",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Contin\u00faa",
-        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
+        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
+        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 180813,
-      "name": "El Yerbero Moderno (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
+      "duration_ms": 205240,
+      "name": "Urge",
+      "url": "https://open.spotify.com/track/6XcxsJD1KzyiNKPSTVgGbL"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
-        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
+        "name": "La Fiesta Contin\u00faa",
+        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 205240,
-      "name": "Urge",
-      "url": "https://open.spotify.com/track/6XcxsJD1KzyiNKPSTVgGbL"
+      "duration_ms": 180813,
+      "name": "El Yerbero Moderno (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambias mi Mundo",
         "url": "https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 290864,
       "name": "Cambias mi Mundo",
       "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Palomo Del Comalito",
-      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Palomo Del Comalito",
+      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "La San Marque\u00f1a",
-      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -727,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ken Basman",
-          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 207026,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -767,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 260013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "La San Marque\u00f1a",
+      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
     },
     {
       "added_at": null,
@@ -867,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": null,
@@ -903,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,

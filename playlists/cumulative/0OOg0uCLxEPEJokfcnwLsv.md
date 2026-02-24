@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-329 songs - 20 hr 28 min
+331 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-11-27 | 2026-01-05 |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-12 |
 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 | 2026-02-09 |  |
+| [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-02-23 |  |
 | [Reactor Startup](https://open.spotify.com/track/2q57gWobR1INudWdwk5V6Y) | [The Naives](https://open.spotify.com/artist/05VhSO0dsvH5xk905U9fdo) | [Reactor Startup](https://open.spotify.com/album/5YDkIYrHq4EGq96ThcWq28) | 2:43 | 2025-09-04 | 2026-01-21 |
 | [Reason We All Share](https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Reason We All Share](https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft) | 3:12 | 2026-02-13 |  |
 | [Rebranding](https://open.spotify.com/track/6Z3N2meIvmsTtnBnRD1yS1) | [Parademaker](https://open.spotify.com/artist/3N32APzSN5fVzl3v2MEMnx) | [Angel Baby](https://open.spotify.com/album/2Q3NJa2ORmUIPbZWkDjIZu) | 3:39 | 2026-01-24 | 2026-02-23 |
@@ -321,6 +322,7 @@
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 | 2025-12-12 |
 | [what's your co\-star](https://open.spotify.com/track/69ttQ5ci1qNndmLxLkesFA) | [size eleven](https://open.spotify.com/artist/2xw4IuGVbXLY2v5LM2IMOq) | [what's your co\-star](https://open.spotify.com/album/6C7e35f5HqUfWJXcDAUoiJ) | 2:00 | 2025-11-06 | 2025-12-12 |
 | [WHATS NEXT](https://open.spotify.com/track/3V7NCUrWKzHAvGQKSThf12) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [WHATS NEXT](https://open.spotify.com/album/12O9cLYMwQlPlFOmrxfE8o) | 2:15 | 2026-01-17 | 2026-02-18 |
+| [When All Else Fails..\. They Take You to War](https://open.spotify.com/track/64TRi6Duj1W24iLoERg6wt) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [When All Else Fails..\. They Take You to War](https://open.spotify.com/album/2BAzDBqvFrluusRqb4AVOI) | 4:00 | 2026-02-23 |  |
 | [When It's Gone](https://open.spotify.com/track/6UK0nanyICljgemAndWzw8) | [Wildstreet](https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r) | [When It's Gone](https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG) | 3:53 | 2025-12-31 | 2026-01-21 |
 | [Whiskey Breath](https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:03 | 2025-12-22 | 2026-01-21 |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-11-26 | 2026-01-05 |

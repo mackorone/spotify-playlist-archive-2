@@ -4,7 +4,7 @@
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 35 min
+103 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Failure's Not Flattering](https://open.spotify.com/track/1U57cDOAvIRFeDQCIbW6VI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:51 | 2022-09-16 | 2023-12-14 |
 | [Failures Not Flattering \(Live\) \- Bonus Track](https://open.spotify.com/track/3L5veyfVPqIo6l3r3FpDgt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:56 | 2023-02-14 | 2023-02-23 |
 | [Forget My Name](https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:09 | 2022-09-16 |  |
-| [Frankenstein's Monster](https://open.spotify.com/track/5g9qmyGxS7T7lOLJOHsTPG) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:57 | 2026-02-22 |  |
+| [Frankenstein's Monster](https://open.spotify.com/track/5g9qmyGxS7T7lOLJOHsTPG) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:57 | 2026-02-22 | 2026-02-24 |
 | [Get Me Home](https://open.spotify.com/track/1xatXm1qIuJ611sUj554pi) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:30 | 2023-03-07 | 2023-08-04 |
 | [Get Me Home](https://open.spotify.com/track/7dGXVpFugwNnH0GO5W7Fqd) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Get Me Home](https://open.spotify.com/album/3IG4fRS5ULUtDo3zguUIXS) | 3:30 | 2022-12-17 | 2023-03-08 |
 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 | 2022-09-16 | 2026-02-22 |
@@ -99,7 +99,8 @@
 | [This Disaster](https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:08 | 2023-12-13 |  |
 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 | 2022-09-16 |  |
 | [Too Good To Be](https://open.spotify.com/track/3V4x4hBaDfr5S2TuMyNKRP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 2:59 | 2022-09-16 | 2022-10-13 |
-| [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 |  |
+| [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2026-02-24 |
+| [Treat Yourself](https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 | 2026-02-24 |  |
 | [Truck Stop Blues](https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:14 | 2023-05-22 | 2026-02-22 |
 | [Truth Of My Youth](https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:02 | 2023-12-13 |  |
 | [Truth Of My Youth](https://open.spotify.com/track/7JHJCf7qCg1USvqvhIOVgW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:02 | 2022-09-16 | 2023-12-14 |

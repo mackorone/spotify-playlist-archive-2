@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 331746,
+  "num_followers": 331789,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACoBDOHqr/aDtEi3JDS57MD",
+  "snapshot_id": "aZpHAAAAAADNocYUOPbi8AOaoKohoaz0",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know Wassup",
-        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "You Know Wassup",
-      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 199209,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Know Wassup",
+        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "You Know Wassup",
+      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
     },
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONCUBANIA",
-        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
       },
       "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 256084,
-      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+      "duration_ms": 211375,
+      "name": "melt",
+      "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
       "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 211375,
-      "name": "melt",
-      "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
+      "duration_ms": 256084,
+      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
     },
     {
       "added_at": null,

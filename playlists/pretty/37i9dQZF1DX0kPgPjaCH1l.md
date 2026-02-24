@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Ayo Maff
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,981 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,060 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 32 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 33 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 |
 | 34 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
-| 35 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
-| 36 | [Shkran Lak](https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:04 |
+| 35 | [Shkran Lak](https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:04 |
+| 36 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 37 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 |
 | 38 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
 | 39 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 64 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 |
 | 65 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |
 | 66 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
-| 67 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
-| 68 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 |
+| 67 | [Dis Year](https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Dis Year](https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk) | 2:35 |
+| 68 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
 | 69 | [Pressure](https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp) | [Pressure](https://open.spotify.com/album/75tnsxQug4p92qj2Zv5xbb) | 2:46 |
-| 70 | [Dis Year](https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Dis Year](https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk) | 2:35 |
+| 70 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 |
 | 71 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 |
 | 72 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 |
 | 73 | [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 |

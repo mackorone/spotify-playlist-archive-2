@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 245910,
+  "num_followers": 245950,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "Voy Enfierrado",
-        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Voy Enfierrado",
-      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209367,
       "name": "Delivery",
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 175027,
-      "name": "ME ACTIVO",
-      "url": "https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 175027,
+      "name": "ME ACTIVO",
+      "url": "https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
+        "name": "RZR",
+        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "RZR",
+      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
         "name": "LA DURANGO",
         "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "RZR",
-        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "RZR",
-      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -963,34 +963,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Sentosa",
-        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        }
-      ],
-      "duration_ms": 151594,
-      "name": "Sentosa",
-      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -1035,6 +1007,34 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "Sentosa",
+        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "duration_ms": 151594,
+      "name": "Sentosa",
+      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
+        "name": "Mexicano Soy",
+        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Mexicano Soy",
+      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
         "name": "TUY",
         "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1215,22 +1231,6 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2026-02-06 06:00:30",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2026-02-06 06:00:30",
       "album": {
-        "name": "Robot Montana",
-        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 175730,
-      "name": "Mariguana & Tequila",
-      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2026-02-06 06:00:30",
-      "album": {
         "name": "Round 6",
         "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 216750,
       "name": "Round 6",
       "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
+    },
+    {
+      "added_at": "2026-02-06 06:00:30",
+      "album": {
+        "name": "Robot Montana",
+        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 175730,
+      "name": "Mariguana & Tequila",
+      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     },
     {
       "added_at": "2026-02-06 06:00:30",

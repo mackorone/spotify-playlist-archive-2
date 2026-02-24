@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 밍기뉴 \(Mingginyu\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-658 songs - 1 day 14 hr 43 min
+659 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-27 | 2026-01-05 |
+| [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 | 2026-02-23 |  |
 | [Deeper Than I Thought](https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Deeper Than I Thought](https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq) | 3:07 | 2025-07-11 | 2025-07-29 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 |  |
 | [Dew](https://open.spotify.com/track/4UTL3PskzpjarrW0SaIRfm) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dew](https://open.spotify.com/album/2iQh9MlACYmy5g9bzX2UaD) | 3:00 | 2025-05-20 | 2025-06-10 |
@@ -427,7 +428,7 @@
 | [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2025-12-03 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
-| [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 | 2026-01-15 |  |
+| [Romance, That Night](https://open.spotify.com/track/3RHnrd8EXoa8sNIJdson0Y) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Romance, That Night \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/10TxbJvek1C51DB8Cnmhix) | 3:23 | 2026-01-15 | 2026-02-24 |
 | [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 | 2025-01-02 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |
 | [Rosy](https://open.spotify.com/track/5HRZc7kGDmKvu2x5OhcRG6) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [Rosy](https://open.spotify.com/album/2xS4080eyHIBBvJ0W31osc) | 3:18 | 2024-08-10 | 2024-08-23 |

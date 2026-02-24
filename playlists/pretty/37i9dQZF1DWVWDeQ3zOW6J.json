@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 53384,
+  "num_followers": 10706,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALzy49DUtpr9lCXQ/SU4NDhnXQ6L",
+  "snapshot_id": "AAAAADVLrlcnzzEXnNJdFk3cZ72dsSyW",
   "tracks": [
     {
       "added_at": "2024-09-24 21:05:36",
@@ -207,6 +207,26 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 389560,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Plant\u00e9 Bandera",
         "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 389560,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
       },
@@ -291,46 +291,6 @@
       "duration_ms": 249373,
       "name": "Azuquita Pa'l Cafe",
       "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Aqui Estoy Yo, Vol. 1",
-        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
-      },
-      "artists": [
-        {
-          "name": "Charlie Aponte",
-          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
-        },
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Yayo El Indio",
-          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -379,6 +339,46 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Aqui Estoy Yo, Vol. 1",
+        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
+      },
+      "artists": [
+        {
+          "name": "Charlie Aponte",
+          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+        },
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Yayo El Indio",
+          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Bohemio y Poeta",
         "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 373560,
       "name": "Juan Pachanga",
       "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Mosaicos Tropicales",
+        "url": "https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Qui\u00e9reme Siempre",
+      "url": "https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Mosaicos Tropicales",
-        "url": "https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Qui\u00e9reme Siempre",
-      "url": "https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Melao De Ca\u00f1a",
+      "url": "https://open.spotify.com/track/7yHleQZ0QlKXBcSC6fnxie"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Fruko el Patillero",
         "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 207533,
       "name": "Patillero",
       "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Melao De Ca\u00f1a",
-      "url": "https://open.spotify.com/track/7yHleQZ0QlKXBcSC6fnxie"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Joe Cuba - El Alcalde Del Barrio",
+        "url": "https://open.spotify.com/album/5A204B0ZpW2ZYANvA4tSyL"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/7wguzZQ79ZzR1WljM25BD6"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "The Original Gangster",
         "url": "https://open.spotify.com/album/3JeCqt5x6vtDbGPYhGDmW6"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 228373,
       "name": "Calle Luna Calle Sol",
       "url": "https://open.spotify.com/track/1R8FUoJjGt0YUzHFvrQ46E"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Lo Mejor de Ray Perez - Salsa",
-        "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
-      },
-      "artists": [
-        {
-          "name": "Ray Perez",
-          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Pa'l 23",
-      "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
     },
     {
       "added_at": "2024-09-24 21:05:36",

@@ -3397,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -13308,7 +13326,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 156708,
       "name": "Ela k\u00e9 Leitada",
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
@@ -13814,7 +13832,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 501968,
       "name": "Enganchados de Carnavales",
       "url": "https://open.spotify.com/track/0ZT1Y4RPtqBLahu1rNg9pY"
@@ -17700,7 +17718,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -18936,7 +18954,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 181376,
       "name": "Hoy Tengo Ganas de Ti",
       "url": "https://open.spotify.com/track/4cA9BlhKOvPInuQhyhLyWm"
@@ -19662,7 +19680,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
@@ -23128,7 +23146,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -23696,6 +23714,28 @@
     {
       "album": {
         "name": "Machista",
+        "url": "https://open.spotify.com/album/02IhJPnSXTqE4C253vRiNN"
+      },
+      "artists": [
+        {
+          "name": "M3LOON",
+          "url": "https://open.spotify.com/artist/0a9Hj8nVifQaVUwkwT41rB"
+        },
+        {
+          "name": "ElGranAlexis",
+          "url": "https://open.spotify.com/artist/77dBqhGBLZodn35OJzEvGS"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150812,
+      "name": "Machista",
+      "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
+    },
+    {
+      "album": {
+        "name": "Machista",
         "url": "https://open.spotify.com/album/01QGN3BF5vsCzi7NgRDZrJ"
       },
       "artists": [
@@ -23710,7 +23750,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/7MBzFtzoTxGVfbqR6aSQsq"
@@ -37592,7 +37632,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 195093,
       "name": "Soberbio",
       "url": "https://open.spotify.com/track/6V3dAZqOOsCRH7j06kXSpn"
@@ -44378,7 +44418,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 265760,
       "name": "Volver A Amar",
       "url": "https://open.spotify.com/track/5HG9nVmBiZf0lyetkVHhgE"
@@ -45982,7 +46022,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 312286,
       "name": "Y \u00bfSi Fuera Ella?",
       "url": "https://open.spotify.com/track/0n0NzqYHJT6pihII20aM1Y"
@@ -46942,7 +46982,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 146246,
       "name": "\u00bfHasta D\u00f3nde Te Quiero?",
       "url": "https://open.spotify.com/track/1licjid99qj1BFIYGb3wZC"
@@ -47432,6 +47472,24 @@
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX"
+    },
+    {
+      "album": {
+        "name": "\uc544\ud649\uac00\uc9c0\uae30\ubd84",
+        "url": "https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO"
+      },
+      "artists": [
+        {
+          "name": "\ub124\uc2a4\ud2f0\uc694\ub098",
+          "url": "https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287085,
+      "name": "\uc694\ub2e8\uac15",
+      "url": "https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMTKZuy8ORFV"

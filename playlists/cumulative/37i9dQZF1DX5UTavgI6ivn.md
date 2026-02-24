@@ -2,7 +2,7 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Made pa' recordar a Yeison Jimenez 🕊️ Made in Colombia\. Foto: Yeison Jimenez y Maluma.
+> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: ARIA VEGA y Ryan Castro
 
 490 songs - 1 day 3 hr 18 min
 

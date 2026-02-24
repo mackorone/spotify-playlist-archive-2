@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADVtQ+OHDy0On227iPZCVe5",
+  "snapshot_id": "aZpHAAAAAAB2vVEZuh4jSke9s4G0C5fK",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garment Of Praise",
-        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 299489,
-      "name": "Garment Of Praise",
-      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/6ePNBkM6M9YXH7R34eJOZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garment Of Praise",
+        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 299489,
+      "name": "Garment Of Praise",
+      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call On Heaven (Come, Lord Jesus) - Live",
         "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 362680,
       "name": "The Lamb's Book of Life - Live From Passion 2025",
       "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Even So Come (Live)",
         "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 242840,
       "name": "Shout Hosanna - Live",
       "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
     },
     {
       "added_at": null,

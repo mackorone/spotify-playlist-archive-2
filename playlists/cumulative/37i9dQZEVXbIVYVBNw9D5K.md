@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,454 songs - 3 day 1 hr 27 min
+1,455 songs - 3 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-05-07 | 2023-09-24 |
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
 | [Ayrı Gitme](https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Ayrı Gitme](https://open.spotify.com/album/5b3o7hyawkpD22rtOtkzuq) | 2:35 | 2023-12-12 | 2025-05-04 |
+| [Ayy / Ben Hala Rüyada](https://open.spotify.com/track/1Pa4L24EJtTPkpftbmzeUb) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Ben Hala Rüyada](https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN) | 3:18 | 2026-02-23 |  |
 | [Azar Azar](https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Azar Azar](https://open.spotify.com/album/70Ou8qkOFl2LwnvnEO3bex) | 3:00 | 2024-09-28 | 2024-10-02 |
 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 | 2024-12-09 | 2025-01-18 |
 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-26 | 2025-06-06 |
@@ -493,7 +494,7 @@
 | [Eylülzede](https://open.spotify.com/track/0dOPzV1j3sDugGZLwGeXqC) | [Slower Brindar](https://open.spotify.com/artist/2QZjiie3Vb77QzFcBWLDV2) | [Eylülzede](https://open.spotify.com/album/4T2fSo84ou02ikDquiw4J5) | 4:30 | 2025-11-17 | 2025-11-25 |
 | [Eyvah](https://open.spotify.com/track/4dJHOcTO4jWVTrNYiNtJmf) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Eyvah](https://open.spotify.com/album/10JevKnjSx3Oc2TAbut0MF) | 2:27 | 2023-06-10 | 2023-06-15 |
 | [Eyvah Neye Yarar](https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 3:05 | 2024-01-02 | 2024-03-22 |
-| [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 | 2025-07-05 |  |
+| [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 | 2025-07-05 | 2026-02-24 |
 | [FaceTime](https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [FaceTime](https://open.spotify.com/album/5qMUWVPjDCt6kr3pTOiYLr) | 3:00 | 2024-08-31 | 2024-09-02 |
 | [facia](https://open.spotify.com/track/2KBObs1h1NpOukx2FLGQHN) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [facia](https://open.spotify.com/album/1gg3BF1verwcSphkQ7vWAI) | 2:25 | 2022-07-23 | 2022-08-01 |
 | [Fam](https://open.spotify.com/track/0Jv3YblNkJR7ADGcuUzFLR) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 4:40 | 2026-01-24 | 2026-02-02 |

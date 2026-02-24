@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Gab Bouchard
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,396 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,400 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 54 | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/track/2pWQsNOLo1NAI3i1tv4yZA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Par hasard \(avec Ariane Moffatt\)](https://open.spotify.com/album/6Ht9OQ3Nfij8YumkGeXjZ2) | 3:12 |
 | 55 | [Briller \- Golden \- version française](https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [Alexiane Broque](https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD), [Jeanne Jérosme](https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK), [Clotilde Verry](https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab) | 3:12 |
 
-Snapshot ID: `AAAAACMba+fGqyTfrhmQII8FfI2FltMC`
+Snapshot ID: `AAAAANIPdbULQ4U1fwHTX8a1gCF/UPvX`

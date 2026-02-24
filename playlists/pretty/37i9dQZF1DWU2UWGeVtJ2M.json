@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168271,
+  "num_followers": 168265,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 197487,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/2lHcXT4x2UOOQCjHVBftcs"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/60GK9ifHXOrJXJq46lwILc"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 197487,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Dva (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2njhI39km75PtiP4JNIOza"
-      },
-      "artists": [
-        {
-          "name": "Emika",
-          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Dva (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2njhI39km75PtiP4JNIOza"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1307,6 +1291,22 @@
       "duration_ms": 231034,
       "name": "Diamond Miner",
       "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
+        "name": "Emo Regulation",
+        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
       },
       "artists": [
         {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
         }
       ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

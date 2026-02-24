@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -18738,7 +18738,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -24751,6 +24751,24 @@
     },
     {
       "album": {
+        "name": "Golden Era - The High Life",
+        "url": "https://open.spotify.com/album/5f4WGvAfji8r9DKCIDNNXq"
+      },
+      "artists": [
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167047,
+      "name": "Highlife",
+      "url": "https://open.spotify.com/track/3oKRQ4a0iiO8tZ4tbt0ra0"
+    },
+    {
+      "album": {
         "name": "HIMMEL",
         "url": "https://open.spotify.com/album/4RFjoLe8T9ILFmtz5wAlPI"
       },
@@ -25190,7 +25208,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -26052,6 +26070,24 @@
       "duration_ms": 239835,
       "name": "I Cant Lose",
       "url": "https://open.spotify.com/track/47NGsHkkd5yiWXGkW7a5VN"
+    },
+    {
+      "album": {
+        "name": "I Deserve (Bonus)",
+        "url": "https://open.spotify.com/album/3U8LLNcqi3ixCRzo9hMKFX"
+      },
+      "artists": [
+        {
+          "name": "Stevieknocks",
+          "url": "https://open.spotify.com/artist/2uDB7RhtZg3jHuIhjDHxGe"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182759,
+      "name": "I Deserve (Bonus)",
+      "url": "https://open.spotify.com/track/5NS2KTgZE7H2OdzBimc8tO"
     },
     {
       "album": {
@@ -32706,7 +32742,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 154434,
       "name": "Lord Speech",
       "url": "https://open.spotify.com/track/4hpB0qTWdyAfP6iQN1t3Yl"
@@ -36044,7 +36080,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -37498,6 +37534,24 @@
       "duration_ms": 230545,
       "name": "More Of Us",
       "url": "https://open.spotify.com/track/3iu8TT9y4zaErHoWPn4rkm"
+    },
+    {
+      "album": {
+        "name": "MORE THAN A FRIEND",
+        "url": "https://open.spotify.com/album/5jcZxIrPDQnLNUMxIafVQh"
+      },
+      "artists": [
+        {
+          "name": "Elijah Connor",
+          "url": "https://open.spotify.com/artist/2Eq3PYdo7axuRuQOp2SxJD"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "MORE THAN A FRIEND",
+      "url": "https://open.spotify.com/track/4UPbJ6P4ETk3ZzLqKegb6J"
     },
     {
       "album": {
@@ -39456,7 +39510,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -40946,7 +41000,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI"
@@ -41592,7 +41646,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -44570,7 +44624,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -47022,7 +47076,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -52814,7 +52868,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -59071,6 +59125,32 @@
     },
     {
       "album": {
+        "name": "Two Car Garage",
+        "url": "https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182886,
+      "name": "Two Car Garage",
+      "url": "https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI"
+    },
+    {
+      "album": {
         "name": "Two Faced",
         "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
       },
@@ -60604,7 +60684,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
@@ -62109,6 +62189,24 @@
     },
     {
       "album": {
+        "name": "WHAT IT DO",
+        "url": "https://open.spotify.com/album/2cO7O261nZVKHRCXDtqyyp"
+      },
+      "artists": [
+        {
+          "name": "SEMI",
+          "url": "https://open.spotify.com/artist/0brVa9lIuE0LaAE8nRmhao"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "WHAT IT DO",
+      "url": "https://open.spotify.com/track/20vTCopW27ZoIMlqPaiAd2"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -62226,7 +62324,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"

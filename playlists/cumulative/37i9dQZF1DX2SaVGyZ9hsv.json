@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "VIBES DON'T LIE (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/3LbzC9LXEbSaHDtJuN8xL6"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218559,
+      "name": "VIBES DON'T LIE (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2vG4YG3UimqjGujSLBNXHG"
+    },
+    {
+      "album": {
         "name": "We Might Even Be Falling In Love (Duet)",
         "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
       },

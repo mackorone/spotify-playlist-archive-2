@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Fred & Fabrício, U2, Hugo Henrique com Ana Castela, Mc Don Juan, Manu e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,940 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258,872 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 44 | [Filho Feio](https://open.spotify.com/track/4ziY5ZVhlhfKIdR7YKtNY0) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [LYONS PROD.](https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr), [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE) | [Filho Feio](https://open.spotify.com/album/68yZsxwi6uLoSctptnWorI) | 1:56 |
 | 45 | [Sofrimento Equilibrado \- Conexão, Ao Vivo](https://open.spotify.com/track/6bbwlRQ2f8tKMUT1eqzltZ) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Sofrimento Equilibrado \(Conexão, Ao Vivo\)](https://open.spotify.com/album/64t9rue5g2t4EuWRR7UReQ) | 2:48 |
 | 46 | [Não Para Não](https://open.spotify.com/track/1aPNeoS9bmniMHWcUHN7Ss) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS), [Yslan](https://open.spotify.com/artist/5ICF8CSMb2aeS0l5mvis7H) | [Não Para Não](https://open.spotify.com/album/3o1ivUBPdFZ2gnl3mUecwh) | 1:41 |
-| 47 | [Que toda dor vire dinheiro](https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ) | [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw) | [Que toda dor vire dinheiro](https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF) | 1:54 |
+| 47 | [Que toda dor vire dinheiro](https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ) | [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw) | [Que toda dor vire dinheiro](https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF) | 2:00 |
 | 48 | [COMUM](https://open.spotify.com/track/0Kg7nwpDBXttC8jCVQogQd) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Murilo Barua Silva](https://open.spotify.com/artist/66ovAZ6xL4UmyQ2zX22tXw), [Kyu](https://open.spotify.com/artist/47x0E5z39Me6o8rJ1o4wc9) | [COMUM](https://open.spotify.com/album/06pg4DiDrZlPbb8qH7oWvi) | 3:04 |
 | 49 | [O mar agitou e acabamos naufragados](https://open.spotify.com/track/5oUJiqL0eu178RxECarUu3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [pibara](https://open.spotify.com/artist/5Ur7VLsD9hik9MAJWrnx2k), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [O mar agitou e acabamos naufragados](https://open.spotify.com/album/0J8wga9TKCzfGq5sUDQ9mz) | 1:57 |
 | 50 | [RiTÍmin da Tília](https://open.spotify.com/track/2Kn7DqkmPxR8PFe680PzZg) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [RiTÍmin da Tília](https://open.spotify.com/album/05hHHho8PbEyPi4KIfXc2c) | 1:34 |

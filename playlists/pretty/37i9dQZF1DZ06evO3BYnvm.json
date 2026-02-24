@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 48251,
+  "num_followers": 48278,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABghrLj1qI/q/BVCVXRrZKD",
+  "snapshot_id": "aZpHAAAAAAD5KETM/CJvl/EgmtOMfgu4",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 201070,
-      "name": "Stream Of Consciousness",
-      "url": "https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O"
+      "duration_ms": 179977,
+      "name": "Semantic Satiation",
+      "url": "https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bose x NME: C24",
-        "url": "https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD"
+        "name": "Blue (2AM)",
+        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 78322,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv"
+      "duration_ms": 231234,
+      "name": "Pill or a Lullaby (4AM till sunrise)",
+      "url": "https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs"
     },
     {
       "added_at": null,
@@ -520,15 +520,15 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 179977,
-      "name": "Semantic Satiation",
-      "url": "https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5"
+      "duration_ms": 201070,
+      "name": "Stream Of Consciousness",
+      "url": "https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blue (2AM)",
-        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
+        "name": "Bose x NME: C24",
+        "url": "https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 231234,
-      "name": "Pill or a Lullaby (4AM till sunrise)",
-      "url": "https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs"
+      "duration_ms": 78322,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv"
     },
     {
       "added_at": null,

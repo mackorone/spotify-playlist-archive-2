@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-287 songs - 15 hr 45 min
+288 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Christmas Angel](https://open.spotify.com/track/6MBil1JRoxDGcBoAFqrVoW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Christmas Angel](https://open.spotify.com/album/1FlHC4DRyMXDrg3xsaxh8a) | 2:55 | 2025-11-24 | 2025-12-21 |
 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 | 2025-11-29 |
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/1GE7KYGZW7qIFQSXaK328F) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [A Living Room Christmas](https://open.spotify.com/album/1T6dFnGqYWcZpnQbWgumWm) | 3:12 | 2023-10-16 | 2024-11-12 |
-| [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
+| [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 | 2026-02-24 |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2026-01-04 |
 | [Christmas Everyday](https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Christmas Everyday \- Single](https://open.spotify.com/album/0XX9kEAXQZRSxxlAwSADvU) | 2:09 | 2021-11-12 | 2022-07-29 |
 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 | 2021-11-12 | 2026-01-15 |
@@ -206,6 +206,7 @@
 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 | 2021-11-12 | 2023-04-10 |
 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 | 2021-11-12 | 2022-07-14 |
 | [Rudolph](https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:31 | 2024-12-17 |  |
+| [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 | 2025-12-17 |  |
 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 | 2021-11-12 | 2026-02-01 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5pzEgKArztxeQZmFfnSsBE) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/2jl6Yn3j1xfN6GWDoSMbHn) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/7ud0O2AQDopiy12slERpWG) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/4weBbbWNHkVUshQRRQdJUP) | 3:27 | 2021-12-15 | 2022-07-23 |

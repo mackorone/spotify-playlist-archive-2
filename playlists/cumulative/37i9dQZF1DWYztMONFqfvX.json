@@ -1351,6 +1351,32 @@
     },
     {
       "album": {
+        "name": "Ek Din Title Track (From \"Ek Din\")",
+        "url": "https://open.spotify.com/album/4k1ssT85lMzmK3hi3ACZjT"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Ek Din Title Track - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB"
+    },
+    {
+      "album": {
         "name": "OK Jaanu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6"
       },
@@ -2464,7 +2490,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 374500,
       "name": "Maatrubhumi (From \"Battle Of Galwan\")",
       "url": "https://open.spotify.com/track/3kvTEKHAxKZLKXnMi5ev6L"

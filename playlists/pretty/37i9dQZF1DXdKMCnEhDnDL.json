@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Ronnie Flex, Acda en de Munnik",
-  "num_followers": 524743,
+  "num_followers": 524728,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAmp33DL98+VC95Kx1G/gaacog8",
+  "snapshot_id": "AAAAAEcxAE+AzzlATlezgDcMv/uHqGnY",
   "tracks": [
     {
       "added_at": "2026-02-18 12:14:20",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-02-18 12:14:20",
       "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "added_at": "2026-02-18 12:14:20",
+      "album": {
         "name": "Zij is voor mij",
         "url": "https://open.spotify.com/album/6d7QP92PjS3Y3Z4bVhlBgm"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 190499,
       "name": "Droom Jij Over Mij Vannacht",
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
-    },
-    {
-      "added_at": "2026-02-18 12:14:20",
-      "album": {
-        "name": "Huisje Aan De Zee",
-        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Huisje Aan De Zee",
-      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
       "added_at": "2026-02-18 12:14:20",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-18 12:14:20",
       "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+    },
+    {
+      "added_at": "2026-02-18 12:14:20",
+      "album": {
         "name": "Hoogtevrees",
         "url": "https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 200319,
       "name": "If Not Now Then When",
       "url": "https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9"
-    },
-    {
-      "added_at": "2026-02-18 12:14:20",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
       "added_at": "2026-02-18 12:14:20",

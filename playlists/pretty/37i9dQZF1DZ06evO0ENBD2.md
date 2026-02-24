@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,969,749 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,969,827 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 34 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1e9Tt3nKBwRbuaU79kN3dn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Remastered Version\)](https://open.spotify.com/album/2RKEso6nin3nhRyAd36Omv) | 2:48 |
 | 35 | ['39 \- Remastered 2011](https://open.spotify.com/track/0kIpcu3DQacQObHVyra9Jx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 3:30 |
 | 36 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/1CKo7tzWiPzIGXc28DrABh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 4:49 |
-| 37 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/5QKWBo5Npc0W9zhy8rRIBq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/0twNBk33toCSvUBJdutVAE) | 2:47 |
-| 38 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/5nv5hodQpAMoT2PqSVmakE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 0:41 |
+| 37 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/5nv5hodQpAMoT2PqSVmakE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 0:41 |
+| 38 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/5QKWBo5Npc0W9zhy8rRIBq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/0twNBk33toCSvUBJdutVAE) | 2:47 |
 | 39 | [One Vision \- Remastered 2011](https://open.spotify.com/track/0xzhryP1AoHUazYdJ5rj3B) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 5:11 |
 | 40 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/35balOkqaPZ4IrvZtG3YNg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 5:24 |
-| 41 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/6hvFXQ9Kmsabx520Xlu5rK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 4:34 |
-| 42 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/5SWhZ7Xn6t7TowUp77vaUz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 3:57 |
+| 41 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/5SWhZ7Xn6t7TowUp77vaUz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 3:57 |
+| 42 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/6hvFXQ9Kmsabx520Xlu5rK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 4:34 |
 | 43 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/5jNn9QeC5PCZl3t27eusXg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 3:33 |
 | 44 | [Headlong \- Remastered 2011](https://open.spotify.com/track/7vSmcmanxnODX5Xx5JrI4p) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:37 |
 | 45 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/0h15VlXIzD1MwKwNi12ois) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0c6gaX6Av1GfiXXqfq9Jox) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Platinum Collection \(Greatest Hits I II & III \- 2011 Remaster\)](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 5:07 |
 | 50 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 |
 
-Snapshot ID: `aZj1gAAAAADmMGhVSVhSbUrGcV6Ev1iT`
+Snapshot ID: `aZpHAAAAAADm0UvPxSaO79n+A7RWWIJW`

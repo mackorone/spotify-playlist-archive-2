@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,583 likes - 121 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,564 likes - 121 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psykoser](https://open.spotify.com/track/05WIutjuxxjZsI5wJNBg3p) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Psykoser](https://open.spotify.com/album/1g97WzBaMVqnnMt9vh5LA2) | 2:53 |
 | 2 | [Du gamla du fria](https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Du gamla du fria](https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq) | 2:06 |
 | 3 | [Stockholmsbrud](https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Stockholmsbrud](https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L) | 1:41 |
-| 4 | [Aaliyah](https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Aaliyah](https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC) | 2:36 |
-| 5 | [Bandit \(Hassela\)](https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Bandit \(Hassela\)](https://open.spotify.com/album/25Z9WxiUChb5juAzX7SyLu) | 3:06 |
-| 6 | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH) | 2:38 |
-| 7 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 |
-| 8 | [Kan Bli Vad Du Vill](https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Claylist Deleted Scenes](https://open.spotify.com/album/6DEDj6iElmeGnaeQQlthfi) | 3:24 |
-| 9 | [Dangerous](https://open.spotify.com/track/63v6J4OkLmDiY1aHVNxMsC) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Dangerous](https://open.spotify.com/album/3YYfdiJu4aNIi39LZdCm1Z) | 2:15 |
-| 10 | [En Chans](https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [En Chans](https://open.spotify.com/album/0wPvF7pc4bZc3BK6I93h84) | 2:01 |
-| 11 | [100 gånger](https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [100 gånger](https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j) | 2:37 |
-| 12 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
-| 13 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
-| 14 | [Svar](https://open.spotify.com/track/74s2tNXnObI1fHh8P9nVFv) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Svar](https://open.spotify.com/album/2bapCrFLjJbu3U7exHggVT) | 2:02 |
+| 4 | [Bandit \(Hassela\)](https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Bandit \(Hassela\)](https://open.spotify.com/album/25Z9WxiUChb5juAzX7SyLu) | 3:06 |
+| 5 | [Aaliyah](https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Aaliyah](https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC) | 2:36 |
+| 6 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 |
+| 7 | [Dangerous](https://open.spotify.com/track/63v6J4OkLmDiY1aHVNxMsC) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Dangerous](https://open.spotify.com/album/3YYfdiJu4aNIi39LZdCm1Z) | 2:15 |
+| 8 | [En Chans](https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [En Chans](https://open.spotify.com/album/0wPvF7pc4bZc3BK6I93h84) | 2:01 |
+| 9 | [100 gånger](https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [100 gånger](https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j) | 2:37 |
+| 10 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
+| 11 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
+| 12 | [Svar](https://open.spotify.com/track/74s2tNXnObI1fHh8P9nVFv) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Svar](https://open.spotify.com/album/2bapCrFLjJbu3U7exHggVT) | 2:02 |
+| 13 | [Ma Bella](https://open.spotify.com/track/6KSIIl2AjtHbUUtILtwcHG) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Ma Bella](https://open.spotify.com/album/1Mc5HejQXI1aApu4ZvSYF7) | 2:09 |
+| 14 | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH) | 2:38 |
 | 15 | [WINGMAN](https://open.spotify.com/track/1y5I9JZw8xzoAOzPWyrJxY) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [WINGMAN](https://open.spotify.com/album/3XJ5JO0d3VGESPZQwAnQN8) | 2:21 |
 | 16 | [Hold My Hand](https://open.spotify.com/track/1GQJUqQcUVwGU8NgCPywvL) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hold My Hand](https://open.spotify.com/album/6wfUGdWF1qpvMtrANVj4TA) | 2:56 |
 | 17 | [We Get Paid](https://open.spotify.com/track/0ZQ8dJaXA94uPZqFyYH19N) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [We Get Paid](https://open.spotify.com/album/1wZBBZV8iIiW0R14RAUmyA) | 2:00 |
-| 18 | [LALALA](https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB) | [Adouli](https://open.spotify.com/artist/0D7xlQDyHU73mrurTwo0Fu), [Alex Lejonhjärta](https://open.spotify.com/artist/0QDBPTgCSmv3mKNyvY7ATB) | [LALALA](https://open.spotify.com/album/6oPh7s4lNmI1e1ldUwQVTR) | 2:39 |
-| 19 | [More Money](https://open.spotify.com/track/0AoOhvejPWd70JPMHmAKMm) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [More Money](https://open.spotify.com/album/0OBio2AGM3C7ZL0xqAKQnp) | 2:05 |
-| 20 | [Självporträtt](https://open.spotify.com/track/5YPVaYJFsIWk982PtEB5pG) | [Mattis](https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK) | [Självporträtt](https://open.spotify.com/album/4SAKb95J5i6BimSNOjU86t) | 2:29 |
-| 21 | [Ma Bella](https://open.spotify.com/track/6KSIIl2AjtHbUUtILtwcHG) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Ma Bella](https://open.spotify.com/album/1Mc5HejQXI1aApu4ZvSYF7) | 2:09 |
-| 22 | [LÅNGT BORT](https://open.spotify.com/track/7zYIepuvq0QCKxF5RtGsGY) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [LÅNGT BORT](https://open.spotify.com/album/2MXbOeNq0MgonITC9iRMxd) | 2:31 |
-| 23 | [PLATS](https://open.spotify.com/track/7v2WS0PtWoigTLwKB4C7SQ) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [PLATS](https://open.spotify.com/album/7q2xccEnfyxpd0Qu3yGFFG) | 2:35 |
-| 24 | [5 On It](https://open.spotify.com/track/0jQKRPucDQr9ExeDHcVTEO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [5 On It](https://open.spotify.com/album/10ovo6Nqu1fHX6ym6SV679) | 2:04 |
+| 18 | [Kan Bli Vad Du Vill](https://open.spotify.com/track/5eqfkxCF4JffnPG8i7lrTa) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Claylist Deleted Scenes](https://open.spotify.com/album/6DEDj6iElmeGnaeQQlthfi) | 3:24 |
+| 19 | [LALALA](https://open.spotify.com/track/78pBedhixcXbzOpvNWELWB) | [Adouli](https://open.spotify.com/artist/0D7xlQDyHU73mrurTwo0Fu), [Alex Lejonhjärta](https://open.spotify.com/artist/0QDBPTgCSmv3mKNyvY7ATB) | [LALALA](https://open.spotify.com/album/6oPh7s4lNmI1e1ldUwQVTR) | 2:39 |
+| 20 | [More Money](https://open.spotify.com/track/0AoOhvejPWd70JPMHmAKMm) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [More Money](https://open.spotify.com/album/0OBio2AGM3C7ZL0xqAKQnp) | 2:05 |
+| 21 | [LÅNGT BORT](https://open.spotify.com/track/7zYIepuvq0QCKxF5RtGsGY) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [LÅNGT BORT](https://open.spotify.com/album/2MXbOeNq0MgonITC9iRMxd) | 2:31 |
+| 22 | [PLATS](https://open.spotify.com/track/7v2WS0PtWoigTLwKB4C7SQ) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [PLATS](https://open.spotify.com/album/7q2xccEnfyxpd0Qu3yGFFG) | 2:35 |
+| 23 | [5 On It](https://open.spotify.com/track/0jQKRPucDQr9ExeDHcVTEO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [5 On It](https://open.spotify.com/album/10ovo6Nqu1fHX6ym6SV679) | 2:04 |
+| 24 | [Självporträtt](https://open.spotify.com/track/5YPVaYJFsIWk982PtEB5pG) | [Mattis](https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK) | [Självporträtt](https://open.spotify.com/album/4SAKb95J5i6BimSNOjU86t) | 2:29 |
 | 25 | [ANDETAG](https://open.spotify.com/track/0zwfrmzsrb9nVEFuY9c1Hm) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [ANDETAG](https://open.spotify.com/album/5BomQ3n1eL2Ld3XY4GhLys) | 2:41 |
 | 26 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
 | 27 | [Ya Dellali](https://open.spotify.com/track/0YMYxlW6StWKmHw4LFimb6) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Ya Dellali](https://open.spotify.com/album/0RjtfPPlu1OT5IS4hkmGrF) | 3:02 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 120 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 121 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 |
 
-Snapshot ID: `AAAAAItmSCrvmpIxX3PIGr+Zl3omtla/`
+Snapshot ID: `AAAAAFFaHSt2XU5R1lC2WwAiMudniafW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,613 likes - 75 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,658 likes - 75 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [Blood is Still the Blood \- Live](https://open.spotify.com/track/4PWBFMQuYfdZpj1SDXrxtP) | [Hope City Worship](https://open.spotify.com/artist/56nadbKWQJwbBUyVipnV1d), [Kim Onyia](https://open.spotify.com/artist/7hHsKjcEhsJV8NiOwVqgEQ), [Rodney Douglas Jr.](https://open.spotify.com/artist/3nyHKNDuPdpMHyGK5iPcRg) | [Hope City Worship Sunday Sessions \(Live\)](https://open.spotify.com/album/5atBr5nvmqObn2UAGbkLMq) | 6:12 |
 | 75 | [Peace Has A Name](https://open.spotify.com/track/0HYZQZFX8SHZBg61tEj2eh) | [God Aura](https://open.spotify.com/artist/30oliTd0fltujHzWkpdVjR), [Hannah Everhart](https://open.spotify.com/artist/2gnbuL9f98xeR6Kp4fRxtb) | [Wonderful Child](https://open.spotify.com/album/1arhnSDqdwTyr1d0koN1Iz) | 2:13 |
 
-Snapshot ID: `AAAAAH11vuBItwYWKYhlfiLB3h/1ttFv`
+Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`

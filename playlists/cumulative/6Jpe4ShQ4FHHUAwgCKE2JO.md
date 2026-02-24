@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-51 songs - 3 hr 6 min
+52 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Comin' Home](https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Red of Tooth and Claw](https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK) | 3:35 | 2025-03-02 |  |
 | [Counterfeit Florida Plates](https://open.spotify.com/track/1ccuaO1iJuv4bBKsv790af) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:22 | 2025-02-12 |  |
 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 | 2023-05-10 |  |
+| [Dust Bowl Dance](https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:43 | 2026-02-23 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 | 2025-09-29 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2023-12-01 |  |

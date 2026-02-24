@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 141186,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO"
@@ -12185,6 +12185,24 @@
     },
     {
       "album": {
+        "name": "LEAVE THE WORLD BEHIND",
+        "url": "https://open.spotify.com/album/0vhWLJPLOryAhlxza9K77D"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "LEAVE THE WORLD BEHIND",
+      "url": "https://open.spotify.com/track/1rNNhqJ82CtoyPlV1rt6Mq"
+    },
+    {
+      "album": {
         "name": "Let Me Go Home",
         "url": "https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl"
       },
@@ -13064,7 +13082,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 157894,
       "name": "Loved You",
       "url": "https://open.spotify.com/track/7gBDKSaeAGQfZkv9aVer3F"
@@ -22708,6 +22726,24 @@
       "duration_ms": 151592,
       "name": "Weapons",
       "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
+    },
+    {
+      "album": {
+        "name": "luck... or something",
+        "url": "https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196867,
+      "name": "Weather For Tennis",
+      "url": "https://open.spotify.com/track/7lPuRK4llInMs7m7lGkDCM"
     },
     {
       "album": {

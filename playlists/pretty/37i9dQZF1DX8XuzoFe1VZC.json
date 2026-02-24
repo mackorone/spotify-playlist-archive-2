@@ -1,6 +1,6 @@
 {
   "description": "Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas \ud83c\udf51",
-  "num_followers": 540263,
+  "num_followers": 540272,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2026-02-13 18:57:30",
+      "album": {
         "name": "Universidad",
         "url": "https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 156377,
       "name": "Universidad",
       "url": "https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7"
-    },
-    {
-      "added_at": "2026-02-13 18:57:30",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1863,22 +1863,22 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "ESTA ES TU CASA NENA",
-        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
+        "name": "Como en el Idilio",
+        "url": "https://open.spotify.com/album/41JrkRjJsRo8EgXELTlhsn"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 209616,
-      "name": "ESTA ES TU CASA NENA",
-      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
+      "duration_ms": 267683,
+      "name": "Como en el Idilio",
+      "url": "https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ"
     },
     {
       "added_at": "2026-02-13 18:57:30",
@@ -1899,22 +1899,22 @@
     {
       "added_at": "2026-02-13 18:57:30",
       "album": {
-        "name": "Como en el Idilio",
-        "url": "https://open.spotify.com/album/41JrkRjJsRo8EgXELTlhsn"
+        "name": "ESTA ES TU CASA NENA",
+        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         },
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 267683,
-      "name": "Como en el Idilio",
-      "url": "https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ"
+      "duration_ms": 209616,
+      "name": "ESTA ES TU CASA NENA",
+      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
     }
   ],
   "unique_name": "Buen D\u00eda :)",

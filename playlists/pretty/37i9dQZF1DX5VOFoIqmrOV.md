@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,582 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,676 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 23 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 |
 | 24 | [Mastaaru Mastaaru \(From "Sir"\)\(Telugu\)](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Mastaaru Mastaaru \(From "Sir"\)\(Telugu\)](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 25 | [Gundellonaa](https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/album/4eRBY1Mz7XTF95Vs2baAbZ) | 3:20 |
-| 26 | [Arerey Manasa](https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Falaknuma Das \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE) | 5:01 |
-| 27 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi, Shashaa Tirupati, Yazin Nizar](https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 26 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi, Shashaa Tirupati, Yazin Nizar](https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
+| 27 | [Arerey Manasa](https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Falaknuma Das \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE) | 5:01 |
 | 28 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 |
 | 29 | [Srivalli \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Srivalli \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL) | 3:41 |
 | 30 | [Love Me Again](https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 4:06 |

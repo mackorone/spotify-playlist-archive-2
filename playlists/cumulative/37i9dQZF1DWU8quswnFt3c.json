@@ -17151,6 +17151,32 @@
     },
     {
       "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv"
+      },
+      "artists": [
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam"
+    },
+    {
+      "album": {
         "name": "Good Luck in Chicago",
         "url": "https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0"
       },
@@ -25966,6 +25992,24 @@
       "duration_ms": 201720,
       "name": "Looking Backward",
       "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "album": {
+        "name": "Looks Like",
+        "url": "https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Looks Like",
+      "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
     },
     {
       "album": {
@@ -38528,7 +38572,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 196058,
       "name": "Semnal \u00een Rai",
       "url": "https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z"
@@ -46294,7 +46338,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 196874,
       "name": "volta atr\u00e1s",
       "url": "https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ"

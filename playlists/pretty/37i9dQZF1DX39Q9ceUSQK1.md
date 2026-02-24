@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Honey I'm Home
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,389 likes - 110 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,394 likes - 110 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

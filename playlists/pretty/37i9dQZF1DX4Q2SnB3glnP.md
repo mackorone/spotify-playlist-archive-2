@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,875 likes - 200 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,053 likes - 200 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 199 | [Shaman](https://open.spotify.com/track/7IBIbMxMNwsM0n4cybdixM) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Shaman](https://open.spotify.com/album/4cD9O722mCZHKOM3QpZayl) | 3:12 |
 | 200 | [Minimalism](https://open.spotify.com/track/5laiZzbC5Z5GNuORUYEP1O) | [May Vincent](https://open.spotify.com/artist/2dkSAijcU4sEk5Oa8HDMnT) | [Minimalism](https://open.spotify.com/album/3ESnEyz7MrlSxE6Dje1UEJ) | 2:16 |
 
-Snapshot ID: `AAAAAKXyLN/RDcdSuUQSTJAHQ1G96lNi`
+Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`

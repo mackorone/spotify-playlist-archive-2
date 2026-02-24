@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,784 likes - 179 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,907 likes - 179 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go](https://open.spotify.com/track/5bwYtX3yntv2IZOwwlZLyF) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Go](https://open.spotify.com/album/04sxBKraebwT1MTT8QVLRH) | 3:45 |
-| 2 | [All This Time](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [All This Time](https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF) | 3:30 |
-| 3 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 |
-| 4 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 |
-| 5 | [Confession](https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2) | 2:35 |
-| 6 | [Only Here For You](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Only Here For You](https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z) | 3:05 |
-| 7 | [Dive In](https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j) | [Only Chris](https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Dive In](https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz) | 2:19 |
+| 1 | [All This Time](https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [All This Time](https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF) | 3:30 |
+| 2 | [Only Here For You](https://open.spotify.com/track/2CgcrtKJGwwTQVdybwnsZS) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Only Here For You](https://open.spotify.com/album/6Wg6O05FkAFYI2G3ounA2z) | 3:05 |
+| 3 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 |
+| 4 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 |
+| 5 | [Dive In](https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j) | [Only Chris](https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Dive In](https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz) | 2:19 |
+| 6 | [Go](https://open.spotify.com/track/5bwYtX3yntv2IZOwwlZLyF) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Go](https://open.spotify.com/album/04sxBKraebwT1MTT8QVLRH) | 3:45 |
+| 7 | [Confession](https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2) | 2:35 |
 | 8 | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/track/3y6Wh7BsLT647kPBGt8zdr) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Can You Imagine \(with Bipolar Sunshine\)](https://open.spotify.com/album/3dsHgTlqQSqn02QrY5vKYG) | 2:40 |
 | 9 | [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 |
 | 10 | [Stay 4 U](https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Stay 4 U](https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7) | 3:04 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 178 | [Waiting](https://open.spotify.com/track/1PyeM0ERIuOKITW3bnzuw3) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Waiting](https://open.spotify.com/album/1GgmFQTGmstXgQd4WEfQxV) | 2:42 |
 | 179 | [We Rise \- CloudNone & Eyezic Remix](https://open.spotify.com/track/0IfJHqvnpRPFKddPS6wlCP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [We Rise \(eyezic & CloudNone Remix\)](https://open.spotify.com/album/5bshx8rUTJDhy1HYZtgCmF) | 3:29 |
 
-Snapshot ID: `AAAAAM4kCsLNthhFynE0SwjHcdo4TAQK`
+Snapshot ID: `AAAAAK1ZTgm5XZkZoGUTCIOSj285JTHL`

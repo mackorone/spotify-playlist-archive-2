@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,165 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,168 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 25 | [Labios Rojos \(Version Norteña\)](https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 4:10 |
 | 26 | [Nuestro Final](https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:05 |
 | 27 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 |
-| 28 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
+| 28 | [Arrancarte](https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Despedida](https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD) | 2:43 |
 | 29 | [Quiero Darte \(Version Norteña\)](https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:29 |
-| 30 | [Arrancarte](https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Despedida](https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD) | 2:43 |
+| 30 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
 | 31 | [Esto Avanza](https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:23 |
 | 32 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 33 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Duele Saber](https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:39 |
 | 50 | [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 |
 
-Snapshot ID: `aZj1gAAAAAAmmUtEhQqUswROMV0h5aJF`
+Snapshot ID: `aZpHAAAAAACQxiqcypccvVfdl5fU9+uM`

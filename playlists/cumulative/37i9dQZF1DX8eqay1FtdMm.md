@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Tei \(테이\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-638 songs - 1 day 17 hr 44 min
+639 songs - 1 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-04 | 2022-08-19 |
 | [Goodbye to longing](https://open.spotify.com/track/5AiOu5WPYJ2e9209prcQTA) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [33.3](https://open.spotify.com/album/6PRU6ysVA75xD2OTE9X0SX) | 3:50 | 2023-12-01 | 2024-01-13 |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2021-12-20 |  |
-| [Guilt](https://open.spotify.com/track/3TMIl4bxG9D4nlJQjkMJwz) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [Guilt](https://open.spotify.com/album/2DyLO9uBuy8jN4hMeyPRyJ) | 4:30 | 2026-01-15 |  |
+| [Guilt](https://open.spotify.com/track/3TMIl4bxG9D4nlJQjkMJwz) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [Guilt](https://open.spotify.com/album/2DyLO9uBuy8jN4hMeyPRyJ) | 4:30 | 2026-01-15 | 2026-02-24 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2023-07-12 |
 | [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 | 2024-07-24 |
 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 | 2023-05-25 | 2025-11-26 |
@@ -537,6 +537,7 @@
 | [Tonight](https://open.spotify.com/track/5rQtJn1xB1tBPcRCgJVmKw) | [Yeonhui](https://open.spotify.com/artist/5BLzx1GY6Y5h22Qswt8VZc) | [Tonight](https://open.spotify.com/album/2sOO7BZZjUj6RGl7IgkIbp) | 3:19 | 2022-03-31 | 2022-04-22 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2024-02-20 | 2024-04-24 |
 | [Trickle Down](https://open.spotify.com/track/1BABEuRAAPzzDDgbsJhFI0) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [ENDAND](https://open.spotify.com/album/4I6W6VKYZqjbVg2U1nS0H7) | 4:19 | 2025-10-23 |  |
+| [True Love \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/2J1yM6Rmw9ud2EJMjMYXYL) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [No tail to tell, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/0I18WwCqRKGFMQLv5YJI62) | 4:28 | 2026-02-23 |  |
 | [Tummy Hurts](https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:48 | 2024-02-08 | 2025-04-23 |
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-11 | 2022-07-03 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2021-12-27 | 2022-07-06 |

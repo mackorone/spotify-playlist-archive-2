@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14761,
+  "num_followers": 14763,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAAFWybj26hrgrMJYHeeTc89",
+  "snapshot_id": "aZpHAAAAAAA9ciWks/vv0TDMa13PZuBH",
   "tracks": [
     {
       "added_at": null,
@@ -743,30 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Violin Concerto, Op. 61",
-        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
+        "name": "Perlman & Zukerman - Duets for Two Violins",
+        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Johan Halvorsen",
+          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
         }
       ],
-      "duration_ms": 564373,
-      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
-      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
+      "duration_ms": 416733,
+      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
+      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
     },
     {
       "added_at": null,
@@ -799,6 +795,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beethoven: Violin Concerto, Op. 61",
+        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 564373,
+      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
+      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kreisler: Collection",
         "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
@@ -815,54 +839,6 @@
       "duration_ms": 184440,
       "name": "Liebesfreud",
       "url": "https://open.spotify.com/track/4bgGnxb4CmEuzOcj3FKH7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perlman & Zukerman - Duets for Two Violins",
-        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
-      },
-      "artists": [
-        {
-          "name": "Johan Halvorsen",
-          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
-      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
-        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
-      },
-      "artists": [
-        {
-          "name": "Pablo de Sarasate",
-          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Abbey Road Ensemble",
-          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
-        }
-      ],
-      "duration_ms": 517706,
-      "name": "Sarasate: Zigeunerweisen, Op. 20",
-      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
     },
     {
       "added_at": null,
@@ -887,6 +863,30 @@
       "duration_ms": 222853,
       "name": "Confluence (From \"Memoirs of a Geisha\" Soundtrack)",
       "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
+        "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
+      },
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Abbey Road Ensemble",
+          "url": "https://open.spotify.com/artist/1C5HAMTwDavVaC1zguCp0g"
+        }
+      ],
+      "duration_ms": 517706,
+      "name": "Sarasate: Zigeunerweisen, Op. 20",
+      "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Violin Encores: Perlman",
+        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Elgar: Salut d'amour, Op. 12",
+      "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "3 Violin Duets (1996 Digital Remaster): II. Gavotte",
+      "url": "https://open.spotify.com/track/0M40vjkiQFs1Vu1tJfEToY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bach: Violin Concertos & Double Concerto",
         "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
       },
@@ -1171,74 +1215,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violin Encores: Perlman",
-        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 167120,
-      "name": "Elgar: Salut d'amour, Op. 12",
-      "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "3 Violin Duets (1996 Digital Remaster): II. Gavotte",
-      "url": "https://open.spotify.com/track/0M40vjkiQFs1Vu1tJfEToY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Concertos from My Childhood",
-        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
-      },
-      "artists": [
-        {
-          "name": "Oskar Rieding",
-          "url": "https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Lawrence Foster",
-          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
-        },
-        {
-          "name": "The Juilliard Orchestra",
-          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Rieding: Violin Concerto in B Minor, Op. 35: III. Allegro moderato",
-      "url": "https://open.spotify.com/track/7rRdxmennBB1z4dgv8k518"
+      "duration_ms": 292133,
+      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

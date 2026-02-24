@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-192 songs - 10 hr 48 min
+193 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,11 @@
 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 | 2024-04-08 |  |
 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 | 2025-07-02 |  |
 | [Burnin' for You](https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Fire of Unknown Origin](https://open.spotify.com/album/7v4kEpVtppoMm80m43lGzt) | 4:31 | 2023-11-20 |  |
-| [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2022-05-06 |  |
+| [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2022-05-06 | 2026-02-24 |
 | [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 | 2024-02-19 |  |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-08-01 |  |
 | [Charlie's Inferno](https://open.spotify.com/track/2tmei4gBweN2TsRcTgIh0t) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/0R3w6vjfaZlWHK28Z0RsfK) | 3:44 | 2026-02-20 |  |
+| [Charlie's Inferno](https://open.spotify.com/track/6mjtuSfqwMmvtvocsgT8xu) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/4sXc1Um0c1BMee1T4T70G7) | 3:44 | 2026-02-24 |  |
 | [Child's Play](https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:39 | 2024-12-09 |  |
 | [Come Along](https://open.spotify.com/track/17q1nFo1UQvXiQ8TD7aI8H) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Come Along](https://open.spotify.com/album/5vxcQ2itLPBAhiPSRMN4ls) | 3:39 | 2022-05-06 |  |
 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 | 2023-06-03 |  |
@@ -75,7 +76,7 @@
 | [Haunt, The Cartoon Heart](https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Haunt, The Cartoon Heart](https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e) | 3:38 | 2023-08-10 |  |
 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 | 2024-09-25 |  |
 | [Hey Bulldog](https://open.spotify.com/track/4epbwW20tHuF9Q6FufAn7Y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 3:11 | 2024-10-27 |  |
-| [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 |  |
+| [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 | 2026-02-24 |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2024-09-16 |  |
 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 | 2024-10-22 |  |
 | [I Can't Decide](https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:46 | 2026-02-20 |  |
@@ -197,7 +198,7 @@
 | [Wonderland](https://open.spotify.com/track/2tzLjiRec9KtzdhgyVYN6Z) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:10 | 2023-06-03 |  |
 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 | 2024-09-17 |  |
 | [You're Mine](https://open.spotify.com/track/23F2WO6H1ERmRp8aCEQE9y) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [You're Mine](https://open.spotify.com/album/4Qu9kYMmcXNNRipi1E9QC6) | 2:50 | 2022-06-13 |  |
-| [Your Father's Son](https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:42 | 2023-03-23 |  |
+| [Your Father's Son](https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:42 | 2023-03-23 | 2026-02-24 |
 | [Zero Zero](https://open.spotify.com/track/4LayGZR6aW0VCoMlv828NM) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:49 | 2025-03-12 |  |
 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 | 2024-10-14 |  |
 

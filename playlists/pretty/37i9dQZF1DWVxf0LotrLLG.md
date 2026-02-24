@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,616 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,643 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 4 | [FOREVER TU GANTEL](https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:46 |
 | 5 | [SUSU](https://open.spotify.com/track/6dWJciH0aK0TWiDvVmMUX6) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 2:59 |
 | 6 | [WHAT U NEED? \(SexPlaylist 2\)](https://open.spotify.com/track/7jnSlMG2jKJmKvAWxufk2I) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:25 |
-| 7 | [Cristiniando](https://open.spotify.com/track/73VQOQLIdTDlYCDud7nZyt) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Mvsis](https://open.spotify.com/artist/6LuDG2PqZa48PfJ6SL09Sf) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 2:58 |
+| 7 | [Cristiniando](https://open.spotify.com/track/73VQOQLIdTDlYCDud7nZyt) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 2:58 |
 | 8 | [X Vida](https://open.spotify.com/track/5aRXKtMrnG34D97Noe9iBM) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 2:38 |
 | 9 | [Deseos](https://open.spotify.com/track/3nxJjFWUE8pJyq4GBzFa8J) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 3:06 |
 | 10 | [Dando vueltas](https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dando vueltas](https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv) | 2:56 |

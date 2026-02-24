@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Yawar Abdal
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,528 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,540 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 54 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 55 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
 | 56 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
-| 57 | [Dil Ki Nadani](https://open.spotify.com/track/1LkeeEfNJVy8x7kb4yRu63) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Dil Ki Nadani](https://open.spotify.com/album/0UVFJJfltyyXzMQjpkdHuw) | 2:54 |
-| 58 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
+| 57 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
+| 58 | [Dil Ki Nadani](https://open.spotify.com/track/1LkeeEfNJVy8x7kb4yRu63) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Dil Ki Nadani](https://open.spotify.com/album/0UVFJJfltyyXzMQjpkdHuw) | 2:54 |
 | 59 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
 | 60 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 | 61 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 67 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 |
 | 68 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 |
 | 69 | [Ajnabee](https://open.spotify.com/track/7qH8uppXORP4UQvXGc9dNl) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Ajnabee](https://open.spotify.com/album/0iZDAWTdaX2HOk8J7CJ63i) | 2:54 |
-| 70 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 |
-| 71 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
+| 70 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
+| 71 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 |
 | 72 | [RAW](https://open.spotify.com/track/3MVxAa6fIRXdUFqKA6NGmp) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [RAW](https://open.spotify.com/album/3M9ZZrIGlCkgb22viZRvdE) | 3:56 |
 | 73 | [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 |
-| 74 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
-| 75 | [Rehna Duur](https://open.spotify.com/track/1Rmcjz7zicFMNKfXS1FZmM) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Rehna Duur](https://open.spotify.com/album/3JI3cOWFjEVWx65MlzlE6t) | 2:58 |
+| 74 | [Rehna Duur](https://open.spotify.com/track/1Rmcjz7zicFMNKfXS1FZmM) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Rehna Duur](https://open.spotify.com/album/3JI3cOWFjEVWx65MlzlE6t) | 2:58 |
+| 75 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
 
 Snapshot ID: `AAAAAB7MFSBIqDtBzmWfwsoRVtYZ3en9`

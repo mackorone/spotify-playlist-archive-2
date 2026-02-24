@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Doğa
 
-357 songs - 18 hr 3 min
+358 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Alışamadım Yokluğuna](https://open.spotify.com/track/6L0xiIMpwxbUZRMTrYZ0ji) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Alışamadım Yokluğuna](https://open.spotify.com/album/0ttwaSqJ4v4qVDUsHkyeQX) | 3:19 | 2025-09-25 | 2025-11-17 |
 | [Aman Aman](https://open.spotify.com/track/3dI2caeCgFZkI0z86jxgGh) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Aman Aman](https://open.spotify.com/album/2DIFHpkBiMguUMUiqNyLQH) | 3:18 | 2024-10-24 | 2025-03-06 |
 | [Ankara Ayazı](https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f), [Zibo](https://open.spotify.com/artist/5N6mauDodGl3hh9xzm7Zwj) | [Ankara Ayazı](https://open.spotify.com/album/0U31turfAphETTOc8k3nQN) | 3:20 | 2024-06-20 |  |
-| [ANLATAMADIM](https://open.spotify.com/track/6wZYEFvxTXs4hdAxwbBrWh) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [ANLATAMADIM](https://open.spotify.com/album/0XkW2QOD2Mb0aJLx5R2U8V) | 3:06 | 2024-09-19 |  |
+| [ANLATAMADIM](https://open.spotify.com/track/6wZYEFvxTXs4hdAxwbBrWh) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [ANLATAMADIM](https://open.spotify.com/album/0XkW2QOD2Mb0aJLx5R2U8V) | 3:06 | 2024-09-19 | 2026-02-24 |
 | [Anlaşılır Tabii](https://open.spotify.com/track/4iHS5earH363cx54IhEExy) | [Merve Çalkan](https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3) | [Anlaşılır Tabii](https://open.spotify.com/album/6M3nG1jRfGDuTWGNeavdOo) | 3:54 | 2024-11-28 | 2024-12-29 |
 | [Anıların Ortasında](https://open.spotify.com/track/0ItZVsMRkkYxPcoYnLoxxt) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Anıların Ortasında](https://open.spotify.com/album/5ISIdr5qgmqBo6YMKCazjh) | 3:41 | 2025-11-14 | 2026-01-30 |
 | [Arabesk Parçalar](https://open.spotify.com/track/7vQqKSxS9Ja02vsUXxPMIL) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Arabesk Parçalar](https://open.spotify.com/album/7nDBTGFcpgBJ7pO2oEk96m) | 3:16 | 2024-11-28 | 2025-02-14 |
@@ -47,6 +47,7 @@
 | [Aşkın Sahtesi](https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK) | [Miskinler](https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh) | [Aşkın Sahtesi](https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ) | 5:13 | 2024-07-30 | 2024-09-06 |
 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 | 2024-06-20 |  |
 | [Bana Sor](https://open.spotify.com/track/5sdlnkbcR3nmHNNTsfjW41) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Bana Sor](https://open.spotify.com/album/2GSmPyMhsspGvSdqEdFAxf) | 3:43 | 2025-02-13 | 2026-02-02 |
+| [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 | 2026-02-19 |  |
 | [bay area sunsets](https://open.spotify.com/track/25hZr8s7kj40fQTMGZA6MZ) | [7EDI](https://open.spotify.com/artist/4167SqZnbUagsRL7qNugRr) | [bay area sunsets](https://open.spotify.com/album/6StPyp3N8ksv81eg3jrlIp) | 1:16 | 2024-09-27 | 2025-01-10 |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-06-20 |  |
 | [belki kafam dünden güzel](https://open.spotify.com/track/3mZQAM3IZdrzs61VoRe5wa) | [Ali Meydanioğlu](https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf) | [belki kafam dünden güzel](https://open.spotify.com/album/2YcBA13qp0ltZElju5Qi9O) | 4:07 | 2024-09-19 | 2026-01-30 |

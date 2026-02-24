@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-465 songs - 1 day 4 hr 50 min
+466 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Kana Katrile](https://open.spotify.com/track/6lGgT5zvJAbLxYJu9qOSdm) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR), [Niveditha K Namboothiri](https://open.spotify.com/artist/7I8yiJBqKCthM4I0VzDVKb) | [Kana Katrile](https://open.spotify.com/album/0IhXgOUdJGPBsSkojJWtjM) | 3:14 | 2023-12-22 | 2024-05-25 |
 | [Kanavellam](https://open.spotify.com/track/3X7wafdT1bXxUVFzsnw1hw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanavellam](https://open.spotify.com/album/7HYSdLk9eNmEY6804fOQpU) | 4:30 | 2023-07-03 | 2023-07-28 |
 | [Kanavin Vaniyilayi](https://open.spotify.com/track/1w11f3c04z3X9T7saJCuFJ) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Kanavin Vaniyilayi](https://open.spotify.com/album/3v3Li8neGDEwY4mfrs91U0) | 3:58 | 2024-02-05 | 2024-02-15 |
-| [Kanavukalal](https://open.spotify.com/track/6gUOLwg7xfzIt2vhfVmz3l) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43) | [Kanavukalal](https://open.spotify.com/album/2UY6ahma7nu6e1FmN0W6CA) | 1:12 | 2025-08-08 |  |
+| [Kanavukalal](https://open.spotify.com/track/6gUOLwg7xfzIt2vhfVmz3l) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43) | [Kanavukalal](https://open.spotify.com/album/2UY6ahma7nu6e1FmN0W6CA) | 1:12 | 2025-08-08 | 2026-02-24 |
 | [Kanchimmum Neram](https://open.spotify.com/track/6YlXdRDhxubuhaa4kusRCU) | [Amritha Sunilkumar](https://open.spotify.com/artist/4WzJujnCSgbu1ANx6WA2Li), [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Kanchimmum Neram](https://open.spotify.com/album/7d9UJP5xscYyRn8KIRa8Rc) | 4:14 | 2025-07-28 | 2025-11-08 |
 | [Kanmani](https://open.spotify.com/track/10XORKc4UWvScNXIoHjgOU) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Liboy Praisly Kripesh](https://open.spotify.com/artist/6YElLBggIDzuJ4l84iTz4y) | [Kanmani](https://open.spotify.com/album/6Y1K2GTOGDxF1z1b34scls) | 2:13 | 2025-03-17 | 2025-06-07 |
 | [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 | 2023-07-28 |
@@ -434,6 +434,7 @@
 | [Thi Thi Thara \(Kuttanadan Dreams\)](https://open.spotify.com/track/3wglYnuFPhTCcQwaHir0h4) | [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [FRIDAYYY](https://open.spotify.com/artist/0Dj7QmvQwwiUeZfCGZR7M1), [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Thi Thi Thara \(Kuttanadan Dreams\)](https://open.spotify.com/album/3Xm0UCQtN6HV2AmTobKCEs) | 2:54 | 2024-07-29 | 2024-10-15 |
 | [THIRIKE VAA](https://open.spotify.com/track/2eAXNx6jOhxgpJu8tZIY7o) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [SEASON OF SOLITUDE](https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA) | 2:28 | 2025-01-13 | 2025-04-22 |
 | [Thirinjin](https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Thirinjin](https://open.spotify.com/album/44RR3s7UnD0gnnyZoGBiMX) | 3:02 | 2025-07-10 |  |
+| [THOAZHI](https://open.spotify.com/track/4Ct2DqMV7J8Y2bhXhBAMAo) | [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx), [Rickeysiva](https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK) | [THOAZHI](https://open.spotify.com/album/1batvPzz9HzbdBlb0aYP7Y) | 3:24 | 2026-02-23 |  |
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-05-26 | 2023-07-28 |
 | [Thoni](https://open.spotify.com/track/4BTqvALUMhQUEV85HRPfl4) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Thoni](https://open.spotify.com/album/7fOjQOPYGaBhEU7HsBQf6P) | 5:00 | 2022-12-22 | 2025-02-19 |
 | [Thoomani Maadathu](https://open.spotify.com/track/3zeVE21qZdyH8EYuYnULxE) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Thoomani Maadathu \- Single](https://open.spotify.com/album/3lZCGV2nV1wdjvl3kLl1MO) | 6:15 | 2023-10-06 | 2024-04-03 |

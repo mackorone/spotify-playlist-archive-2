@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-85 songs - 4 hr 14 min
+87 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [963hz Connect to Source Energy God & Universe](https://open.spotify.com/track/35Hr5kS75tBFWY0TJgqnKE) | [Solfeggio Frequencies Sacred](https://open.spotify.com/artist/0xJngD5Pr8FAqrx3eHP5qn) | [963hz Connect to Source Energy God & Universe](https://open.spotify.com/album/0Jq2ggJWlkUytkVPluUbwT) | 4:00 | 2023-07-13 | 2023-12-01 |
 | [963hz Highest Vibrational State](https://open.spotify.com/track/0mTjeoltYaPCLBJbk9lPqI) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 2:54 | 2023-11-30 |  |
 | [963hz The Pure Miracle Tone](https://open.spotify.com/track/5t8cXBBxKijQxbgr9ndWHt) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 2:51 | 2023-11-30 |  |
-| [Alpha bowls 10hz](https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Alpha bowls 10hz](https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5) | 2:24 | 2023-07-13 |  |
+| [Aerius \(963 Hz\)](https://open.spotify.com/track/2CdRRODfT0n4oVT2Gn3Vfh) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Aerius \(963 Hz\)](https://open.spotify.com/album/3kIDNQrMR9o3iMTTsk6zqf) | 3:04 | 2026-02-23 |  |
+| [Alpha bowls 10hz](https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Alpha bowls 10hz](https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5) | 2:24 | 2023-07-13 | 2026-02-24 |
 | [Awakening 963 Hz](https://open.spotify.com/track/3nDWKtCKeOVnM1AC5FcPx1) | [Naumanni](https://open.spotify.com/artist/5rXoIHL4cf1t1FHhiXiHOh) | [Awakening 963 Hz](https://open.spotify.com/album/30963ZhEUC9B6jX1VDZokP) | 2:56 | 2025-10-14 |  |
 | [Awakening 963Hz](https://open.spotify.com/track/3esXbDq3DkYOrguFP0TXxd) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Awakening 963Hz](https://open.spotify.com/album/69JaKptJXvQ0n2HIKohN20) | 2:23 | 2023-11-30 |  |
 | [Awakenings 963 Hz](https://open.spotify.com/track/5P6uUeAbSHo0R9bK70EkTF) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Awakenings 936 & 432 Hz](https://open.spotify.com/album/3YhHDGqFGh26adfwhwmjTT) | 3:26 | 2023-07-13 |  |
@@ -43,7 +44,7 @@
 | [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 | 2025-03-15 |
 | [Celestial Bliss 963 Hz](https://open.spotify.com/track/5tK3g3RTji0MkaSO9elK9H) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [Celestial Bliss 963 Hz](https://open.spotify.com/album/28UQoO3St05ozzbpEGpn4y) | 3:15 | 2025-05-14 |  |
 | [Centering exercise \- 963Hz](https://open.spotify.com/track/7hm1Ke9BbUipfI2pYuGzm3) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Centering exercise \- 963Hz](https://open.spotify.com/album/1nnNbTYiyDrz5PZ9upXiTV) | 2:32 | 2025-03-14 |  |
-| [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 |  |
+| [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 | 2026-02-24 |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |
 | [Clear Thoughts 963 Hz](https://open.spotify.com/track/6U6bqFochoIv5csr5r98Gk) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Clear Thoughts 963 Hz](https://open.spotify.com/album/4N2Sj7ptvj0cuKxaarrFXk) | 2:30 | 2023-07-13 |  |
 | [Cloudland Meditation 963 Hz](https://open.spotify.com/track/1voYfiVkjfnlSZkL5F5cN7) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Cloudland Meditation 963 Hz](https://open.spotify.com/album/4HWGEX0udBWkhxZqGVkvLJ) | 3:23 | 2024-05-11 |  |
@@ -74,9 +75,10 @@
 | [Orange Waves 963 hz](https://open.spotify.com/track/7puC3J72XiYjIrlAPsg4YP) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:40 | 2023-07-13 |  |
 | [Osos \- 963Hz](https://open.spotify.com/track/7xobiiGVQBLvFA2vszDN0U) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Osos \- 963Hz](https://open.spotify.com/album/5QsOY1NIujDb5OWOSvQTqZ) | 2:47 | 2025-03-14 |  |
 | [Point Cabrillo](https://open.spotify.com/track/7BMhMh3hJl6zbduaOg963j) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Point Cabrillo](https://open.spotify.com/album/7JBETB6yPPZKETdNJZi3dy) | 3:10 | 2023-07-13 |  |
+| [Roots of Calm 963 Hz](https://open.spotify.com/track/55HQQC8oh8YEdKyNng8loK) | [Shoner](https://open.spotify.com/artist/0jO5GthSJ6Mmruj4gB6g3c) | [Roots of Calm 963 Hz](https://open.spotify.com/album/5vkG4CPkfG0A7nZmtCZlw8) | 2:54 | 2026-02-23 |  |
 | [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-07-13 | 2025-01-10 |
-| [Sahasrara](https://open.spotify.com/track/3LQ5r6MRxZExt0yPNlrE1X) | [Fred Westra](https://open.spotify.com/artist/3xoBnkqEXHqY8Kl6s2oWHG) | [Your Inner Truth](https://open.spotify.com/album/03t6k8klrxcAPZeRcZl9hK) | 4:23 | 2023-07-13 |  |
-| [Sahasrara](https://open.spotify.com/track/4hWbarYpaaoocu6cBABwyP) | [Mirjam van der Beek](https://open.spotify.com/artist/6jZqatz7q7xZsu3yFNPVeo) | [Singing Bowls Chakra Healing](https://open.spotify.com/album/6PmChvlXD2EG17H2cCqm49) | 4:03 | 2023-07-13 |  |
+| [Sahasrara](https://open.spotify.com/track/3LQ5r6MRxZExt0yPNlrE1X) | [Fred Westra](https://open.spotify.com/artist/3xoBnkqEXHqY8Kl6s2oWHG) | [Your Inner Truth](https://open.spotify.com/album/03t6k8klrxcAPZeRcZl9hK) | 4:23 | 2023-07-13 | 2026-02-24 |
+| [Sahasrara](https://open.spotify.com/track/4hWbarYpaaoocu6cBABwyP) | [Mirjam van der Beek](https://open.spotify.com/artist/6jZqatz7q7xZsu3yFNPVeo) | [Singing Bowls Chakra Healing](https://open.spotify.com/album/6PmChvlXD2EG17H2cCqm49) | 4:03 | 2023-07-13 | 2026-02-24 |
 | [Schumann 432\-7 Crown Chakra](https://open.spotify.com/track/38VUED3x2xdXRyTTX3mscG) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:59 | 2023-07-13 | 2023-12-01 |
 | [settledown](https://open.spotify.com/track/3BI9RpTqlOwDWtd07DwwTG) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [eight gates](https://open.spotify.com/album/4Am2qvDvSMGEsezSLsUH0z) | 2:43 | 2023-07-13 |  |
 | [Seven Dimensions \- 963Hz](https://open.spotify.com/track/7hNQgBNm55Ot40FuRA0KRZ) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Seven Dimensions \- 963Hz](https://open.spotify.com/album/4iuAqV1cfUjjoxCG9HZspl) | 2:50 | 2025-01-09 |  |

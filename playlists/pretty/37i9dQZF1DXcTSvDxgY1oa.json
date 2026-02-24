@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: XXJUL\u00cdA ",
-  "num_followers": 1972,
+  "num_followers": 1971,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf"
-      },
-      "artists": [
-        {
-          "name": "Steven Charlot",
-          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
-        }
-      ],
-      "duration_ms": 188569,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Don't Lie",
         "url": "https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg"
       },
@@ -83,18 +67,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Stap In De Boot",
-        "url": "https://open.spotify.com/album/0uZliWWfhcGcL6XGzdqhi9"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf"
       },
       "artists": [
         {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+          "name": "Steven Charlot",
+          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
         }
       ],
-      "duration_ms": 304689,
-      "name": "Stap In De Boot",
-      "url": "https://open.spotify.com/track/3dLwlfuf74d0C4w6cq5AYq"
+      "duration_ms": 188569,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -111,6 +95,22 @@
       "duration_ms": 183640,
       "name": "The Next Time We Meet",
       "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Stap In De Boot",
+        "url": "https://open.spotify.com/album/0uZliWWfhcGcL6XGzdqhi9"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 304689,
+      "name": "Stap In De Boot",
+      "url": "https://open.spotify.com/track/3dLwlfuf74d0C4w6cq5AYq"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "HOW_TO_LIVE_FOREVER_",
-        "url": "https://open.spotify.com/album/7fkLzXn40EOpywdKaeYQx2"
-      },
-      "artists": [
-        {
-          "name": "Culi.",
-          "url": "https://open.spotify.com/artist/4YRoOlRPO1S9GXzzjKttEF"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "HOW_TO_LIVE_FOREVER_",
-      "url": "https://open.spotify.com/track/5yjik6idq6ni4Zdy7Cdihe"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Breekbaar",
         "url": "https://open.spotify.com/album/67gtivu8XG2GH7lnSHmv30"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 185718,
       "name": "Breekbaar",
       "url": "https://open.spotify.com/track/6Z9eh1NPCXQg1kehZXMA27"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "HOW_TO_LIVE_FOREVER_",
+        "url": "https://open.spotify.com/album/7fkLzXn40EOpywdKaeYQx2"
+      },
+      "artists": [
+        {
+          "name": "Culi.",
+          "url": "https://open.spotify.com/artist/4YRoOlRPO1S9GXzzjKttEF"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "HOW_TO_LIVE_FOREVER_",
+      "url": "https://open.spotify.com/track/5yjik6idq6ni4Zdy7Cdihe"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH"
-      },
-      "artists": [
-        {
-          "name": "LAUF",
-          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
-        }
-      ],
-      "duration_ms": 154195,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "The Sailor's Warning",
         "url": "https://open.spotify.com/album/4VUpMJnr9jgHbzpXevbIsN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 127148,
       "name": "The Sailor's Warning",
       "url": "https://open.spotify.com/track/3bgmoyCHa6v3bMMsgK1rWh"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "duration_ms": 154195,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Be Gone Now",
-        "url": "https://open.spotify.com/album/1wsFs3qIxbQ6t6XIqDqCVQ"
-      },
-      "artists": [
-        {
-          "name": "Fit",
-          "url": "https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf"
-        }
-      ],
-      "duration_ms": 199763,
-      "name": "Be Gone Now",
-      "url": "https://open.spotify.com/track/07VxsgaKq3CK358NFjfRWP"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Salty Birthday Cake",
         "url": "https://open.spotify.com/album/0b3EXHtJqyKt2hoXtyFn3k"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 232404,
       "name": "Salty Birthday Cake",
       "url": "https://open.spotify.com/track/50WEt08laklxMpDofqIZ16"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Be Gone Now",
+        "url": "https://open.spotify.com/album/1wsFs3qIxbQ6t6XIqDqCVQ"
+      },
+      "artists": [
+        {
+          "name": "Fit",
+          "url": "https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf"
+        }
+      ],
+      "duration_ms": 199763,
+      "name": "Be Gone Now",
+      "url": "https://open.spotify.com/track/07VxsgaKq3CK358NFjfRWP"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -699,18 +699,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5vCQ1Tsf1XSPwQ7Z1ODLIQ"
+        "name": "Lekker Boeie",
+        "url": "https://open.spotify.com/album/775LFBAGPMVzzcjktkpAV0"
       },
       "artists": [
         {
-          "name": "The Pekkers",
-          "url": "https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R"
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        },
+        {
+          "name": "Doe Gewoon",
+          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
         }
       ],
-      "duration_ms": 183197,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/2lhjOcISaIQCcm1dQh6eJ5"
+      "duration_ms": 153771,
+      "name": "Lekker Boeie",
+      "url": "https://open.spotify.com/track/27yseICgom8ko8hz0OZy7T"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -731,22 +735,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Lekker Boeie",
-        "url": "https://open.spotify.com/album/775LFBAGPMVzzcjktkpAV0"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5vCQ1Tsf1XSPwQ7Z1ODLIQ"
       },
       "artists": [
         {
-          "name": "SKINC",
-          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
-        },
-        {
-          "name": "Doe Gewoon",
-          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
+          "name": "The Pekkers",
+          "url": "https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R"
         }
       ],
-      "duration_ms": 153771,
-      "name": "Lekker Boeie",
-      "url": "https://open.spotify.com/track/27yseICgom8ko8hz0OZy7T"
+      "duration_ms": 183197,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/2lhjOcISaIQCcm1dQh6eJ5"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Compadres",
+        "url": "https://open.spotify.com/album/0V5aiEGXp8wNlNcShEio2T"
+      },
+      "artists": [
+        {
+          "name": "Kalima",
+          "url": "https://open.spotify.com/artist/57oQQfYfgpDtJZD618GZbZ"
+        }
+      ],
+      "duration_ms": 285196,
+      "name": "Compadres",
+      "url": "https://open.spotify.com/track/2qImlTzObP8el5dkXXnlmP"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "In Love Again (The ABC Way)",
         "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
       },
@@ -1027,6 +1043,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
+      },
+      "artists": [
+        {
+          "name": "Luke Christoffel",
+          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
+        }
+      ],
+      "duration_ms": 192342,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Dans la nuit",
         "url": "https://open.spotify.com/album/1odIZMVjPJDgh0p1HhfpZI"
       },
@@ -1047,38 +1079,6 @@
       "duration_ms": 190248,
       "name": "Dans la nuit",
       "url": "https://open.spotify.com/track/5qeeSzrCSooIvk7SBfLC6A"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Compadres",
-        "url": "https://open.spotify.com/album/0V5aiEGXp8wNlNcShEio2T"
-      },
-      "artists": [
-        {
-          "name": "Kalima",
-          "url": "https://open.spotify.com/artist/57oQQfYfgpDtJZD618GZbZ"
-        }
-      ],
-      "duration_ms": 285196,
-      "name": "Compadres",
-      "url": "https://open.spotify.com/track/2qImlTzObP8el5dkXXnlmP"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
-      },
-      "artists": [
-        {
-          "name": "Luke Christoffel",
-          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
-        }
-      ],
-      "duration_ms": 192342,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Burn It",
-        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
-      },
-      "artists": [
-        {
-          "name": "Bad Luck Baby",
-          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Chew",
-      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Kaonashi",
         "url": "https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 134000,
       "name": "Kaonashi",
       "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM"
+      },
+      "artists": [
+        {
+          "name": "Bad Luck Baby",
+          "url": "https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Chew",
+      "url": "https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Stampij",
-        "url": "https://open.spotify.com/album/0fmZFEPTDvGEVxE1xIIQXR"
-      },
-      "artists": [
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Stampij",
-      "url": "https://open.spotify.com/track/6ds6wPSpV7XcQVxW9cR6Sk"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "bubble",
         "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 186612,
       "name": "bubble",
       "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Stampij",
+        "url": "https://open.spotify.com/album/0fmZFEPTDvGEVxE1xIIQXR"
+      },
+      "artists": [
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Stampij",
+      "url": "https://open.spotify.com/track/6ds6wPSpV7XcQVxW9cR6Sk"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
-      },
-      "artists": [
-        {
-          "name": "Nora Carli",
-          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "No One Leaves Without Saying Goodbye",
         "url": "https://open.spotify.com/album/5boez4TwIfpACortOOLdYJ"
       },
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "I Won't Back Down",
-        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ploeger",
-          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Sight Inside",
         "url": "https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra"
       },
@@ -1407,6 +1375,38 @@
       "duration_ms": 216266,
       "name": "Miss Trutti Finally Found Her Gem",
       "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
+      },
+      "artists": [
+        {
+          "name": "Nora Carli",
+          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "I Won't Back Down",
+        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ploeger",
+          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
     },
     {
       "added_at": "2025-11-28 18:02:04",

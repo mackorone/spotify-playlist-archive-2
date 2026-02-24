@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,716 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,741 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 51 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
 | 52 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
 | 53 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 54 | [Que No Me Faltes Tú](https://open.spotify.com/track/4FthWiJTjWOJWVQsJpq1YF) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Máxima Expresión](https://open.spotify.com/album/1J1sHCVFmSlGqtVUO54qUM) | 4:43 |
-| 55 | [En Carne Propia](https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL) | [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Osmel Meriño](https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU) | [Vallenato en Accion: Lo Más Grande del Vallenato](https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5) | 4:54 |
+| 54 | [Señora](https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 100 Vallenatos más Recordados, Dedicados, Vendidos, Sonados\. Vol.1](https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI) | 3:58 |
+| 55 | [Que No Me Faltes Tú](https://open.spotify.com/track/4FthWiJTjWOJWVQsJpq1YF) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Máxima Expresión](https://open.spotify.com/album/1J1sHCVFmSlGqtVUO54qUM) | 4:43 |
 | 56 | [Tierra Mala](https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:48 |
-| 57 | [Acuérdate](https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Pisando Fuerte](https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB) | 4:28 |
+| 57 | [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 |
 | 58 | [Ella Era Todo](https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:06 |
-| 59 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
-| 60 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
+| 59 | [En Carne Propia](https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL) | [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Osmel Meriño](https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU) | [Vallenato en Accion: Lo Más Grande del Vallenato](https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5) | 4:54 |
+| 60 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
 
 Snapshot ID: `AAAAAK092wt67QwsI50uh1u3bwKJV0L8`

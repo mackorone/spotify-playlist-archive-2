@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from marguerite, PLK x Theodora, IBE and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,766 likes - 138 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,765 likes - 138 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 93 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
 | 94 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 |
 | 95 | [Such Great Heights \- From "Tell Me Lies \(Season 3\)"](https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Such Great Heights \[From "Tell Me Lies \(Season 3\)"\]](https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee) | 4:27 |
-| 96 | [Engagés volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagés volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 |
+| 96 | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 |
 | 97 | [No More Heart To Break](https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [No More Heart To Break](https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk) | 3:37 |
 | 98 | [Babylon](https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Babylon](https://open.spotify.com/album/10evLNLrgCUrShWYttpITu) | 3:26 |
 | 99 | [TI X4](https://open.spotify.com/track/3OnXNqUfCKAw7LWsMlmB2k) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB) | [l'hiver](https://open.spotify.com/album/3hwIqvbve1Jc8lQCxFzkqq) | 2:04 |

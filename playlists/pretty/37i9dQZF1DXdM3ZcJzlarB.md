@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,773 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,777 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 4 | [Circular](https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN) | [Circular](https://open.spotify.com/album/0sneAQVgbeyI1XIRWrUrMN) | 5:19 |
 | 5 | [Muskegaan](https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Poison EP](https://open.spotify.com/album/5SijqkYbzz8HmoHYrGtYc9) | 6:14 |
 | 6 | [Something Right \- Ezequiel Arias Remix](https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Something Right \(Ezequiel Arias Remix\)](https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf) | 4:03 |
-| 7 | [Funcional](https://open.spotify.com/track/6NveqzdAR0CGGHF0HyjYA2) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [Funcional](https://open.spotify.com/album/0XGol7LdMpg4SLJp3DaaTn) | 3:58 |
-| 8 | [Auch](https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Auch](https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P) | 5:12 |
-| 9 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
+| 7 | [Auch](https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Auch](https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P) | 5:12 |
+| 8 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
+| 9 | [Loaded Clipz](https://open.spotify.com/track/5xEk58vFuuHuOeFIjAFbd5) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Loaded Clipz](https://open.spotify.com/album/2Ymgeh9CkTcrhfYiv0de74) | 3:30 |
 | 10 | [Everlong](https://open.spotify.com/track/7ybOmTVLV4I6ZwzyabBjZq) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Everlong / Lies](https://open.spotify.com/album/34Drpugegb65VUOcNCjvFj) | 7:13 |
 | 11 | [lo que pase \(feat\. Trueno\) \- Muter Remix](https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase \(feat\. Trueno\) \[Muter Remix\]](https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6) | 3:50 |
 | 12 | [Trama \- MAUFONK Remix](https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q) | [Closed I](https://open.spotify.com/artist/7IKZu4j5vGyS3nKWVj3qoy), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1), [MAUFONK](https://open.spotify.com/artist/1kq71DoWxjCGR4FZu8JGEo) | [Trama EP \(THE REMIXES\)](https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX) | 5:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Shimmer](https://open.spotify.com/track/0bnwqccKNwhB8ZXMuT39zV) | [Temple Gate](https://open.spotify.com/artist/7je5H8RIDzvzzJrpFsU6Cc) | [Shimmer](https://open.spotify.com/album/0oEjgYQ3pzJQwFyOil9bGB) | 4:20 |
 | 100 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 
-Snapshot ID: `AAAAAPz9ZiScoBsh/LpbxHwTdFsdDkgd`
+Snapshot ID: `AAAAAP9KlQHcQM0iJkYQu8PpX10JsuNG`

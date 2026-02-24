@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Froukje, DI\-RECT, Lil Kleine, Lana Del Rey, en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,417 likes - 98 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,399 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

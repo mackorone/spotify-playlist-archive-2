@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > IJSLAND \(Abel, Sef & FAISAL\) op de cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,260 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,264 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 12 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
 | 13 | [Fuck Je Gucci Shirt](https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Niemand Gaat Het Voor Je Doen](https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF) | 2:28 |
 | 14 | [Iedereen Gaat Vreemd](https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Iedereen Gaat Vreemd](https://open.spotify.com/album/5AUkK4ahh3iAGw257s2iIx) | 2:23 |
-| 15 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
+| 15 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
 | 16 | [OSAMA BIN LADEN](https://open.spotify.com/track/06ibtv7JGpTPrPabspWOOh) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:08 |
-| 17 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
+| 17 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
 | 18 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
 | 19 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
 | 20 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 38 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
 | 39 | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re) | 3:38 |
 | 40 | [ik geef om je](https://open.spotify.com/track/6ngQYeNqp66AyCdxEwDn12) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [ik haat je / ik geef om je](https://open.spotify.com/album/2F8Sf5GFnKJxRHq8fo2MqH) | 2:06 |
-| 41 | [Zeg Me Hoe Het Moet](https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Zeg Me Hoe Het Moet](https://open.spotify.com/album/212j764AlLIekepAcRJsy6) | 3:28 |
-| 42 | [7 Dagen Maandag](https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb) | [Ricky Bekstok](https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT), [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [7 Dagen Maandag](https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ) | 2:46 |
+| 41 | [7 Dagen Maandag](https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb) | [Ricky Bekstok](https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT), [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [7 Dagen Maandag](https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ) | 2:46 |
+| 42 | [Zeg Me Hoe Het Moet](https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Zeg Me Hoe Het Moet](https://open.spotify.com/album/212j764AlLIekepAcRJsy6) | 3:28 |
 | 43 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 44 | [Geen Ego](https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Hardt](https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i) | 3:05 |
 | 45 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 | 46 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 47 | [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 |
-| 48 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 |
-| 49 | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/track/6wirIoXNMjJQ4EKRiV4Tl0) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/album/5ybS7UbSs6yjZelz9EKQ9s) | 2:46 |
+| 48 | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/track/6wirIoXNMjJQ4EKRiV4Tl0) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Bustour \(Land Van Ons Ma\)](https://open.spotify.com/album/5ybS7UbSs6yjZelz9EKQ9s) | 2:46 |
+| 49 | [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 |
 | 50 | [We Slapen In De Lucht](https://open.spotify.com/track/5DAmgJJfetkfuKNwque4J0) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [We Slapen In De Lucht](https://open.spotify.com/album/2W7h1XL3czf36B0jL8QKpN) | 2:44 |
 
 Snapshot ID: `AAAAAI7QfOXG4HSmDsWTyJbwbAi/461B`

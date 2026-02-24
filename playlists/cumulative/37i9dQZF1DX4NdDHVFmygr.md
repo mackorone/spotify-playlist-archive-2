@@ -4,7 +4,7 @@
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-501 songs - 1 day 2 hr 40 min
+502 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-03-02 | 2022-07-31 |
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-08-25 | 2022-09-01 |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2021-12-25 | 2022-01-17 |
-| [Hna Jina](https://open.spotify.com/track/7nTGNRNBihFEnjoaU5YHez) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [Hna Jina](https://open.spotify.com/album/3SVHyYVpdLZx96z1I8rm2z) | 2:40 | 2026-01-23 |  |
+| [Hna Jina](https://open.spotify.com/track/7nTGNRNBihFEnjoaU5YHez) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [Hna Jina](https://open.spotify.com/album/3SVHyYVpdLZx96z1I8rm2z) | 2:40 | 2026-01-23 | 2026-02-24 |
 | [Hobak Enta](https://open.spotify.com/track/6w7ZiS8QIV2LNOHSUwtM3N) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Hobak Enta](https://open.spotify.com/album/2oeYa4uHu5t0sXJZzgcHcz) | 3:01 | 2022-01-03 | 2022-08-06 |
 | [Houwa](https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM) | 3:31 | 2023-01-19 | 2023-02-10 |
 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-03-10 | 2023-01-25 |
@@ -257,6 +257,7 @@
 | [Lahdat Wadaa](https://open.spotify.com/track/12WSYJ73sp5zghz5KkfEyn) | [Imad Benaomar](https://open.spotify.com/artist/4FQZuJsPXl0i8cc5S8MTpj) | [Lahdat Wadaa](https://open.spotify.com/album/14CTUjJ4BKavEEKW8myoi3) | 3:36 | 2021-12-25 | 2022-01-18 |
 | [Lala Mira](https://open.spotify.com/track/6kYAA6UTHlVyYLLtC9d2Rt) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Lala Mira](https://open.spotify.com/album/18pYd2oiF7VjM9cO4sgFQW) | 2:44 | 2022-02-14 | 2022-06-23 |
 | [Lalla Laaroussa](https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Lalla Laaroussa](https://open.spotify.com/album/3D5kTPcdeB92udLWaLVPM9) | 3:32 | 2022-06-17 | 2023-01-12 |
+| [Lalla Mennana](https://open.spotify.com/track/74rFUc4KZDPKrtD5YG2G4Q) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [Lalla Mennana](https://open.spotify.com/album/7uJvaQeSr6MSx4fZ1p2W7k) | 2:25 | 2026-02-23 |  |
 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-08-28 | 2025-07-20 |
 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 | 2025-08-14 | 2025-11-23 |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-01-03 | 2024-02-09 |

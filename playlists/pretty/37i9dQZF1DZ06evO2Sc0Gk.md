@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,208 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,212 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 47 | [Property](https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:25 |
 | 48 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
 | 49 | [Take Control](https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy) | [DJ Battle](https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Take Control](https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT) | 3:33 |
-| 50 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
+| 50 | [Supernova](https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Supernova](https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH) | 1:49 |
 
-Snapshot ID: `aZj1gAAAAABFmSD6cJmK0H0gM9Uvzszh`
+Snapshot ID: `aZpHAAAAAACLONqkqaFF9NbNV4Qz9PSd`

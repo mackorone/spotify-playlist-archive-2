@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53000,
+  "num_followers": 52998,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-12-11 16:00:18",
       "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2025-12-11 16:00:18",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
-    },
-    {
-      "added_at": "2025-12-11 16:00:18",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2025-12-11 16:00:18",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2025-12-11 16:00:18",
       "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
+    },
+    {
+      "added_at": "2025-12-11 16:00:18",
+      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
-    },
-    {
-      "added_at": "2025-12-11 16:00:18",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2025-12-11 16:00:18",

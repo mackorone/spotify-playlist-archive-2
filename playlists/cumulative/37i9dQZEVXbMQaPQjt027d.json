@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 199870,
       "name": "ChatGPT",
       "url": "https://open.spotify.com/track/27QO1TzSIwkMTQfdfhZsx1"
@@ -8301,6 +8301,28 @@
     },
     {
       "album": {
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/4qYGuZfeuNv0VDZjYGI0Zr"
+      },
+      "artists": [
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "Manifest Destiny",
+          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/6LPOJdkcES06fisziBliLe"
+    },
+    {
+      "album": {
         "name": "Klaar is kees",
         "url": "https://open.spotify.com/album/0pyPxl2gtIkfC9j5TNvIqJ"
       },
@@ -8970,7 +8992,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 169714,
       "name": "Limburgs Habitat",
       "url": "https://open.spotify.com/track/2gHWNewVl5R6lXao8kI35Z"
@@ -11382,7 +11404,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 219000,
       "name": "Oeteldonk Met Jou",
       "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
@@ -11500,6 +11522,24 @@
       "duration_ms": 119883,
       "name": "Once We Get Up There",
       "url": "https://open.spotify.com/track/66sO5P0JhejhELU35RYVKV"
+    },
+    {
+      "album": {
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "ONE TRACK MIND",
+      "url": "https://open.spotify.com/track/34BzcgDQc4mnP8A2umJiu9"
     },
     {
       "album": {
@@ -11830,7 +11870,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
@@ -12448,7 +12488,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -13350,6 +13390,32 @@
       "duration_ms": 194866,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "album": {
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347640,
+      "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/0T1TSAZHNW7t39HUizavBE"
     },
     {
       "album": {
@@ -16110,7 +16176,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 190617,
       "name": "Wa Tr\u00e8kte Aon?! Meej Carnaval!",
       "url": "https://open.spotify.com/track/2CQGyDDAwjdcRvMxVHKVlg"
@@ -17506,7 +17572,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 155773,
       "name": "Yogameister",
       "url": "https://open.spotify.com/track/5hhZwYyYgHlfElYxCSRxNE"
@@ -17744,7 +17810,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 172520,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/2vBPWYCeB6ASj1uRNTZTC7"
@@ -17836,7 +17902,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 157200,
       "name": "Zet Die Tap Maar Open",
       "url": "https://open.spotify.com/track/4zGp1OpaQRgrBCYaw22o9K"

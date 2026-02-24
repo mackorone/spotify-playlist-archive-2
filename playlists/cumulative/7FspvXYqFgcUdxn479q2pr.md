@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-967 songs - 2 day 0 hr 49 min
+968 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 | 2024-05-31 | 2024-06-15 |
 | [Close Your Eyes \(Rolipso & Foínix Remix\)](https://open.spotify.com/track/0jVKEzt6ObQGdbpbv1gCcF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO) | [Close Your Eyes \(Rolipso & Foínix Remix\)](https://open.spotify.com/album/0ozDtV4O2m5tCnbCXMWpWc) | 2:12 | 2024-05-02 | 2024-05-11 |
 | [Closer](https://open.spotify.com/track/4eWTOkuVnWM9dRyWMtqRmL) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR), [Drezlo](https://open.spotify.com/artist/1ZSewqu6l61OVM00yGE1fL) | [Closer](https://open.spotify.com/album/5crQ5VCFih1eIuRsJSatEg) | 2:33 | 2025-11-28 | 2026-02-07 |
+| [Code](https://open.spotify.com/track/7byboaJhkG192Y7Hb5l54F) | [Veni](https://open.spotify.com/artist/3L8B2XCjkDcnmui5xAjbS1) | [Code](https://open.spotify.com/album/1hcqbQvlwKGnguhmsNmvwO) | 6:37 | 2026-02-23 |  |
 | [Coisinha Do Pai \(feat\. Sued Nunes\)](https://open.spotify.com/track/16U1IhTZ21tgalLHSdrhX1) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Coisinha Do Pai \(feat\. Sued Nunes\)](https://open.spotify.com/album/6NvjuCjxfDy1zZPnFzHPpM) | 1:37 | 2025-03-13 | 2025-05-31 |
 | [Come Undone](https://open.spotify.com/track/4CbTrY0U3h9SL11nGvl95R) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Luna Isa](https://open.spotify.com/artist/48rIZslea3sq2nxBfiEPpb) | [Come Undone](https://open.spotify.com/album/5mXxmNCowyfaUmxVssO0un) | 2:51 | 2025-07-04 | 2026-02-14 |
 | [Come With Me](https://open.spotify.com/track/0OLcO3qhTYRrvu4ex1TsVF) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [U4ME](https://open.spotify.com/artist/0iqz3fyBdmQwfiPZogizIQ), [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL) | [Come With Me](https://open.spotify.com/album/4PU1fJiSnGjj4WX4MAq3tA) | 2:39 | 2025-07-24 | 2026-02-14 |

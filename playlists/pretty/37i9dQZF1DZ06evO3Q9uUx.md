@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,918 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 43 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 44 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 45 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
-| 46 | [Triple It \(feat\. BIA\) \- Remix](https://open.spotify.com/track/2munD8T5PDKx6Euq0Wttpa) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Don't Scare Billy](https://open.spotify.com/artist/4Uiz3uMsmy6qBT3LiQegPR) | [Triple It \(feat\. BIA\) \[Remix\]](https://open.spotify.com/album/5K2XDrpxkaOabnuRJI7jNC) | 2:04 |
+| 46 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
 | 47 | [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 |
-| 48 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
+| 48 | [Triple It \(feat\. BIA\) \- Remix](https://open.spotify.com/track/2munD8T5PDKx6Euq0Wttpa) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Don't Scare Billy](https://open.spotify.com/artist/4Uiz3uMsmy6qBT3LiQegPR) | [Triple It \(feat\. BIA\) \[Remix\]](https://open.spotify.com/album/5K2XDrpxkaOabnuRJI7jNC) | 2:04 |
 | 49 | [GBAD \(feat\. MILLI & YOUHA\) \[Remix\]](https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [GBAD \(feat\. MILLI & YOUHA\) \[Remix\]](https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC) | 3:51 |
 | 50 | [READY SET](https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:51 |
 
-Snapshot ID: `aZj1gAAAAAAwsBmZ1ZRAvSCnbP3b2t7e`
+Snapshot ID: `aZpHAAAAAABT02IQd+vubHTc7Xmf+WDo`

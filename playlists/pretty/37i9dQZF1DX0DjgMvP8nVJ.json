@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 30024,
+  "num_followers": 30044,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Welcome to Jamrock",
-        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Welcome To Jamrock",
-      "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
-      },
-      "artists": [
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "The Big Bang",
-      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 200583,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv"
+      },
+      "artists": [
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Big Bang",
+      "url": "https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "THE VANDALIST",
-        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 136537,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Pul6SaLL8e0sQhJDBVOr1"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 228112,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+      "duration_ms": 136537,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Pul6SaLL8e0sQhJDBVOr1"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -759,6 +743,22 @@
       "duration_ms": 198000,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228112,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Holding Onto Strings Better Left To Fray",
-        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 224067,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 110861,
       "name": "4am",
       "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Holding Onto Strings Better Left To Fray",
+        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 224067,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Streets Of Gold",
-        "url": "https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R"
-      },
-      "artists": [
-        {
-          "name": "3OH!3",
-          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Double Vision",
-      "url": "https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1279,34 +1263,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "All At Once",
-        "url": "https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed"
+        "name": "Streets Of Gold",
+        "url": "https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R"
       },
       "artists": [
         {
-          "name": "The Airborne Toxic Event",
-          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN"
-      },
-      "artists": [
-        {
-          "name": "Pixie Lott",
-          "url": "https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Mama Do (Uh Oh, Uh Oh)",
-      "url": "https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR"
+      "duration_ms": 190706,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1327,18 +1295,34 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Pixie Lott",
+          "url": "https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1"
         }
       ],
-      "duration_ms": 323973,
-      "name": "Time to Run",
-      "url": "https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw"
+      "duration_ms": 196520,
+      "name": "Mama Do (Uh Oh, Uh Oh)",
+      "url": "https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1355,6 +1339,22 @@
       "duration_ms": 242466,
       "name": "Not Your Fault",
       "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 323973,
+      "name": "Time to Run",
+      "url": "https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Travelling Like The Light",
-        "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
-      },
-      "artists": [
-        {
-          "name": "V V Brown",
-          "url": "https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Shark In The Water",
-      "url": "https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 273013,
       "name": "We Don't Know",
       "url": "https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Travelling Like The Light",
+        "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
+      },
+      "artists": [
+        {
+          "name": "V V Brown",
+          "url": "https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Shark In The Water",
+      "url": "https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Sleep Talking",
-        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Sleep Talking",
-      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 226373,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Sleep Talking",
+        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Sleep Talking",
+      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
     },
     {
       "added_at": "2026-02-13 19:31:47",

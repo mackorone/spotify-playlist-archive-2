@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 65916,
+  "num_followers": 65933,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -687,6 +687,22 @@
       "duration_ms": 306533,
       "name": "No Weapon",
       "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 713409,
+      "name": "The Story I'll Tell - Live",
+      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -711,38 +727,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 713409,
-      "name": "The Story I'll Tell - Live",
-      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 358440,
-      "name": "Fill Me Up - Live",
-      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -771,22 +755,18 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
       "artists": [
         {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+      "duration_ms": 358440,
+      "name": "Fill Me Up - Live",
+      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -803,6 +783,26 @@
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 309984,
+      "name": "Ukuhlala Kuye - Live",
+      "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Nara",
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Calvary",
-        "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
+        "name": "Kulungile Baba",
+        "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
       },
       "artists": [
         {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+          "name": "S'fiso Ncwane",
+          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
         }
       ],
-      "duration_ms": 309984,
-      "name": "Ukuhlala Kuye - Live",
-      "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
+      "duration_ms": 284853,
+      "name": "Kulungile Baba",
+      "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -927,22 +943,6 @@
       "duration_ms": 217426,
       "name": "He Sees You",
       "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Kulungile Baba",
-        "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
-      },
-      "artists": [
-        {
-          "name": "S'fiso Ncwane",
-          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
-        }
-      ],
-      "duration_ms": 284853,
-      "name": "Kulungile Baba",
-      "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
     },
     {
       "added_at": "2024-08-16 00:01:00",

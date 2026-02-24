@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por <a href="spotify:artist:7KVJCU4z5L4EUHILL8aMxR"> Léo Santana</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,799 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,733 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 30 | [Molhadinha](https://open.spotify.com/track/7waChMUm2QTdsnnsBy4Axx) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf) | [Molhadinha](https://open.spotify.com/album/6g5xbsYAQ4w1b5nGw6oSSI) | 2:41 |
 | 31 | [Dança Da Cordinha](https://open.spotify.com/track/39vg0qbCDVS2dCPHsW8a19) | [É O Tchan](https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf) | [Na Cabeça E Na Cintura](https://open.spotify.com/album/6bCUvBMdcdrx64MARcD0TY) | 3:20 |
 | 32 | [Elas Gostam \(Popa da Bunda\)](https://open.spotify.com/track/065J8AnkmmKI93LmjqmRpg) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Elas Gostam \(Popa da Bunda\)](https://open.spotify.com/album/4vkqwGyjDpgTcTIduruOp2) | 3:24 |
-| 33 | [Nossa gente \(Avisa lá\) \- Ao vivo](https://open.spotify.com/track/7Ezag3qynTbVKeKbGJMAXX) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [Nova série](https://open.spotify.com/album/4h7BWiVNgHURUP8fiPWmGP) | 3:06 |
+| 33 | [Nossa gente \(Avisa lá\) \- Ao vivo](https://open.spotify.com/track/7Ezag3qynTbVKeKbGJMAXX) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [Nova série](https://open.spotify.com/album/4h7BWiVNgHURUP8fiPWmGP) | 3:09 |
 | 34 | [Na Base Do Beijo / Manda Ver / Pra Abalar \- Ao Vivo / Medley](https://open.spotify.com/track/12bzWEGUukIepPKInajHzZ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [O Carnaval De Ivete Sangalo 2015 \(Ao Vivo\)](https://open.spotify.com/album/0BGtZFqDInZuJJvJa8jChx) | 4:26 |
 | 35 | [Quero Chiclete \- Ao Vivo](https://open.spotify.com/track/1cfIZz2c1IdRvylisp4oOv) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [Chiclete Na Caixa, Banana No Cacho](https://open.spotify.com/album/05ldpwyLbeXEWZFsZ19Z4r) | 3:31 |
 | 36 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |

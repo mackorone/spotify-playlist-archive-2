@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483846,
+  "num_followers": 483842,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Welcome Back (To The//Glow)",
         "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -983,6 +967,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
     },
     {
       "added_at": "2026-01-23 05:00:19",

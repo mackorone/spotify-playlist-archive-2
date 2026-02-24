@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,201 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,216 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 8 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
 | 9 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
 | 10 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
-| 11 | [Hey Jago](https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS) | [Hey Jago](https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d) | 2:05 |
+| 11 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |
 | 12 | [Taliban](https://open.spotify.com/track/0tD7qefvHLOLc9Em9tcohZ) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Greatness IV](https://open.spotify.com/album/2dDaYWYmRIRcSXFSRYJ2c2) | 2:04 |
 | 13 | [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 |
-| 14 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |
+| 14 | [Hey Jago](https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS) | [Hey Jago](https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d) | 2:05 |
 | 15 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 |
 | 16 | [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 |
 | 17 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 57 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 |
 | 58 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 59 | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Deep Saints](https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Spux](https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG) | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL) | 6:06 |
-| 60 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 |
+| 60 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 
 Snapshot ID: `AAAAAK3jZ0i9+qdigNrThNdyD0UUSJ2X`

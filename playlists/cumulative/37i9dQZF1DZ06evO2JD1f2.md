@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-166 songs - 7 hr 26 min
+168 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |
 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 | 2022-10-28 |  |
 | [LIE TO ME SOME MORE](https://open.spotify.com/track/3hdWtlY4bawZp7Zf8bz27b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:46 | 2023-07-26 | 2023-08-22 |
+| [LOTTA SHOTS](https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:29 | 2026-02-24 |  |
 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 | 2022-10-28 | 2022-11-01 |
 | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/track/7hHKWHOXjtdlebhX7o4Gx6) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/album/5dYobmvNRqCCV9Mw90FAFM) | 2:19 | 2022-10-28 | 2023-01-04 |
 | [Make It Even](https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:29 | 2022-10-28 |  |
@@ -102,6 +103,7 @@
 | [No Fakin \(with EST Gee\)](https://open.spotify.com/track/7pneXkALm3yPh5juOMlsbC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:35 | 2026-01-25 |  |
 | [NOT ME](https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:35 | 2026-02-23 |  |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-10-28 | 2022-12-03 |
+| [NUN LIKE MINE](https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:56 | 2026-02-24 |  |
 | [Off White Mikes \(feat\. EST Gee\)](https://open.spotify.com/track/1sJE6dY3LYW3L0BMcMH8Ym) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Rich Off The Pack](https://open.spotify.com/album/7uHyX5l5ZEqNoP62SVD4LL) | 2:07 | 2023-07-27 | 2024-07-19 |
 | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 2:32 | 2023-07-05 | 2025-02-10 |
 | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/track/553LUljSpbLoJvYHZkEMCG) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/album/363jwuY5QnOldgxndqceeW) | 2:32 | 2023-06-14 | 2023-07-06 |
@@ -149,8 +151,8 @@
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/4cJx4c5R3ZpegG6fq1pFPC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 | 2025-07-14 | 2025-11-29 |
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-07 | 2025-07-14 |
 | [THE BIGGEST](https://open.spotify.com/track/7Fr5xo3GHRrJ1Q5kacxrGv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:15 | 2023-08-21 | 2023-09-19 |
-| [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 |  |
-| [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 |  |
+| [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 | 2026-02-24 |
+| [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 | 2026-02-24 |
 | [The Realest \(feat\. Jeezy\)](https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:15 | 2022-10-28 |  |
 | [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 | 2024-12-27 |
 | [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 | 2024-12-27 | 2025-02-05 |

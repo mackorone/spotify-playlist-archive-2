@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 63574,
+  "num_followers": 63588,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Taipero Poriahu",
-        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Tarrag\u00f3 Ros",
-          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Taipero Poriahu",
-      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 155666,
       "name": "Virgencita de Itat\u00ed",
       "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
-      },
-      "artists": [
-        {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
-        }
-      ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1295,6 +1295,38 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Aranda Palacio",
+          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Hijos de la Cordillera",
         "url": "https://open.spotify.com/album/2xpXO54zmVpQnRK8IQxkTS"
       },
@@ -1307,6 +1339,38 @@
       "duration_ms": 221346,
       "name": "Ya te perdi la F\u00e9",
       "url": "https://open.spotify.com/track/46J7OrU6rrJzuY279aI4Ku"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "duration_ms": 126173,
+      "name": "Mi Triste Fantasia",
+      "url": "https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 3",
+        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
+      },
+      "artists": [
+        {
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pasion oculta",
+      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1332,70 +1396,6 @@
       },
       "artists": [
         {
-          "name": "Mario Romero canta Espindola Escobar",
-          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Felicidades madrecita",
-      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 126173,
-      "name": "Mi Triste Fantasia",
-      "url": "https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Duo Aranda Palacio",
-          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 3",
-        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
-      },
-      "artists": [
-        {
-          "name": "Coquimarola",
-          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pasion oculta",
-      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
           "name": "Toto Maidana",
           "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
@@ -1403,6 +1403,22 @@
       "duration_ms": 139586,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Por Siempre Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Por Siempre Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Por Siempre Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
-      },
-      "artists": [
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Por Siempre Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Si el Campo Crece, Crece el Pa\u00eds",
         "url": "https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ"
       },
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        },
-        {
-          "name": "El Suppe'r De Oro",
-          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
         }
       ],
-      "duration_ms": 208579,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
+      "duration_ms": 142200,
+      "name": "Barrio la Toma",
+      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1499,22 +1495,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Barrio la Toma",
-      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Muchachita Sos Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 139173,
       "name": "Sentimiento Correntino",
       "url": "https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        },
+        {
+          "name": "El Suppe'r De Oro",
+          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
+        }
+      ],
+      "duration_ms": 208579,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

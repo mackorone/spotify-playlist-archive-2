@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag, endelig ny musik bl.a\. fra Ella Augusta, Blæst og ozzy ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,487 likes - 108 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,481 likes - 108 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 57 | [Pride Like Porcelain](https://open.spotify.com/track/0MXBDSeWjoSKFucPQbS4mq) | [Iris Gold](https://open.spotify.com/artist/6DyxyAiluuZ008t0ITLwOI) | [Sugar On My Lips](https://open.spotify.com/album/27nMVaowjkzSFkq8DCFa75) | 2:40 |
 | 58 | [ode](https://open.spotify.com/track/6quU6GhPVcamMQAiGaVJOK) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [ode](https://open.spotify.com/album/7p9QwUgJtABhqDuxsOz3XJ) | 2:54 |
 | 59 | [Håber Du Kommer Hjem](https://open.spotify.com/track/2jCEhjI1LI9AuVb8KRBDuu) | [Røverdatter](https://open.spotify.com/artist/5NSOT63Z0KYQ6LnjdBKPiW) | [Håber Du Kommer Hjem](https://open.spotify.com/album/0C6Jgl8KW0pz6SQEKqcfqN) | 2:41 |
-| 60 | [LOSE MY MIND](https://open.spotify.com/track/7flf6P2S3sT2iTqD4z555w) | [Rasmus Lampon](https://open.spotify.com/artist/1s9T3T1ELH9h58DtgmvHQM), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [LOSE MY MIND](https://open.spotify.com/album/12ApdDT68T3T5rVY6XzVHq) | 2:32 |
+| 60 | [Lose My Mind](https://open.spotify.com/track/7flf6P2S3sT2iTqD4z555w) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Lose My Mind](https://open.spotify.com/album/12ApdDT68T3T5rVY6XzVHq) | 2:32 |
 | 61 | [Closer to you](https://open.spotify.com/track/0bbX9rykPzJQQ24w59qgXB) | [Emma Lindquist](https://open.spotify.com/artist/58DgBtX4HGGuzIXDFGfcmy) | [Closer to you](https://open.spotify.com/album/6O6F0JoErv2bN5v2mNG7qD) | 3:32 |
 | 62 | [Tusind Grunde](https://open.spotify.com/track/38NJlXMkGsWVRsfVnELgtr) | [VINZ](https://open.spotify.com/artist/7eqUKugbjvBTPgBtMDoCfw) | [Kunne Du Tænke Dig At Blive](https://open.spotify.com/album/6YB3IMmZG9zFUveX1cYI06) | 2:57 |
 | 63 | [Stranger](https://open.spotify.com/track/1qRxWvbYkC0bJKWx3OwIwf) | [Miriam Majcherek](https://open.spotify.com/artist/4MajfJSVJ2DqyO6ekWyY6f) | [Stranger](https://open.spotify.com/album/5XiMwWx88uNbOv52asnFsQ) | 3:22 |

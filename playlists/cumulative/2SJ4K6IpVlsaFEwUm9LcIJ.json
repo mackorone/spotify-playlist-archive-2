@@ -9139,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "Paradise and Lunch",
+        "url": "https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Married Man's a Fool",
+      "url": "https://open.spotify.com/track/4adw6ESNlVjwuVuOjCdGrJ"
+    },
+    {
+      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd"
       },

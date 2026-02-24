@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > نخبة الأغاني الخليجية\. الغلاف: رابح صقر
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,833 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,841 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Gedidi Ent](https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Gedidi Ent](https://open.spotify.com/album/2XMuog8bq0jcsClWvVzebk) | 4:21 |
 | 40 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 |
 
-Snapshot ID: `AAAAAG1CGc88G5katNjbq0lASw1sLKgc`
+Snapshot ID: `AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4`

@@ -1777,6 +1777,28 @@
     },
     {
       "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "LOTTA SHOTS",
+      "url": "https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1"
+    },
+    {
+      "album": {
         "name": "Love Is Blind",
         "url": "https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ"
       },
@@ -2038,6 +2060,28 @@
       "duration_ms": 174577,
       "name": "Not Opps (feat. EST Gee)",
       "url": "https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV"
+    },
+    {
+      "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "NUN LIKE MINE",
+      "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
     },
     {
       "album": {
@@ -3086,7 +3130,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 131187,
       "name": "The King",
       "url": "https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos"
@@ -3104,7 +3148,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 139681,
       "name": "THE ONE & ONLY",
       "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"

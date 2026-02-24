@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,665 likes - 125 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,682 likes - 125 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 2 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 |
 | 3 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 |
 | 4 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 |
-| 5 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 |
-| 6 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 |
+| 5 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 |
+| 6 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 |
 | 7 | [Always on My Mind](https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 4:29 |
 | 8 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 |
 | 9 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 4:22 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 63 | [Morning Has Broken](https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Everybody Loves Angels](https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm) | 5:20 |
 | 64 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 |
 | 65 | [Ｗｏｎｄｅｒｗａｌｌ](https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl) | [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4) | [Songbird](https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO) | 4:41 |
-| 66 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 |
-| 67 | [Mr\. Tambourine Man](https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 9:09 |
+| 66 | [Mr\. Tambourine Man](https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 9:09 |
+| 67 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 |
 | 68 | [Cocoon](https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Elles](https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc) | 4:22 |
 | 69 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 |
 | 70 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 |

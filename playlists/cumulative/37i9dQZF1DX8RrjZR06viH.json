@@ -2453,6 +2453,36 @@
     },
     {
       "album": {
+        "name": "I'll be the light",
+        "url": "https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Espen Lind",
+          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Oslo Hit Ensemble",
+          "url": "https://open.spotify.com/artist/55jhiY7T5lMkZ35BubRql8"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163449,
+      "name": "I'll be the light",
+      "url": "https://open.spotify.com/track/1k2ac6IiUS3OoisZ92KIEX"
+    },
+    {
+      "album": {
         "name": "i'm in the corner, alone",
         "url": "https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv"
       },
@@ -4840,7 +4870,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"

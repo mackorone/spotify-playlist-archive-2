@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,688 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,717 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 72 | [Me Emborrachare](https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Me Emborracharé](https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI) | 4:02 |
 | 73 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd), [Grupo Karicia](https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
 | 74 | [Corazón](https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [90 Retro Style](https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr) | 3:05 |
-| 75 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
+| 75 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
 | 76 | [Ni Que Estuviera Loco](https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 2:23 |
-| 77 | [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 |
+| 77 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
 | 78 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 |
 | 79 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 |
 | 80 | [Bailantero y Parrandero](https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK) | [Grupo Sixx](https://open.spotify.com/artist/5tjVTwiojga74Vm263lGwF) | [Bailantero y Parrandero](https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc) | 3:19 |

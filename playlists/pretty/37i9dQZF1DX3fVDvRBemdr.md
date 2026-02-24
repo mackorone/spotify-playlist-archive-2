@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Dave Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,918 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,915 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 |
-| 2 | [Diner Voor Twee](https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Diner Voor Twee](https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU) | 2:35 |
+| 1 | [Diner Voor Twee](https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Diner Voor Twee](https://open.spotify.com/album/7eigNO4pIpnIB9btmu9gAU) | 2:35 |
+| 2 | [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 |
 | 3 | [Dit is een Droom](https://open.spotify.com/track/4gcpVrrinsdA9BoPyuA9Oy) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Dit is een Droom](https://open.spotify.com/album/6A7Mp48fzceOliFU0fKeYP) | 3:03 |
 | 4 | [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 |
-| 5 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
-| 6 | [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 |
-| 7 | [1%](https://open.spotify.com/track/25vyONTCBi5i4J2k8NSngB) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [1%](https://open.spotify.com/album/4amrfzBhiVhXDGLyrMnzkX) | 2:51 |
-| 8 | [Wiegelied \- 2.0](https://open.spotify.com/track/0uzWXLY18awtT7GiisLBrG) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0) | [Wiegelied \(2.0\)](https://open.spotify.com/album/09UBeoyQDy3ay8sBgQmXZE) | 2:38 |
-| 9 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 |
-| 10 | [Wij Doen Het Samen](https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h) | [Grad Damen](https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt), [Louistje Damen](https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha) | [Wij Doen Het Samen](https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ) | 3:21 |
+| 5 | [Wij Doen Het Samen](https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h) | [Grad Damen](https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt), [Louistje Damen](https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha) | [Wij Doen Het Samen](https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ) | 3:21 |
+| 6 | [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 |
+| 7 | [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 |
+| 8 | [1%](https://open.spotify.com/track/25vyONTCBi5i4J2k8NSngB) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [1%](https://open.spotify.com/album/4amrfzBhiVhXDGLyrMnzkX) | 2:51 |
+| 9 | [Wiegelied \- 2.0](https://open.spotify.com/track/0uzWXLY18awtT7GiisLBrG) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0) | [Wiegelied \(2.0\)](https://open.spotify.com/album/09UBeoyQDy3ay8sBgQmXZE) | 2:38 |
+| 10 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 |
 | 11 | [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 |
 | 12 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
 | 13 | [Amor De Mis Amores \(De Pijn Zit Diep In Mij\)](https://open.spotify.com/track/7ClaUNp2RUzAWRKYmmPpyj) | [William Janz](https://open.spotify.com/artist/6QOY0ValrQ2jZFVDR7kxUP) | [Amor De Mis Amores \(De Pijn Zit Diep In Mij\)](https://open.spotify.com/album/3znIkOJ8gx864A0YFsLUel) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [De Bon Is Van Mij](https://open.spotify.com/track/5H6tJM9ZWBGxp2DkVuRFvY) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [De Bon Is Van Mij](https://open.spotify.com/album/0GSCRfKg3ILfgpBloMDBe1) | 2:55 |
 | 80 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 
-Snapshot ID: `AAAAADyL10TeuWHvwZANTJtJI9pj6SL6`
+Snapshot ID: `AAAAANvOScAZUspppAmv2+vM+iNsFPGB`

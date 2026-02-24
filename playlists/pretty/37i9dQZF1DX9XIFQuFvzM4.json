@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3614209,
+  "num_followers": 3614071,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 156200,
       "name": "Nothing From Nothing",
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Midnight Mover: The Bobby Womack Story",
-        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 235870,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
-      "added_at": "2025-03-25 15:28:45",
-      "album": {
-        "name": "King Floyd",
-        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Express Yourself",
@@ -895,6 +879,22 @@
       "duration_ms": 233613,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+    },
+    {
+      "added_at": "2025-03-25 15:28:45",
+      "album": {
+        "name": "King Floyd",
+        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1164,7 +1164,7 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 199266,
+      "duration_ms": 197538,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Pelvis Pusher",
-        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Pelvis Pusher",
-      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/5olG5OUfCDV6O5e1Ip3YXF"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 229600,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Pelvis Pusher",
+        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Pelvis Pusher",
+      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Smooth Sailin'",
-      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Smooth Sailin'",
+      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },
@@ -2367,22 +2367,6 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2415,6 +2399,22 @@
       "duration_ms": 195266,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2455,18 +2455,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
         }
       ],
-      "duration_ms": 165080,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+      "duration_ms": 168000,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ"
     }
   ],
   "unique_name": "Feelin' Good",

@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 471,
+  "num_followers": 470,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAD2xsvU9AdP+movKV2GwN2i",
+  "snapshot_id": "aZpHAAAAAAACTELv27wDhfbmocptkO6W",
   "tracks": [
     {
       "added_at": null,
@@ -458,15 +458,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 224593,
-      "name": "Better (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
+      "duration_ms": 148177,
+      "name": "Pocket Dial",
+      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
     },
     {
       "added_at": null,
@@ -503,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
-      },
-      "artists": [
-        {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "Pocket Dial",
-      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -559,42 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 103301,
-      "name": "Big Waves",
-      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
@@ -608,9 +532,45 @@
           "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 175464,
-      "name": "Atmosphere (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
+      "duration_ms": 224593,
+      "name": "Better (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 207238,
+      "name": "tl;dr",
+      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -635,6 +595,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 175464,
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 103301,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
       "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+      "duration_ms": 222720,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
       },
       "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Collage",
-      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
     },
     {
       "added_at": null,
@@ -774,15 +774,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "GUV",
-          "url": "https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw"
         }
       ],
-      "duration_ms": 194000,
-      "name": "So Far From Home",
-      "url": "https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR"
+      "duration_ms": 146459,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
     },
     {
       "added_at": null,
@@ -810,11 +806,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "GUV",
+          "url": "https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw"
         }
       ],
-      "duration_ms": 146459,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
+      "duration_ms": 194000,
+      "name": "So Far From Home",
+      "url": "https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR"
     }
   ],
   "unique_name": "This Is Harrison",

@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 119838,
+  "num_followers": 119864,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Striptease",
-        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "R\u00ede Cuando Puedas",
-      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Almanauta",
         "url": "https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 456266,
       "name": "Los Zurdos Mueren Antes",
       "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Striptease",
+        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "R\u00ede Cuando Puedas",
+      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -639,18 +639,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Punchline City, Vol. 1",
-        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
       },
       "artists": [
         {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         }
       ],
-      "duration_ms": 76660,
-      "name": "NueveOnce",
-      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -699,26 +707,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
       },
       "artists": [
         {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
         }
       ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Ars Magna / Miradas",
+        "url": "https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 284770,
+      "name": "Mi Propio Cielo",
+      "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Gangstas",
         "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Colecci\u00f3n In\u00e9ditos",
-        "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        }
-      ],
-      "duration_ms": 220321,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Can + Zoo \u00cdndigo",
         "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
       },
@@ -1931,6 +1931,22 @@
       "duration_ms": 259578,
       "name": "Cuando Vayas Conmigo",
       "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Colecci\u00f3n In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "duration_ms": 220321,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -2019,22 +2035,6 @@
       "duration_ms": 162758,
       "name": "La Brujula",
       "url": "https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "El manual de la otredad",
-        "url": "https://open.spotify.com/album/7z3yIRNWjZGM5cdNVGXSkB"
-      },
-      "artists": [
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Autonomo",
-      "url": "https://open.spotify.com/track/2fLiWIH8nhWH9BBdF0WnRH"
     }
   ],
   "unique_name": "Rap Conciencia",

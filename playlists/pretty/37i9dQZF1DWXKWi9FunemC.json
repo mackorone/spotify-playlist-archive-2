@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 394096,
+  "num_followers": 394162,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Northstar",
-        "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 191411,
-      "name": "We Rise And Fall",
-      "url": "https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "You Hold It All",
         "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213880,
       "name": "Skin And Bone",
       "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Northstar",
+        "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 191411,
+      "name": "We Rise And Fall",
+      "url": "https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "You Were There",
-        "url": "https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh"
-      },
-      "artists": [
-        {
-          "name": "CHPTRS",
-          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
-        }
-      ],
-      "duration_ms": 255837,
-      "name": "You Were There",
-      "url": "https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "You Were There",
+        "url": "https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh"
+      },
+      "artists": [
+        {
+          "name": "CHPTRS",
+          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
+        }
+      ],
+      "duration_ms": 255837,
+      "name": "You Were There",
+      "url": "https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "I See the Birds",
-        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 243808,
-      "name": "I See the Birds",
-      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Far Far",
         "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "I See the Birds",
+        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 243808,
+      "name": "I See the Birds",
+      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Be My Glory",
         "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 262213,
       "name": "Be My Glory",
       "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1403,22 +1419,6 @@
       "duration_ms": 189642,
       "name": "Everyday Things",
       "url": "https://open.spotify.com/track/4hesfRaW8qOa6GGO5iR4mo"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1759,38 +1759,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 202117,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Reckoner (An Axe Laid at the Root)",
-        "url": "https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 237123,
-      "name": "Reckoner (An Axe Laid at the Root)",
-      "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "SOMETHING TOLD ME",
         "url": "https://open.spotify.com/album/6ExqkdaKtq0NRU1JSh9gRt"
       },
@@ -1811,6 +1779,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 202117,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "SURVEY: Part 1",
         "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 350783,
       "name": "Found",
       "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Reckoner (An Axe Laid at the Root)",
+        "url": "https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 237123,
+      "name": "Reckoner (An Axe Laid at the Root)",
+      "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Open My Eyes",
-      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Who's My Neighbor? (Acoustic)",
         "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 183000,
       "name": "Who's My Neighbor? - Acoustic",
       "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Open My Eyes",
+      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "This Holy Moment",
         "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Foolish & Ruined",
         "url": "https://open.spotify.com/album/1VTMJQrkPyGoAguXMSc3nK"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 299368,
       "name": "Foolish & Ruined",
       "url": "https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Livin' To Learn",
+        "url": "https://open.spotify.com/album/6Ilwp3o5p0nuYlB42uGyoe"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        }
+      ],
+      "duration_ms": 147178,
+      "name": "Livin' To Learn",
+      "url": "https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Better Plan",
         "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
       },
@@ -2607,22 +2623,6 @@
       "duration_ms": 238152,
       "name": "Better Plan",
       "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Livin' To Learn",
-        "url": "https://open.spotify.com/album/6Ilwp3o5p0nuYlB42uGyoe"
-      },
-      "artists": [
-        {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
-        }
-      ],
-      "duration_ms": 147178,
-      "name": "Livin' To Learn",
-      "url": "https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1"
     },
     {
       "added_at": "2025-12-12 22:29:55",

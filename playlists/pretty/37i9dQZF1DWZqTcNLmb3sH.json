@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Rakkasapuradhol",
-  "num_followers": 67890,
+  "num_followers": 67896,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO4gpTMLaGSJjzqTpozILMkzztJ+",
+  "snapshot_id": "AAAAAPBryoPxTWe78jRt5oi70lVyINpD",
   "tracks": [
     {
       "added_at": "2026-02-10 09:50:01",
@@ -85,6 +85,54 @@
       "url": "https://open.spotify.com/track/6fcyl9dRHSaAC5E6PbNvPd"
     },
     {
+      "added_at": "2026-02-23 07:31:43",
+      "album": {
+        "name": "Chatha Pacha: The Ring Of Rowdies [KANNADA]",
+        "url": "https://open.spotify.com/album/7hOHEx1kMpExlhiqhhwX5n"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Vishak",
+          "url": "https://open.spotify.com/artist/3qEJJvNHM2LdIX65wFeFgH"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 228117,
+      "name": "Chatha Pacha Title Track (Kannada)",
+      "url": "https://open.spotify.com/track/5LdvnfNoJ0nJWZDZ0TLDdP"
+    },
+    {
+      "added_at": "2026-02-23 07:32:58",
+      "album": {
+        "name": "Thadka Thadka (From \"Graamaayana\")",
+        "url": "https://open.spotify.com/album/7xggH97JOypJpV6aEPvoU9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Thadka Thadka (From \"Graamaayana\")",
+      "url": "https://open.spotify.com/track/4yzrx2qocp6OQLSl8WqpED"
+    },
+    {
       "added_at": "2026-02-19 12:57:15",
       "album": {
         "name": "Premanthaka (From \"LANDLORD\")",
@@ -109,6 +157,30 @@
       "url": "https://open.spotify.com/track/08FKW1x2JTIhRVwYd3wNPC"
     },
     {
+      "added_at": "2026-02-23 07:28:45",
+      "album": {
+        "name": "Urulo Kalave (From \"Second Case Of Seetharam\")",
+        "url": "https://open.spotify.com/album/66KKJvRrSkOlbJ5cd7JOr2"
+      },
+      "artists": [
+        {
+          "name": "Vijay Raghavendra",
+          "url": "https://open.spotify.com/artist/4w3FrF0a0IVAlEU8huPAyU"
+        },
+        {
+          "name": "Navneeth Sham",
+          "url": "https://open.spotify.com/artist/22I1efIYNxoS72UZYcZaSA"
+        },
+        {
+          "name": "Trilok Trivikram",
+          "url": "https://open.spotify.com/artist/1xm0IvlkYjHoADBUX3v6tm"
+        }
+      ],
+      "duration_ms": 256181,
+      "name": "Urulo Kalave (From \"Second Case Of Seetharam\")",
+      "url": "https://open.spotify.com/track/6nrkV2WdFU1ndaGyVpD5x8"
+    },
+    {
       "added_at": "2026-02-12 10:57:57",
       "album": {
         "name": "Higondu Manavi (From \"Maayavi\")",
@@ -131,6 +203,30 @@
       "duration_ms": 245756,
       "name": "Higondu Manavi (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/0Tg9xoPReNwwx60pxMrEjp"
+    },
+    {
+      "added_at": "2026-02-23 07:26:39",
+      "album": {
+        "name": "Hero (From \"Alpha # Men Love Vengeance\")",
+        "url": "https://open.spotify.com/album/4E4BlUEN7vPRINmHwdKQDX"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Hero (From \"Alpha # Men Love Vengeance\")",
+      "url": "https://open.spotify.com/track/1dPlV7qbTTn8DI0qwV1Fgj"
     },
     {
       "added_at": "2026-02-16 11:45:35",
@@ -1635,130 +1731,6 @@
       "duration_ms": 222254,
       "name": "Gangadhara Shankara (Kannada)",
       "url": "https://open.spotify.com/track/5DVuhQPwY3P7tQTwQpH0yS"
-    },
-    {
-      "added_at": "2026-01-05 07:57:02",
-      "album": {
-        "name": "Meghana Baa Hogana (From \"JC The University\")",
-        "url": "https://open.spotify.com/album/60JYfNK6f0WUbgGZKK2Ssg"
-      },
-      "artists": [
-        {
-          "name": "Rohit Sower",
-          "url": "https://open.spotify.com/artist/2i06RgKb30o0Mb96abv3r3"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Srilakshmi Belmannu",
-          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
-        }
-      ],
-      "duration_ms": 213313,
-      "name": "Meghana Baa Hogana (From \"JC The University\")",
-      "url": "https://open.spotify.com/track/6kbBryotP696BkM19ZdnaD"
-    },
-    {
-      "added_at": "2026-01-05 07:54:14",
-      "album": {
-        "name": "Iruve (From \"Raktha Kashmira\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnPiVWUmsP0byI2vZfRRn"
-      },
-      "artists": [
-        {
-          "name": "Nanditha",
-          "url": "https://open.spotify.com/artist/0qBLXkziuBou13bmjY5z8i"
-        },
-        {
-          "name": "Guru Kiran",
-          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
-        }
-      ],
-      "duration_ms": 128690,
-      "name": "Iruve (From \"Raktha Kashmira\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/68cGmDxLNOvjfvWY4aauUt"
-    },
-    {
-      "added_at": "2026-01-05 07:54:47",
-      "album": {
-        "name": "Gippa Gippa (From \"Trimukha\") (Kannada)",
-        "url": "https://open.spotify.com/album/4SipDNsdU31Shrv1rzltmZ"
-      },
-      "artists": [
-        {
-          "name": "Sindhuri",
-          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
-        },
-        {
-          "name": "Sudhir",
-          "url": "https://open.spotify.com/artist/28T5XBDB9FqOkijAjm3yTY"
-        },
-        {
-          "name": "Raag Sagar",
-          "url": "https://open.spotify.com/artist/6CSDJvtI5aQTN365ba5j6l"
-        },
-        {
-          "name": "Vinod Yajamanya",
-          "url": "https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR"
-        },
-        {
-          "name": "Amoeba Suresh",
-          "url": "https://open.spotify.com/artist/6dIy5BHYoUSGQIAkCsEQ8a"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Gippa Gippa (From \"Trimukha\") (Kannada)",
-      "url": "https://open.spotify.com/track/1Xb2jV47mKXrLlidPcnTwN"
-    },
-    {
-      "added_at": "2026-01-05 07:52:58",
-      "album": {
-        "name": "Yako Bhagavantha (From \"Dharmam\")",
-        "url": "https://open.spotify.com/album/5piSCgZhw8M5Rzt8Vl49VA"
-      },
-      "artists": [
-        {
-          "name": "Saravanaa Subramaniam",
-          "url": "https://open.spotify.com/artist/6J0ATnNVujuXqf8Id3Z29J"
-        },
-        {
-          "name": "Siri Katte",
-          "url": "https://open.spotify.com/artist/0ZG5jmbAX5ENi7mlSq1J3F"
-        },
-        {
-          "name": "Nagamukha",
-          "url": "https://open.spotify.com/artist/3leG42jkj3rhygStwcBq0q"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Yako Bhagavantha (From \"Dharmam\")",
-      "url": "https://open.spotify.com/track/5qovecvI7DWGFo9ONvERAs"
-    },
-    {
-      "added_at": "2026-01-05 07:50:24",
-      "album": {
-        "name": "Daari Ellavu (From \"Gani B.Com Pass 2\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4syeARlTF19wm7NSuN1cpd"
-      },
-      "artists": [
-        {
-          "name": "Anand Rajavikram",
-          "url": "https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ"
-        },
-        {
-          "name": "Abhinandan Mahishale",
-          "url": "https://open.spotify.com/artist/11w66sb6c5vljMpHqM4cyq"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Daari Ellavu (From \"Gani B.Com Pass 2\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5y5n7kgNPLd3nQQkijOiMl"
     },
     {
       "added_at": "2026-01-05 07:51:36",

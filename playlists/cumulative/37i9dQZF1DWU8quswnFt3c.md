@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-2,797 songs - 6 day 11 hr 4 min
+2,799 songs - 6 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -913,6 +913,7 @@
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-14 | 2023-11-30 |
 | [Good Enough](https://open.spotify.com/track/21RsFzAqYUMNXnHGiV6WnH) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Good Enough](https://open.spotify.com/album/7tmQfh6QLVPjcJVnqrcnIc) | 3:09 | 2024-01-10 | 2024-02-08 |
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-04 | 2022-06-01 |
+| [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 | 2026-02-18 |  |
 | [Good Luck in Chicago](https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Good Luck in Chicago](https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0) | 3:56 | 2023-07-05 | 2023-08-03 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-05-02 | 2025-01-09 |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-07-03 | 2024-08-08 |
@@ -1384,6 +1385,7 @@
 | [Look at Her](https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf) | [Nqobilé](https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V) | [Look at Her](https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi) | 2:46 | 2023-09-06 | 2023-10-05 |
 | [Look At What I'm Doing To You](https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Look At What I'm Doing To You](https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H) | 3:19 | 2022-07-06 | 2022-08-04 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-02-02 | 2022-03-09 |
+| [Looks Like](https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Looks Like](https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL) | 3:00 | 2026-02-18 |  |
 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 | 2024-04-17 | 2024-05-03 |
 | [LOS ANGELES](https://open.spotify.com/track/0jm0z6FL8HS3t0o5YpMAGT) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [TRAEME FLORES](https://open.spotify.com/album/6OWwxcdAilYCDaUdaRtKfN) | 2:29 | 2022-02-02 | 2022-03-09 |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-09-06 | 2023-11-09 |
@@ -2044,7 +2046,7 @@
 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 | 2023-02-01 | 2023-03-02 |
 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-05-02 | 2024-06-06 |
 | [Self Love](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:52 | 2025-04-02 | 2025-06-05 |
-| [Semnal în Rai](https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Semnal în Rai](https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS) | 3:16 | 2026-02-05 |  |
+| [Semnal în Rai](https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Semnal în Rai](https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS) | 3:16 | 2026-02-05 | 2026-02-24 |
 | [Sempat](https://open.spotify.com/track/6RtzFvaNc67EHQDm1bBRi7) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Sempat](https://open.spotify.com/album/0hJPhUjVVEd25SzsPBfgnX) | 3:52 | 2022-09-07 | 2022-10-05 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2024-02-07 | 2024-03-07 |
 | [Sen Benim Mağaramsın](https://open.spotify.com/track/6w8wCVir8mfPfNGzB6Ap3j) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Sen Benim Mağaramsın](https://open.spotify.com/album/6yWmxGqxfeUDMDM3mPOHVc) | 3:46 | 2022-11-02 | 2022-12-01 |
@@ -2457,7 +2459,7 @@
 | [Vivo](https://open.spotify.com/track/3ohY8vvPOrkBUM5LivS0Cg) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Vivo](https://open.spotify.com/album/3nPYHYpUeadCwNd9mtDaKu) | 3:21 | 2023-04-05 | 2023-05-04 |
 | [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 | 2024-12-04 | 2025-01-09 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-06-07 | 2023-07-06 |
-| [volta atrás](https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [volta atrás](https://open.spotify.com/album/4B0E69oN7iCRomcAr3PZlE) | 3:16 | 2026-02-05 |  |
+| [volta atrás](https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [volta atrás](https://open.spotify.com/album/4B0E69oN7iCRomcAr3PZlE) | 3:16 | 2026-02-05 | 2026-02-24 |
 | [Volvernos a Amar](https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Contra Todo Pronóstico](https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO) | 3:09 | 2024-06-05 | 2024-07-04 |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-05 | 2022-02-03 |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2024-09-04 | 2024-10-17 |

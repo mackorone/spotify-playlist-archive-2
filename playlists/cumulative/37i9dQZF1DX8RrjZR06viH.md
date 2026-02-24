@@ -4,7 +4,7 @@
 
 > ❄️❄️❄️
 
-308 songs - 16 hr 4 min
+309 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 | 2024-10-28 |
 | [I Feel Like Myself \(When I'm With You\)](https://open.spotify.com/track/3FkFaiJLMqpUhoVJf8k6qf) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [I Feel Like Myself \(When I'm With You\)](https://open.spotify.com/album/5vGGauh3tlsMW47wY81Ozr) | 2:52 | 2025-04-03 | 2025-05-04 |
 | [I veit](https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [I veit](https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj) | 2:27 | 2025-07-03 | 2025-07-18 |
+| [I'll be the light](https://open.spotify.com/track/1k2ac6IiUS3OoisZ92KIEX) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Oslo Hit Ensemble](https://open.spotify.com/artist/55jhiY7T5lMkZ35BubRql8), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I'll be the light](https://open.spotify.com/album/1k5IS1kmJi8s2gHZTyHdAE) | 2:43 | 2026-02-19 |  |
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-02 | 2025-06-28 |
 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 | 2025-09-04 | 2025-11-14 |
 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 | 2026-02-12 |  |
@@ -262,7 +263,7 @@
 | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj) | 5:04 | 2025-10-23 |  |
 | [Sover du](https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t), [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Sover du](https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s) | 4:24 | 2025-01-23 |  |
 | [Special](https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Special](https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG) | 3:07 | 2026-02-05 |  |
-| [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 | 2025-02-06 |  |
+| [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 | 2025-02-06 | 2026-02-24 |
 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 | 2025-05-22 | 2025-07-18 |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-27 | 2024-10-11 |
 | [Stay](https://open.spotify.com/track/7dkLiX1LPbQC5B9Ez1lRyv) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Stay + Happy Ever After](https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D) | 2:46 | 2025-09-04 | 2025-09-19 |

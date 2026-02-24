@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283442,
+      "name": "Dust Bowl Dance",
+      "url": "https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99"
+    },
+    {
+      "album": {
         "name": "Feed the Machine",
         "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
       },

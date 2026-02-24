@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADYjyWTGvE0H7hUAW3sbNL6",
+  "snapshot_id": "aZpHAAAAAADeKKhNV8582R8bG6R8Mp/j",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 275840,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
+      "duration_ms": 357106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 357106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
+      "duration_ms": 275840,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,

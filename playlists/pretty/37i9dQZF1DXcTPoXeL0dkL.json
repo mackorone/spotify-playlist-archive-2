@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 221819,
+  "num_followers": 221841,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+        "name": "Para Nunca Olvidar",
+        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Farid Ortiz",
+          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
+        },
+        {
+          "name": "Negrito Osorio",
+          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
         }
       ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+      "duration_ms": 280426,
+      "name": "Preg\u00fantele a Su Hija",
+      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -483,6 +487,22 @@
       "duration_ms": 283293,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -523,22 +543,38 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
       },
       "artists": [
         {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
         },
         {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
         }
       ],
-      "duration_ms": 238892,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -559,18 +595,38 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 238892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name la Vida",
+      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -607,22 +663,18 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Para Nunca Olvidar",
-        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Farid Ortiz",
-          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
-        },
-        {
-          "name": "Negrito Osorio",
-          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Preg\u00fantele a Su Hija",
-      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -643,22 +695,6 @@
       "duration_ms": 275040,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -711,22 +747,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Quiero Que Seas Mi Estrella",
-      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
       },
@@ -739,6 +759,22 @@
       "duration_ms": 275866,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -795,22 +831,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/6NyPshDTRFdloia9LlLZW4"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Volvio El Dolor",
-      "url": "https://open.spotify.com/track/0Hherx8M8jlKSB3Rr2iz2N"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
@@ -823,6 +843,22 @@
       "duration_ms": 315862,
       "name": "10 Razones para Amarte",
       "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/6NyPshDTRFdloia9LlLZW4"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Volvio El Dolor",
+      "url": "https://open.spotify.com/track/0Hherx8M8jlKSB3Rr2iz2N"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -843,22 +879,18 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 246726,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -875,22 +907,6 @@
       "duration_ms": 305826,
       "name": "Buscar\u00e9 Otro Amor",
       "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Historia Musical de Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -1027,22 +1043,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "No Le Temas al Amor",
-      "url": "https://open.spotify.com/track/0WTm21amOR7KQNh67GA1OP"
     },
     {
       "added_at": "2025-06-06 05:39:08",

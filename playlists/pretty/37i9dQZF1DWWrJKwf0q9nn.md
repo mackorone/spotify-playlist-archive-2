@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Jengi & Eloise Keeble
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,602 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,606 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 23 | [Fred Not Again \- Extended Mix](https://open.spotify.com/track/5wTZaJb0DzmMA7N3IXFNP4) | [RUBY XX](https://open.spotify.com/artist/37kVtIa6xZiHliDQ1XmgRB) | [Fred Not Again \(Extended Mix\)](https://open.spotify.com/album/2fzzvOzBJDTEd1B5IYjIi7) | 3:32 |
 | 24 | [Rise Up](https://open.spotify.com/track/5ljM6QlRLM3cJ0WXvgw1iE) | [ASTOR](https://open.spotify.com/artist/3My8e3DuKpRo0uhuIX5lpR) | [Rise Up](https://open.spotify.com/album/1geWThnRgblQ1AwPOFoRI9) | 3:40 |
 | 25 | [Destiny](https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Destiny](https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc) | 3:33 |
-| 26 | [Breathe](https://open.spotify.com/track/757An7Om3q0E7qSvztB2WC) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1tglKWD7ydb0hkOD3SI430) | 2:56 |
+| 26 | [Breathe](https://open.spotify.com/track/63RFZokcV2SCixkkqtJTdj) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Simonic](https://open.spotify.com/artist/254oJ0MeedgW5QELgrhFPC) | [Breathe](https://open.spotify.com/album/1z8uXbVJnEjCW9SAZoVjk7) | 2:56 |
 | 27 | [Rollin](https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Rollin](https://open.spotify.com/album/7AHHVt5bV0J8C3gkdDB3Se) | 2:05 |
 | 28 | [Unjust](https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Unjust](https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr) | 3:47 |
 | 29 | [Different Dimension](https://open.spotify.com/track/2aGfk0KIVIXzcrBoeTpD3f) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Different Dimension](https://open.spotify.com/album/0YGMuI2zgksZQc5kpMysHM) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
 | 100 | [Come To Dubai](https://open.spotify.com/track/38RJaM1ZkOwnfC1YcELHN4) | [LERØY](https://open.spotify.com/artist/5PcSFzvJdyE1hClGz9Q5rm), [Le Modo](https://open.spotify.com/artist/5e717AzUl7w8jTjKyUY0om) | [Come To Dubai](https://open.spotify.com/album/3PJsojIN2J6StXxcU4Fr2J) | 3:09 |
 
-Snapshot ID: `AAAAAClY8dIad7qgruTGSLLkQtE1Cx/l`
+Snapshot ID: `AAAAAPdy6ct7ag8lpP2DV15lo7YR+ZCE`

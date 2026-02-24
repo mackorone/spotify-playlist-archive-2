@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,744 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,755 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 67 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |
 | 68 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
 | 69 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
-| 70 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
-| 71 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 70 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 71 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
 | 72 | [Paris \(Aeroplane Remix\)](https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1) | 7:45 |
 | 73 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/6M2iIzUzlea2yZROhTlxDl) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:07 |
 | 74 | [It Ain't Easy](https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo) | [Bit Funk](https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1) | [Archives & Relics \(2008\-2012\)](https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp) | 5:34 |
-| 75 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
+| 75 | [Happiness \- The Magician Remix](https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Happiness Remixes \- EP](https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl) | 3:38 |
 
 Snapshot ID: `AAAAAOq5zSR7ghV36Swb33qTdoi1xzYr`

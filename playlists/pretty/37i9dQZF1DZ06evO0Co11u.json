@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196962,
+  "num_followers": 196982,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAC8yJS4IUnJhqK+aRXUhcBp",
+  "snapshot_id": "aZpHAAAAAABkPgKiDXRH4jzHhAJcgcG4",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "(When We Are Dancin') I Get Ideas - Single Version",
-      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 303173,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "(When We Are Dancin') I Get Ideas - Single Version",
+      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Louis Armstrong",
-        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 240040,
       "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
     },
     {
       "added_at": null,

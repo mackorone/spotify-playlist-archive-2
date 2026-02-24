@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 180165,
+  "num_followers": 180253,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Le chanteur (Remastered)",
-        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 234112,
-      "name": "Le chanteur",
-      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Un Jour D'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 203226,
       "name": "Ma philosophie",
       "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Le chanteur (Remastered)",
+        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 234112,
+      "name": "Le chanteur",
+      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Mes Fantaisies",
-        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD"
       },
       "artists": [
         {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Femme de couleur",
-      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
+      "duration_ms": 219266,
+      "name": "Au soleil",
+      "url": "https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt"
     }
   ],
   "unique_name": "Bleu Blanc Route",

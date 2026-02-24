@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 5691,
+  "num_followers": 5712,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Doble T",
         "url": "https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 159857,
       "name": "Doble T",
       "url": "https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Contigo Me Clav\u00e9",
         "url": "https://open.spotify.com/album/6uGTUztRfPH7dAD2BZO6AH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 164124,
       "name": "Contigo Me Clav\u00e9",
       "url": "https://open.spotify.com/track/5mnyuYUNBvaxdUpPO5Eevz"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Te pareces a mi ex",
-        "url": "https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 150886,
-      "name": "Te pareces a mi ex",
-      "url": "https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "C\u00f3mo Le Hacen Los Dolidos",
         "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 166280,
       "name": "C\u00f3mo Le Hacen Los Dolidos",
       "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Te pareces a mi ex",
+        "url": "https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 150886,
+      "name": "Te pareces a mi ex",
+      "url": "https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Lo Que Dur\u00f3",
         "url": "https://open.spotify.com/album/5sa2z5ZtVXCuFlV7kTyief"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 195600,
       "name": "Lo Que Dur\u00f3",
       "url": "https://open.spotify.com/track/5mFbqczcOiLSzO3fZ6XyBY"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "En Teor\u00eda",
         "url": "https://open.spotify.com/album/439GW2omcgcLtXHceYSYWa"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 183666,
       "name": "En Teor\u00eda",
       "url": "https://open.spotify.com/track/1dt6VIKZ612pNrAa2HtK2i"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2025-09-19 06:00:24",

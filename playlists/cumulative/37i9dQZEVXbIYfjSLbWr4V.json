@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -7432,7 +7432,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -8584,7 +8584,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 106778,
       "name": "truth yandere^^ - super slowed",
       "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw"
@@ -10518,7 +10518,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -12676,7 +12676,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 255796,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1"
@@ -14389,6 +14389,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u043b\u0430\u0437 \u0411\u043e\u0433\u0430",
+        "url": "https://open.spotify.com/album/3Ku3iyowXemmoTzijZe91l"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "\u041f\u043e\u043b\u0443\u043a\u0440\u043e\u0432\u043a\u0430",
+      "url": "https://open.spotify.com/track/50ILscRPxfbSft6q6wdExF"
+    },
+    {
+      "album": {
         "name": "\u041e\u0427\u0415\u041d\u042c \u0421\u0422\u0420\u0410\u0428\u041d\u0410\u042f \u041c\u041e\u041b\u041b\u0418 3, \u0427. 1",
         "url": "https://open.spotify.com/album/7tc5dEyjZdaKhq1DNo5dPO"
       },
@@ -14516,7 +14534,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 162526,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
@@ -17694,7 +17712,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/5A6e9zwJeFxwyGO6MQCHIZ"

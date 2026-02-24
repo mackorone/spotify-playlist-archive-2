@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la Calle a la Cima con JAHYCO, Tainy & Rauw Alejandro
+> De la Calle a la Cima con JHAYCO, Tainy & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,836,965 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,860,552 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [Kiriki](https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Kiriki](https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f) | 3:24 |
 | 50 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
 
-Snapshot ID: `AAAAAEGd+kQaw445DKtcHE0j41zwGgfT`
+Snapshot ID: `AAAAADpvSHKVNqHzJ1r7kK6ujLrtymcV`

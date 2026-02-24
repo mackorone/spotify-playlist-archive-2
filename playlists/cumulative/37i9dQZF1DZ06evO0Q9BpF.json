@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Esto Es Un Avivamiento",
+        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272712,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/3eKLgOGgDhNGdguyOYs7S0"
+    },
+    {
+      "album": {
         "name": "Yo Te Seguir\u00e9",
         "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
       },

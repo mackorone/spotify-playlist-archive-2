@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Klavdia Petrivna
 
-498 songs - 1 day 1 hr 7 min
+499 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dive Inside](https://open.spotify.com/track/179cZIB7VM4MSFgFEUyNv2) | [MON FIA](https://open.spotify.com/artist/2EeFviNT9s4icjwjsIEua0) | [Dive Inside](https://open.spotify.com/album/6ULrW0oeyCPEyiZfDx182s) | 2:50 | 2025-01-16 | 2025-01-24 |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-06-27 | 2024-12-06 |
 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 | 2025-05-22 | 2026-01-16 |
-| [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2024-12-12 |  |
+| [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2024-12-12 | 2026-02-24 |
 | [DZERKALO](https://open.spotify.com/track/30su7oW0JA4mc7tilWjO9T) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6), [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [DZERKALO](https://open.spotify.com/album/2DJgtFKeqf8TLGbc83LtfK) | 4:14 | 2025-12-04 | 2026-01-15 |
 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 | 2025-10-23 | 2026-02-06 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 |  |
@@ -475,6 +475,7 @@
 | [Тону](https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Тону](https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g) | 2:35 | 2024-12-19 | 2025-02-15 |
 | [ТРИ ПОЛОСИ](https://open.spotify.com/track/1coHgc8pIpmMRGGLXB3JXf) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [ТРИ ПОЛОСИ](https://open.spotify.com/album/29xxdkhdz8sFgmfanvlYvv) | 2:38 | 2024-12-19 | 2025-02-21 |
 | [Тільки в твоїх обіймах](https://open.spotify.com/track/5HEQNygpcFBpYNPxayaGEm) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Тільки в твоїх обіймах](https://open.spotify.com/album/1crrGfw9WdRZcMoicZd95R) | 3:03 | 2024-09-27 | 2024-10-11 |
+| [Тільки Ти](https://open.spotify.com/track/29ueRzbINIXfcXrkKkzd7b) | [NOTA CLÜB](https://open.spotify.com/artist/3nQCmmDVa9mwuzsZZcj7Ez), [Seba Korecky](https://open.spotify.com/artist/5LnreYK6KFwXOBG6QnBPeR) | [Тільки Ти](https://open.spotify.com/album/33qWxCQhN1VFCgRv1aWAxu) | 2:24 | 2026-02-23 |  |
 | [Тішу](https://open.spotify.com/track/5vhBDIUlgxoGQk4yAuyH3D) | [Lama](https://open.spotify.com/artist/0e0x0UVnYtJkqMOmpYdAWW) | [Тішу](https://open.spotify.com/album/1JdR0QletAR2gL3XtgHyLw) | 3:38 | 2024-12-12 | 2024-12-20 |
 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 | 2024-10-10 | 2024-11-08 |
 | [Удвох](https://open.spotify.com/track/2w2K1ezT7oZAQDbWzmqVZ6) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Удвох](https://open.spotify.com/album/4kO8ZzqjiLQHJUHO5Z2Tzk) | 2:40 | 2025-06-26 | 2025-08-01 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Japan: 洋楽&邦楽ヒッツ](https://open.spotify.com/playlist/37i9dQZF1DXayDMsJG9ZBv)
 
-> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Charli xcx
+> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: IVE
 
 942 songs - 2 day 6 hr 23 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147989,
+  "num_followers": 147973,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "3:00 AM",
-      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
         "name": "stars burn out",
         "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 215852,
       "name": "stars burn out",
       "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "3:00 AM",
+      "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
-        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
+        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
+        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
     },
     {
       "added_at": "2026-01-23 02:28:33",

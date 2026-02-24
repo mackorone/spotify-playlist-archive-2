@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 51 songs - 3 hr 6 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 52 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 49 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 |
 | 50 | [Papa Was a Rodeo](https://open.spotify.com/track/17XuaEj192gVfNsXDwV1rS) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 5:01 |
 | 51 | [Brighter Than the Sun](https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3) | [Brick + Mortar](https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr) | [Dropped](https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ) | 3:16 |
+| 52 | [Dust Bowl Dance](https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:43 |
 
-Snapshot ID: `AAAARWfk0iKnXK66sqzkFbWqYY4Nudko`
+Snapshot ID: `AAAARj+WsIHnPiprS7YbEyXPeQiV6rTe`

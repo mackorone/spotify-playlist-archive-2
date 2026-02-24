@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 517,
+  "num_followers": 519,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACx2PGvsmjkxf8TW9pBfuJwAlCrLv+",
+  "snapshot_id": "AAACyFBULeVyKM/8Vbh2Q4+NV3+pjIti",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1259,6 +1259,22 @@
       "duration_ms": 259310,
       "name": "Noches sin Luna",
       "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
+    },
+    {
+      "added_at": "2026-02-23 15:22:02",
+      "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 229833,
+      "name": "Dark Echoes",
+      "url": "https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

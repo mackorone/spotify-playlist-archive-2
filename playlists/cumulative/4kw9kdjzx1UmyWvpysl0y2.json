@@ -6467,6 +6467,28 @@
     },
     {
       "album": {
+        "name": "EMBERS",
+        "url": "https://open.spotify.com/album/66ZO492AQIMFN4iDppuSW8"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "rossxo",
+          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/3sJC1SPWZMOyzGCug7ETbz"
+    },
+    {
+      "album": {
         "name": "The Secret Language of Trees",
         "url": "https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP"
       },

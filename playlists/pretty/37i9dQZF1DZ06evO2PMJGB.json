@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265104,
+  "num_followers": 265089,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAD3FL4r9lur4P1tPClEB6O8",
+  "snapshot_id": "aZpHAAAAAAAMIwkzIMd3nxFomRWMPTpK",
   "tracks": [
     {
       "added_at": null,
@@ -488,13 +488,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 171490,
-      "name": "Consola\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
+      "duration_ms": 234950,
+      "name": "Um Pouco de Mim",
+      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
     },
     {
       "added_at": null,
@@ -568,13 +568,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 234950,
-      "name": "Um Pouco de Mim",
-      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
+      "duration_ms": 171490,
+      "name": "Consola\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Calling Me",
-      "url": "https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00e9culo 21",
         "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 167838,
       "name": "S\u00e9culo 21",
       "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "Calling Me",
+      "url": "https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

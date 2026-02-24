@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-666 songs - 1 day 15 hr 15 min
+669 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Dear Daddy](https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs](https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum) | 3:00 | 2025-12-24 | 2026-01-24 |
 | [Dear X \- Acoustic](https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X \(Acoustic\)](https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC) | 2:02 | 2026-01-26 |  |
 | [Decirte](https://open.spotify.com/track/1XdhfKIz7UaziPl5sIXYyg) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Decirte](https://open.spotify.com/album/3h8r22CVKJPz8S1RA2jnkZ) | 2:55 | 2026-01-14 | 2026-02-20 |
+| [Del Uno al Diez](https://open.spotify.com/track/4iG7xg9J2N99rtW4pkkz4p) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE) | [Del Uno al Diez](https://open.spotify.com/album/008hskOXrpcZJnR28Qwizk) | 1:53 | 2026-02-23 |  |
 | [Delay](https://open.spotify.com/track/6SY5BLYfK4mmb9fcU7q38X) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Delay](https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N) | 3:14 | 2025-12-09 | 2026-01-05 |
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
@@ -180,6 +181,7 @@
 | [Felina](https://open.spotify.com/track/13U4C7H2SImFBJXsHlpu3l) | [Matias Park](https://open.spotify.com/artist/3ulkuAZTEEB9XT750GVShS) | [Felina](https://open.spotify.com/album/3VXDCADyu2hCbcR1XTgZ6G) | 3:05 | 2025-11-24 | 2026-01-05 |
 | [Felony](https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:34 | 2025-11-11 | 2025-12-21 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-10 | 2026-01-05 |
+| [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 | 2026-02-23 |  |
 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 | 2026-01-20 | 2026-02-20 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-02-08 |  |
 | [For You](https://open.spotify.com/track/2pkaTtOzMeHZAbqMYcZtJx) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:38 | 2025-10-23 | 2025-12-21 |
@@ -646,6 +648,7 @@
 | [Where Gods Lie](https://open.spotify.com/track/2TVpP80tpLVOVeq1YKOlVV) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Our Place Behind the Stars](https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw) | 4:19 | 2025-12-21 | 2026-01-15 |
 | [WHERE'S MY HEAD](https://open.spotify.com/track/1Z6tkAoBUKel5pywbdJHOR) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [WHERE'S MY HEAD](https://open.spotify.com/album/6Lm4bi8UvsymJhezlHnV0x) | 1:57 | 2025-12-23 | 2026-01-27 |
 | [Whips & Champagne](https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW) | [St Oshun](https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz) | [Whips & Champagne](https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv) | 3:37 | 2026-02-04 |  |
+| [White Lion Phone Call](https://open.spotify.com/track/5dR2BQ8mpRFfxYJ0Rr1Sf5) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 2:42 | 2026-02-23 |  |
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-11-11 | 2025-12-21 |
 | [Wildflower](https://open.spotify.com/track/6x4AHO4gGPobqEmgkspSfj) | [Katherine Winston](https://open.spotify.com/artist/3EEDivClbmPwyqrMpTaRIP) | [Something Special, Nothing Fancy](https://open.spotify.com/album/6PNV3MFwwKLOi5fsV3CTKV) | 4:21 | 2026-01-07 | 2026-02-03 |
 | [Wine](https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K) | [Ou Yu](https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6), [framesound](https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs) | [Wine](https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd) | 2:51 | 2025-12-27 | 2026-01-24 |

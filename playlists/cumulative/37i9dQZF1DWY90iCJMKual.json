@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 153374,
       "name": "better than he does",
       "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
@@ -1512,6 +1512,40 @@
       "duration_ms": 206769,
       "name": "D&C",
       "url": "https://open.spotify.com/track/0zTjGbep4yFSFBnWpzgKw9"
+    },
+    {
+      "album": {
+        "name": "D.T.M.G (Don\u2019t Touch My Girl)",
+        "url": "https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        },
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "dot.jaime",
+          "url": "https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217928,
+      "name": "D.T.M.G (Don\u2019t Touch My Girl)",
+      "url": "https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I"
     },
     {
       "album": {
@@ -2920,7 +2954,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 228879,
       "name": "Handa Ka Ba",
       "url": "https://open.spotify.com/track/6OiJpYVW6x6l1CZTI1Ah3a"
@@ -6367,6 +6401,28 @@
     },
     {
       "album": {
+        "name": "Para Lang Sa'yo",
+        "url": "https://open.spotify.com/album/64IGUK4c80Ki79J8GL53sL"
+      },
+      "artists": [
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Para Lang Sa'yo",
+      "url": "https://open.spotify.com/track/3UlM8h84n3BoJyOAV2XbBS"
+    },
+    {
+      "album": {
         "name": "Para Pilitin Ka",
         "url": "https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u"
       },
@@ -7034,7 +7090,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 242000,
       "name": "SA'YO LANG",
       "url": "https://open.spotify.com/track/2fShDI89dkTDqxQFP6JUzm"
@@ -8151,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "Tala",
+        "url": "https://open.spotify.com/album/42NYw2vLJVXzrcYsh2hgcV"
+      },
+      "artists": [
+        {
+          "name": "wisworldwide",
+          "url": "https://open.spotify.com/artist/0aWhAjSrID1vE6DF6yiijM"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180553,
+      "name": "Tala",
+      "url": "https://open.spotify.com/track/1lbEW7rMG6XvgooWHPEAll"
+    },
+    {
+      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44"
       },
@@ -8778,7 +8852,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 192000,
       "name": "Wag Lang Ganon",
       "url": "https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z"

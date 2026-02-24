@@ -4,7 +4,7 @@
 
 > Homegrown emerging pop! Cover: Absolutely
 
-1,021 songs - 2 day 4 hr 29 min
+1,022 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [let me love you](https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [let me love you](https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d) | 2:26 | 2025-05-29 | 2025-07-04 |
 | [Letters](https://open.spotify.com/track/69JcRCEgb8kV51uIBBxuQU) | [Jacky](https://open.spotify.com/artist/1hq5MKOjcZUsLNeg8eFCom) | [Letters](https://open.spotify.com/album/2cYHEc9ZPXXgOkpTS4jnpX) | 4:05 | 2025-12-05 | 2026-01-30 |
 | [lew manifest](https://open.spotify.com/track/0CdirDwBhXNisSHgErKdme) | [clearlew](https://open.spotify.com/artist/1G7GO69qXe0bNbenX5GQjb) | [Aspect Place](https://open.spotify.com/album/3AEvce049jfIQfkafpWZYy) | 3:13 | 2025-07-31 | 2025-08-29 |
+| [Lights Off](https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Lights Off](https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH) | 2:42 | 2026-02-20 |  |
 | [Lights Out](https://open.spotify.com/track/1DPsaQGuSCMJDkN3rrJ6gQ) | [EASTLAND PARK](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [Lights Out](https://open.spotify.com/album/0MWDFnQj7mLwlAFE1GvEeN) | 2:44 | 2025-07-31 | 2025-08-29 |
 | [Like I Should Do](https://open.spotify.com/track/3rdAvWOc1lzj7yutDmnc9U) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Like I Should Do](https://open.spotify.com/album/7jM0bNS7O9LoAaDIByxLV3) | 2:47 | 2025-05-01 | 2025-05-16 |
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-05-08 | 2025-06-06 |

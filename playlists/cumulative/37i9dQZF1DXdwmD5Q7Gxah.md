@@ -4,7 +4,7 @@
 
 > <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music :\) </a>   Cover: Lana Del Rey
 
-3,707 songs - 8 day 10 hr 53 min
+3,708 songs - 8 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2204,6 +2204,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 | 2023-12-14 |
 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 | 2024-01-26 | 2024-08-02 |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-11-27 | 2021-06-05 |
+| [My Whole World](https://open.spotify.com/track/4mSVwLrlitZr9xK0E2u6qt) | [C.Y.M.](https://open.spotify.com/artist/2XYuCUX7Ravz8MBo4AkA2G), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [My Whole World](https://open.spotify.com/album/4H5VoPTYrvdEIHeDhL2t3T) | 4:15 | 2026-02-23 |  |
 | [my year of rest & relaxation](https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [my year of rest & relaxation](https://open.spotify.com/album/5cBu8tYI0XxXX3wTLdiekQ) | 2:41 | 2023-07-07 | 2024-02-10 |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-12-01 | 2022-01-08 |
 | [Mysterious Girl](https://open.spotify.com/track/4safzYeGiApQ5Cu7c3sGEz) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Mysterious Girl](https://open.spotify.com/album/6vSar7LX5v1nt4EoAeNTSd) | 3:46 | 2025-04-18 | 2026-02-07 |

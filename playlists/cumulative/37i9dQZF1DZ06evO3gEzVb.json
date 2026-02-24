@@ -962,7 +962,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 330730,
       "name": "Nyame Nhyira Mmaa",
       "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
@@ -1082,6 +1082,24 @@
       "duration_ms": 383426,
       "name": "Ohia Asem",
       "url": "https://open.spotify.com/track/7mChIAlmvRxpLwyAkymGT3"
+    },
+    {
+      "album": {
+        "name": "Me Ma Afa Wotrim Ne",
+        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "Okuafo Ye Adwuma A Opon",
+      "url": "https://open.spotify.com/track/6Q8M2grShCHLbPhzwelyCz"
     },
     {
       "album": {

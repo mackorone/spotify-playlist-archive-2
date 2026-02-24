@@ -1,12 +1,12 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 59478,
+  "num_followers": 59466,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIa7y+I7TuKWnqp6PM07IeEdDHSrTB",
+  "snapshot_id": "AAAIbTPj+MF/SWFdHKBiXiEvOTvxnfBg",
   "tracks": [
     {
       "added_at": "2026-02-18 16:51:26",
@@ -87,6 +87,50 @@
       "duration_ms": 218813,
       "name": "\u00c1gua e Vinho",
       "url": "https://open.spotify.com/track/3KtOkgLtQb6iybT5IIFHTH"
+    },
+    {
+      "added_at": "2026-02-23 19:07:17",
+      "album": {
+        "name": "Daimon: Piano Concerto, Ithaca Suite & Sonatina for Nausicaa",
+        "url": "https://open.spotify.com/album/1XcHGAy2Shr5XwNcparMqi"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Deutsches Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/6MOokA8GHsPYpyNGc8Rz2f"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        }
+      ],
+      "duration_ms": 471677,
+      "name": "Concerto for Piano and String Orchestra \"Daimon\": I. The Departure",
+      "url": "https://open.spotify.com/track/2MKyFL0JbT5jbeRvO4yw9q"
+    },
+    {
+      "added_at": "2026-02-23 19:08:29",
+      "album": {
+        "name": "Teka a Teka",
+        "url": "https://open.spotify.com/album/212qW8OLsxlOepWRKPFyYr"
+      },
+      "artists": [
+        {
+          "name": "Martynas",
+          "url": "https://open.spotify.com/artist/24xgek07kTzaZ4SrocQHTs"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        }
+      ],
+      "duration_ms": 103774,
+      "name": "Teka a Teka: Part IV",
+      "url": "https://open.spotify.com/track/5F6Qji18oK8hBsmmK6iPI2"
     },
     {
       "added_at": "2026-02-09 18:07:18",
@@ -767,10 +811,6 @@
         "url": "https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl"
       },
       "artists": [
-        {
-          "name": "Luise Adolpha Le Beau",
-          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
-        },
         {
           "name": "Raphaela Gromes",
           "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"

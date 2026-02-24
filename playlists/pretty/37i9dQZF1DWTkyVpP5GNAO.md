@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,920 likes - 80 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,986 likes - 80 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Jesús Te Anhelo \- En Vivo](https://open.spotify.com/track/0dUsTXyeii4bGeDOv9UHjT) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Jesús Te Anhelo](https://open.spotify.com/album/5iLvPKwH8p4Ans52xsK3na) | 8:47 |
 | 80 | [Mi Rey Siempre Serás](https://open.spotify.com/track/0dGwd2FdpxJ7VC45WW7VNf) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Mi Rey Siempre Serás](https://open.spotify.com/album/6lPMJC8PrwcLPbg08MHe8l) | 4:13 |
 
-Snapshot ID: `AAAAAAk+3On3xWUzITtOtQItVaRjby0B`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

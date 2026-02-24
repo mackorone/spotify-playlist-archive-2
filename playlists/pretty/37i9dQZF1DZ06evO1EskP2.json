@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3051,
+  "num_followers": 3053,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADAHCmtH/ub9vXu/vhJ32b6",
+  "snapshot_id": "aZpHAAAAAACUwIx6f7JSscIRnvuHHLr1",
   "tracks": [
     {
       "added_at": null,
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 223360,
+      "duration_ms": 223000,
       "name": "Higher Than the Clouds",
       "url": "https://open.spotify.com/track/10FYvZSZLste16zITxpQND"
     },
@@ -92,7 +92,7 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 224986,
+      "duration_ms": 224500,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/1dXSZklXzr4LYauwTT9ZLh"
     },
@@ -296,7 +296,7 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 236706,
+      "duration_ms": 236500,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec"
     },
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Like the Way It Feels",
-      "url": "https://open.spotify.com/track/4dl2PZzixLdrAOKlNfUCdq"
+      "duration_ms": 233877,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/12wEty8taSbdZoyDCIYtDi"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Like the Way It Feels",
+      "url": "https://open.spotify.com/track/4dl2PZzixLdrAOKlNfUCdq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 198093,
       "name": "I Just Want You Around",
       "url": "https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 233877,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/12wEty8taSbdZoyDCIYtDi"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 215700,
+      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
+      "url": "https://open.spotify.com/track/1hAfgLnhjQsu2KpYVHleq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red, Gold & Green",
         "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A10: Best of Anuhea",
-        "url": "https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA"
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 215700,
-      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
-      "url": "https://open.spotify.com/track/1hAfgLnhjQsu2KpYVHleq4"
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,

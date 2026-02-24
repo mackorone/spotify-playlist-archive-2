@@ -19759,6 +19759,24 @@
     },
     {
       "album": {
+        "name": "The Low",
+        "url": "https://open.spotify.com/album/7JIvi4jXKIayEeDhbCxOex"
+      },
+      "artists": [
+        {
+          "name": "Andre Palms",
+          "url": "https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "The Low",
+      "url": "https://open.spotify.com/track/7N38WEfvYGgS32PJYmP0B3"
+    },
+    {
+      "album": {
         "name": "THE MADNESS (With I.D.O.)",
         "url": "https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84"
       },

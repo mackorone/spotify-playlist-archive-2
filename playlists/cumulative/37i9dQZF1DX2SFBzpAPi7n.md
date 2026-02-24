@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: SORAN\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,132 songs - 2 day 20 hr 48 min
+1,134 songs - 2 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-09-12 | 2025-11-11 |
 | [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 | 2023-11-03 | 2024-03-22 |
 | [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 | 2022-08-19 | 2022-09-06 |
-| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 |  |
+| [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 | 2025-09-10 | 2026-02-24 |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-05-03 | 2022-11-10 |
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
 | [Call me back](https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Call me back](https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8) | 3:23 | 2023-10-11 | 2023-10-17 |
@@ -179,6 +179,7 @@
 | [Colors of](https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Colors of](https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3) | 3:29 | 2022-08-01 | 2022-08-13 |
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
 | [Come And Find Me](https://open.spotify.com/track/1ftmDIccNyQsik5vs9ZfzF) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Come And Find Me](https://open.spotify.com/album/1isTxDxhUhKopfY63uGF0G) | 3:19 | 2024-06-07 | 2024-06-20 |
+| [Comedian](https://open.spotify.com/track/7sGWkGjybYNPBodHpdAWAH) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Comedian](https://open.spotify.com/album/7dDSnEQzMPPJl0XgNjCr4q) | 2:09 | 2026-02-23 |  |
 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-04-06 |
 | [Coming Of Age Story](https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO) | 4:35 | 2025-03-17 |  |
 | [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 | 2024-05-09 | 2024-11-07 |
@@ -601,7 +602,7 @@
 | [melon](https://open.spotify.com/track/4anw7njgXqWoNABbWwAbEO) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Since the World is About to End](https://open.spotify.com/album/0ACwMoxFMS9lTsuWcRs4WB) | 5:02 | 2022-04-12 | 2022-07-10 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-02 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
-| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-10 |  |
+| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-10 | 2026-02-24 |
 | [Mercury](https://open.spotify.com/track/1Q1lThtKTcrM96wfrh8O6y) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Mercury](https://open.spotify.com/album/5rEOxoegOUSR6UW1wqkU12) | 5:13 | 2022-06-13 | 2022-06-19 |
 | [Midnight Alley](https://open.spotify.com/track/2BG6adTppcsyXEavjbKwDE) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Midnight Alley 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/6PhsAyoYrGki4rpw0AKQYg) | 3:24 | 2024-12-23 | 2025-03-07 |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
@@ -693,6 +694,7 @@
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2022-05-11 | 2022-06-05 |
 | [Our old bar](https://open.spotify.com/track/1Bz4dIHlGcdffwQeanGYiC) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Our old bar](https://open.spotify.com/album/7ndJBy3tYbYaX13xK3p1XN) | 3:46 | 2025-04-28 | 2025-05-09 |
 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2022-07-01 | 2022-07-09 |
+| [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 | 2026-02-23 |  |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-06-09 | 2022-07-26 |
 | [Overdrop](https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Overdrop](https://open.spotify.com/album/325EKa2TySalGhdEW189DI) | 2:40 | 2025-10-21 | 2025-11-03 |
 | [OVERMAN](https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 1](https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S) | 3:44 | 2025-01-30 | 2025-03-18 |

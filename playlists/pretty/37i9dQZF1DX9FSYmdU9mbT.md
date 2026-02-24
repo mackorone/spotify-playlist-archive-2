@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,596 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,651 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 31 | [Proposta](https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65), [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT) | [Proposta](https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD) | 3:44 |
 | 32 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 |
 | 33 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
-| 34 | [Como Vai Você](https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Como Vai Você](https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe) | 3:47 |
-| 35 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
+| 34 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
+| 35 | [Como Vai Você](https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Como Vai Você](https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe) | 3:47 |
 | 36 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
 | 37 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 |
 | 38 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 52 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 53 | [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 |
 | 54 | [Dia Branco \- Ao Vivo \| Bonus Track](https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Solo Contigo \(ao Vivo\) \- Deluxe Edition](https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh) | 4:01 |
-| 55 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
-| 56 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
+| 55 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
+| 56 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
 | 57 | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 |
 | 58 | [Entre a Serpente e a Estrela \- Ao Vivo](https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Zé Ramalho Na Paraíba \(Ao Vivo\)](https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA) | 3:33 |
 | 59 | [Mutirão de Amor \- Ao Vivo](https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Eterna Alegria \(Special Edition\) \[Ao Vivo\]](https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z) | 3:25 |

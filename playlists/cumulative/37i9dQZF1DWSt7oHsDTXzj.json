@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
@@ -3718,6 +3718,24 @@
       "duration_ms": 211026,
       "name": "Rudolph",
       "url": "https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX"
+    },
+    {
+      "album": {
+        "name": "santa baby",
+        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159209,
+      "name": "santa baby",
+      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
     },
     {
       "album": {

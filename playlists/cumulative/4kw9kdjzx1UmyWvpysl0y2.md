@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,178 songs - 2 day 17 hr 48 min
+1,179 songs - 2 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 | 2024-12-20 |
 | [Elevator](https://open.spotify.com/track/5x8NTBPvrCybwOXQFT7qIu) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Elevator](https://open.spotify.com/album/4vuIWVByX0E9DxBFeaDK4u) | 3:12 | 2025-07-09 | 2025-10-07 |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
+| [EMBERS](https://open.spotify.com/track/3sJC1SPWZMOyzGCug7ETbz) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [rossxo](https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W) | [EMBERS](https://open.spotify.com/album/66ZO492AQIMFN4iDppuSW8) | 2:40 | 2026-02-23 |  |
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2023-07-10 | 2023-12-14 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
 | [Empty](https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Cxssidy](https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq) | [Empty](https://open.spotify.com/album/2HfbK1ST2rbiFui9X3aJbb) | 2:25 | 2025-02-14 | 2025-05-13 |

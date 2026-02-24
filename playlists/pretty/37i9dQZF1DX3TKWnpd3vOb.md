@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,128 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,126 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 |
 | 100 | [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 |
 
-Snapshot ID: `AAAAAATPdYlvuwVmQhMDIbrE0KcdNibN`
+Snapshot ID: `AAAAABC33ck6OzymMEvTSuWvZ8ZJBYtH`

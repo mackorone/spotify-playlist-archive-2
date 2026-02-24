@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,733 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,744 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [can we start again?](https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [can we start again?](https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO) | 4:28 |
 | 50 | [Ruin Me](https://open.spotify.com/track/06aYveh0EiqRRfewlpdPh5) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [HEAD FIRST](https://open.spotify.com/album/2bT9Nt5029is0ONsrs2rr2) | 2:31 |
 
-Snapshot ID: `AAAAAAKj4FUEjEV8gK8qd/JWeavAxbXm`
+Snapshot ID: `AAAAAEON5RnBkNADaFRIMl0a+WWrGZjn`

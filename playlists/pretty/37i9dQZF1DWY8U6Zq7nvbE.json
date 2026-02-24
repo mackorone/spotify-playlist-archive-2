@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2444745,
+  "num_followers": 2444869,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 186153,
       "name": "Listen to Your Heart",
       "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "BLACKBIRD",
-        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 128009,
-      "name": "BLACKBIRD",
-      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 198000,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
       },
       "artists": [
         {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+          "name": "LAJKA",
+          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
         }
       ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+      "duration_ms": 160754,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
       "artists": [
         {
-          "name": "LAJKA",
-          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
         }
       ],
-      "duration_ms": 160754,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Don't You (Forget About Me)",
-        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
-      },
-      "artists": [
-        {
-          "name": "Brassfield",
-          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
-        }
-      ],
-      "duration_ms": 175122,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219120,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Don't You (Forget About Me)",
+        "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
+      },
+      "artists": [
+        {
+          "name": "Brassfield",
+          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+        }
+      ],
+      "duration_ms": 175122,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193684,
       "name": "Got You (Where I Want You)",
       "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "duration_ms": 214477,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Young Folks",
-        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
       },
       "artists": [
         {
-          "name": "everlow",
-          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
         }
       ],
-      "duration_ms": 214477,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
     },
     {
       "added_at": "2026-02-06 14:41:50",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
-      },
-      "artists": [
-        {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
-        }
-      ],
-      "duration_ms": 191879,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-02-06 14:41:50",
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "duration_ms": 191971,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+    },
+    {
+      "added_at": "2026-02-06 14:41:50",
+      "album": {
         "name": "Sure Thing",
         "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 239178,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
-    },
-    {
-      "added_at": "2026-02-06 14:41:50",
-      "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kristine",
-          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
-        }
-      ],
-      "duration_ms": 191971,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
     },
     {
       "added_at": "2026-02-06 14:41:50",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1077678,
+  "num_followers": 1077701,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAA3uFmxvqmo/diGGqu1pQWQ",
+  "snapshot_id": "aZpHAAAAAAD+3puZEWrfKjmsXBJ9Ea0h",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Borracha",
+      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Borracha",
-      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Noche De Enciclopedia",
+      "url": "https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 157695,
       "name": "As\u00ed las Cosas",
       "url": "https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Noche De Enciclopedia",
-      "url": "https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx"
     },
     {
       "added_at": null,

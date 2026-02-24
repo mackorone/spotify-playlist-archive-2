@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABmdUoKk+dvMEcP/o9JylUW",
+  "snapshot_id": "aZpHAAAAAADFDd/xWy6brovGUSBSm57p",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Qu\u00e9 Te Vas",
         "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201190,
       "name": "Por Qu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 175887,
-      "name": "Besos De Bar",
-      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para No Esperarte M\u00e1s",
         "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178295,
       "name": "Para No Esperarte M\u00e1s",
       "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 175887,
+      "name": "Besos De Bar",
+      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 158297,
       "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 171808,
       "name": "Inevitables",
       "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inevitables",
         "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
@@ -815,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": null,
@@ -851,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
       },
       "artists": [
         {
@@ -860,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 179311,
       "name": "Dos Tequilas",
       "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 163210,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,

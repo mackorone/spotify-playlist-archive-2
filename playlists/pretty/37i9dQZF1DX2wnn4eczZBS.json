@@ -1,6 +1,6 @@
 {
   "description": "IJSLAND (Abel, Sef & FAISAL) op de cover",
-  "num_followers": 11260,
+  "num_followers": 11264,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2026-02-19 23:00:52",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Platonisch",
-        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
       },
       "artists": [
         {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 182929,
-      "name": "Platonisch",
-      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "added_at": "2026-02-19 23:00:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Zeg Me Hoe Het Moet",
-        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 208999,
-      "name": "Zeg Me Hoe Het Moet",
-      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
-    },
-    {
-      "added_at": "2026-02-19 23:00:52",
-      "album": {
         "name": "7 Dagen Maandag",
         "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 166753,
       "name": "7 Dagen Maandag",
       "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Zeg Me Hoe Het Moet",
+        "url": "https://open.spotify.com/album/212j764AlLIekepAcRJsy6"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 208999,
+      "name": "Zeg Me Hoe Het Moet",
+      "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"
     },
     {
       "added_at": "2026-02-19 23:00:52",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-19 23:00:52",
       "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 201981,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
-    },
-    {
-      "added_at": "2026-02-19 23:00:52",
-      "album": {
         "name": "Bustour (Land Van Ons Ma)",
         "url": "https://open.spotify.com/album/5ybS7UbSs6yjZelz9EKQ9s"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166910,
       "name": "Bustour (Land Van Ons Ma)",
       "url": "https://open.spotify.com/track/6wirIoXNMjJQ4EKRiV4Tl0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:52",
+      "album": {
+        "name": "Winterkind",
+        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
+      },
+      "artists": [
+        {
+          "name": "Lindi",
+          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Winterkind",
+      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
     },
     {
       "added_at": "2026-02-19 23:00:52",

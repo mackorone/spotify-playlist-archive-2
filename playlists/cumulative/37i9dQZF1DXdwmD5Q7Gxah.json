@@ -40993,6 +40993,28 @@
     },
     {
       "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/4H5VoPTYrvdEIHeDhL2t3T"
+      },
+      "artists": [
+        {
+          "name": "C.Y.M.",
+          "url": "https://open.spotify.com/artist/2XYuCUX7Ravz8MBo4AkA2G"
+        },
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255366,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/4mSVwLrlitZr9xK0E2u6qt"
+    },
+    {
+      "album": {
         "name": "my year of rest & relaxation",
         "url": "https://open.spotify.com/album/5cBu8tYI0XxXX3wTLdiekQ"
       },

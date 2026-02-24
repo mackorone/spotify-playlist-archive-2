@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: CORTIS) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: NCT JNJM) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -1866,6 +1866,24 @@
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
+    },
+    {
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "album": {
@@ -5518,7 +5536,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 186737,
       "name": "growing pains",
       "url": "https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3"
@@ -10949,6 +10967,24 @@
     },
     {
       "album": {
+        "name": "FIRST:DELIVERY",
+        "url": "https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6"
+      },
+      "artists": [
+        {
+          "name": "DAILY:DIRECTION",
+          "url": "https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "ROOMBADOOMBA",
+      "url": "https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb"
+    },
+    {
+      "album": {
         "name": "ROSES",
         "url": "https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr"
       },
@@ -13650,7 +13686,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"

@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20627,
+  "num_followers": 20630,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 218924,
       "name": "I Like",
       "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Trouble Sleeping",
-        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
-      },
-      "artists": [
-        {
-          "name": "Ross Carlo",
-          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Trouble Sleeping",
-      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Further Out Than The Edge",
         "url": "https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 218212,
       "name": "Soapbox Soliloquy",
       "url": "https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Trouble Sleeping",
+        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
+      },
+      "artists": [
+        {
+          "name": "Ross Carlo",
+          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Trouble Sleeping",
+      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
-      },
-      "artists": [
-        {
-          "name": "j.flowers.mp3",
-          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
-        },
-        {
-          "name": "Ralph Taylor",
-          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 211733,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
+      },
+      "artists": [
+        {
+          "name": "j.flowers.mp3",
+          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
+        },
+        {
+          "name": "Ralph Taylor",
+          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Makin' You Mine/WHATCHUNEED",
         "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
-      },
-      "artists": [
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 113052,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Negro Impacto",
         "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 187400,
       "name": "Mini Excursion",
       "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 113052,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
     },
     {
       "added_at": "2025-08-07 15:52:15",

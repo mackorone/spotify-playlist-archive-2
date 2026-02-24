@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35340,
+  "num_followers": 35338,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABCKW//Z6kZWFC1S5m31nYO",
+  "snapshot_id": "aZpHAAAAAABJaz88c2Mzki4oiZb5Twnl",
   "tracks": [
     {
       "added_at": null,
@@ -759,34 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pede Chamando de Amor",
-        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
-      },
-      "artists": [
-        {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Pede Chamando de Amor",
-      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -811,6 +783,34 @@
       "duration_ms": 137272,
       "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
       "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pede Chamando de Amor",
+        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Pede Chamando de Amor",
+      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Chapa",
+        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
+      },
+      "artists": [
+        {
+          "name": "DJ Mandrake 100% Original",
+          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Na Chapa",
+      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1011,58 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Chapa",
-        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
-      },
-      "artists": [
-        {
-          "name": "DJ Mandrake 100% Original",
-          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Na Chapa",
-      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rave Don't Start Now",
-        "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        },
-        {
-          "name": "MC BN",
-          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
-        },
-        {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Rave Don't Start Now",
-      "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave Don't Start Now",
+        "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Rave Don't Start Now",
+      "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
     },
     {
       "added_at": null,
@@ -1175,30 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1goas, \u00d3dio e Rancor",
-        "url": "https://open.spotify.com/album/2jCvBbgk1Z8c8pJEjCvNF1"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Iraqui ZL",
-          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "M\u00e1goas, \u00d3dio e Rancor",
-      "url": "https://open.spotify.com/track/1lvjlmePaWEQkvmyns88Sj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1goas, \u00d3dio e Rancor",
+        "url": "https://open.spotify.com/album/2jCvBbgk1Z8c8pJEjCvNF1"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "M\u00e1goas, \u00d3dio e Rancor",
+      "url": "https://open.spotify.com/track/1lvjlmePaWEQkvmyns88Sj"
     },
     {
       "added_at": null,
@@ -1435,26 +1435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novembro",
-        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
-      },
-      "artists": [
-        {
-          "name": "Junior Gobira",
-          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135855,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Quer F1 Com o G?",
         "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novembro",
+        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
+      },
+      "artists": [
+        {
+          "name": "Junior Gobira",
+          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135855,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
     },
     {
       "added_at": null,

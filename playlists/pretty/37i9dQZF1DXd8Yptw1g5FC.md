@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emre Altuğ ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,857 likes - 139 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,846 likes - 139 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 11 | [Zombi](https://open.spotify.com/track/2XL0ZyenBeaveNqkhljwOf) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Zombi](https://open.spotify.com/album/6aZ0N7b7CxmKX6tNrFJnHK) | 2:57 |
 | 12 | [Aynada](https://open.spotify.com/track/3dvAW3qWml3nXYOSiAeEAR) | [Özkan Uğur](https://open.spotify.com/artist/3XAyrca1lh2A0ZSSNoy7Np) | [Aynada](https://open.spotify.com/album/3Yw6hLvBAlX08ofWXZAkVr) | 4:59 |
 | 13 | [Seni Bana Yazmışlar](https://open.spotify.com/track/1NPx8DZaPUacEglNulWuzU) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Seni Bana Yazmışlar](https://open.spotify.com/album/4Y1HHp1JP4JSsYOsiXqg1f) | 2:45 |
-| 14 | [Gönlümün Efendisi](https://open.spotify.com/track/5rvf1b6Maos2XW4FQg0OGJ) | [Assala](https://open.spotify.com/artist/1pGpWJAc8q7SDm620WPbFN), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Gönlümün Efendisi](https://open.spotify.com/album/3mvJp0MiagSsCZ7x9Iiq84) | 2:41 |
+| 14 | [Gönlümün Efendisi](https://open.spotify.com/track/5rvf1b6Maos2XW4FQg0OGJ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Gönlümün Efendisi](https://open.spotify.com/album/3mvJp0MiagSsCZ7x9Iiq84) | 2:41 |
 | 15 | [Bırak İnadını](https://open.spotify.com/track/5g9FoTmNCpdXOM82o4T90h) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [Bırak İnadını](https://open.spotify.com/album/5BECP4vLdzDAj6r7rjoPuX) | 2:24 |
 | 16 | [Ne Zaman?](https://open.spotify.com/track/4pdwWHUiINOyBtiaBaKp8S) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [Ne Zaman?](https://open.spotify.com/album/1ltrfiTIDvdCOSSTeZOxDR) | 3:07 |
 | 17 | [Gönül Dağı](https://open.spotify.com/track/35ThbgywJsBPlceECQzjVI) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Garip](https://open.spotify.com/album/23tc8V848f8jpJDgo8QPj4) | 4:06 |

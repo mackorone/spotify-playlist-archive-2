@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,144 likes - 64 songs - 4 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,150 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 62 | [The Valley in Flight](https://open.spotify.com/track/35vrYVGTV7E6Fp66hprKV2) | [Richard Youngs](https://open.spotify.com/artist/1rMkroCNvGAk4kO6I1j5A3) | [Beyond The Valley Of Ultrahits](https://open.spotify.com/album/6xp1MvM7LFR24g9ZO9RK92) | 3:49 |
 | 63 | [The Lived\-But\-Yet\-Named](https://open.spotify.com/track/0tt3NAj1AC70LntRfjuUbR) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [Unsolved](https://open.spotify.com/album/0fsLBrh7OufpOhzudaVlCX) | 4:42 |
 | 64 | [Hydra](https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Peel Sessions](https://open.spotify.com/album/4GdnUQHVxyRlZpJJ6xIi07) | 4:01 |
+| 65 | [Married Man's a Fool](https://open.spotify.com/track/4adw6ESNlVjwuVuOjCdGrJ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 3:14 |
 
-Snapshot ID: `AAAN8Ta55ANnP3jBaGoF5Yv4nJBbc5FP`
+Snapshot ID: `AAAN8ugMmvSxiReGQa0fKp+J+9vGVKOe`

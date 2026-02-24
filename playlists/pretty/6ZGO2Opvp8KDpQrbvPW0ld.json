@@ -562,6 +562,10 @@
         {
           "name": "Superglue",
           "url": "https://open.spotify.com/artist/7BqBBLHGWZquOBSunMwRsp"
+        },
+        {
+          "name": "sfeerbeer",
+          "url": "https://open.spotify.com/artist/4JovLQe0XJrT9FPTCWV39l"
         }
       ],
       "duration_ms": 137857,
@@ -1184,7 +1188,7 @@
           "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
         }
       ],
-      "duration_ms": 104000,
+      "duration_ms": 119641,
       "name": "Mahatma (Chill-Hop Remix)",
       "url": "https://open.spotify.com/track/4ODBzwcKIS12NuKXoNtMzz"
     },
@@ -1560,7 +1564,7 @@
           "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
         }
       ],
-      "duration_ms": 116896,
+      "duration_ms": 119383,
       "name": "Samsara (Lofi Flip)",
       "url": "https://open.spotify.com/track/5roHn4Sq4fwXs8X9DHjkvk"
     },
@@ -5691,7 +5695,7 @@
     {
       "added_at": "2026-02-20 18:41:36",
       "album": {
-        "name": "Empathy (Shopan Remix)",
+        "name": "Empathy (Shopan Rework)",
         "url": "https://open.spotify.com/album/67780oBNaBnJx9AYleDTaD"
       },
       "artists": [
@@ -5705,7 +5709,7 @@
         }
       ],
       "duration_ms": 128000,
-      "name": "Empathy (Shopan Remix)",
+      "name": "Empathy (Shopan Rework)",
       "url": "https://open.spotify.com/track/7HN16qU6AWqIbYdxgGsgBx"
     },
     {

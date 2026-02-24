@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,732 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,735 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 46 | [O Barquinho](https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:29 |
 | 47 | [All of Me \(Disse alguém\)](https://open.spotify.com/track/3XUJt8gNj9O1eyNvOtVlL7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brazil](https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK) | 5:21 |
 | 48 | [Aguas de Março](https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 5:45 |
-| 49 | [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 |
-| 50 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
+| 49 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
+| 50 | [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 |
 
-Snapshot ID: `aZj1gAAAAADdmkjgG4vBRYPMGDFZZo/O`
+Snapshot ID: `aZpHAAAAAACNhuup1Atur+LM+mq/fZeQ`

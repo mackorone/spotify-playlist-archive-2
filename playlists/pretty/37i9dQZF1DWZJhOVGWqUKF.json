@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Foo Fighters",
-  "num_followers": 340062,
+  "num_followers": 340051,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "The Laugh Track",
-        "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 195434,
-      "name": "The Laugh Track",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 181806,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "The Laugh Track",
+        "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 195434,
+      "name": "The Laugh Track",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "WE ARE EMPIRE",
         "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "CHASING SHADOWS",
-        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "CHASING SHADOWS",
-      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "Drum Show",
         "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "CHASING SHADOWS",
+        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "CHASING SHADOWS",
+      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2026-02-19 23:01:01",
-      "album": {
         "name": "As Alive As You Need Me To Be",
         "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
       },
@@ -895,18 +875,22 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "God's Eye",
-        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 130994,
-      "name": "God\u2019s Eye",
-      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -939,6 +923,22 @@
       "duration_ms": 212720,
       "name": "(I'm a) Rock \"N\" Roller",
       "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
+    },
+    {
+      "added_at": "2026-02-19 23:01:01",
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 130994,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj"
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 194370,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
     },
     {
       "added_at": "2026-02-19 23:01:01",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2026-02-19 23:01:01",
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 158406,
-      "name": "See Through",
-      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
+      "duration_ms": 194370,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
     },
     {
       "added_at": "2026-02-19 23:01:01",

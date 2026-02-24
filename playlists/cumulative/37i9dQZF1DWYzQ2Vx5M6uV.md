@@ -4,7 +4,7 @@
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Juan Duque & Hamilton
 
-333 songs - 16 hr 48 min
+334 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cuando Te Vi](https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Cuando Te Vi](https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac) | 2:57 | 2025-01-31 | 2025-05-28 |
 | [Cule Bollito](https://open.spotify.com/track/4vOdXqbSnvXTAQKxLGzDpT) | [Lucas Cliff](https://open.spotify.com/artist/3i8ZNeevB87dG77Df5GJZx) | [Cule Bollito](https://open.spotify.com/album/6Ui4DSi7pj4LZxWQ4Pro1V) | 2:16 | 2025-11-21 | 2026-01-17 |
 | [Curame](https://open.spotify.com/track/5iI3EZ30ehidBbXe2jqOLF) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Curame](https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H) | 2:49 | 2025-03-21 | 2025-11-22 |
+| [Cómotu](https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd) | [Binny](https://open.spotify.com/artist/1xfAfaMDflIQ6eUDtuQ1q3), [Sixtina](https://open.spotify.com/artist/6Utuwz6QcMufemPQsYT7Uu) | [Cómotu](https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk) | 2:44 | 2026-02-23 |  |
 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 | 2023-12-08 | 2026-01-31 |
 | [Daños Permanentes](https://open.spotify.com/track/38ArKAQLqqbyirKdwnA4DV) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Daños Permanentes](https://open.spotify.com/album/1yUDWhB2YYf3AU9w88B9rj) | 2:46 | 2024-10-11 | 2025-06-07 |
 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 | 2025-08-29 |  |
@@ -210,7 +211,7 @@
 | [On My Body](https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:37 | 2024-03-22 | 2025-06-07 |
 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-07 |  |
 | [Other Night](https://open.spotify.com/track/5wzw7GUSc9pcyJQhV3IGlL) | [Pumba Dos Santos](https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Other Night](https://open.spotify.com/album/6qXXiBqcMVmLWFSciN0NiK) | 2:48 | 2025-01-31 |  |
-| [Otra Nota](https://open.spotify.com/track/1K6KOksALqazcc6ziZeQji) | [Golden](https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d), [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Otra Nota](https://open.spotify.com/album/4zLLzmJXHnV3bD8mUTw6sn) | 3:19 | 2025-06-06 |  |
+| [Otra Nota](https://open.spotify.com/track/1K6KOksALqazcc6ziZeQji) | [Golden](https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d), [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Otra Nota](https://open.spotify.com/album/4zLLzmJXHnV3bD8mUTw6sn) | 3:19 | 2025-06-06 | 2026-02-24 |
 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 | 2025-09-26 |  |
 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 | 2023-01-13 | 2024-09-21 |
 | [Parcerita \- Remix](https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Parcerita \(Remix\)](https://open.spotify.com/album/4485OAXEhUA6UcjjiSOlFT) | 3:58 | 2024-09-20 | 2025-06-07 |

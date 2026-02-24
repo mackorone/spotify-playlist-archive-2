@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover:  RnBoi & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,512 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,580 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 71 | [Laho III](https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Laho III](https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i) | 2:58 |
 | 72 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 |
 | 73 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |
-| 74 | [Wallah Wallah](https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wallah Wallah](https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p) | 2:22 |
-| 75 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
+| 74 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
+| 75 | [Wallah Wallah](https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wallah Wallah](https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p) | 2:22 |
 | 76 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 |
-| 77 | [Para](https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct) | [XVI](https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Para](https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf) | 2:26 |
-| 78 | [Wait For Me \(feat\. Teni\)](https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:33 |
+| 77 | [Wait For Me \(feat\. Teni\)](https://open.spotify.com/track/1JXwmf153QmPL57gNu1NkZ) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:33 |
+| 78 | [Para](https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct) | [XVI](https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Para](https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf) | 2:26 |
 | 79 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 80 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 

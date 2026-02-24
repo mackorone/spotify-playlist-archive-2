@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Yebba
 
-818 songs - 1 day 23 hr 23 min
+819 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Girl Next Door](https://open.spotify.com/track/4TQCuMrqFArAVHbTgAt4GQ) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Girl Next Door](https://open.spotify.com/album/6CnHFu3tbthrXb5BpLkynw) | 2:33 | 2024-07-25 | 2024-11-08 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-04 | 2025-12-05 |
+| [Glitter & Gold](https://open.spotify.com/track/0uFpWDyczrgNDQd93oZL7q) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Rock And A Hard Place](https://open.spotify.com/album/5Ptq4gERj9cnjyebShW7Sk) | 3:41 | 2026-02-20 |  |
 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 | 2024-09-27 | 2024-11-08 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-07-31 | 2025-10-17 |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-06-27 | 2024-08-09 |
@@ -808,7 +809,7 @@
 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-17 | 2025-02-21 |
 | [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 | 2025-08-14 | 2026-01-23 |
 | [Wishing](https://open.spotify.com/track/1gsLRWzZlLFniFMncKzQjO) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Wishing](https://open.spotify.com/album/0qD8U9EIHgtro2GyeYjtrX) | 3:02 | 2025-05-23 | 2025-07-04 |
-| [Woman Of Faces](https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo) | 4:50 | 2025-09-04 |  |
+| [Woman Of Faces](https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo) | 4:50 | 2025-09-04 | 2026-02-24 |
 | [words](https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [words](https://open.spotify.com/album/0wV2RsQZbMRVH1MynpbBSD) | 2:17 | 2025-05-01 | 2025-07-11 |
 | [x\-ray eyes](https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [x\-ray eyes](https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt) | 4:51 | 2024-11-01 | 2024-11-15 |
 | [Y Gath](https://open.spotify.com/track/0vogozD1nNBsfNLjkR2SMi) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty) | [Y Gath](https://open.spotify.com/album/6LnYighGETaBk0RiIVs6Uv) | 4:05 | 2025-06-05 | 2025-07-25 |

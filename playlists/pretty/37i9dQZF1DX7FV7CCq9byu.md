@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,840 likes - 117 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,829 likes - 117 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
-| 2 | [My System](https://open.spotify.com/track/3AfX2EhXub2DqgqJABSIXL) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/55lBliVODsfCzFU4eNHACy) | 3:02 |
-| 3 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 2 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 3 | [My System](https://open.spotify.com/track/3AfX2EhXub2DqgqJABSIXL) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/55lBliVODsfCzFU4eNHACy) | 3:02 |
 | 4 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
-| 5 | [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 |
-| 6 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
-| 7 | [Refuge](https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Refuge](https://open.spotify.com/album/348jqSYlJIasrUNwQMtepZ) | 3:38 |
-| 8 | [Viva L’Amor](https://open.spotify.com/track/0RcpZR36PfDvl4T02vepj6) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/212zx57XrNW8SbU7nFhznQ) | 3:01 |
-| 9 | [Tro på en ängel](https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Tro på en ängel](https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH) | 2:40 |
-| 10 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 5 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
+| 6 | [Refuge](https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Refuge](https://open.spotify.com/album/348jqSYlJIasrUNwQMtepZ) | 3:38 |
+| 7 | [Viva L’Amor](https://open.spotify.com/track/0RcpZR36PfDvl4T02vepj6) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/212zx57XrNW8SbU7nFhznQ) | 3:01 |
+| 8 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 9 | [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 |
+| 10 | [Tro på en ängel](https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Tro på en ängel](https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH) | 2:40 |
 | 11 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
 | 12 | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/album/6ipXmZ7rwqcrKf6ZZcb3Bo) | 2:51 |
 | 13 | [Hatar att jag älskar dig](https://open.spotify.com/track/4NF6LZiq3UJwVAAkpd5DWC) | [Felix Manu](https://open.spotify.com/artist/2gXs1tQmQNe5bAUU726Ohd) | [Hatar att jag älskar dig](https://open.spotify.com/album/4eQBOKPGkfYIkPSk0goOaw) | 2:58 |
 | 14 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
-| 15 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
-| 16 | [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 |
-| 17 | [Dooset Daram](https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Dooset Daram](https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n) | 2:57 |
+| 15 | [Dooset Daram](https://open.spotify.com/track/1IEgoHovZYbhwpk9LiTK9Z) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Dooset Daram](https://open.spotify.com/album/6pPgMuKTMlP3RjUoWOpK2n) | 2:57 |
+| 16 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
+| 17 | [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 |
 | 18 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
 | 19 | [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 |
 | 20 | [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:11 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 116 | [Most Wanted](https://open.spotify.com/track/6HCuHO6mo1IHkVFP3MYhGc) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Most Wanted](https://open.spotify.com/album/3aYuquvInx2lScw9Nec6bP) | 2:15 |
 | 117 | [Tack Sverige \- Sveriges Officiella OS\-låt Milano Cortina 2026](https://open.spotify.com/track/53L1iUsbpTGmvOAM8wVuHi) | [Pidde P](https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS) | [Tack Sverige \(Sveriges Officiella OS\-låt Milano Cortina 2026\)](https://open.spotify.com/album/3weQp9rd4T69XUuPiO1Xv0) | 2:51 |
 
-Snapshot ID: `AAAAAPF1sLp3p/64jqDfrhJN+8RcuAnA`
+Snapshot ID: `AAAAANO3Mli4nyF9grOhKRwCvouHdEHb`

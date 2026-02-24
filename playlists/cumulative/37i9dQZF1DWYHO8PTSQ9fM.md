@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment au Maroc\. Cover: DYSTINCT
+> This is Morocco right now\. Cover: Dave, Tems
 
-519 songs - 1 day 3 hr 34 min
+521 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2022-05-12 | 2022-06-07 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-05-22 | 2025-08-23 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-06-16 | 2025-08-23 |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-23 |  |
 | [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-24 | 2025-06-03 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-10 | 2025-08-06 |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-08-01 | 2025-08-23 |
@@ -252,6 +253,7 @@
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-19 | 2022-12-02 |
 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-09-01 | 2025-02-20 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-01-26 | 2024-06-05 |
+| [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 | 2026-02-23 |  |
 | [Lovini](https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn) | 3:09 | 2022-05-24 | 2022-06-24 |
 | [Lovini](https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES) | 3:09 | 2022-06-30 | 2023-12-26 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-02-19 | 2025-02-25 |
@@ -392,7 +394,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-26 | 2022-09-02 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-12-09 | 2024-02-06 |
 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 | 2025-05-27 | 2025-06-20 |
-| [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 | 2025-10-17 |  |
+| [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 | 2025-10-17 | 2026-02-24 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-05-12 | 2022-05-25 |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2023-08-08 | 2023-08-15 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2023-12-25 | 2024-02-04 |
@@ -437,7 +439,7 @@
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2022-05-12 | 2022-11-08 |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-05-12 | 2022-10-26 |
 | [Sur Pp \(feat\. Soolking\)](https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 3:12 | 2023-01-26 | 2023-04-18 |
-| [TA3AL](https://open.spotify.com/track/1EACavreLWxuxCd6Xzdaxj) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [TA3AL](https://open.spotify.com/album/4NUYyvXa1Qm8S9CQfK1ERB) | 2:19 | 2026-02-03 |  |
+| [TA3AL](https://open.spotify.com/track/1EACavreLWxuxCd6Xzdaxj) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [TA3AL](https://open.spotify.com/album/4NUYyvXa1Qm8S9CQfK1ERB) | 2:19 | 2026-02-03 | 2026-02-24 |
 | [Ta3bouni](https://open.spotify.com/track/65aEPfjjGbYvuCamNhfaa0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ta3bouni](https://open.spotify.com/album/6hGPmmWjolKkO584x6wcIa) | 4:52 | 2023-01-19 | 2023-02-02 |
 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 | 2022-11-14 | 2023-03-18 |
 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-27 | 2025-06-20 |

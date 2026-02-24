@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218938,
       "name": "22 - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1C27aWAYNOiGtKuLLXucha"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 241802,
       "name": "About Work The Dancefloor - Recorded live at Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/4yByqdDksKZj9yLf6mCbkN"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 250493,
       "name": "Ain't No Way - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Kiy7zFMynJkvBJLe4neSJ"
@@ -294,6 +294,42 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Anxiety - Spotify Singles",
+      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
+    },
+    {
+      "album": {
+        "name": "Arcade (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159143,
+      "name": "Arcade (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
@@ -322,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 219622,
       "name": "Arnaq - Spotify Singles",
       "url": "https://open.spotify.com/track/0T4IShtGeuGZS3siXj4MJe"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159940,
       "name": "Beautiful Surprise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1gXiYI4GLRq0NhTRkAXYqZ"
@@ -434,7 +470,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 278330,
       "name": "Before - Spotify Singles",
       "url": "https://open.spotify.com/track/4nVARAwovEPz1q5miBzOWg"
@@ -506,7 +542,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 197817,
       "name": "Blood Rush - Spotify Singles",
       "url": "https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs"
@@ -560,7 +596,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 166904,
       "name": "BRUTAL",
       "url": "https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw"
@@ -614,7 +650,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 205429,
       "name": "Cartoon Earthquake",
       "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
@@ -726,7 +762,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 241717,
       "name": "Charity - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K"
@@ -1000,7 +1036,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 283001,
       "name": "Deja Vu - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096"
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217633,
       "name": "Doubt - Recorded at HOB Studios, Toronto",
       "url": "https://open.spotify.com/track/10MkHbBBIHqr8GF6dKlP0S"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 194311,
       "name": "Emotions And Math - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH"
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 269418,
       "name": "everything i wanted - Recorded live at Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 371240,
       "name": "Ex-Factor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5EfIJ2ElBG4R1COH0Y6OHZ"
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254112,
       "name": "Face Like Thunder",
       "url": "https://open.spotify.com/track/5kw9jb88rFkh8F5vFkAI9l"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 190920,
       "name": "Fresh Start - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj"
@@ -1638,7 +1674,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
@@ -1764,7 +1800,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225218,
       "name": "Get Out - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0QvvK86gAGLFgkawAy94dT"
@@ -1786,6 +1822,24 @@
       "duration_ms": 225218,
       "name": "Get Out - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4wpnaKhEwkB9fv7BNLjasK"
+    },
+    {
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
     },
     {
       "album": {
@@ -2067,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Headlock - Spotify Singles",
+        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220762,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
@@ -2150,7 +2222,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189660,
       "name": "Here You Come Again - Recorded at HOB Studios, Toronto",
       "url": "https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw"
@@ -2168,7 +2240,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 195414,
       "name": "hide and seek - Spotify Singles",
       "url": "https://open.spotify.com/track/1Tdwor7XIfNx4K5PlNOfbj"
@@ -2204,7 +2276,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 218474,
       "name": "Higher - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk"
@@ -2258,7 +2330,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 171096,
       "name": "Hills - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2mbwAG0wfGJBQR4AH1Ylgt"
@@ -2330,7 +2402,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 224624,
       "name": "Hoodie - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB"
@@ -2366,7 +2438,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 254880,
       "name": "Houses - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa"
@@ -2420,7 +2492,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 160015,
       "name": "Human - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7vG0AFDMYvlZCDNEmuRkEf"
@@ -2460,7 +2532,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 220371,
       "name": "Hurting - Recorded At AIR Studios, London",
       "url": "https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb"
@@ -2478,7 +2550,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 270204,
       "name": "I Can't Wait - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5iTCB6oooibGv6rZUyRAJu"
@@ -2496,7 +2568,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 252942,
       "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/11MNmZqWEYAzIbrOQGSTCE"
@@ -2568,7 +2640,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 243562,
       "name": "I Feel It Coming - Recorded At Sound Stage Nashville",
       "url": "https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI"
@@ -2694,7 +2766,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 166992,
       "name": "If You Can See Me",
       "url": "https://open.spotify.com/track/3xfFwQwyQ38saSML8zEuli"
@@ -2748,7 +2820,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 179974,
       "name": "Ingen som jag (Recorded at Spotify Studios Stockholm)",
       "url": "https://open.spotify.com/track/1zoCwUV885aWuq3APJICUK"
@@ -2770,6 +2842,24 @@
       "duration_ms": 180120,
       "name": "Ingen som jag - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/1B74XlQ7AIxiqZhW6yonuq"
+    },
+    {
+      "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "album": {
@@ -2820,7 +2910,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 262987,
       "name": "Ivy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow"
@@ -2856,7 +2946,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 164509,
       "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm"
@@ -2892,7 +2982,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "Kele Kele",
       "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
@@ -2968,7 +3058,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 203957,
       "name": "K\u00e4r i din k\u00e4rlek (Recorded at Spotify Studios Stockholm)",
       "url": "https://open.spotify.com/track/0jy5qTrMlMXXZEx9MLiETy"
@@ -3058,7 +3148,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a"
@@ -3076,7 +3166,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233778,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr"
@@ -3130,7 +3220,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 203495,
       "name": "Let Go - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/6e3Zuo8WsFpb4PAxVRfL9N"
@@ -3238,7 +3328,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 197493,
       "name": "Long Live Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7LILyHS0z6PXDt34ZrCD0h"
@@ -3292,7 +3382,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 234080,
       "name": "Lost - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4rv4xuViNAAR7VeD14lACp"
@@ -3364,7 +3454,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 222138,
       "name": "Love Is a Stranger - Spotify Singles",
       "url": "https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0"
@@ -3479,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Mad World (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "Mad World - Spotify Singles",
+      "url": "https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM"
       },
@@ -3490,7 +3598,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 156314,
       "name": "Many Men - Spotify Singles",
       "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
@@ -3544,7 +3652,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 156160,
       "name": "Middle Finger - Spotify Singles",
       "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
@@ -3580,7 +3688,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 237989,
       "name": "Monster - Spotify Singles",
       "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
@@ -3616,7 +3724,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 220060,
       "name": "More Than You Know - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0IBjwCuG1fEjk5OenvuL6B"
@@ -3778,7 +3886,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/49rILSmVLmGmknARFACh3N"
@@ -3814,7 +3922,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 155214,
       "name": "Oh Sorry Ya",
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
@@ -3868,7 +3976,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164427,
       "name": "One More Time - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0"
@@ -3976,7 +4084,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210886,
       "name": "Out of Focus - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5hNR2TXslThoEgqqdDlt8F"
@@ -4024,13 +4132,13 @@
       },
       "artists": [
         {
-          "name": "Janelle Kroll",
-          "url": "https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9"
+          "name": "Janelle Kroll feat. Nick Broadurst",
+          "url": "https://open.spotify.com/artist/4pFxRigfLUBgEM2MZHco90"
         }
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 275342,
       "name": "Outsider - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5"
@@ -4066,7 +4174,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 207540,
       "name": "Peaches - Spotify Singles",
       "url": "https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM"
@@ -4102,7 +4210,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 155120,
       "name": "Perfume - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq"
@@ -4218,7 +4326,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185331,
       "name": "Reasons - Recorded At Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3ORTR7IKpwANt7TdbGwfwN"
@@ -4254,7 +4362,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232334,
       "name": "Remember - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0v7Sl5LxvFElT0adadw4M6"
@@ -4344,7 +4452,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 216078,
       "name": "Ripple - Spotify Singles",
       "url": "https://open.spotify.com/track/72Tcbc4FrUnew1z0HzsysW"
@@ -4362,7 +4470,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198245,
       "name": "Road Head - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/17UO5wtVXdpm4ekQrC1RVt"
@@ -4398,7 +4506,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 233973,
       "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
@@ -4499,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Rose Colored Lenses - Spotify Singles",
+        "url": "https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143604,
+      "name": "Rose Colored Lenses - Spotify Singles",
+      "url": "https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2NclReHquDka42tG31lbAY"
       },
@@ -4546,7 +4672,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 332163,
       "name": "Scott Street - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j"
@@ -4672,7 +4798,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 227782,
       "name": "Short Court Style - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7E8amR0CdP7lEvVX0TtMWS"
@@ -4730,7 +4856,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 157661,
       "name": "sideways - Spotify Singles",
       "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
@@ -4874,7 +5000,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 149607,
       "name": "Stanley Park - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX"
@@ -4892,7 +5018,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Starboy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
@@ -4946,7 +5072,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244315,
       "name": "Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
@@ -4982,7 +5108,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 214107,
       "name": "Stay High - Recorded at East West Studios",
       "url": "https://open.spotify.com/track/663sv7qnXdkEkorvYmd3nY"
@@ -5000,7 +5126,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 213149,
       "name": "Stay Right Here - Spotify Singles",
       "url": "https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq"
@@ -5072,7 +5198,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 214381,
       "name": "Summer Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
@@ -5090,7 +5216,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 215815,
       "name": "Summer Rain - Spotify Singles",
       "url": "https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v"
@@ -5108,7 +5234,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 257588,
       "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/35dhf83ntrcGn56dJIjhbV"
@@ -5130,6 +5256,24 @@
       "duration_ms": 257588,
       "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4GcyCCxIIV7Ed5pGK4S36G"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163992,
+      "name": "Technicolor - Spotify Singles",
+      "url": "https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei"
     },
     {
       "album": {
@@ -5162,7 +5306,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263770,
       "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3gL9y6dT7xKRPL91gKGM9Y"
@@ -5198,7 +5342,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en"
@@ -5274,6 +5418,24 @@
       "duration_ms": 289618,
       "name": "That XX - Spotify Singles",
       "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197166,
+      "name": "the fruits - Spotify Singles",
+      "url": "https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn"
     },
     {
       "album": {
@@ -5534,7 +5696,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 129360,
       "name": "Uh Huh - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L"
@@ -5552,7 +5714,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 548378,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
@@ -5588,7 +5750,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135192,
       "name": "Unfucktheworld - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4r1JvA4aBEtx6uu4kSKBJ5"
@@ -5696,7 +5858,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143581,
       "name": "Walk Like An Egyptian - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0ORntc7lBzPs2oFUK3TiR9"
@@ -5974,7 +6136,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 267493,
       "name": "Wild Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4aWsyx9WR3xQOQtoHXOX3t"
@@ -6100,7 +6262,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 141648,
       "name": "WTF - Spotify Singles",
       "url": "https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN"
@@ -6136,7 +6298,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 252039,
       "name": "You and Your Folks, Me and My Folks - Recorded at East West Studios",
       "url": "https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr"
@@ -6158,6 +6320,24 @@
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS"
+      },
+      "artists": [
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "You Get What You Give - Spotify Singles",
+      "url": "https://open.spotify.com/track/67Z8vS45C4PrIRrLWIkavo"
     },
     {
       "album": {
@@ -6242,7 +6422,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
@@ -6260,7 +6440,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 214439,
       "name": "Young Blood - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/11hhXAaasvVYZPz0TtNmeQ"

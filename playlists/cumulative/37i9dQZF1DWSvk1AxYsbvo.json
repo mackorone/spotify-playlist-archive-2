@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
+    },
+    {
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 201693,
       "name": "Believe in love",
       "url": "https://open.spotify.com/track/7ooq8bXTacRKlGcxoLOxwX"
@@ -1361,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "In Your Radiant Season (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN"
+    },
+    {
+      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6DUthWXpFzuzOF945UhWVy"
       },
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 223000,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 170000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0ssJ1aWcx4cfe7PVbQ29fz"
@@ -2532,6 +2568,28 @@
       "duration_ms": 254505,
       "name": "melody of LOVE",
       "url": "https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm"
+    },
+    {
+      "album": {
+        "name": "Microhabitat",
+        "url": "https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Microhabitat (feat. Kim gyeol)",
+      "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
     },
     {
       "album": {

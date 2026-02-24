@@ -1,6 +1,6 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: SZA",
-  "num_followers": 38389,
+  "num_followers": 38382,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-02-19 15:00:12",
       "album": {
-        "name": "Wish I Didn't",
-        "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
+        "name": "TEST ME",
+        "url": "https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 209479,
-      "name": "Wish I Didn't",
-      "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
+      "duration_ms": 171482,
+      "name": "TEST ME",
+      "url": "https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe"
     },
     {
       "added_at": "2026-02-19 15:00:12",
@@ -939,34 +939,18 @@
     {
       "added_at": "2026-02-19 15:00:12",
       "album": {
-        "name": "TEST ME",
-        "url": "https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ"
+        "name": "Wish I Didn't",
+        "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 171482,
-      "name": "TEST ME",
-      "url": "https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe"
-    },
-    {
-      "added_at": "2026-02-19 15:00:12",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+      "duration_ms": 209479,
+      "name": "Wish I Didn't",
+      "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
     },
     {
       "added_at": "2026-02-19 15:00:12",
@@ -991,6 +975,22 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "added_at": "2026-02-19 15:00:12",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2026-02-19 15:00:12",

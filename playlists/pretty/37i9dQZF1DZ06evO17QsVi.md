@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,679 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,747 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 10 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 |
 | 11 | [2 Of Amerikaz Most Wanted \(ft\. Snoop Doggy Dogg\)](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:06 |
 | 12 | [Lil' Homies](https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:43 |
-| 13 | [Thugz Mansion \- 7 Remix](https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:07 |
-| 14 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
+| 13 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
+| 14 | [Thugz Mansion \- 7 Remix](https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:07 |
 | 15 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
 | 16 | [Hail Mary](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
 | 17 | [Breathin](https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 | 50 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 
-Snapshot ID: `aZj1gAAAAADqaGtgKhFXBNtlbKWmMdEx`
+Snapshot ID: `aZpHAAAAAAATXLyYg3IomJbGR2qSTFMe`

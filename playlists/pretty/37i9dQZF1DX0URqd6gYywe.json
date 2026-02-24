@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 169256,
+  "num_followers": 169284,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Verte De Cerca",
         "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 183500,
       "name": "Verte De Cerca",
       "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dos en la ciudad",
-      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dos en la ciudad",
+      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 233868,
       "name": "Va a Ser Dif\u00edcil Olvidar",
       "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Airbag - En Vivo Estadio V\u00e9lez",
-        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 303857,
-      "name": "Por Mil Noches - En Vivo",
-      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 276853,
       "name": "Pasan las Horas - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Airbag - En Vivo Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
       "artists": [
         {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -927,6 +911,22 @@
       "duration_ms": 186466,
       "name": "Chipi-Chipi",
       "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 320946,
-      "name": "Otro Jueves Cobarde",
-      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
+      "duration_ms": 286240,
+      "name": "Como un Cuento",
+      "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 286240,
-      "name": "Como un Cuento",
-      "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
+      "duration_ms": 320946,
+      "name": "Otro Jueves Cobarde",
+      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
     },
     {
       "added_at": "2026-02-04 16:00:36",

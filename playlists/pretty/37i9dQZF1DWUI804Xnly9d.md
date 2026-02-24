@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,062 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,111 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 72 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 4:14 |
 | 73 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
-| 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
+| 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
 Snapshot ID: `AAAAALh2QwR6BHCtaoZNJetMIgs2nUHM`

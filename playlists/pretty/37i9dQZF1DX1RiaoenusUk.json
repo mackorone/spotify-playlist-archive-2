@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34583,
+  "num_followers": 34588,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2026-02-04 16:00:38",
+      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
-    },
-    {
-      "added_at": "2026-02-04 16:00:38",
-      "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2026-02-04 16:00:38",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2026-02-04 16:00:38",
-      "album": {
         "name": "No la Ves",
         "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 259553,
       "name": "No la Ves",
       "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-02-04 16:00:38",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-02-04 16:00:38",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+    },
+    {
+      "added_at": "2026-02-04 16:00:38",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
         }
       ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2026-02-04 16:00:38",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
       },
       "artists": [
         {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
         }
       ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
     },
     {
       "added_at": "2026-02-04 16:00:38",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-02-04 16:00:38",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
-      },
-      "artists": [
-        {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
-        }
-      ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
-    },
-    {
-      "added_at": "2026-02-04 16:00:38",
-      "album": {
         "name": "Que Me Pasa",
         "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 184421,
       "name": "Que Me Pasa",
       "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
-    },
-    {
-      "added_at": "2026-02-04 16:00:38",
-      "album": {
-        "name": "Myselfed",
-        "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
-      },
-      "artists": [
-        {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
-        }
-      ],
-      "duration_ms": 287639,
-      "name": "Myselfed",
-      "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
     },
     {
       "added_at": "2026-02-04 16:00:38",
@@ -1655,6 +1635,26 @@
       "duration_ms": 174273,
       "name": "Foulmouth",
       "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
+    },
+    {
+      "added_at": "2026-02-04 16:00:38",
+      "album": {
+        "name": "Myselfed",
+        "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+        }
+      ],
+      "duration_ms": 287639,
+      "name": "Myselfed",
+      "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
     }
   ],
   "unique_name": "Nota Funk",

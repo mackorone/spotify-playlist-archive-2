@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1226204,
+  "num_followers": 1226250,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABNpwvSK6R3g0S757nzu+yE",
+  "snapshot_id": "aZpHAAAAAAD06yPnVNQiC4OJGT8nNJ34",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 165760,
       "name": "Nice 'n' Easy - Remastered 1999",
       "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 187360,
-      "name": "My Way Of Life",
-      "url": "https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 194306,
       "name": "The Lady Is A Tramp - Remastered 1998",
       "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "My Way Of Life",
+      "url": "https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Drinking Water (Aqua de Beber)",
-      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 153146,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Drinking Water (Aqua de Beber)",
+      "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Dance With Me! (Remastered)",
         "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 151026,
       "name": "Come Dance With Me - 1998 Remastered",
       "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
         "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 199733,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
     }
   ],
   "unique_name": "This Is Frank Sinatra",

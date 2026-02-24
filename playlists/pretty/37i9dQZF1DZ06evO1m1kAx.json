@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8062,
+  "num_followers": 8066,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAD3iep4EAClyCKZdf+6zMe5",
+  "snapshot_id": "aZpHAAAAAACHc1/u46D9FYjgcMwf/ihu",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 288920,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
     },
     {
       "added_at": null,
@@ -811,18 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
+        "name": "The Chairman",
+        "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
       "artists": [
         {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
         }
       ],
-      "duration_ms": 234527,
-      "name": "Hate What You Do To Me",
-      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
+      "duration_ms": 347085,
+      "name": "Human Being (feat. 2Face & Sound Sultan)",
+      "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
     },
     {
       "added_at": null,
@@ -863,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 234527,
+      "name": "Hate What You Do To Me",
+      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 159183,
       "name": "Drunk In Love",
       "url": "https://open.spotify.com/track/7bMQhHaOpiZbusXlHrInM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chairman",
-        "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
-        }
-      ],
-      "duration_ms": 347085,
-      "name": "Human Being (feat. 2Face & Sound Sultan)",
-      "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
     },
     {
       "added_at": null,

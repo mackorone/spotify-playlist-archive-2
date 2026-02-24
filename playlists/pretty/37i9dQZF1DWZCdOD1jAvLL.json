@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269054,
+  "num_followers": 269079,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Gets Like That",
+      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "The Finest EP",
-        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Gets Like That",
-      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "You Gonna Want Me (I Know)",
-        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "You Gonna Want Me (I Know)",
-      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "TYPE SH*T",
         "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 212870,
       "name": "TYPE SH*T",
       "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 169098,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 196615,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 205517,
       "name": "Circuit",
       "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 129920,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1695,22 +1727,6 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1787,22 +1803,6 @@
       "duration_ms": 170898,
       "name": "Bang That",
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "Want It",
         "url": "https://open.spotify.com/album/699M6LAUSZzByTkzsrUVqJ"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 224727,
       "name": "Want It",
       "url": "https://open.spotify.com/track/2LM4iwg5H429UfCe7Gu6HA"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-02-20 05:00:37",

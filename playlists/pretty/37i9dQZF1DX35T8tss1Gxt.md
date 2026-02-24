@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Erica Campbell & Adia
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,601 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,647 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

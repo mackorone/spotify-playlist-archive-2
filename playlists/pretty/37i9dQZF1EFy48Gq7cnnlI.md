@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015 likes - 120 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,15 +103,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 93 | [Only Lonely](https://open.spotify.com/track/0zOzQxA9fFCtZ2DP7yPRs9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:22 |
 | 94 | [Home Of The Terrified](https://open.spotify.com/track/6hlzVaT8sRQy3kfAYrcEO1) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:23 |
 | 95 | [Gentleman](https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:48 |
-| 96 | [Lonely](https://open.spotify.com/track/7dqpvER1Qcxs6Yac6IXweG) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9), [Danilo Lopes](https://open.spotify.com/artist/0ETiCQlgk0hPT3YyLE8sO4), [Sandami](https://open.spotify.com/artist/6qZiNueIsha6f6RlrLLC3H), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [André Leite](https://open.spotify.com/artist/7qV5PpdQDLDJM7l4vZUfOp), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7), [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Homemade](https://open.spotify.com/album/3YuH9V808ZbceswfIsMbFB) | 3:44 |
-| 97 | [Drunk](https://open.spotify.com/track/5p8Wu0gEKeWit3FYgrDPWw) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Drunk](https://open.spotify.com/album/426tbd5DUDnIZKLeOmVELI) | 3:04 |
+| 96 | [Drunk](https://open.spotify.com/track/5p8Wu0gEKeWit3FYgrDPWw) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Drunk](https://open.spotify.com/album/426tbd5DUDnIZKLeOmVELI) | 3:04 |
+| 97 | [Lonely](https://open.spotify.com/track/7dqpvER1Qcxs6Yac6IXweG) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9), [Danilo Lopes](https://open.spotify.com/artist/0ETiCQlgk0hPT3YyLE8sO4), [Sandami](https://open.spotify.com/artist/6qZiNueIsha6f6RlrLLC3H), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [André Leite](https://open.spotify.com/artist/7qV5PpdQDLDJM7l4vZUfOp), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7), [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Homemade](https://open.spotify.com/album/3YuH9V808ZbceswfIsMbFB) | 3:44 |
 | 98 | [Full Moon](https://open.spotify.com/track/4nes2cElxP6FFb8LMwKI6a) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:01 |
 | 99 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
 | 100 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
 | 101 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
 | 102 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
-| 103 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
-| 104 | [Love Again](https://open.spotify.com/track/4GjEdufOc7sbZAW8wtI2DT) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:06 |
+| 103 | [Love Again](https://open.spotify.com/track/4GjEdufOc7sbZAW8wtI2DT) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:06 |
+| 104 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
 | 105 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
 | 106 | [Hold Back](https://open.spotify.com/track/1d0Uq6maOfblLvOZdrgrwT) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where The Light Calls](https://open.spotify.com/album/6RDBPh2kbTqWoGCKckNPHX) | 3:46 |
 | 107 | [Last Girl on Earth](https://open.spotify.com/track/6YCjZMyZEIFWumqnQvGQuB) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [IF THE SHOE FITS, WEAR IT \(ONE LAST CRY EDITION\)](https://open.spotify.com/album/30DtBHGdhiZKhyXjRE7vi8) | 3:21 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 119 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 120 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `AcKYbAAAAACy6cddnb/leoALSIPaHBBz`
+Snapshot ID: `AcKePgAAAAB9Osxw73l9oHvcfO/cq+IV`

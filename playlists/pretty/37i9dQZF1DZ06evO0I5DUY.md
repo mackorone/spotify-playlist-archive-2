@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,655 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,684 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Sabor de Engaño](https://open.spotify.com/track/1ucR3VU4afYj9xKBulkBjS) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 3:07 |
 | 50 | [Amores fingidos](https://open.spotify.com/track/64fikwVTuQhF9QAgOWKJ48) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Preferidas Del Pueblo](https://open.spotify.com/album/4kyPTPIqGa47CUb27whbfx) | 2:31 |
 
-Snapshot ID: `aZj1gAAAAACB+nm8c4D5hj5R4Sl4CkoZ`
+Snapshot ID: `aZpHAAAAAACXW7n2+cQ0cVeru17tehwp`

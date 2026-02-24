@@ -1,6 +1,6 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 10745,
+  "num_followers": 10752,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 156223,
-      "name": "Quien TV",
-      "url": "https://open.spotify.com/track/2ThSBT4fDS83BWu3iMjMRn"
+      "duration_ms": 184000,
+      "name": "Brazilera",
+      "url": "https://open.spotify.com/track/6jPFaBQGvDFrcyf5kQAJ6G"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -887,22 +891,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Brazilera",
-      "url": "https://open.spotify.com/track/6jPFaBQGvDFrcyf5kQAJ6G"
+      "duration_ms": 156223,
+      "name": "Quien TV",
+      "url": "https://open.spotify.com/track/2ThSBT4fDS83BWu3iMjMRn"
     },
     {
       "added_at": "2023-07-28 18:06:51",

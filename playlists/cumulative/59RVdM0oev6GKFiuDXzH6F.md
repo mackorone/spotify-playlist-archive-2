@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,091 songs - 2 day 8 hr 6 min
+1,092 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [The Funky Beat](https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [The Funky Beat](https://open.spotify.com/album/5Lf8Ll5FO250z2yfwL0M5U) | 2:20 | 2023-02-12 | 2023-04-13 |
 | [The Godfather](https://open.spotify.com/track/7J6iR4yW6lD0p7e9KJ5hzk) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [The Godfather](https://open.spotify.com/album/1kgqmG2Y5uOxUnHaIJy1To) | 2:43 | 2024-01-26 | 2024-09-26 |
 | [The Jack \(Dan McKie Remix\)](https://open.spotify.com/track/5Jhl4KMCPGIJpYZky2C70k) | [Martin Eyerer](https://open.spotify.com/artist/6qx8HhSNjrDvOV5CTjGr88), [Dan McKie](https://open.spotify.com/artist/5x6OZlUVGFX4F1QHJCgysn) | [The Jack \(Dan McKie Remix\)](https://open.spotify.com/album/1tUS40piGiCF9f62qQLRiG) | 3:24 | 2023-03-31 | 2023-04-15 |
+| [The Low](https://open.spotify.com/track/7N38WEfvYGgS32PJYmP0B3) | [Andre Palms](https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj) | [The Low](https://open.spotify.com/album/7JIvi4jXKIayEeDhbCxOex) | 2:57 | 2026-02-23 |  |
 | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84) | 3:13 | 2025-04-10 |  |
 | [The Middle](https://open.spotify.com/track/3WQxEtuq73INGXF3RyjhJD) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Middle EP](https://open.spotify.com/album/1w63uMC1ScP77dUnNKoDhi) | 3:01 | 2023-09-25 | 2023-12-14 |
 | [The Ones](https://open.spotify.com/track/5rqOsAmL6kZtLisgFaaiV0) | [Jessee](https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [The Ones](https://open.spotify.com/album/69sjRPnJSvqqZS0mymH7yv) | 4:08 | 2023-08-25 | 2023-12-14 |

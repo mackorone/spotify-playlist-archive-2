@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 71 | [I Fly \(feat\. Faouzia\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/1uEYffw14ktvXSnlAyMtng) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I Fly \(feat\. Faouzia\)](https://open.spotify.com/album/3JT6cqOX3SPdemZMq9T2JW) | 2:31 |
 | 72 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 |
 | 73 | [Is It Just Me](https://open.spotify.com/track/7dEztoOcmsafZLM2GSPbna) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:37 |
-| 74 | [Westside](https://open.spotify.com/track/2hkBrU5mjoielqu0SFW3DX) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Free TC \(Deluxe Edition\)](https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr) | 4:04 |
-| 75 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 74 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 75 | [Westside](https://open.spotify.com/track/2hkBrU5mjoielqu0SFW3DX) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Free TC \(Deluxe Edition\)](https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr) | 4:04 |
 | 76 | [Mula Remix](https://open.spotify.com/track/4k1twluDPNSnrFd3Wxsibv) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:54 |
 | 77 | [Mona Lisa](https://open.spotify.com/track/6FjcShHWPvel5QPNhWivJe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:30 |
 | 78 | [Americana](https://open.spotify.com/track/1js88EFNpRfBVpn2Pd2ZwR) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:00 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 144 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 145 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcKYigAAAAAu8OnK4Euhg5856YsRJ/OE`
+Snapshot ID: `AcKeKgAAAACSOmrd84NH/Gov2Ry34qVw`

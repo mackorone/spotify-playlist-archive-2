@@ -12519,6 +12519,28 @@
     },
     {
       "album": {
+        "name": "En Kadhalum",
+        "url": "https://open.spotify.com/album/5pCbSjKNmk6A9l77QthRXB"
+      },
+      "artists": [
+        {
+          "name": "Shankara",
+          "url": "https://open.spotify.com/artist/5XesAyDCfSO2lx0U3bDK2U"
+        },
+        {
+          "name": "Shreyaa Srinivasan",
+          "url": "https://open.spotify.com/artist/4CiHuJC6WQIngy0CBv9XEP"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260182,
+      "name": "Thaedi Thaedi",
+      "url": "https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no"
+    },
+    {
+      "album": {
         "name": "Thakam illai yendrale",
         "url": "https://open.spotify.com/album/033c6uLf6rLulZOBBwG5j4"
       },

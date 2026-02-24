@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 260842,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/7qwCxms6SRuWvT6BMxkesm"
@@ -6790,7 +6790,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 202940,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP"
@@ -8393,6 +8393,24 @@
     },
     {
       "album": {
+        "name": "Whenever I Go",
+        "url": "https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170331,
+      "name": "You Were There",
+      "url": "https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN"
+    },
+    {
+      "album": {
         "name": "You're Somebody Else",
         "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
       },
@@ -8408,6 +8426,24 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "album": {
+        "name": "Young & Green",
+        "url": "https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf"
+      },
+      "artists": [
+        {
+          "name": "Joely",
+          "url": "https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240472,
+      "name": "Young & Green",
+      "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa1BeMIGX5Du"

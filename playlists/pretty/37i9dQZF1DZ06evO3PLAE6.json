@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACSTDrui6zYX2PMLaMqcWyL",
+  "snapshot_id": "aZpHAAAAAAATTpyL/ifD4u54PMabt4NV",
   "tracks": [
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
       "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
     },
     {
       "added_at": null,
@@ -814,11 +814,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 194360,
-      "name": "Broken Cup",
-      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
+      "duration_ms": 210899,
+      "name": "My Kingdom Come",
+      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
     },
     {
       "added_at": null,
@@ -830,15 +834,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 210899,
-      "name": "My Kingdom Come",
-      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
+      "duration_ms": 194360,
+      "name": "Broken Cup",
+      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

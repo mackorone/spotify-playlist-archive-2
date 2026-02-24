@@ -366,12 +366,8 @@
       },
       "artists": [
         {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        },
-        {
-          "name": "Gringo",
-          "url": "https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU"
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
         },
         {
           "name": "Plan B",
@@ -646,7 +642,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 232587,
       "name": "Hay Algo en Ti",
       "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
@@ -952,7 +948,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"

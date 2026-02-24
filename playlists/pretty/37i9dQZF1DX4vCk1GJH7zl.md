@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,032 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,057 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 31 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
 | 32 | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 |
 | 33 | [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 |
-| 34 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 |
-| 35 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
+| 34 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
+| 35 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 |
 | 36 | [Eu não sou mais o mesmo](https://open.spotify.com/track/7ggCFNp07eR7nfpIbuHZQi) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Eu não sou mais o mesmo](https://open.spotify.com/album/0FRCbWvGvqxHWhcnxLu0DF) | 2:07 |
 | 37 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 38 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |

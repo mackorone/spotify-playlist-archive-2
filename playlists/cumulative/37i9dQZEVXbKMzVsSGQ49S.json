@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5856,6 +5856,24 @@
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
+    },
+    {
+      "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/0ScOj7ZigwzE6BeaYcsOt6"
+      },
+      "artists": [
+        {
+          "name": "Flyboi Rich",
+          "url": "https://open.spotify.com/artist/6J8NNGxsIeLTIAd8yW4izf"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133172,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/3LUiCnCkfNUEFU2jYEOiVK"
     },
     {
       "album": {
@@ -12667,6 +12685,24 @@
     },
     {
       "album": {
+        "name": "DOWN ASS BITCH",
+        "url": "https://open.spotify.com/album/1lpkXftT41A9sSfzENkJj5"
+      },
+      "artists": [
+        {
+          "name": "Don Zio P",
+          "url": "https://open.spotify.com/artist/3RBmwSWiwn0mL9j8dXHKTV"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "DOWN ASS BITCH",
+      "url": "https://open.spotify.com/track/3pN3mqCFhsSjKrO3mlAeQm"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -12892,7 +12928,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -13802,7 +13838,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 246850,
       "name": "Efsta h\u00e6\u00f0",
       "url": "https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS"
@@ -15324,7 +15360,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -28564,7 +28600,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 176936,
       "name": "Komdu til baka",
       "url": "https://open.spotify.com/track/02CIbA3JKDCyi5Pa79mjfT"
@@ -30040,7 +30076,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 217338,
       "name": "Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/3wuDSL9MTYw246xmIz2KPd"
@@ -30714,7 +30750,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -36074,7 +36110,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -38533,6 +38569,28 @@
     },
     {
       "album": {
+        "name": "Oyeoma",
+        "url": "https://open.spotify.com/album/29HvMKC4d5FtzsYluxU2ML"
+      },
+      "artists": [
+        {
+          "name": "afrostoneboy",
+          "url": "https://open.spotify.com/artist/7cTEK6urRcngix7sw0gfGw"
+        },
+        {
+          "name": "Lil DezZ",
+          "url": "https://open.spotify.com/artist/2a68Rlh3xeH6hhIwLXGwVO"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135997,
+      "name": "Oyeoma",
+      "url": "https://open.spotify.com/track/1TvrSEXaN0oWmIumAKcb29"
+    },
+    {
+      "album": {
         "name": "DRIP SEASON 4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -38838,7 +38896,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 188507,
       "name": "Papaoutai - English",
       "url": "https://open.spotify.com/track/0JTHulb9CENUJ0SGKpTsqH"
@@ -41890,6 +41948,24 @@
       "duration_ms": 166009,
       "name": "Reinvented",
       "url": "https://open.spotify.com/track/6uzxlXvbxxVRZo23kZZLUU"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/0ZKkjVAlJsVuXofO5zOtoA"
+      },
+      "artists": [
+        {
+          "name": "Brain",
+          "url": "https://open.spotify.com/artist/2HYU2E68Kjj12tIegjmGM7"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4EULHlU6kmOHvrlyF2E3ge"
     },
     {
       "album": {
@@ -49012,7 +49088,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -50622,6 +50698,24 @@
       "duration_ms": 169273,
       "name": "Technicolour",
       "url": "https://open.spotify.com/track/7ElfaDjFKXAlfscXU4rRXK"
+    },
+    {
+      "album": {
+        "name": "Who Is Avalanche the Architect",
+        "url": "https://open.spotify.com/album/2fQvUCQKQZxS1Isk3X2Lc4"
+      },
+      "artists": [
+        {
+          "name": "Avalanche The Architect",
+          "url": "https://open.spotify.com/artist/0rAfURui6u3sPXCYn4f98D"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245034,
+      "name": "Techno Booty",
+      "url": "https://open.spotify.com/track/5yOzJ1PnuANEW1opR2A4zm"
     },
     {
       "album": {

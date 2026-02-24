@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Cuo Zay and more
 
-141 songs - 5 hr 38 min
+142 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
 | [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 | 2026-02-10 |
 | [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
+| [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 |  |
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
 | [Off tha Lot \- Remix](https://open.spotify.com/track/0YD65NZU1x10Qjzz9JW1PV) | [tr3nt!](https://open.spotify.com/artist/3HSZDx6CVJuM0FvRqA2RZV) | [Off tha Lot \(Remix\)](https://open.spotify.com/album/0WaUSZ42kCZAKKwwkRwKtc) | 1:54 | 2026-02-12 | 2026-02-15 |
@@ -143,7 +144,7 @@
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
 | [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 | 2026-02-06 |
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
-| [XTC](https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI) | [PUNISHA](https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q) | [XTC](https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY) | 2:07 | 2026-02-04 |  |
+| [XTC](https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI) | [PUNISHA](https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q) | [XTC](https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY) | 2:07 | 2026-02-04 | 2026-02-24 |
 | [Ya Ya](https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:18 | 2025-11-29 | 2026-02-07 |
 | [Yale](https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM) | 1:46 | 2025-11-29 | 2026-02-10 |
 | [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 | 2026-01-04 |

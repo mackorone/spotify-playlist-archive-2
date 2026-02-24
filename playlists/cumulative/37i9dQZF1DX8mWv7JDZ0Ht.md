@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Balara
 
-896 songs - 1 day 20 hr 47 min
+897 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Boa Sorte / nada contra \(ciúme\) / Bixinho](https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Boa Sorte / nada contra \(ciúme\) / Bixinho](https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH) | 3:52 | 2022-12-12 | 2023-07-15 |
 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 | 2023-05-26 | 2023-08-26 |
 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 | 2024-05-31 | 2024-10-12 |
+| [BOCA GOSTOSA](https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BOCA GOSTOSA](https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs) | 2:22 | 2026-02-23 |  |
 | [BONITA](https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 2:42 | 2024-04-26 | 2024-07-19 |
 | [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 | 2025-06-13 | 2025-07-26 |
 | [Bora Se Pegar \- Ao Vivo](https://open.spotify.com/track/6ijwpIpePgnwSAON00jDpf) | [Rafa Almeida](https://open.spotify.com/artist/7vnlJ5bdedonMAORNPB72Y) | [Impacto, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Q6q4nxY87NqQrlq6WYYfl) | 3:30 | 2022-06-14 | 2022-06-18 |
@@ -133,7 +134,7 @@
 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 | 2024-11-08 | 2024-12-21 |
 | [Cachaça](https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [Cachaça](https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY) | 2:34 | 2023-04-28 | 2023-05-23 |
 | [Cada Amor](https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cada Amor](https://open.spotify.com/album/5nGLsNfvUZKzTQHK1yrxtY) | 3:05 | 2023-08-04 | 2023-08-23 |
-| [Cada Linha](https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Cada Linha](https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo) | 2:42 | 2025-09-19 |  |
+| [Cada Linha](https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Cada Linha](https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo) | 2:42 | 2025-09-19 | 2026-02-24 |
 | [Cadê Você](https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Cadê Você](https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj) | 2:40 | 2024-04-09 | 2024-07-13 |
 | [Caetano](https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Caetano](https://open.spotify.com/album/2sXrM5agNPq05PLg8JaiKM) | 3:22 | 2024-09-06 | 2024-10-26 |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-05-13 | 2022-06-15 |

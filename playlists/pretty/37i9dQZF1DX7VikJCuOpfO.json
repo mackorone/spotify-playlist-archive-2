@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Michelle Maciel \ud83d\udcf8",
-  "num_followers": 366789,
+  "num_followers": 366785,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 160010,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 189628,
       "name": "A Dos De Borrarte",
       "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 160010,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Retumbando En El Cora",
         "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 130833,
       "name": "Retumbando En El Cora",
       "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Se Me Hizo Tarde",
-        "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Plan Exclusivo",
-          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
-        }
-      ],
-      "duration_ms": 223250,
-      "name": "Se Me Hizo Tarde",
-      "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
         "name": "Se Cancela La Llorada",
         "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
+        "name": "Se Me Hizo Tarde",
+        "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
       },
       "artists": [
         {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
         }
       ],
-      "duration_ms": 310500,
-      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
+      "duration_ms": 223250,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
+        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 259144,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
-        "name": "El Target",
-        "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "El Target",
-      "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -923,18 +903,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Se te olvid\u00f3",
-        "url": "https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm"
+        "name": "El Target",
+        "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
       "artists": [
         {
-          "name": "JUAN MACI",
-          "url": "https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Se te olvid\u00f3",
-      "url": "https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3"
+      "duration_ms": 165693,
+      "name": "El Target",
+      "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+        "name": "Se te olvid\u00f3",
+        "url": "https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm"
       },
       "artists": [
         {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+          "name": "JUAN MACI",
+          "url": "https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl"
         }
       ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+      "duration_ms": 186173,
+      "name": "Se te olvid\u00f3",
+      "url": "https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -1007,6 +991,22 @@
       "duration_ms": 143306,
       "name": "La Caminera",
       "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-02-20 06:00:35",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-02-20 06:00:35",
       "album": {
+        "name": "Ning\u00fan Color Tiene Due\u00f1o",
+        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
+      },
+      "artists": [
+        {
+          "name": "Majo Cornejo",
+          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Ning\u00fan Color Tiene Due\u00f1o",
+      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+    },
+    {
+      "added_at": "2026-02-20 06:00:35",
+      "album": {
         "name": "Esta vez te digo adios",
         "url": "https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 216000,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd"
-    },
-    {
-      "added_at": "2026-02-20 06:00:35",
-      "album": {
-        "name": "Ning\u00fan Color Tiene Due\u00f1o",
-        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
-      },
-      "artists": [
-        {
-          "name": "Majo Cornejo",
-          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Ning\u00fan Color Tiene Due\u00f1o",
-      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
     },
     {
       "added_at": "2026-02-20 06:00:35",

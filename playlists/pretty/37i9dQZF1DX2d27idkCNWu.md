@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,149 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,144 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 85 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 |
 | 86 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
 | 87 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
-| 88 | [Blame It On Me \(Acoustic\)](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
+| 88 | [PSYCHO \- Acoustic](https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [PSYCHO \(Acoustic\)](https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK) | 2:20 |
 | 89 | [Sagrado Profano \- Acústico](https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 3:07 |
-| 90 | [PSYCHO \- Acoustic](https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [PSYCHO \(Acoustic\)](https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK) | 2:20 |
+| 90 | [Blame It On Me \(Acoustic\)](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
 
 Snapshot ID: `AAAAAPIUJlUOKOP3XuuyeTFWOOTx/kYC`

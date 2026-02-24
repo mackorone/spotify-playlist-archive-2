@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185753,
+  "num_followers": 185769,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Rel\u00edquia",
-        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
-        }
-      ],
-      "duration_ms": 212429,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+        "name": "Rel\u00edquia",
+        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
         },
         {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+      "duration_ms": 212429,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -815,6 +795,26 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "N\u00famero Privado",
+        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "N\u00famero Privado",
+      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -875,26 +895,6 @@
       "duration_ms": 171408,
       "name": "Sem Barulho, Pt. II",
       "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "N\u00famero Privado",
-        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "N\u00famero Privado",
-      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
     },
     {
       "added_at": "2026-01-30 14:06:41",

@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 72032,
+  "num_followers": 72037,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,54 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Second BEAT!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cBEYOND THE SHiNE\u300d",
+        "url": "https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc"
       },
       "artists": [
         {
           "name": "TRIGGER",
           "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        },
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 292000,
-      "name": "DAYBREAK INTERLUDE",
-      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
+      "duration_ms": 263386,
+      "name": "\u6fc0\u60c5",
+      "url": "https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -475,6 +511,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "DAYBREAK INTERLUDE",
+      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
         "url": "https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal"
       },
@@ -495,22 +547,6 @@
       "duration_ms": 269453,
       "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
       "url": "https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
-        "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "BEAUTIFUL PRAYER",
-      "url": "https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -567,6 +603,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
+        "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "BEAUTIFUL PRAYER",
+      "url": "https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -579,22 +631,6 @@
       "duration_ms": 300493,
       "name": "\u5e78\u305b\u3067\u3044\u3066",
       "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "Heavenly Visitor / DIAMOND FUSION",
-        "url": "https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "DIAMOND FUSION",
-      "url": "https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -703,22 +739,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
       },
@@ -783,22 +803,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "No Sacrifice",
-      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -815,6 +819,22 @@
       "duration_ms": 201240,
       "name": "Unbalance Shadow",
       "url": "https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "No Sacrifice",
+      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1067,18 +1087,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album vol.2",
+        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
       },
       "artists": [
         {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
         }
       ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
+      "duration_ms": 263853,
+      "name": "Monologue Note",
+      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1095,22 +1115,6 @@
       "duration_ms": 233760,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4lDreS79cWyHzL9U6NMoh6"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album vol.2",
-        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Monologue Note",
-      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1235,36 +1239,24 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 LIVE 4bit Compilation Album \"BEYOND THE PERiOD\" (DAY 1)",
-        "url": "https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b"
+        "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
+        "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
       "artists": [
         {
           "name": "IDOLiSH7",
           "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        },
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        },
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        },
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 258493,
-      "name": "Welcome, Future World!!!",
-      "url": "https://open.spotify.com/track/5ueuFrqiH2VR9yJDSeoXED"
+      "duration_ms": 287480,
+      "name": "Dancing\u221eBEAT!!",
+      "url": "https://open.spotify.com/track/16uBIBXoHbN9fIMLgDIKoP"
     },
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+        "name": "Heavenly Visitor / DIAMOND FUSION",
+        "url": "https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL"
       },
       "artists": [
         {
@@ -1272,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
         }
       ],
-      "duration_ms": 272506,
-      "name": "Leopard Eyes",
-      "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
+      "duration_ms": 237266,
+      "name": "DIAMOND FUSION",
+      "url": "https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk"
     },
     {
       "added_at": "2025-06-09 15:00:27",

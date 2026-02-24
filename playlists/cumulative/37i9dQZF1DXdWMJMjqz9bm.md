@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-834 songs - 1 day 14 hr 5 min
+835 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-11-21 | 2023-06-17 |
 | [good day](https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [good day](https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4) | 2:48 | 2022-07-11 | 2022-07-23 |
 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 | 2021-11-16 | 2022-02-19 |
-| [good one](https://open.spotify.com/track/24qUyjt3hI38uCKOAKmmdw) | [Adam Yokum](https://open.spotify.com/artist/7dy37FSkbn3Zc4xul0xjpe) | [good one](https://open.spotify.com/album/0ThEKh0BQa25NEJa6LGKU9) | 2:07 | 2026-01-28 |  |
+| [good one](https://open.spotify.com/track/24qUyjt3hI38uCKOAKmmdw) | [Adam Yokum](https://open.spotify.com/artist/7dy37FSkbn3Zc4xul0xjpe) | [good one](https://open.spotify.com/album/0ThEKh0BQa25NEJa6LGKU9) | 2:07 | 2026-01-28 | 2026-02-24 |
 | [Good Thing](https://open.spotify.com/track/17fegXpwCZ98uOGEo4iDD0) | [The DRs](https://open.spotify.com/artist/20jX7lBlose6MjJoZAn2ki) | [Good Thing](https://open.spotify.com/album/1XQAcWa6al0ls0vwtlHVSG) | 3:24 | 2022-04-01 | 2022-04-08 |
 | [Good Time](https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Good Time](https://open.spotify.com/album/0Q6YjIjuNy5Bt37PvxWes4) | 2:44 | 2023-03-17 | 2023-07-08 |
 | [Good Times](https://open.spotify.com/track/1VjbSYsazAQ3wI1Zy7nhVk) | [Vic Sage](https://open.spotify.com/artist/1Vb5xFUr9KlF32On6L2WPQ) | [Good Times](https://open.spotify.com/album/6oaSQvqdUoTE9M7IsosGBP) | 2:16 | 2023-06-16 | 2023-06-24 |
@@ -326,6 +326,7 @@
 | [HATED US](https://open.spotify.com/track/07mp614wVP17UQqEJ4577F) | [Kyaru](https://open.spotify.com/artist/1V7RdASCLJSbBzeum0fLkQ), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv) | [HATED US](https://open.spotify.com/album/1dwxT4qdc4nvgcGTjWHP60) | 2:46 | 2023-07-14 | 2024-06-01 |
 | [Hazel Eyes](https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Hazel Eyes](https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2) | 2:18 | 2023-02-17 | 2024-06-01 |
 | [Head Shot / Gas In The Truck](https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS) | [Head Shot / Gas In The Truck](https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx) | 3:57 | 2025-10-20 |  |
+| [Heartbreak](https://open.spotify.com/track/2XwrBmeW2JdWFBUhwXAnzd) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Matthew Bento](https://open.spotify.com/artist/1lz8mmm4zJ07PO9sgaNjdY), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Heartbreak](https://open.spotify.com/album/6HOGyMg8PuJ8gc3favXLoD) | 3:13 | 2026-02-23 |  |
 | [Heartbreak Milkshake](https://open.spotify.com/track/3Klxo1C5XO8U2l6ez0HB6u) | [Aze](https://open.spotify.com/artist/71JJal5W3D0YNB3IUPfIE3) | [Heartbreak Milkshake](https://open.spotify.com/album/7BAQ06lcT73SVjXA1iCcyt) | 2:40 | 2024-02-16 | 2024-06-01 |
 | [Heat Check](https://open.spotify.com/track/2pY0N4P2lb9bEGvXB1v8Cf) | [Frak](https://open.spotify.com/artist/36joSnhVlKcmbsnFBM8Uz8), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Heat Check](https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa) | 2:44 | 2026-01-28 |  |
 | [Helium Balloon](https://open.spotify.com/track/5TmWbWEMCwzfeFWOt9AmGI) | [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Helium Balloon](https://open.spotify.com/album/4YZLWuNbv1nSZcejTR8Kko) | 3:11 | 2022-02-04 | 2022-07-02 |
@@ -545,7 +546,7 @@
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-03-26 |
 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 | 2025-02-15 |
 | [OLD NEWS](https://open.spotify.com/track/3uY6ip9RD3AB7lWJHSWAp9) | [Heath240](https://open.spotify.com/artist/1ojvdyodoMexNXR8my5FOo) | [OLD NEWS](https://open.spotify.com/album/0zVNdC56TzBMNX4k6v8JbQ) | 2:29 | 2022-09-23 | 2022-10-22 |
-| [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-06 |  |
+| [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-06 | 2026-02-24 |
 | [on life](https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [on life](https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy) | 2:12 | 2023-01-13 | 2024-02-23 |
 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 | 2022-01-14 | 2022-03-26 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2024-05-25 |

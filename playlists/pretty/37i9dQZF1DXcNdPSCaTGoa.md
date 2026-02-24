@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating the neo\-soul classics Mzansi loves\. Cover: Jill Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,739 likes - 60 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,748 likes - 60 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

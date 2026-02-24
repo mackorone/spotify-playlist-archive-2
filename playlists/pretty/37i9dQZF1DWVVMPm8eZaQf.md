@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 
 > Fresh takes and unexpected covers of songs originally written by Post Malone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 | 46 | [Take What You Want](https://open.spotify.com/track/5BL2NvPO62vD01BK691dGU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [Seeing Red](https://open.spotify.com/album/2aK2ORLyiIcXOIuBNyuQSR) | 3:35 |
 | 47 | [Rockstar](https://open.spotify.com/track/0uMxEdJH1indcaymfSZGSk) | [Blvck Cobrv](https://open.spotify.com/artist/0rtGrxBjqA2R63ETZQywEW), [Benni Hunnit](https://open.spotify.com/artist/4gSdUrMhfwo9K45YAOPBub), [G King](https://open.spotify.com/artist/760sqxqEKbtfXK46BxrtkL) | [Rockstar](https://open.spotify.com/album/775m5Sw5B9YkkCSjFZaE0A) | 2:33 |
 
-Snapshot ID: `AAAAACIudO3kP9GKo2j+SIFWy5AHMeve`
+Snapshot ID: `AAAAABTIN/6j28hjBRUVFlOB2PL8x4mf`

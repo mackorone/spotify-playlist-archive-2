@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,467 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,479 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,18 +97,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 87 | [INSOMNIA](https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [INSOMNIA](https://open.spotify.com/album/0HO8ZIzPKixZZQiEd5zW0p) | 2:36 |
 | 88 | [are u alright?](https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [are u alright?](https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY) | 2:08 |
 | 89 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 |
-| 90 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
+| 90 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 |
 | 91 | [Sunrise Underwater](https://open.spotify.com/track/1rRscKv9OiK64AgQQWez5m) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Sunrise Underwater](https://open.spotify.com/album/3d9q6YpSzGxna0ju3xUwEc) | 3:34 |
-| 92 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 |
-| 93 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 |
-| 94 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 92 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
+| 93 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 94 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 |
 | 95 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 96 | [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 |
 | 97 | [Yesterday](https://open.spotify.com/track/7fzolTnwtX2oTYqFo37vbV) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Yesterday](https://open.spotify.com/album/0azijgSTeLzSdHx8Lp79Id) | 3:25 |
 | 98 | [haunted](https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [haunted](https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7) | 2:12 |
-| 99 | [LONELY](https://open.spotify.com/track/09PUTIs33PUjiogm9PsAPk) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LONELY](https://open.spotify.com/album/0dnudttO82GGDoFAti98UX) | 3:35 |
-| 100 | [Tear Drops](https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Tear Drops](https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4) | 2:49 |
-| 101 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
+| 99 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
+| 100 | [LONELY](https://open.spotify.com/track/09PUTIs33PUjiogm9PsAPk) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LONELY](https://open.spotify.com/album/0dnudttO82GGDoFAti98UX) | 3:35 |
+| 101 | [Tear Drops](https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Tear Drops](https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4) | 2:49 |
 | 102 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
 | 103 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 104 | [Disconnected](https://open.spotify.com/track/7xK5a6xjJkLLd8zRKskSMB) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Disconnected](https://open.spotify.com/album/6d5kJtZLuZ6AADFLX6nqFE) | 2:51 |

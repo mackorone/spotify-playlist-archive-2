@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: LUDMILLA
+> Grandes hits do BR e do 🌎 / Foto: Bad Bunny
 
-431 songs - 21 hr 22 min
+432 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,11 +289,12 @@
 | [No Particular](https://open.spotify.com/track/1ZfWqYG2avyXoJhhr8nn80) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [No Particular](https://open.spotify.com/album/4oKi1WuKiJ6JhwIvsQW8Nt) | 2:51 | 2024-05-17 | 2024-07-06 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-13 | 2022-12-22 |
 | [Noite Fria](https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:40 | 2023-04-13 | 2023-07-15 |
-| [Nossa Chance](https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Nossa Chance](https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5) | 3:44 | 2025-07-11 |  |
+| [Nossa Chance](https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Nossa Chance](https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5) | 3:44 | 2025-07-11 | 2026-02-24 |
 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 | 2024-06-14 | 2025-06-12 |
 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 | 2023-06-30 | 2024-02-21 |
 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 | 2023-05-30 | 2023-12-08 |
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 | 2024-03-22 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-23 |  |
 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 | 2024-12-23 | 2026-01-27 |
 | [Numa Ilha](https://open.spotify.com/track/5EMdMjFDucmNsD80Y0mjEI) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:09 | 2026-01-26 |  |
 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-18 | 2024-12-24 |

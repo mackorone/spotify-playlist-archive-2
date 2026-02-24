@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,471 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,403 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

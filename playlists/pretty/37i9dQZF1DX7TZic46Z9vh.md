@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,867 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,869 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 25 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 |
 | 26 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
 | 27 | [Somebody To Love](https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 3:04 |
-| 28 | [El Hongo](https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:51 |
-| 29 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
+| 28 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
+| 29 | [El Hongo](https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:51 |
 | 30 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 |
 | 31 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
 | 32 | [Acapulco Dorado](https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:00 |

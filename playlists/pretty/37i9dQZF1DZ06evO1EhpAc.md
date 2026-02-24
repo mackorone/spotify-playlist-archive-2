@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,636 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,638 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 10 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
 | 11 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
 | 12 | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 |
-| 13 | [break it even](https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:02 |
-| 14 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 |
+| 13 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 |
+| 14 | [break it even](https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:02 |
 | 15 | [Feel It Out](https://open.spotify.com/track/2BAtucJA8PovKDVwPAeHxz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:16 |
 | 16 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 |
 | 17 | [In Your Fantasy \(Yaeji Ver.\)](https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [In Your Fantasy \(Remix\)](https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q) | 3:22 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 41 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
 | 42 | [Pink Ponies](https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:05 |
 
-Snapshot ID: `aZj1gAAAAAB7UGItWhMlOGNtjMSyjNMH`
+Snapshot ID: `aZpHAAAAAAAHpNZhyTfWPogcEUEDeE8t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Silva Bumpa
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,667 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,695 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 38 | [Driving Me Crazy](https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG) | [Lewis Taylor](https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR) | [Driving Me Crazy](https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej) | 2:48 |
 | 39 | [Energy](https://open.spotify.com/track/4Rup2FGULitq264vd0necv) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Energy](https://open.spotify.com/album/4xJX8f7uAR9T2Z72QHKpHo) | 3:29 |
 | 40 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 |
-| 41 | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 |
+| 41 | [Sober](https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Sober](https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb) | 3:35 |
 | 42 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
-| 43 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
-| 44 | [Sober](https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Sober](https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb) | 3:35 |
+| 43 | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 |
+| 44 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
 | 45 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
 | 46 | [Lose My Mind](https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Lose My Mind](https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c) | 3:19 |
 | 47 | [Blessings](https://open.spotify.com/track/4qhPIPQYiVBTac3t0LvnRs) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Deeley](https://open.spotify.com/artist/39ua9laH0TKglA12ltoJrX) | [Blessings](https://open.spotify.com/album/4hqW4hFvE5noV2fOm1hwRy) | 3:58 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 64 | [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 |
 | 65 | [Feels Like](https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Feels Like](https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3) | 3:23 |
 | 66 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
-| 67 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
-| 68 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |
+| 67 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |
+| 68 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
 | 69 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
 | 70 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 |
 

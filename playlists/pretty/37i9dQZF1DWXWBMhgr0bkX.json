@@ -1,6 +1,6 @@
 {
   "description": "Homegrown emerging pop! Cover: Absolutely",
-  "num_followers": 47894,
+  "num_followers": 47907,
   "original_name": "New Pop UK",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 203400,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
+    },
+    {
+      "added_at": "2026-02-20 00:00:13",
+      "album": {
+        "name": "Lights Off",
+        "url": "https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 162412,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J"
     },
     {
       "added_at": "2026-02-20 00:00:13",

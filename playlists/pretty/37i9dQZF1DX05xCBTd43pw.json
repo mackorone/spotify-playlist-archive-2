@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37810,
+  "num_followers": 37808,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -163,7 +163,7 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "On Top (feat. Leduc)",
+        "name": "On Top",
         "url": "https://open.spotify.com/album/30see9nqvZqfVhEVTpwWGX"
       },
       "artists": [
@@ -177,7 +177,7 @@
         }
       ],
       "duration_ms": 177867,
-      "name": "On Top (feat. Leduc)",
+      "name": "On Top",
       "url": "https://open.spotify.com/track/38XCNgkiWtLj0Z6sjTHi8h"
     },
     {
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
       },
       "artists": [
         {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
         }
       ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Happy Here",
+        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Happy Here",
+      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 190000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Happy Here",
-        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Happy Here",
-      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Walk Alone",
-        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 169182,
-      "name": "Walk Alone",
-      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+      "duration_ms": 169182,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Hear Me",
-        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 206102,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+        "name": "Hear Me",
+        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
         }
       ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+      "duration_ms": 206102,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -683,6 +667,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -783,42 +783,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Playgrounds In Ruins (Deluxe)",
-        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 203370,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Million de Mois",
         "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
       },
@@ -855,8 +819,44 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
+        "name": "Playgrounds In Ruins (Deluxe)",
+        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 203370,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 205755,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -939,8 +939,8 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 205755,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Trapped in the Middle",
-        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 138443,
-      "name": "Trapped in the Middle",
-      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Trapped in the Middle",
+        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 138443,
+      "name": "Trapped in the Middle",
+      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "I've Got Everything",
         "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 227413,
       "name": "Good",
       "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
+    },
+    {
+      "added_at": "2026-02-19 23:00:42",
+      "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C"
       },
@@ -1567,34 +1583,18 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
       },
       "artists": [
         {
-          "name": "Malumm\u00ed",
-          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 175253,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
-    },
-    {
-      "added_at": "2026-02-19 23:00:42",
-      "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-02-19 23:00:42",
@@ -1635,34 +1635,34 @@
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2026-02-19 23:00:42",
       "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
+      "duration_ms": 184761,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     }
   ],
   "unique_name": "Swiss Made",

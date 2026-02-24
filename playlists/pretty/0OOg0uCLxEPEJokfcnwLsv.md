@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 743 likes - 74 songs - 4 hr 34 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 747 likes - 76 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 72 | [Bleed For Me](https://open.spotify.com/track/2jDWGSL0HFnqpCJPgL0ySt) | [Fortium](https://open.spotify.com/artist/3QMdvX2IxPYLNQJ83aQVxG) | [Volume 35](https://open.spotify.com/album/0saPmuG7za9RzHACDlwaJR) | 4:26 |
 | 73 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 |
 | 74 | [Obsession](https://open.spotify.com/track/5aaoiX4NB1mm65vh3uBi6N) | [Love N'Dirtt](https://open.spotify.com/artist/3mRYs0sLOI5IOBYiOYMLG6) | [Give It Time](https://open.spotify.com/album/2Ru9L8vtPvvSfcSCcENjRj) | 3:51 |
+| 75 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 |
+| 76 | [When All Else Fails..\. They Take You to War](https://open.spotify.com/track/64TRi6Duj1W24iLoERg6wt) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [When All Else Fails..\. They Take You to War](https://open.spotify.com/album/2BAzDBqvFrluusRqb4AVOI) | 4:00 |
 
-Snapshot ID: `AAAFK06Y7s+M28WCG6731Vn9Spl49FiQ`
+Snapshot ID: `AAAFLRbUCt+MBaop8bdWKQ7uiASTYdxE`

@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41649,
+  "num_followers": 41654,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABwf6COZco8fNQcf7lWNxNK",
+  "snapshot_id": "aZpHAAAAAACcV0si+h8aohyiBYsXlh51",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Es La Raz\u00f3n (Live)",
         "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
     },
     {
       "added_at": null,

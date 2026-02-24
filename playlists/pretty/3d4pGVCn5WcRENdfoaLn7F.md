@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 517 likes - 78 songs - 4 hr 45 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 519 likes - 79 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 76 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 |
 | 77 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 |
 | 78 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
+| 79 | [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 |
 
-Snapshot ID: `AAACx2PGvsmjkxf8TW9pBfuJwAlCrLv+`
+Snapshot ID: `AAACyFBULeVyKM/8Vbh2Q4+NV3+pjIti`

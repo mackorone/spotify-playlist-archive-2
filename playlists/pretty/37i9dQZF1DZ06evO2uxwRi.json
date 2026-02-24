@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43415,
+  "num_followers": 43420,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACeWgLXB2kzJvvfIzB0JY6D",
+  "snapshot_id": "aZpHAAAAAADLoDFqgGkKR5h6QkZSasqT",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Understatement",
-      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Up!",
         "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 163486,
       "name": "Boom Roasted",
       "url": "https://open.spotify.com/track/4w6NzeDqQtJniU3q9lTZJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resurrection: Ascension",
-        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 197225,
-      "name": "Vicious Love (feat. Hayley Williams)",
-      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Up!",
         "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 218975,
       "name": "Laugh It Off",
       "url": "https://open.spotify.com/track/04b0odih4serjGTkd2vjUm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resurrection: Ascension",
+        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Vicious Love (feat. Hayley Williams)",
+      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208970,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Up!",
         "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 199226,
       "name": "The Glory Of Love",
       "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Dressed To Kill",
-      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
     },
     {
       "added_at": null,
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 196027,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"
+      "duration_ms": 218509,
+      "name": "Treat Yourself",
+      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Dressed To Kill",
+      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
     },
     {
       "added_at": null,
@@ -379,6 +379,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 196027,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208475,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -411,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208475,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -455,70 +471,6 @@
       "duration_ms": 189866,
       "name": "Forget My Name",
       "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 237290,
-      "name": "Frankenstein's Monster",
-      "url": "https://open.spotify.com/track/5g9qmyGxS7T7lOLJOHsTPG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treat Yourself",
-        "url": "https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 218509,
-      "name": "Treat Yourself",
-      "url": "https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
     },
     {
       "added_at": null,
@@ -548,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 174040,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
+      "duration_ms": 150480,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
     },
     {
       "added_at": null,
@@ -571,6 +523,70 @@
       "duration_ms": 178823,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "This Disaster",
+      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 110938,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 110938,
-      "name": "Cups",
-      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 220413,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -664,25 +680,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 188253,
-      "name": "This Disaster",
-      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+      "duration_ms": 210093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 217413,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
     },
     {
       "added_at": null,

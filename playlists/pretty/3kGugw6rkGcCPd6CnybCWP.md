@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 71 songs - 4 hr 4 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 69 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 |
 | 70 | [Whatever I Don’t Care](https://open.spotify.com/track/4qZaE4L7g9PHM1WEWKNKdn) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Multiverse of Life](https://open.spotify.com/album/1VdqzcZbvS4d5PP0hw1RSP) | 3:12 |
 | 71 | [Someday](https://open.spotify.com/track/5W9OaBOexdwAaRcgRwnPIG) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Someday](https://open.spotify.com/album/4fGDXODSv9DtjUjnL4rsey) | 2:55 |
+| 72 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 |
+| 73 | [Stolen from the People](https://open.spotify.com/track/0zcvlslcLdMxJ9y9XhVwPZ) | [anisa ao](https://open.spotify.com/artist/6sVoTuFYhlpkmzqJUs7P2L) | [Stolen from the People](https://open.spotify.com/album/5tLbIqQReR6QRnyBx7qCs5) | 2:55 |
+| 74 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 |
+| 75 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 |
 
-Snapshot ID: `AAANaKitToWNyoRqPNRrkflNSMbFgG3T`
+Snapshot ID: `AAANbERvWup8VqTzgxOGeYuprwGr5zlY`

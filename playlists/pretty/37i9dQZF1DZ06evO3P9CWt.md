@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,261 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,254 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
 | 50 | [Prazer, Mamãe Noel](https://open.spotify.com/track/5AirfKJ8zi8Chm3TbMY4i5) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K), [John W](https://open.spotify.com/artist/02gSzFD8g8JrnBwddEGPTc) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 2:54 |
 
-Snapshot ID: `aZj1gAAAAACVt2hsEVBkpFgEMJEslOef`
+Snapshot ID: `aZpHAAAAAACg0R/IVT2nrwGG5+lEI5eo`

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 513804,
+  "num_followers": 513817,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Starfish On the Beach",
-        "url": "https://open.spotify.com/album/2EtaE0dgurVHkdmXGgukLJ"
-      },
-      "artists": [
-        {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Seasons in the Sun (Remastered)",
-      "url": "https://open.spotify.com/track/1qalZDGsppO8FEpohuII6v"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "The Very Best Of - It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/4Wgdypj8BX0HONZv1bkcDz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230680,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/7L90r3lNr4EhK5KOGTpi1b"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Starfish On the Beach",
+        "url": "https://open.spotify.com/album/2EtaE0dgurVHkdmXGgukLJ"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "duration_ms": 206384,
+      "name": "Seasons in the Sun (Remastered)",
+      "url": "https://open.spotify.com/track/1qalZDGsppO8FEpohuII6v"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Even In The Quietest Moments (Remastered)",
-        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Even In The Quietest Moments (Remastered)",
+        "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Starland Vocal Band",
         "url": "https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 193040,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/5Yq58BC5k14EVUJ63cmg8g"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Vanilla Sky (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Vanilla Sky (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Solsbury Hill",
-      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI"
     },
     {
       "added_at": "2024-06-03 14:45:23",

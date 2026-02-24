@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-232 songs - 14 hr 20 min
+233 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-12-03 | 2026-01-05 |
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2026-02-01 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 |  |
+| [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 | 2026-02-23 |  |
 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2025-11-20 | 2025-12-12 |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-11-17 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-24 | 2026-01-21 |

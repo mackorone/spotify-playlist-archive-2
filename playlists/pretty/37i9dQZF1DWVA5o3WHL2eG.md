@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,853 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,849 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
 | 16 | [tristesse](https://open.spotify.com/track/4aT7cdgeefPxRsMHL0prOs) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tatendrang und todmüde](https://open.spotify.com/album/7pwvJVpn3pyRiWp01SKn2e) | 3:00 |
 | 17 | [Immer wenn du gehst](https://open.spotify.com/track/6kvMuGJKY5xczfokFAwmOq) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [ELEMENT](https://open.spotify.com/album/6Q3kvhiztpcSFE2rW6wKVY) | 3:33 |
-| 18 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
-| 19 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
+| 18 | [Kaputt machst](https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kaputt machst](https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL) | 2:29 |
+| 19 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
 | 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
 | 21 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
 | 22 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [Willows](https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Willows](https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM) | 3:37 |
 | 45 | [Falling](https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [Falling](https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V) | 5:27 |
 | 46 | [Mad Machine 2.0](https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Mad Machine 2.0](https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc) | 2:41 |
-| 47 | [Bittersweet](https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Bittersweet](https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk) | 2:52 |
-| 48 | [180](https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [180](https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV) | 1:58 |
+| 47 | [180](https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [180](https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV) | 1:58 |
+| 48 | [Bittersweet](https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Bittersweet](https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk) | 2:52 |
 | 49 | [Fight or Flight](https://open.spotify.com/track/06qlN8ovtAA9sx3RygOK9y) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Fight or Flight](https://open.spotify.com/album/5bSbw1FFAWymjfrGKxhkEH) | 2:54 |
 | 50 | [du und ich](https://open.spotify.com/track/7smsI2SHOCBlRpIjgsrlch) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd) | [Kätzchen & Kettensägen](https://open.spotify.com/album/4UD5zXjtOQnT9ouFy59GFT) | 2:23 |
 

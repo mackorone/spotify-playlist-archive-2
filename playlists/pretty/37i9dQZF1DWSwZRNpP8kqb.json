@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 32435,
+  "num_followers": 32443,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Conviccion",
         "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 204226,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -463,22 +463,34 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Primera Luna",
-        "url": "https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs"
+        "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
+        "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
       "artists": [
         {
-          "name": "Georgina Hassan",
-          "url": "https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ"
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        },
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        },
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        },
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
         }
       ],
-      "duration_ms": 205188,
-      "name": "El C\u00edrculo",
-      "url": "https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X"
+      "duration_ms": 238262,
+      "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
+      "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -515,50 +527,38 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
-        "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
+        "name": "Primera Luna",
+        "url": "https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs"
       },
       "artists": [
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+          "name": "Georgina Hassan",
+          "url": "https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ"
         },
         {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
-        },
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        },
-        {
-          "name": "Nadia Larcher",
-          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
-        },
-        {
-          "name": "Ana Prada",
-          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 238262,
-      "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
-      "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+      "duration_ms": 205188,
+      "name": "El C\u00edrculo",
+      "url": "https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X"
     },
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -583,34 +583,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
       "artists": [
         {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Ojos de Cielo",
-        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -635,6 +619,22 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Ojos de Cielo",
+        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Tu Respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222908,
       "name": "Tu Respuesta",
       "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -807,6 +807,26 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Memoria del Viento",
+        "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
+      },
+      "artists": [
+        {
+          "name": "Victoria Birchner",
+          "url": "https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS"
+        },
+        {
+          "name": "Franco Luciani",
+          "url": "https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Por el R\u00edo Volver\u00e9",
+      "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -847,22 +867,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Memoria del Viento",
-        "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
+        "name": "Pasaje al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
       },
       "artists": [
         {
-          "name": "Victoria Birchner",
-          "url": "https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS"
-        },
-        {
-          "name": "Franco Luciani",
-          "url": "https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy"
+          "name": "Claudia Pir\u00e1n",
+          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
         }
       ],
-      "duration_ms": 243066,
-      "name": "Por el R\u00edo Volver\u00e9",
-      "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
+      "duration_ms": 211040,
+      "name": "Volver\u00e8 Siempre a San Juan",
+      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -899,22 +915,6 @@
       "duration_ms": 131306,
       "name": "Chacarera del Santiague\u00f1o",
       "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Canto de Nadie",
         "url": "https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 190093,
       "name": "Guitarra, D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Tierra, Tan S\u00f3lo",
-        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Tierra, Tan S\u00f3lo",
-      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Tierra, Tan S\u00f3lo",
+        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Tierra, Tan S\u00f3lo",
+      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "No Hacen Falta Alas",
-        "url": "https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ"
-      },
-      "artists": [
-        {
-          "name": "Verde Tr\u00e9bol",
-          "url": "https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Canci\u00f3n Repentina",
-      "url": "https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 170562,
       "name": "Dime",
       "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "No Hacen Falta Alas",
+        "url": "https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ"
+      },
+      "artists": [
+        {
+          "name": "Verde Tr\u00e9bol",
+          "url": "https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Canci\u00f3n Repentina",
+      "url": "https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Zamba del Viento Libre",
-        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
+        "name": "Caminante",
+        "url": "https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0"
       },
       "artists": [
         {
-          "name": "Felicitas Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
-        },
-        {
-          "name": "Sof\u00eda Asc\u00e1rate",
-          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
         }
       ],
-      "duration_ms": 223363,
-      "name": "Zamba del Viento Libre",
-      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
+      "duration_ms": 208856,
+      "name": "Caminante",
+      "url": "https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Caminante",
-        "url": "https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0"
+        "name": "Zamba del Viento Libre",
+        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
       },
       "artists": [
         {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+          "name": "Felicitas Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
+        },
+        {
+          "name": "Sof\u00eda Asc\u00e1rate",
+          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
         }
       ],
-      "duration_ms": 208856,
-      "name": "Caminante",
-      "url": "https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2"
+      "duration_ms": 223363,
+      "name": "Zamba del Viento Libre",
+      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
     },
     {
       "added_at": "2025-08-21 21:06:28",

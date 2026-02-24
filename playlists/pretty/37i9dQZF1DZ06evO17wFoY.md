@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,338 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,339 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 9 | [The Departure](https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 2:31 |
 | 10 | [Consolation No\. 3 in D\-Flat Major, S\. 172](https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:19 |
 | 11 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
-| 12 | [6 Pieces for Piano, Vol\. 2: No\. 4, La Valse d'Amélie](https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tiersen: 6 Pieces for Piano, Vol\. 2: No\. 4, La valse d'Amélie](https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f) | 2:50 |
-| 13 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 |
+| 12 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 |
+| 13 | [6 Pieces for Piano, Vol\. 2: No\. 4, La Valse d'Amélie](https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tiersen: 6 Pieces for Piano, Vol\. 2: No\. 4, La valse d'Amélie](https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f) | 2:50 |
 | 14 | [Für Elise, Bagatelle in A Minor, WoO 59](https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Beethoven: Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx) | 3:23 |
 | 15 | [Kinderszenen, Op\. 15: IV\. Bittendes Kind](https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Memory](https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP) | 0:52 |
 | 16 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Gran Turismo 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 | 50 | [Intermezzo No\. 1 in E Minor](https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang at Royal Albert Hall](https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9) | 2:54 |
 
-Snapshot ID: `aZj1gAAAAADD+Ulp55516mNIaMan0zvU`
+Snapshot ID: `aZpHAAAAAACE5SsLuf3aDWvrunINFUhT`

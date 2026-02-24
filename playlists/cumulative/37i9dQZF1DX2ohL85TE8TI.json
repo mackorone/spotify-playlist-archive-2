@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc740\uc560\ud558\ub294 \ub3c4\uc801\ub2d8\uc544 (To My Beloved Thief)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc6b0\uc8fc\ub97c\uc904\uac8c (OurUniverse)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -5631,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "In Your Radiant Season (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN"
+    },
+    {
+      "album": {
         "name": "Resident Playbook, Pt. 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3QMQGg2xrPJ9FaxLJmfBQL"
       },
@@ -8588,6 +8606,24 @@
       "duration_ms": 238533,
       "name": "In your days",
       "url": "https://open.spotify.com/track/5E24Cqg0gcD2zrgxxgh0sn"
+    },
+    {
+      "album": {
+        "name": "In Your Radiant Season (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1qixn8PethejxusWT4vbRO"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202340,
+      "name": "In Your Spring",
+      "url": "https://open.spotify.com/track/7EFl6oYZT6G1549keApW8s"
     },
     {
       "album": {
@@ -17830,7 +17866,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 236000,
       "name": "The Way You Look at Me",
       "url": "https://open.spotify.com/track/4KygUKoHSyNlI30Mcrt9E8"
@@ -18274,7 +18310,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 186000,
       "name": "Touchdown (The Winning Try : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/1fnwkvrJvI3I8VPoQtS8Z1"
@@ -18404,6 +18440,24 @@
       "duration_ms": 210810,
       "name": "True Color",
       "url": "https://open.spotify.com/track/1EBn3dURVMbwLixhAF1QMr"
+    },
+    {
+      "album": {
+        "name": "No tail to tell, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0I18WwCqRKGFMQLv5YJI62"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "True Love (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2J1yM6Rmw9ud2EJMjMYXYL"
     },
     {
       "album": {
@@ -20232,7 +20286,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 270000,
       "name": "You",
       "url": "https://open.spotify.com/track/56n3vNJ6S9vUJgcFxTnJ8l"

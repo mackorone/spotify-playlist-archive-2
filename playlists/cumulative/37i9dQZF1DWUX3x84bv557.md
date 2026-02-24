@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Roxeanne Hazes
 
-1,228 songs - 2 day 10 hr 42 min
+1,229 songs - 2 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Natte Sokken](https://open.spotify.com/track/0r7OKtASHgUrcN729hlyGG) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Natte Sokken](https://open.spotify.com/album/63SdwuBDCszhla1DrW7pVh) | 2:43 | 2024-02-29 | 2024-03-22 |
 | [Naïef](https://open.spotify.com/track/5p78CX7uVPoy6FOQpRbcyp) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [Naïef](https://open.spotify.com/album/0LrADygADgUIYkEKaDbCon) | 2:18 | 2026-02-12 |  |
 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 | 2025-04-17 | 2025-05-23 |
+| [Neem Me](https://open.spotify.com/track/2a9wO4W7vJHURI1mtBhvcV) | [Sarah Janneh](https://open.spotify.com/artist/7J68xBU9g7G3C46TE5VZdW) | [Neem Me](https://open.spotify.com/album/4Ng9dLdhxDLOfN1P5nUF6P) | 3:24 | 2026-02-23 |  |
 | [Neem Mij](https://open.spotify.com/track/5kTjDBBsp5vqpFNsf1wXSy) | [LÉVI](https://open.spotify.com/artist/55uKaOrWGIKOXbNrKGfvzL) | [Neem Mij](https://open.spotify.com/album/6cGT8wGuB8BN8o2qgla1uI) | 2:30 | 2023-02-23 | 2023-04-07 |
 | [Nergens Heen](https://open.spotify.com/track/5NeAAEPye5GqjZCdoeF1CS) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Ik Wil De Nacht Niet Verlaten](https://open.spotify.com/album/5YYB0y2xdv8wE9MVepgelz) | 2:55 | 2024-10-18 | 2025-01-11 |
 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 | 2024-06-27 | 2024-11-05 |
@@ -1167,7 +1168,7 @@
 | [Wilde Haren](https://open.spotify.com/track/43dR27JJXlHXChYAn1GzCU) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Wilde Haren](https://open.spotify.com/album/1dr8RpVNjeWCoHOl7Ht7G4) | 3:36 | 2025-11-27 |  |
 | [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 | 2024-05-16 | 2024-10-19 |
 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 | 2025-06-19 | 2025-07-18 |
-| [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 | 2025-11-18 |  |
+| [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 | 2025-11-18 | 2026-02-24 |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-09-12 | 2024-10-11 |
 | [Wolken](https://open.spotify.com/track/2OmLONCXv8o6QEgmzcAmBa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Wolken](https://open.spotify.com/album/2AmTE3OZBOAS1EiihK6wzG) | 2:20 | 2025-11-06 | 2026-02-20 |
 | [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 | 2025-01-16 | 2025-03-28 |

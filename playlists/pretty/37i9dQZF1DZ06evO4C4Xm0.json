@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 47435,
+  "num_followers": 47439,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABYILVc1KIBv1hMgflsFndc",
+  "snapshot_id": "aZpHAAAAAAC03tmzKraZUs4YgqkXD3bG",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+      "duration_ms": 1041520,
+      "name": "1/1 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5"
     },
     {
       "added_at": null,
@@ -195,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 1041520,
-      "name": "1/1 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -224,9 +204,25 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Above Chiangmai - Remastered 2004",
-      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
+      "duration_ms": 253893,
+      "name": "The Plateaux Of Mirror - Remastered 2004",
+      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 578466,
+      "name": "2/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
     },
     {
       "added_at": null,
@@ -267,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 578466,
-      "name": "2/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -296,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 389133,
-      "name": "An Arc Of Doves - Remastered 2004",
-      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+      "duration_ms": 175746,
+      "name": "Above Chiangmai - Remastered 2004",
+      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
     },
     {
       "added_at": null,
@@ -315,22 +295,6 @@
       "duration_ms": 181933,
       "name": "The Big Ship - 2004 Remaster",
       "url": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Deep Blue Day - Remastered 2005",
-      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
     },
     {
       "added_at": null,
@@ -355,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Deep Blue Day - Remastered 2005",
+      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -368,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
       "added_at": null,
@@ -411,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
+      "duration_ms": 163887,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
     },
     {
       "added_at": null,
@@ -444,29 +424,29 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Not Yet Remembered - Remastered 2004",
-      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 173933,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
     },
     {
       "added_at": null,
@@ -491,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 270280,
-      "name": "Under Stars - 2005 Mix",
-      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
+      "duration_ms": 244676,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
     },
     {
       "added_at": null,
@@ -520,9 +504,41 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 133706,
-      "name": "The Chill Air - Remastered 2004",
-      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 270280,
+      "name": "Under Stars - 2005 Mix",
+      "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 727080,
+      "name": "1/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
     },
     {
       "added_at": null,
@@ -547,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
       "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -612,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 163887,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -688,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
+      "duration_ms": 265962,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
       "duration_ms": 200783,
       "name": "Procession",
       "url": "https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 265962,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
     }
   ],
   "unique_name": "This Is Brian Eno",

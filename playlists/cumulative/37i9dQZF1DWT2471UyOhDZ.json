@@ -677,6 +677,28 @@
     },
     {
       "album": {
+        "name": "Begging for Change",
+        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260550,
+      "name": "Begging for Change",
+      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
+    },
+    {
+      "album": {
         "name": "Bell",
         "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
       },
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 293259,
       "name": "Dashboard Mary",
       "url": "https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ"
@@ -2242,7 +2264,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 258826,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
@@ -2336,6 +2358,24 @@
       "duration_ms": 274229,
       "name": "Fanzine Made Of Flesh",
       "url": "https://open.spotify.com/track/46nJ1hdWZQwdf2S8V8J9oP"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
     },
     {
       "album": {
@@ -3844,6 +3884,28 @@
       "duration_ms": 227763,
       "name": "Lean Into The Wind",
       "url": "https://open.spotify.com/track/7khl86Ck9I8TD0Kj3PnfKB"
+    },
+    {
+      "album": {
+        "name": "Let's Do It Again!",
+        "url": "https://open.spotify.com/album/5pZ5WWoM7SbZhxMKPKPSce"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271095,
+      "name": "Let's Do It Again!",
+      "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
     },
     {
       "album": {
@@ -6392,7 +6454,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 323960,
       "name": "The Jamie Oliver Petrol Station",
       "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
@@ -6688,7 +6750,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 295677,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI"
@@ -7352,6 +7414,24 @@
       "duration_ms": 158739,
       "name": "Whatcha Mean",
       "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "album": {

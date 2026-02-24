@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 723721,
+  "num_followers": 724026,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
         }
       ],
-      "duration_ms": 203357,
-      "name": "Perlas Negras",
-      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+      "duration_ms": 280250,
+      "name": "Tus Mentiras (En Vivo)",
+      "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -339,6 +335,26 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Perlas Negras",
+      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
         "name": "Netflix and Chill",
         "url": "https://open.spotify.com/album/6vVSLf4DTywrY9r8dtgnEc"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 224571,
       "name": "Netflix and Chill",
       "url": "https://open.spotify.com/track/2l5EWb5ThVJGWltu7R3uAs"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
-        "name": "Arriba La Moyombiza (En Vivo)",
-        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        }
-      ],
-      "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
-      "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
         "name": "La Pantera",
         "url": "https://open.spotify.com/album/0AXPYYhLk3997LVKYTreIT"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 223538,
       "name": "La Pantera",
       "url": "https://open.spotify.com/track/0TOQQZVCZdMFMxzHT6WEtD"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
         "name": "Mi Cuernito",
         "url": "https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 175333,
       "name": "Mi Cuernito",
       "url": "https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
         "name": "Bonnie & Clyde (Sin enamorarse)",
         "url": "https://open.spotify.com/album/1jSUMmZw8PsXg989FmYbaL"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 168000,
       "name": "Bonnie & Clyde (Sin enamorarse)",
       "url": "https://open.spotify.com/track/0sRoQ9DZ7bLehsDYtkRiKM"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "BLANCA ROSITA Y MARIA",
-      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
         "name": "Lo Que Hay X Aqu\u00ed",
         "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "BLANCA ROSITA Y MARIA",
+      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "OTRO DESMADRE",
-        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 182061,
-      "name": "OTRO DESMADRE",
-      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "added_at": "2026-01-21 20:36:13",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-01-21 20:36:13",
       "album": {
-        "name": "Rigo Campos",
-        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 227275,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
-    },
-    {
-      "added_at": "2026-01-21 20:36:13",
-      "album": {
         "name": "El R2",
         "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 152351,
       "name": "EL R2",
       "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
+    },
+    {
+      "added_at": "2026-01-21 20:36:13",
+      "album": {
+        "name": "Rigo Campos",
+        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 227275,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
     },
     {
       "added_at": "2026-01-21 20:36:13",

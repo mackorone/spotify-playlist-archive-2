@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111275,
+  "num_followers": 111272,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -408,6 +408,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "Movement - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
@@ -423,22 +439,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "Movement - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
     },
     {
       "added_at": "2025-01-27 20:00:12",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
-      },
-      "artists": [
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 170342,
-      "name": "00000 Million - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "RBF: Part 1 - Spotify Singles",
         "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 136706,
       "name": "RBF: Part 1 - Spotify Singles",
       "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 170342,
+      "name": "00000 Million - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1244,22 +1244,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
       },
       "artists": [
@@ -1271,6 +1255,22 @@
       "duration_ms": 188196,
       "name": "My Backwards Walk - Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1812,22 +1812,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Fire Escape - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
@@ -1855,6 +1839,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "Fire Escape - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
     },
     {
       "added_at": "2023-01-11 22:54:33",

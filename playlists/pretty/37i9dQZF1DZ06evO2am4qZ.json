@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5108,
+  "num_followers": 5110,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADzbjs/1W/MS2apqwkN3xI9",
+  "snapshot_id": "aZpHAAAAAABd8kTr115wHivxLCHUOve8",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172248,
+      "name": "Sl*t Him Out",
+      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arcane League of Legends (The Remixes)",
         "url": "https://open.spotify.com/album/3RUU7n2qtrKKDyjBnLXKkX"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 151846,
       "name": "Playground (from the series Arcane League of Legends) (Baby Tate Remix)",
       "url": "https://open.spotify.com/track/24hmRlHbOk8vmvMBTVJbc6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Sl*t Him Out",
-      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 262178,
       "name": "A Ballad for Homegirls (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
     },
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
       "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 250774,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+      "duration_ms": 192057,
+      "name": "Don\u2019t Even Think About It (with Baby Tate)",
+      "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
     },
     {
       "added_at": null,
@@ -903,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192057,
-      "name": "Don\u2019t Even Think About It (with Baby Tate)",
-      "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
       },
@@ -939,28 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
-      },
-      "artists": [
-        {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
       "artists": [
         {
@@ -968,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 178344,
-      "name": "Face The World",
-      "url": "https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV"
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     },
     {
       "added_at": null,
@@ -995,6 +959,42 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Dirty Girl (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
     }
   ],
   "unique_name": "This Is Baby Tate",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2071500,
+  "num_followers": 2071551,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAABVQY6AzzLHSpaxQ3UKGowF",
+  "snapshot_id": "aZpHAAAAAABhdIiDROP1Aqln6RUXXP8m",
   "tracks": [
     {
       "added_at": null,
@@ -480,7 +480,7 @@
       "added_at": null,
       "album": {
         "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
+      "duration_ms": 191866,
+      "name": "Crazy Baldhead",
+      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Crazy Baldhead",
-      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
     },
     {
       "added_at": null,
@@ -600,15 +600,15 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 145773,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
+      "duration_ms": 213866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
     },
     {
       "added_at": null,
       "album": {
         "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
+      "duration_ms": 145773,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Karnivool
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,087 likes - 150 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,127 likes - 150 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,19 +144,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 134 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 |
 | 135 | [Wallflower](https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Wallflower](https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj) | 4:17 |
 | 136 | [Fate of Man](https://open.spotify.com/track/2MGmRnEMvhnmXOwXZow44X) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel In Time](https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW) | 5:29 |
-| 137 | [Paradise](https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2) | [Above, Below](https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx) | [The Sowers of Discord](https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR) | 3:15 |
-| 138 | [Fend You Off](https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Fend You Off](https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV) | 3:51 |
+| 137 | [Fend You Off](https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Fend You Off](https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV) | 3:51 |
+| 138 | [Paradise](https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2) | [Above, Below](https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx) | [The Sowers of Discord](https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR) | 3:15 |
 | 139 | [Eden \- P O R T A L S](https://open.spotify.com/track/62duewknNqt9fZhBoYAanE) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [PORTALS](https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd) | 6:33 |
 | 140 | [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 |
 | 141 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 |
-| 142 | [Nightingale](https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Nightingale](https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2) | 7:23 |
-| 143 | [Vermin](https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [DAMNUM](https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI) | 5:10 |
+| 142 | [Vermin](https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [DAMNUM](https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI) | 5:10 |
+| 143 | [Nightingale](https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Nightingale](https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2) | 7:23 |
 | 144 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:03 |
 | 145 | [Legion](https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Legion](https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW) | 6:00 |
 | 146 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
 | 147 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 |
 | 148 | [Presence](https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH) | [Rendezvous Point](https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp) | [Dream Chaser](https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE) | 4:40 |
-| 149 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 |
-| 150 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 |
+| 149 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 |
+| 150 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 |
 
 Snapshot ID: `AAAAALNa7fyZ+N2MZBF+p3Ut6w2VhBBY`

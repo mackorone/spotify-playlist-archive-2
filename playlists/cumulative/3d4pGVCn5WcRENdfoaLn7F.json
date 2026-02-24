@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229833,
+      "name": "Dark Echoes",
+      "url": "https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw"
       },

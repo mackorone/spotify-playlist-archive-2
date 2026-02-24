@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(15/02/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(22/02/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-236 songs - 11 hr 52 min
+238 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-02-09 | 2025-06-26 |
 | [El club de la sisena hora](https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [El club de la sisena hora](https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V) | 2:26 | 2024-11-03 | 2025-02-03 |
 | [Els teus ulls](https://open.spotify.com/track/6cPe7rorhofISE335CqPmH) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Els teus ulls](https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq) | 2:31 | 2023-11-05 | 2024-08-19 |
+| [Els ulls que et mirin](https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Els ulls que et mirin](https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn) | 2:42 | 2026-02-23 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-21 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-22 | 2025-12-19 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 | 2025-01-20 |
@@ -103,6 +104,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-21 | 2025-01-07 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-02-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-28 | 2024-12-09 |
+| [Iconic](https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Iconic](https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3) | 2:58 | 2026-02-23 |  |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-11-05 | 2024-03-18 |
 | [JA DORMIRÉ](https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [TOT ESTÀ PER FER](https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ) | 2:39 | 2024-07-07 | 2025-01-27 |
 | [Ja no ens passa](https://open.spotify.com/track/4OTUD7qAlfKHolSsYdZfWX) | [Els Amics De Les Arts](https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Ja no ens passa](https://open.spotify.com/album/5t5zZ4niT7dOoWGDU8Iwx1) | 3:22 | 2025-05-05 | 2025-07-15 |
@@ -159,7 +161,7 @@
 | [Octubre del 24](https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Octubre del 24](https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK) | 3:10 | 2024-09-08 | 2025-03-10 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-09-08 | 2025-03-18 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-10-20 | 2025-03-10 |
-| [On t'has ficat aquesta nit?](https://open.spotify.com/track/07STk0CsYrCkhYalbL0bVG) | [La Ludwig Band](https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5) | [On t'has ficat aquesta nit?](https://open.spotify.com/album/0CRI1sYFgajuz1EOh1tMui) | 3:18 | 2025-11-17 |  |
+| [On t'has ficat aquesta nit?](https://open.spotify.com/track/07STk0CsYrCkhYalbL0bVG) | [La Ludwig Band](https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5) | [On t'has ficat aquesta nit?](https://open.spotify.com/album/0CRI1sYFgajuz1EOh1tMui) | 3:18 | 2025-11-17 | 2026-02-24 |
 | [on volíem estar](https://open.spotify.com/track/5BsGayJf3faiOKs3iSDJTh) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz) | [on volíem estar](https://open.spotify.com/album/5pPuIySbI0Y28w6flcMupf) | 2:05 | 2025-10-15 | 2026-01-27 |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2026-02-02 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-15 |  |
@@ -202,7 +204,7 @@
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb) | 3:13 | 2025-10-15 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-10-20 | 2025-06-11 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-29 |  |
-| [Televisió](https://open.spotify.com/track/0QoTXLMDRC9Jo8WE4iu6Ea) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Televisió](https://open.spotify.com/album/2p9OqTuubpUHcJF0btvKYJ) | 3:01 | 2025-11-17 |  |
+| [Televisió](https://open.spotify.com/track/0QoTXLMDRC9Jo8WE4iu6Ea) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Televisió](https://open.spotify.com/album/2p9OqTuubpUHcJF0btvKYJ) | 3:01 | 2025-11-17 | 2026-02-24 |
 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 | 2023-11-19 | 2024-07-08 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-03 | 2024-11-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-01 | 2025-10-28 |

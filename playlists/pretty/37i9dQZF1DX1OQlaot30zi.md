@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Enny P,  Salmo, Kuremino, Low\-Red con Yung Snapp, Macello con Scaccia e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,939 likes - 139 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,937 likes - 139 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

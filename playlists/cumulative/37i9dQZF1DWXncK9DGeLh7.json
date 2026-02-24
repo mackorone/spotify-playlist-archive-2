@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+    },
+    {
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"

@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "i just want this to end",
+        "url": "https://open.spotify.com/album/2l6BzRJmIdQKNaAFgPmMOA"
+      },
+      "artists": [
+        {
+          "name": "by your side",
+          "url": "https://open.spotify.com/artist/7EmjLkTFoHuukMT96bxgEd"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226384,
+      "name": "i just want this to end",
+      "url": "https://open.spotify.com/track/4lScsksBsH8BaTUf7zLjlV"
+    },
+    {
+      "album": {
         "name": "caf\u00e9 LIFE",
         "url": "https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck"
       },

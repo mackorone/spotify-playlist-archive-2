@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b satomoka",
-  "num_followers": 135171,
+  "num_followers": 135166,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "\u541b\u306f",
+        "url": "https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn"
+      },
+      "artists": [
+        {
+          "name": "Ms.OOJA",
+          "url": "https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "\u541b\u306f",
+      "url": "https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u541b\u306f",
-        "url": "https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn"
+        "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
+        "url": "https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz"
       },
       "artists": [
         {
-          "name": "Ms.OOJA",
-          "url": "https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp"
+          "name": "\u91d1\u5b50\u307f\u3086",
+          "url": "https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1"
         }
       ],
-      "duration_ms": 215000,
-      "name": "\u541b\u306f",
-      "url": "https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px"
+      "duration_ms": 192075,
+      "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
+      "url": "https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1215,22 +1231,6 @@
       "duration_ms": 254000,
       "name": "\u6a2a\u9854",
       "url": "https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
-        "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
-        "url": "https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz"
-      },
-      "artists": [
-        {
-          "name": "\u91d1\u5b50\u307f\u3086",
-          "url": "https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
-      "url": "https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 245000,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 365440,
+      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
+        "name": "24-5",
+        "url": "https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF"
+      },
+      "artists": [
+        {
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "24-5",
+      "url": "https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
         "name": "\u831c",
         "url": "https://open.spotify.com/album/2lg4bUFknY4meCZT5fUCi1"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-02-17 15:46:26",
       "album": {
-        "name": "24-5",
-        "url": "https://open.spotify.com/album/0FKOHUhilr4YnG0jgPZ8nF"
-      },
-      "artists": [
-        {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
-        }
-      ],
-      "duration_ms": 191378,
-      "name": "24-5",
-      "url": "https://open.spotify.com/track/2ijd8TxIejDlpzdJLGWSxt"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
         "name": "MINE",
         "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 149760,
       "name": "MINE",
       "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
+    },
+    {
+      "added_at": "2026-02-17 15:46:26",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/43id92AWG0RNyYkq1MMz9b"
+      },
+      "artists": [
+        {
+          "name": "HIKKA",
+          "url": "https://open.spotify.com/artist/6ey4UYJdPAQGeJbkhm5hsv"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/20GfBEQXvEKtVZZSMtXmvw"
     },
     {
       "added_at": "2026-02-17 15:46:26",
@@ -1547,22 +1563,6 @@
       "duration_ms": 200773,
       "name": "BEGINNING",
       "url": "https://open.spotify.com/track/728P2HhBu2Z9k2kCCI8QQE"
-    },
-    {
-      "added_at": "2026-02-17 15:46:26",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/43id92AWG0RNyYkq1MMz9b"
-      },
-      "artists": [
-        {
-          "name": "HIKKA",
-          "url": "https://open.spotify.com/artist/6ey4UYJdPAQGeJbkhm5hsv"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/20GfBEQXvEKtVZZSMtXmvw"
     },
     {
       "added_at": "2026-02-17 15:46:26",

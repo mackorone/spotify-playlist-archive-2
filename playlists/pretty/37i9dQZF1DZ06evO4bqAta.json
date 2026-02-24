@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 588332,
+  "num_followers": 588345,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACO7zwL8RURyzZjzRbcquwK",
+  "snapshot_id": "aZpHAAAAAAAlIH4jCtRT81QhREGT+chY",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 191683,
-      "name": "The Man in Me",
-      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+      "duration_ms": 326706,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 326706,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+      "duration_ms": 191683,
+      "name": "The Man in Me",
+      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
       "duration_ms": 340775,
       "name": "Tangled up in Blue",
       "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 253331,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
     },
     {
       "added_at": null,
@@ -223,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 253331,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 300862,
       "name": "Shelter from the Storm",
       "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 139536,
+      "name": "Subterranean Homesick Blues",
+      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
       "duration_ms": 165318,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 139536,
-      "name": "Subterranean Homesick Blues",
-      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Side Tracks",
-        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 307800,
-      "name": "Things Have Changed - Single Version",
-      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 162436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
     },
     {
       "added_at": null,

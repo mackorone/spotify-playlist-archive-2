@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248571,
+  "num_followers": 248601,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACBsINR3zRaDFhgufWUylfn",
+  "snapshot_id": "aZpHAAAAAABZNaqSVLrjZPiwLoJFvhz+",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Terra promessa - Remastered 2021",
-      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 309191,
       "name": "L'aurora (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Terra promessa - Remastered 2021",
+      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Quanto amore sei",
-      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 207413,
       "name": "Mi d\u00eda preferido",
       "url": "https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Stella gemella",
+      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 198320,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dove c'\u00e8 musica",
-        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Stella gemella",
-      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Y Raices",
-        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "Dimelo a Mi",
-      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 239253,
       "name": "Adesso tu",
       "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alas Y Raices",
+        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Dimelo a Mi",
+      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
     },
     {
       "added_at": null,

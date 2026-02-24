@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4100357,
+  "num_followers": 4100591,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAD9ZhvOI1sirJHsES+eCj2x",
+  "snapshot_id": "aZpHAAAAAAA2ThNQ4Dm0oS6OutA2bdkd",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 281320,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 281320,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
       },
@@ -690,15 +690,11 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 244679,
-      "name": "Lucky You (feat. Joyner Lucas)",
-      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+      "duration_ms": 269554,
+      "name": "Venom - Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
     },
     {
       "added_at": null,
@@ -774,11 +770,15 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 269554,
-      "name": "Venom - Music From The Motion Picture",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
+      "duration_ms": 244679,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
     },
     {
       "added_at": null,

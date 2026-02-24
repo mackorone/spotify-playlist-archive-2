@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252062,
+  "num_followers": 252061,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,18 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -203,18 +199,22 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
         }
       ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+    },
+    {
+      "added_at": "2026-01-23 15:33:14",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
-    },
-    {
-      "added_at": "2026-01-23 15:33:14",
-      "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2026-01-23 15:33:14",

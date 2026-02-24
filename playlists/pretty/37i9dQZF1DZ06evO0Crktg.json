@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 333373,
+  "num_followers": 333425,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADID3GcDqj8Y11nfxBNaA3E",
+  "snapshot_id": "aZpHAAAAAAB4DSC9Ay5Nv5xsZTyKB0me",
   "tracks": [
     {
       "added_at": null,
@@ -847,42 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Cry",
-        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Devil Go Away (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 163103,
-      "name": "Hate Goes On",
-      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
         "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
       },
@@ -903,6 +867,42 @@
       "duration_ms": 322492,
       "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
       "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 163103,
+      "name": "Hate Goes On",
+      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Devil Go Away (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
     },
     {
       "added_at": null,

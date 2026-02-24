@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303067,
+  "num_followers": 303084,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "Espresso (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184617,
-      "name": "Espresso - triple j Like A Version",
-      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Our Generation - Spotify Singles",
         "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 162641,
       "name": "The Perfect Pair - Spotify Singles",
       "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "Espresso (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184617,
+      "name": "Espresso - triple j Like A Version",
+      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Put Your Head On My Shoulder",
         "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 149637,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
         "name": "Horror Show",
         "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
-      },
-      "artists": [
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 206995,
       "name": "Strange Overtones",
       "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
         "name": "Charm You (Blondshell Version)",
         "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Tonight, Tonight",
         "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 261088,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 193927,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 275686,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "added_at": "2025-12-09 19:23:48",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-12-09 19:23:48",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2025-12-09 19:23:48",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 188240,
       "name": "Thank You for Sending Me an Angel",
       "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
+    },
+    {
+      "added_at": "2025-12-09 19:23:48",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2025-12-09 19:23:48",

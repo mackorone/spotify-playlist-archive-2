@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1277,
+  "num_followers": 1276,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQwGpJOYQWH7WkAAO7UFIzWzMxjTdH",
+  "snapshot_id": "AAAQw/q3s+3WN+mAHZsmFEmUXo0kcD0+",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -55,6 +55,22 @@
       "duration_ms": 354285,
       "name": "Tut mir leid",
       "url": "https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q"
+    },
+    {
+      "added_at": "2026-02-23 10:54:36",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3"
+      },
+      "artists": [
+        {
+          "name": "Quilted Snowflake",
+          "url": "https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "White Lion Phone Call",
+      "url": "https://open.spotify.com/track/5dR2BQ8mpRFfxYJ0Rr1Sf5"
     },
     {
       "added_at": "2026-02-12 17:21:04",
@@ -2591,6 +2607,38 @@
       "duration_ms": 256966,
       "name": "Hi, Mr. President - Rock Version",
       "url": "https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin"
+    },
+    {
+      "added_at": "2026-02-23 10:37:58",
+      "album": {
+        "name": "Odd Creations",
+        "url": "https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx"
+      },
+      "artists": [
+        {
+          "name": "Miss Marielle",
+          "url": "https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx"
+        }
+      ],
+      "duration_ms": 142262,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W"
+    },
+    {
+      "added_at": "2026-02-23 16:42:28",
+      "album": {
+        "name": "Del Uno al Diez",
+        "url": "https://open.spotify.com/album/008hskOXrpcZJnR28Qwizk"
+      },
+      "artists": [
+        {
+          "name": "Dafne Usorach",
+          "url": "https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Del Uno al Diez",
+      "url": "https://open.spotify.com/track/4iG7xg9J2N99rtW4pkkz4p"
     }
   ],
   "unique_name": "New Indie Music",

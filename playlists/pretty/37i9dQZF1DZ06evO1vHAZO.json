@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6402,
+  "num_followers": 6405,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAB/mlsyywvOXBX2+9yQ81Ec",
+  "snapshot_id": "aZpHAAAAAAC6HbASc2WLy9sPAoe7i/oP",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
@@ -85,8 +85,8 @@
         }
       ],
       "duration_ms": 289560,
-      "name": "Don't Look Back in Anger - Remastered",
-      "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": null,
@@ -631,38 +631,6 @@
       "duration_ms": 368253,
       "name": "Gas Panic!",
       "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "Force Of Nature",
-      "url": "https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Turn Up The Sun",
-      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
     },
     {
       "added_at": null,

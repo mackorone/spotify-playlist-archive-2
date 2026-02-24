@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106883,
+  "num_followers": 106894,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACd57y8c4V9rgOm0xGv51QN",
+  "snapshot_id": "aZpHAAAAAAAIKp8g4IUgCm+ZoM7wCem9",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnaval De Exitos",
-        "url": "https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Que Le Den Candela",
-      "url": "https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Es Un Carnaval (Baile Total)",
         "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 187240,
       "name": "Az\u00facar Negra",
       "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carnaval De Exitos",
+        "url": "https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK"
     },
     {
       "added_at": null,
@@ -463,46 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 243201,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 342264,
-      "name": "Toro Mata - Remastered 2024",
-      "url": "https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Celia",
         "url": "https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s"
       },
@@ -547,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 243201,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
+      "duration_ms": 342264,
+      "name": "Toro Mata - Remastered 2024",
+      "url": "https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX"
     },
     {
       "added_at": null,
@@ -599,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 229373,
-      "name": "C\u00facala",
-      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Premiadas De Celia Cruz",
         "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucho Love",
-        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Plazos Traicioneros",
-      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 347666,
       "name": "Por Si Acaso No Regreso",
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mucho Love",
+        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Tuya, Y M\u00e1s Que Tuya",
-      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Pa La Paloma",
-      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+      "duration_ms": 163666,
+      "name": "Tuya, Y M\u00e1s Que Tuya",
+      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
     },
     {
       "added_at": null,

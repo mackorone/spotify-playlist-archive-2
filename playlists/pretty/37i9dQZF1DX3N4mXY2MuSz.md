@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,484 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,470 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 2 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
 | 3 | [Christmas Canon](https://open.spotify.com/track/0O4vuJynWVVdyvoHvZtnk3) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Christmas Attic](https://open.spotify.com/album/6DsIXONf5oi48VDiCVG1bu) | 4:17 |
 | 4 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 |
-| 5 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/5b3JH0PESwZeVr5TdUtHgy) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: Regifted](https://open.spotify.com/album/3mCaKiRTEdj52pxEbvh42A) | 3:44 |
-| 6 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
+| 5 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
+| 6 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/5b3JH0PESwZeVr5TdUtHgy) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: Regifted](https://open.spotify.com/album/3mCaKiRTEdj52pxEbvh42A) | 3:44 |
 | 7 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
 | 8 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
 | 9 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 25 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 26 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 27 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
-| 28 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
-| 29 | [Christmas Day](https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 2:57 |
+| 28 | [Christmas Day](https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 2:57 |
+| 29 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
 | 30 | [Santa Tell Me](https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Santa Tell Me](https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8) | 3:23 |
 | 31 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
 | 32 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |

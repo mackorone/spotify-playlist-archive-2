@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "I'm Not My Brain (Smooth Jazz Version)",
+        "url": "https://open.spotify.com/album/2GrDB4ACxBI2Zfj3MUXOYE"
+      },
+      "artists": [
+        {
+          "name": "Dario Margeli",
+          "url": "https://open.spotify.com/artist/7mxNhEknpLj1TyWByXLrlt"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269166,
+      "name": "I'm Not My Brain - Smooth Jazz Version",
+      "url": "https://open.spotify.com/track/4dok81glpUJ6CmL7q6jrhk"
+    },
+    {
+      "album": {
         "name": "If I'm James Dean, You're Audrey Hepburn",
         "url": "https://open.spotify.com/album/5qMRcGq5Mi2sRpnS2QZMH3"
       },

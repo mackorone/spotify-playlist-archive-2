@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-242 songs - 14 hr 6 min
+243 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I am I am what](https://open.spotify.com/track/5ExwUqRjRiILMt1eDAhH12) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [I am I am what](https://open.spotify.com/album/0oIJ7qcEcrivPVkgyd27PT) | 2:17 | 2025-04-03 | 2025-05-16 |
 | [I Believe In Love](https://open.spotify.com/track/0fecUhqxUBAXwDoeBD596a) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Blurb](https://open.spotify.com/album/2nkpUN7muFl2Me3gBnjJRt) | 2:43 | 2025-03-13 | 2025-08-09 |
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-11-01 |
+| [i just want this to end](https://open.spotify.com/track/4lScsksBsH8BaTUf7zLjlV) | [by your side](https://open.spotify.com/artist/7EmjLkTFoHuukMT96bxgEd) | [i just want this to end](https://open.spotify.com/album/2l6BzRJmIdQKNaAFgPmMOA) | 3:46 | 2026-02-23 |  |
 | [I'm Only Boggin'](https://open.spotify.com/track/5yqFZvV4aUF6rMHhlcDcGG) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 1:27 | 2025-03-13 | 2025-08-09 |
 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 | 2025-04-03 | 2025-10-18 |
 | [I'm The One You Want](https://open.spotify.com/track/6YvgiwtIGxDgIRgp4n3FpB) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [Ultra Villain](https://open.spotify.com/album/7vz5dW5cPZeyp9L27A76tf) | 2:49 | 2026-02-19 |  |

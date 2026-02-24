@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,891 songs - 4 day 17 hr 17 min
+1,893 songs - 4 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Apart](https://open.spotify.com/track/6zonPJLi2krblCRcek49JY) | [Pangolin echo](https://open.spotify.com/artist/7xpv243aUb86P3EyjgkozS) | [Apart](https://open.spotify.com/album/5sOhuVoHp8MaxD0gTzINbE) | 4:48 | 2026-02-04 |  |
 | [Apnea](https://open.spotify.com/track/1sT98Sbal2QFeCGqlwtcYP) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Apnea](https://open.spotify.com/album/5YGNXqexHVhrsW3oj0ZhdK) | 2:57 | 2025-04-10 |  |
 | [Apri Gli Occhi Apri La Mente](https://open.spotify.com/track/7pGkj0cqZbHriWv7hnofGx) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Apri Gli Occhi Apri La Mente](https://open.spotify.com/album/3VvlRJNBfmPX0TgzQTuzd0) | 3:34 | 2024-12-18 |  |
+| [Aquariana \- Acoustic](https://open.spotify.com/track/4wUyQVIIx8Hhn64Eznn8jc) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Aquariana \(Acoustic\)](https://open.spotify.com/album/2UN5i8OhabZ5xJYncO71j2) | 3:35 | 2026-02-23 |  |
 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 | 2025-05-13 |  |
 | [Arab Prayer \(Live\)](https://open.spotify.com/track/47ZJkx1g763nFOkim7EZkB) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 4:05 | 2024-04-29 |  |
 | [Arabian Trip](https://open.spotify.com/track/18aomlRrdOJ964sOImmjEs) | [Andrea Braido](https://open.spotify.com/artist/365VUn5kWBvcGvGafj0CRZ) | [Tales](https://open.spotify.com/album/2VgiyEYRTMJkjWVkRUNiUG) | 4:44 | 2024-04-20 |  |
@@ -1246,6 +1247,7 @@
 | [PER SEMPRE DENTRO ME](https://open.spotify.com/track/6zfKkbBZ1YJEvXnSA53f3p) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [PER SEMPRE DENTRO ME](https://open.spotify.com/album/0v4QFtsY1j2w1fxctUCEpl) | 3:27 | 2024-06-13 |  |
 | [PerDono](https://open.spotify.com/track/56laDV4hhbukUBpKwvzydh) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [PerDono](https://open.spotify.com/album/08iiCGNE1ZOLfe4MHsCGDl) | 3:11 | 2024-10-11 |  |
 | [Perfect Type \(Mastered\)](https://open.spotify.com/track/30qXFVyiASqCUoZPgrrVuB) | [Edrei Sayo](https://open.spotify.com/artist/5B8s0zI7iAalTjn8eDFbTG) | [Perfect Type \(Mastered\)](https://open.spotify.com/album/1DQ4x6PoxD7B1DjuEHLYqn) | 2:52 | 2025-07-26 |  |
+| [PERMANECEREI](https://open.spotify.com/track/0IKBvGNQBQZyYRFMnjdbtc) | [THOMÉ TRSH](https://open.spotify.com/artist/4WUHMC7ygoxYZgIrhZyrsl) | [QUANTOS PASSOS ATÉ AQUI?](https://open.spotify.com/album/5mLf0aYzCGXPAT0qdQdN43) | 2:58 | 2026-02-23 |  |
 | [Perso Tempo](https://open.spotify.com/track/6z1fpAVA10Y24CVDAYW4qf) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Perso Tempo](https://open.spotify.com/album/7ExAkFl05e3oRGGlEUwbFV) | 2:52 | 2024-06-24 |  |
 | [PEÓN](https://open.spotify.com/track/2TKpXnTuIxyWwnGBDaEYmy) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PEÓN](https://open.spotify.com/album/4kCRGa0XErch7GzjcgCc8q) | 4:07 | 2025-11-13 |  |
 | [PhonkFather](https://open.spotify.com/track/0Nirkqm0gZNueU1VmnZLUO) | [Yagharock](https://open.spotify.com/artist/3n3mQVD5YJmRUavyjIwStb) | [PhonkFather](https://open.spotify.com/album/3p64WAi3an4Vf36qPbsj7Z) | 2:31 | 2025-11-05 |  |

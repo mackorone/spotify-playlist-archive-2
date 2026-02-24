@@ -6,8 +6,60 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARa7/5BbwiwQYJhiRZujRO1Y2hxWKG",
+  "snapshot_id": "AAARbozMbAjw5CcQ/cC2zYYa1N4Wz2wI",
   "tracks": [
+    {
+      "added_at": "2026-02-23 19:07:45",
+      "album": {
+        "name": "Neon Renaissance",
+        "url": "https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 123899,
+      "name": "Venus on Vinyl",
+      "url": "https://open.spotify.com/track/20FvR7RRJvPf5blpoK4Q15"
+    },
+    {
+      "added_at": "2026-02-23 17:24:28",
+      "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Crownless King",
+      "url": "https://open.spotify.com/track/3zTaEwpk8YhtsTXFanX6tQ"
+    },
+    {
+      "added_at": "2026-02-23 14:30:23",
+      "album": {
+        "name": "Terrace Express",
+        "url": "https://open.spotify.com/album/3oqrimZKe9RS07nxEfPVqF"
+      },
+      "artists": [
+        {
+          "name": "Marco Basile",
+          "url": "https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B"
+        },
+        {
+          "name": "ALEX NEURET",
+          "url": "https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV"
+        }
+      ],
+      "duration_ms": 356220,
+      "name": "Terrace Express - Original Mix",
+      "url": "https://open.spotify.com/track/1k0pziWBAbZtH2V2CoVrR6"
+    },
     {
       "added_at": "2026-02-22 10:46:05",
       "album": {

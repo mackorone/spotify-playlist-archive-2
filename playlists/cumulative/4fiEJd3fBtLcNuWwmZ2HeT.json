@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "------",
+        "url": "https://open.spotify.com/album/5K8d4ggXg7yFcBwVn4VtGa"
+      },
+      "artists": [
+        {
+          "name": "x0o0x_",
+          "url": "https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233314,
+      "name": "------",
+      "url": "https://open.spotify.com/track/517pv3Ps8IdYdzFoH08jBY"
+    },
+    {
+      "album": {
         "name": "......",
         "url": "https://open.spotify.com/album/4PjasvlU6CzI86k1yQlSON"
       },
@@ -4786,6 +4804,24 @@
       "duration_ms": 194053,
       "name": "The Heavy Snow",
       "url": "https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR"
+    },
+    {
+      "album": {
+        "name": "Dull-Gray Metropolis",
+        "url": "https://open.spotify.com/album/5tF2jSTk8sG2HMJSwGaP4w"
+      },
+      "artists": [
+        {
+          "name": "DenkiQujira",
+          "url": "https://open.spotify.com/artist/6xUZkU9AXpZMJF4gLzUUyx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "The Lovely Life",
+      "url": "https://open.spotify.com/track/1QAarw72bgyVa9EJne2Iio"
     },
     {
       "album": {

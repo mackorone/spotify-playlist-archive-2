@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (15/02/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (22/02/2026)",
   "tracks": [
     {
       "album": {
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Els ulls que et mirin",
+        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162263,
+      "name": "Els ulls que et mirin",
+      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -1904,6 +1922,24 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
       "album": {
@@ -3010,7 +3046,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 198229,
       "name": "On t'has ficat aquesta nit?",
       "url": "https://open.spotify.com/track/07STk0CsYrCkhYalbL0bVG"
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 181795,
       "name": "Televisi\u00f3",
       "url": "https://open.spotify.com/track/0QoTXLMDRC9Jo8WE4iu6Ea"

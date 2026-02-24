@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Noni
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,004 likes - 104 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,003 likes - 104 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

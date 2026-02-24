@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Justin Quiles & Lenny Tavarez
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,463 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,562 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 16 | [JUICY](https://open.spotify.com/track/28iX2nQ4qadcUmQQvfF8en) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [JUICY](https://open.spotify.com/album/2SAiQiJ3zhjH1mrcH4SZrt) | 3:31 |
 | 17 | [Nota Eleva](https://open.spotify.com/track/5VHXAHehIJmXhK6yR0qWlp) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [Nota Eleva](https://open.spotify.com/album/6QTX5PZKfpCMiQE6e048Uw) | 2:49 |
 | 18 | [GROUPIE](https://open.spotify.com/track/1n4r4ZJy3EUfFWBancfbIb) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [GROUPIE](https://open.spotify.com/album/6Qzv1zgIL5FRsj4QnloK9B) | 2:55 |
-| 19 | [Cristiniando](https://open.spotify.com/track/73VQOQLIdTDlYCDud7nZyt) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Mvsis](https://open.spotify.com/artist/6LuDG2PqZa48PfJ6SL09Sf) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 2:58 |
+| 19 | [Cristiniando](https://open.spotify.com/track/73VQOQLIdTDlYCDud7nZyt) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Nueva Luna](https://open.spotify.com/album/7ySBxDfOfsfxEwEd1VOooL) | 2:58 |
 | 20 | [Niveles](https://open.spotify.com/track/54rEPdPpFV3U3kEqOhuKVZ) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x) | [Niveles](https://open.spotify.com/album/6u5EJbROPUgu4cnjv1UPpQ) | 2:22 |
 | 21 | [Dios los Bendiga](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
 | 22 | [Otro Día](https://open.spotify.com/track/7xT3tjJZMpPPkUo2TD6I62) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Louis BPM](https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0) | [OCHÖ](https://open.spotify.com/album/5mqf3H23bDDgnapwHbYSeI) | 3:08 |

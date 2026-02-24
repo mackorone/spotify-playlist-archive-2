@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,859 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,851 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 88 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
 | 89 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |
 | 90 | [C'est l'hiver \- Live](https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Joyeux Noël \(Live\)](https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz) | 2:25 |
-| 91 | [Le Noël des petits santons](https://open.spotify.com/track/41fTjoBWFYikCoNm9chdVJ) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [Deluxe: Petit Papa Noël et les plus belles chansons de Noël](https://open.spotify.com/album/0j4GUlSnBkKxVMrIVEx4Vb) | 3:14 |
-| 92 | [Au Royaume du Bonhomme Hiver](https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Au Royaume du Bonhomme Hiver](https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85) | 2:31 |
+| 91 | [Au Royaume du Bonhomme Hiver](https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Au Royaume du Bonhomme Hiver](https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85) | 2:31 |
+| 92 | [Le Noël des petits santons](https://open.spotify.com/track/41fTjoBWFYikCoNm9chdVJ) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [Deluxe: Petit Papa Noël et les plus belles chansons de Noël](https://open.spotify.com/album/0j4GUlSnBkKxVMrIVEx4Vb) | 3:14 |
 | 93 | [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 |
 | 94 | [Sauvons Noël](https://open.spotify.com/track/0BgP2tBqIZwFF6fYFbkHSv) | [Calendes](https://open.spotify.com/artist/6UOeOBIvHNAHpxQ0gpFvXg) | [Sauvons Noël](https://open.spotify.com/album/5w3kmwGkQc2u8WDCj9Skwc) | 2:50 |
 | 95 | [Noël blanc](https://open.spotify.com/track/5wQPiG03UejeND0WSvwyVW) | [Léo Giroux](https://open.spotify.com/artist/3gfriMoTculhDU9RH3X5qi) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:38 |
-| 96 | [Çà, bergers](https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:27 |
-| 97 | [Noël avant Noël](https://open.spotify.com/track/10Y6XQp9sIYfjg6dFGGqpR) | [Stéphane Moreau](https://open.spotify.com/artist/68kVtXeJTUzN3658yW2tyH) | [Noël avant Noël](https://open.spotify.com/album/4rEmmzSMQ08RZIxQy50R3t) | 3:25 |
+| 96 | [Noël avant Noël](https://open.spotify.com/track/10Y6XQp9sIYfjg6dFGGqpR) | [Stéphane Moreau](https://open.spotify.com/artist/68kVtXeJTUzN3658yW2tyH) | [Noël avant Noël](https://open.spotify.com/album/4rEmmzSMQ08RZIxQy50R3t) | 3:25 |
+| 97 | [Çà, bergers](https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:27 |
 | 98 | [Lettre à Papa Noël](https://open.spotify.com/track/1uireIIloJlNEjY9YqMWf6) | [Damoizeaux](https://open.spotify.com/artist/06XE6owWsrgqBiLd9nGej9), [VoxA4](https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs) | [La liste de Noël](https://open.spotify.com/album/2ASFaE4IJyBMyXxd0BQ2By) | 3:59 |
 | 99 | [Encore Noël](https://open.spotify.com/track/4AIZfsh34WREIgo9TJMOUw) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Encore Noël](https://open.spotify.com/album/05ezFhL2RfHGwYFlLxU8WA) | 3:02 |
 | 100 | [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 |

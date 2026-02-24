@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,835 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,833 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 |
 | 2 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
-| 3 | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs) | 1:55 |
-| 4 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
+| 3 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
+| 4 | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs) | 1:55 |
 | 5 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
 | 6 | [Baile da Serra Speed](https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE) | [Baile da Serra Speed](https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs) | 2:50 |
 | 7 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t), [Ramuz](https://open.spotify.com/artist/0DJFfBx6sAHxiI127wtQOu) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |

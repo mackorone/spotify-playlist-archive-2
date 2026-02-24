@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 503566,
+  "num_followers": 503585,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Colombina",
         "url": "https://open.spotify.com/album/2ytooaP50YxjuhVtYQyEb0"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 169687,
       "name": "Colombina",
       "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -979,22 +979,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+        "name": "No Embalo da Vila (Club Mix)",
+        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
       },
       "artists": [
         {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
         },
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+      "duration_ms": 241935,
+      "name": "No Embalo da Vila - Club Mix",
+      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1047,26 +1051,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "No Embalo da Vila (Club Mix)",
-        "url": "https://open.spotify.com/album/1WBxcalV2JHKZCFsFh3ruq"
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
         },
         {
-          "name": "Mozambo",
-          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 241935,
-      "name": "No Embalo da Vila - Club Mix",
-      "url": "https://open.spotify.com/track/3k1isZWtIca9Opntaspwpo"
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        },
-        {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Low (feat. Victor Perry)",
         "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 145952,
       "name": "Low (feat. Victor Perry)",
       "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Palco (Alok & Watzgood Remix)",
-        "url": "https://open.spotify.com/album/3uk6GLehDulDuj8crflTpA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        }
-      ],
-      "duration_ms": 191703,
-      "name": "Palco - Alok & Watzgood Remix",
-      "url": "https://open.spotify.com/track/0PZTzoBqm2jIHgpST8QLV4"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Olhos Coloridos (Rap Singulares)",
         "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Palco (Alok & Watzgood Remix)",
+        "url": "https://open.spotify.com/album/3uk6GLehDulDuj8crflTpA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "duration_ms": 191703,
+      "name": "Palco - Alok & Watzgood Remix",
+      "url": "https://open.spotify.com/track/0PZTzoBqm2jIHgpST8QLV4"
     },
     {
       "added_at": "2026-02-13 15:25:57",

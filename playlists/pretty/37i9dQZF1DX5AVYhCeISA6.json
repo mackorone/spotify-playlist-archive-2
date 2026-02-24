@@ -1,6 +1,6 @@
 {
   "description": "KAROL G nos inspira \ud83c\udf3c",
-  "num_followers": 621693,
+  "num_followers": 621681,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
         "name": "Iluminatti",
         "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 221773,
       "name": "Soy Mia",
       "url": "https://open.spotify.com/track/5anRovfNkeo83bshruaWX9"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f"
     },
     {
       "added_at": "2025-12-10 17:18:06",

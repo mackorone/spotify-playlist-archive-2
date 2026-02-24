@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47296,
+  "num_followers": 47295,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "il dolce ricordo della nostra disperata giovent\u00f9",
-        "url": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD"
-      },
-      "artists": [
-        {
-          "name": "faccianuvola",
-          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "verticale",
-      "url": "https://open.spotify.com/track/7CRiclkzpprFei2hnUagca"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
         "name": "ItsTheLeastWeCanDo",
         "url": "https://open.spotify.com/album/2nWtM6uN42CmcAmi7JuRDM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 150361,
       "name": "RemindsMeOfMyself",
       "url": "https://open.spotify.com/track/4u4V5hLnTJwNRYty5coqEr"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
+        "name": "il dolce ricordo della nostra disperata giovent\u00f9",
+        "url": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD"
+      },
+      "artists": [
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "verticale",
+      "url": "https://open.spotify.com/track/7CRiclkzpprFei2hnUagca"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
+        "name": "BreathingExercise",
+        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "RepeatInfinite",
+      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
         "name": "Danimarca",
         "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 166000,
       "name": "Danimarca",
       "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
-        "name": "BreathingExercise",
-        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "RepeatInfinite",
-      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
+        "name": "SittingInTheCar",
+        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 86227,
+      "name": "SittingInTheCar",
+      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 220800,
       "name": "Incredibile (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
-        "name": "SittingInTheCar",
-        "url": "https://open.spotify.com/album/38aYfUg9RGVSPThWTn3gxC"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 86227,
-      "name": "SittingInTheCar",
-      "url": "https://open.spotify.com/track/1biGLgU3ws2Z9S4iCMLoDx"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
         "name": "Campi Elisi",
         "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "sfacciati",
-        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
       "artists": [
         {
-          "name": "UNK",
-          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 145500,
-      "name": "sfacciati",
-      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
         "name": "Lacrime di sale",
         "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 195683,
       "name": "Lacrime di sale",
       "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
+    },
+    {
+      "added_at": "2026-02-12 23:01:36",
+      "album": {
+        "name": "Buone Maniere Per Giovani Predatori",
+        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
+      },
+      "artists": [
+        {
+          "name": "Sxrrxwland",
+          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
+        }
+      ],
+      "duration_ms": 233503,
+      "name": "Lasciami Qui",
+      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -1483,34 +1499,22 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "Buone Maniere Per Giovani Predatori",
-        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
-      },
-      "artists": [
-        {
-          "name": "Sxrrxwland",
-          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
-        }
-      ],
-      "duration_ms": 233503,
-      "name": "Lasciami Qui",
-      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
-    },
-    {
-      "added_at": "2026-02-12 23:01:36",
-      "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -1583,8 +1587,8 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
       },
       "artists": [
         {
@@ -1592,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-02-12 23:01:36",
@@ -1671,22 +1675,18 @@
     {
       "added_at": "2026-02-12 23:01:36",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2026-02-12 23:01:36",

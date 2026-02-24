@@ -194,6 +194,24 @@
     {
       "album": {
         "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec"
+    },
+    {
+      "album": {
+        "name": "For Love",
         "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
       },
       "artists": [
@@ -208,24 +226,6 @@
       "duration_ms": 236706,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/0934Qc6bkFBDx0wypkyZVN"
-    },
-    {
-      "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "date_added": "2025-01-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236706,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec"
     },
     {
       "album": {
@@ -847,7 +847,7 @@
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223360,
+      "duration_ms": 223000,
       "name": "Higher Than the Clouds",
       "url": "https://open.spotify.com/track/10FYvZSZLste16zITxpQND"
     },
@@ -1903,7 +1903,7 @@
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224986,
+      "duration_ms": 224500,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/1dXSZklXzr4LYauwTT9ZLh"
     },

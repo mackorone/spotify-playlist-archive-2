@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 303308,
+  "num_followers": 303310,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "WHY (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "this is what forever feels like",
         "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 154841,
       "name": "this is what forever feels like (with Nick Jonas)",
       "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "indigo",
+        "url": "https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "indigo",
+      "url": "https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "indigo",
-        "url": "https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/20udlOmp16aNccOj3iGupw"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 213283,
-      "name": "indigo",
-      "url": "https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os"
+      "duration_ms": 184687,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -891,22 +907,6 @@
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/20udlOmp16aNccOj3iGupw"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "overthinking about you",
+        "url": "https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "overthinking about you",
+      "url": "https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 250000,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "overthinking about you",
-        "url": "https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "overthinking about you",
-      "url": "https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU"
     },
     {
       "added_at": "2026-02-10 13:00:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,943 likes - 84 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,095 likes - 84 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 44 | [The Lark's Last Song \(Liebesträume, S\. 541: No\. 3, Oh Lieb, so lang du lieben kannst\) \[Arr\. for Choir by Josh Madine\]](https://open.spotify.com/track/7aIDPYP4bWgRXfnw1YQCQt) | [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) | [Dream](https://open.spotify.com/album/095QDJfBThZnsxe0AQqCPC) | 3:41 |
 | 45 | [Hero](https://open.spotify.com/track/6o9bPZq7uryo2bgq1lJaDm) | [Mark Vincent](https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90) | [In the Eyes of a Child](https://open.spotify.com/album/7tBSzCp4dIFyCA51NE4sr7) | 4:12 |
 | 46 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 |
-| 47 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/0nD1zi5UVaFVLjdGEsRwS5), [Orchestre National de Lille](https://open.spotify.com/artist/3rpZB65GmDIcFzYA7BCoqg), [Nicholas Skilbeck](https://open.spotify.com/artist/57KQ4df1fxIfuWtvqT0duh) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 |
+| 47 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/0nD1zi5UVaFVLjdGEsRwS5), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Nicholas Skilbeck](https://open.spotify.com/artist/57KQ4df1fxIfuWtvqT0duh) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 |
 | 48 | [Parisian Lovers](https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Parisian Lovers](https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr) | 2:42 |
 | 49 | [Emmanuele](https://open.spotify.com/track/53H03MbGUchFex0NCgvDfV) | [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU), [Manchester Collective](https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ), [Fred Thomas](https://open.spotify.com/artist/2cMHrbqpNV9o2nWfi2uypr), [Alan Keary](https://open.spotify.com/artist/6KuGCMBdiLwGRWZE9xAmVe), [Sidiki Dembele](https://open.spotify.com/artist/7wrsYyNdxtOj6XOUv4bx2H), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Emmanuele](https://open.spotify.com/album/51ioIkdx1PrT6qxBrntonT) | 4:49 |
 | 50 | [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 |

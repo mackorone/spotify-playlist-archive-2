@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,325 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,370 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 25 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
 | 26 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 |
 | 27 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 |
-| 28 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
-| 29 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
+| 28 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
+| 29 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 30 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 31 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 |
 | 32 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |

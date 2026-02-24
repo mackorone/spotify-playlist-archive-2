@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 37931,
+  "num_followers": 37941,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACkDmwKOPvlTthf59671FzT",
+  "snapshot_id": "aZpHAAAAAADtID1b4LakDOx0g2Rp4/mx",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 275582,
       "name": "Just for Me",
       "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272593,
-      "name": "Try Love",
-      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -707,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration",
-        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
       "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 241988,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
+      "duration_ms": 404600,
+      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
     },
     {
       "added_at": null,
@@ -747,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
       },
       "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
+      "duration_ms": 241988,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 263973,
       "name": "Before I Die",
       "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 336773,
       "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
       "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 70200,
+      "name": "The Story Of Fear",
+      "url": "https://open.spotify.com/track/5c1N90E1wVVNTH6WEljZka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 245901,
       "name": "Strong God",
       "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boycott",
-        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 339733,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

@@ -622,7 +622,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
@@ -10888,7 +10888,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
@@ -11724,6 +11724,24 @@
       "duration_ms": 178175,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
+    },
+    {
+      "album": {
+        "name": "FLYING HIGH WITH U",
+        "url": "https://open.spotify.com/album/3DNb7rjCY6ShyXkExKIbSz"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "FLYING HIGH WITH U",
+      "url": "https://open.spotify.com/track/4iZIvaus7v4wSjFvdF83NA"
     },
     {
       "album": {
@@ -21462,7 +21480,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Melody for You",
       "url": "https://open.spotify.com/track/7hYI4QprQ3hMqp56ul6uEv"
@@ -33360,7 +33378,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"

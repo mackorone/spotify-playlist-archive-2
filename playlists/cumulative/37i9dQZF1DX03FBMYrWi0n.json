@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Magouilleux",
+        "url": "https://open.spotify.com/album/3T0wyczV6l4oBscKqx71EO"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224301,
+      "name": "Magouilleux",
+      "url": "https://open.spotify.com/track/5z5oDlagpOzhLVqcePeT4W"
+    },
+    {
+      "album": {
         "name": "Maison ouverte",
         "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },

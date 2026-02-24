@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "we didn't even kiss",
+  "description": "we are all your mom, punch",
   "name": "yearning",
   "tracks": [
     {
@@ -805,6 +805,46 @@
     },
     {
       "album": {
+        "name": "For Beginners: The Best of M. Ward",
+        "url": "https://open.spotify.com/album/4m0d9mwnzI5khH0DHeviqO"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/07ipJ5SJBxcnindF2ktRVh"
+    },
+    {
+      "album": {
+        "name": "Crying Laughing Loving Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Crying Laughing Loving Lying (From \"The Holdovers\")",
+      "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
+    },
+    {
+      "album": {
         "name": "Country",
         "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
       },
@@ -1047,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/7nfwkopbo47FZIOGNcfPxI"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237228,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0hfCJSLv2bpdzyfu82P0PA"
+    },
+    {
+      "album": {
         "name": "Now Would Be A Good Time",
         "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
       },
@@ -1256,7 +1314,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
@@ -1620,7 +1678,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 240491,
       "name": "It's You - from \"Heated Rivalry\"",
       "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
@@ -1800,7 +1858,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -1988,6 +2046,24 @@
       "duration_ms": 348400,
       "name": "Love Songs on the Radio",
       "url": "https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Love Takes Miles",
+      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
     },
     {
       "album": {
@@ -2422,7 +2498,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 303902,
       "name": "Moth Song",
       "url": "https://open.spotify.com/track/3cYu5LhSV5Bxi8DLsOrXEj"
@@ -2728,7 +2804,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 125786,
       "name": "One Soul - from \"Heated Rivalry\"",
       "url": "https://open.spotify.com/track/4de6AAsNHfH3pxdJlI39w6"
@@ -2804,6 +2880,24 @@
       "duration_ms": 170897,
       "name": "Path of Least Resistance",
       "url": "https://open.spotify.com/track/54nZbMoe196usom085LA0X"
+    },
+    {
+      "album": {
+        "name": "The Baby (5th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0psSmeA56xuOptTm4N8meu"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222499,
+      "name": "Pool - NPR Tiny Desk Version",
+      "url": "https://open.spotify.com/track/0SskmLpG3bX0e2iwFB6cm6"
     },
     {
       "album": {
@@ -3052,7 +3146,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
@@ -4426,7 +4520,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 188175,
       "name": "You are my House",
       "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"

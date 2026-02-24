@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 
 > The Jazz of America is on Verve.
 
-[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,903 likes - 70 songs - 4 hr 18 min
+[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,927 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 | 26 | [Alright, Okay, You Win](https://open.spotify.com/track/6AdZOyyctaHtYLoKBPkHMa) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Definitive Joe Williams](https://open.spotify.com/album/3yJKOMIIuXMmbgExTAoxCd) | 3:03 |
 | 27 | [Star Eyes](https://open.spotify.com/track/2zYClexGpIhIQHZVTmxnxY) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Best Of Bud Powell On Verve](https://open.spotify.com/album/1uTAxQTGNHCj3UjAyg1y9i) | 3:31 |
 | 28 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
-| 29 | [Autumn Serenade](https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8) | 4:21 |
+| 29 | [California Dreaming](https://open.spotify.com/track/5J0zM0tFPiwn7IdhoW0Gt0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [California Dreaming](https://open.spotify.com/album/0QE0gDat9NPBDCQPZogtQ6) | 3:08 |
 | 30 | [One Mint Julep](https://open.spotify.com/track/74YMKQWyNXIo8sYKXHX5ry) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Talkin' Verve: Roots Of Acid Jazz](https://open.spotify.com/album/1pWDuUZhM3T0IiCQAxMIiO) | 5:31 |
 | 31 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 |
 | 32 | [Fried Neck Bones And Some Homefries](https://open.spotify.com/track/0cX5XPqCTZv15AfOv0JKLp) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/3N0zN2YwpoNJbz0YngKbBc) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 | 69 | [Honeysuckle Rose](https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 3:13 |
 | 70 | [Then I'll Be Tired Of You](https://open.spotify.com/track/48du1jL9ixYtp6sZRUdKSf) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:14 |
 
-Snapshot ID: `AAABOFjeXUd1WdWs1v9p53ZwkGy4BRkq`
+Snapshot ID: `AAABOzJfqioIW8pOdCPyWKoQMyf6nyvP`

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHlwfzAlzshTmWJYNgWdvpBabk24Cg",
+  "snapshot_id": "AAAHmdPDiNI9cXzMi5Xa0IjaWuDLDB/F",
   "tracks": [
     {
       "added_at": "2026-02-22 00:43:33",
@@ -67052,7 +67052,7 @@
           "url": "https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h"
         }
       ],
-      "duration_ms": 221222,
+      "duration_ms": 220974,
       "name": "CANZONE DI HALLOWEEN",
       "url": "https://open.spotify.com/track/3rjKzU56KAqdHmIAvbMO95"
     },
@@ -67787,6 +67787,38 @@
       "duration_ms": 246486,
       "name": "Deli Veli",
       "url": "https://open.spotify.com/track/4tgkeWcibAJ4Wz2SvFvQdi"
+    },
+    {
+      "added_at": "2026-02-23 09:43:27",
+      "album": {
+        "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
+        "url": "https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 284004,
+      "name": "\u041a\u043e\u0441\u043c\u043e\u0441 \u0436\u0434\u0451\u0442!",
+      "url": "https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx"
+    },
+    {
+      "added_at": "2026-02-23 11:13:54",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/2TIbb2HUr8KMfFpFRcSVE1"
+      },
+      "artists": [
+        {
+          "name": "Giant Panda Guerilla Dub Squad",
+          "url": "https://open.spotify.com/artist/0PHXRchyECGj96MB2v1xiP"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/1TteeKzMsDre8jTvYknWCh"
     }
   ],
   "unique_name": "playlist spotify free",

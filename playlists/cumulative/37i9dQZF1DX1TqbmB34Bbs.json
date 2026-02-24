@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Zico & Crush) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: KHAN) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -1930,6 +1930,24 @@
       "duration_ms": 190293,
       "name": "AKIRA",
       "url": "https://open.spotify.com/track/5ZJPp19igl41fZx5W91zFi"
+    },
+    {
+      "album": {
+        "name": "ALBATROSS",
+        "url": "https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "ALBATROSS",
+      "url": "https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH"
     },
     {
       "album": {
@@ -27332,7 +27350,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 275400,
       "name": "UP (Feat. Jay Park, Woo) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4NgBGkkjK006wySQL4IaBA"

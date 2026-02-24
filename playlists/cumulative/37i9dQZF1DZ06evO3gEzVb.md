@@ -4,7 +4,7 @@
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-77 songs - 7 hr 17 min
+78 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,13 +59,14 @@
 | [Nkyekye Wo Nafe](https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 7:13 | 2025-04-08 | 2026-01-20 |
 | [Nom Nsuo Twen Ope](https://open.spotify.com/track/5fk8CSR80agT1Tmcs6CtV1) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:53 | 2022-06-28 | 2022-06-30 |
 | [Nya Abotare Na Twen Awurade](https://open.spotify.com/track/5OLV1y4zLXIX5OoAzKcJxZ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Nya Abotare Na Twen Awurade](https://open.spotify.com/album/4Dl8JzJKyvFknT3EFrDy0b) | 5:17 | 2023-11-10 | 2023-12-16 |
-| [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 | 2021-12-28 |  |
+| [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 | 2021-12-28 | 2026-02-24 |
 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 | 2021-12-28 |  |
 | [Odo Beba Na Mawu](https://open.spotify.com/track/0XUiMXrm7KFQQnMstRXyaA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 5:23 | 2024-03-10 | 2025-02-22 |
 | [Odo Nti](https://open.spotify.com/track/0lvAnvn5yMeFS5k8LyhY3A) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sika Asem](https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8) | 5:13 | 2021-12-29 | 2024-01-06 |
 | [Odofo Pa Ama Ntem](https://open.spotify.com/track/11OJ2Z4If5YvY1FykHFS5g) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:34 | 2023-12-13 | 2025-11-09 |
 | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/track/2V82ttwikT8kbMLURYQyvx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU) | 5:36 | 2022-12-27 | 2024-11-04 |
 | [Ohia Asem](https://open.spotify.com/track/7mChIAlmvRxpLwyAkymGT3) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:23 | 2021-12-28 | 2024-03-11 |
+| [Okuafo Ye Adwuma A Opon](https://open.spotify.com/track/6Q8M2grShCHLbPhzwelyCz) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:20 | 2026-02-24 |  |
 | [Onyame Were Mfri Ne Mma](https://open.spotify.com/track/1ATrl7ETZ1BYo6EeOHfTRh) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 4:33 | 2021-12-28 | 2023-12-14 |
 | [Opono Hini Me](https://open.spotify.com/track/6u3ebHqA3ODW9BtSQKPofp) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Afua Ampofoa](https://open.spotify.com/artist/646DvW88uButfaQqsRvtQG) | [Odo Foforo](https://open.spotify.com/album/4uvuUZQcPWXFAOI5TIVpPa) | 4:53 | 2024-12-20 |  |
 | [Osoo Me So Bone](https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:18 | 2021-12-28 | 2025-04-02 |

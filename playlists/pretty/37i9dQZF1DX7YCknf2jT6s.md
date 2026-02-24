@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: aja monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,909 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,078 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [É Real … É Verdade…](https://open.spotify.com/track/7BrioRz1sLrk7nrgCKLPQC) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Carlos Dafé JID025](https://open.spotify.com/album/7Art0O6t4MsJJylCYeiyVj) | 2:33 |
 | 100 | [The Law of Diminishing Returns \- Radio](https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [San Michele \(Radio\)](https://open.spotify.com/album/0De82n8QaUod7sefVRbA3F) | 5:38 |
 
-Snapshot ID: `AAAAAKGyOUgYbD8k0cqI6IeBLw3tElFr`
+Snapshot ID: `AAAAAPCh29Qc417EPyWb3oStlWK4VLo8`

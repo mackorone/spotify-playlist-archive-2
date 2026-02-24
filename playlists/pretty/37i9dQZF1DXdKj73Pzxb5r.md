@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Boy Warongan & The Palmeiros
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,340 likes - 87 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,350 likes - 87 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

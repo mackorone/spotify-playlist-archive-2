@@ -6727,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "prettyboy",
+        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152125,
+      "name": "prettyboy",
+      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
+    },
+    {
+      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -8518,7 +8536,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 148876,
       "name": "The Things She Loved",
       "url": "https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo"

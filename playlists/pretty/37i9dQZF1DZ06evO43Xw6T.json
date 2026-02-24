@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 180905,
+  "num_followers": 180918,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACepYQPPlj64ErDEXNT7kGn",
+  "snapshot_id": "aZpHAAAAAAAbLS5bYr/Ui3Sq4M5+IhiT",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCONDIDAS",
-        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 173034,
-      "name": "ESCONDIDAS",
-      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERRA MADRE",
-        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 199459,
-      "name": "PERRA MADRE",
-      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -815,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTERLIFE",
-        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+        "name": "PERRA MADRE",
+        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 168601,
-      "name": "AFTERLIFE",
-      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
+      "duration_ms": 199459,
+      "name": "PERRA MADRE",
+      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 177333,
       "name": "BAYAM\u00d3N",
       "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 36335,
+  "num_followers": 36339,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
         "name": "Gone Gone Gone",
         "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2026-02-09 16:56:15",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-02-09 16:56:15",
       "album": {
-        "name": "SLABICIUNEA MEA",
-        "url": "https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO"
-      },
-      "artists": [
-        {
-          "name": "COMANN",
-          "url": "https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "SLABICIUNEA MEA",
-      "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
-    },
-    {
-      "added_at": "2026-02-09 16:56:15",
-      "album": {
         "name": "Doar La Ea, Ba La Ea",
         "url": "https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
+    },
+    {
+      "added_at": "2026-02-09 16:56:15",
+      "album": {
+        "name": "SLABICIUNEA MEA",
+        "url": "https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO"
+      },
+      "artists": [
+        {
+          "name": "COMANN",
+          "url": "https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "SLABICIUNEA MEA",
+      "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

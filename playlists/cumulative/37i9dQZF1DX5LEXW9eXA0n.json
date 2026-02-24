@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: KCM) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \ucd5c\uc720\ub9ac (Choi Yu Ree)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 300000,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 245000,
       "name": "Before Love",
       "url": "https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14"
@@ -5945,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "Early Spring",
+        "url": "https://open.spotify.com/album/6csLbsCdWoQh23NGqR6Bl7"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Early Spring",
+      "url": "https://open.spotify.com/track/2GQ19vTX8j08Z6MN240E9n"
+    },
+    {
+      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -7757,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0tN10Z0NYLhCEmbFwn8xDu"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7E1ltzmFIvIIvrj8Kfdw3S"
+    },
+    {
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -8689,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Hard to Forget You",
+        "url": "https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy"
+      },
+      "artists": [
+        {
+          "name": "Kim Na-kyung",
+          "url": "https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193742,
+      "name": "Hard to Forget You",
+      "url": "https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW"
+    },
+    {
+      "album": {
         "name": "Red Balloon OST Part.3",
         "url": "https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS"
       },
@@ -9404,6 +9458,24 @@
       "duration_ms": 171000,
       "name": "House of light",
       "url": "https://open.spotify.com/track/5rk2AxSpCqVOLRVdWaLa5F"
+    },
+    {
+      "album": {
+        "name": "How about you",
+        "url": "https://open.spotify.com/album/3oKJKREnfP5MiB0e0OPjOn"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242089,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/4Imjh7Rdg5NJPluzMiy6qa"
     },
     {
       "album": {
@@ -13526,7 +13598,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 258000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/7y3tkXIxe9rv106X0Aouek"
@@ -13620,7 +13692,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 239482,
       "name": "Last Promise",
       "url": "https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW"
@@ -17642,7 +17714,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 232000,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/6gDdEBdmGk3sbieERyjMwk"
@@ -18112,6 +18184,24 @@
       "duration_ms": 265993,
       "name": "not ours",
       "url": "https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq"
     },
     {
       "album": {

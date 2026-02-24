@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 20473,
+  "num_followers": 20501,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADQSFcbgTrNOtSNI7QAv9Pl",
+  "snapshot_id": "aZpHAAAAAADDba3PvxoJdL/YNBblx+Oo",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "miss u 2 (with Leon Thomas)",
+        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "miss u 2 (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 185676,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/2L0iLP1aJKeLlcLk4bZgbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "miss u 2 (with Leon Thomas)",
-        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 148404,
-      "name": "miss u 2 (with Leon Thomas)",
-      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 162121,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVERS OR FRIENDS",
         "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179461,
       "name": "LOVERS OR FRIENDS",
       "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 162121,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7"
     },
     {
       "added_at": null,

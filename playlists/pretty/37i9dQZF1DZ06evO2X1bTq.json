@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1261706,
+  "num_followers": 1261762,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAADJX7yLKfy5rLh2XAiMea1M",
+  "snapshot_id": "aZpHAAAAAAAliXXGfjlxiTyA7gP4+qwH",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 266312,
       "name": "Yours Eternally (feat. Ed Sheeran & Taras Topolia)",
       "url": "https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 254200,
       "name": "XXX. FEAT. U2.",
       "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 243899,
       "name": "One Life At A Time",
       "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Ultra Violet (Light My Way)",
-      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 325014,
       "name": "The Tears Of Things",
       "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Ultra Violet (Light My Way)",
+      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "In A Little While",
-      "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "In A Little While",
+      "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boy (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "I Will Follow - Remastered 2008",
-      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "I Will Follow - Remastered 2008",
+      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 294000,
       "name": "The Unforgettable Fire - Remastered 2009",
       "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
     },
     {
       "added_at": null,

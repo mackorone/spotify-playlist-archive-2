@@ -4,16 +4,17 @@
 
 > The Jazz of America is on Verve.
 
-70 songs - 4 hr 18 min
+71 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Deed I Do](https://open.spotify.com/track/6feTjRmdBgcAprPgw1Buz1) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Swing Around Rosie](https://open.spotify.com/album/3dtudnqxBVQCTUYGKusM4w) | 1:46 | 2019-10-23 |  |
 | [Alright, Okay, You Win](https://open.spotify.com/track/6AdZOyyctaHtYLoKBPkHMa) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Definitive Joe Williams](https://open.spotify.com/album/3yJKOMIIuXMmbgExTAoxCd) | 3:03 | 2019-10-23 |  |
 | [April In Paris](https://open.spotify.com/track/7jHOj2zcK9bVmTLjtJW2Tc) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris](https://open.spotify.com/album/4wHW2qVD6tkmF8vwuEUBd6) | 3:48 | 2019-10-23 |  |
-| [Autumn Serenade](https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8) | 4:21 | 2019-10-23 |  |
+| [Autumn Serenade](https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8) | 4:21 | 2019-10-23 | 2026-02-24 |
 | [Be Who You Are \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/0E8VaGhwaOnUw7LAxYMMCo) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:34 | 2026-01-20 |  |
 | [Bumpin' On Sunset](https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 4:49 | 2019-10-23 |  |
+| [California Dreaming](https://open.spotify.com/track/5J0zM0tFPiwn7IdhoW0Gt0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [California Dreaming](https://open.spotify.com/album/0QE0gDat9NPBDCQPZogtQ6) | 3:08 | 2026-02-23 |  |
 | [Can't We Be Friends?](https://open.spotify.com/track/2aO5b6UqLQjN8pDeKzZvAF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/1rP6GkPbp6DvIW59005PnR) | 3:47 | 2019-10-23 |  |
 | [classic love \(kv version\)](https://open.spotify.com/track/4VBN0zHlArrOq56bxsl609) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Classic Love \(ep\)](https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j) | 5:47 | 2026-01-20 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 | 2019-10-23 |  |

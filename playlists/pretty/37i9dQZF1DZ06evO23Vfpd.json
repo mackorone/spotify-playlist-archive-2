@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 62821,
+  "num_followers": 62827,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAACtLcBHzQTOIN6L9e9xAjpq",
+  "snapshot_id": "aZpHAAAAAAB/iuv7RObXCpv/EvJMiwvT",
   "tracks": [
     {
       "added_at": null,
@@ -332,17 +332,13 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "Linda Martell",
-          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
-        },
-        {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 158477,
-      "name": "SPAGHETTII",
-      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+      "duration_ms": 296185,
+      "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
+      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
     },
     {
       "added_at": null,
@@ -416,13 +412,17 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
+          "name": "Linda Martell",
+          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
+        },
+        {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 296185,
-      "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
-      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
+      "duration_ms": 158477,
+      "name": "SPAGHETTII",
+      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
+        "name": "Prosperity",
+        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 186147,
-      "name": "More",
-      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
+      "duration_ms": 197877,
+      "name": "Prosperity",
+      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prosperity",
-        "url": "https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE"
+        "name": "More",
+        "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Prosperity",
-      "url": "https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy"
+      "duration_ms": 186147,
+      "name": "More",
+      "url": "https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11566,
+  "num_followers": 11567,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aZj1gAAAAAAAPweksDBjepHixaChSqB0",
+  "snapshot_id": "aZpHAAAAAADGs2QJprFmRLHDuoLaa+VM",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": null,
@@ -247,6 +231,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "breathe again",
-      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'd Miss the Birds (feat. Sheryl Crow)",
         "url": "https://open.spotify.com/album/0wOvaNaVjqHrnnxGCMznEQ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 188382,
       "name": "I'd Miss the Birds (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/3S9ztrnCBKQ8pIL9iLQdSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "breathe again",
+      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
     },
     {
       "added_at": null,
@@ -608,25 +608,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 279614,
-      "name": "Animals & Angels",
-      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 237915,
       "name": "QUESTIONS, CHAOS & FAITH",
       "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+      "duration_ms": 279614,
+      "name": "Animals & Angels",
+      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+      "duration_ms": 133679,
+      "name": "LETTER FROM A BLACKBIRD",
+      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 133679,
-      "name": "LETTER FROM A BLACKBIRD",
-      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     },
     {
       "added_at": null,

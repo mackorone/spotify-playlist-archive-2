@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406991,
+  "num_followers": 406989,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,46 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -319,46 +359,6 @@
       "duration_ms": 385438,
       "name": "Non-Stop",
       "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Gait\u00e1n - La Gaita",
-          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
-        },
-        {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        },
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        },
-        {
-          "name": "Rhenzy Feliz",
-          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
-        },
-        {
-          "name": "Diane Guerrero",
-          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "We Don't Talk About Bruno",
-      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -440,6 +440,38 @@
       },
       "artists": [
         {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 333154,
+      "name": "My Shot",
+      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
           "name": "Leslie Odom Jr.",
           "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
@@ -487,38 +519,6 @@
       "duration_ms": 230250,
       "name": "No Good Deed",
       "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Okieriete Onaodowan",
-          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
-        },
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 333154,
-      "name": "My Shot",
-      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "Mamma Mia! The Movie Soundtrack",
         "url": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 187360,
       "name": "Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6P4XyViJkq9QGEHtzfMIrH"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "High School Musical 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207866,
       "name": "You Are the Music in Me",
       "url": "https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 231233,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": "2025-12-10 11:42:12",

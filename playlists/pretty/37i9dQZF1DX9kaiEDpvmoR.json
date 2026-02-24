@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93801,
+  "num_followers": 93800,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Mother's Love Conquers All",
-        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Mother's Love Conquers All",
-      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Mother's Love Conquers All",
+        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Mother's Love Conquers All",
+      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
-        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "PG Roxette",
-          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
-        }
-      ],
-      "duration_ms": 220664,
-      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
-      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
         "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 167266,
       "name": "Bara vi andas",
       "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
+        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "PG Roxette",
+          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
+        }
+      ],
+      "duration_ms": 220664,
+      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
+      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1011,22 +1011,6 @@
       "duration_ms": 193114,
       "name": "The Spectrum of Love",
       "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "ICONIC EP",
         "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Sol \u00e5 snygga m\u00e4n",
-        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
-      },
-      "artists": [
-        {
-          "name": "Lina Hedlund",
-          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
-        }
-      ],
-      "duration_ms": 212339,
-      "name": "Sol \u00e5 snygga m\u00e4n",
-      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "N\u00e4r \u00e4nglar d\u00f6r",
         "url": "https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 191224,
       "name": "N\u00e4r \u00e4nglar d\u00f6r",
       "url": "https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "Sol \u00e5 snygga m\u00e4n",
+        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
+      },
+      "artists": [
+        {
+          "name": "Lina Hedlund",
+          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
+        }
+      ],
+      "duration_ms": 212339,
+      "name": "Sol \u00e5 snygga m\u00e4n",
+      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "N\u00e5got ska d\u00f6 (del 1)",
+        "url": "https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "N\u00e5got ska d\u00f6",
+      "url": "https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/5wmTGNDDYHVjdssmjCYwC5"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "N\u00e5got ska d\u00f6 (del 1)",
-        "url": "https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0"
-      },
-      "artists": [
-        {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "N\u00e5got ska d\u00f6",
-      "url": "https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/5lLRHsgpLXK7m7xhCMMZ0C"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 159329,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
         "name": "Benjamin (From the TV series 'Etter Benjamin')",
         "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 200360,
       "name": "Benjamin - From the TV series 'Etter Benjamin'",
       "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 159329,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
+        "name": "Become A Light",
+        "url": "https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5"
+    },
+    {
+      "added_at": "2026-02-19 23:00:51",
+      "album": {
         "name": "Sliperiet Sessions (Live)",
         "url": "https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2026-02-19 23:00:51",
       "album": {
-        "name": "Become A Light",
-        "url": "https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy"
+        "name": "Sk\u00f6ldpadds\u00f6n",
+        "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
       },
       "artists": [
         {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5"
+      "duration_ms": 255250,
+      "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
+      "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
     },
     {
       "added_at": "2026-02-19 23:00:51",
@@ -1459,22 +1475,6 @@
       "duration_ms": 347626,
       "name": "Arvet",
       "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
-    },
-    {
-      "added_at": "2026-02-19 23:00:51",
-      "album": {
-        "name": "Sk\u00f6ldpadds\u00f6n",
-        "url": "https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9"
-      },
-      "artists": [
-        {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
-        }
-      ],
-      "duration_ms": 255250,
-      "name": "Inget \u00e4r f\u00f6rl\u00e5tet",
-      "url": "https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD"
     },
     {
       "added_at": "2026-02-19 23:00:51",

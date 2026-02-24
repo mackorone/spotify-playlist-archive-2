@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 252453,
       "name": "1, 2, Ultraviolento",
       "url": "https://open.spotify.com/track/7wB9dNk0rq08s4z3BEFTnl"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 263960,
       "name": "Adi\u00f3s al S\u00e9ptimo de la L\u00ednea",
       "url": "https://open.spotify.com/track/6pmhdyuPqOCF9JsVmwNBpU"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Al Colegio No Voy M\u00e1s",
       "url": "https://open.spotify.com/track/17HmjqKPaPPyiUxbDSKVWa"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 219813,
       "name": "Angustiado Desahuciado",
       "url": "https://open.spotify.com/track/2cD7SKiAmLFAEgCeUABpYi"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 178853,
       "name": "Arriba de la Pelota",
       "url": "https://open.spotify.com/track/6MR6bByxMrbZmdGYTNNnp2"
@@ -7899,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "Mis Mas Grandes Exitos",
+        "url": "https://open.spotify.com/album/4n0kDGWCBRCndnqyNRLiH2"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255720,
+      "name": "Candombe Para Jos\u00e9",
+      "url": "https://open.spotify.com/track/6AkRD0PiHw6DYKTUefJzAg"
+    },
+    {
+      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -8094,6 +8112,24 @@
       "duration_ms": 161826,
       "name": "Cara De Velocidad - Instrumental",
       "url": "https://open.spotify.com/track/0s6vVy6DGPE5vIGE4o5SVh"
+    },
+    {
+      "album": {
+        "name": "Los A\u00f1os 60's (Vol. 1)",
+        "url": "https://open.spotify.com/album/12gxqYRZR9FhtVcPR9ygms"
+      },
+      "artists": [
+        {
+          "name": "Lalo Valenzuela",
+          "url": "https://open.spotify.com/artist/6FXnVYjbYhom7MfI4qjftp"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Caramelo de Menta",
+      "url": "https://open.spotify.com/track/5dsVLR7BawlneuBGl0dWZs"
     },
     {
       "album": {
@@ -8594,7 +8630,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 258846,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/6H54EcC0Vpwvspn13OKEky"
@@ -9164,7 +9200,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 230693,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/1ZZXuEFC87l047nDRLVmG7"
@@ -10162,7 +10198,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 140400,
       "name": "Coraz\u00f3n Desilucionado",
       "url": "https://open.spotify.com/track/7tuACuijPSvfCR78bRY5Lh"
@@ -10872,7 +10908,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 148416,
       "name": "Curao Manejo Mejor - En vivo",
       "url": "https://open.spotify.com/track/7IgSnx61g2BzzsxwnPOHPf"
@@ -11020,7 +11056,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 316240,
       "name": "C\u00f3mo Dejar de Amarte y Otros",
       "url": "https://open.spotify.com/track/6vbEkR2wQICprZzMVU7DOB"
@@ -11676,7 +11712,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "De Coquimbo Soy",
       "url": "https://open.spotify.com/track/1dq2KsiAXK5Yoy99Pswd81"
@@ -14928,7 +14964,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 224127,
       "name": "El Crack - Remaster 2023",
       "url": "https://open.spotify.com/track/6UKLIwQ2drH5DymFUGdwse"
@@ -15346,7 +15382,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 251386,
       "name": "El Mercado Testaccio (Instrumental) - En Vivo",
       "url": "https://open.spotify.com/track/7pMn9LcH9l2e7JtkGByLvX"
@@ -15448,6 +15484,24 @@
       "duration_ms": 276493,
       "name": "El pueblo unido jam\u00e1s ser\u00e1 vencido",
       "url": "https://open.spotify.com/track/2lB1HPsTtULei8juxi8OPq"
+    },
+    {
+      "album": {
+        "name": "Seko!",
+        "url": "https://open.spotify.com/album/1XofdaQQq507zLJOxTkDje"
+      },
+      "artists": [
+        {
+          "name": "Chabelos",
+          "url": "https://open.spotify.com/artist/2dYl8MEkvG2QDJ0BvnRaU6"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230870,
+      "name": "El Quinto Teletubie",
+      "url": "https://open.spotify.com/track/2AxwPyIAhs1eaxzeq1hlA3"
     },
     {
       "album": {
@@ -16542,7 +16596,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 131760,
       "name": "Ese Muerto Lo Cargo Yo (Don Goyo)",
       "url": "https://open.spotify.com/track/3lL8GfHSkqazR8scV3mIvh"
@@ -17176,7 +17230,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 212999,
       "name": "Exiliada del sur",
       "url": "https://open.spotify.com/track/7irxnofTcigmaOxY0TBTkr"
@@ -21874,7 +21928,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 179440,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
@@ -27366,7 +27420,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -28022,7 +28076,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 173093,
       "name": "La Rabia",
       "url": "https://open.spotify.com/track/6ASifNY2I52rr80COG2Rj9"
@@ -28222,7 +28276,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 280980,
       "name": "La Vida No Es Recta",
       "url": "https://open.spotify.com/track/5YCAJdABeJxMSnH10AUXzL"
@@ -28276,7 +28330,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 248225,
       "name": "La Voz de los '80",
       "url": "https://open.spotify.com/track/68fQEYthnIBfASh33O0jXA"
@@ -30154,7 +30208,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 240493,
       "name": "Los Paraguas",
       "url": "https://open.spotify.com/track/4rNyJQTMPrqIuwSnxo1hAg"
@@ -30248,7 +30302,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 105266,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/04oOiHoIqUkNbCnURxK3un"
@@ -31337,6 +31391,24 @@
     },
     {
       "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296026,
+      "name": "Mambo de Machaguay",
+      "url": "https://open.spotify.com/track/0Rcdp0qyqZN5peE2hg8rH5"
+    },
+    {
+      "album": {
         "name": "Man vs. Magnet / Blood in Gutters",
         "url": "https://open.spotify.com/album/0YKAg0tpSqpfV06UYwufcz"
       },
@@ -32230,7 +32302,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 200253,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/6Kj0zHrDKwDzsD23wzqOIj"
@@ -33600,7 +33672,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Mujeres y Cerveza",
       "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
@@ -34796,7 +34868,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 204626,
       "name": "Ni Chicha Ni Limon\u00e1",
       "url": "https://open.spotify.com/track/3ZIYHubj1fBDC4DTF3AIfK"
@@ -35542,6 +35614,24 @@
       "duration_ms": 422517,
       "name": "No Quarter - Remaster",
       "url": "https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK"
+    },
+    {
+      "album": {
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "No Quiero Dormir",
+      "url": "https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb"
     },
     {
       "album": {
@@ -37334,7 +37424,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 210906,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/6MKlKwZ8R4BBfAtvAqDAfV"
@@ -37640,7 +37730,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 147520,
       "name": "Para Que Nunca Mas",
       "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
@@ -37820,7 +37910,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Pasto Seco",
       "url": "https://open.spotify.com/track/2mhjHNjT6kmUyQdOydzNEC"
@@ -40150,7 +40240,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 196106,
       "name": "Puta Jefe",
       "url": "https://open.spotify.com/track/3bKvtihPA72hDEHBJnmHjh"
@@ -41744,7 +41834,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Rock Del Mundial",
       "url": "https://open.spotify.com/track/7M9UVXh4U227MXzhSLD4Pp"
@@ -43756,7 +43846,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 229066,
       "name": "Sensemay\u00e1",
       "url": "https://open.spotify.com/track/7BSJnBYw8meTQNoOQnZUX4"
@@ -46544,7 +46634,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 187506,
       "name": "Soy Feo Pero Rico",
       "url": "https://open.spotify.com/track/5AxCeaFkhDFtFT384IRRJ8"
@@ -49538,7 +49628,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 169986,
       "name": "Te Enojai por Todo",
       "url": "https://open.spotify.com/track/5927nKbonEX4UV9ehEZG7S"
@@ -54617,6 +54707,24 @@
     },
     {
       "album": {
+        "name": "Canto Por Amor",
+        "url": "https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ"
+      },
+      "artists": [
+        {
+          "name": "Zalo Reyes",
+          "url": "https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "Una L\u00e1grima En La Garganta",
+      "url": "https://open.spotify.com/track/4KJM2D7Jix5BDkkXQd36AV"
+    },
+    {
+      "album": {
         "name": "Un Kilme Resucitado",
         "url": "https://open.spotify.com/album/4TAzjzKt9uX8a2QZa1VHE8"
       },
@@ -59430,7 +59538,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 242493,
       "name": "\u00c1ngeles Fuimos",
       "url": "https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6"

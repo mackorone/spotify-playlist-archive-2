@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,059 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,078 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 70 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
 | 71 | [Known You Always](https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray Is Back](https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq) | 3:19 |
 | 72 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
-| 73 | [enough](https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [SIDEQUEST](https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD) | 2:58 |
-| 74 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
+| 73 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
+| 74 | [enough](https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [SIDEQUEST](https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD) | 2:58 |
 | 75 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 |
 | 76 | [Strangers](https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Strangers](https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX) | 2:51 |
 | 77 | [Poison Apple Baby](https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Poison Apple Baby](https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx) | 3:17 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 87 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 88 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
 | 89 | [Emerald](https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Emerald](https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36) | 3:18 |
-| 90 | [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 |
-| 91 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 |
+| 90 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 |
+| 91 | [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 |
 | 92 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 93 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
 | 94 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
@@ -121,20 +121,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 111 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
 | 112 | [Promises](https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 4:23 |
 | 113 | [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 |
-| 114 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
-| 115 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
+| 114 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
+| 115 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 116 | [Over You](https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Over You](https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4) | 2:50 |
 | 117 | [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 |
 | 118 | [THE PRESSURE](https://open.spotify.com/track/2ERCG1bzpgMLgOFoFG7Sml) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [THE PRESSURE](https://open.spotify.com/album/1PhJCX9YFI5owjjDifo6he) | 2:52 |
 | 119 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
 | 120 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 121 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
-| 122 | [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 |
-| 123 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
-| 124 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
+| 122 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
+| 123 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
+| 124 | [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 |
 | 125 | [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 |
-| 126 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
-| 127 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
+| 126 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
+| 127 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
 | 128 | [SOMETHING IN THE WATER](https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [SOMETHING IN THE WATER](https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO) | 3:23 |
 | 129 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
 | 130 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 144 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 |
 | 145 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 |
 | 146 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 |
-| 147 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
-| 148 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
+| 147 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
+| 148 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
 | 149 | [FREAK](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 |
-| 150 | [Company Hunting](https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Company Hunting](https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u) | 2:52 |
+| 150 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 
 Snapshot ID: `AAAAAOlQshBf9kf/Kdps8GHPA/C/tZJK`

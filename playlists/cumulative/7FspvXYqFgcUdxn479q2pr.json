@@ -3323,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Code",
+        "url": "https://open.spotify.com/album/1hcqbQvlwKGnguhmsNmvwO"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/3L8B2XCjkDcnmui5xAjbS1"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397560,
+      "name": "Code",
+      "url": "https://open.spotify.com/track/7byboaJhkG192Y7Hb5l54F"
+    },
+    {
+      "album": {
         "name": "Coisinha Do Pai (feat. Sued Nunes)",
         "url": "https://open.spotify.com/album/6NvjuCjxfDy1zZPnFzHPpM"
       },

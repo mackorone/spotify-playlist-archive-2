@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437265,
+  "num_followers": 437266,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "White Wine",
-        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "White Wine",
-      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Viva tu",
         "url": "https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 188778,
       "name": "Viva tu",
       "url": "https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
         "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 300383,
       "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
       "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Bajofondo Tango Club",
-        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Naranjo En Flor",
-      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 249170,
       "name": "Dancin' Days",
       "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Canta Mundo",
         "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 231075,
       "name": "Canta Mundo",
       "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2026-02-19 18:04:12",

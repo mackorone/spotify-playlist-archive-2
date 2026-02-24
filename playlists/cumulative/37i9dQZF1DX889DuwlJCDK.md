@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: カネヨリマサル + クボタカイ
 
-1,621 songs - 4 day 1 hr 51 min
+1,622 songs - 4 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [100個の幸せとたった1つの](https://open.spotify.com/track/17Rs9pcjsoKPEnXfMTTK9X) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [100個の幸せとたった1つの](https://open.spotify.com/album/5VSDD9OivqIxCk6JBExnBQ) | 5:05 | 2024-12-17 | 2025-01-15 |
 | [100円キッス](https://open.spotify.com/track/2IVnS6Ke87UAodXCNgXHZp) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [100円キッス](https://open.spotify.com/album/7j2s6b88lh8z5IIdFpPoPR) | 4:24 | 2024-05-30 | 2024-07-03 |
 | [12月](https://open.spotify.com/track/1J2pKgSB11zHT9wFTdFw70) | [ジッカ](https://open.spotify.com/artist/3Z9x986BnzxpIvYfK6Q3mD) | [12月](https://open.spotify.com/album/2jyVlJ5jOfbPjinaBvw6Ql) | 2:43 | 2025-08-19 | 2025-09-10 |
-| [13日の金曜日](https://open.spotify.com/track/4KULpbplZNTABgsZInHr4a) | [iiichanman](https://open.spotify.com/artist/6I8QBjbVfdeTc0uBFdxHOS) | [可愛いのろい](https://open.spotify.com/album/6AoYoFIIZbZkVa4kwFGxBo) | 3:33 | 2026-02-11 |  |
+| [13日の金曜日](https://open.spotify.com/track/4KULpbplZNTABgsZInHr4a) | [iiichanman](https://open.spotify.com/artist/6I8QBjbVfdeTc0uBFdxHOS) | [可愛いのろい](https://open.spotify.com/album/6AoYoFIIZbZkVa4kwFGxBo) | 3:33 | 2026-02-11 | 2026-02-24 |
 | [14](https://open.spotify.com/track/56cVNuRCIhJsa9FxUAHxnO) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [14](https://open.spotify.com/album/5F7ICTvGgUkf13OQpB1esb) | 2:44 | 2025-06-03 | 2025-06-12 |
 | [143](https://open.spotify.com/track/2U0MveCWJXZCErNrj53Lqo) | [she said Horny](https://open.spotify.com/artist/0SlXpis9KhFi6Y9WariB21) | [143](https://open.spotify.com/album/3nhwKsvS9utiR9EIVKefel) | 3:43 | 2025-01-21 | 2025-01-29 |
 | [17](https://open.spotify.com/track/6mz8T69eJdFXFFou4haBGQ) | [スランプガール](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [17](https://open.spotify.com/album/7EIvlMY1uxTr5UazntvIXa) | 4:30 | 2025-04-08 | 2025-04-16 |
@@ -290,6 +290,7 @@
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2YmVd66biborLaNik6453K) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [But Really](https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK) | 4:37 | 2023-07-27 | 2023-08-16 |
 | [IMAWOIKIRUANATAHE](https://open.spotify.com/track/2taXznoWlErG1OBNMLrl79) | [プッシュプルポット](https://open.spotify.com/artist/1yMQBPXyIRvB9yiBaF5tJh) | [IMAWOIKIRUANATAHE](https://open.spotify.com/album/47vNzQrbE38i5LOq4rhAsz) | 4:12 | 2024-11-12 | 2024-11-27 |
 | [In YOURS](https://open.spotify.com/track/1hTg19ZUwYAiyDbT0ook40) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [In YOURS](https://open.spotify.com/album/5qXPXY5dE7mnlMif5k7xDw) | 4:37 | 2025-08-05 | 2025-08-13 |
+| [Inside Game](https://open.spotify.com/track/5o6dNPA5i5ABKGvpaY18qx) | [Shaftray](https://open.spotify.com/artist/19KFUJCg5YAD97OzkFX9Of) | [Inside Game](https://open.spotify.com/album/26tQMudbKubkWqP0uD738r) | 3:00 | 2026-02-17 |  |
 | [Inside you](https://open.spotify.com/track/6T37DPZOSMl9xbzAPuiYjI) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [Inside you](https://open.spotify.com/album/7zx6musaQVUiMPSHMMBDX6) | 4:01 | 2024-12-17 | 2025-01-22 |
 | [iOSOS](https://open.spotify.com/track/2950bVBfcRPN58XV2PPfG5) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [iOSOS](https://open.spotify.com/album/6rWAmGPusnZjWgO4xBaj8Z) | 4:24 | 2025-04-08 | 2025-04-16 |
 | [It's myself](https://open.spotify.com/track/6HAqCmixSCi21kJEobLfQs) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [It's myself](https://open.spotify.com/album/1HUDo1KaR0nVzqr4QRDSD5) | 3:30 | 2025-04-22 | 2025-12-03 |

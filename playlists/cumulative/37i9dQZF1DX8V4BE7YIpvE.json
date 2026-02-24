@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 200659,
       "name": "Melting Sorrow",
       "url": "https://open.spotify.com/track/7pRsGNsuA7DCrPBZEXlv92"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 158400,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6lR8owiu0mtjr87Qzbn5kB"
@@ -2898,6 +2898,24 @@
       "duration_ms": 177560,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/4zVEPRe3LjceP9IR8vGTrq"
+    },
+    {
+      "album": {
+        "name": "pure love",
+        "url": "https://open.spotify.com/album/0txDG99fSXs0z5keThqIj9"
+      },
+      "artists": [
+        {
+          "name": "c152",
+          "url": "https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122504,
+      "name": "pure love (slowed)",
+      "url": "https://open.spotify.com/track/74EYOGsYqspG5nkMsGSEU9"
     },
     {
       "album": {
@@ -3234,10 +3252,32 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 146841,
       "name": "Soft Array",
       "url": "https://open.spotify.com/track/3ZEiR6nVN8uUkDpAu314Cp"
+    },
+    {
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/57MESweFH04IC2vZEfGqIL"
+      },
+      "artists": [
+        {
+          "name": "lxst child",
+          "url": "https://open.spotify.com/artist/5XG0u0GsaiIvBEzznbjdCj"
+        },
+        {
+          "name": "n\u00f8miS",
+          "url": "https://open.spotify.com/artist/77fiP4sVnbuqhLnEXmWF7h"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136562,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/4BMDuMaHNGPadx3t7tDUFu"
     },
     {
       "album": {
@@ -3440,6 +3480,24 @@
       "duration_ms": 141541,
       "name": "Streets",
       "url": "https://open.spotify.com/track/4vPk8txZtvY23szOhnotTh"
+    },
+    {
+      "album": {
+        "name": "Subception",
+        "url": "https://open.spotify.com/album/2odxmqt1NfU0R0q2p3V3J7"
+      },
+      "artists": [
+        {
+          "name": "NiElsir",
+          "url": "https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245309,
+      "name": "Subception",
+      "url": "https://open.spotify.com/track/3Hh26NS2tU4rlUPzS23Lzj"
     },
     {
       "album": {

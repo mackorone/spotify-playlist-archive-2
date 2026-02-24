@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2180804,
+  "num_followers": 2180822,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Beautiful Love",
-        "url": "https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        }
-      ],
-      "duration_ms": 280117,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "The Nearness of You",
         "url": "https://open.spotify.com/album/1udDe5yKP7MzgrpWKyFaOo"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 394653,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/659rgge3J3HiNeVNjhWcbH"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "Beautiful Love",
+        "url": "https://open.spotify.com/album/0BMx1m6eEZNSepXySIvPME"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        }
+      ],
+      "duration_ms": 280117,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/2X4NOuHYmduvvDy9FjIfDQ"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "Blue Room",
+        "url": "https://open.spotify.com/album/438b0ZTNADLKs5eOiaGyow"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 208300,
+      "name": "Blue Room",
+      "url": "https://open.spotify.com/track/6pIezyoIi2jFHfCFmxVikv"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -983,22 +1003,18 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Blue Room",
-        "url": "https://open.spotify.com/album/438b0ZTNADLKs5eOiaGyow"
+        "name": "Half Moon Smile",
+        "url": "https://open.spotify.com/album/77pBFFjNgpjJ3PuAJ2qVl7"
       },
       "artists": [
         {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
         }
       ],
-      "duration_ms": 208300,
-      "name": "Blue Room",
-      "url": "https://open.spotify.com/track/6pIezyoIi2jFHfCFmxVikv"
+      "duration_ms": 124213,
+      "name": "Half Moon Smile",
+      "url": "https://open.spotify.com/track/78IOvSOb11jAqe6KIY2cMK"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1031,22 +1047,6 @@
       "duration_ms": 269426,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/0ujJPajsdivu4G4SrzWHJG"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
-        "name": "Half Moon Smile",
-        "url": "https://open.spotify.com/album/77pBFFjNgpjJ3PuAJ2qVl7"
-      },
-      "artists": [
-        {
-          "name": "HoK\u00f8",
-          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
-        }
-      ],
-      "duration_ms": 124213,
-      "name": "Half Moon Smile",
-      "url": "https://open.spotify.com/track/78IOvSOb11jAqe6KIY2cMK"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "La Sentencia",
-        "url": "https://open.spotify.com/album/1ByZNnTMqYnzhDCvdZvaEh"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 277597,
-      "name": "La Sentencia",
-      "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "on the tender spot of every calloused moment",
         "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Into The Silence",
-        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
-        }
-      ],
-      "duration_ms": 558493,
-      "name": "Life And Death",
-      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
@@ -1211,6 +1179,38 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "Into The Silence",
+        "url": "https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        }
+      ],
+      "duration_ms": 558493,
+      "name": "Life And Death",
+      "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "La Sentencia",
+        "url": "https://open.spotify.com/album/1ByZNnTMqYnzhDCvdZvaEh"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 277597,
+      "name": "La Sentencia",
+      "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "Swept Away",
         "url": "https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 378520,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "For the Culture",
+        "url": "https://open.spotify.com/album/30xdpzKsm1AcSPqWOdMSek"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "For the Culture",
+      "url": "https://open.spotify.com/track/5VyhDlll6gIanznhIhfu3s"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1263,22 +1279,6 @@
       "duration_ms": 280986,
       "name": "Finding Ways",
       "url": "https://open.spotify.com/track/0AfHjDkvsE4aCDIg2wZsBa"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
-        "name": "For the Culture",
-        "url": "https://open.spotify.com/album/30xdpzKsm1AcSPqWOdMSek"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "For the Culture",
-      "url": "https://open.spotify.com/track/5VyhDlll6gIanznhIhfu3s"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        }
-      ],
-      "duration_ms": 267565,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "Collblanc",
         "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 363818,
       "name": "Collblanc",
       "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 267565,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "This Is The Day",
+        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Guidi Trio",
+          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Trilly - Variation",
+      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
       },
@@ -1751,18 +1767,22 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "This Is The Day",
-        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
+        "name": "Precarious Towers",
+        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
       },
       "artists": [
         {
-          "name": "Giovanni Guidi Trio",
-          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
+          "name": "Johannes Wallmann",
+          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
+        },
+        {
+          "name": "Sharel Cassity",
+          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
         }
       ],
-      "duration_ms": 297546,
-      "name": "Trilly - Variation",
-      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
+      "duration_ms": 284333,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -1815,26 +1835,6 @@
       "duration_ms": 248142,
       "name": "Meant for You",
       "url": "https://open.spotify.com/track/3EnmCWvp0VeuYY4Gi6GiL2"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
-        "name": "Precarious Towers",
-        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
-      },
-      "artists": [
-        {
-          "name": "Johannes Wallmann",
-          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
-        },
-        {
-          "name": "Sharel Cassity",
-          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Try To Remember",
-      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2135,6 +2135,26 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 521080,
+      "name": "Perfectly Unhappy",
+      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "Western Music Box",
         "url": "https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1"
       },
@@ -2155,22 +2175,26 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
         },
         {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
         }
       ],
-      "duration_ms": 521080,
-      "name": "Perfectly Unhappy",
-      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
+      "duration_ms": 331423,
+      "name": "Tom Traubert's Blues",
+      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2247,30 +2271,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Remember to Remember",
-        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cusmano",
-          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
-        },
-        {
-          "name": "Nello Toscano",
-          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 331423,
-      "name": "Tom Traubert's Blues",
-      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
       },
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Trust and Honesty",
-        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 278182,
-      "name": "Designs",
-      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "Abeyance",
         "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
       },
@@ -2343,6 +2327,22 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "Trust and Honesty",
+        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 278182,
+      "name": "Designs",
+      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "Orange Sea",
         "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
       },
@@ -2355,6 +2355,22 @@
       "duration_ms": 369060,
       "name": "What Are You Doing for the Rest of Your Life",
       "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 263971,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2391,22 +2407,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "No Cure",
-        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 263971,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
@@ -2439,22 +2439,18 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Dialect",
-        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
+        "name": "Four",
+        "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
       },
       "artists": [
         {
-          "name": "Claire Cross",
-          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
-        },
-        {
-          "name": "Harry Cook",
-          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 222858,
-      "name": "Road to Eden",
-      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+      "duration_ms": 309733,
+      "name": "Lookout for Hope",
+      "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2487,18 +2483,22 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
+        "name": "Dialect",
+        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Claire Cross",
+          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
+        },
+        {
+          "name": "Harry Cook",
+          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
         }
       ],
-      "duration_ms": 309733,
-      "name": "Lookout for Hope",
-      "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
+      "duration_ms": 222858,
+      "name": "Road to Eden",
+      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2707,34 +2707,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/1aVsQPp7PGfHFLAWivIbly"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        },
-        {
-          "name": "John Medeski",
-          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
-        },
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        },
-        {
-          "name": "Kenny Wollesen",
-          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Opal",
-      "url": "https://open.spotify.com/track/60ELJe2Bp0gCAnAINQz1Zj"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "In Real Time",
         "url": "https://open.spotify.com/album/2zkgkyuC0eyxS2d73xTc2o"
       },
@@ -2795,6 +2767,34 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/1aVsQPp7PGfHFLAWivIbly"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/60ELJe2Bp0gCAnAINQz1Zj"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
         "name": "The Lights Are Always On",
         "url": "https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB"
       },
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Love Letters (The Ballad Sessions)",
-        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 310182,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
-    },
-    {
-      "added_at": "2026-02-13 08:58:35",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -2891,18 +2875,18 @@
     {
       "added_at": "2026-02-13 08:58:35",
       "album": {
-        "name": "Wisdom Is Eternal (For Barry Harris)",
-        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+        "name": "Love Letters (The Ballad Sessions)",
+        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
       },
       "artists": [
         {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
         }
       ],
-      "duration_ms": 273190,
-      "name": "Wisdom Is Eternal (For Barry Harris)",
-      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
+      "duration_ms": 310182,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-02-13 08:58:35",
@@ -2919,6 +2903,22 @@
       "duration_ms": 176871,
       "name": "Close Enough for Love",
       "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
+    },
+    {
+      "added_at": "2026-02-13 08:58:35",
+      "album": {
+        "name": "Wisdom Is Eternal (For Barry Harris)",
+        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 273190,
+      "name": "Wisdom Is Eternal (For Barry Harris)",
+      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
     },
     {
       "added_at": "2026-02-13 08:58:35",

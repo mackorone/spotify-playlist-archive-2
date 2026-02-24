@@ -4,11 +4,12 @@
 
 > Lo mejor de febrero 2026\. Cover: ARIA VEGA
 
-1,399 songs - 3 day 2 hr 22 min
+1,400 songs - 3 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 | 2025-11-21 | 2026-02-21 |
+| [$UELTA GATITA $UELTA](https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:51 | 2026-02-23 |  |
 | [\(Entre Paréntesis\)](https://open.spotify.com/track/2qRUun6bLQlaP0Rs0Uj6Xd) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [\(Entre Paréntesis\)](https://open.spotify.com/album/5iP5eTw3URgYiVKskIu7UB) | 2:48 | 2024-04-05 | 2024-06-04 |
 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 | 2026-01-30 |  |
 | [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 | 2024-11-19 | 2025-01-14 |
@@ -722,7 +723,7 @@
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2022-11-15 | 2023-01-21 |
 | [Luna de Miel](https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Luna de Miel](https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6) | 3:32 | 2026-02-11 |  |
-| [Luna de Miel](https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 3:35 | 2025-11-21 |  |
+| [Luna de Miel](https://open.spotify.com/track/5o6Ydp2XdrOSNcRNYGKN1V) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 3:35 | 2025-11-21 | 2026-02-24 |
 | [Luna Nueva](https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO) | [Limón Blue](https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0) | [Luna Nueva](https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL) | 3:43 | 2024-08-20 | 2024-09-11 |
 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 | 2024-05-01 | 2024-07-04 |
 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 | 2025-05-29 | 2025-09-07 |

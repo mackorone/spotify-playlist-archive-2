@@ -1035,28 +1035,6 @@
     },
     {
       "album": {
-        "name": "No Fun Mondays",
-        "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
-      },
-      "artists": [
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        },
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "date_added": "2023-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134671,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1076,6 +1054,28 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "album": {
+        "name": "No Fun Mondays",
+        "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
+      },
+      "artists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134672,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
     },
     {
       "album": {

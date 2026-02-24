@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: Yaya Bey",
-  "num_followers": 53562,
+  "num_followers": 53587,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -381,20 +381,24 @@
       "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH"
     },
     {
-      "added_at": "2026-01-23 01:47:43",
+      "added_at": "2026-02-12 13:00:19",
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
       },
       "artists": [
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -465,24 +469,20 @@
       "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
-      "added_at": "2026-02-12 13:00:19",
+      "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
       "artists": [
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -687,8 +687,8 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Nothing Is Impossible With You",
-        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
@@ -696,9 +696,25 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 254066,
-      "name": "Nothing Is Impossible With You",
-      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -771,8 +771,8 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Music and Me",
-        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
-      },
-      "artists": [
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Music & Me",
-      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Music and Me",
+        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Music & Me",
+      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
-      },
-      "artists": [
-        {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Let's Straighten It Out",
-      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -1051,6 +1035,38 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
+      },
+      "artists": [
+        {
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Let's Straighten It Out",
+      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344493,
-      "name": "Spanish Joint",
-      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 117976,
       "name": "I'll Call U Back",
       "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344493,
+      "name": "Spanish Joint",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
     },
     {
       "added_at": "2026-01-23 01:47:43",

@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-121 songs - 5 hr 53 min
+122 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 | 2022-06-01 | 2023-06-09 |
 | [Se Suicidó Un Asesino](https://open.spotify.com/track/7rOmlSpOz4c2NGVGmGuGiA) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:55 | 2024-06-04 | 2024-06-07 |
 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T) | 3:04 | 2024-03-23 | 2025-08-05 |
+| [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/6PsDG1mEF8Aye8nmIuTXdq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 3:04 | 2026-02-24 |  |
 | [Siempre En Mi Mente](https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:17 | 2022-06-01 | 2023-03-03 |
 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 | 2022-06-01 |  |
 | [Tabaco Mascao](https://open.spotify.com/track/0bnaXblY5gHTRw9KwKc4KO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:08 | 2024-06-18 | 2025-12-25 |

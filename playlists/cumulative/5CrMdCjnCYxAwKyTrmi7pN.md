@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-312 songs - 17 hr 14 min
+313 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 | 2025-10-15 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-09-22 |  |
 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 | 2025-07-25 | 2025-09-23 |
+| [Don't Dream It's Over](https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House \(Deluxe\)](https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ) | 3:58 | 2026-02-23 |  |
 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:38 | 2025-10-10 | 2026-02-03 |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-07-17 | 2025-09-23 |
 | [Don’t Blame It On Me](https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Don’t Blame It On Me](https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe) | 3:01 | 2026-02-02 |  |
@@ -141,7 +142,7 @@
 | [in love with us](https://open.spotify.com/track/44onYrHxP7S8kIrv779m6H) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/6o1OUM1A0nCVCYD7QGFsld) | 2:40 | 2025-08-11 | 2025-09-23 |
 | [In My World](https://open.spotify.com/track/2R4mhwY1OCrsOgC3EYrcj7) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/157mdFtAohLLC8NWhXdgTU) | 3:35 | 2026-01-23 | 2026-02-21 |
 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 | 2025-11-07 | 2026-02-03 |
-| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-12 |  |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-12 | 2026-02-24 |
 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 | 2025-07-17 | 2026-01-24 |
 | [I’m Good \- From The Movie “GOAT”](https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I’m Good \(From The Movie “GOAT”\)](https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa) | 2:59 | 2026-01-23 | 2026-02-14 |
 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-07-17 | 2025-09-23 |

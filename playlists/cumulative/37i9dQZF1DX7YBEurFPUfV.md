@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Kaso
 
-172 songs - 9 hr 58 min
+174 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 | 2024-10-31 |  |
 | [3A9LIYA](https://open.spotify.com/track/0Qleubp4EIjr18kyiPrqFM) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [3A9LIYA](https://open.spotify.com/album/0LtRM2zIldzy1kfbXyfT58) | 3:19 | 2024-12-18 |  |
 | [3almdar](https://open.spotify.com/track/2yi5HVJ7QZl1mJq3UwsZHx) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [3almdar](https://open.spotify.com/album/5VfsO3G05wH1Fr2ySj9AMO) | 2:47 | 2024-02-24 | 2024-04-19 |
+| [6](https://open.spotify.com/track/5M88pOSbcI0MiP1LQIQRsw) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:29 | 2026-02-23 |  |
 | [7adhramawt](https://open.spotify.com/track/4LDJlpyPK5NT3DgLGM6TD3) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [7adhramawt](https://open.spotify.com/album/7A5qHWKwy0cOFso8JgziPw) | 3:03 | 2024-02-24 | 2025-02-08 |
 | [7ob Wel Share3](https://open.spotify.com/track/5nxuqr5PmI16uCnAeiNvnv) | [Shvdy](https://open.spotify.com/artist/47RKFB8jXDB8JJbloio0Nh), [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [7ob Wel Share3](https://open.spotify.com/album/6pCQ7bMnNdFVFvIKfw4Nh3) | 3:16 | 2024-12-05 | 2024-12-22 |
 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 | 2024-02-24 | 2025-06-17 |
@@ -69,7 +70,7 @@
 | [Heroine](https://open.spotify.com/track/0iKRsjag7PRFFs9N6je8HK) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Heroine](https://open.spotify.com/album/3rCPPG6uTfQoy9eDFccejT) | 3:26 | 2024-02-24 | 2024-09-14 |
 | [Hina Maysara](https://open.spotify.com/track/6U0mrz8ngDEXCW8nfGFHf6) | [El Castro](https://open.spotify.com/artist/5aj6jIshzpUh4WQvQ5EzKO), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [New Bitch Mixtape](https://open.spotify.com/album/4WmGKFXMf88b00Ze6036DZ) | 5:21 | 2025-12-18 |  |
 | [Hkayet](https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Hkayet](https://open.spotify.com/album/2EkmDyQHSd63mQi7Dm9kdJ) | 3:40 | 2024-06-04 | 2024-08-29 |
-| [HOODOO](https://open.spotify.com/track/2sZzwOGUoFka8R6BxNAD0F) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 3:21 | 2026-01-15 |  |
+| [HOODOO](https://open.spotify.com/track/2sZzwOGUoFka8R6BxNAD0F) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 3:21 | 2026-01-15 | 2026-02-24 |
 | [Imin Issar](https://open.spotify.com/track/2BkZDGr2VPqxmWVL1Ct00m) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Imin Issar & F2system](https://open.spotify.com/album/5ciLZCSy48FsgFE5e9R45M) | 3:18 | 2025-10-29 |  |
 | [Indica](https://open.spotify.com/track/4gJLd2cOfS0wlzmZ4BIjNm) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Indica](https://open.spotify.com/album/1cPuoUIkK5GqJWDKgGVScZ) | 3:39 | 2024-02-24 | 2024-08-01 |
 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 | 2024-08-01 | 2026-01-17 |
@@ -96,7 +97,7 @@
 | [Lella El Baya](https://open.spotify.com/track/0VLispf4BLgivvxIpaW6Ad) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Lella El Baya](https://open.spotify.com/album/4o0JIe4ijtniXvoCmNvRR4) | 2:56 | 2024-02-24 | 2024-05-04 |
 | [Lezem Lezem](https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Lezem Lezem](https://open.spotify.com/album/46VkK0IxKyKGBCJGt2BgGI) | 2:28 | 2024-02-24 | 2024-07-05 |
 | [Lila](https://open.spotify.com/track/2P0ulgDqG2zEuGKxkxFf5A) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lila](https://open.spotify.com/album/0hEFFPkulNDw55tWoUZX9h) | 3:05 | 2025-02-17 | 2025-07-11 |
-| [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
+| [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 | 2026-02-24 |
 | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 | 2026-01-15 |  |
 | [LOUMNI](https://open.spotify.com/track/0ENM5reWF2EpNb3msvqCQ0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:50 | 2025-02-27 |  |
 | [Ma7abounech](https://open.spotify.com/track/2MmpGn3sHmxSRG8GIyLkMe) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Ma7abounech](https://open.spotify.com/album/53uh6KHa3EmTcykX6s8m0s) | 3:22 | 2026-01-01 |  |
@@ -113,6 +114,7 @@
 | [Mel Galb](https://open.spotify.com/track/1RjZ14m5vJCa47WDmM2RHD) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mel Galb](https://open.spotify.com/album/1V4kGcJm7sh4iX3r5hAF0O) | 3:45 | 2024-02-24 | 2025-07-05 |
 | [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 | 2024-05-03 |
+| [Menich Kifek](https://open.spotify.com/track/4vaTwE03SH9sBUcrzZ8p8M) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Menich Kifek](https://open.spotify.com/album/2gbXvuONYEsEyp8oclz5Ug) | 3:15 | 2026-02-23 |  |
 | [MERENGUE](https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p) | [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [MERENGUE](https://open.spotify.com/album/7fhrmMITLrEEyCCsQS8HLw) | 3:12 | 2024-09-13 | 2024-09-19 |
 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 | 2024-07-26 | 2025-03-13 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 | 2024-07-17 |

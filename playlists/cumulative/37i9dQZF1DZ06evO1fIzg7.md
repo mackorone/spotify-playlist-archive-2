@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 35 min
+59 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Come with Us](https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 3:54 | 2025-10-28 |  |
 | [Crying at the Discotheque](https://open.spotify.com/track/2m3c0Fe9teHlUKlOfFgOd8) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:51 | 2025-10-28 | 2026-02-06 |
 | [Crying at the Discotheque](https://open.spotify.com/track/48n09PfulQQGKMoTKTxi7w) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Crying at the Discotheque](https://open.spotify.com/album/6ft7u4owE0OZDTMefWy4Ts) | 3:51 | 2026-02-06 |  |
-| [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 | 2025-12-23 |  |
+| [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 | 2025-12-23 | 2026-02-24 |
 | [Dolce Vita](https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 | 2025-10-28 |  |
 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 | 2025-10-28 |  |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2025-10-28 |  |
@@ -43,6 +43,7 @@
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2025-10-28 |  |
 | [Music Gets The Best Of Me](https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:38 | 2025-10-28 |  |
 | [Not Giving Up On Love](https://open.spotify.com/track/4H2h7b2u800wp186jLGVNO) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Mirage](https://open.spotify.com/album/2XnpW7dS9Jhf8Y0jUZzwWF) | 2:53 | 2025-10-28 |  |
+| [Not Giving Up On Love \[Mix Cut\]](https://open.spotify.com/track/1qarRR4Fxt3VfWmaNqtVIU) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Armin Anthems \(Incl\. Bonus Commentary\) \[Ultimate Singles Collected\]](https://open.spotify.com/album/1Ros7GgRwoyJbqGn6TELAj) | 1:57 | 2026-02-24 |  |
 | [Off & On](https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:31 | 2025-10-28 |  |
 | [Only Child \- Atlantic Remix](https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1) | [DedRekoning](https://open.spotify.com/artist/1GkU5qfgt9RWsFXrzcNPa4), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Atlantic](https://open.spotify.com/artist/7a68Oaa1klcaGlk1VA1lQd) | [Only Child](https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB) | 3:45 | 2025-10-28 |  |
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2025-10-28 |  |

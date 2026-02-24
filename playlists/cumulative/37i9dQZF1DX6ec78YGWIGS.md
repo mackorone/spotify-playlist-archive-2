@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS
 
-495 songs - 1 day 0 hr 36 min
+496 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [BANDIDO](https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [BANDIDO](https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq) | 4:14 | 2023-05-12 | 2025-10-18 |
 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 | 2023-12-15 | 2024-05-18 |
 | [BELLAQUERIA](https://open.spotify.com/track/4idfodHR51jrjpuIww8HGw) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [BELLAQUERIA](https://open.spotify.com/album/2wljB7jT9Wkfp2o7cKz2Fb) | 3:33 | 2024-03-15 | 2024-05-25 |
-| [Besame](https://open.spotify.com/track/65BtSndvZ1MCeVNmOE7Q4Q) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m) | [Besame](https://open.spotify.com/album/26ljfUODo1x8BhsrxdpONj) | 3:03 | 2025-09-12 |  |
+| [Besame](https://open.spotify.com/track/65BtSndvZ1MCeVNmOE7Q4Q) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m) | [Besame](https://open.spotify.com/album/26ljfUODo1x8BhsrxdpONj) | 3:03 | 2025-09-12 | 2026-02-24 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-05-12 | 2023-09-27 |
 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 | 2024-04-12 | 2024-07-13 |
 | [bien x vos](https://open.spotify.com/track/2vPtBcclyIpgB4KyjUvkaX) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [bien x vos](https://open.spotify.com/album/0TbwCsF9sAb58yxFxUUy7y) | 2:26 | 2023-06-16 | 2023-09-01 |
@@ -494,6 +494,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-04-05 | 2024-10-19 |
 | [WE PRAY \- \(TINI Version\)](https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 | 2024-09-06 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-08-03 |
+| [X AMOR](https://open.spotify.com/track/3VmbHemGYprg5fYFG6ZEdh) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Gonzo](https://open.spotify.com/artist/7oAnJj6TBKt2qWXz7g6WPS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [X AMOR](https://open.spotify.com/album/67pDqlELzfg5FNceBAd8Vc) | 2:54 | 2026-02-23 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2023-05-12 | 2024-08-14 |
 | [Ya No Vuelvas](https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS) | 2:24 | 2023-05-12 | 2025-07-25 |
 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 | 2023-09-01 | 2024-05-18 |

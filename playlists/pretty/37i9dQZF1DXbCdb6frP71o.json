@@ -1,12 +1,12 @@
 {
   "description": "Devotional tracks for an immersive Ramadan. Cover: Atif Aslam",
-  "num_followers": 16272,
+  "num_followers": 16311,
   "original_name": "Hamd-o-Naat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKhWNSudzv/dQ0e4J2a9rhDIDK8",
+  "snapshot_id": "AAAAAInmDR3mYhJRxua9W3j6J3reNmLH",
   "tracks": [
     {
       "added_at": "2026-01-30 11:44:00",
@@ -159,22 +159,6 @@
       "duration_ms": 294147,
       "name": "Ya Nabi Salam Alaika",
       "url": "https://open.spotify.com/track/0rFMtP81248EFHTrIYbQfn"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
-        "name": "Noor-E-Azal",
-        "url": "https://open.spotify.com/album/4cN5MKoETae7GLcbzJxuFY"
-      },
-      "artists": [
-        {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
-        }
-      ],
-      "duration_ms": 180406,
-      "name": "Noor E Azal Noor E Khuda",
-      "url": "https://open.spotify.com/track/2hCp01OECb21ZB7z04UIGI"
     },
     {
       "added_at": "2026-01-30 11:44:00",
@@ -443,22 +427,6 @@
     {
       "added_at": "2026-01-30 11:44:00",
       "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
-      },
-      "artists": [
-        {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
-        }
-      ],
-      "duration_ms": 523722,
-      "name": "Zahe Muqaddar Huzoor-e-Haq Se",
-      "url": "https://open.spotify.com/track/2dU2xQWjxbzpBICGW5uJZw"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
         "name": "Footsteps in the Light",
         "url": "https://open.spotify.com/album/0xzTrAtvSbPF7MAabJe34I"
       },
@@ -575,22 +543,6 @@
     {
       "added_at": "2026-01-30 11:44:00",
       "album": {
-        "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
-        "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
-      },
-      "artists": [
-        {
-          "name": "Junaid Jamshed",
-          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
-        }
-      ],
-      "duration_ms": 395490,
-      "name": "Muhammad Ka Roza",
-      "url": "https://open.spotify.com/track/5rCYGksuDRVMI9FtYSZUXi"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
         "name": "Allah Hoo",
         "url": "https://open.spotify.com/album/3e0NZcwd5FmCc4FP0leyq8"
       },
@@ -679,22 +631,6 @@
     {
       "added_at": "2026-01-30 11:44:00",
       "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
-      },
-      "artists": [
-        {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
-        }
-      ],
-      "duration_ms": 368165,
-      "name": "Qasida Burda Sharif",
-      "url": "https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
         "name": "Kalam E Iqbal",
         "url": "https://open.spotify.com/album/2BRaEghBFdq71LgoZcrMID"
       },
@@ -775,6 +711,62 @@
     {
       "added_at": "2026-01-30 11:44:00",
       "album": {
+        "name": "Gulzar e Madina, Vol. 2",
+        "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 368165,
+      "name": "Qasida Burda Sharif",
+      "url": "https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS"
+    },
+    {
+      "added_at": "2026-02-23 05:02:35",
+      "album": {
+        "name": "Dar-e-Mustafa",
+        "url": "https://open.spotify.com/album/43VOS6Hu6fND9O1umqWhIm"
+      },
+      "artists": [
+        {
+          "name": "Hashim Ahmedani",
+          "url": "https://open.spotify.com/artist/0Su1XZz9jwRLRT0GBGWLpO"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Alex Shahbaz",
+          "url": "https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dar-e-Mustafa",
+      "url": "https://open.spotify.com/track/44ltiU6dgzdThPoZ7NtOMW"
+    },
+    {
+      "added_at": "2026-01-30 11:44:00",
+      "album": {
+        "name": "Noor-E-Azal",
+        "url": "https://open.spotify.com/album/4cN5MKoETae7GLcbzJxuFY"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "duration_ms": 180406,
+      "name": "Noor E Azal Noor E Khuda",
+      "url": "https://open.spotify.com/track/2hCp01OECb21ZB7z04UIGI"
+    },
+    {
+      "added_at": "2026-01-30 11:44:00",
+      "album": {
         "name": "Aey Saba Mustafa Se Kehdena",
         "url": "https://open.spotify.com/album/1HLdQ14w4T7n02zr5iXi6m"
       },
@@ -795,22 +787,6 @@
       "duration_ms": 272000,
       "name": "Aey Saba Mustafa Se Kehdena",
       "url": "https://open.spotify.com/track/3t7QztpVbnLZj0YRHvqjoO"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
-      },
-      "artists": [
-        {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
-        }
-      ],
-      "duration_ms": 542184,
-      "name": "Faslon Ko Takalluf Hai",
-      "url": "https://open.spotify.com/track/1FpcOqFbqJGAnACwB8yNLW"
     },
     {
       "added_at": "2026-01-30 11:44:00",
@@ -847,22 +823,6 @@
     {
       "added_at": "2026-01-30 11:44:00",
       "album": {
-        "name": "Balaghal-Ula Bi-Kamaalihi",
-        "url": "https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 524000,
-      "name": "Balaghal-Ula Bi-Kamaalihi",
-      "url": "https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C"
-    },
-    {
-      "added_at": "2026-01-30 11:44:00",
-      "album": {
         "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
         "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
       },
@@ -875,6 +835,22 @@
       "duration_ms": 295818,
       "name": "Illahi Teri Chaukhat Par",
       "url": "https://open.spotify.com/track/4nGcmvrlNuw4jLeC9Kv4wh"
+    },
+    {
+      "added_at": "2026-01-30 11:44:00",
+      "album": {
+        "name": "Gulzar e Madina, Vol. 2",
+        "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 523722,
+      "name": "Zahe Muqaddar Huzoor-e-Haq Se",
+      "url": "https://open.spotify.com/track/2dU2xQWjxbzpBICGW5uJZw"
     }
   ],
   "unique_name": "Hamd-o-Naat",

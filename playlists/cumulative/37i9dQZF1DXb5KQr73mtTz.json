@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Hard to Forget You",
+        "url": "https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy"
+      },
+      "artists": [
+        {
+          "name": "Kim Na-kyung",
+          "url": "https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193742,
+      "name": "Hard to Forget You",
+      "url": "https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW"
+    },
+    {
+      "album": {
         "name": "Hard to Say",
         "url": "https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2"
       },
@@ -2620,6 +2638,24 @@
       "duration_ms": 221720,
       "name": "In your heart",
       "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "album": {
+        "name": "In Your Radiant Season (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1qixn8PethejxusWT4vbRO"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202340,
+      "name": "In Your Spring",
+      "url": "https://open.spotify.com/track/7EFl6oYZT6G1549keApW8s"
     },
     {
       "album": {
@@ -5321,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "To you in the distance",
+        "url": "https://open.spotify.com/album/5LMwTjdSAzL9CKESSMtHU1"
+      },
+      "artists": [
+        {
+          "name": "HARO",
+          "url": "https://open.spotify.com/artist/3Ys4lzDtTI4ycQN9YLg4km"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "To you in the distance",
+      "url": "https://open.spotify.com/track/2qmKWH1yuuV6XSi72mYnAV"
+    },
+    {
+      "album": {
         "name": "today was the day I wasn't loved by anyone",
         "url": "https://open.spotify.com/album/4HQA1L58DfEhKQ2VKcVa6W"
       },
@@ -5386,7 +5440,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 212316,
       "name": "Unforgettable first love",
       "url": "https://open.spotify.com/track/6S7FRqGNjoREwroMRvXg1k"
@@ -5426,7 +5480,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 235681,
       "name": "We Burned, Then We Faded",
       "url": "https://open.spotify.com/track/0P9C5boFhWWhsoOktvB8vd"
@@ -5668,7 +5722,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 261000,
       "name": "With a smile",
       "url": "https://open.spotify.com/track/5kppvK2WJueiLy4ntFkNaj"

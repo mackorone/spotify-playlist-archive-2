@@ -4,7 +4,7 @@
 
 > Previously known as Runaway
 
-26 songs - 1 hr 37 min
+27 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-11-23 |  |
 | [There Is a Light That Never Goes Out \- 2017 Master](https://open.spotify.com/track/3mkS1alZdcdBQuIMad8aee) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead \(Deluxe Edition\)](https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj) | 4:02 | 2024-10-14 |  |
 | [Wasteland](https://open.spotify.com/track/24Qd5OZoCPLkGUrsLcJ3CW) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 3:12 | 2024-10-03 |  |
+| [Whose Eye Is It Anyway???](https://open.spotify.com/track/480xcT2WmBvhMtKd9jj7ey) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [To Mend the Sun](https://open.spotify.com/album/2ujYOS6J7C4t2j7kz8F0xm) | 2:43 | 2026-02-23 |  |
 | [You Don't Own Me](https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:27 | 2024-10-12 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

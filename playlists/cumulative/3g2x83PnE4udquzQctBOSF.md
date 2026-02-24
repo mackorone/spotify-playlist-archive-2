@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-497 songs - 1 day 6 hr 7 min
+500 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [conexion paranormal](https://open.spotify.com/track/3oHgG69SLHaaZQE8SFP1x4) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:40 | 2026-01-08 | 2026-02-23 |
 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 | 2023-04-30 | 2023-05-23 |
 | [Crownless King](https://open.spotify.com/track/2iVseFHp51kkXwkBFKXhHh) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/34h08NCdFsGF2aLT4TQRrZ) | 1:30 | 2026-01-23 | 2026-02-23 |
+| [Crownless King](https://open.spotify.com/track/3zTaEwpk8YhtsTXFanX6tQ) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 1:30 | 2026-02-23 |  |
 | [Cumbox](https://open.spotify.com/track/5jjSAzLVHCXqo63fvOrt5e) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Cumbox](https://open.spotify.com/album/5xyQ6UumlBSInYxRbp0cef) | 3:24 | 2025-12-19 | 2026-01-03 |
 | [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-07-02 | 2023-07-17 |
 | [Damnnn](https://open.spotify.com/track/2CH0ixni5BrCNceFTrIw8B) | [HAYNES](https://open.spotify.com/artist/0WZl1y6QbVezqTc2EqDHr4) | [Thicc N Juiccy](https://open.spotify.com/album/7dNRzgnt2UdVBW9GhxkkmZ) | 6:38 | 2023-01-29 | 2023-03-06 |
@@ -436,6 +437,7 @@
 | [Take It Easy](https://open.spotify.com/track/1yFJGIc4AgYdFRkaLkBO3j) | [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Take It Easy](https://open.spotify.com/album/64q2E4RwaEu3PocVll20Z5) | 2:51 | 2023-02-12 | 2023-03-06 |
 | [Tell me](https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG) | [MøRì](https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL) | [Tell me](https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb) | 4:11 | 2026-02-11 | 2026-02-23 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-30 | 2023-05-23 |
+| [Terrace Express \- Original Mix](https://open.spotify.com/track/1k0pziWBAbZtH2V2CoVrR6) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Terrace Express](https://open.spotify.com/album/3oqrimZKe9RS07nxEfPVqF) | 5:56 | 2026-02-23 |  |
 | [The Biznes](https://open.spotify.com/track/5DCSFGxrLMYYio1NKPNEO6) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rave Grave](https://open.spotify.com/album/5h4wJIZVn43IZVTJxMsete) | 3:27 | 2023-07-02 | 2023-07-31 |
 | [The Chant](https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59) | [Danner \(US\)](https://open.spotify.com/artist/3AuIQd8biRyI5g4FiwO8AI) | [The Chant](https://open.spotify.com/album/5y0nLRNNz8vBAHueIu6gsx) | 2:51 | 2023-01-29 | 2023-02-20 |
 | [The Feeling](https://open.spotify.com/track/3rDHqwEaW1imPZrNngMJaY) | [Joax](https://open.spotify.com/artist/6ZVtX2xT5iMoNqDrKZDy1R) | [The Feeling](https://open.spotify.com/album/48V4icljZR1aRguBSyKNU8) | 3:43 | 2026-01-14 | 2026-02-23 |
@@ -470,6 +472,7 @@
 | [Vankara](https://open.spotify.com/track/6RtjeiSNc8aS1t7jB7A60k) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Vankara](https://open.spotify.com/album/0iEDRaHlD05PL0CgXQQb86) | 2:36 | 2023-01-15 | 2023-02-13 |
 | [Venezolana \- Original Mix](https://open.spotify.com/track/0bQlyeYdCvnimXDoL8XB6d) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [Venezolana](https://open.spotify.com/album/3lStdA5SbysTqa6Sqcxofs) | 5:37 | 2023-01-29 | 2023-02-20 |
 | [Venezuela](https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Venezuela](https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy) | 2:32 | 2023-05-14 | 2023-06-12 |
+| [Venus on Vinyl](https://open.spotify.com/track/20FvR7RRJvPf5blpoK4Q15) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:03 | 2026-02-23 |  |
 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 | 2024-05-19 |  |
 | [Victory in Slow Motion](https://open.spotify.com/track/6ybYUXW0U1wi1JWadeEY7y) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 1:31 | 2026-01-30 | 2026-02-23 |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-11 | 2023-07-03 |

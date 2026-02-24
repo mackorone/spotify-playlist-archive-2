@@ -1,15 +1,15 @@
 {
   "description": "Watch exclusive live performances from Spotify's Best New Artist Party. Music Videos only available on premium.",
-  "num_followers": 157257,
+  "num_followers": 157353,
   "original_name": "Best New Artist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHWoU1DQIGGfzpwKRUvADoYbYr4G",
+  "snapshot_id": "AAAAADydn4InZiHd8Z+8peH7NjHkg1u1",
   "tracks": [
     {
-      "added_at": "2026-02-06 21:04:13",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Man I Need (Live) | Spotify Best New Artist",
         "url": "https://open.spotify.com/album/5Bt2zqIvQ5BtgoLrKjcyI6"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2UaHy96emBz85rYljZTs8S"
     },
     {
-      "added_at": "2026-02-06 21:04:13",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "back to friends (Live) | Spotify Best New Artist",
         "url": "https://open.spotify.com/album/55EiSSdCOYFHHXlUm4EuvY"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7hnRwuDI4sYRgMyFAlMLDF"
     },
     {
-      "added_at": "2026-02-06 21:04:13",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "d\u00a3aler (Live) | Spotify Best New Artist",
         "url": "https://open.spotify.com/album/0v5PNBzVwh0Vs5LhEMmEL3"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/0mk2VyfCAbap4u8iotd8f3"
     },
     {
-      "added_at": "2026-02-06 21:04:13",
-      "album": {
-        "name": "Gnarly (Live) | Spotify Best New Artist",
-        "url": "https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "Gnarly (Live) | Spotify Best New Artist",
-      "url": "https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr"
-    },
-    {
-      "added_at": "2026-02-06 21:36:11",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Ordinary (Live) | Spotify Best New Artist",
         "url": "https://open.spotify.com/album/3UaeDahMnSx1tUbZ7uHWT1"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/6mfQp9SPJiqb3PItp7cIMl"
     },
     {
-      "added_at": "2026-02-07 01:00:29",
+      "added_at": "2026-02-23 16:45:40",
+      "album": {
+        "name": "Gnarly (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Gnarly (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr"
+    },
+    {
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Nobody New (Live) | Spotify Best New Artist",
         "url": "https://open.spotify.com/album/1tnlXVfwlzZhid6TTM1vyr"
@@ -105,10 +105,10 @@
       "url": "https://open.spotify.com/track/5W24RsurxAxgj1Nmj6fzPe"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+        "name": "VIBES DON'T LIE (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/3LbzC9LXEbSaHDtJuN8xL6"
       },
       "artists": [
         {
@@ -116,12 +116,12 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+      "duration_ms": 218559,
+      "name": "VIBES DON'T LIE (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2vG4YG3UimqjGujSLBNXHG"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -169,23 +169,23 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
@@ -233,7 +233,23 @@
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Headphones On",
         "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Electric Dusk",
         "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
     },
     {
-      "added_at": "2026-02-02 01:59:08",
+      "added_at": "2026-02-23 16:45:40",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"

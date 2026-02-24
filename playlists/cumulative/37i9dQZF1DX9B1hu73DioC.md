@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-999 songs - 2 day 11 hr 21 min
+1,000 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-11 | 2023-03-11 |
 | [Beautiful Time](https://open.spotify.com/track/3qdb9PbihUEMX6nJJmlDfr) | [ONUR](https://open.spotify.com/artist/5KFv770m4wjhl6DAUqKskw) | [Beautiful Time](https://open.spotify.com/album/0yHBBkMvtm61C9uX6a8XAq) | 2:46 | 2020-10-05\* | 2020-10-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-04-20 |
+| [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2026-01-16 |  |
 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2022-10-07 | 2023-03-18 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2020-10-16 | 2022-10-22 |
 | [Been So Long](https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Been So Long](https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd) | 3:16 | 2025-03-21 | 2025-08-14 |
@@ -526,7 +527,7 @@
 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 | 2023-12-12 | 2024-11-16 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-06-04 | 2022-06-25 |
 | [Lay Me Down](https://open.spotify.com/track/2ezzd77TFTHCK2EuV6Y8uF) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:03 | 2020-10-05\* | 2020-10-16 |
-| [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 | 2025-09-26 |  |
+| [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 | 2025-09-26 | 2026-02-24 |
 | [Leaves](https://open.spotify.com/track/6D0RsrrwQ2YSYA9lv4lgz5) | [Fanclub](https://open.spotify.com/artist/2XxKRqSS7wels4dpUb5N1h) | [Leaves](https://open.spotify.com/album/1jLqWEcRGmfym6FjbmHlYe) | 3:15 | 2021-03-18 | 2021-05-28 |
 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 | 2024-12-17 | 2025-07-19 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-08-23 |

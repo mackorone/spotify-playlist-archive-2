@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613915,
+  "num_followers": 613893,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "To Love Someone",
-        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "To Love Someone",
-      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "To Love Someone",
+        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "To Love Someone",
+      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Tid & Tro",
-        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 180580,
-      "name": "Om jag somnar",
-      "url": "https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 232170,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Tid & Tro",
+        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "Om jag somnar",
+      "url": "https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 210208,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 210208,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "The Last Bit Of Us",
         "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
         }
       ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+      "duration_ms": 211000,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "And The Story Goes",
         "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
         }
       ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1035,22 +1051,6 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "f\u00f6r oss",
-        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "f\u00f6r oss",
-      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "f\u00f6r oss",
+        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "f\u00f6r oss",
+      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "you chose this",
         "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 158546,
       "name": "you chose this",
       "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 242695,
-      "name": "Can You Afford To Lose Me?",
-      "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Back To My Roots",
-        "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Back To My Roots - Acoustic Version",
-      "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Wish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
       },
@@ -1579,6 +1547,38 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Back To My Roots",
+        "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Back To My Roots - Acoustic Version",
+      "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 242695,
+      "name": "Can You Afford To Lose Me?",
+      "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Vara m\u00e4nniska",
-        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 134624,
-      "name": "Vara m\u00e4nniska",
-      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 182186,
       "name": "I Don't Want To Be Loved",
       "url": "https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Vara m\u00e4nniska",
+        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 134624,
+      "name": "Vara m\u00e4nniska",
+      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Scissors",
         "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 145622,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

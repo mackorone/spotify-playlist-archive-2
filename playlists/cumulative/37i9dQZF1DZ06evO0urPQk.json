@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 232826,
       "name": "WHAT YOU WANT",
       "url": "https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2"
@@ -1990,6 +1990,24 @@
       "duration_ms": 249640,
       "name": "Young Alive!",
       "url": "https://open.spotify.com/track/70q05FPF89GwqGnyCLs9ds"
+    },
+    {
+      "album": {
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "\u305d\u308c\u3067\u3082\u541b\u3092\u60f3\u3044\u51fa\u3059\u304b\u3089-again-",
+      "url": "https://open.spotify.com/track/2wrhxBSUcjIFcSMKkVCq3a"
     },
     {
       "album": {

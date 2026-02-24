@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 170000,
       "name": "Back to zero",
       "url": "https://open.spotify.com/track/3xDCorvyyw6kwnRVo6wYdG"
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 158000,
       "name": "forevermore",
       "url": "https://open.spotify.com/track/293NQ732MJvaNPAWyhrCia"
@@ -11358,7 +11358,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 69295,
       "name": "Look at us falling",
       "url": "https://open.spotify.com/track/50hwSapyIoaGiqfQSR9ocj"
@@ -12454,6 +12454,28 @@
       "duration_ms": 180386,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/2HpiCVq8cCc0T2YFf4nMiR"
+    },
+    {
+      "album": {
+        "name": "Microhabitat",
+        "url": "https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Microhabitat (feat. Kim gyeol)",
+      "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
     },
     {
       "album": {
@@ -14460,6 +14482,24 @@
       "duration_ms": 199570,
       "name": "Our Forgiveness",
       "url": "https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30"
+    },
+    {
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY"
+      },
+      "artists": [
+        {
+          "name": "DANIEL",
+          "url": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246739,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN"
     },
     {
       "album": {
@@ -19788,6 +19828,24 @@
       "duration_ms": 156680,
       "name": "Three Leaf Clover",
       "url": "https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI"
+    },
+    {
+      "album": {
+        "name": "Three letters",
+        "url": "https://open.spotify.com/album/5BeRakAA3UDLcMl9fVGRgH"
+      },
+      "artists": [
+        {
+          "name": "zfuul",
+          "url": "https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222463,
+      "name": "Three letters",
+      "url": "https://open.spotify.com/track/273JKhbzY1OZaOAjhoBOw1"
     },
     {
       "album": {

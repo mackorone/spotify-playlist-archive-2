@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-356 songs - 1 day 9 hr 46 min
+357 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Freebird \- Emi Galvan Remix](https://open.spotify.com/track/657T8RyBAOE47nqlSvJTZf) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Nick Warren Remixed](https://open.spotify.com/album/0a7VzfLfHiHWRHfZqiTfMQ) | 8:54 | 2023-11-17 | 2025-06-27 |
 | [Frequency Shift](https://open.spotify.com/track/7vl0zRu5s8MyFo7qLFwRRC) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj), [DJ Zombi](https://open.spotify.com/artist/450erKExpL0jexs1XpIiiQ) | [Frequency Shift](https://open.spotify.com/album/6MoPv1IxsDe2FQZ0wBBw6x) | 5:51 | 2024-01-19 | 2025-03-20 |
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-17 | 2024-01-13 |
-| [Funcional](https://open.spotify.com/track/6NveqzdAR0CGGHF0HyjYA2) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [Funcional](https://open.spotify.com/album/0XGol7LdMpg4SLJp3DaaTn) | 3:58 | 2026-02-06 |  |
+| [Funcional](https://open.spotify.com/track/6NveqzdAR0CGGHF0HyjYA2) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [Funcional](https://open.spotify.com/album/0XGol7LdMpg4SLJp3DaaTn) | 3:58 | 2026-02-06 | 2026-02-24 |
 | [Glasgow](https://open.spotify.com/track/50RIEOe4hgWNmtxiHCi7Z7) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Glasgow / Riot](https://open.spotify.com/album/1cG4JY9DCL4WVreg68EWjr) | 7:40 | 2025-06-06 |  |
 | [Gracias a la Vida \- Victor Ruiz Remix](https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Gracias a la Vida \(Victor Ruiz Remix\)](https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz) | 6:25 | 2023-11-17 | 2025-03-20 |
 | [Grain \- Radio Edit](https://open.spotify.com/track/3dkUg7ZUEpf26EE5GQbBDe) | [Emiliano Demarco](https://open.spotify.com/artist/16iyQKCAnBMnXZ41URHvoC), [RADON](https://open.spotify.com/artist/1MLActbIjTfRKz1wlkuymB), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Grain](https://open.spotify.com/album/6MNr4zSzPCTYhKmUOuE7v7) | 3:25 | 2025-09-26 |  |
@@ -183,6 +183,7 @@
 | [Like Forever \- Hernan Cattaneo and Kevin Di Serna Remix](https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Like Forever \(Hernan Cattaneo & Kevin Di Serna Remix\)](https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9) | 4:44 | 2024-04-12 | 2025-03-20 |
 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 | 2023-11-17 | 2025-03-20 |
 | [lo que pase \(feat\. Trueno\) \- Muter Remix](https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase \(feat\. Trueno\) \[Muter Remix\]](https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6) | 3:50 | 2025-11-07 |  |
+| [Loaded Clipz](https://open.spotify.com/track/5xEk58vFuuHuOeFIjAFbd5) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Loaded Clipz](https://open.spotify.com/album/2Ymgeh9CkTcrhfYiv0de74) | 3:30 | 2026-02-23 |  |
 | [LOCOPUNK](https://open.spotify.com/track/27Up1hF04zoiFrJWhhHDmx) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY) | [001](https://open.spotify.com/album/0doNVmS0C22OOq3wmsGbQK) | 5:46 | 2024-03-08 | 2025-07-11 |
 | [Look Around](https://open.spotify.com/track/1ZiQeSPg0Z47wEJoZB4bFZ) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Lucio Consolo](https://open.spotify.com/artist/669crSeoDBfn7tO7b9Awfg) | [Look Around](https://open.spotify.com/album/4DOihXdPEb889541qcN3UP) | 5:28 | 2023-11-17 | 2025-06-27 |
 | [Los Siblings](https://open.spotify.com/track/4igeY6Vcaf8NZEI6fRpkju) | [Ricardo Tobar](https://open.spotify.com/artist/5aluWpnmEPLnzbQs691RJM) | [Knitting](https://open.spotify.com/album/0T7ePeVsNlQfbuMzVD75Hs) | 6:07 | 2025-06-27 |  |

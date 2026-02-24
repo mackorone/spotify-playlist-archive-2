@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 202200,
       "name": "(I've Just Begun) Having My Fun - Non-Album Bonus Track",
       "url": "https://open.spotify.com/track/7xy9wgz1zRvMhK4DfptgBj"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 140108,
       "name": "10s",
       "url": "https://open.spotify.com/track/1UmjJwP1jpPWmDfR2Tebvn"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 185381,
       "name": "Addicted to Love - From \"Tell Me Lies (Season 3)\"",
       "url": "https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -1462,6 +1462,24 @@
       "duration_ms": 193846,
       "name": "Auta Ta Matia Ta Glika",
       "url": "https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ"
+    },
+    {
+      "album": {
+        "name": "Avioma-Rack",
+        "url": "https://open.spotify.com/album/0aDHQwEuD2ny5q58G7vBSO"
+      },
+      "artists": [
+        {
+          "name": "peizel.jr",
+          "url": "https://open.spotify.com/artist/1tnB87bPfcoazERLwu2YcJ"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155805,
+      "name": "Avioma-Rack",
+      "url": "https://open.spotify.com/track/6FM9CyXCX3V0zN1AO2hQpR"
     },
     {
       "album": {
@@ -2344,6 +2362,24 @@
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
+    },
+    {
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170211,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
     },
     {
       "album": {
@@ -5515,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "album": {
         "name": "If U Ever",
         "url": "https://open.spotify.com/album/7v7Q1dMyvoTaGicpiEx7HR"
       },
@@ -5809,6 +5863,28 @@
     },
     {
       "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
         "name": "Jananto",
         "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
       },
@@ -5820,7 +5896,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 181445,
       "name": "Jananto",
       "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
@@ -6072,7 +6148,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -6512,6 +6588,24 @@
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "album": {
+        "name": "This Is Hardcore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4KVaUWQnFQSqP3lBViJTO5"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Like A Friend",
+      "url": "https://open.spotify.com/track/4z80Wk5401Bt5MA9MZU5NW"
     },
     {
       "album": {
@@ -7668,6 +7762,24 @@
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -8850,7 +8962,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/76dIZzTdrNO15mGBrU3MHi"
@@ -9222,7 +9334,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
@@ -9240,7 +9352,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 172028,
       "name": "Pali Pali",
       "url": "https://open.spotify.com/track/79jo2634sZNinlhUOZuqW6"
@@ -10487,6 +10599,28 @@
     },
     {
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "album": {
         "name": "SEXXXWRISKAPOTA",
         "url": "https://open.spotify.com/album/2Db2KkG8EP2NecUsi4Lp3i"
       },
@@ -10989,6 +11123,24 @@
     },
     {
       "album": {
+        "name": "Anoixi",
+        "url": "https://open.spotify.com/album/3cP5VHSY6qQxXvGtim76Mt"
+      },
+      "artists": [
+        {
+          "name": "Glykeria",
+          "url": "https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "St' Apogevmata T' Adeia - Tango",
+      "url": "https://open.spotify.com/track/4SP7N5GP8SrckDWzs1qOY4"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -11044,7 +11196,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -11084,6 +11236,28 @@
       "duration_ms": 75186,
       "name": "Steve's Lava Chicken - Extended Version",
       "url": "https://open.spotify.com/track/26c8pvUxWO1FhxbGM1k8fJ"
+    },
+    {
+      "album": {
+        "name": "The Purpose Vol.3",
+        "url": "https://open.spotify.com/album/6qRkbfd6K9PSrup1fU6wDG"
+      },
+      "artists": [
+        {
+          "name": "Dj Omonoia",
+          "url": "https://open.spotify.com/artist/29UQ4GkesjYSQw1mdD63HU"
+        },
+        {
+          "name": "\u0394\u03a0\u0398",
+          "url": "https://open.spotify.com/artist/6RrS30NZDP1XqAoIXoPXw8"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199125,
+      "name": "Sto Xabale - 2h Ekdoxi",
+      "url": "https://open.spotify.com/track/1KK42qFK955O8x34N8W9u7"
     },
     {
       "album": {
@@ -12648,7 +12822,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-24",
       "duration_ms": 244837,
       "name": "Trelos",
       "url": "https://open.spotify.com/track/1Ao9QXmacFq2T3mUmfbmj9"
@@ -13726,6 +13900,24 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
+    },
+    {
+      "album": {
+        "name": "Zitianos (Daima Stef X Version)",
+        "url": "https://open.spotify.com/album/2K1UMGlp4l1GI4yhGxIXQv"
+      },
+      "artists": [
+        {
+          "name": "Stef X",
+          "url": "https://open.spotify.com/artist/1NmILzXaEyOWn68UlbhEiM"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275490,
+      "name": "Zitianos - Daima Stef X Version",
+      "url": "https://open.spotify.com/track/1OjBlxRNs4HgHgEhcqhs9X"
     },
     {
       "album": {

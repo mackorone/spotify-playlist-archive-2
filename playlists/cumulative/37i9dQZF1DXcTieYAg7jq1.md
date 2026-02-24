@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-500 songs - 1 day 4 hr 28 min
+501 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-05 | 2026-02-07 |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-09-27 |  |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-28 | 2025-11-22 |
+| [prettyboy](https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [prettyboy](https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU) | 2:32 | 2026-02-23 |  |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2023-09-08 | 2026-01-15 |
 | [Promises](https://open.spotify.com/track/4mnro1IKkQNQ4QMHgW1Qkf) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:59 | 2022-04-08 | 2023-03-18 |
 | [Promises](https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 3:59 | 2022-04-08 | 2022-07-22 |
@@ -457,7 +458,7 @@
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 |  |
 | [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 | 2023-09-01 | 2025-01-04 |
 | [The Reason](https://open.spotify.com/track/2SMdyHYWF4YBLJ7olnlcC7) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [The Reason](https://open.spotify.com/album/5VjdVYkbB9hbUHdMgAAgj3) | 2:39 | 2025-01-17 |  |
-| [The Things She Loved](https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [The Things She Loved](https://open.spotify.com/album/4zwmA0qNheXDIvr9f5Lqxk) | 2:28 | 2023-10-27 |  |
+| [The Things She Loved](https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [The Things She Loved](https://open.spotify.com/album/4zwmA0qNheXDIvr9f5Lqxk) | 2:28 | 2023-10-27 | 2026-02-24 |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2021-12-03 | 2022-10-01 |
 | [Then There Was You](https://open.spotify.com/track/4OkgX6DWNd0peWM54Q6gFf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:12 | 2021-12-03 | 2022-07-20 |
 | [They Don't Come Better](https://open.spotify.com/track/2OshKfBMN3KFj7t7stkihZ) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [They Don't Come Better](https://open.spotify.com/album/2AhtPRZUB0Gox517fVb2cC) | 3:01 | 2024-02-02 |  |
